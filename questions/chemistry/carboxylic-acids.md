@@ -28,5 +28,5 @@ The correct sequence of acidic strength (decreasing) of $\text{CH}_3\text{CH}_2\
 
 **Answer: (3)** · key ✔
 
-**Solution.** Alkyl groups are electron-donating ($+I$): they destabilise the carboxylate and reduce acidity. The $+I$ effect grows with chain length, so $p K_a$: HCOOH $3.75$ < $\text{CH}_3\text{COOH}$ $4.76$ < $\text{CH}_3\text{CH}_2\text{COOH}$ $4.87$ < $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ $4.82$–$4.9$. Order of acidity: (3).
+**Solution.** Alkyl groups are electron-donating ($+I$): they destabilise the carboxylate and reduce acidity. The $+I$ effect grows with chain length, so $pK_a$: HCOOH $3.75$, $\text{CH}_3\text{COOH}$ $4.76$, $\text{CH}_3\text{CH}_2\text{COOH}$ $4.87$. The higher homologues have almost equal strength; the key follows the textbook order HCOOH > CH$_3$COOH > CH$_3$CH$_2$COOH > CH$_3$CH$_2$CH$_2$COOH, i.e. option (3).
 
