@@ -159,3 +159,13 @@ A wooden block of mass $5$ kg rests on a soft horizontal floor. When an iron cyl
 
 **Solution.** For the system ($m=30$ kg) moving down: $mg-N=ma\Rightarrow N=m(g-a)=30(9.8-0.1)=291$ N. By Newton's third law the force on the floor is $291$ N. (The key uses $g=9.8\ \text{m s}^{-2}$.)
 
+### P-LOM-17 — JEE Main 2024 · 5 Apr Shift 2 · Q1 · MCQ
+
+A particle moves in the $x$–$y$ plane under a force $\vec F$ such that its linear momentum is $\vec p(t)=\hat i\cos(kt)-\hat j\sin(kt)$, $k$ constant. The angle between $\vec F$ and $\vec p$ is:
+
+(1) $\dfrac\pi4$  (2) $\dfrac\pi6$  (3) $\dfrac\pi2$  (4) $\dfrac\pi3$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\vec F=\dfrac{d\vec p}{dt}=-k\left(\hat i\sin kt+\hat j\cos kt\right)$. $\vec F\cdot\vec p=-k(\sin kt\cos kt-\cos kt\sin kt)=0$, so the angle is $\pi/2$ (the momentum has constant magnitude, and only its direction rotates).
+

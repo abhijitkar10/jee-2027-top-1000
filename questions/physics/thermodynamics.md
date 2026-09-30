@@ -92,3 +92,13 @@ A sample of gas ($\mu=1$ mol, $\gamma=3/2$) at temperature $T$ is expanded adiab
 
 **Solution.** $TV^{\gamma-1}=$ const: $T_2=T\left(\tfrac12\right)^{1/2}=\dfrac T{\sqrt2}$. $W=\dfrac{R(T_1-T_2)}{\gamma-1}=2R\left(T-\dfrac T{\sqrt2}\right)=RT(2-\sqrt2)$.
 
+### P-THD-10 — JEE Main 2024 · 5 Apr Shift 2 · Q8 · MCQ
+
+During an adiabatic process the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio $C_P/C_V$ for the gas is:
+
+(1) $\dfrac53$  (2) $\dfrac97$  (3) $\dfrac32$  (4) $\dfrac75$
+
+**Answer: (3)** · key ✔
+
+**Solution.** For an adiabatic process $P^{1-\gamma}T^{\gamma}=$ const, i.e. $P\propto T^{\gamma/(\gamma-1)}$. Setting $\dfrac{\gamma}{\gamma-1}=3$ gives $\gamma=\dfrac32$.
+

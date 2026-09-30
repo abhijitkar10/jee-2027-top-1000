@@ -86,3 +86,11 @@ A rod of length $60$ cm rotates at $20\ \text{rad s}^{-1}$ about its perpendicul
 
 **Solution.** Each half of the rod gets the same motional emf $\tfrac12B\omega(L/2)^2$ with its high-potential end at the same side (the centre or the tip). Between the two ends the potentials are equal, so the p.d. is $0$.
 
+### P-EMI-11 — JEE Main 2024 · 5 Apr Shift 2 · Q28 · Numerical
+
+The current in an inductor is $I=(3t+8)$ A ($t$ in seconds). The magnitude of the induced emf is $12$ mV. The self-inductance is ______ mH.
+
+**Answer: 4** · key ✔
+
+**Solution.** $\varepsilon=L\dfrac{dI}{dt}=3L=12\times10^{-3}\Rightarrow L=4\times10^{-3}$ H $=4$ mH.
+

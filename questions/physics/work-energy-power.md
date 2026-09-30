@@ -82,3 +82,13 @@ A body of mass $50$ kg is lifted to a height of $20$ m from the ground in two wa
 
 **Solution.** Gravity is conservative, so the work done against it depends only on the vertical height gained, $mgh$, and not on the path. The ratio is $1:1$.
 
+### P-WEP-09 — JEE Main 2024 · 5 Apr Shift 2 · Q5 · MCQ
+
+A body moves unidirectionally under a constant power source. Its displacement in time $t$ is proportional to:
+
+(1) $t$  (2) $t^{3/2}$  (3) $t^2$  (4) $t^{2/3}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $P=Fv=mv\dfrac{dv}{dt}$ gives $\tfrac12mv^2=Pt$, so $v\propto t^{1/2}$. Then $x=\int v\,dt\propto t^{3/2}$.
+

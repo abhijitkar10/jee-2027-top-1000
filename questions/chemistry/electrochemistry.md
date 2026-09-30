@@ -248,3 +248,23 @@ Molar ionic conductivities of a divalent cation and anion are $57$ and $73\ \tex
 
 **Solution.** The cation and the anion are both divalent, so the electrolyte is of the type $\text{M}^{2+}\text{A}^{2-}$ (e.g. $\text{MgSO}_4$), formula unit $1:1$. By Kohlrausch's law $\Lambda_m=\lambda_++\lambda_-=57+73=130\ \text{S cm}^2\text{mol}^{-1}$.
 
+### C-ELC-27 — JEE Main 2024 · 5 Apr Shift 2 · Q41 · MCQ
+
+The quantity of silver deposited when one coulomb of charge is passed through $\text{AgNO}_3$ solution is:
+
+(1) 1 g of silver  (2) 1 electrochemical equivalent of silver  (3) 1 chemical equivalent of silver  (4) 0.1 g atom of silver
+
+**Answer: (2)** · key ✔
+
+**Solution.** By Faraday's first law $m=ZQ$, where $Z$ is the electrochemical equivalent, the mass deposited by $1$ C. So the answer is $1$ electrochemical equivalent ($Z_{Ag}=1.118\times10^{-3}$ g/C).
+
+### C-ELC-28 — JEE Main 2024 · 5 Apr Shift 2 · Q42 · MCQ
+
+For the electrochemical cell $\text{M}\,|\,\text{M}^{2+}\,\|\,\text{X}^{2-}\,|\,\text{X}$, $E^\circ_{\text{M}^{2+}/\text{M}}=0.46$ V and $E^\circ_{\text{X}/\text{X}^{2-}}=0.34$ V. Which is correct?
+
+(1) $\text{M}+\text{X}\to\text{M}^{2+}+\text{X}^{2-}$ is spontaneous  (2) $E_{cell}=0.80$ V  (3) $E_{cell}=-0.80$ V  (4) $\text{M}^{2+}+\text{X}^{2-}\to\text{M}+\text{X}$ is spontaneous
+
+**Answer: (4)** · key ✔
+
+**Solution.** For $\text{M}+\text{X}\to\text{M}^{2+}+\text{X}^{2-}$, X is reduced (cathode) and M is oxidised (anode): $E^\circ_{cell}=0.34-0.46=-0.12$ V $<0$, so the forward reaction is non-spontaneous and the reverse, $\text{M}^{2+}+\text{X}^{2-}\to\text{M}+\text{X}$, is spontaneous. (Options with $\pm0.80$ V come from adding the two potentials, which is wrong.)
+

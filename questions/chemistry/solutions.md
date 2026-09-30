@@ -100,3 +100,11 @@ An artificial cell is made by encapsulating $0.2$ M glucose solution within a se
 
 **Solution.** Outside: $0.05$ M NaCl gives $0.10$ M of particles. Inside: $0.2$ M glucose. Net osmotic concentration $=0.2-0.1=0.1$ M. $\pi=CRT=0.1\times0.083\times300=2.49\ \text{bar}\approx25\times10^{-1}$ bar.
 
+### C-SOL-12 — JEE Main 2024 · 5 Apr Shift 2 · Q55 · Numerical
+
+$5$ mL of acetic acid (density $1.2\ \text{g mL}^{-1}$) is dissolved in $1$ L of water ($1\ \text{g cm}^{-3}$). Acetic acid dissociates with $K_a=6.25\times10^{-5}$. The solution freezes at $-x\times10^{-2}\ ^\circ$C. $x=$ ______ (nearest integer). ($K_f=1.86\ \text{K kg mol}^{-1}$; molar mass $60$ g mol$^{-1}$)
+
+**Answer: 19** · key ✔
+
+**Solution.** Moles $=\dfrac{5\times1.2}{60}=0.1$ mol in $1$ kg water, $m=0.1$. $\alpha=\sqrt{K_a/C}=\sqrt{6.25\times10^{-4}}=0.025$. $i=1+\alpha=1.025$. $\Delta T_f=i\,K_fm=1.025\times1.86\times0.1=0.1907\ \text{K}$, so $x=19$.
+

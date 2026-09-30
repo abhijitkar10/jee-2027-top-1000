@@ -54,3 +54,11 @@ A tuning fork resonates with a sonometer wire of length $1$ m stretched with a t
 
 **Solution.** $f\propto\sqrt T$ for the same length: $\dfrac{f_2}{f_1}=\sqrt{\dfrac{54}6}=3$. The tuning fork matched the wire at $6$ N, so $f_1=f_{fork}$, and at $54$ N the beat frequency is $f_2-f_1=2f_1=12\Rightarrow f_1=6$ Hz.
 
+### P-WAV-07 — JEE Main 2024 · 5 Apr Shift 2 · Q24 · Numerical
+
+A sonometer wire of resonating length $90$ cm has a fundamental frequency of $400$ Hz under some tension. The resonating length for a fundamental frequency of $600$ Hz under the same tension is ______ cm.
+
+**Answer: 60** · key ✔
+
+**Solution.** $f=\dfrac{1}{2l}\sqrt{T/\mu}\Rightarrow f\propto\dfrac1l$ at fixed tension. $l'=90\times\dfrac{400}{600}=60$ cm.
+

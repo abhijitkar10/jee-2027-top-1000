@@ -135,3 +135,11 @@ A $2$ A current-carrying straight metal wire of resistance $1\ \Omega$, resistiv
 
 **Solution.** Length $l=\dfrac{RA}{\rho}=\dfrac{1\times10\times10^{-6}}{2\times10^{-6}}=5$ m. Balance: $BIl=mg\Rightarrow B=\dfrac{0.5\times10}{2\times5}=0.5$ T $=5\times10^{-1}$ T.
 
+### P-MAG-16 — JEE Main 2024 · 5 Apr Shift 2 · Q27 · Numerical
+
+A solenoid of length $0.5$ m and radius $1$ cm has $N$ turns and carries $5$ A. If the magnetic field inside is $6.28\times10^{-3}$ T, then $N=$ ______.
+
+**Answer: 500** · key ✔
+
+**Solution.** $B=\mu_0nI\Rightarrow n=\dfrac{6.28\times10^{-3}}{4\pi\times10^{-7}\times5}=1000\ \text{turns/m}$. $N=nl=1000\times0.5=500$.
+

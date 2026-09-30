@@ -191,3 +191,13 @@ The number of neutrons in the more abundant isotope of boron is $x$. Amorphous b
 
 **Solution.** The more abundant isotope is $^{11}_{5}\text{B}$ ($80\%$): neutrons $=11-5=6$. Boron burns in air to $\text{B}_2\text{O}_3$ (with some BN), where B is $+3$. $x+y=6+3=9$.
 
+### C-PBL-19 — JEE Main 2024 · 5 Apr Shift 2 · Q36 · MCQ
+
+Correct statements: (A) The decreasing order of atomic radii of group 13 elements is $\text{Tl}>\text{In}>\text{Ga}>\text{Al}>\text{B}$. (B) Down group 13, electronegativity decreases from top to bottom. (C) Al dissolves in dil. HCl and liberates $\text{H}_2$, but conc. $\text{HNO}_3$ renders Al passive by forming a protective oxide layer. (D) All elements of group 13 exhibit a highly stable $+1$ oxidation state. (E) The hybridisation of Al in $[\text{Al(H}_2\text{O)}_6]^{3+}$ is $sp^3d^2$.
+
+(1) (A), (C), (E) only  (2) (A), (C) only  (3) (C), (E) only  (4) (A), (B), (C), (E) only
+
+**Answer: (3)** · key ✔
+
+**Solution.** (A) is false: Ga ($135$ pm) is smaller than Al ($143$ pm). (B) is false: electronegativity is not monotonic (Al $1.5$, Ga $1.6$, In $1.7$, Tl $1.8$). (C) is true. (D) is false: $+1$ is stable only for Tl. (E) is true: an octahedral $[\text{Al(H}_2\text{O)}_6]^{3+}$ uses $sp^3d^2$. Answer: C and E.
+

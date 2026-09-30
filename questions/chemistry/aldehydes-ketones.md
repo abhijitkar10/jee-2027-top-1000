@@ -59,3 +59,11 @@ Vanillin (obtained from vanilla beans) has a total of oxygen atoms and $\pi$ ele
 
 **Solution.** Vanillin is $4$-hydroxy-$3$-methoxybenzaldehyde, $\text{C}_8\text{H}_8\text{O}_3$. Oxygen atoms: $3$. $\pi$ electrons: benzene ring $6$ + $\text{C=O}$ of $\text{CHO}$ $2$ $=8$. Total $=11$.
 
+### C-ALD-07 — JEE Main 2024 · 5 Apr Shift 2 · Q58 · Numerical
+
+In the Claisen–Schmidt reaction to prepare $351$ g of dibenzalacetone using $87$ g of acetone, the amount of benzaldehyde required is ______ g (nearest integer).
+
+**Answer: 318** · key ✔
+
+**Solution.** $\text{CH}_3\text{COCH}_3+2\,\text{C}_6\text{H}_5\text{CHO}\to(\text{C}_6\text{H}_5\text{CH=CH})_2\text{CO}+2\text{H}_2\text{O}$. Dibenzalacetone ($234$ g/mol): $351$ g $=1.5$ mol, which needs $1.5$ mol acetone ($87$ g ✓) and $3$ mol benzaldehyde $=3\times106=318$ g.
+

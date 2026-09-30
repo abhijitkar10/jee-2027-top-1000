@@ -94,3 +94,14 @@ Light emerges from a convex lens when a point source is kept at its focus. The s
 
 **Solution.** A source at the focus gives a parallel beam after refraction, and a parallel beam corresponds to a plane wavefront.
 
+### P-RAY-11 — JEE Main 2024 · 5 Apr Shift 2 · Q16 · MCQ
+
+Statement I: When white light passes through a prism, red light bends less than yellow and violet.
+Statement II: The refractive indices are different for different wavelengths in a dispersive medium.
+
+(1) I false, II true  (2) I true, II false  (3) Both true  (4) Both false
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\mu$ falls with wavelength (Cauchy): $\mu_{red}<\mu_{yellow}<\mu_{violet}$, so red deviates the least. II is the cause of dispersion. Both true.
+

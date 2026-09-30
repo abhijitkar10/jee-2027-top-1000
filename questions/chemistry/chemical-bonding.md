@@ -211,3 +211,21 @@ In the Lewis dot structure of $\text{NO}_2^-$, the total number of valence elect
 
 **Solution.** $[\text{O=N-O}]^-$: nitrogen has one lone pair ($2$ e$^-$), one N=O double bond ($4$ e$^-$) and one N–O single bond ($2$ e$^-$). Total $=8$ (octet complete).
 
+### C-BND-24 — JEE Main 2024 · 5 Apr Shift 2 · Q33 · MCQ
+
+Match List I with List II: (A) ICl, (B) $\text{ICl}_3$, (C) $\text{ClF}_5$, (D) $\text{IF}_7$; (I) T-shape, (II) pyramidal, (III) pentagonal bipyramidal, (IV) linear.
+
+(1) A-IV, B-I, C-II, D-III  (2) A-I, B-IV, C-III, D-II  (3) A-IV, B-III, C-II, D-I  (4) A-I, B-III, C-II, D-IV
+
+**Answer: (1)** · key ✔
+
+**Solution.** ICl is diatomic: linear. $\text{ICl}_3$ ($3$ bond + $2$ lone pairs, $sp^3d$): T-shaped. $\text{ClF}_5$ ($5+1$): square pyramidal. $\text{IF}_7$ ($sp^3d^3$): pentagonal bipyramidal.
+
+### C-BND-25 — JEE Main 2024 · 5 Apr Shift 2 · Q52 · Numerical
+
+The number of compounds with zero dipole moment among HF, $\text{H}_2$, $\text{H}_2\text{S}$, $\text{CO}_2$, $\text{NH}_3$, $\text{BF}_3$, $\text{CH}_4$, $\text{CHCl}_3$, $\text{SiF}_4$, $\text{H}_2\text{O}$, $\text{BeF}_2$ is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** Zero: $\text{H}_2$, $\text{CO}_2$ (linear), $\text{BF}_3$ (trigonal planar), $\text{CH}_4$, $\text{SiF}_4$ (tetrahedral) and $\text{BeF}_2$ (linear). Polar: HF, $\text{H}_2\text{S}$, $\text{NH}_3$, $\text{CHCl}_3$, $\text{H}_2\text{O}$. Count $=6$.
+

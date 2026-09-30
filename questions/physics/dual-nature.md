@@ -103,3 +103,13 @@ Reason R: The maximum kinetic energy of emitted electrons increases with the fre
 
 **Solution.** For a fixed intensity, the photon number per second is $I/(h\nu)$, which *decreases* as $\nu$ rises; A is false. R is Einstein's equation $K_{max}=h\nu-\phi$, which is true.
 
+### P-DUL-11 — JEE Main 2024 · 5 Apr Shift 2 · Q17 · MCQ
+
+Which statement is NOT true about the stopping potential $V_0$?
+
+(1) It is $1/e$ times the maximum kinetic energy of the emitted electrons  (2) It increases with an increase in the intensity of the incident light  (3) It depends on the nature of the emitter material  (4) It depends on the frequency of the incident light
+
+**Answer: (2)** · key ✔
+
+**Solution.** $eV_0=K_{max}=h\nu-\phi$, so $V_0$ depends on the frequency and the material (through $\phi$), not on the intensity. Intensity changes only the saturation current.
+

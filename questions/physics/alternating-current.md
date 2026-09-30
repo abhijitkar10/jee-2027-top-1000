@@ -144,3 +144,13 @@ A series LCR circuit has $L=1$ H, $R=300\ \Omega$, $C=20\ \mu\text{F}$, driven b
 
 **Solution.** $X_L=100\times1=100\ \Omega$, $X_C=\dfrac{1}{100\times20\times10^{-6}}=500\ \Omega$. $Z=\sqrt{300^2+400^2}=500\ \Omega$. $I_{rms}=\dfrac{50}{500}=0.1$ A, so $V_C=0.1\times500=50$ V.
 
+### P-ACC-16 — JEE Main 2024 · 5 Apr Shift 2 · Q14 · MCQ
+
+A series LCR circuit is subjected to an ac signal of $200$ V, $50$ Hz. If the voltage across the inductor ($L=10$ mH) is $31.4$ V, the current in this circuit is:
+
+(1) 68 A  (2) 63 A  (3) 10 A  (4) 10 mA
+
+**Answer: (3)** · key ✔
+
+**Solution.** $X_L=2\pi fL=2\pi(50)(0.01)=3.14\ \Omega$. $I=\dfrac{V_L}{X_L}=\dfrac{31.4}{3.14}=10$ A.
+

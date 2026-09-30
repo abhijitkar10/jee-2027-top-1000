@@ -114,3 +114,11 @@ For $2\text{A}+\text{B}\to\text{C}+\text{D}$ the data are: (I) $[\text{A}]=0.1$,
 
 **Solution.** Compare I and IV ($[\text{B}]$ fixed): $[\text{A}]$ ×4 gives rate ×4, so order in A is $1$. Compare II and III ($[\text{A}]$ fixed): $[\text{B}]$ ×2 gives rate ×4, so order in B is $2$. Overall order $=1+2=3$ (check: $k=\dfrac{6\times10^{-3}}{0.1\times0.01}=6$; experiment II: $6\times0.3\times0.04=0.072$ ✓).
 
+### C-KIN-14 — JEE Main 2024 · 5 Apr Shift 2 · Q56 · Numerical
+
+For the single-step gas-phase reaction $2\text{A}(g)+\text{B}(g)\to\text{C}(g)$, the initial rate is $r_1$ with $p_A=1.5$ atm and $p_B=0.7$ atm. After some time, the rate is $r_2$ when $p_C=0.5$ atm. $r_1:r_2=$ ______ $\times10^{-1}$.
+
+**Answer: 315** · key ✔
+
+**Solution.** Rate $=kp_A^2p_B$ (elementary). Initially $r_1=k(1.5)^2(0.7)=1.575k$. When $0.5$ atm of C forms, A used $=1.0$ atm and B used $=0.5$ atm: $p_A=0.5$, $p_B=0.2$, so $r_2=k(0.25)(0.2)=0.05k$. $r_1/r_2=31.5=315\times10^{-1}$.
+

@@ -122,3 +122,11 @@ In Young's double-slit experiment with light of wavelength $5000\ \text{Å}$, th
 
 **Solution.** $x_n=\dfrac{n\lambda D}{d}=\dfrac{3\times5\times10^{-7}\times2}{3\times10^{-4}}=10^{-2}$ m $=10$ mm.
 
+### P-WOP-14 — JEE Main 2024 · 5 Apr Shift 2 · Q29 · Numerical
+
+A parallel beam of green light of wavelength $550$ nm passes through a slit of width $0.20$ mm. The transmitted light is collected on a screen $100$ cm away. The distance of the first-order minimum from the central maximum is $x\times10^{-5}$ m. Then $x=$ ______.
+
+**Answer: 275** · key ✔
+
+**Solution.** First minimum: $a\sin\theta=\lambda$, $y=\dfrac{\lambda D}{a}=\dfrac{550\times10^{-9}\times1}{0.2\times10^{-3}}=2.75\times10^{-3}$ m $=275\times10^{-5}$ m.
+

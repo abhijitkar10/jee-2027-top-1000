@@ -194,3 +194,21 @@ Two wires A and B are made of the same material and have the same mass. Wire B h
 
 **Solution.** Same material and mass means the same volume: $l\propto1/r^2$. $R=\rho\dfrac lA\propto\dfrac{1}{r^4}$. $\dfrac{R_A}{R_B}=\left(\dfrac{4}{2}\right)^4=16\Rightarrow R_A=32\ \Omega$.
 
+### P-CUR-21 — JEE Main 2024 · 5 Apr Shift 2 · Q11 · MCQ
+
+A galvanometer of resistance $100\ \Omega$ connected in series with $400\ \Omega$ measures a voltage up to $10$ V. The resistance required to convert the galvanometer into an ammeter reading up to $10$ A is $x\times10^{-2}\ \Omega$. The value of $x$ is:
+
+(1) 2  (2) 800  (3) 20  (4) 200
+
+**Answer: (3)** · key ✔
+
+**Solution.** $I_g=\dfrac{10}{100+400}=0.02$ A. Shunt: $S=\dfrac{I_gG}{I-I_g}=\dfrac{0.02\times100}{9.98}\approx0.2\ \Omega=20\times10^{-2}\ \Omega$.
+
+### P-CUR-22 — JEE Main 2024 · 5 Apr Shift 2 · Q26 · Numerical
+
+A wire of resistance $20\ \Omega$ is divided into $10$ equal parts. Pairs of parts are connected in parallel, and the resulting parallel pairs are then connected in series. The equivalent resistance of the final combination is ______ $\Omega$.
+
+**Answer: 5** · key ✔
+
+**Solution.** Each part is $2\ \Omega$. Two in parallel give $1\ \Omega$; there are $5$ such pairs, in series: $5\ \Omega$.
+

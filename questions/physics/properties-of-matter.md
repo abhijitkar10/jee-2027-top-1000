@@ -200,3 +200,21 @@ The density and breaking stress of a wire are $6\times10^4\ \text{kg m}^{-3}$ an
 
 **Solution.** The stress at the top is $\rho L g'$, with $g'=10/3$. Setting it equal to the breaking stress: $L=\dfrac{1.2\times10^8}{6\times10^4\times10/3}=\dfrac{1.2\times10^8}{2\times10^5}=600$ m.
 
+### P-POM-23 — JEE Main 2024 · 5 Apr Shift 2 · Q7 · MCQ
+
+Match List I with List II: (A) the restoring force per unit area of an elastic body; (B) two equal and opposite forces parallel to opposite faces; (C) forces perpendicular everywhere to the surface, same per unit area everywhere; (D) two equal and opposite forces perpendicular to opposite faces. (I) bulk modulus; (II) Young's modulus; (III) stress; (IV) shear modulus.
+
+(1) A-IV, B-II, C-III, D-I  (2) A-III, B-IV, C-I, D-II  (3) A-II, B-IV, C-I, D-III  (4) A-III, B-I, C-II, D-IV
+
+**Answer: (2)** · key ✔
+
+**Solution.** Restoring force per unit area is stress (A–III). Tangential forces on opposite faces produce shear, so the modulus is the shear modulus (B–IV). Uniform normal pressure everywhere gives a volume change: bulk modulus (C–I). Equal and opposite normal forces on opposite faces stretch or compress the body: Young's modulus (D–II).
+
+### P-POM-24 — JEE Main 2024 · 5 Apr Shift 2 · Q23 · Numerical
+
+A hydraulic press containing water has two arms of diameters $1.4$ cm (thin) and $14$ cm (thick). A force of $10$ N is applied on the water surface in the thinner arm. The force needed on the surface of the thicker arm to maintain equilibrium is ______ N.
+
+**Answer: 1000** · key ✔
+
+**Solution.** Pascal's law: $\dfrac{F_1}{A_1}=\dfrac{F_2}{A_2}\Rightarrow F_2=F_1\left(\dfrac{D_2}{D_1}\right)^2=10\times100=1000$ N.
+

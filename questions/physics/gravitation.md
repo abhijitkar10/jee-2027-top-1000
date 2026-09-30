@@ -133,3 +133,13 @@ A simple pendulum doing small oscillations at a height $R$ above the earth's sur
 
 **Solution.** $T=2\pi\sqrt{l/g'}$ with $g'=GM/r^2$, so $T\propto r$ (distance from the centre). At height $R$: $r=2R$; at height $2R$: $r=3R$. $\dfrac{T_2}{T_1}=\dfrac32\Rightarrow3T_1=2T_2$ (so $T_2=6$ s).
 
+### P-GRV-14 — JEE Main 2024 · 5 Apr Shift 2 · Q6 · MCQ
+
+A satellite revolves around a planet in a stationary orbit with period $6$ hours. The mass of the planet is one-fourth the mass of the earth. The orbit radius is (radius of the geostationary orbit for earth $=4.2\times10^4$ km):
+
+(1) $1.4\times10^4$ km  (2) $1.05\times10^4$ km  (3) $8.4\times10^4$ km  (4) $1.68\times10^5$ km
+
+**Answer: (2)** · key ✔
+
+**Solution.** Kepler: $r^3\propto MT^2$. $\dfrac{r}{r_E}=\left(\dfrac{1}{4}\cdot\left(\dfrac{6}{24}\right)^2\right)^{1/3}=\left(\dfrac1{64}\right)^{1/3}=\dfrac14$. $r=\dfrac{4.2\times10^4}{4}=1.05\times10^4$ km.
+

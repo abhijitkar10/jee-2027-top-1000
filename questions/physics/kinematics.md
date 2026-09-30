@@ -156,3 +156,21 @@ A body starts from rest on a frictionless plane. If $S_{n-1}$ is the distance mo
 
 **Solution.** Uniform acceleration from rest: $S_n\propto(2n-1)$. $\dfrac{S_{n-1}}{S_n}=\dfrac{2n-3}{2n-1}=1-\dfrac{2}{2n-1}$. For $n=10$: $1-\dfrac2{19}$, so $x=19$.
 
+### P-KIN-18 — JEE Main 2024 · 5 Apr Shift 2 · Q3 · MCQ
+
+A man carrying a monkey on his shoulder cycles smoothly on a circular track of radius $9$ m and completes $120$ revolutions in $3$ minutes. The magnitude of the centripetal acceleration of the monkey is (in $\text{m/s}^2$):
+
+(1) $57600\pi^2$  (2) zero  (3) $4\pi^2$  (4) $16\pi^2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $f=\dfrac{120}{180}=\dfrac23$ Hz, $\omega=2\pi f=\dfrac{4\pi}{3}$ rad/s. $a=\omega^2R=\dfrac{16\pi^2}{9}\times9=16\pi^2\ \text{m s}^{-2}$.
+
+### P-KIN-19 — JEE Main 2024 · 5 Apr Shift 2 · Q21 · Numerical
+
+The maximum height reached by a projectile is $64$ m. If the initial velocity is halved, the new maximum height is ______ m.
+
+**Answer: 16** · key ✔
+
+**Solution.** $H=\dfrac{u^2\sin^2\theta}{2g}\propto u^2$. Halving $u$ divides $H$ by $4$: $64/4=16$ m.
+

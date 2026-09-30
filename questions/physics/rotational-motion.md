@@ -92,3 +92,11 @@ A solid sphere and a hollow cylinder roll up, without slipping, the same incline
 
 **Solution.** Energy: $\tfrac12mv^2\left(1+\dfrac{k^2}{R^2}\right)=mgh$, so $h=\dfrac{v^2}{2g}\left(1+\dfrac{k^2}{R^2}\right)$. Sphere: $1+\tfrac25=\tfrac75$; hollow cylinder: $1+1=2$. $\dfrac{h_1}{h_2}=\dfrac{7/5}{2}=\dfrac7{10}$, so $n=7$.
 
+### P-ROT-12 — JEE Main 2024 · 5 Apr Shift 2 · Q22 · Numerical
+
+A hollow sphere rolls on a plane surface about its axis of symmetry. The ratio of its rotational kinetic energy to its total kinetic energy is $\dfrac x5$. The value of $x$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** For a hollow sphere $I=\tfrac23MR^2$. $\dfrac{KE_{rot}}{KE_{tot}}=\dfrac{k^2/R^2}{1+k^2/R^2}=\dfrac{2/3}{5/3}=\dfrac25$. So $x=2$.
+

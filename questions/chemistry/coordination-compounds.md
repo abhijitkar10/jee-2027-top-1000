@@ -247,3 +247,23 @@ The correct order of ligands in increasing field strength is:
 
 **Solution.** Spectrochemical series: $\text{I}^-<\text{Br}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) is in the right order.
 
+### C-COO-25 — JEE Main 2024 · 5 Apr Shift 2 · Q45 · MCQ
+
+The number of complexes among $\text{TiCl}_4$, $[\text{MnO}_4]^-$, $[\text{FeO}_4]^{2-}$, $[\text{FeCl}_4]^-$, $[\text{CoCl}_4]^{2-}$ with no electrons in the $t_2$ orbitals is:
+
+(1) 1  (2) 4  (3) 3  (4) 2
+
+**Answer: (3)** · key ✔
+
+**Solution.** In a tetrahedral field the $e$ set lies below $t_2$. $\text{TiCl}_4$ ($\text{Ti}^{4+}$, $d^0$) and $[\text{MnO}_4]^-$ ($\text{Mn}^{7+}$, $d^0$): none. $[\text{FeO}_4]^{2-}$ ($\text{Fe}^{6+}$, $d^2$): $e^2t_2^0$. $[\text{FeCl}_4]^-$ ($d^5$, high spin): $e^2t_2^3$, and $[\text{CoCl}_4]^{2-}$ ($d^7$): $e^4t_2^3$ both have $t_2$ electrons. Count $=3$.
+
+### C-COO-26 — JEE Main 2024 · 5 Apr Shift 2 · Q46 · MCQ
+
+The metal atom in a complex $\text{MABXL}$ (A, B, X, L unidentate) uses $sp^3$ hybridisation. The number of geometrical isomers is:
+
+(1) 2  (2) 0  (3) 4  (4) 3
+
+**Answer: (2)** · key ✔
+
+**Solution.** $sp^3$ means a tetrahedral complex. A tetrahedral $\text{MABXL}$ (four different ligands) shows no geometrical isomerism, since all four positions are equivalent by rotation; it exhibits optical isomerism instead. So $0$.
+

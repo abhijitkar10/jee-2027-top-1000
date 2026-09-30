@@ -207,3 +207,21 @@ The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$
 
 **Solution.** $\text{Ti}^{2+}$, $\text{V}^{2+}$ and $\text{Cr}^{2+}$ are reducing agents. $\text{Co}^{3+}$ is a very strong oxidising agent ($E^\circ_{\text{Co}^{3+}/\text{Co}^{2+}}=+1.97$ V). Taking it as $d^6$ with $4$ unpaired electrons: $\mu=\sqrt{4\times6}=4.9\approx5$ BM.
 
+### C-DFB-21 — JEE Main 2024 · 5 Apr Shift 2 · Q43 · MCQ
+
+The number of ions among $\text{Ti}^{2+}$, $\text{Cr}^{2+}$ and $\text{V}^{2+}$ that can liberate hydrogen from a dilute acid is:
+
+(1) 2  (2) 3  (3) 1  (4) 0
+
+**Answer: (2)** · key ✔
+
+**Solution.** An ion can reduce $\text{H}^+$ if its oxidation half-reaction is more favourable than $E^\circ=0$ for $\text{H}^+/\text{H}_2$. $E^\circ_{\text{Ti}^{3+}/\text{Ti}^{2+}}=-0.37$ V, $E^\circ_{\text{V}^{3+}/\text{V}^{2+}}=-0.26$ V, $E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V; all are negative, so all three ions liberate $\text{H}_2$. Count $=3$.
+
+### C-DFB-22 — JEE Main 2024 · 5 Apr Shift 2 · Q57 · Numerical
+
+Fusion of chromite ore with sodium carbonate in the presence of air gives products A and B along with $\text{CO}_2$. The sum of the spin-only magnetic moments of A and B is ______ BM (nearest integer). ($Z$: Fe $26$, Cr $24$)
+
+**Answer: 6** · key ✔
+
+**Solution.** $4\text{FeCr}_2\text{O}_4+8\text{Na}_2\text{CO}_3+7\text{O}_2\to2\text{Fe}_2\text{O}_3+8\text{Na}_2\text{CrO}_4+8\text{CO}_2$. $\text{Fe}_2\text{O}_3$: $\text{Fe}^{3+}$ ($d^5$), $\mu=\sqrt{35}=5.92$ BM. $\text{Na}_2\text{CrO}_4$: $\text{Cr}^{6+}$ ($d^0$), $\mu=0$. Sum $\approx6$ BM.
+

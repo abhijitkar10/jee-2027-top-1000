@@ -171,3 +171,14 @@ Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text
 
 **Solution.** Each has $10$ electrons (A true) but nuclear charges $8,9,11,12$ (B false). For an isoelectronic series, radius falls as $Z$ rises: $\text{O}^{2-}>\text{F}^->\text{Na}^+>\text{Mg}^{2+}$, so C and D are true.
 
+### C-PER-18 — JEE Main 2024 · 5 Apr Shift 2 · Q32 · MCQ
+
+Statement I: The metallic radius of Na is $1.86\ \text{Å}$ and the ionic radius of $\text{Na}^+$ is smaller than $1.86\ \text{Å}$.
+Statement II: Ions are always smaller in size than the corresponding elements.
+
+(1) Both false  (2) I incorrect, II true  (3) Both true  (4) I correct, II false
+
+**Answer: (4)** · key ✔
+
+**Solution.** A cation is smaller than its atom ($\text{Na}^+$ is $1.02\ \text{Å}$) because it loses the outer shell, so I is true. An anion is larger than its atom ($\text{Cl}^-$ $1.81$ vs Cl $0.99\ \text{Å}$), so II is false.
+

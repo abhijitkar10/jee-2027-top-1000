@@ -97,3 +97,11 @@ The heat of combustion of solid benzoic acid at constant volume is $-321.30$ kJ 
 
 **Solution.** $\text{C}_6\text{H}_5\text{COOH}(s)+\tfrac{15}{2}\text{O}_2(g)\to7\text{CO}_2(g)+3\text{H}_2\text{O}(l)$: $\Delta n_g=7-7.5=-\tfrac12$. $\Delta H=\Delta U+\Delta n_gRT=-321.30-\tfrac12R(300)=-321.30-150R$. So $x=150$.
 
+### C-CTH-12 — JEE Main 2024 · 5 Apr Shift 2 · Q53 · Numerical
+
+For $\text{C}_6\text{H}_6(l)+\tfrac{15}2\text{O}_2(g)\to6\text{CO}_2(g)+3\text{H}_2\text{O}(l)$, the standard enthalpy of combustion of $2$ mol of benzene is $-x$ kJ. $x=$ ______. (Given $\Delta_fH^\circ$: $\text{C}_6\text{H}_6(l)=+48.5$; $\text{CO}_2=-393.5$; $\text{H}_2\text{O}(l)=-286$ kJ mol$^{-1}$)
+
+**Answer: 6535** · key ✔
+
+**Solution.** $\Delta_cH^\circ=6(-393.5)+3(-286)-48.5=-2361-858-48.5=-3267.5$ kJ per mole of benzene. For $2$ mol: $-6535$ kJ, so $x=6535$.
+

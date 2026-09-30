@@ -93,3 +93,11 @@ Given $R_H=2.18\times10^{-18}$ J and electron mass $9.1\times10^{-31}$ kg, the v
 
 **Solution.** The ground-state energy is $-R_H$ and $KE=\tfrac12mv^2=R_H$. $v=\sqrt{\dfrac{2\times2.18\times10^{-18}}{9.1\times10^{-31}}}=\sqrt{4.79\times10^{12}}=2.19\times10^6=21.9\times10^5\approx22\times10^5\ \text{m s}^{-1}$.
 
+### C-ATS-11 — JEE Main 2024 · 5 Apr Shift 2 · Q51 · Numerical
+
+The total number of electrons in an atom with $n=4$, $|m_l|=1$ and $m_s=-\tfrac12$ is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** For $n=4$, $|m_l|=1$ is possible for $l\ge1$: $p$ ($m_l=\pm1$: $2$ orbitals), $d$ ($2$), $f$ ($2$). Each orbital holds one electron with $m_s=-\tfrac12$: $2+2+2=6$.
+

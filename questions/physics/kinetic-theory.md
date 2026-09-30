@@ -102,3 +102,13 @@ If the collision frequency of hydrogen molecules in a closed chamber at $27^\cir
 
 **Solution.** In a closed chamber the number density is fixed, so the collision frequency $\propto\bar v\propto\sqrt T$. $\dfrac{Z'}{Z}=\sqrt{\dfrac{400}{300}}=\dfrac{2}{\sqrt3}$.
 
+### P-KTG-11 — JEE Main 2024 · 5 Apr Shift 2 · Q9 · MCQ
+
+If $n$ is the number density and $d$ the diameter of the molecule, the mean free path is:
+
+(1) $\sqrt2n\pi d^2$  (2) $\dfrac1{\sqrt{2n\pi d^2}}$  (3) $\dfrac1{\sqrt2n\pi d^2}$  (4) $\dfrac1{\sqrt2n^2\pi^2d^2}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\lambda=\dfrac{1}{\sqrt2\,n\pi d^2}$ (the factor $\sqrt2$ comes from the relative motion of the molecules).
+

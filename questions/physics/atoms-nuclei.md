@@ -221,3 +221,21 @@ Three helium nuclei combine to form a carbon nucleus. The energy released is ___
 
 **Solution.** $\Delta m=3(4.002603)-12.000000=0.007809$ u (using atomic masses, the electron masses cancel). $E=0.007809\times931=7.27$ MeV $=727\times10^{-2}$ MeV.
 
+### P-ATN-25 — JEE Main 2024 · 5 Apr Shift 2 · Q18 · MCQ
+
+The angular momentum of an electron in a hydrogen atom is proportional to (where $r$ is the radius of the orbit):
+
+(1) $r$  (2) $\sqrt r$  (3) $\dfrac1{\sqrt r}$  (4) $\dfrac1r$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $L=\dfrac{nh}{2\pi}$ and $r_n\propto n^2\Rightarrow L\propto n\propto\sqrt r$.
+
+### P-ATN-26 — JEE Main 2024 · 5 Apr Shift 2 · Q30 · Numerical
+
+The shortest wavelength of the Lyman series of hydrogen is $915\ \text{Å}$. The longest wavelength of the Balmer series is ______ Å.
+
+**Answer: 6588** · key ✔
+
+**Solution.** The Lyman limit gives $\dfrac1{915}=R\left(1-0\right)$, so $R=\dfrac1{915}\ \text{Å}^{-1}$. Longest Balmer ($3\to2$): $\dfrac1\lambda=R\left(\dfrac14-\dfrac19\right)=\dfrac{5R}{36}\Rightarrow\lambda=\dfrac{36\times915}{5}=6588$ Å.
+

@@ -114,3 +114,13 @@ The incorrect postulates of Dalton's atomic theory are: (A) Atoms of different e
 
 **Solution.** Dalton's actual postulates: atoms are *indivisible* (so B is wrong) and all atoms of an element are *identical* in mass and properties (so D is wrong). A, C and E are true statements of the theory.
 
+### C-MOL-14 — JEE Main 2024 · 5 Apr Shift 2 · Q31 · MCQ
+
+The number of moles of methane required to produce $11$ g of $\text{CO}_2(g)$ after complete combustion is (molar mass of methane $=16$ g mol$^{-1}$):
+
+(1) 0.35  (2) 0.5  (3) 0.75  (4) 0.25
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{CH}_4+2\text{O}_2\to\text{CO}_2+2\text{H}_2\text{O}$. $11$ g $\text{CO}_2=\dfrac{11}{44}=0.25$ mol, so $0.25$ mol of methane is needed (1:1).
+

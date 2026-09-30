@@ -121,3 +121,13 @@ Which of the following gives a positive test with ninhydrin?
 
 **Solution.** Ninhydrin gives a purple (Ruhemann's purple) colour with free $\alpha$-amino acids, peptides and proteins. Egg albumin is a protein; starch and cellulose are polysaccharides and PVC is a synthetic polymer.
 
+### C-BIO-13 — JEE Main 2024 · 5 Apr Shift 2 · Q50 · MCQ
+
+Coagulation of egg on heating is because of:
+
+(1) the secondary structure of the protein remains unchanged  (2) denaturation of the protein occurs  (3) the biological property of the protein remains unchanged  (4) breaking of the peptide linkage in the primary structure occurs
+
+**Answer: (2)** · key ✔
+
+**Solution.** Heat breaks the hydrogen bonds and other weak interactions that hold the secondary and tertiary structure, so the globular albumin unfolds and aggregates (denaturation). The primary structure (peptide bonds) is not broken.
+
