@@ -1,0 +1,24 @@
+# 3D Geometry
+
+> Theory: [../../theory/maths/three-d-geometry.md](../../theory/maths/three-d-geometry.md)
+
+### M-TDG-01 — JEE Main 2024 · 27 Jan Shift 1 · Q79 · MCQ
+
+The distance of the point $(7,-2,11)$ from the line $\dfrac{x-6}1=\dfrac{y-4}0=\dfrac{z-8}3$, measured along the line $\dfrac{x-5}2=\dfrac{y-1}{-3}=\dfrac{z-5}6$, is
+
+(1) 12  (2) 14  (3) 18  (4) 21
+
+**Answer: (2)** · key ✔
+
+**Solution.** From the point, move along $(2,-3,6)$: $(7+2t,\,-2-3t,\,11+6t)$. It meets the first line when $y=4\Rightarrow t=-2$, giving $(3,4,-1)$, which satisfies $\tfrac{x-6}1=-3=\tfrac{z-8}3$. Distance $=|t|\,\|(2,-3,6)\|=2\cdot7=14$.
+
+### M-TDG-02 — JEE Main 2024 · 27 Jan Shift 1 · Q80 · MCQ
+
+If the shortest distance between the lines $\dfrac{x-4}1=\dfrac{y+1}2=\dfrac z{-3}$ and $\dfrac{x-\lambda}2=\dfrac{y+1}4=\dfrac{z-2}{-5}$ is $\dfrac6{\sqrt5}$, then the sum of all possible values of $\lambda$ is
+
+(1) 5  (2) 8  (3) 7  (4) 10
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\vec d_1\times\vec d_2=(1,2,-3)\times(2,4,-5)=(2,-1,0)$ with magnitude $\sqrt5$. The join of the given points is $(\lambda-4,0,2)$, and $\left|(\lambda-4,0,2)\cdot(2,-1,0)\right|=2|\lambda-4|$. So $\dfrac{2|\lambda-4|}{\sqrt5}=\dfrac6{\sqrt5}\Rightarrow\lambda=1$ or $7$; the sum is $8$.
+

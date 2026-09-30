@@ -1,0 +1,15 @@
+# Ionic Equilibrium
+
+> Theory: [../../theory/chemistry/ionic-equilibrium.md](../../theory/chemistry/ionic-equilibrium.md)
+
+### C-ION-01 — JEE Main 2024 · 27 Jan Shift 1 · Q35 · MCQ
+
+Statement I: An aqueous solution of ammonium carbonate is basic.
+Statement II: The acidic/basic nature of the salt of a weak acid and a weak base depends on the $K_a$ and $K_b$ values of the acid and the base forming it.
+
+(1) Both statements are correct  (2) I correct, II incorrect  (3) Both incorrect  (4) I incorrect, II correct
+
+**Answer: (1)** · key ✔
+
+**Solution.** For a weak-acid/weak-base salt, $\text{pH}=7+\tfrac12(\text{p}K_a-\text{p}K_b)$, so II is true. In $(\text{NH}_4)_2\text{CO}_3$, $K_b(\text{NH}_3)\approx1.8\times10^{-5}$ exceeds $K_a(\text{HCO}_3^-)\approx4.7\times10^{-11}$ (the acid conjugate to $\text{CO}_3^{2-}$), so carbonate hydrolyses more and the solution is basic. I is true.
+
