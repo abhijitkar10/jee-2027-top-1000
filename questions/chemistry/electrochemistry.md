@@ -18,3 +18,26 @@ From the given list, the number of compounds in which sulphur has oxidation stat
 
 **Solution.** $\text{H}_2\text{SO}_3$: $+4$; $\text{SOCl}_2$: $+4$; $\text{SF}_4$: $+4$. $\text{SO}_3$, $\text{BaSO}_4$ and $\text{H}_2\text{S}_2\text{O}_7$ have S in $+6$. Count $=3$.
 
+### C-ELC-03 — JEE Main 2024 · 27 Jan Shift 2 · Q31 · MCQ
+
+Which of the following cannot function as an oxidising agent?
+
+(1) $\text{N}^{3-}$  (2) $\text{SO}_4^{2-}$  (3) $\text{BrO}_3^-$  (4) $\text{MnO}_4^-$
+
+**Answer: (1)** · key ✔
+
+**Solution.** An oxidising agent must be reducible. $\text{N}^{3-}$ has nitrogen in its lowest oxidation state ($-3$) and can only be oxidised. In $\text{SO}_4^{2-}$ (S: $+6$), $\text{BrO}_3^-$ (Br: $+5$) and $\text{MnO}_4^-$ (Mn: $+7$) the central atom can be reduced.
+
+### C-ELC-04 — JEE Main 2024 · 27 Jan Shift 2 · Q39 · MCQ
+
+Which of the following statements is **not** correct about rusting of iron?
+
+(1) Coating of the iron surface by tin prevents rusting even if the tin coating is peeling off.
+(2) When pH lies above 9 or 10, rusting of iron does not take place.
+(3) Dissolved acidic oxides $\text{SO}_2,\text{NO}_2$ in water act as catalyst in rusting.
+(4) Rusting of iron is envisaged as setting up of an electrochemical cell on the surface of the iron object.
+
+**Answer: (1)** · key ✔
+
+**Solution.** Tin is less reactive than iron ($E^\circ_{\text{Sn}^{2+}/\text{Sn}}=-0.14$ V vs $-0.44$ V for Fe). Once the tin coating is broken, iron becomes the anode and rusts faster. Statements (2)–(4) are correct: rusting needs acidic/neutral moisture, acidic oxides speed it up, and it is an electrochemical process.
+

@@ -10,3 +10,16 @@ Among the following, the total number of meta-directing functional groups is: $-
 
 **Solution.** Electron-withdrawing groups by $-M$ deactivate the ring and direct meta: $-\text{NO}_2$, $-\text{CN}$, $-\text{COR}$, $-\text{COOH}$. The others ($-\text{OCH}_3$, $-\text{CH}_3$, $-\text{NHCOCH}_3$, $-\text{OH}$, $-\text{Cl}$) are ortho/para directing.
 
+### C-GOC-02 — JEE Main 2024 · 27 Jan Shift 2 · Q35 · MCQ
+
+The incorrect statement regarding conformations of ethane is
+
+(1) Ethane has an infinite number of conformations
+(2) The dihedral angle in the staggered conformation is $60^\circ$
+(3) The eclipsed conformation is the most stable conformation
+(4) The conformations of ethane are interconvertible
+
+**Answer: (3)** · key ✔
+
+**Solution.** Free rotation about C–C gives infinitely many conformations that interconvert easily (barrier $\approx12$ kJ/mol). The staggered form has a $60^\circ$ dihedral angle and is the most stable because torsional strain is minimal. The eclipsed form is the least stable, so (3) is incorrect.
+

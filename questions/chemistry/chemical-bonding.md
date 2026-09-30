@@ -20,3 +20,11 @@ The sum of the bond orders of $\text{CO}$ and $\text{NO}^+$ is ______.
 
 **Solution.** Both are 10-valence-electron species isoelectronic with $\text{N}_2$: $\text{B.O.}=\tfrac{10-4}{2}=3$ each (MO configuration $\sigma2s^2\sigma^*2s^2\pi2p^4\sigma2p^2$). Sum $=6$.
 
+### C-BND-03 — JEE Main 2024 · 27 Jan Shift 2 · Q55 · Numerical
+
+The number of non-polar molecules among $\text{HF, H}_2\text{O, SO}_2,\text{H}_2,\text{CO}_2,\text{CH}_4,\text{NH}_3,\text{HCl},\text{CHCl}_3,\text{BF}_3$ is ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Symmetric molecules with zero dipole: $\text{H}_2$ (homonuclear), $\text{CO}_2$ (linear), $\text{CH}_4$ (tetrahedral) and $\text{BF}_3$ (trigonal planar). HF, HCl, $\text{H}_2\text{O}$, $\text{SO}_2$, $\text{NH}_3$ and $\text{CHCl}_3$ are polar.
+

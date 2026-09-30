@@ -22,3 +22,23 @@ Let $f(x)=\begin{cases}\dfrac{a\,(7x-12-x^2)}{b\,|x^2-7x+12|}, & x<3\\[2mm] 2\,\
 
 **Solution.** For $x<3$ near 3: $x^2-7x+12=(x-3)(x-4)>0$, so $|\cdot|=(x-3)(x-4)$, while $7x-12-x^2=-(x-3)(x-4)$. Hence LHL $=-a/b$. For $x>3$ near 3: $[x]=3$, so RHL $=\lim 2\dfrac{\sin(x-3)}{x-3}=2$. Continuity: $-a/b=2=b$, so $b=2,\ a=-4$. Exactly one pair.
 
+### M-LCD-03 — JEE Main 2024 · 27 Jan Shift 2 · Q68 · MCQ
+
+If $\displaystyle\lim_{x\to0}\frac{3+\alpha\sin x+\beta\cos x+\ln(1-x)}{3\tan^2x}=\frac13$, then $2\alpha-\beta$ is equal to
+
+(1) 2  (2) 7  (3) 5  (4) 1
+
+**Answer: (3)** · key ✔
+
+**Solution.** The denominator $\to0$, so the numerator must vanish at $0$: $3+\beta=0\Rightarrow\beta=-3$. Expanding: $\alpha x-3\left(1-\tfrac{x^2}2\right)+3-x-\tfrac{x^2}2+\dots=(\alpha-1)x+x^2+\dots$. The limit is finite only if $\alpha=1$, and then it equals $\dfrac{x^2}{3x^2}=\dfrac13$ as required. So $2\alpha-\beta=2+3=5$.
+
+### M-LCD-04 — JEE Main 2024 · 27 Jan Shift 2 · Q72 · MCQ
+
+Consider $f:(0,2)\to\mathbb R$, $f(x)=\dfrac x2+\dfrac2x$, and $g(x)=\begin{cases}\min\{f(t):0<t\le x\}, & 0<x\le1\\[1mm]\tfrac32+x, & 1<x<2\end{cases}$. Then
+
+(1) $g$ is continuous but not differentiable at $x=1$  (2) $g$ is not continuous for all $x\in(0,2)$  (3) $g$ is neither continuous nor differentiable at $x=1$  (4) $g$ is continuous and differentiable for all $x\in(0,2)$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $f'(x)=\tfrac12-\tfrac2{x^2}<0$ on $(0,2)$, so $f$ is decreasing and $\min_{0<t\le x}f(t)=f(x)$. Thus $g(x)=\tfrac x2+\tfrac2x$ on $(0,1]$ with $g(1)=\tfrac52$, and $g(1^+)=\tfrac32+1=\tfrac52$: continuous. Left derivative $\tfrac12-2=-\tfrac32$, right derivative $1$: unequal, so not differentiable at $x=1$.
+

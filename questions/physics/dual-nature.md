@@ -12,3 +12,13 @@ A convex lens of focal length $40$ cm forms an image of an extended source of li
 
 **Solution.** Photocurrent (at fixed frequency) is proportional to the number of photons reaching the cell per second. Both lenses have the same aperture, so they gather the same light power from the source, and in both cases the whole image falls on the cell. Only the image size changes, so the current stays $I$.
 
+### P-DUL-02 — JEE Main 2024 · 27 Jan Shift 2 · Q17 · MCQ
+
+The threshold frequency of a metal with work function $6.63$ eV is
+
+(1) $16\times10^{15}$ Hz  (2) $16\times10^{12}$ Hz  (3) $1.6\times10^{12}$ Hz  (4) $1.6\times10^{15}$ Hz
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\nu_0=\dfrac\phi h=\dfrac{6.63\times1.6\times10^{-19}}{6.63\times10^{-34}}=1.6\times10^{15}$ Hz.
+

@@ -22,3 +22,13 @@ The length of the chord of the ellipse $\dfrac{x^2}{25}+\dfrac{y^2}{16}=1$ whose
 
 **Solution.** Chord with given midpoint: $T=S_1\Rightarrow\dfrac x{25}+\dfrac{y}{40}=\dfrac1{25}+\dfrac1{100}\Rightarrow8x+5y=10$. Substituting $y=2-\tfrac{8x}5$ gives $4x^2-8x-15=0$, so $|x_1-x_2|=\dfrac{\sqrt{64+240}}4=\dfrac{\sqrt{304}}4$. The slope is $-\tfrac85$, so the length is $|x_1-x_2|\sqrt{1+\tfrac{64}{25}}=\dfrac{\sqrt{304}}4\cdot\dfrac{\sqrt{89}}5=\dfrac{\sqrt{1691}}5$.
 
+### M-CON-03 — JEE Main 2024 · 27 Jan Shift 2 · Q67 · MCQ
+
+Let $e_1$ be the eccentricity of the hyperbola $\dfrac{x^2}{16}-\dfrac{y^2}9=1$ and $e_2$ the eccentricity of the ellipse $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1$ ($a>b$) that passes through the foci of the hyperbola. If $e_1e_2=1$, the length of the chord of the ellipse parallel to the $x$-axis and passing through $(0,2)$ is
+
+(1) $4\sqrt5$  (2) $\dfrac{8\sqrt5}3$  (3) $\dfrac{10\sqrt5}3$  (4) $3\sqrt5$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $e_1=\sqrt{1+\tfrac9{16}}=\tfrac54$, so $e_2=\tfrac45$. The foci of the hyperbola are $(\pm5,0)$, so the ellipse has $a=5$ and $b^2=25(1-\tfrac{16}{25})=9$. At $y=2$: $\dfrac{x^2}{25}=1-\dfrac49=\dfrac59\Rightarrow x=\pm\dfrac{5\sqrt5}3$. Chord length $=\dfrac{10\sqrt5}3$.
+

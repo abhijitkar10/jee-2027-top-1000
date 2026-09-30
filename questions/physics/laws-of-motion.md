@@ -12,3 +12,24 @@ A train moves at $12\ \text{m s}^{-1}$ on rails $1.5$ m apart. To negotiate a cu
 
 **Solution.** Banking without side thrust: $\tan\theta=\dfrac{v^2}{rg}=\dfrac{144}{400\times10}=0.036$. For small $\theta$, $h=l\tan\theta=1.5\times0.036=0.054$ m $=5.4$ cm.
 
+### P-LOM-02 — JEE Main 2024 · 27 Jan Shift 2 · Q3 · MCQ
+
+Statement I: The limiting force of static friction depends on the area of contact and is independent of the materials.
+Statement II: The limiting force of kinetic friction is independent of the area of contact and depends on the materials.
+
+(1) I correct, II incorrect  (2) I incorrect, II correct  (3) Both incorrect  (4) Both correct
+
+**Answer: (2)** · key ✔
+
+**Solution.** Limiting static friction $f_s=\mu_sN$ depends on the pair of materials (through $\mu_s$) and the normal force, not on the apparent contact area, so I is wrong. Kinetic friction $f_k=\mu_kN$ is likewise area-independent and material-dependent, so II is right.
+
+### P-LOM-03 — JEE Main 2024 · 27 Jan Shift 2 · Q4 · MCQ
+
+A ball suspended by a thread swings in a vertical plane so that the magnitudes of its acceleration at the extreme position and at the lowest position are equal. The angle $\theta$ of thread deflection at the extreme position is
+
+(1) $\tan^{-1}\sqrt2$  (2) $2\tan^{-1}\dfrac12$  (3) $\tan^{-1}\dfrac12$  (4) $2\tan^{-1}\dfrac1{\sqrt5}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** At the extreme the speed is zero, so only tangential acceleration acts: $a=g\sin\theta$. At the lowest point the acceleration is centripetal: $a=\dfrac{v^2}{L}=2g(1-\cos\theta)$. Equating: $2\sin\frac\theta2\cos\frac\theta2=4\sin^2\frac\theta2\Rightarrow\tan\frac\theta2=\frac12$, so $\theta=2\tan^{-1}\frac12$.
+

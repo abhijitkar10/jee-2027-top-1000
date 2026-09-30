@@ -18,3 +18,13 @@ Let $f:(0,\infty)\to\mathbb R$ satisfy $f(x)-f(y)\ge\ln\dfrac xy+x-y$ for all $x
 
 **Solution.** Let $g(x)=f(x)-\ln x-x$. The condition says $g(x)\ge g(y)$ for all $x,y$; swapping roles forces $g$ constant, so $f'(x)=\dfrac1x+1$. Then $f'(1/n^2)=n^2+1$ and $\sum_{n=1}^{20}(n^2+1)=2870+20=2890$.
 
+### M-AOD-03 — JEE Main 2024 · 27 Jan Shift 2 · Q73 · MCQ
+
+Let $g(x)=3f\!\left(\dfrac x3\right)+f(3-x)$ with $f''(x)>0$ for all $x\in(0,3)$. If $g$ is decreasing in $(0,\alpha)$ and increasing in $(\alpha,3)$, then $8\alpha$ is
+
+(1) 24  (2) 0  (3) 18  (4) 20
+
+**Answer: (3)** · key ✔
+
+**Solution.** $g'(x)=f'\!\left(\tfrac x3\right)-f'(3-x)$. Since $f''>0$, $f'$ is strictly increasing, so $g'(x)=0\iff\tfrac x3=3-x\iff x=\tfrac94$, with $g'<0$ before and $g'>0$ after. So $\alpha=\tfrac94$ and $8\alpha=18$.
+

@@ -22,3 +22,23 @@ The function $f:\mathbb N-\{1\}\to\mathbb N$, $f(n)=$ the highest prime factor o
 
 **Solution.** Not one-one: $f(2)=f(4)=2$. Not onto: $1\in\mathbb N$ but every $n\ge2$ has a highest prime factor $\ge2$, so $1$ is never attained.
 
+### M-SRF-03 — JEE Main 2024 · 27 Jan Shift 2 · Q65 · MCQ
+
+Let $A$ and $B$ be finite sets with $m$ and $n$ elements. The number of subsets of $A$ is $56$ more than the number of subsets of $B$. The distance of $P(m,n)$ from $Q(-2,-3)$ is
+
+(1) 10  (2) 6  (3) 4  (4) 8
+
+**Answer: (1)** · key ✔
+
+**Solution.** $2^m-2^n=56\Rightarrow2^n(2^{m-n}-1)=8\cdot7$. The odd factor forces $2^n=8$, $2^{m-n}-1=7$, so $n=3,\ m=6$. $PQ=\sqrt{(6+2)^2+(3+3)^2}=10$.
+
+### M-SRF-04 — JEE Main 2024 · 27 Jan Shift 2 · Q71 · MCQ
+
+Let $f:\mathbb R-\{-\tfrac12\}\to\mathbb R$ and $g:\mathbb R-\{-\tfrac52\}\to\mathbb R$ be $f(x)=\dfrac{2x+3}{2x+1}$ and $g(x)=\dfrac{|x|+1}{2x+5}$. The domain of $f\circ g$ is
+
+(1) $\mathbb R-\{-\tfrac52\}$  (2) $\mathbb R$  (3) $\mathbb R-\{-\tfrac74\}$  (4) $\mathbb R-\{-\tfrac52,-\tfrac74\}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** We need $x\neq-\tfrac52$ and $g(x)\neq-\tfrac12$. Solve $\dfrac{|x|+1}{2x+5}=-\dfrac12\Rightarrow2|x|+2=-2x-5$. For $x<0$: $-2x+2=-2x-5$ is impossible. For $x\ge0$: $2x+2=-2x-5\Rightarrow x=-\tfrac74$, rejected since $x\ge0$. So no extra exclusion; the domain is $\mathbb R-\{-\tfrac52\}$.
+

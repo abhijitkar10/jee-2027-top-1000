@@ -22,3 +22,11 @@ Let $A=\begin{pmatrix}2&0&1\\1&1&0\\1&0&1\end{pmatrix}$ and $B=[B_1\ B_2\ B_3]$ 
 
 **Solution.** $AB=\begin{pmatrix}1&2&3\\0&3&2\\0&0&1\end{pmatrix}$ has determinant $3$, and $|A|=2(1)-0+1(0-1)=1$, so $\alpha=|B|=3$. Also $\operatorname{adj}A=\begin{pmatrix}1&0&-1\\-1&1&1\\-1&0&2\end{pmatrix}=A^{-1}$, giving $B=A^{-1}(AB)=\begin{pmatrix}1&2&2\\-1&1&0\\-1&-2&-1\end{pmatrix}$ with trace $\beta=1$. Hence $\alpha^3+\beta^3=27+1=28$.
 
+### M-MAT-03 — JEE Main 2024 · 27 Jan Shift 2 · Q86 · Numerical
+
+Let $A$ be a $2\times2$ real matrix and $I$ the identity matrix of order $2$. If the roots of $|A-xI|=0$ are $-1$ and $3$, then the sum of the diagonal elements of $A^2$ is ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** The roots of $|A-xI|=0$ are the eigenvalues $\lambda_1=-1,\lambda_2=3$. $A^2$ has eigenvalues $\lambda_i^2$, so $\text{tr}(A^2)=1+9=10$.
+

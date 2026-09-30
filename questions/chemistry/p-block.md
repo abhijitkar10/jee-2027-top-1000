@@ -23,3 +23,22 @@ The element not showing a variable oxidation state is
 
 **Solution.** Fluorine is the most electronegative element and has no vacant d-orbitals, so it shows only $-1$ (besides 0). Cl, Br and I show $+1,+3,+5,+7$.
 
+### C-PBL-03 — JEE Main 2024 · 27 Jan Shift 2 · Q40 · MCQ
+
+Statement I: Oxygen, the first member of group 16, exhibits only the $-2$ oxidation state.
+Statement II: Down group 16 the stability of the $+4$ oxidation state decreases and that of the $+6$ oxidation state increases.
+
+(1) I correct, II incorrect  (2) Both correct  (3) Both incorrect  (4) I incorrect, II correct
+
+**Answer: (3)** · key ✔
+
+**Solution.** Oxygen also shows $-1$ (peroxides), $-\tfrac12$ (superoxides), $-\tfrac13$ (ozonide) and $+2$ (in $\text{OF}_2$), so I is wrong. Because of the inert-pair effect, down the group the $+4$ state becomes more stable and $+6$ less stable, the reverse of II, so II is wrong.
+
+### C-PBL-04 — JEE Main 2024 · 27 Jan Shift 2 · Q53 · Numerical
+
+$1$ mole of $\text{PbS}$ is oxidised by $X$ moles of $\text{O}_3$ to give $Y$ moles of $\text{O}_2$. Then $X+Y=$ ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** $\text{PbS}+4\text{O}_3\to\text{PbSO}_4+4\text{O}_2$. So $X=4$, $Y=4$ and $X+Y=8$.
+

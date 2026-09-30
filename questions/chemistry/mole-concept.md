@@ -10,3 +10,11 @@ The mass of methane required to produce $22$ g of $\text{CO}_2$ after complete c
 
 **Solution.** $\text{CH}_4+2\text{O}_2\to\text{CO}_2+2\text{H}_2\text{O}$. $22$ g $\text{CO}_2=0.5$ mol, so $0.5$ mol $\text{CH}_4=0.5\times16=8$ g.
 
+### C-MOL-02 — JEE Main 2024 · 27 Jan Shift 2 · Q51 · Numerical
+
+The volume of $3$ M NaOH (formula weight $40\ \text{g mol}^{-1}$) which can be prepared from $84$ g of NaOH is ______ $\times10^{-1}\ \text{dm}^3$.
+
+**Answer: 7** · key ✔
+
+**Solution.** Moles of NaOH $=84/40=2.1$. Volume $=\dfrac{2.1}{3}=0.7\ \text{dm}^3=7\times10^{-1}\ \text{dm}^3$.
+

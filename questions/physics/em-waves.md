@@ -12,3 +12,13 @@ A plane electromagnetic wave travelling in the $x$-direction is described by $E_
 
 **Solution.** $c=\omega/k=1.5\times10^7/0.05=3\times10^8$ m/s. $I=\tfrac12\varepsilon_0E_0^2c=\tfrac12(8.85\times10^{-12})(200)^2(3\times10^8)=53.1$ W m$^{-2}$.
 
+### P-EMW-02 — JEE Main 2024 · 27 Jan Shift 2 · Q15 · MCQ
+
+An object is placed in a medium of refractive index $3$. An electromagnetic wave of intensity $6\times10^8\ \text{W m}^{-2}$ falls normally on the object and is completely absorbed. The radiation pressure on the object is (speed of light in free space $=3\times10^8\ \text{m s}^{-1}$):
+
+(1) 36 N m$^{-2}$  (2) 18 N m$^{-2}$  (3) 6 N m$^{-2}$  (4) 2 N m$^{-2}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Radiation pressure for complete absorption is $P=I/v$, with $v=c/n=10^8$ m/s in the medium. $P=\dfrac{6\times10^8}{10^8}=6\ \text{N m}^{-2}$.
+
