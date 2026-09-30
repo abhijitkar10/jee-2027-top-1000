@@ -60,3 +60,23 @@ If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\en
 
 **Solution.** At $x=2$: continuity gives $4a+2b=\tfrac12$. Differentiability: right derivative $-\dfrac1{x^2}=-\tfrac14$ equals left derivative $2ax=4a$, so $a=-\tfrac1{16}$. Then $-\tfrac14+2b=\tfrac12\Rightarrow b=\tfrac38$. $a+b=\tfrac5{16}$ and $48(a+b)=15$. (The function is even, so $x=-2$ gives the same conditions.)
 
+### M-LCD-07 — JEE Main 2024 · 30 Jan Shift 2 · Q72 · MCQ
+
+Let $a$ and $b$ be real constants such that $f(x)=\begin{cases}x^2+3x+a,&x\le1\\bx+2,&x>1\end{cases}$ is differentiable on $\mathbb R$. Then $\displaystyle\int_{-2}^2f(x)\,dx$ equals
+
+(1) $\tfrac{15}6$  (2) $\tfrac{19}6$  (3) 21  (4) 17
+
+**Answer: (4)** · key ✔
+
+**Solution.** Differentiability at $1$: derivatives $2+3=5=b$. Continuity: $1+3+a=b+2\Rightarrow a=3$. $\int_{-2}^1(x^2+3x+3)dx=\left[\tfrac{x^3}3+\tfrac{3x^2}2+3x\right]_{-2}^1=\tfrac{29}6-\left(-\tfrac83\right)=7.5$ and $\int_1^2(5x+2)dx=\left[\tfrac{5x^2}2+2x\right]_1^2=14-4.5=9.5$. Total $=17$.
+
+### M-LCD-08 — JEE Main 2024 · 30 Jan Shift 2 · Q73 · MCQ
+
+Let $f:\mathbb R-\{0\}\to\mathbb R$ satisfy $f\!\left(\dfrac xy\right)=\dfrac{f(x)}{f(y)}$ for all $x,y$ with $f(y)\ne0$. If $f'(1)=2024$, then
+
+(1) $xf'(x)-2024f(x)=0$  (2) $xf'(x)+2024f(x)=0$  (3) $xf'(x)+f(x)=2024$  (4) $xf'(x)-2023f(x)=0$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Differentiate with respect to $x$ (keeping $y$ fixed): $\dfrac1yf'\!\left(\dfrac xy\right)=\dfrac{f'(x)}{f(y)}$. Put $y=x$: $\dfrac1xf'(1)=\dfrac{f'(x)}{f(x)}\Rightarrow xf'(x)=2024f(x)$, i.e. $xf'(x)-2024f(x)=0$. (Indeed $f(x)=x^{2024}$ works.)
+

@@ -90,3 +90,21 @@ Two cells are connected in opposition. Cell $E_1$ has emf $8$ V and internal res
 
 **Solution.** The stronger cell drives current through the weaker one: $I=\dfrac{8-2}{2+4}=1$ A. Cell $E_2$ is being charged, so its terminal voltage is $V_2=E_2+Ir_2=2+1(4)=6$ V.
 
+### P-CUR-10 — JEE Main 2024 · 30 Jan Shift 2 · Q11 · MCQ
+
+When a potential difference $V$ is applied across a wire of resistance $R$, it dissipates energy at a rate $W$. If the wire is cut into two halves and these halves are connected in parallel across the same supply, the rate of energy dissipation will become
+
+(1) $\tfrac14W$  (2) $\tfrac12W$  (3) $2W$  (4) $4W$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $W=\dfrac{V^2}R$. Each half has resistance $\dfrac R2$; two in parallel give $\dfrac R4$. New power $=\dfrac{V^2}{R/4}=4W$.
+
+### P-CUR-11 — JEE Main 2024 · 30 Jan Shift 2 · Q27 · Numerical
+
+Two resistances of $100\ \Omega$ and $200\ \Omega$ are connected in series with a battery of $4$ V and negligible internal resistance. A voltmeter measuring the voltage across the $100\ \Omega$ resistance reads $1$ V. The resistance of the voltmeter must be ______ $\Omega$.
+
+**Answer: 200** · key ✔
+
+**Solution.** Let $R_p$ be the parallel combination of $100\ \Omega$ and the voltmeter. Voltage across it: $4\cdot\dfrac{R_p}{R_p+200}=1\Rightarrow R_p=\dfrac{200}3\ \Omega$. Then $\dfrac{100R_V}{100+R_V}=\dfrac{200}3\Rightarrow300R_V=20000+200R_V\Rightarrow R_V=200\ \Omega$.
+

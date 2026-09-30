@@ -32,3 +32,13 @@ The bob of a pendulum is released from a horizontal position. The length of the 
 
 **Solution.** The bob loses height $L$ so the initial energy is $mgL$; $90\%$ of it becomes kinetic: $\tfrac12mv^2=0.9\,mgL\Rightarrow v^2=1.8\times10\times10=180\Rightarrow v=6\sqrt5$ m/s.
 
+### P-WEP-04 — JEE Main 2024 · 30 Jan Shift 2 · Q5 · MCQ
+
+A block of mass $1$ kg is pushed up a surface inclined at $60^\circ$ to the horizontal by a force of $10$ N parallel to the incline. The coefficient of friction is $0.1$. When the block is pushed up by $10$ m along the incline, the work done against the frictional force is ($g=10\ \text{m s}^{-2}$)
+
+(1) $5\sqrt3$ J  (2) 5 J  (3) $5\times10^3$ J
+
+**Answer: (2)** · key ✔
+
+**Solution.** Friction $f=\mu N=\mu mg\cos60^\circ=0.1\times1\times10\times\tfrac12=0.5$ N. Work against friction $=f\,d=0.5\times10=5$ J.
+

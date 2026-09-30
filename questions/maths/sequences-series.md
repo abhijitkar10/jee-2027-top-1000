@@ -78,3 +78,21 @@ Let $\alpha=1^2+4^2+8^2+13^2+19^2+26^2+\cdots$ up to $10$ terms and $\beta=\sum_
 
 **Solution.** The terms $1,4,8,13,19,26,\dots$ have differences $3,4,5,\dots$, so $a_n=\dfrac{n^2+3n-2}2$. Then $4a_n^2=(n^2+3n-2)^2=n^4+6n^3+5n^2-12n+4$, so $4\alpha-\beta=6\sum n^3+5\sum n^2-12\sum n+4(10)=6(3025)+5(385)-12(55)+40=19455$. So $55k=19415\Rightarrow k=353$.
 
+### M-SEQ-09 — JEE Main 2024 · 30 Jan Shift 2 · Q62 · MCQ
+
+Let $a$ and $b$ be two distinct positive real numbers. The $11^{th}$ term of a GP whose first term is $a$ and third term is $b$ equals the $p^{th}$ term of another GP whose first term is $a$ and fifth term is $b$. Then $p$ is equal to
+
+(1) 20  (2) 25  (3) 21  (4) 24
+
+**Answer: (3)** · key ✔
+
+**Solution.** First GP: $r_1^2=\tfrac ba$, so the $11^{th}$ term is $ar_1^{10}=a\left(\tfrac ba\right)^5$. Second GP: $r_2^4=\tfrac ba$, so the $p^{th}$ term is $ar_2^{p-1}=a\left(\tfrac ba\right)^{(p-1)/4}$. Equating exponents: $5=\dfrac{p-1}4\Rightarrow p=21$.
+
+### M-SEQ-10 — JEE Main 2024 · 30 Jan Shift 2 · Q83 · Numerical
+
+Let $S_n$ be the sum to $n$ terms of the arithmetic progression $3,7,11,\dots$. If $40<\dfrac6{n(n+1)}\displaystyle\sum_{k=1}^nS_k<42$, then $n$ equals ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** $S_k=\tfrac k2\left(6+4(k-1)\right)=k(2k+1)$. $\sum_{k=1}^nS_k=2\cdot\dfrac{n(n+1)(2n+1)}6+\dfrac{n(n+1)}2=\dfrac{n(n+1)(4n+5)}6$. Then $\dfrac6{n(n+1)}\sum S_k=4n+5$, and $40<4n+5<42\Rightarrow35<4n<37\Rightarrow n=9$.
+

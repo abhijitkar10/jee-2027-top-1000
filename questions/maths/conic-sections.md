@@ -64,5 +64,25 @@ Let the latus rectum of the hyperbola $\dfrac{x^2}9-\dfrac{y^2}{b^2}=1$ subtend 
 
 **Answer: 182** · key ✔
 
-**Solution.** An end of the latus rectum is $\left(ae,\dfrac{b^2}a\right)$ with $a=3$, so the half-angle $\dfrac\pi6$ satisfies $\tan\dfrac\pi6=\dfrac{b^2/3}{3e}$ where $3e=\sqrt{9+b^2}$: $\dfrac{b^2}{3\sqrt{9+b^2}}\cdot\ldots$ precisely, $\dfrac{b^2/3}{\sqrt{9+b^2}}=\dfrac1{\sqrt3}\Rightarrow b^4=3(9+b^2)\Rightarrow b^4-3b^2-27=0\Rightarrow b^2=\dfrac{3+3\sqrt{13}}2=\dfrac32\left(1+\sqrt{13}\right)$. So $l=3,\ m=2,\ n=13$ and $l^2+m^2+n^2=9+4+169=182$.
+**Solution.** An end of the latus rectum is $\left(ae,\dfrac{b^2}a\right)$ with $a=3$ and $ae=\sqrt{9+b^2}$. The two ends subtend $\dfrac\pi3$ at the centre, so each makes $\dfrac\pi6$ with the $x$-axis: $\tan\dfrac\pi6=\dfrac{b^2/3}{\sqrt{9+b^2}}=\dfrac1{\sqrt3}\Rightarrow b^4=3(9+b^2)\Rightarrow b^4-3b^2-27=0\Rightarrow b^2=\dfrac{3+3\sqrt{13}}2=\dfrac32\left(1+\sqrt{13}\right)$. So $l=3,\ m=2,\ n=13$ and $l^2+m^2+n^2=9+4+169=182$.
+
+### M-CON-08 — JEE Main 2024 · 30 Jan Shift 2 · Q66 · MCQ
+
+Let $A(\alpha,0)$ and $B(0,\beta)$ be points on the line $5x+7y=50$. Let the point $P$ divide $AB$ internally in the ratio $7:3$. Let $3x-25=0$ be a directrix of the ellipse $E:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1$ and the corresponding focus be $S$. If the perpendicular from $S$ on the $x$-axis passes through $P$, the length of the latus rectum of $E$ is
+
+(1) $\tfrac{25}3$  (2) $\tfrac{25}9$  (3) $\tfrac{32}9$  (4) $\tfrac{32}5$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $A=(10,0)$ and $B=\left(0,\tfrac{50}7\right)$. $P=\dfrac{3A+7B}{10}=(3,5)$, so the focus is $S=(3,0)$: $ae=3$. The directrix gives $\dfrac ae=\dfrac{25}3$. Multiplying: $a^2=25$, so $a=5$ and $e=\tfrac35$. $b^2=25\left(1-\tfrac9{25}\right)=16$. Latus rectum $=\dfrac{2b^2}a=\dfrac{32}5$.
+
+### M-CON-09 — JEE Main 2024 · 30 Jan Shift 2 · Q67 · MCQ
+
+Let $P$ be a point on the hyperbola $H:\dfrac{x^2}9-\dfrac{y^2}4=1$ in the first quadrant such that the area of the triangle formed by $P$ and the two foci of $H$ is $2\sqrt{13}$. Then the square of the distance of $P$ from the origin is
+
+(1) 18  (2) 26  (3) 22  (4) 20
+
+**Answer: (3)** · key ✔
+
+**Solution.** Foci: $(\pm\sqrt{13},0)$ since $c^2=9+4$. Area $=\tfrac12(2\sqrt{13})y=2\sqrt{13}\Rightarrow y=2$. Then $\dfrac{x^2}9=1+\dfrac44=2\Rightarrow x^2=18$. $OP^2=18+4=22$.
 

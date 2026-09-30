@@ -76,3 +76,11 @@ Two metallic wires $P$ and $Q$ have the same volume and are made of the same mat
 
 **Solution.** Equal volumes give $A_PL_P=A_QL_Q$, so $L_P:L_Q=1:4$. $\Delta l=\dfrac{FL}{AY}\Rightarrow F=\dfrac{\Delta l\,Y A}{L}\propto\dfrac AL$. Hence $\dfrac{F_1}{F_2}=\dfrac{A_P/L_P}{A_Q/L_Q}=\dfrac{4/1}{1/4}=16$.
 
+### P-POM-09 — JEE Main 2024 · 30 Jan Shift 2 · Q23 · Numerical
+
+A big drop is formed by coalescing $1000$ small identical drops of water. If $E_1$ is the total surface energy of the $1000$ small drops and $E_2$ is the surface energy of the single big drop, then $E_1:E_2=x:1$, where $x=$ ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** Volume conservation: $1000r^3=R^3\Rightarrow R=10r$. Surface energy $\propto$ area: $E_1=1000\cdot4\pi r^2T$ and $E_2=4\pi(10r)^2T=100\cdot4\pi r^2T$. Ratio $=\dfrac{1000}{100}=10$.
+

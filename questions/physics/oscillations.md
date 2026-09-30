@@ -26,3 +26,11 @@ A simple harmonic oscillator has amplitude $A$ and time period $6\pi$ s. Assumin
 
 **Solution.** $\omega=\dfrac{2\pi}{6\pi}=\dfrac13$ rad/s and $x=A\sin\omega t$. $x=A$ at $\omega t=\tfrac\pi2\Rightarrow t=\tfrac{3\pi}2$. $x=\tfrac{\sqrt3}2A$ at $\omega t=\tfrac\pi3\Rightarrow t=\pi$. Time between them $=\tfrac{3\pi}2-\pi=\tfrac\pi2$, so $x=2$.
 
+### P-SHM-04 — JEE Main 2024 · 30 Jan Shift 2 · Q24 · Numerical
+
+A simple pendulum is placed at a place whose distance from the earth's surface is equal to the radius of the earth. If the length of the string is $4$ m, the time period of small oscillations will be ______ s. [take $g=\pi^2\ \text{m s}^{-2}$ at the surface]
+
+**Answer: 8** · key ✔
+
+**Solution.** At height $R$: $g'=\dfrac g{(1+1)^2}=\dfrac g4=\dfrac{\pi^2}4$. $T=2\pi\sqrt{\dfrac L{g'}}=2\pi\sqrt{\dfrac{4}{\pi^2/4}}=2\pi\cdot\dfrac4\pi=8$ s.
+

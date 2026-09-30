@@ -78,3 +78,24 @@ The total number of molecular orbitals formed from $2s$ and $2p$ atomic orbitals
 
 **Solution.** Each atom contributes $1$ ($2s$) $+3$ ($2p$) $=4$ atomic orbitals, so two atoms give $8$ atomic orbitals, hence $8$ molecular orbitals ($4$ bonding and $4$ antibonding).
 
+### C-BND-10 — JEE Main 2024 · 30 Jan Shift 2 · Q32 · MCQ
+
+Statement I: Since fluorine is more electronegative than nitrogen, the net dipole moment of $\text{NF}_3$ is greater than that of $\text{NH}_3$.
+Statement II: In $\text{NH}_3$ the orbital dipole due to the lone pair and the dipole moment of the N–H bonds are in opposite directions, but in $\text{NF}_3$ the orbital dipole due to the lone pair and the dipole moments of the N–F bonds are in the same direction.
+
+(1) I true, II false  (2) Both false  (3) Both true  (4) I false, II true
+
+**Answer: (2)** · key ✔
+
+**Solution.** The experimental dipole moments are $\text{NH}_3\ 1.47$ D and $\text{NF}_3\ 0.24$ D, so I is false. In $\text{NH}_3$ the bond dipoles (towards N) and the lone-pair dipole point the same way, adding up; in $\text{NF}_3$ the bond dipoles (towards F) oppose the lone-pair dipole and largely cancel it. II states the reverse, so it is false.
+
+### C-BND-11 — JEE Main 2024 · 30 Jan Shift 2 · Q45 · MCQ
+
+The molecule/ion with square pyramidal shape is
+
+(1) $\text{Ni(CN)}_4^{2-}$  (2) $\text{PCl}_5$  (3) $\text{BrF}_5$  (4) $\text{PF}_5$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{BrF}_5$ has $5$ bond pairs and $1$ lone pair on Br ($sp^3d^2$): square pyramidal. $\text{Ni(CN)}_4^{2-}$ is square planar, and $\text{PCl}_5$ and $\text{PF}_5$ are trigonal bipyramidal.
+

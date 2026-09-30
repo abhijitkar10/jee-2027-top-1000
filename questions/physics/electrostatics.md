@@ -69,3 +69,21 @@ The electrostatic potential due to an electric dipole at a distance $r$ varies a
 
 **Solution.** Potential of a dipole: $V=\dfrac{1}{4\pi\varepsilon_0}\dfrac{p\cos\theta}{r^2}\propto\dfrac1{r^2}$ (whereas the field falls as $1/r^3$). It is monopole potential that varies as $1/r$.
 
+### P-ELS-08 — JEE Main 2024 · 30 Jan Shift 2 · Q10 · MCQ
+
+A particle of charge $-q$ and mass $m$ moves in a circle of radius $r$ around an infinitely long line charge of linear density $+\lambda$. The time period is (take $k$ as Coulomb's constant)
+
+(1) $T^2=\dfrac{4\pi^2m}{2k\lambda q}r^3$  (2) $T=2\pi r\sqrt{\dfrac m{2k\lambda q}}$  (3) $T=\dfrac1{2\pi r}\sqrt{\dfrac m{2k\lambda q}}$  (4) $T=\dfrac1{2\pi}\sqrt{\dfrac{2k\lambda q}m}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** The field of a line charge is $E=\dfrac{2k\lambda}r$, so the force $qE=\dfrac{2k\lambda q}{r}$ supplies the centripetal force: $\dfrac{mv^2}r=\dfrac{2k\lambda q}r\Rightarrow v=\sqrt{\dfrac{2k\lambda q}m}$ (independent of $r$). $T=\dfrac{2\pi r}v=2\pi r\sqrt{\dfrac m{2k\lambda q}}$.
+
+### P-ELS-09 — JEE Main 2024 · 30 Jan Shift 2 · Q26 · Numerical
+
+Two identical charged spheres are suspended by strings of equal lengths. The strings make an angle of $37^\circ$ with each other. When suspended in a liquid of density $0.7\ \text{g cm}^{-3}$ the angle remains the same. If the density of the material of the spheres is $1.4\ \text{g cm}^{-3}$, the dielectric constant of the liquid is ______. ($\tan37^\circ=\tfrac34$)
+
+**Answer: 2** · key ✔
+
+**Solution.** In air, $\tan\theta=\dfrac{F}{mg}$. In the liquid the electric force becomes $\dfrac FK$ and the effective weight is $mg\left(1-\dfrac{\rho_l}{\rho_s}\right)$. Same angle: $\dfrac F{mg}=\dfrac{F/K}{mg\,(1-0.7/1.4)}\Rightarrow K=\dfrac1{1-0.5}=2$.
+

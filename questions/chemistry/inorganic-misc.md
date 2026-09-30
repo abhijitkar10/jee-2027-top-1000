@@ -52,3 +52,21 @@ A reagent which gives a brilliant red precipitate with nickel ions in basic medi
 
 **Solution.** $\text{Ni}^{2+}$ with dimethylglyoxime (DMG) in ammoniacal (basic) solution forms the bright red, chelated bis(dimethylglyoximato)nickel(II) precipitate.
 
+### C-INM-06 — JEE Main 2024 · 30 Jan Shift 2 · Q43 · MCQ
+
+$A$ and $B$ formed in the following reactions are: $\text{CrO}_2\text{Cl}_2+4\text{NaOH}\to A+2\text{NaCl}+2\text{H}_2\text{O}$; $A+2\text{HCl}+2\text{H}_2\text{O}_2\to B+3\text{H}_2\text{O}$.
+
+(1) $A=\text{Na}_2\text{CrO}_4,\ B=\text{CrO}_5$  (2) $A=\text{Na}_2\text{Cr}_2\text{O}_4,\ B=\text{CrO}_4$  (3) $A=\text{Na}_2\text{Cr}_2\text{O}_7,\ B=\text{CrO}_3$  (4) $A=\text{Na}_2\text{Cr}_2\text{O}_7,\ B=\text{CrO}_5$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\text{CrO}_2\text{Cl}_2+4\text{NaOH}\to\text{Na}_2\text{CrO}_4+2\text{NaCl}+2\text{H}_2\text{O}$ (yellow chromate). With acid and $\text{H}_2\text{O}_2$: $\text{Na}_2\text{CrO}_4+2\text{HCl}+2\text{H}_2\text{O}_2\to\text{CrO}_5+2\text{NaCl}+3\text{H}_2\text{O}$ (oxygen balance: $8=5+3$), the blue peroxide.
+
+### C-INM-07 — JEE Main 2024 · 30 Jan Shift 2 · Q59 · Numerical
+
+The number of metal ions characterised by a flame test among the following is ______: $\text{Sr}^{2+},\ \text{Ba}^{2+},\ \text{Ca}^{2+},\ \text{Cu}^{2+},\ \text{Zn}^{2+},\ \text{Co}^{2+},\ \text{Fe}^{2+}$
+
+**Answer: 4** · key ✔
+
+**Solution.** Characteristic flame colours: $\text{Sr}^{2+}$ crimson red, $\text{Ba}^{2+}$ apple green, $\text{Ca}^{2+}$ brick red, $\text{Cu}^{2+}$ blue-green. $\text{Zn}^{2+}$, $\text{Co}^{2+}$ and $\text{Fe}^{2+}$ give no characteristic flame colour. Count $=4$.
+

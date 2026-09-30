@@ -44,3 +44,11 @@ The standard enthalpy of vapourisation for $\text{CCl}_4$ is $30.5\ \text{kJ mol
 
 **Solution.** $M(\text{CCl}_4)=12+4(35.5)=154$ g/mol. $n=\dfrac{284}{154}=1.844$ mol, so $q=1.844\times30.5=56.2\approx56$ kJ.
 
+### C-CTH-06 — JEE Main 2024 · 30 Jan Shift 2 · Q52 · Numerical
+
+Given $2\text{Fe}(s)+\tfrac32\text{O}_2(g)\to\text{Fe}_2\text{O}_3(s)$, $\Delta H^\circ=-822$ kJ/mol and $\text{C}(s)+\tfrac12\text{O}_2(g)\to\text{CO}(g)$, $\Delta H^\circ=-110$ kJ/mol, the enthalpy change (kJ) for $3\text{C}(s)+\text{Fe}_2\text{O}_3(s)\to2\text{Fe}(s)+3\text{CO}(g)$ is ______.
+
+**Answer: 492** · key ✔
+
+**Solution.** Hess's law: reverse the first reaction ($+822$) and add three times the second ($3\times-110=-330$): $\Delta H=822-330=+492$ kJ.
+

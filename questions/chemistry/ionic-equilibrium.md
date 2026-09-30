@@ -21,3 +21,11 @@ The pH at which $\text{Mg(OH)}_2$ [$K_{sp}=1\times10^{-11}$] begins to precipita
 
 **Solution.** Precipitation begins when the ionic product equals $K_{sp}$: $[\text{OH}^-]^2=\dfrac{10^{-11}}{0.10}=10^{-10}\Rightarrow[\text{OH}^-]=10^{-5}$ M. $\text{pOH}=5$ so $\text{pH}=9$.
 
+### C-ION-03 — JEE Main 2024 · 30 Jan Shift 2 · Q53 · Numerical
+
+The pH of an aqueous solution containing $1$ M benzoic acid ($\text{p}K_a=4.20$) and $1$ M sodium benzoate is $4.5$. The volume of benzoic acid solution in $300$ mL of this buffer solution is ______ mL.
+
+**Answer: 100** · key ✔
+
+**Solution.** Henderson–Hasselbalch: $4.5=4.20+\log\dfrac{V_{\text{salt}}}{V_{\text{acid}}}\Rightarrow\dfrac{V_{\text{salt}}}{V_{\text{acid}}}=10^{0.3}=2$. Since both solutions are $1$ M, the mole ratio equals the volume ratio, and $V_{\text{acid}}+V_{\text{salt}}=300$ gives $V_{\text{acid}}=100$ mL.
+

@@ -48,3 +48,11 @@ The rate of a first-order reaction is $0.04\ \text{mol L}^{-1}\text{s}^{-1}$ at 
 
 **Solution.** For first order the rate is proportional to concentration, so $\dfrac{r_1}{r_2}=e^{k(t_2-t_1)}$: $k=\dfrac{2.303}{10}\log\dfrac{0.04}{0.03}=\dfrac{2.303}{10}\left(2\log2-\log3\right)=\dfrac{2.303}{10}(0.1249)=0.02877\ \text{min}^{-1}$. $t_{1/2}=\dfrac{0.693}{0.02877}=24.1\approx24$ min.
 
+### C-KIN-06 — JEE Main 2024 · 30 Jan Shift 2 · Q56 · Numerical
+
+$\text{NO}_2$ is produced by the decomposition of $\text{N}_2\text{O}_5$ in $\text{CCl}_4$: $2\text{N}_2\text{O}_5(g)\to4\text{NO}_2(g)+\text{O}_2(g)$. The initial concentration of $\text{N}_2\text{O}_5$ is $3$ mol L$^{-1}$ and it is $2.75$ mol L$^{-1}$ after $30$ minutes. The rate of formation of $\text{NO}_2$ is $x\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. The value of $x$ is ______.
+
+**Answer: 17** · key ✔
+
+**Solution.** Rate of disappearance of $\text{N}_2\text{O}_5=\dfrac{3-2.75}{30}=8.33\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. From the stoichiometry, $\dfrac{d[\text{NO}_2]}{dt}=\dfrac42\times8.33\times10^{-3}=16.7\times10^{-3}\approx17\times10^{-3}$.
+

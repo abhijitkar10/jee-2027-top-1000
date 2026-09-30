@@ -85,3 +85,21 @@ The oxidation state of Fe in the complex formed in the brown ring test is ______
 
 **Solution.** The brown ring is $[\text{Fe(H}_2\text{O)}_5\text{NO}]^{2+}$. Water is neutral and NO is present as $\text{NO}^+$, so $x+1=+2\Rightarrow x=+1$ (Fe is $+1$, NO$^+$ is the nitrosonium ligand).
 
+### C-COO-09 — JEE Main 2024 · 30 Jan Shift 2 · Q46 · MCQ
+
+The coordination geometry around manganese in decacarbonyldimanganese(0) is
+
+(1) Octahedral  (2) Trigonal bipyramidal  (3) Square pyramidal  (4) Square planar
+
+**Answer: (1)** · key ✔
+
+**Solution.** In $\text{Mn}_2(\text{CO})_{10}$ each Mn is bonded to five terminal CO ligands and to the other Mn atom (a Mn–Mn bond), giving six neighbours in an octahedral arrangement.
+
+### C-COO-10 — JEE Main 2024 · 30 Jan Shift 2 · Q57 · Numerical
+
+The number of complexes which show optical isomerism among the following is ______: cis-$[\text{Cr(ox)}_2\text{Cl}_2]^{3-}$, $[\text{Co(en)}_3]^{3+}$, cis-$[\text{Pt(en)}_2\text{Cl}_2]^{2+}$, cis-$[\text{Co(en)}_2\text{Cl}_2]^+$, trans-$[\text{Pt(en)}_2\text{Cl}_2]^{2+}$, trans-$[\text{Cr(ox)}_2\text{Cl}_2]^{3-}$
+
+**Answer: 4** · key ✔
+
+**Solution.** Optical isomerism needs a chiral complex (no plane of symmetry). Octahedral cis-$[\text{M(AA)}_2\text{X}_2]$ and tris-chelates $[\text{M(AA)}_3]$ are chiral. The trans isomers have a mirror plane and are achiral. Chiral: cis-$[\text{Cr(ox)}_2\text{Cl}_2]^{3-}$, $[\text{Co(en)}_3]^{3+}$, cis-$[\text{Pt(en)}_2\text{Cl}_2]^{2+}$, cis-$[\text{Co(en)}_2\text{Cl}_2]^+$: $4$.
+

@@ -47,3 +47,11 @@ The horizontal component of the earth's magnetic field at a place is $3.5\times1
 
 **Solution.** $\vec B_H$ points north. The current along north-west makes $45^\circ$ with north, so $\dfrac Fl=IB\sin45^\circ=\sqrt2\times3.5\times10^{-5}\times\dfrac1{\sqrt2}=3.5\times10^{-5}=35\times10^{-6}\ \text{N m}^{-1}$.
 
+### P-MAG-06 — JEE Main 2024 · 30 Jan Shift 2 · Q28 · Numerical
+
+A current of $5$ A flows in a square loop of side $1$ m placed in air. The magnetic field at the centre of the loop is $X\sqrt2\times10^{-7}$ T. The value of $X$ is ______.
+
+**Answer: 40** · key ✔
+
+**Solution.** Each side gives $B_1=\dfrac{\mu_0I}{4\pi d}(\sin45^\circ+\sin45^\circ)$ with $d=0.5$ m: $B_1=10^{-7}\times\dfrac5{0.5}\times\sqrt2=10\sqrt2\times10^{-7}$ T. Four sides: $B=40\sqrt2\times10^{-7}$ T, so $X=40$.
+

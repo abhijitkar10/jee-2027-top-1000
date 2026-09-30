@@ -53,3 +53,13 @@ The gravitational potential at a point above the surface of the earth is $-5.12\
 
 **Solution.** With $r$ the distance from the centre: $V=-\dfrac{GM}r$ and $g=\dfrac{GM}{r^2}$, so $r=\dfrac{|V|}{g}=\dfrac{5.12\times10^7}{6.4}=8\times10^6$ m $=8000$ km. Height $=8000-6400=1600$ km.
 
+### P-GRV-06 — JEE Main 2024 · 30 Jan Shift 2 · Q6 · MCQ
+
+The escape velocity of a body from the earth is $11.2\ \text{km s}^{-1}$. If the radius of a planet is one-third the radius of the earth and its mass is one-sixth that of the earth, the escape velocity from the planet is
+
+(1) 11.2 km s$^{-1}$  (2) 8.4 km s$^{-1}$  (3) 4.2 km s$^{-1}$  (4) 7.9 km s$^{-1}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. Ratio $=\sqrt{\dfrac{1/6}{1/3}}=\dfrac1{\sqrt2}$, so $v=\dfrac{11.2}{\sqrt2}\approx7.9$ km/s.
+

@@ -45,3 +45,11 @@ The area (in square units) of the region bounded by the parabola $y^2=4(x-2)$ an
 
 **Solution.** With $x=\dfrac{y+8}2$ in the parabola: $y^2=4\left(\dfrac y2+2\right)=2y+8\Rightarrow y^2-2y-8=0\Rightarrow y=-2,\ 4$. Area $=\displaystyle\int_{-2}^4\left[\dfrac{y+8}2-\left(\dfrac{y^2}4+2\right)\right]dy=\int_{-2}^4\left(\dfrac y2+2-\dfrac{y^2}4\right)dy=\left[\dfrac{y^2}4+2y-\dfrac{y^3}{12}\right]_{-2}^4=\dfrac{20}3+\dfrac73=9$.
 
+### M-ARE-06 — JEE Main 2024 · 30 Jan Shift 2 · Q88 · Numerical
+
+The area of the region enclosed by the parabola $(y-2)^2=x-1$, the line $x-2y+4=0$ and the positive coordinate axes is ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** The line $x=2y-4$ touches the parabola at $(2,3)$ (substituting gives $(y-3)^2=0$) and meets the $y$-axis at $(0,2)$; the parabola meets the $x$-axis at $(5,0)$. Integrating in $y$: for $0\le y\le2$ the region runs from $x=0$ to $x=(y-2)^2+1$; for $2\le y\le3$ it runs from the line $x=2y-4$ to the parabola. $A=\int_0^2\left[(y-2)^2+1\right]dy+\int_2^3\left[(y-2)^2+1-(2y-4)\right]dy=\tfrac{14}3+\int_2^3(y-3)^2dy=\tfrac{14}3+\tfrac13=5$.
+

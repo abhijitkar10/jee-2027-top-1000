@@ -72,3 +72,14 @@ If the IUPAC name of an element is "Unununnium", the element belongs to the $n$t
 
 **Solution.** IUPAC systematic names use the roots $0=$nil, $1=$un. "Un-un-un-ium" $=111$ (roentgenium, Rg), a member of group 11 (Cu, Ag, Au, Rg).
 
+### C-PER-08 — JEE Main 2024 · 30 Jan Shift 2 · Q31 · MCQ
+
+Statement I: Along the period, the chemical reactivity of the elements gradually increases from group 1 to group 18.
+Statement II: The nature of oxides formed by group 1 elements is basic while that of group 17 elements is acidic.
+
+(1) Both true  (2) I true, II false  (3) I false, II true  (4) Both false
+
+**Answer: (3)** · key ✔
+
+**Solution.** Reactivity is highest for the alkali metals and halogens and lowest at the noble gases and in the middle of the period, so I is false. Group 1 oxides are strongly basic and group 17 oxides ($\text{Cl}_2\text{O}_7$ etc.) are acidic, so II is true.
+

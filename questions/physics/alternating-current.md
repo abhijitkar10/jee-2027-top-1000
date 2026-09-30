@@ -50,3 +50,21 @@ A series $LR$ circuit connected to an ac source $E=(25\sqrt2\sin1000t)$ V has a 
 
 **Solution.** Initially $\cos\phi=\dfrac R{\sqrt{R^2+X_L^2}}=\dfrac1{\sqrt2}\Rightarrow X_L=R$ at $\omega=1000$. Doubling $\omega$ doubles $X_L$: $X_L'=2R$. New power factor $=\dfrac R{\sqrt{R^2+4R^2}}=\dfrac1{\sqrt5}$. (The change in source amplitude does not affect it.)
 
+### P-ACC-06 — JEE Main 2024 · 30 Jan Shift 2 · Q12 · MCQ
+
+An alternating voltage $V(t)=220\sin100\pi t$ volt is applied to a purely resistive load. The time taken for the current to rise from half of the peak value to the peak value is
+
+(1) 5 ms  (2) 3.3 ms  (3) 7.2 ms  (4) 2.2 ms
+
+**Answer: (2)** · key ✔
+
+**Solution.** The current is in phase with the voltage: $I=I_0\sin\omega t$ with $\omega=100\pi$. Half the peak occurs at $\omega t=\tfrac\pi6$ and the peak at $\omega t=\tfrac\pi2$. $\Delta t=\dfrac{\pi/3}{100\pi}=\dfrac1{300}\ \text{s}=3.3$ ms.
+
+### P-ACC-07 — JEE Main 2024 · 30 Jan Shift 2 · Q29 · Numerical
+
+A power transmission line feeds input power at $2.3$ kV to a step-down transformer whose primary winding has $3000$ turns. The output power is delivered at $230$ V. The current in the primary is $5$ A and the transformer's efficiency is $90\%$. The output current of the transformer is ______ A.
+
+**Answer: 45** · key ✔
+
+**Solution.** $P_{in}=2300\times5=11500$ W. $P_{out}=0.9\times11500=10350$ W. $I_{out}=\dfrac{10350}{230}=45$ A.
+

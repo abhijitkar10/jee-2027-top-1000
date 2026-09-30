@@ -93,3 +93,23 @@ An electron of a hydrogen atom in an excited state has energy $E_n=-0.85$ eV. Th
 
 **Solution.** $E_n=-\dfrac{13.6}{n^2}=-0.85\Rightarrow n^2=16\Rightarrow n=4$. Number of possible transitions to lower levels $=\dfrac{n(n-1)}2=6$.
 
+### P-ATN-11 — JEE Main 2024 · 30 Jan Shift 2 · Q17 · MCQ
+
+An electron revolving in the $n^{th}$ Bohr orbit has magnetic moment $\mu_n$. If $\mu_n\propto n^x$, the value of $x$ is
+
+(1) 2  (2) 1  (3) 3  (4) 0
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\mu=iA=\dfrac{e}{T}\pi r^2=\dfrac{e\,\omega r^2}{2}=\dfrac{e}{2m}L$. With $L=\dfrac{nh}{2\pi}$: $\mu_n=\dfrac{neh}{4\pi m}\propto n$, so $x=1$.
+
+### P-ATN-12 — JEE Main 2024 · 30 Jan Shift 2 · Q18 · MCQ
+
+In a nuclear fission reaction of an isotope of mass $M$, three similar daughter nuclei of the same mass are formed. The speed of a daughter nucleus in terms of the mass defect $\Delta M$ is
+
+(1) $\sqrt[3]{\dfrac{2c\Delta M}M}$  (2) $\dfrac{\Delta Mc^2}3$  (3) $c\sqrt{\dfrac{2\Delta M}M}$  (4) $c\sqrt{\dfrac{3\Delta M}M}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The energy released $\Delta Mc^2$ appears as kinetic energy of three daughters of mass $\tfrac M3$ each. Momentum conservation for three equal masses (starting from rest) gives equal speeds $v$: $3\cdot\tfrac12\cdot\tfrac M3v^2=\Delta Mc^2\Rightarrow v=c\sqrt{\dfrac{2\Delta M}M}$.
+

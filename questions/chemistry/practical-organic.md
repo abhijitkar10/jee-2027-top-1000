@@ -61,3 +61,13 @@ On a thin layer chromatography plate an organic compound moved by $3.5$ cm while
 
 **Solution.** $R_f=\dfrac{\text{distance moved by compound}}{\text{distance moved by solvent}}=\dfrac{3.5}{5}=0.7=7\times10^{-1}$.
 
+### C-PRO-07 — JEE Main 2024 · 30 Jan Shift 2 · Q35 · MCQ
+
+Which among the following purification methods is based on the principle of "solubility" in two different solvents?
+
+(1) Column chromatography  (2) Sublimation  (3) Distillation  (4) Differential extraction
+
+**Answer: (4)** · key ✔
+
+**Solution.** In differential (solvent) extraction an organic compound is transferred from an aqueous solution into an immiscible organic solvent in which it is more soluble, using the distribution law. Chromatography uses adsorption/partition, sublimation uses vapour pressure and distillation uses boiling point differences.
+

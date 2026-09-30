@@ -59,3 +59,13 @@ The total number of $\sigma$ and $\pi$ bonds in 2-formylhex-4-enoic acid is ____
 
 **Solution.** Structure: $\text{HOOC-CH(CHO)-CH}_2\text{-CH=CH-CH}_3$. $\sigma$ bonds: C–C: $6$ (including the C=C's $\sigma$ component and the branch to CHO); C–H: $1+2+1+1+3+1=9$; in COOH: C=O (1), C–O (1), O–H (1) $=3$; in CHO: C=O (1). Total $\sigma=6+9+3+1=19$. $\pi$ bonds: C=O of COOH, C=C, C=O of CHO $=3$. Total $=22$.
 
+### C-GOC-07 — JEE Main 2024 · 30 Jan Shift 2 · Q36 · MCQ
+
+The correct stability order of the carbocations $(\text{CH}_3)_3\text{C}^+$, $(\text{CH}_3)_2\text{CH}^+$, $\text{CH}_3\text{CH}_2^+$ and $\text{CH}_3^+$ is
+
+(the correct choice is option (3))
+
+**Answer: $(\text{CH}_3)_3\text{C}^+>(\text{CH}_3)_2\text{CH}^+>\text{CH}_3\text{CH}_2^+>\text{CH}_3^+$** · key ✔
+
+**Solution.** Alkyl groups stabilise a carbocation by $+I$ and hyperconjugation. The number of $\alpha$-hydrogens available for hyperconjugation is $9,6,3,0$, so stability follows $3^\circ>2^\circ>1^\circ>\text{methyl}$.
+

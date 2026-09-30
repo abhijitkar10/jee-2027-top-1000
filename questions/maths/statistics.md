@@ -54,3 +54,15 @@ Then $20M$ is equal to
 
 **Solution.** $N=36$, $\tfrac N2=18$. Cumulative frequencies: $3,12,22,\dots$, so the median class is $8$–$12$. $M=l+\dfrac{N/2-F}{f}h=8+\dfrac{18-12}{10}(4)=8+2.4=10.4$. So $20M=208$.
 
+### M-STA-06 — JEE Main 2024 · 30 Jan Shift 2 · Q86 · Numerical
+
+For the data below, the variance is $\sigma^2=k$. Find $[k]$, where $[\cdot]$ denotes the greatest integer function.
+
+| $x_i$ | 0 | 1 | 5 | 6 | 10 | 12 | 17 |
+|---|---|---|---|---|---|---|---|
+| $f_i$ | 3 | 2 | 3 | 2 | 6 | 3 | 3 |
+
+**Answer: 29** · key ✔
+
+**Solution.** $N=22$, $\sum f_ix_i=0+2+15+12+60+36+51=176$, so the mean is $8$. $\sum f_ix_i^2=0+2+75+72+600+432+867=2048$. Variance $=\dfrac{2048}{22}-64=93.09-64=29.09$, so $[k]=29$.
+

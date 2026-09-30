@@ -23,3 +23,13 @@ Reason (R): The zero error in a vernier calliper might have happened due to a ma
 
 **Solution.** With positive zero error the observed reading $=$ true value $+$ zero error, so it is larger than the actual value (A true). R also states a true origin of zero error, but that does not explain why readings come out larger, so R is not the explanation of A.
 
+### P-EXP-03 — JEE Main 2024 · 30 Jan Shift 2 · Q20 · MCQ
+
+If $50$ vernier divisions are equal to $49$ main scale divisions of a travelling microscope and one smallest reading of the main scale is $0.5$ mm, the vernier constant of the travelling microscope is
+
+(1) 0.1 mm  (2) 0.1 cm  (3) 0.01 cm  (4) 0.01 mm
+
+**Answer: (4)** · key ✔
+
+**Solution.** $50\,\text{VSD}=49\,\text{MSD}\Rightarrow1\,\text{VSD}=\tfrac{49}{50}\,\text{MSD}$. Vernier constant $=1\,\text{MSD}-1\,\text{VSD}=\tfrac1{50}\,\text{MSD}=\dfrac{0.5}{50}=0.01$ mm.
+

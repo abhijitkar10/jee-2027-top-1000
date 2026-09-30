@@ -87,3 +87,23 @@ Match List I (species) with List II (electronic distribution): A. $\text{Cr}^{2+
 
 **Solution.** $\text{Cr}$ is $3d^54s^1$; $\text{Cr}^{2+}=3d^4$. $\text{Mn}$ is $3d^54s^2$; $\text{Mn}^+=3d^54s^1$. $\text{Ni}$ is $3d^84s^2$; $\text{Ni}^{2+}=3d^8$. $\text{V}$ is $3d^34s^2$; $\text{V}^+=3d^34s^1$. So A-iii, B-iv, C-i, D-ii.
 
+### C-DFB-09 — JEE Main 2024 · 30 Jan Shift 2 · Q42 · MCQ
+
+The orange colour of $\text{K}_2\text{Cr}_2\text{O}_7$ and the purple colour of $\text{KMnO}_4$ are due to
+
+(1) charge transfer transition in both  (2) $d\to d$ transition in $\text{KMnO}_4$ and charge transfer in $\text{K}_2\text{Cr}_2\text{O}_7$  (3) $d\to d$ transition in $\text{K}_2\text{Cr}_2\text{O}_7$ and charge transfer in $\text{KMnO}_4$  (4) $d\to d$ transition in both
+
+**Answer: (1)** · key ✔
+
+**Solution.** In $\text{Cr}_2\text{O}_7^{2-}$ ($\text{Cr}^{6+}$, $d^0$) and $\text{MnO}_4^-$ ($\text{Mn}^{7+}$, $d^0$) there are no $d$ electrons, so $d\to d$ transitions are impossible. The colours arise from ligand-to-metal charge transfer ($\text{O}^{2-}\to\text{M}$).
+
+### C-DFB-10 — JEE Main 2024 · 30 Jan Shift 2 · Q44 · MCQ
+
+Alkaline oxidative fusion of $\text{MnO}_2$ gives "A", which on electrolytic oxidation in alkaline solution produces B. A and B respectively are
+
+(1) $\text{Mn}_2\text{O}_7$ and $\text{MnO}_4^-$  (2) $\text{MnO}_4^{2-}$ and $\text{MnO}_4^-$  (3) $\text{Mn}_2\text{O}_3$ and $\text{MnO}_4^{2-}$  (4) $\text{MnO}_4^{2-}$ and $\text{Mn}_2\text{O}_7$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$, so A is manganate ($\text{MnO}_4^{2-}$, green). Electrolytic oxidation in alkaline medium gives permanganate: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$.
+

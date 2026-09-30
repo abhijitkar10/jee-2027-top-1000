@@ -70,3 +70,13 @@ A line passing through the point $A(9,0)$ makes an angle of $30^\circ$ with the 
 
 **Solution.** Clockwise rotation reduces the inclination to $30^\circ-15^\circ=15^\circ$, with slope $\tan15^\circ=2-\sqrt3$. The line is $y=(2-\sqrt3)(x-9)$, i.e. $y=(\sqrt3-2)(9-x)\Rightarrow\dfrac y{\sqrt3-2}+x=9$.
 
+### M-STL-08 — JEE Main 2024 · 30 Jan Shift 2 · Q65 · MCQ
+
+If $x^2-y^2+2hxy+2gx+2fy+c=0$ is the locus of a point which moves so that it is always equidistant from the lines $x+2y+7=0$ and $2x-y+8=0$, then $g+c+h-f$ equals
+
+(1) 14  (2) 6  (3) 8  (4) 29
+
+**Answer: (1)** · key ✔
+
+**Solution.** Equal distances: $(x+2y+7)^2=(2x-y+8)^2$ (both denominators are $\sqrt5$), i.e. $(-x+3y-1)(3x+y+15)=0$. Expanding: $-3x^2+8xy+3y^2-18x+44y-15=0$. Dividing by $-3$: $x^2-\tfrac83xy-y^2+6x-\tfrac{44}3y+5=0$. So $h=-\tfrac43,\ g=3,\ f=-\tfrac{22}3,\ c=5$, and $g+c+h-f=3+5-\tfrac43+\tfrac{22}3=8+6=14$.
+

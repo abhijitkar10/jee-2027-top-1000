@@ -48,3 +48,13 @@ The diffraction pattern of light of wavelength $400$ nm diffracting from a slit 
 
 **Solution.** The width of each secondary maximum equals the distance between successive minima: $\beta=\dfrac{\lambda f}{a}=\dfrac{400\times10^{-9}\times1}{0.2\times10^{-3}}=2\times10^{-3}$ m $=2$ mm.
 
+### P-WOP-06 — JEE Main 2024 · 30 Jan Shift 2 · Q14 · MCQ
+
+A beam of unpolarised light of intensity $I_0$ is passed through a polaroid $A$ and then through another polaroid $B$ oriented so that its principal plane makes an angle of $45^\circ$ relative to that of $A$. The intensity of the emergent light is
+
+(1) $\dfrac{I_0}4$  (2) $I_0$  (3) $\dfrac{I_0}2$  (4) $\dfrac{I_0}8$
+
+**Answer: (1)** · key ✔
+
+**Solution.** After $A$: $\dfrac{I_0}2$. By Malus's law, after $B$: $\dfrac{I_0}2\cos^245^\circ=\dfrac{I_0}2\cdot\dfrac12=\dfrac{I_0}4$.
+

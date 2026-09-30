@@ -78,3 +78,13 @@ If $f(x)=\begin{vmatrix}2\cos^4x&2\sin^4x&3+\sin^22x\\3+2\cos^4x&2\sin^4x&\sin^2
 
 **Solution.** Apply $R_2\to R_2-R_1$ and $R_3\to R_3-R_1$: rows become $(3,0,-3)$ and $(0,3,-3)$. Expanding along the top row: $f(x)=2\cos^4x(9)-2\sin^4x(-9)+(3+\sin^22x)(9)=18(\cos^4x+\sin^4x)+27+9\sin^22x$. Since $\cos^4x+\sin^4x=1-\tfrac12\sin^22x$: $f(x)=18-9\sin^22x+27+9\sin^22x=45$. A constant, so $f'(0)=0$.
 
+### M-MAT-09 — JEE Main 2024 · 30 Jan Shift 2 · Q69 · MCQ
+
+Consider the system of linear equations $x+y+z=5$, $x+2y+\lambda^2z=9$, $x+3y+\lambda z=\mu$, where $\lambda,\mu\in\mathbb R$. Which of the following statements is **not** correct?
+
+(1) The system has infinitely many solutions if $\lambda=1$ and $\mu=13$  (2) The system is inconsistent if $\lambda=1$ and $\mu\ne13$  (3) The system has a unique solution if $\lambda\ne1$ and $\mu\ne13$  (4) The system is consistent if $\lambda\ne1$ and $\mu=13$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The coefficient determinant is $\begin{vmatrix}1&1&1\\1&2&\lambda^2\\1&3&\lambda\end{vmatrix}=-(2\lambda+1)(\lambda-1)$, which vanishes at $\lambda=1$ and $\lambda=-\tfrac12$. So a unique solution exists exactly when $\lambda\ne1$ and $\lambda\ne-\tfrac12$ (for any $\mu$); (3) omits the case $\lambda=-\tfrac12$ and is wrong. For $\lambda=1$: the first two equations give $y=4,\ x+z=1$, so the third requires $\mu=13$: (1) and (2) are right. (4) holds too (e.g. at $\lambda=-\tfrac12,\mu=13$ the equations are consistent).
+

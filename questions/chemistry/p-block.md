@@ -73,3 +73,28 @@ Aluminium chloride in acidified aqueous solution forms an ion having the geometr
 
 **Solution.** $\text{Al}^{3+}$ is strongly hydrated: $\text{AlCl}_3+6\text{H}_2\text{O}\to[\text{Al(H}_2\text{O)}_6]^{3+}+3\text{Cl}^-$. The hexaaqua ion is octahedral ($sp^3d^2$/$d^2sp^3$-type description).
 
+### C-PBL-08 — JEE Main 2024 · 30 Jan Shift 2 · Q33 · MCQ
+
+Assertion A: $\text{H}_2\text{Te}$ is more acidic than $\text{H}_2\text{S}$.
+Reason R: The bond dissociation enthalpy of $\text{H}_2\text{Te}$ is lower than that of $\text{H}_2\text{S}$.
+
+(1) Both true, R is not the explanation  (2) Both true and R explains A  (3) A false, R true  (4) A true, R false
+
+**Answer: (2)** · key ✔
+
+**Solution.** Down the group, the H–E bond lengthens and weakens (Te–H $<$ S–H in bond enthalpy), so $\text{H}_2\text{Te}$ loses $\text{H}^+$ more easily and is the stronger acid ($\text{p}K_a$ of $\text{H}_2\text{Te}\approx2.6$ vs $7.0$ for $\text{H}_2\text{S}$). R explains A.
+
+### C-PBL-09 — JEE Main 2024 · 30 Jan Shift 2 · Q41 · MCQ
+
+Choose the correct statements about the hydrides of group 15 elements.
+A. Stability decreases in the order $\text{NH}_3>\text{PH}_3>\text{AsH}_3>\text{SbH}_3>\text{BiH}_3$.
+B. Reducing ability increases in the order $\text{NH}_3<\text{PH}_3<\text{AsH}_3<\text{SbH}_3<\text{BiH}_3$.
+C. Among the hydrides, $\text{NH}_3$ is a strong reducing agent while $\text{BiH}_3$ is a mild reducing agent.
+D. Basicity increases in the order $\text{NH}_3<\text{PH}_3<\text{AsH}_3<\text{SbH}_3<\text{BiH}_3$.
+
+(1) B and C only  (2) C and D only  (3) A and B only  (4) A and D only
+
+**Answer: (3)** · key ✔
+
+**Solution.** Down the group the E–H bond weakens, so stability falls (A true) and reducing power rises (B true). C is the reverse of B, so false. Basicity decreases from $\text{NH}_3$ to $\text{BiH}_3$ (the lone pair becomes more diffuse), so D is false.
+

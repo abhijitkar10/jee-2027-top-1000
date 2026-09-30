@@ -68,3 +68,23 @@ The value of $9\displaystyle\int_0^9\left[\sqrt{\frac{10x}{x+1}}\right]dx$, wher
 
 **Solution.** $g(x)=\sqrt{\tfrac{10x}{x+1}}$ increases from $0$ to $3$ on $[0,9]$. $g\ge1\iff x\ge\tfrac19$ and $g\ge2\iff10x\ge4x+4\iff x\ge\tfrac23$. So $[g]=0$ on $[0,\tfrac19)$, $1$ on $[\tfrac19,\tfrac23)$, $2$ on $[\tfrac23,9)$ (it reaches $3$ only at $x=9$). Integral $=1\left(\tfrac23-\tfrac19\right)+2\left(9-\tfrac23\right)=\tfrac59+\tfrac{50}3=\tfrac{155}9$. Times $9$: $155$.
 
+### M-DEF-08 — JEE Main 2024 · 30 Jan Shift 2 · Q75 · MCQ
+
+Let $y=f(x)$ be a thrice differentiable function in $(-5,5)$. The tangents to the curve at $(1,f(1))$ and $(3,f(3))$ make angles $\dfrac\pi6$ and $\dfrac\pi4$ with the positive $x$-axis respectively. If $27\displaystyle\int_1^3\left((f'(t))^2+1\right)f''(t)\,dt=\alpha+\beta\sqrt3$, where $\alpha,\beta$ are integers, then $\alpha+\beta$ equals
+
+(1) $-14$  (2) 26  (3) $-16$  (4) 36
+
+**Answer: (2)** · key ✔
+
+**Solution.** $f'(1)=\tan\tfrac\pi6=\tfrac1{\sqrt3}$ and $f'(3)=\tan\tfrac\pi4=1$. With $u=f'(t)$: $\int(u^2+1)du=\tfrac{u^3}3+u$. Evaluated from $\tfrac1{\sqrt3}$ to $1$: $\tfrac43-\left(\tfrac1{9\sqrt3}+\tfrac1{\sqrt3}\right)=\tfrac43-\tfrac{10}{9\sqrt3}=\tfrac43-\tfrac{10\sqrt3}{27}$. Times $27$: $36-10\sqrt3$, so $\alpha=36,\ \beta=-10$ and $\alpha+\beta=26$.
+
+### M-DEF-09 — JEE Main 2024 · 30 Jan Shift 2 · Q76 · MCQ
+
+Let $f:\mathbb R\to\mathbb R$ be $f(x)=ae^{2x}+be^x+cx$. If $f(0)=-1$, $f'(\ln2)=21$ and $\displaystyle\int_0^{\ln4}\left(f(x)-cx\right)dx=\tfrac{39}2$, then $|a+b+c|$ equals
+
+(1) 16  (2) 10  (3) 12  (4) 8
+
+**Answer: (4)** · key ✔
+
+**Solution.** $f(0)=a+b=-1$. $f'(\ln2)=8a+2b+c=21$. $\int_0^{\ln4}(ae^{2x}+be^x)dx=a\cdot\tfrac{16-1}2+b(4-1)=\tfrac{15a}2+3b=\tfrac{39}2\Rightarrow5a+2b=13$. With $b=-1-a$: $3a=15\Rightarrow a=5,\ b=-6$, and $c=21-40+12=-7$. So $a+b+c=-8$ and $|a+b+c|=8$.
+

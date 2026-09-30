@@ -20,3 +20,11 @@ Let $\alpha,\beta\in\mathbb N$ be roots of $x^2-70x+\lambda=0$, where $\dfrac\la
 
 **Solution.** $\alpha+\beta=70$ and $\lambda=\alpha\beta$. $\lambda$ is smaller when $\alpha,\beta$ are far apart, so test in order: $(1,69)$: $\lambda=69$, divisible by $3$; $(2,68)$: $136$, even; $(3,67)$: $201$, divisible by $3$; $(4,66)$: $264$, even; $(5,65)$: $\lambda=325$, not divisible by $2$ or $3$. So $\lambda=325$. Then $\dfrac{(2+8)(360)}{60}=60$.
 
+### M-QDR-03 — JEE Main 2024 · 30 Jan Shift 2 · Q81 · Numerical
+
+The number of real solutions of the equation $x\left(x^2+3|x|+5|x-1|+6|x-2|\right)=0$ is ______.
+
+**Answer: 1** · key ✔
+
+**Solution.** Either $x=0$ or $x^2+3|x|+5|x-1|+6|x-2|=0$. The second expression is a sum of non-negative terms and vanishes only if $x=0$, $x=1$ and $x=2$ simultaneously, which is impossible. So the only real solution is $x=0$.
+

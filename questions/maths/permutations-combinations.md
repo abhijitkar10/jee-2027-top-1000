@@ -48,3 +48,11 @@ Let $A=\{1,2,3,\dots,7\}$ and let $P(A)$ denote the power set of $A$. If the num
 
 **Solution.** For each $a$, $f(a)$ is a subset of $A$ containing $a$: the other $6$ elements are free, giving $2^6$ choices. Over $7$ elements: $(2^6)^7=2^{42}$. The least base is $m=2$ with $n=42$, so $m+n=44$.
 
+### M-PNC-06 — JEE Main 2024 · 30 Jan Shift 2 · Q82 · Numerical
+
+In an examination there are $20$ questions of equal marks, divided into three sections $A$, $B$ and $C$. A student must attempt a total of $15$ questions, taking at least $4$ from each section. If section $A$ has $8$ questions, section $B$ has $6$ and section $C$ has $6$, the total number of ways a student can select $15$ questions is ______.
+
+**Answer: 11376** · key ✔
+
+**Solution.** Let $(a,b,c)$ be the numbers chosen from $A,B,C$: $a+b+c=15$, $4\le a\le8$, $4\le b,c\le6$. Valid triples and counts: $(7,4,4)$: $8\cdot15\cdot15=1800$; $(6,4,5)$ and $(6,5,4)$: $2\times(28\cdot15\cdot6)=5040$; $(5,4,6)$ and $(5,6,4)$: $2\times(56\cdot15\cdot1)=1680$; $(5,5,5)$: $56\cdot6\cdot6=2016$; $(4,5,6)$ and $(4,6,5)$: $2\times(70\cdot6\cdot1)=840$. Total $=1800+5040+1680+2016+840=11376$.
+

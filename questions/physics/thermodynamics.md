@@ -42,3 +42,13 @@ $N$ moles of a polyatomic gas ($f=6$) must be mixed with two moles of a monoatom
 
 **Solution.** Molar $C_v=\tfrac f2R$: polyatomic $3R$, monoatomic $\tfrac32R$, diatomic $\tfrac52R$. Mixing: $\dfrac{N(3)+2\left(\tfrac32\right)}{N+2}=\tfrac52\Rightarrow3N+3=2.5N+5\Rightarrow N=4$.
 
+### P-THD-05 — JEE Main 2024 · 30 Jan Shift 2 · Q9 · MCQ
+
+If three moles of a monoatomic gas ($\gamma=\tfrac53$) are mixed with two moles of a diatomic gas ($\gamma=\tfrac75$), the value of the adiabatic exponent $\gamma$ for the mixture is
+
+(1) 1.75  (2) 1.40  (3) 1.52  (4) 1.35
+
+**Answer: (3)** · key ✔
+
+**Solution.** $C_v$: monoatomic $\tfrac32R$, diatomic $\tfrac52R$. $C_{v,mix}=\dfrac{3(1.5R)+2(2.5R)}5=1.9R$ and $C_{p,mix}=C_v+R=2.9R$. $\gamma=\dfrac{2.9}{1.9}=1.526\approx1.52$.
+

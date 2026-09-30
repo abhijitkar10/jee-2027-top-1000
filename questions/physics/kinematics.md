@@ -56,3 +56,13 @@ The displacement and the increase in velocity of a moving particle in the time i
 
 **Solution.** The increase in velocity in $1$ s gives $a=50\ \text{m s}^{-2}$. For the interval $t\to t+1$: $125=v_t(1)+\tfrac12(50)(1)^2\Rightarrow v_t=100$ m/s. Then $v_{t+1}=150$ m/s, and in the next second $s=150(1)+\tfrac12(50)=175$ m.
 
+### P-KIN-07 — JEE Main 2024 · 30 Jan Shift 2 · Q2 · MCQ
+
+Projectiles $A$ and $B$ are thrown at angles of $45^\circ$ and $60^\circ$ with the vertical respectively from the top of a $400$ m high tower. If their times of flight are the same, the ratio of their speeds of projection $v_A:v_B$ is
+
+(1) $1:\sqrt3$  (2) $\sqrt2:1$  (3) $1:2$  (4) $1:\sqrt2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Elevation angles above the horizontal are $45^\circ$ and $30^\circ$. Landing on the ground below satisfies $-400=v\sin\theta\,t-\tfrac12gt^2$, so equal $t$ needs equal $v\sin\theta$: $v_A\sin45^\circ=v_B\sin30^\circ\Rightarrow\dfrac{v_A}{v_B}=\dfrac{1/2}{1/\sqrt2}=\dfrac1{\sqrt2}$.
+

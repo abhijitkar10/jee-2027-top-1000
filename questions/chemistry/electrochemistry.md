@@ -85,3 +85,21 @@ For $2\text{MnO}_4^-+b\,\text{I}^-+c\,\text{H}_2\text{O}\to x\,\text{I}_2+y\,\te
 
 **Solution.** Reduction: $\text{MnO}_4^-+2\text{H}_2\text{O}+3e^-\to\text{MnO}_2+4\text{OH}^-$. Oxidation: $2\text{I}^-\to\text{I}_2+2e^-$. Multiply by $2$ and $3$: $2\text{MnO}_4^-+6\text{I}^-+4\text{H}_2\text{O}\to3\text{I}_2+2\text{MnO}_2+8\text{OH}^-$. So $z=8$.
 
+### C-ELC-10 — JEE Main 2024 · 30 Jan Shift 2 · Q40 · MCQ
+
+Reduction potentials of some ions are: $\text{ClO}_4^-$: $E^\circ=1.19$ V; $\text{IO}_4^-$: $E^\circ=1.65$ V; $\text{BrO}_4^-$: $E^\circ=1.74$ V. The correct order of their oxidising power is
+
+(1) $\text{ClO}_4^->\text{IO}_4^->\text{BrO}_4^-$  (2) $\text{BrO}_4^->\text{IO}_4^->\text{ClO}_4^-$  (3) $\text{BrO}_4^->\text{ClO}_4^->\text{IO}_4^-$  (4) $\text{IO}_4^->\text{BrO}_4^->\text{ClO}_4^-$
+
+**Answer: (2)** · key ✔
+
+**Solution.** A more positive standard reduction potential means a stronger oxidising agent: $1.74>1.65>1.19$, i.e. $\text{BrO}_4^->\text{IO}_4^->\text{ClO}_4^-$.
+
+### C-ELC-11 — JEE Main 2024 · 30 Jan Shift 2 · Q54 · Numerical
+
+The total number of species from the following that can undergo a disproportionation reaction is ______: $\text{H}_2\text{O}_2,\ \text{ClO}_3^-,\ \text{P}_4,\ \text{Cl}_2,\ \text{Ag},\ \text{Cu}^+,\ \text{F}_2,\ \text{NO}_2,\ \text{K}^+$
+
+**Answer: 6** · key ✔
+
+**Solution.** A species disproportionates if its element is in an intermediate oxidation state. $\text{H}_2\text{O}_2$ ($-1$: to $\text{O}_2$ and $\text{H}_2\text{O}$), $\text{ClO}_3^-$ ($+5$: to $\text{ClO}_4^-$ and $\text{Cl}^-$), $\text{P}_4$ ($0$: to $\text{PH}_3$ and $\text{H}_2\text{PO}_2^-$), $\text{Cl}_2$ ($0$: to $\text{Cl}^-$ and $\text{ClO}^-$), $\text{Cu}^+$ ($\to\text{Cu}^{2+}+\text{Cu}$) and $\text{NO}_2$ ($\to\text{NO}_3^-+\text{NO}_2^-$). $\text{F}_2$ cannot (no positive state), Ag is stable, and $\text{K}^+$ has no other state. Count $=6$.
+

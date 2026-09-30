@@ -61,3 +61,23 @@ A particle moves in a circle of radius $50$ cm so that at any instant the normal
 
 **Solution.** $a_t=a_n\Rightarrow v\dfrac{dv}{ds}=\dfrac{v^2}{r}\Rightarrow\dfrac{dv}{ds}=\dfrac vr\Rightarrow v=v_0e^{s/r}$. Then $\dfrac{ds}{dt}=v_0e^{s/r}\Rightarrow\int_0^{2\pi r}e^{-s/r}ds=v_0t\Rightarrow r\left(1-e^{-2\pi}\right)=v_0t$. So $t=\dfrac{0.5}{4}\left(1-e^{-2\pi}\right)=\dfrac18\left(1-e^{-2\pi}\right)$ and $\alpha=8$.
 
+### P-LOM-07 — JEE Main 2024 · 30 Jan Shift 2 · Q3 · MCQ
+
+Three blocks $A$ ($5$ kg), $B$ ($3$ kg) and $C$ ($2$ kg) are joined in a line by light strings ($T_1$ between $A$ and $B$, $T_2$ between $B$ and $C$) and pulled on a smooth horizontal surface by a force $F=80$ N applied on $C$. The tensions $T_1$ and $T_2$ are respectively
+
+(1) 40 N, 64 N  (2) 60 N, 80 N  (3) 88 N, 96 N  (4) 80 N, 100 N
+
+**Answer: (1)** · key ✔
+
+**Solution.** Common acceleration $a=\dfrac{80}{5+3+2}=8\ \text{m s}^{-2}$. $T_1$ pulls only $A$: $T_1=5\times8=40$ N. $T_2$ pulls $A$ and $B$: $T_2=(5+3)\times8=64$ N.
+
+### P-LOM-08 — JEE Main 2024 · 30 Jan Shift 2 · Q4 · MCQ
+
+A block of mass $m$ is placed on a surface whose vertical cross-section is $y=\dfrac{x^2}4$. If the coefficient of friction is $0.5$, the maximum height above the ground at which the block can be placed without slipping is
+
+(1) $\tfrac14$ m  (2) $\tfrac12$ m  (3) $\tfrac16$ m  (4) $\tfrac13$ m
+
+**Answer: (1)** · key ✔
+
+**Solution.** The block just fails to slip when $\tan\theta=\mu$, where the slope is $\dfrac{dy}{dx}=\dfrac x2$. So $\dfrac x2=0.5\Rightarrow x=1$ m, and $y=\dfrac{1^2}4=\dfrac14$ m.
+

@@ -41,3 +41,11 @@ Statement II: In a hydrogen atom, $3p$ and $3d$ orbitals are not degenerate orbi
 
 **Solution.** I is the definition of degeneracy. In a hydrogen atom (a one-electron system) energy depends only on $n$, so $3s,3p,3d$ are all degenerate; II is false. (In multi-electron atoms $l$ also matters and the degeneracy is lifted.)
 
+### C-ATS-05 — JEE Main 2024 · 30 Jan Shift 2 · Q51 · Numerical
+
+The number of spectral lines obtained in the $\text{He}^+$ spectrum when an electron makes transitions from the fifth excited state to the first excited state is ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** The fifth excited state is $n=6$ and the first excited state is $n=2$. Lines arise from transitions among the levels $n=2,3,4,5,6$ ($5$ levels): number $=\dfrac{5\times4}{2}=10$.
+

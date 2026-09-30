@@ -44,3 +44,11 @@ A disc of mass $5$ kg and radius $2$ m rotates with angular velocity $10\ \text{
 
 **Solution.** $I=\tfrac12MR^2=\tfrac12(5)(4)=10$ kg m$^2$. Angular momentum is conserved: $10(10)=20\omega'\Rightarrow\omega'=5$ rad/s. $K_i=\tfrac12(10)(100)=500$ J and $K_f=\tfrac12(20)(25)=250$ J. Energy dissipated $=250$ J.
 
+### P-ROT-06 — JEE Main 2024 · 30 Jan Shift 2 · Q22 · Numerical
+
+Two discs of moment of inertia $I_1=4\ \text{kg m}^2$ and $I_2=2\ \text{kg m}^2$ about their central axes (normal to their planes), rotating with angular speeds $10\ \text{rad s}^{-1}$ and $4\ \text{rad s}^{-1}$ respectively, are brought into contact face to face with their axes of rotation coincident. The loss in kinetic energy of the system in the process is ______ J.
+
+**Answer: 24** · key ✔
+
+**Solution.** Conservation of angular momentum: $\omega'=\dfrac{4(10)+2(4)}{4+2}=8$ rad/s. Loss $=\dfrac12\dfrac{I_1I_2}{I_1+I_2}(\omega_1-\omega_2)^2=\dfrac12\cdot\dfrac{8}{6}\cdot36=24$ J.
+

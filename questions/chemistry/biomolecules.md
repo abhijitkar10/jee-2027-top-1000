@@ -52,3 +52,16 @@ The sugar which does not give a reddish-brown precipitate with Fehling's reagent
 
 **Solution.** Fehling's reagent detects reducing sugars (free hemiacetal/aldehyde group). Glucose, lactose and maltose all have a free anomeric carbon. In sucrose the two anomeric carbons are joined through the glycosidic bond, so it is non-reducing.
 
+### C-BIO-06 — JEE Main 2024 · 30 Jan Shift 2 · Q60 · Numerical
+
+The total number of correct statements regarding the nucleic acids is ______.
+A. RNA is regarded as the reserve of genetic information.
+B. The DNA molecule self-duplicates during cell division.
+C. DNA synthesises proteins in the cell.
+D. The message for the synthesis of particular proteins is present in DNA.
+E. Identical DNA strands are transferred to daughter cells.
+
+**Answer: 3** · key ✔
+
+**Solution.** DNA (not RNA) is the reserve of genetic information, so A is false. B, D and E are correct (replication, genetic message, faithful transfer). Proteins are synthesised by ribosomes using mRNA (the message is copied from DNA), so DNA does not itself synthesise proteins; C is false. Count $=3$.
+

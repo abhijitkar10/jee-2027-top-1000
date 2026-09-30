@@ -78,7 +78,7 @@ Let $A(2,3,5)$ and $C(-3,4,-2)$ be opposite vertices of a parallelogram $ABCD$. 
 
 **Answer: (2)** · key ✔
 
-**Solution.** Area of a parallelogram $=\tfrac12|\vec d_1\times\vec d_2|$. $\overrightarrow{AC}=(-5,1,-7)$, $\overrightarrow{BD}=(1,2,3)$. $\overrightarrow{AC}\times\overrightarrow{BD}=(3+14,\ 7-(-15)\cdot\ldots)$; computing componentwise: $(1\cdot3-(-7)\cdot2,\ (-7)\cdot1-(-5)\cdot3,\ (-5)\cdot2-1\cdot1)=(17,8,-11)$, with $|\cdot|^2=289+64+121=474$. Area $=\tfrac12\sqrt{474}$.
+**Solution.** Area of a parallelogram $=\tfrac12|\vec d_1\times\vec d_2|$. $\overrightarrow{AC}=(-5,1,-7)$, $\overrightarrow{BD}=(1,2,3)$. $\overrightarrow{AC}\times\overrightarrow{BD}=\big((1)(3)-(-7)(2),\ (-7)(1)-(-5)(3),\ (-5)(2)-(1)(1)\big)=(17,8,-11)$, with $|\cdot|^2=289+64+121=474$. Area $=\tfrac12\sqrt{474}$.
 
 ### M-VEC-09 — JEE Main 2024 · 30 Jan Shift 1 · Q78 · MCQ
 

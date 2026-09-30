@@ -66,3 +66,13 @@ Let $(\alpha,\beta,\gamma)$ be the foot of the perpendicular from the point $(1,
 
 **Solution.** A point on the line: $(-3+5t,\,1+2t,\,-4+3t)$. The vector from $(1,2,3)$ is $(5t-4,\,2t-1,\,3t-7)$; perpendicular to $(5,2,3)$: $25t-20+4t-2+9t-21=0\Rightarrow t=\tfrac{43}{38}$. Foot $=\left(\tfrac{101}{38},\tfrac{124}{38},-\tfrac{23}{38}\right)$, with coordinate sum $\dfrac{202}{38}$. So $19(\alpha+\beta+\gamma)=101$.
 
+### M-TDG-08 — JEE Main 2024 · 30 Jan Shift 2 · Q79 · MCQ
+
+Let $L_1:\vec r=(\hat i-\hat j+2\hat k)+\lambda(\hat i-\hat j+2\hat k)$, $L_2:\vec r=(\hat j-\hat k)+\mu(3\hat i+\hat j+p\hat k)$ and $L_3:\vec r=\delta(l\hat i+m\hat j+n\hat k)$ be three lines such that $L_1\perp L_2$ and $L_3$ is perpendicular to both $L_1$ and $L_2$. Then a point which lies on $L_3$ is
+
+(1) $(-1,7,4)$  (2) $(-1,-7,4)$  (3) $(1,7,-4)$  (4) $(1,-7,4)$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $L_1\perp L_2$: $(1,-1,2)\cdot(3,1,p)=3-1+2p=0\Rightarrow p=-1$. $L_3$ has direction $(1,-1,2)\times(3,1,-1)=\left((-1)(-1)-2(1),\ 2(3)-(1)(-1),\ 1(1)-(-1)(3)\right)=(-1,7,4)$. $L_3$ passes through the origin, so $\delta(-1,7,4)$ lies on it; at $\delta=1$ the point is $(-1,7,4)$.
+

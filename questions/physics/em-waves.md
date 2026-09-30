@@ -42,3 +42,23 @@ The electric field of an electromagnetic wave in free space is $\vec E=E_0\cos(\
 
 **Solution.** The wave travels along $+z$ (phase $\omega t-kz$). $\vec E\times\vec B$ must point along $+z$: $\hat i\times\hat j=\hat k$, so $\vec B\parallel+\hat j$. In free space $B_0=E_0/C$ and $\vec B$ is in phase with $\vec E$.
 
+### P-EMW-05 — JEE Main 2024 · 30 Jan Shift 2 · Q13 · MCQ
+
+Match List I with List II. A. Gauss's law of magnetostatics  B. Faraday's law of electromagnetic induction  C. Ampere's law  D. Gauss's law of electrostatics. (i) $\oint\vec E\cdot d\vec a=\dfrac1{\varepsilon_0}\int\rho\,dV$  (ii) $\oint\vec B\cdot d\vec a=0$  (iii) $\oint\vec E\cdot d\vec l=-\dfrac d{dt}\int\vec B\cdot d\vec a$  (iv) $\oint\vec B\cdot d\vec l=\mu_0I$
+
+(1) A-I, B-III, C-IV, D-II  (2) A-III, B-IV, C-I, D-II  (3) A-IV, B-II, C-III, D-I  (4) A-II, B-III, C-IV, D-I
+
+**Answer: (4)** · key ✔
+
+**Solution.** Gauss's law for magnetism: no monopoles, $\oint\vec B\cdot d\vec a=0$ (ii). Faraday: (iii). Ampere: (iv). Gauss's law for electricity: (i). So A-II, B-III, C-IV, D-I.
+
+### P-EMW-06 — JEE Main 2024 · 30 Jan Shift 2 · Q15 · MCQ
+
+If the total energy transferred to a surface in time $t$ is $6.48\times10^5$ J, then the magnitude of the total momentum delivered to this surface for complete absorption will be
+
+(1) $2.46\times10^{-3}$  (2) $2.16\times10^{-3}$  (3) $1.58\times10^{-3}$  (4) $4.32\times10^{-3}$ (all in kg m s$^{-1}$)
+
+**Answer: (2)** · key ✔
+
+**Solution.** For complete absorption of radiation, $p=\dfrac Uc=\dfrac{6.48\times10^5}{3\times10^8}=2.16\times10^{-3}\ \text{kg m s}^{-1}$.
+

@@ -33,3 +33,14 @@ Reason (R): Allyl halides are the compounds in which the halogen atom is attache
 
 **Solution.** In an allyl halide the halogen is attached to an $sp^3$ carbon that is adjacent to a $\text{C=C}$ (allylic position). Halogen on an $sp^2$ carbon of the double bond is a vinylic halide. So A is true and R is false.
 
+### C-HAL-04 — JEE Main 2024 · 30 Jan Shift 2 · Q47 · MCQ
+
+Statement I: A high concentration of a strong nucleophilic reagent with secondary alkyl halides which do not have bulky substituents will follow the $S_N2$ mechanism.
+Statement II: A secondary alkyl halide treated with a large excess of ethanol follows the $S_N1$ mechanism.
+
+(1) I true, II false  (2) I false, II true  (3) Both false  (4) Both true
+
+**Answer: (4)** · key ✔
+
+**Solution.** Secondary substrates can go by either path depending on conditions. A strong nucleophile at high concentration, unhindered substrate: $S_N2$ (rate $=k[\text{RX}][\text{Nu}]$). Ethanol is a weak, polar protic nucleophile/solvent that favours ionisation, so an $S_N1$ path operates. Both are true.
+

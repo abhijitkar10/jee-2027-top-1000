@@ -48,3 +48,11 @@ If the circles $(x+1)^2+(y+2)^2=r^2$ and $x^2+y^2-4x-4y+4=0$ intersect at exactl
 
 **Solution.** The second circle has centre $(2,2)$ and radius $2$. The centres are $\sqrt{9+16}=5$ apart. Two intersection points require $|r-2|<5<r+2$, i.e. $r>3$ and $r<7$.
 
+### M-CIR-06 — JEE Main 2024 · 30 Jan Shift 2 · Q85 · Numerical
+
+Consider two circles $C_1:x^2+y^2=25$ and $C_2:(x-\alpha)^2+y^2=16$, where $\alpha\in(5,9)$. Let the angle between the two radii (one to each circle) drawn from one of the intersection points of $C_1$ and $C_2$ be $\sin^{-1}\dfrac{\sqrt{63}}8$ (the acute angle). If the length of the common chord of $C_1$ and $C_2$ is $\beta$, then $(\alpha\beta)^2$ equals ______.
+
+**Answer: 1575** · key ✔
+
+**Solution.** In the triangle formed by the centres and an intersection point (sides $5,4,\alpha$) the angle $\theta$ at the intersection point has $\cos\theta=\tfrac18$. By the cosine rule $\alpha^2=25+16-2(5)(4)\tfrac18=36$, so $\alpha=6$. The common chord is twice the height of that triangle on base $\alpha$: area $=\sqrt{7.5\times2.5\times3.5\times1.5}=\tfrac{15\sqrt7}{4}$, and $\beta=\dfrac{4\cdot\text{Area}}\alpha=\dfrac{15\sqrt7}{6}=\dfrac{5\sqrt7}2$. Then $(\alpha\beta)^2=\left(6\cdot\tfrac{5\sqrt7}2\right)^2=(15\sqrt7)^2=1575$.
+

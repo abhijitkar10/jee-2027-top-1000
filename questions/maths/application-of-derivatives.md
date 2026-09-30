@@ -86,3 +86,13 @@ Let $g:\mathbb R\to\mathbb R$ be a non-constant twice differentiable function wi
 
 **Solution.** $f'(x)=\tfrac12\left[g'(x)-g'(2-x)\right]$. Then $f'\!\left(\tfrac12\right)=\tfrac12\left[g'(\tfrac12)-g'(\tfrac32)\right]=0$, $f'(1)=0$ and $f'\!\left(\tfrac32\right)=0$. By Rolle's theorem $f''$ vanishes at least once in $\left(\tfrac12,1\right)$ and at least once in $\left(1,\tfrac32\right)$: at least two zeros in $(0,2)$. (Option (4) gives $0\ne1$.)
 
+### M-AOD-10 — JEE Main 2024 · 30 Jan Shift 2 · Q74 · MCQ
+
+Let $f(x)=(x+3)^2(x-2)^3$, $x\in[-4,4]$. If $M$ and $m$ are the maximum and minimum values of $f$ in $[-4,4]$ respectively, then $M-m$ is
+
+(1) 600  (2) 392  (3) 608  (4) 108
+
+**Answer: (3)** · key ✔
+
+**Solution.** $f'(x)=(x+3)(x-2)^2\left[2(x-2)+3(x+3)\right]=5(x+3)(x+1)(x-2)^2$, with critical points $-3,-1,2$. Values: $f(-4)=(1)(-6)^3=-216$, $f(-3)=0$, $f(-1)=4(-27)=-108$, $f(2)=0$, $f(4)=49\cdot8=392$. So $M=392$, $m=-216$ and $M-m=608$.
+

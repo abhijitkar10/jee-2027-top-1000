@@ -43,3 +43,13 @@ A physical quantity $Q$ is found to depend on $a,b,c$ by the relation $Q=\dfrac{
 
 **Solution.** For $Q=a^pb^qc^r$ the maximum fractional error is $|p|\dfrac{\Delta a}a+|q|\dfrac{\Delta b}b+|r|\dfrac{\Delta c}c=4(3)+3(4)+2(5)=12+12+10=34\%$.
 
+### P-UNT-05 — JEE Main 2024 · 30 Jan Shift 2 · Q1 · MCQ
+
+If mass is written as $m=kc^PG^{-1/2}h^{1/2}$ (constants have their usual meaning, $k$ a dimensionless constant), then the value of $P$ is
+
+(1) $\tfrac12$  (2) $\tfrac13$  (3) 2  (4) $-\tfrac13$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $[G]=M^{-1}L^3T^{-2}$ and $[h]=ML^2T^{-1}$, so $[G^{-1/2}h^{1/2}]=M^{1/2}L^{-3/2}T\cdot M^{1/2}L\,T^{-1/2}=ML^{-1/2}T^{1/2}$. Multiplying by $[c^P]=L^PT^{-P}$ must give $M$: the $L$ exponent $P-\tfrac12=0$ and the $T$ exponent $\tfrac12-P=0$ both give $P=\tfrac12$.
+

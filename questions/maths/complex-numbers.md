@@ -54,3 +54,13 @@ If $z=x+iy$, $xy\neq0$, satisfies the equation $z^2+i\bar z=0$, then $|z^2|$ is 
 
 **Solution.** $z^2=-i\bar z\Rightarrow|z|^2=|{-i}|\,|\bar z|=|z|$. Since $z\neq0$ (as $xy\ne0$), $|z|=1$, so $|z^2|=|z|^2=1$.
 
+### M-CMP-07 — JEE Main 2024 · 30 Jan Shift 2 · Q61 · MCQ
+
+If $z$ is a complex number, the number of common roots of the equations $z^{1985}+z^{100}+1=0$ and $z^3+2z^2+2z+1=0$ is equal to
+
+(1) 1  (2) 2  (3) 0  (4) 3
+
+**Answer: (2)** · key ✔
+
+**Solution.** $z^3+2z^2+2z+1=(z+1)(z^2+z+1)$, so the roots are $-1,\omega,\omega^2$. For $z=-1$: $(-1)^{1985}+(-1)^{100}+1=-1+1+1=1\ne0$. For $z=\omega$: $1985\equiv2$ and $100\equiv1\pmod3$, so $\omega^2+\omega+1=0$ ✓. For $z=\omega^2$: $\omega^{3970}=\omega^{1}$ and $\omega^{200}=\omega^{2}$, so $\omega+\omega^2+1=0$ ✓. Two common roots.
+

@@ -44,3 +44,13 @@ The number of integral terms in the expansion of $\left\{7^{1/2}+11^{1/6}\right\
 
 **Solution.** $T_{r+1}={}^{824}C_r\,7^{(824-r)/2}\,11^{r/6}$. This is an integer when $6\mid r$ (for $11^{r/6}$) and $(824-r)$ is even (for the power of 7). As $824$ is even, $r$ must be even, which multiples of $6$ already satisfy. So $r=0,6,12,\dots,822$: $\dfrac{822}6+1=138$ terms.
 
+### M-BIN-06 — JEE Main 2024 · 30 Jan Shift 2 · Q63 · MCQ
+
+Suppose $28-p,\ p,\ 70-\alpha,\ \alpha$ are the coefficients of four consecutive terms in the expansion of $(1+x)^n$. Then $2\alpha-3p$ equals
+
+(1) 7  (2) 10  (3) 4  (4) 6
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let the coefficients be ${}^nC_{r-1},{}^nC_r,{}^nC_{r+1},{}^nC_{r+2}$. Adding the first two: ${}^{n+1}C_r=28$; adding the last two: ${}^{n+1}C_{r+2}=70$. Since ${}^8C_2=28$ and ${}^8C_4=70$: $n+1=8,\ r=2$, so $n=7$. Then $28-p={}^7C_1=7\Rightarrow p=21$ and $\alpha={}^7C_4=35$. So $2\alpha-3p=70-63=7$.
+

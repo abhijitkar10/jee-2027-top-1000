@@ -50,3 +50,13 @@ Two integers $x$ and $y$ are chosen with replacement from the set $\{0,1,2,3,\do
 
 **Solution.** Total outcomes $=11^2=121$. Ordered pairs with $|x-y|=d$: $2(11-d)$. For $d=6,7,8,9,10$: $10+8+6+4+2=30$. Probability $=\dfrac{30}{121}$.
 
+### M-PRB-06 — JEE Main 2024 · 30 Jan Shift 2 · Q80 · MCQ
+
+Bag $A$ contains $3$ white and $7$ red balls and bag $B$ contains $3$ white and $2$ red balls. One bag is selected at random and a ball is drawn from it. The probability of drawing the ball from bag $A$, if the ball drawn is white, is
+
+(1) $\tfrac14$  (2) $\tfrac19$  (3) $\tfrac13$  (4) $\tfrac3{10}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** By Bayes' theorem: $P(A\mid W)=\dfrac{\tfrac12\cdot\tfrac3{10}}{\tfrac12\cdot\tfrac3{10}+\tfrac12\cdot\tfrac35}=\dfrac{3/10}{3/10+6/10}=\dfrac13$.
+
