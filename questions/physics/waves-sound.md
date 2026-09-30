@@ -78,3 +78,13 @@ A closed organ pipe and an open organ pipe have the same length. If the ratio of
 
 **Solution.** Closed pipe: overtones are odd harmonics, the $7$th overtone is the $15$th harmonic: $f_c=\dfrac{15v}{4L}$. Open pipe: the $7$th overtone is the $8$th harmonic: $f_o=\dfrac{8v}{2L}=\dfrac{16v}{4L}$. $\dfrac{f_c}{f_o}=\dfrac{15}{16}=\dfrac{a-1}{a}\Rightarrow a=16$.
 
+### P-WAV-10 — JEE Main 2024 · 8 Apr Shift 2 · Q10 · MCQ
+
+A plane progressive wave is given by $y=2\cos2\pi(330t-x)$ m. The frequency of the wave is:
+
+(1) 330 Hz  (2) 660 Hz  (3) 340 Hz  (4) 165 Hz
+
+**Answer: (1)** · key ✔
+
+**Solution.** Compare with $y=A\cos(2\pi ft-kx)$: the coefficient of $t$ inside $2\pi(\ldots)$ is the frequency, $f=330$ Hz (wavelength $1$ m, speed $330$ m/s).
+

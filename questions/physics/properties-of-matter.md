@@ -246,3 +246,21 @@ A liquid column of height $0.04$ cm balances the excess pressure of a soap bubbl
 
 **Solution.** Excess pressure $\dfrac{4S}{R}=\rho gh=8\times10^3\times10\times4\times10^{-4}=32$ Pa. $R=\dfrac{4\times0.28}{32}=0.035$ m $=3.5$ cm, so the diameter is $7$ cm.
 
+### P-POM-28 — JEE Main 2024 · 8 Apr Shift 2 · Q7 · MCQ
+
+A cube of ice floats partly in water and partly in kerosene oil. The ratio of the volume of ice immersed in water to that in kerosene oil is (specific gravity of kerosene $=0.8$, of ice $=0.9$):
+
+(1) 1 : 1  (2) 5 : 4  (3) 8 : 9  (4) 9 : 10
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let the volumes below the water and kerosene surfaces be $V_w$ and $V_k$ (total $V$). Floating: $V_w(1)+V_k(0.8)=0.9V$ with $V_w+V_k=V$. Then $0.8V+0.2V_w=0.9V\Rightarrow V_w=\tfrac V2$, $V_k=\tfrac V2$. Ratio $1:1$.
+
+### P-POM-29 — JEE Main 2024 · 8 Apr Shift 2 · Q23 · Numerical
+
+Small water droplets of radius $0.01$ mm are formed in the upper atmosphere and fall with a terminal velocity of $10$ cm/s. Due to condensation, $8$ such droplets coalesce to form a larger drop. The new terminal velocity will be ______ cm/s.
+
+**Answer: 40** · key ✔
+
+**Solution.** $v_T=\dfrac{2r^2(\rho-\sigma)g}{9\eta}\propto r^2$. Volume conservation: $8r^3=R^3\Rightarrow R=2r$. $v_T'=4\times10=40$ cm/s.
+

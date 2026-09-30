@@ -96,3 +96,14 @@ If $279$ g of aniline is reacted with one equivalent of benzenediazonium chlorid
 
 **Solution.** $279$ g $=3$ mol aniline. Coupling at the para position gives $p$-aminoazobenzene (aniline yellow), $\text{C}_6\text{H}_5\text{N=N-C}_6\text{H}_4\text{NH}_2$, $M=197$ g mol$^{-1}$. Mass $=3\times197=591$ g.
 
+### C-AMN-12 — JEE Main 2024 · 8 Apr Shift 2 · Q50 · MCQ
+
+Statement I: $\text{C}_6\text{H}_5\text{NH}_2$, $(\text{C}_6\text{H}_5)_2\text{NH}$ and $(\text{C}_6\text{H}_5)_3\text{N}$ all react with $p$-toluenesulfonyl chloride.
+Statement II: Their products in the reaction are soluble in aqueous NaOH.
+
+(1) I false, II true  (2) I true, II false  (3) Both true  (4) Both false
+
+**Answer: (4)** · key ✔
+
+**Solution.** Hinsberg-type reactions need an N–H bond: the tertiary amine $(\text{C}_6\text{H}_5)_3\text{N}$ does not react (I false). Of the products, only the primary amine's sulfonamide has an acidic N–H and dissolves in NaOH; the secondary amine's sulfonamide has no N–H and is insoluble (II false).
+

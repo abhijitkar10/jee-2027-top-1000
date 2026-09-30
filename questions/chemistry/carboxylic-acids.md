@@ -20,3 +20,13 @@ The major product B of $\text{C}_6\text{H}_5\text{CH}_2\text{CH}_3\xrightarrow[\
 
 **Solution.** Vigorous oxidation of the side chain gives benzoic acid (A). $-\text{COOH}$ is meta-directing, so nitration gives $m$-nitrobenzoic acid (B). $\pi$ bonds: $3$ in the ring, $1$ in $\text{C=O}$ and $1$ in the $\text{N=O}$ of $-\text{NO}_2$ (formal). Total $=5$.
 
+### C-CAR-03 — JEE Main 2024 · 8 Apr Shift 2 · Q36 · MCQ
+
+The correct sequence of acidic strength (decreasing) of $\text{CH}_3\text{CH}_2\text{COOH}$, $\text{CH}_3\text{COOH}$, $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ and $\text{HCOOH}$ is:
+
+(1) $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}>\text{CH}_3\text{CH}_2\text{COOH}>\text{CH}_3\text{COOH}>\text{HCOOH}$  (2) $\text{CH}_3\text{COOH}>\text{CH}_3\text{CH}_2\text{COOH}>\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}>\text{HCOOH}$  (3) $\text{HCOOH}>\text{CH}_3\text{COOH}>\text{CH}_3\text{CH}_2\text{COOH}>\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$  (4) $\text{HCOOH}>\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}>\text{CH}_3\text{CH}_2\text{COOH}>\text{CH}_3\text{COOH}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Alkyl groups are electron-donating ($+I$): they destabilise the carboxylate and reduce acidity. The $+I$ effect grows with chain length, so $p K_a$: HCOOH $3.75$ < $\text{CH}_3\text{COOH}$ $4.76$ < $\text{CH}_3\text{CH}_2\text{COOH}$ $4.87$ < $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ $4.82$–$4.9$. Order of acidity: (3).
+

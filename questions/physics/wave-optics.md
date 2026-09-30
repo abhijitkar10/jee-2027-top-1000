@@ -146,3 +146,11 @@ A parallel beam of monochromatic light of wavelength $600$ nm passes through a s
 
 **Solution.** Second minimum: $\sin\theta=\dfrac{2\lambda}{a}=\dfrac{2\times600\times10^{-9}}{0.4\times10^{-3}}=3\times10^{-3}$ rad on each side of the axis. The full divergence (both sides) is $2\theta=6\times10^{-3}$ rad.
 
+### P-WOP-17 — JEE Main 2024 · 8 Apr Shift 2 · Q29 · Numerical
+
+Two slits are $1$ mm apart and the screen is $1$ m away. Light of wavelength $500$ nm is used. The width of each slit needed to obtain $10$ maxima of the double-slit pattern within the central maximum of the single-slit pattern is ______ $\times10^{-4}$ m.
+
+**Answer: 2** · key ✔
+
+**Solution.** Central maximum width $=\dfrac{2\lambda D}{a}$. Fringe width $\beta=\dfrac{\lambda D}{d}$. Setting $\dfrac{2\lambda D}{a}=10\beta=\dfrac{10\lambda D}{d}\Rightarrow a=\dfrac d5=0.2$ mm $=2\times10^{-4}$ m.
+

@@ -179,3 +179,21 @@ An electron with kinetic energy $5$ eV enters a region of uniform magnetic field
 
 **Solution.** No deflection requires $eE=evB$, i.e. $E=vB$. $v=\sqrt{\dfrac{2\times5\times1.6\times10^{-19}}{9\times10^{-31}}}=1.33\times10^6\ \text{m/s}$. $E=1.33\times10^6\times3\times10^{-6}=4\ \text{N C}^{-1}$.
 
+### P-MAG-21 — JEE Main 2024 · 8 Apr Shift 2 · Q13 · MCQ
+
+A long straight wire of radius $a$ carries a steady current $I$ uniformly distributed across its cross-section. The ratio of the magnetic field at $\tfrac a2$ and $2a$ from the axis of the wire is:
+
+(1) 1 : 4  (2) 1 : 1  (3) 3 : 4  (4) 4 : 1
+
+**Answer: (2)** · key ✔
+
+**Solution.** Inside: $B=\dfrac{\mu_0Ir}{2\pi a^2}$, at $r=a/2$: $\dfrac{\mu_0I}{4\pi a}$. Outside: $B=\dfrac{\mu_0I}{2\pi r}$, at $r=2a$: $\dfrac{\mu_0I}{4\pi a}$. Ratio $1:1$.
+
+### P-MAG-22 — JEE Main 2024 · 8 Apr Shift 2 · Q27 · Numerical
+
+The coercivity of a magnet is $5\times10^3\ \text{A/m}$. The current required in a solenoid of length $30$ cm and $150$ turns to demagnetise the magnet placed inside is ______ A.
+
+**Answer: 10** · key ✔
+
+**Solution.** The reverse field needed is $H=nI=\dfrac{N}{l}I=5\times10^3$. $I=\dfrac{5\times10^3\times0.3}{150}=10$ A.
+

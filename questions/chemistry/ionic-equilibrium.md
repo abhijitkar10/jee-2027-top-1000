@@ -68,3 +68,14 @@ The decreasing order of basic strength of the conjugate bases $\text{OH}^-$, $\t
 
 **Solution.** A stronger acid has a weaker conjugate base. Acid strength: $\text{HCl}>\text{CH}_3\text{COOH}>\text{H}_2\text{O}>\text{ROH}$, so base strength is $\text{RO}^->\text{OH}^->\text{CH}_3\text{COO}^->\text{Cl}^-$ (the alkyl group's $+I$ effect makes $\text{RO}^-$ the strongest).
 
+### C-ION-08 — JEE Main 2024 · 8 Apr Shift 2 · Q35 · MCQ
+
+Statement I: A buffer solution is a mixture of a salt and an acid or a base mixed in any particular quantities.
+Statement II: Blood is a naturally occurring buffer solution whose pH is maintained by $\text{H}_2\text{CO}_3/\text{HCO}_3^-$ concentrations.
+
+(1) I true, II false  (2) Both true  (3) I false, II true  (4) Both false
+
+**Answer: (3)** · key ✔
+
+**Solution.** A buffer needs a weak acid (or base) and its conjugate in comparable amounts (typically within a $1:10$ to $10:1$ ratio), not "any quantities": I is false. Blood pH ($\approx7.4$) is held by the carbonic acid/bicarbonate system: II is true.
+

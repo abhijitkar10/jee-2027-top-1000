@@ -199,3 +199,13 @@ A car of $800$ kg is taking a turn on a banked road of radius $300$ m and bankin
 
 **Solution.** $v_{max}^2=rg\dfrac{\tan\theta+\mu}{1-\mu\tan\theta}$ with $\tan30^\circ=\dfrac1{1.73}=0.578$: $\dfrac{0.578+0.2}{1-0.1156}=0.880$. $v^2=300\times10\times0.880=2640$, so $v\approx51.4$ m/s.
 
+### P-LOM-21 — JEE Main 2024 · 8 Apr Shift 2 · Q3 · MCQ
+
+An object takes $n$ times the time to slide down a rough $45^\circ$ inclined plane as it takes to slide down an identical perfectly smooth $45^\circ$ inclined plane. The coefficient of kinetic friction between the object and the inclined plane is:
+
+(1) $\dfrac{1}{\sqrt{1-\frac1{n^2}}}$  (2) $\sqrt{1-\dfrac1{n^2}}$  (3) $1-\dfrac1{n^2}$  (4) $\sqrt{1-n^2}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** For a distance $s$ from rest, $t=\sqrt{2s/a}$, so $t\propto a^{-1/2}$. Smooth: $a_1=g\sin45^\circ$; rough: $a_2=g(\sin45^\circ-\mu\cos45^\circ)=g\sin45^\circ(1-\mu)$. $\dfrac{t_2}{t_1}=\sqrt{\dfrac{a_1}{a_2}}=\dfrac1{\sqrt{1-\mu}}=n\Rightarrow\mu=1-\dfrac1{n^2}$.
+

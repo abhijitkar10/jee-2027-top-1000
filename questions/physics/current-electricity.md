@@ -238,3 +238,13 @@ The resistance of a wire at $0^\circ$C, $100^\circ$C and $t^\circ$C is found to 
 
 **Solution.** Linear $R(t)$: $\dfrac{R_t-R_0}{R_{100}-R_0}=\dfrac{t}{100}$. $\dfrac{0.95}{0.2}=\dfrac{t}{100}\Rightarrow t=475^\circ$C $=748$ K.
 
+### P-CUR-26 — JEE Main 2024 · 8 Apr Shift 2 · Q12 · MCQ
+
+Water boils in an electric kettle in $20$ minutes after being switched on. Using the same mains supply, the length of the heating element should be ______ to ______ times of its initial length if the water is to be boiled in $15$ minutes.
+
+(1) decreased, $\tfrac34$  (2) increased, $\tfrac43$  (3) decreased, $\tfrac43$  (4) increased, $\tfrac34$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $t=\dfrac{H}{P}=\dfrac{HR}{V^2}\propto R\propto l$ for the same supply and wire. $\dfrac{l'}{l}=\dfrac{15}{20}=\dfrac34$: the length must be decreased to $\tfrac34$ of its initial value.
+

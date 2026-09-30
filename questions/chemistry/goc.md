@@ -120,3 +120,13 @@ Which of the following is an **incorrect** statement?
 
 **Solution.** The electromeric effect is a temporary complete transfer of $\pi$ electrons, shown only in the presence of an attacking reagent, and it dominates the inductive effect. When the attacking reagent is an electrophile such as $\text{H}^+$ the transfer is towards the attacked atom: $+E$, not $-E$. Statement (3) is wrong.
 
+### C-GOC-13 — JEE Main 2024 · 8 Apr Shift 2 · Q32 · MCQ
+
+The shape of a carbocation is:
+
+(1) diagonal pyramidal  (2) trigonal planar  (3) tetrahedral  (4) diagonal
+
+**Answer: (2)** · key ✔
+
+**Solution.** The positively charged carbon of a carbocation ($\text{R}_3\text{C}^+$) has three bond pairs and no lone pair: it is $sp^2$ hybridised with a vacant $p$ orbital, giving a trigonal planar shape.
+

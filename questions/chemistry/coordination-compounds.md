@@ -326,3 +326,11 @@ An octahedral complex with formula $\text{CoCl}_3\cdot n\text{NH}_3$ upon reacti
 
 **Solution.** Two $\text{Cl}^-$ per formula unit are ionisable (outside the sphere), so the complex is $[\text{Co(NH}_3)_5\text{Cl}]\text{Cl}_2$ (octahedral with $5+1=6$ ligands). $n=5$ and Co is $+3$ ($x=3$). $x+n=8$.
 
+### C-COO-33 — JEE Main 2024 · 8 Apr Shift 2 · Q58 · Numerical
+
+The total number of unpaired electrons in the complex ions $[\text{Co(NH}_3)_6]^{3+}$ and $[\text{NiCl}_4]^{2-}$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** $[\text{Co(NH}_3)_6]^{3+}$: $\text{Co}^{3+}$ ($d^6$) with strong-field $\text{NH}_3$, low spin $t_{2g}^6$: $0$ unpaired. $[\text{NiCl}_4]^{2-}$: $\text{Ni}^{2+}$ ($d^8$), tetrahedral ($sp^3$) with weak-field $\text{Cl}^-$: $e^4t_2^4$, $2$ unpaired. Total $=2$.
+

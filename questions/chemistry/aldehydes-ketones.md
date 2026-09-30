@@ -67,3 +67,11 @@ In the Claisen–Schmidt reaction to prepare $351$ g of dibenzalacetone using $8
 
 **Solution.** $\text{CH}_3\text{COCH}_3+2\,\text{C}_6\text{H}_5\text{CHO}\to(\text{C}_6\text{H}_5\text{CH=CH})_2\text{CO}+2\text{H}_2\text{O}$. Dibenzalacetone ($234$ g/mol): $351$ g $=1.5$ mol, which needs $1.5$ mol acetone ($87$ g ✓) and $3$ mol benzaldehyde $=3\times106=318$ g.
 
+### C-ALD-08 — JEE Main 2024 · 8 Apr Shift 2 · Q59 · Numerical
+
+Two moles of benzaldehyde and one mole of acetone under alkaline conditions (aqueous NaOH, heat) give product X as the major product. The number of $\pi$ bonds in X is ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** X is dibenzalacetone, $(\text{C}_6\text{H}_5\text{CH=CH})_2\text{C=O}$ (Claisen–Schmidt). $\pi$ bonds: two rings $2\times3=6$, two $\text{C=C}$ $=2$ and one $\text{C=O}$ $=1$. Total $=9$.
+

@@ -173,3 +173,13 @@ Two planets A and B of masses $m_1$ and $m_2$ move around the sun in circular or
 
 **Solution.** Kepler: $\dfrac{T_A}{T_B}=\left(\dfrac{r_1}{r_2}\right)^{3/2}$. Angular momentum of a circular orbit: $L=m\sqrt{GMr}$, so $\dfrac{L}{3L}=\dfrac{m_1\sqrt{r_1}}{m_2\sqrt{r_2}}\Rightarrow\sqrt{\dfrac{r_1}{r_2}}=\dfrac{m_2}{3m_1}$. Hence $\dfrac{T_A}{T_B}=\left(\dfrac{m_2}{3m_1}\right)^3=\dfrac1{27}\left(\dfrac{m_2}{m_1}\right)^3$.
 
+### P-GRV-18 — JEE Main 2024 · 8 Apr Shift 2 · Q6 · MCQ
+
+Two satellites A and B go round a planet in circular orbits of radii $4R$ and $R$ respectively. If the speed of A is $3v$, the speed of B will be:
+
+(1) $3v$  (2) $6v$  (3) $\tfrac43v$  (4) $12v$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Orbital speed $v_0=\sqrt{GM/r}\propto r^{-1/2}$. $\dfrac{v_B}{v_A}=\sqrt{\dfrac{4R}{R}}=2$, so $v_B=6v$.
+

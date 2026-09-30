@@ -125,3 +125,13 @@ Statement II: Phenol-$2,4$-disulphonic acid, when treated with conc. $\text{HNO}
 
 **Solution.** Picric acid is $2,4,6$-trinitro**phenol** (TNT is the toluene compound), so I is false. Direct nitration of phenol gives tar and oxidation products, so picric acid is made by sulphonating phenol to the $2,4$-disulphonic acid and then treating with conc. $\text{HNO}_3$, which replaces the $-\text{SO}_3\text{H}$ groups: II is true.
 
+### C-ALC-12 — JEE Main 2024 · 8 Apr Shift 2 · Q47 · MCQ
+
+Which compound reacts readily with dilute NaOH?
+
+(1) $\text{C}_2\text{H}_5\text{OH}$  (2) $\text{C}_6\text{H}_5\text{OH}$  (3) $\text{C}_6\text{H}_5\text{CH}_2\text{OH}$  (4) $(\text{CH}_3)_3\text{COH}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Phenol ($pK_a\approx10$) is acidic enough to be deprotonated by NaOH because the phenoxide ion is resonance-stabilised. Alcohols ($pK_a\approx16$–$18$) do not react with dilute NaOH.
+

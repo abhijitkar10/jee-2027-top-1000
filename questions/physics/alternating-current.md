@@ -183,3 +183,21 @@ An LCR circuit is at resonance for a capacitor $C$, inductance $L$ and resistanc
 
 **Solution.** At resonance $Z=R$, so $I_0=\dfrac{V_0}{R}$. Halving $R$ doubles the current amplitude.
 
+### P-ACC-20 — JEE Main 2024 · 8 Apr Shift 2 · Q14 · MCQ
+
+A coil of negligible resistance is connected in series with a $90\ \Omega$ resistor across a $120$ V, $60$ Hz supply. A voltmeter reads $36$ V across the resistance. The inductance of the coil is:
+
+(1) 0.286 H  (2) 0.76 H  (3) 2.86 H  (4) 0.91 H
+
+**Answer: (2)** · key ✔
+
+**Solution.** $I=\dfrac{36}{90}=0.4$ A. $Z=\dfrac{120}{0.4}=300\ \Omega$. $X_L=\sqrt{Z^2-R^2}=\sqrt{300^2-90^2}=286\ \Omega$. $L=\dfrac{X_L}{2\pi f}=\dfrac{286}{2\pi\times60}=0.76$ H.
+
+### P-ACC-21 — JEE Main 2024 · 8 Apr Shift 2 · Q28 · Numerical
+
+An alternating emf $E=110\sqrt2\sin100t$ volt is applied to a $2\ \mu$F capacitor. The r.m.s. value of the current in the circuit is ______ mA.
+
+**Answer: 22** · key ✔
+
+**Solution.** $V_{rms}=110$ V, $\omega=100$ rad/s. $X_C=\dfrac{1}{100\times2\times10^{-6}}=5000\ \Omega$. $I_{rms}=\dfrac{110}{5000}=0.022$ A $=22$ mA.
+

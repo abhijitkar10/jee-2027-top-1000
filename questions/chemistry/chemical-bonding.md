@@ -286,3 +286,21 @@ The number of molecules that are exceptions to the octet rule among $\text{CO}_2
 
 **Solution.** Exceptions: $\text{NO}_2$ and $\text{ClO}_2$ (odd-electron), $\text{H}_2\text{SO}_4$ (expanded octet on S), $\text{BF}_3$ and $\text{BeF}_2$ (electron-deficient), $\text{PCl}_5$ (expanded). Count $=6$. The rest ($\text{CO}_2$, $\text{CH}_4$, $\text{SiF}_4$, $\text{C}_2\text{H}_6$, $\text{CHCl}_3$, $\text{CBr}_4$) obey the octet rule (H has a duet).
 
+### C-BND-32 — JEE Main 2024 · 8 Apr Shift 2 · Q33 · MCQ
+
+When $\psi_A$ and $\psi_B$ are the wave functions of atomic orbitals, $\psi_A-\psi_B$ represents:
+
+(1) $\psi_A+2\psi_B$  (2) $\sigma^*$  (3) $\psi_A+\psi_B$  (4) $\psi_A-2\psi_B$
+
+**Answer: (2)** · key ✔
+
+**Solution.** In the LCAO method the sum $\psi_A+\psi_B$ gives the bonding MO ($\sigma$) and the difference $\psi_A-\psi_B$ gives the antibonding MO ($\sigma^*$).
+
+### C-BND-33 — JEE Main 2024 · 8 Apr Shift 2 · Q52 · Numerical
+
+The number of molecules with bond order $2$ among $\text{C}_2$, $\text{O}_2$, $\text{Be}_2$, $\text{Li}_2$, $\text{Ne}_2$, $\text{N}_2$, $\text{He}_2$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** $\text{C}_2$: $2$ (two $\pi$ bonds). $\text{O}_2$: $2$. $\text{Be}_2$: $0$; $\text{Li}_2$: $1$; $\text{Ne}_2$: $0$; $\text{N}_2$: $3$; $\text{He}_2$: $0$. Count $=2$.
+

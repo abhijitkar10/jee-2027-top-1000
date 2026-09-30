@@ -210,3 +210,13 @@ A particle moves in a straight line with displacement given by $x^2=1+t^2$. Its 
 
 **Solution.** $2x\dot x=2t\Rightarrow\dot x=\dfrac tx$. $\ddot x=\dfrac{x-t\dot x}{x^2}=\dfrac{x-t^2/x}{x^2}=\dfrac{x^2-t^2}{x^3}=\dfrac{1}{x^3}$. So $n=3$.
 
+### P-KIN-24 — JEE Main 2024 · 8 Apr Shift 2 · Q2 · MCQ
+
+The angle of projection for a projectile to have the same horizontal range and maximum height is:
+
+(1) $\tan^{-1}(4)$  (2) $\tan^{-1}\left(\tfrac14\right)$  (3) $\tan^{-1}\left(\tfrac12\right)$  (4) $\tan^{-1}(2)$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $R=\dfrac{u^2\sin2\theta}{g}$ and $H=\dfrac{u^2\sin^2\theta}{2g}$. $R=H\Rightarrow2\sin\theta\cos\theta=\dfrac{\sin^2\theta}{2}\Rightarrow\tan\theta=4$.
+

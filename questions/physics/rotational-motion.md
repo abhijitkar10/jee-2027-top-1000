@@ -116,3 +116,21 @@ Three balls of masses $2$ kg, $4$ kg and $6$ kg are placed at the centres of the
 
 **Solution.** The distance from the centroid to each edge midpoint is the inradius $=\dfrac{a}{2\sqrt3}=\dfrac1{\sqrt3}$ m. $I=\sum mr^2=(2+4+6)\times\dfrac13=4\ \text{kg m}^2$.
 
+### P-ROT-15 — JEE Main 2024 · 8 Apr Shift 2 · Q4 · MCQ
+
+A thin circular disc of mass $M$ and radius $R$ rotates in a horizontal plane about its axis with angular velocity $\omega$. Another disc of the same dimensions but mass $M/2$ is placed gently on the first disc co-axially. The new angular velocity of the system is:
+
+(1) $\tfrac32\omega$  (2) $\tfrac54\omega$  (3) $\tfrac23\omega$  (4) $\tfrac45\omega$
+
+**Answer: (3)** · key ✔
+
+**Solution.** No external torque, so $L$ is conserved. $I_1=\tfrac12MR^2$, $I_2=\tfrac12\cdot\tfrac M2R^2=\tfrac14MR^2$. $\omega'=\dfrac{I_1\omega}{I_1+I_2}=\dfrac{\frac12}{\frac34}\omega=\dfrac23\omega$.
+
+### P-ROT-16 — JEE Main 2024 · 8 Apr Shift 2 · Q22 · Numerical
+
+A circular table rotates with angular velocity $\omega$ rad/s about its axis. There is a smooth groove along a radial direction. A steel ball is placed gently in the groove at a distance of $1$ m from the axis. All surfaces are smooth. If the radius of the table is $3$ m, the radial velocity of the ball with respect to the table when it leaves the table is $x\sqrt2\,\omega$ m/s, where $x=$ ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** In the rotating frame the ball feels the centrifugal force $m\omega^2r$ (the groove supplies the normal force). Then $v\dfrac{dv}{dr}=\omega^2r\Rightarrow v^2=\omega^2(r^2-r_0^2)$. At $r=3$: $v^2=\omega^2(9-1)=8\omega^2$, so $v=2\sqrt2\,\omega$ and $x=2$.
+

@@ -152,3 +152,19 @@ A solution containing $10$ g of the electrolyte $\text{AB}_2$ in $100$ g of wate
 
 **Solution.** $m=\dfrac{10/200}{0.1\ \text{kg}}=0.5$ mol kg$^{-1}$. $\Delta T_b=iK_bm\Rightarrow0.52=i(0.52)(0.5)\Rightarrow i=2$. For $n=3$ ions, $i=1+2\alpha\Rightarrow\alpha=0.5=5\times10^{-1}$.
 
+### C-SOL-18 — JEE Main 2024 · 8 Apr Shift 2 · Q56 · Numerical
+
+A solution is prepared by adding $1$ mole of ethyl alcohol to $9$ mole of water. The mass percent of solute in the solution is ______ (integer). (Molar masses: ethyl alcohol $46$, water $18$ g mol$^{-1}$)
+
+**Answer: 22** · key ✔
+
+**Solution.** Mass of ethanol $=46$ g; mass of water $=9\times18=162$ g. Mass percent $=\dfrac{46}{208}\times100=22.1\%\approx22$.
+
+### C-SOL-19 — JEE Main 2024 · 8 Apr Shift 2 · Q57 · Numerical
+
+The molality of an aqueous solution of urea is $4.44$ m. The mole fraction of urea in the solution is $x\times10^{-3}$. $x=$ ______ (integer).
+
+**Answer: 74** · key ✔
+
+**Solution.** In $1$ kg of water there are $\dfrac{1000}{18}=55.5$ mol. $\chi_{urea}=\dfrac{4.44}{4.44+55.5}=0.0741=74\times10^{-3}$.
+

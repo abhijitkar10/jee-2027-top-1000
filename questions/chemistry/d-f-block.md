@@ -277,3 +277,24 @@ The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with t
 
 **Solution.** Metallic radii (pm): Sc $164$, Ti $147$, V $135$, Mn $137$, Zn $134$, Cr $129$. Cr has the smallest (strong metallic bonding through the $d^5$ and half-filled $4s$). $\text{CrO}_4^{2-}$: $\text{Cr}^{6+}$ ($d^0$), so $\mu=0$.
 
+### C-DFB-29 — JEE Main 2024 · 8 Apr Shift 2 · Q34 · MCQ
+
+The equilibrium $\text{Cr}_2\text{O}_7^{2-}\rightleftharpoons2\text{CrO}_4^{2-}$ is shifted to the right in:
+
+(1) an acidic medium  (2) a basic medium  (3) a neutral medium  (4) a weakly acidic medium
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{Cr}_2\text{O}_7^{2-}+2\text{OH}^-\rightleftharpoons2\text{CrO}_4^{2-}+\text{H}_2\text{O}$. Alkali removes $\text{H}^+$ and drives the equilibrium to chromate (yellow); acid drives it back to dichromate (orange).
+
+### C-DFB-30 — JEE Main 2024 · 8 Apr Shift 2 · Q44 · MCQ
+
+Statement I: Fusion of $\text{MnO}_2$ with KOH and an oxidising agent gives dark green $\text{K}_2\text{MnO}_4$.
+Statement II: Manganate ion on electrolytic oxidation in alkaline medium gives permanganate ion.
+
+(1) I true, II false  (2) Both false  (3) I false, II true  (4) Both true
+
+**Answer: (4)** · key ✔
+
+**Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$ (green). Electrolytic oxidation in alkali: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$ (purple). Both true.
+

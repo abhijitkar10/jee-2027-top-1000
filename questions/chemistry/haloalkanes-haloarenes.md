@@ -83,3 +83,14 @@ Identify $X$ and $Y$: $\text{CH}_3\text{CH}_2\text{CH}_2\text{Br}\xrightarrow{X}
 
 **Solution.** Alcoholic NaOH at high temperature gives E2 elimination: propene. Addition of HBr follows Markovnikov's rule to give $2$-bromopropane. (With peroxides it would be anti-Markovnikov.)
 
+### C-HAL-09 — JEE Main 2024 · 8 Apr Shift 2 · Q46 · MCQ
+
+Statement I: $S_N2$ reactions are stereospecific, resulting in the formation of only one stereoisomer as the product.
+Statement II: $S_N1$ reactions generally result in the formation of products as racemic mixtures.
+
+(1) Both false  (2) I false, II true  (3) I true, II false  (4) Both true
+
+**Answer: (4)** · key ✔
+
+**Solution.** $S_N2$ proceeds with backside attack (inversion of configuration), so a single stereoisomer forms. $S_N1$ goes through a planar carbocation that the nucleophile can attack from either face, giving (partial) racemisation.
+

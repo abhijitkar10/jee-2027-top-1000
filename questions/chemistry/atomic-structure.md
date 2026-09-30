@@ -117,3 +117,11 @@ For a hydrogen atom the energy of an electron in the first excited state is $-3.
 
 **Solution.** For a Coulomb orbit, $KE=-E_{total}=+3.4$ eV $=34\times10^{-1}$ eV.
 
+### C-ATS-14 — JEE Main 2024 · 8 Apr Shift 2 · Q51 · Numerical
+
+The wavenumber of a radiation of wavelength $5800\ \text{Å}$ is $x\times10\ \text{cm}^{-1}$. $x=$ ______ (integer answer).
+
+**Answer: 1724** · key ✔
+
+**Solution.** $\lambda=5800\ \text{Å}=5.8\times10^{-5}$ cm. $\bar\nu=\dfrac1\lambda=\dfrac{1}{5.8\times10^{-5}}=1.724\times10^4\ \text{cm}^{-1}=1724\times10\ \text{cm}^{-1}$.
+

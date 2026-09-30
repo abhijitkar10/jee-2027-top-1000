@@ -148,3 +148,13 @@ For $\text{A}+\text{B}\to\text{C}$: the time for A to become $\tfrac14$ of its i
 
 **Solution.** $t_{1/4}=2t_{1/2}$ is the signature of first order in A (a constant half-life). A linear $[\text{B}]$ against $t$ plot means zero order in B. Overall order $=1+0=1$.
 
+### C-KIN-18 — JEE Main 2024 · 8 Apr Shift 2 · Q42 · MCQ
+
+For a reaction $\text{A}\xrightarrow{K_1}\text{B}\xrightarrow{K_2}\text{C}$, if the rate of formation of B is set to zero (steady state), the concentration of B is given by:
+
+(1) $(K_1+K_2)[\text{A}]$  (2) $\dfrac{K_1}{K_2}[\text{A}]$  (3) $(K_1-K_2)[\text{A}]$  (4) $K_1K_2[\text{A}]$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\dfrac{d[\text{B}]}{dt}=K_1[\text{A}]-K_2[\text{B}]=0\Rightarrow[\text{B}]=\dfrac{K_1}{K_2}[\text{A}]$.
+

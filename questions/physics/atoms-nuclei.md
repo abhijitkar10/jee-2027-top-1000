@@ -293,3 +293,23 @@ In an $\alpha$-particle scattering experiment the distance of closest approach f
 
 **Solution.** At closest approach $KE=\dfrac{k(2e)(80e)}{d}=\dfrac{9\times10^9\times160\times(1.6\times10^{-19})^2}{4.5\times10^{-14}}=8.19\times10^{-13}$ J. $v=\sqrt{\dfrac{2KE}{m}}=\sqrt{\dfrac{1.638\times10^{-12}}{6.72\times10^{-27}}}=1.56\times10^7=156\times10^5$ m/s.
 
+### P-ATN-33 — JEE Main 2024 · 8 Apr Shift 2 · Q17 · MCQ
+
+If $M_0$ is the mass of the isotope $^{12}_5\text{B}$ and $M_p$, $M_n$ are the masses of a proton and a neutron, the nuclear binding energy of the isotope is:
+
+(1) $(M_0-5M_p)c^2$  (2) $(5M_p+7M_n-M_0)c^2$  (3) $(M_0-12M_n)c^2$  (4) $(M_0-5M_p-7M_n)c^2$
+
+**Answer: (2)** · key ✔
+
+**Solution.** The nucleus has $Z=5$ protons and $N=12-5=7$ neutrons. Binding energy $=\Delta m\,c^2=(5M_p+7M_n-M_0)c^2$.
+
+### P-ATN-34 — JEE Main 2024 · 8 Apr Shift 2 · Q18 · MCQ
+
+In the hypothetical fission reaction $_{92}X^{236}\to{}_{56}Y^{141}+{}_{36}Z^{92}+3R$, the emitted particle R is:
+
+(1) electron  (2) neutron  (3) $\gamma$-radiation  (4) proton
+
+**Answer: (2)** · key ✔
+
+**Solution.** Mass number: $236=141+92+3A_R\Rightarrow A_R=1$. Charge: $92=56+36+3Z_R\Rightarrow Z_R=0$. A particle with $A=1$, $Z=0$ is a neutron.
+

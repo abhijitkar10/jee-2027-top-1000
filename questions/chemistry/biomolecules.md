@@ -141,3 +141,11 @@ The incorrect statements regarding enzymes are: (A) Enzymes are biocatalysts. (B
 
 **Solution.** A and C are true. B is false because enzymes are highly specific. D is false: oxidases catalyse oxidation, whereas maltase hydrolyses maltose to glucose.
 
+### C-BIO-15 — JEE Main 2024 · 8 Apr Shift 2 · Q60 · Numerical
+
+The total number of carbon atoms present in tyrosine, an amino acid, is ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** Tyrosine is $p$-hydroxyphenylalanine, $\text{HO-C}_6\text{H}_4\text{-CH}_2\text{-CH(NH}_2)\text{-COOH}$, $\text{C}_9\text{H}_{11}\text{NO}_3$: $6$ (ring) $+1$ ($\text{CH}_2$) $+1$ ($\alpha$-C) $+1$ (COOH) $=9$.
+

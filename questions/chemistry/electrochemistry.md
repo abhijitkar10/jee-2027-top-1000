@@ -298,3 +298,13 @@ Thiosulphate reacts differently with iodine and bromine: $2\text{S}_2\text{O}_3^
 
 **Solution.** $E^\circ(\text{Br}_2/\text{Br}^-)=1.09$ V exceeds $E^\circ(\text{I}_2/\text{I}^-)=0.54$ V, so $\text{Br}_2$ oxidises S from $+2$ to the higher state $+6$, while the weaker oxidant $\text{I}_2$ only takes it to the average $+2.5$ of tetrathionate.
 
+### C-ELC-32 — JEE Main 2024 · 8 Apr Shift 2 · Q40 · MCQ
+
+The emf of the cell $\text{Tl}\,|\,\text{Tl}^+(0.001\text{ M})\,\|\,\text{Cu}^{2+}(0.01\text{ M})\,|\,\text{Cu}$ is $0.83$ V at $298$ K. It could be increased by:
+
+(1) decreasing the concentration of both $\text{Tl}^+$ and $\text{Cu}^{2+}$  (2) increasing the concentration of $\text{Cu}^{2+}$ ions  (3) increasing the concentration of $\text{Tl}^+$ ions  (4) increasing the concentration of both
+
+**Answer: (2)** · key ✔
+
+**Solution.** Cell reaction: $2\text{Tl}+\text{Cu}^{2+}\to2\text{Tl}^++\text{Cu}$. $E=E^\circ-\dfrac{0.059}{2}\log\dfrac{[\text{Tl}^+]^2}{[\text{Cu}^{2+}]}$. $E$ rises when $[\text{Cu}^{2+}]$ (reactant) increases or $[\text{Tl}^+]$ (product) decreases; only option (2) does this alone.
+

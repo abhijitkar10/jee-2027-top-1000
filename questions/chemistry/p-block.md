@@ -253,3 +253,23 @@ Reason R: The inert pair effect stabilises the lower oxidation state down the gr
 
 **Solution.** Down group 13, the $ns^2$ pair becomes increasingly reluctant to participate in bonding, so $+1$ becomes progressively more stable, reaching Tl. R is the correct explanation of A.
 
+### C-PBL-25 — JEE Main 2024 · 8 Apr Shift 2 · Q31 · MCQ
+
+Correct statements about p-block elements and their compounds: (A) Non-metals have higher electronegativity than metals. (B) Non-metals have lower ionisation enthalpy than metals. (C) Compounds between highly reactive non-metals and highly reactive metals are generally ionic. (D) Non-metal oxides are generally basic. (E) Metal oxides are generally acidic or neutral.
+
+(1) (B), (D) only  (2) (A), (C) only  (3) (D), (E) only  (4) (B), (E) only
+
+**Answer: (2)** · key ✔
+
+**Solution.** Non-metals are more electronegative and have higher ionisation enthalpies (A true, B false). Large electronegativity differences give ionic compounds (C true). Non-metal oxides are generally acidic (D false) and metal oxides generally basic (E false).
+
+### C-PBL-26 — JEE Main 2024 · 8 Apr Shift 2 · Q43 · MCQ
+
+Incorrect statements about group 15 elements: (A) Dinitrogen is a diatomic gas that acts like an inert gas at room temperature. (B) The common oxidation states are $-3$, $+3$ and $+5$. (C) Nitrogen has a unique ability to form $p\pi$–$p\pi$ multiple bonds. (D) The stability of the $+5$ oxidation state increases down the group. (E) Nitrogen shows a maximum covalency of 6.
+
+(1) (A), (C), (E) only  (2) (B), (D), (E) only  (3) (D), (E) only  (4) (A), (B), (D) only
+
+**Answer: (3)** · key ✔
+
+**Solution.** A, B and C are true. D is false: due to the inert-pair effect the $+5$ state becomes *less* stable down the group (Bi(V) is a strong oxidant). E is false: nitrogen has no $d$ orbitals, so its maximum covalency is $4$.
+

@@ -121,3 +121,11 @@ For the reaction at $298$ K, $2\text{A}+\text{B}\to\text{C}$, $\Delta H=400$ kJ 
 
 **Solution.** $\Delta G=\Delta H-T\Delta S<0\Rightarrow T>\dfrac{\Delta H}{\Delta S}=\dfrac{400}{0.2}=2000$ K.
 
+### C-CTH-15 — JEE Main 2024 · 8 Apr Shift 2 · Q53 · Numerical
+
+$\Delta_{vap}H^\ominus$ for water is $+40.79$ kJ mol$^{-1}$ at $1$ bar and $100^\circ$C. The change in internal energy for this vaporisation under the same conditions is ______ kJ mol$^{-1}$ (integer). ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$)
+
+**Answer: 38** · key ✔
+
+**Solution.** $\text{H}_2\text{O}(l)\to\text{H}_2\text{O}(g)$: $\Delta n_g=1$. $\Delta U=\Delta H-\Delta n_gRT=40.79-\dfrac{8.3\times373}{1000}=40.79-3.10=37.69\approx38$ kJ mol$^{-1}$.
+

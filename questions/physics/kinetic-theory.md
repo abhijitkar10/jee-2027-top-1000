@@ -142,3 +142,14 @@ A mixture of one mole of a monoatomic gas and one mole of a rigid diatomic gas i
 
 **Solution.** $C_v=\tfrac32R$ (monoatomic) and $\tfrac52R$ (rigid diatomic): ratio $=\dfrac{3/2}{5/2}=\dfrac35$.
 
+### P-KTG-15 — JEE Main 2024 · 8 Apr Shift 2 · Q9 · MCQ
+
+Statement I: The mean free path of gas molecules is inversely proportional to the square of the molecular diameter.
+Statement II: The average kinetic energy of gas molecules is directly proportional to the absolute temperature of the gas.
+
+(1) I true, II false  (2) Both false  (3) Both true  (4) I false, II true
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\lambda=\dfrac{1}{\sqrt2\,n\pi d^2}\propto d^{-2}$ (I true). Mean translational KE $=\tfrac32k_BT$ (II true).
+
