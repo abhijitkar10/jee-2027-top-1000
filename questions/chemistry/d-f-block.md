@@ -316,3 +316,23 @@ The number of colourless lanthanoid ions among $\text{Eu}^{3+}$, $\text{Lu}^{3+}
 
 **Solution.** Ions with $4f^0$ ($\text{La}^{3+}$) and $4f^{14}$ ($\text{Lu}^{3+}$) have no $f$–$f$ transitions and are colourless. $\text{Nd}^{3+}$ (lilac), $\text{Sm}^{3+}$ (yellow) and $\text{Eu}^{3+}$ (pale pink) show colour. Count $=2$.
 
+### C-DFB-33 — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
+
+The pair(s) of diamagnetic ions is(are):
+
+(A) $\text{La}^{3+},\text{Ce}^{4+}$  (B) $\text{Yb}^{2+},\text{Lu}^{3+}$  (C) $\text{La}^{2+},\text{Ce}^{3+}$  (D) $\text{Yb}^{3+},\text{Lu}^{2+}$
+
+**Answer: (A), (B)** · official key ✔ (re-derived)
+
+**Solution.** Diamagnetic means no unpaired electrons. $\text{La}^{3+}$ and $\text{Ce}^{4+}$ are $4f^0$; $\text{Yb}^{2+}$ and $\text{Lu}^{3+}$ are $4f^{14}$: pairs (A) and (B). $\text{Ce}^{3+}$ ($4f^1$), $\text{La}^{2+}$ ($5d^1$ or $4f^1$), $\text{Yb}^{3+}$ ($4f^{13}$) and $\text{Lu}^{2+}$ ($4f^{14}6s^1$/$5d^1$) each have an unpaired electron.
+
+### C-DFB-34 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
+
+One of the products from the reaction of permanganate ion with iodide ion in neutral aqueous medium is:
+
+(A) $\text{I}_2$  (B) $\text{IO}_3^-$  (C) $\text{IO}_4^-$  (D) $\text{IO}_2^-$
+
+**Answer: (B)** · official key ✔ (re-derived)
+
+**Solution.** In neutral (or weakly alkaline) medium permanganate is reduced to $\text{MnO}_2$ and oxidises iodide all the way to iodate: $2\text{MnO}_4^-+\text{I}^-+\text{H}_2\text{O}\to2\text{MnO}_2+\text{IO}_3^-+2\text{OH}^-$. (In acid, $\text{I}_2$ forms.)
+

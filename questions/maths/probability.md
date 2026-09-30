@@ -130,3 +130,13 @@ The coefficients $a,b,c$ in the quadratic equation $ax^2+bx+c=0$ are chosen from
 
 **Solution.** Total triples $=8^3=512$. Repeated roots need $b^2=4ac$: $b=2$: $ac=1$ ($1$ way); $b=4$: $ac=4$ ($3$ ways); $b=6$: $ac=9$ ($(3,3)$, $1$ way); $b=8$: $ac=16$ ($(2,8),(4,4),(8,2)$, $3$ ways). Total $=8$. $P=\dfrac{8}{512}=\dfrac1{64}$.
 
+### M-PRB-14 — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
+
+Three students $S_1,S_2,S_3$ (solving independently) are given a problem. Events: $U$: at least one solves it; $V$: $S_1$ solves it given that neither $S_2$ nor $S_3$ solves it; $W$: $S_2$ solves it and $S_3$ does not; $T$: $S_3$ solves it. If $P(U)=\tfrac12$, $P(V)=\tfrac1{10}$ and $P(W)=\tfrac1{12}$, then $P(T)$ is
+
+(A) $\tfrac{13}{36}$  (B) $\tfrac13$  (C) $\tfrac{19}{60}$  (D) $\tfrac14$
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** Let $p_i=P(S_i\text{ solves})$. By independence $P(V)=p_1=\tfrac1{10}$. $P(\text{none})=1-P(U)=\tfrac12=(1-p_1)(1-p_2)(1-p_3)\Rightarrow(1-p_2)(1-p_3)=\dfrac{5}{9}$. Also $P(W)=p_2(1-p_3)=\tfrac1{12}$. Adding: $(1-p_3)\big[(1-p_2)+p_2\big]=\dfrac59+\dfrac1{12}=\dfrac{23}{36}$, so $p_3=\dfrac{13}{36}$.
+

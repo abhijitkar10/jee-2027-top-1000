@@ -58,3 +58,13 @@ A stationary particle breaks into two parts of masses $m_A$ and $m_B$ which move
 
 **Solution.** Momentum conservation: $m_Av_A=m_Bv_B$ (equal and opposite momenta). $\dfrac{K_B}{K_A}=\dfrac{\tfrac12m_Bv_B^2}{\tfrac12m_Av_A^2}=\dfrac{(m_Bv_B)v_B}{(m_Av_A)v_A}=\dfrac{v_B}{v_A}$.
 
+### P-COM-07 — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
+
+A particle of mass $2m$ collides elastically with a particle of mass $m$ initially at rest. The maximum angular deviation $\theta$ of the heavier particle from its original direction is
+
+(A) $\pi$  (B) $\tan^{-1}\!\left(\tfrac12\right)$  (C) $\pi/3$  (D) $\pi/6$
+
+**Answer: (D)** · official key ✔ (re-derived)
+
+**Solution.** When the projectile is heavier ($m_1=2m>m_2=m$) it cannot be scattered backwards, and the maximum deflection satisfies $\sin\theta_{max}=\dfrac{m_2}{m_1}=\dfrac12$, so $\theta_{max}=\dfrac\pi6$.
+

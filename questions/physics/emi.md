@@ -104,3 +104,13 @@ In a coil the current changes from $-2$ A to $+2$ A in $0.2$ s and induces an em
 
 **Solution.** $|\varepsilon|=L\dfrac{|\Delta I|}{\Delta t}=L\dfrac{4}{0.2}=20L=0.1\Rightarrow L=5\times10^{-3}$ H $=5$ mH.
 
+### P-EMI-13 — JEE Advanced 2025 · Paper 1 · Q5 · Multiple correct
+
+A square loop (side $L$, mass $M$, resistance $R$) moves in the $XY$ plane with edges parallel to the axes. The region $y\ge0$ has uniform $\vec B=B_0\hat k$. At $t=0$ the loop, with velocity $v_0\hat j$, starts entering the field. Let $K=\dfrac{B_0^2L^2}{RM}$; ignore self-inductance and gravity. Which are correct?
+
+(A) If $v_0=1.5KL$, the loop stops before it enters completely  (B) When the loop is completely inside, the net force on it is zero  (C) If $v_0=KL/10$, the loop stops at $t=\tfrac1K\ln\tfrac52$  (D) If $v_0=3KL$, the loop is completely inside at $t=\tfrac1K\ln\tfrac32$
+
+**Answer: (B), (D)** · official key ✔ (re-derived)
+
+**Solution.** While entering, $\varepsilon=B_0Lv$, $F=\dfrac{B_0^2L^2v}R$, so $M\dfrac{dv}{dt}=-\dfrac{B_0^2L^2}Rv\Rightarrow v=v_0e^{-Kt}$ and the distance entered is $y=\dfrac{v_0}K(1-e^{-Kt})$. It can enter at most $y_{max}=v_0/K$. (A) $v_0/K=1.5L>L$: it enters completely (false). (B) With the whole loop inside the uniform field the flux is constant, so $F=0$ (true). (C) $v$ decays exponentially and reaches zero only as $t\to\infty$ (false). (D) $v_0/K=3L$: $L=3L(1-e^{-Kt})\Rightarrow e^{-Kt}=\dfrac23\Rightarrow t=\dfrac1K\ln\dfrac32$ (true).
+

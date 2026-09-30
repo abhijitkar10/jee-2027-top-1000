@@ -313,3 +313,11 @@ In the hypothetical fission reaction $_{92}X^{236}\to{}_{56}Y^{141}+{}_{36}Z^{92
 
 **Solution.** Mass number: $236=141+92+3A_R\Rightarrow A_R=1$. Charge: $92=56+36+3Z_R\Rightarrow Z_R=0$. A particle with $A=1$, $Z=0$ is a neutron.
 
+### P-ATN-35 — JEE Advanced 2025 · Paper 1 · Q13
+
+An electron is in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$. At temperature $T$ a neutron of thermal energy $k_BT$ has the same de Broglie wavelength as the electron. If $T=\dfrac{Z^2h^2}{\alpha\pi^2a_0^2m_Nk_B}$, then $\alpha=$ ______.
+
+**Answer: 72** · official key ✔ (re-derived)
+
+**Solution.** Bohr: $2\pi r_3=3\lambda\Rightarrow\lambda=\dfrac{2\pi}{3}\cdot\dfrac{9a_0}{Z}=\dfrac{6\pi a_0}{Z}$. For the neutron, $\lambda=\dfrac{h}{\sqrt{2m_Nk_BT}}$. Equate: $2m_Nk_BT=\dfrac{h^2Z^2}{36\pi^2a_0^2}\Rightarrow T=\dfrac{Z^2h^2}{72\pi^2a_0^2m_Nk_B}$. So $\alpha=72$.
+

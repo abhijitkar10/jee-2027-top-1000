@@ -79,3 +79,11 @@ Statement II: Blood is a naturally occurring buffer solution whose pH is maintai
 
 **Solution.** A buffer needs a weak acid (or base) and its conjugate in comparable amounts (typically within a $1:10$ to $10:1$ ratio), not "any quantities": I is false. Blood pH ($\approx7.4$) is held by the carbonic acid/bicarbonate system: II is true.
 
+### C-ION-09 — JEE Advanced 2025 · Paper 1 · Q9 · Numerical
+
+At $25^\circ$C, the concentration of $\text{H}^+$ in a $1.00\times10^{-3}$ M aqueous solution of a weak monobasic acid with $K_a=4.00\times10^{-11}$ is $X\times10^{-7}$ M. $X=$ ______. ($K_w=1.00\times10^{-14}$)
+
+**Answer: ≈ 2.24** (accepted range $2.2$–$2.3$) · official key ✔ (re-derived)
+
+**Solution.** The acid is so weak that water's own ionisation cannot be ignored. Charge balance: $[\text{H}^+]=[\text{A}^-]+[\text{OH}^-]$, with $[\text{A}^-]=\dfrac{K_aC}{[\text{H}^+]}$ and $[\text{OH}^-]=\dfrac{K_w}{[\text{H}^+]}$. So $[\text{H}^+]^2=K_aC+K_w=4\times10^{-14}+1\times10^{-14}=5\times10^{-14}$, giving $[\text{H}^+]=2.24\times10^{-7}$ M.
+

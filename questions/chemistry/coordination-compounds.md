@@ -353,3 +353,13 @@ The number of ambidentate ligands among $\text{NO}_2^-$, $\text{SCN}^-$, $\text{
 
 **Solution.** Ambidentate ligands can bind through either of two different donor atoms: $\text{NO}_2^-$ (N or O), $\text{SCN}^-$ (S or N) and $\text{CN}^-$ (C or N). $\text{C}_2\text{O}_4^{2-}$ is bidentate (chelating), $\text{SO}_4^{2-}$ can bridge but is not classed as ambidentate, and $\text{NH}_3$, $\text{H}_2\text{O}$ are simple unidentate. Count $=3$.
 
+### C-COO-36 — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
+
+The correct order of the wavelength maxima of the absorption band in the UV–visible region for the complexes $[\text{Co(CN)}_6]^{3-}$, $[\text{Co(NH}_3)_6]^{3+}$, $[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$ and $[\text{Co(NH}_3)_5\text{Cl}]^{2+}$ is:
+
+(A) $[\text{Co(CN)}_6]^{3-}<[\text{Co(NH}_3)_6]^{3+}<[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}<[\text{Co(NH}_3)_5\text{Cl}]^{2+}$  (B) $[\text{Co(NH}_3)_5\text{Cl}]^{2+}<[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}<[\text{Co(NH}_3)_6]^{3+}<[\text{Co(CN)}_6]^{3-}$  (C) $[\text{Co(CN)}_6]^{3-}<[\text{Co(NH}_3)_5\text{Cl}]^{2+}<[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}<[\text{Co(NH}_3)_6]^{3+}$  (D) $[\text{Co(NH}_3)_6]^{3+}<[\text{Co(CN)}_6]^{3-}<[\text{Co(NH}_3)_5\text{Cl}]^{2+}<[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** $\lambda_{max}\propto1/\Delta_o$. Field strength: $\text{CN}^->\text{NH}_3>\text{H}_2\text{O}>\text{Cl}^-$, so $\Delta_o$ decreases from $[\text{Co(CN)}_6]^{3-}$ to $[\text{Co(NH}_3)_6]^{3+}$ to $[\text{Co(NH}_3)_5\text{H}_2\text{O}]^{3+}$ to $[\text{Co(NH}_3)_5\text{Cl}]^{2+}$ and the absorbed wavelength increases in that order.
+

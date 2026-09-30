@@ -86,3 +86,13 @@ Let the locus of the mid-points of the chords of the circle $x^2+(y-1)^2=1$ draw
 
 **Solution.** The origin lies on the circle. The midpoint $M$ of a chord $OA$ satisfies $\angle OMC=90^\circ$ where $C=(0,1)$, so $M$ lies on the circle with diameter $OC$: $x^2+y^2-y=0$. With $y=1-x$: $2x^2-x=0$, $x=0,\tfrac12$. Points $(0,1)$ and $\left(\tfrac12,\tfrac12\right)$, distance $\sqrt{\tfrac14+\tfrac14}=\dfrac1{\sqrt2}$.
 
+### M-CIR-10 — JEE Advanced 2025 · Paper 1 · Q7 · Multiple correct
+
+Let $z_1=1+2i$, $z_2=3i$ and $S=\{(x,y)\in\mathbb R^2:|x+iy-z_1|=2|x+iy-z_2|\}$. Which are TRUE?
+
+(A) $S$ is a circle with centre $\left(-\tfrac13,\tfrac{10}3\right)$  (B) $S$ is a circle with centre $\left(\tfrac13,\tfrac83\right)$  (C) $S$ is a circle with radius $\tfrac{\sqrt2}3$  (D) $S$ is a circle with radius $\tfrac{2\sqrt2}3$
+
+**Answer: (A), (D)** · official key ✔ (re-derived)
+
+**Solution.** $(x-1)^2+(y-2)^2=4\left[x^2+(y-3)^2\right]\Rightarrow3x^2+3y^2+2x-20y+31=0\Rightarrow x^2+y^2+\tfrac23x-\tfrac{20}3y+\tfrac{31}3=0$. Centre $\left(-\tfrac13,\tfrac{10}3\right)$; $r^2=\tfrac19+\tfrac{100}9-\tfrac{31}3=\tfrac89$, so $r=\tfrac{2\sqrt2}3$.
+

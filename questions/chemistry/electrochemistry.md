@@ -326,3 +326,11 @@ Given $E^\circ$: $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=1.33$ V; $\text{Fe}^
 
 **Solution.** A metal is oxidised if its reduction potential is below $1.33$ V, so that $E^\circ_{cell}>0$. Fe, Ni and Ag qualify. Au ($1.40$ V) is higher and is not oxidised. Count $=3$.
 
+### C-ELC-35 — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
+
+In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to $\text{Cr}^{3+}$. The current (in amperes) flowing for $48.25$ minutes to produce $1$ mole of $\text{Cr}^{3+}$ is ______. ($1\ \text{F}=96500\ \text{C mol}^{-1}$)
+
+**Answer: 100** · official key ✔ (re-derived)
+
+**Solution.** $\text{Cr}^{6+}\to\text{Cr}^{3+}$ needs $3$ electrons per Cr, so $1$ mol of $\text{Cr}^{3+}$ needs $3\text{ F}=289500$ C. $t=48.25\times60=2895$ s. $I=\dfrac{289500}{2895}=100$ A.
+

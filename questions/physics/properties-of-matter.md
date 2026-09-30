@@ -282,3 +282,11 @@ Two persons pull a wire towards themselves, each exerting a force of $200$ N on 
 
 **Solution.** The tension in the wire is $200$ N (each end is pulled by $200$ N, not $400$ N). $\Delta L=\dfrac{FL}{AY}=\dfrac{200\times2}{2\times10^{-4}\times10^{11}}=2\times10^{-5}$ m $=20\ \mu$m.
 
+### P-POM-32 — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
+
+A person in an elevator weighs an object of mass $50$ kg. The height of the elevator varies as $y=8\left[1+\sin\dfrac{2\pi t}{T}\right]$ m with $T=40\pi$ s ($g=10\ \text{m s}^{-2}$). The maximum variation of the object's observed weight (in N) is ______.
+
+**Answer: 2** · official key ✔ (re-derived)
+
+**Solution.** $a=\ddot y=-8\left(\dfrac{2\pi}T\right)^2\sin\dfrac{2\pi t}T$ with $\dfrac{2\pi}{T}=\dfrac1{20}$, so the acceleration amplitude is $\dfrac8{400}=0.02\ \text{m s}^{-2}$. Observed weight $=m(g+a)$ varies between $m(g-0.02)$ and $m(g+0.02)$: maximum variation $=2\times50\times0.02=2$ N.
+

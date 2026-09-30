@@ -294,3 +294,13 @@ On reaction of lead sulphide with dilute nitric acid, which of the following is 
 
 **Solution.** $3\text{PbS}+8\text{HNO}_3\to3\text{Pb(NO}_3)_2+2\text{NO}+3\text{S}+4\text{H}_2\text{O}$. Dilute $\text{HNO}_3$ here gives NO, $\text{Pb(NO}_3)_2$ and S, but not $\text{N}_2\text{O}$.
 
+### C-PBL-29 — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
+
+The heating of $\text{NH}_4\text{NO}_2$ at $60$–$70^\circ$C and $\text{NH}_4\text{NO}_3$ at $200$–$250^\circ$C is associated with the formation of nitrogen-containing compounds X and Y respectively. X and Y are:
+
+(A) $\text{N}_2$ and $\text{N}_2\text{O}$  (B) $\text{NH}_3$ and $\text{NO}_2$  (C) NO and $\text{N}_2\text{O}$  (D) $\text{N}_2$ and $\text{NH}_3$
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** $\text{NH}_4\text{NO}_2\xrightarrow{60\text{–}70^\circ\text{C}}\text{N}_2+2\text{H}_2\text{O}$ (a comproportionation of $-3$ and $+3$ nitrogen), and $\text{NH}_4\text{NO}_3\xrightarrow{200\text{–}250^\circ\text{C}}\text{N}_2\text{O}+2\text{H}_2\text{O}$. (Above $\sim300^\circ$C $\text{NH}_4\text{NO}_3$ can decompose explosively to $\text{N}_2$, $\text{O}_2$ and water.)
+

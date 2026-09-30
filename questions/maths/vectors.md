@@ -90,3 +90,11 @@ Let $\vec a$ and $\vec b$ be vectors with $|\vec a|=1$, $\vec a\cdot\vec b=2$ an
 
 **Solution.** $\vec b\cdot\vec c=2\vec b\cdot(\vec a\times\vec b)-3|\vec b|^2=0-48=-48$. $|\vec a\times\vec b|^2=|\vec a|^2|\vec b|^2-(\vec a\cdot\vec b)^2=16-4=12$, and since $\vec a\times\vec b\perp\vec b$: $|\vec c|^2=4(12)+9(16)=192\Rightarrow|\vec c|=8\sqrt3$. $\cos\theta=\dfrac{-48}{4\cdot8\sqrt3}=-\dfrac{\sqrt3}2$.
 
+### M-VEC-10 — JEE Advanced 2025 · Paper 1 · Q9 · Numerical
+
+$P,Q,R$ are distinct points in the plane and $S$ is inside $\triangle PQR$ with $\overrightarrow{SP}+5\overrightarrow{SQ}+6\overrightarrow{SR}=\vec0$. $E$ and $F$ are the mid-points of $PR$ and $QR$. Then $\dfrac{EF}{ES}=$ ______.
+
+**Answer: 1.2** (accepted range $1.15$–$1.25$) · official key ✔ (re-derived)
+
+**Solution.** From the condition, $S=\dfrac{P+5Q+6R}{12}$. $E=\dfrac{P+R}2$, so $S-E=\dfrac{P+5Q+6R-6P-6R}{12}=\dfrac{5(Q-P)}{12}$, giving $ES=\dfrac5{12}PQ$. $EF=\tfrac12PQ$ (mid-point theorem in $\triangle PQR$: $E,F$ join the mid-points of $PR$ and $QR$). $\dfrac{EF}{ES}=\dfrac{1/2}{5/12}=\dfrac65=1.2$.
+

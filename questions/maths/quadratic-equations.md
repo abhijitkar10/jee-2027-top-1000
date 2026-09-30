@@ -78,3 +78,13 @@ If $2$ and $6$ are the roots of $ax^2+bx+1=0$, then the quadratic equation whose
 
 **Solution.** Sum of roots $8=-b/a$ and product $12=1/a$, so $a=\tfrac1{12}$, $b=-\tfrac23$. Then $2a+b=-\tfrac12$ and $6a+b=-\tfrac16$, giving roots $-2$ and $-6$: $x^2+8x+12=0$.
 
+### M-QDR-09 — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
+
+Let $a_i,b_i\in\mathbb R$ for $i\in\{1,2,3\}$ and define $f(x)=a_1+10x+a_2x^2+a_3x^3+x^4$, $g(x)=b_1+3x+b_2x^2+b_3x^3+x^4$, $h(x)=f(x+1)-g(x+2)$. If $f(x)\ne g(x)$ for every $x\in\mathbb R$, then the coefficient of $x^3$ in $h(x)$ is
+
+(A) 8  (B) 2  (C) $-4$  (D) $-6$
+
+**Answer: (C)** · official key ✔ (re-derived)
+
+**Solution.** $f-g=(a_1-b_1)+7x+(a_2-b_2)x^2+(a_3-b_3)x^3$ has degree at most $3$. An odd-degree real polynomial always has a real root, and the $x^4$ terms have cancelled, so for $f-g$ to have no real root the cubic term must vanish: $a_3=b_3$ (the remaining quadratic can have negative discriminant). In $h(x)=f(x+1)-g(x+2)$ the $x^3$ coefficient is $[4+a_3]-[8+b_3]=4-8+(a_3-b_3)=-4$, since $(x+1)^4$ contributes $4x^3$ and $(x+2)^4$ contributes $8x^3$.
+

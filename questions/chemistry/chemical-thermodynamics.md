@@ -145,3 +145,11 @@ The heats of solution of anhydrous $\text{CuSO}_4$ and $\text{CuSO}_4\cdot5\text
 
 **Solution.** Hess's law: $\text{CuSO}_4(s)+5\text{H}_2\text{O}\to\text{CuSO}_4\cdot5\text{H}_2\text{O}(s)$. $\Delta H_{hyd}=\Delta H_{sol}(\text{anhydrous})-\Delta H_{sol}(\text{pentahydrate})=-70-12=-82$ kJ. So $x=82$.
 
+### C-CTH-18 — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
+
+Considering ideal gas behaviour, the expansion work done (in kJ) when $144$ g of water is electrolysed completely under constant pressure at $300$ K is ______. ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$; H $=1$, O $=16$)
+
+**Answer: −29.88** (accepted $29.8$–$29.95$ in magnitude, sign as per the work-on-system convention) · official key ✔ (re-derived)
+
+**Solution.** $144$ g $=8$ mol $\text{H}_2\text{O}$: $2\text{H}_2\text{O}(l)\to2\text{H}_2(g)+\text{O}_2(g)$ gives $8$ mol $\text{H}_2$ and $4$ mol $\text{O}_2$, $\Delta n_g=12$. At constant $P$ the gas does work $P\Delta V=\Delta n_gRT=12\times8.3\times300=29.88$ kJ against the surroundings; in the IUPAC convention (work done *on* the system) $w=-29.88$ kJ.
+

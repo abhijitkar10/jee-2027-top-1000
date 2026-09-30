@@ -84,3 +84,13 @@ The position, velocity and acceleration of a particle in SHM have magnitudes $4$
 
 **Solution.** $a=\omega^2x\Rightarrow\omega^2=\dfrac{16}{4}=4$. $v^2=\omega^2(A^2-x^2)\Rightarrow4=4(A^2-16)\Rightarrow A^2=17$. So $A=\sqrt{17}$ and $x=17$.
 
+### P-SHM-11 — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
+
+The centre of a disk of radius $r$ and mass $m$ is attached to a spring of constant $k$ inside a ring of radius $R>r$; the other end of the spring is fixed on the periphery of the ring. Both are in the same vertical plane, the disk rolls without slipping along the inside of the ring, and at equilibrium the disk is at the bottom. For small displacements the period of oscillation of the centre of mass is $T=\dfrac{2\pi}{\omega}$. $\omega=$
+
+(A) $\sqrt{\dfrac23\left(\dfrac g{R-r}+\dfrac km\right)}$  (B) $\sqrt{\dfrac{2g}{3(R-r)}}+\dfrac km$  (C) $\sqrt{\dfrac16\left(\dfrac g{R-r}+\dfrac km\right)}$  (D) $\sqrt{\dfrac14\left(\dfrac g{R-r}+\dfrac km\right)}$
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** Let the centre swing through angle $\theta$ about the ring centre: speed $v=(R-r)\dot\theta$. Rolling without slipping: $\omega_{disk}=\dfrac{v}{r}$. $KE=\tfrac12mv^2+\tfrac12\left(\tfrac12mr^2\right)\dfrac{v^2}{r^2}=\tfrac34mv^2=\tfrac34m(R-r)^2\dot\theta^2$. For small $\theta$: $PE=\tfrac12mg(R-r)\theta^2+\tfrac12k\left[(R-r)\theta\right]^2$. Then $\omega^2=\dfrac{mg(R-r)+k(R-r)^2}{\tfrac32m(R-r)^2}=\dfrac23\left(\dfrac{g}{R-r}+\dfrac km\right)$.
+

@@ -117,3 +117,11 @@ The correct order of basic strength of pyrrole, pyridine and piperidine is:
 
 **Solution.** Piperidine has a lone pair on an $sp^3$ N (most available, $pK_b\approx2.8$). Pyridine's lone pair is on an $sp^2$ N, held more tightly ($pK_b\approx8.8$). In pyrrole the N lone pair is part of the aromatic sextet, so it is barely basic. Order: piperidine > pyridine > pyrrole.
 
+### C-AMN-14 — JEE Advanced 2025 · Paper 1 · Q12 · Numerical
+
+The monomer X used in the synthesis of nylon-6,6 gives a positive carbylamine test. If $10$ moles of X are analysed by the Dumas method, the amount of nitrogen gas evolved (in g) is ______. (N $=14$)
+
+**Answer: 280** · official key ✔ (re-derived)
+
+**Solution.** Nylon-6,6 is made from adipic acid and hexamethylenediamine, $\text{H}_2\text{N(CH}_2)_6\text{NH}_2$; only the diamine (a primary amine) gives the carbylamine test. Each molecule has $2$ N atoms, so $10$ mol of X has $20$ mol of N, which gives $10$ mol of $\text{N}_2=280$ g.
+

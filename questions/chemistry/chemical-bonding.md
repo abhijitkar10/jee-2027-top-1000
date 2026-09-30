@@ -322,3 +322,13 @@ The total number of species with one unpaired electron among $\text{N}_2$, $\tex
 
 **Solution.** One unpaired electron: $\text{C}_2^-$ (odd, $\sigma 2p$ half-filled in the ground state of the anion), $\text{O}_2^-$ (superoxide, $1$ electron in $\pi^*$), $\text{H}_2^+$ ($1$ electron) and $\text{He}_2^+$ ($1$ electron in $\sigma^*$). $\text{N}_2$, $\text{O}_2^{2-}$ and $\text{CN}^-$ have all electrons paired, and $\text{O}_2$ has two unpaired. Count $=4$.
 
+### C-BND-36 — JEE Advanced 2025 · Paper 1 · Q5 · Multiple correct
+
+Regarding the MO energy levels of homonuclear diatomic molecules, the INCORRECT statement(s) is(are):
+
+(A) The bond order of $\text{Ne}_2$ is zero.  (B) The HOMO of $\text{F}_2$ is $\sigma$-type.  (C) The bond energy of $\text{O}_2^+$ is smaller than that of $\text{O}_2$.  (D) The bond length of $\text{Li}_2$ is larger than that of $\text{B}_2$.
+
+**Answer: (B), (C)** · official key ✔ (re-derived)
+
+**Solution.** (A) is true ($\text{Ne}_2$: $8$ bonding, $8$ antibonding). (B) is false: the HOMO of $\text{F}_2$ is the degenerate antibonding $\pi^*_{2p}$ pair, not a $\sigma$ orbital. (C) is false: removing an antibonding electron from $\text{O}_2$ (B.O. $2$) gives $\text{O}_2^+$ (B.O. $2.5$), which has a *larger* bond energy. (D) is true: $\text{Li}_2$ has a weak single bond between large $2s$ orbitals ($267$ pm), while $\text{B}_2$ is $159$ pm.
+

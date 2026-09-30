@@ -162,3 +162,11 @@ In Young's double-slit experiment the intensity at a point is $\left(\tfrac14\ri
 
 **Solution.** $I=I_{max}\cos^2\dfrac\phi2=\dfrac{I_{max}}{4}\Rightarrow\cos\dfrac\phi2=\dfrac12\Rightarrow\phi=\dfrac{2\pi}{3}$, i.e. path difference $\dfrac\lambda3$. $y=\dfrac{D}{d}\cdot\dfrac\lambda3=\dfrac{1\times600\times10^{-9}}{10^{-3}\times3}=2\times10^{-4}$ m $=200\ \mu$m.
 
+### P-WOP-19 — JEE Advanced 2025 · Paper 1 · Q12 · Numerical
+
+In a single-slit experiment the slit width is found from $\dfrac{bd}D=m\lambda$ where $d$ is the distance of the $m$th maximum from the central maximum and $D$ the slit–screen distance. $D$ and $d$ are measured with scales of least count $1$ cm and $1$ mm; $\lambda=600$ nm and $m=3$ are exact. For $m=3$, $d=5$ mm and $D=1$ m, the absolute error in $b$ (in $\mu$m) is ______.
+
+**Answer: ≈ 75.6** (accepted ranges $75$–$79$ or $94$–$95$) · official key ✔ (re-derived)
+
+**Solution.** $b=\dfrac{m\lambda D}{d}=\dfrac{3\times600\times10^{-9}\times1}{5\times10^{-3}}=360\ \mu\text{m}$. $\dfrac{\Delta b}b=\dfrac{\Delta D}D+\dfrac{\Delta d}d=\dfrac{1\ \text{cm}}{100\ \text{cm}}+\dfrac{1\ \text{mm}}{5\ \text{mm}}=0.01+0.2=0.21$. $\Delta b=0.21\times360=75.6\ \mu\text{m}$.
+

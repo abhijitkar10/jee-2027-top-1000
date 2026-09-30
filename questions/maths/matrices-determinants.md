@@ -116,3 +116,13 @@ If $A=\begin{pmatrix}\sqrt2&1\\-1&\sqrt2\end{pmatrix}$, $B=\begin{pmatrix}1&0\\1
 
 **Solution.** $\det A=2+1=3$, $\det B=1$, so $\det C=3\cdot1\cdot3=9$. Then $\det X=\det(A^T)\,(\det C)^2\det A=3\cdot81\cdot3=729$.
 
+### M-MAT-13 — JEE Advanced 2025 · Paper 1 · Q4 · MCQ
+
+Let $P=\begin{pmatrix}2&0&0\\0&2&0\\0&0&3\end{pmatrix}$. The number of $3\times3$ invertible matrices $Q$ with integer entries such that $Q^{-1}=Q^T$ and $PQ=QP$ is
+
+(A) 32  (B) 8  (C) 16  (D) 24
+
+**Answer: (C)** · official key ✔ (re-derived)
+
+**Solution.** An integer matrix with $Q^TQ=I$ has orthonormal integer columns, so each column is $\pm e_i$: $Q$ is a signed permutation matrix. $PQ=QP$ means $Q$ preserves the eigenspaces of $P$ ($\text{span}\{e_1,e_2\}$ for $2$ and $\text{span}\{e_3\}$ for $3$), so $Q=\text{diag}(B,\pm1)$ with $B$ a $2\times2$ signed permutation matrix. There are $2!\cdot2^2=8$ such $B$ and $2$ signs for the last entry: $8\times2=16$.
+

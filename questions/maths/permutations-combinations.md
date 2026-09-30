@@ -92,3 +92,11 @@ There are $5$ points $P_1,\dots,P_5$ on side $AB$, $6$ points $P_6,\dots,P_{11}$
 
 **Solution.** Choose any $3$ of $18$ points and discard collinear triples: $\binom{18}3-\binom53-\binom63-\binom73=816-10-20-35=751$.
 
+### M-PNC-11 — JEE Advanced 2025 · Paper 1 · Q10 · Numerical
+
+Let $S$ be the set of all seven-digit numbers formed using the digits $0,1,2$ (the leading digit is nonzero). The number of elements $x\in S$ such that at least one of the digits $0$ and $1$ appears exactly twice in $x$ is ______.
+
+**Answer: 762** · official key ✔ (re-derived)
+
+**Solution.** Inclusion–exclusion. $A$ = $0$ appears exactly twice: choose $2$ of the $6$ non-leading positions ($15$ ways), fill the other $5$ positions with $1$ or $2$ ($2^5$): $480$. $B$ = $1$ appears exactly twice: if the leading position holds a $1$ ($6$ ways to place the other one) the other $5$ digits are from $\{0,2\}$: $6\cdot32$; if not ($15$ ways) the leading digit must be $2$ and the other $4$ from $\{0,2\}$: $15\cdot16$; total $432$. $A\cap B$: arrangements of $\{0,0,1,1,2,2,2\}$ are $\dfrac{7!}{2!2!3!}=210$, minus those starting with $0$ ($\dfrac{6!}{1!2!3!}=60$): $150$. $|A\cup B|=480+432-150=762$.
+

@@ -90,3 +90,21 @@ A group of $40$ students appeared in an examination of $3$ subjects: Mathematics
 
 **Solution.** Let $a,b,c$ be the pairwise intersections (M∩P, P∩C, M∩C) and $x$ the triple intersection. Inclusion–exclusion: $40=61-(a+b+c)+x\Rightarrow a+b+c=21+x$. Also $x\le a\le11$, and $b,c\ge x$. With $a=11$: $b+c=10+x\ge2x\Rightarrow x\le10$. Check $x=10$, $b=c=10$: only-Maths $=20-21+10=9$, only-Physics $=25-21+10=14$, only-Chemistry $=16-20+10=6$, all non-negative, and total $=9+14+6+1+0+0+10=40$ ✓. So the maximum is $10$.
 
+### M-SRF-10 — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
+
+$f:\mathbb N\to\mathbb Z$ and $g:\mathbb Z\to\mathbb N$ are $f(n)=\begin{cases}(n+1)/2,&n\text{ odd}\\(4-n)/2,&n\text{ even}\end{cases}$ and $g(n)=\begin{cases}3+2n,&n\ge0\\-2n,&n<0\end{cases}$. Which are TRUE?
+
+(A) $g\circ f$ is NOT one-one and NOT onto  (B) $f\circ g$ is NOT one-one but onto  (C) $g$ is one-one and onto  (D) $f$ is NOT one-one but onto
+
+**Answer: (A), (D)** · official key ✔ (re-derived)
+
+**Solution.** $f$: odd $n\mapsto1,2,3,\dots$ and even $n\mapsto1,0,-1,\dots$; $f(1)=f(2)=1$ so $f$ is not one-one, but every integer occurs: onto (D true). $g$ is one-one, but its range is $\{2,3,4,5,\dots\}$ (it misses $1$), so $g$ is not onto (C false). $g\circ f$: $f(1)=f(2)$ gives $g(f(1))=g(f(2))$: not one-one, and its range lies in $\{2,3,\dots\}$: not onto (A true). $f\circ g$: $g$ takes values $\ge2$ and $f$ is one-one on $n\ge2$ and covers all integers, so $f\circ g$ is one-one and onto, making (B false).
+
+### M-SRF-11 — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
+
+Let $\mathcal S$ be the set of all relations $R$ on $\{a,b,c,d,e,f\}$ that are reflexive and symmetric and contain exactly $10$ elements. The number of elements in $\mathcal S$ is ______.
+
+**Answer: 105** · official key ✔ (re-derived)
+
+**Solution.** Reflexivity puts the $6$ pairs $(x,x)$ in $R$. The other $4$ elements come in symmetric pairs $\{(x,y),(y,x)\}$, i.e. $2$ unordered pairs chosen from $\binom62=15$: $\binom{15}{2}=105$.
+

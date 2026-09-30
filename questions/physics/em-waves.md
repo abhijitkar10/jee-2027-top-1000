@@ -133,3 +133,11 @@ The average force exerted on a non-reflecting surface at normal incidence is $2.
 
 **Solution.** For a perfect absorber $F=\dfrac{IA}{c}$. $I=360\ \text{W/cm}^2=3.6\times10^6\ \text{W/m}^2$. $A=\dfrac{Fc}{I}=\dfrac{2.4\times10^{-4}\times3\times10^8}{3.6\times10^6}=0.02\ \text{m}^2$.
 
+### P-EMW-14 — JEE Advanced 2025 · Paper 1 · Q9
+
+A unit-volume cube contains $35\times10^7$ photons of frequency $10^{15}$ Hz. Treating the total photon energy as the average energy stored in an electromagnetic wave in the same volume, the amplitude of the magnetic field is $\alpha\times10^{-9}$ T ($\mu_0=4\pi\times10^{-7}$, $h=6\times10^{-34}$ J s, $\pi=\tfrac{22}7$). $\alpha=$ ______.
+
+**Answer: ≈ 23** (accepted range $21$–$25$) · official key ✔ (re-derived)
+
+**Solution.** Energy density $u=N h\nu=35\times10^7\times6\times10^{-34}\times10^{15}=2.1\times10^{-10}\ \text{J m}^{-3}$. In an EM wave the average energy density is $u=\dfrac{B_0^2}{2\mu_0}$ (electric and magnetic parts each contribute $\dfrac{B_0^2}{4\mu_0}$). $B_0=\sqrt{2\mu_0u}=\sqrt{2\times\dfrac{88}7\times10^{-7}\times2.1\times10^{-10}}\approx2.3\times10^{-8}$ T $=23\times10^{-9}$ T.
+

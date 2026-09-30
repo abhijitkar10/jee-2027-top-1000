@@ -140,3 +140,21 @@ If $f(x)=\begin{cases}\dfrac{72^x-9^x-8^x+1}{\sqrt2-\sqrt{1+\cos x}}, & x\ne0\\ 
 
 **Solution.** Numerator $=(9^x-1)(8^x-1)\approx(x\ln9)(x\ln8)=6\ln2\ln3\,x^2$. Denominator: $\sqrt{1+\cos x}=\sqrt{2-x^2/2}\approx\sqrt2\left(1-\tfrac{x^2}{8}\right)$, so $\sqrt2-\sqrt{1+\cos x}\approx\dfrac{\sqrt2x^2}{8}$. Limit $=\dfrac{6\cdot8}{\sqrt2}\ln2\ln3=24\sqrt2\ln2\ln3$. So $a=24\sqrt2$ and $a^2=1152$.
 
+### M-LCD-15 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
+
+Define $f:\mathbb R\to\mathbb R$ by $f(x)=2-2x^2-x^2\sin\dfrac1x$ for $x\ne0$ and $f(0)=2$. Which statement is TRUE?
+
+(A) $f$ is NOT differentiable at $x=0$  (B) There is $\delta>0$ such that $f$ is decreasing on $(0,\delta)$  (C) For any $\delta>0$, $f$ is NOT an increasing function on $(-\delta,0)$  (D) $x=0$ is a point of local minima of $f$
+
+**Answer: (C)** · official key ✔ (re-derived)
+
+**Solution.** $\dfrac{f(h)-f(0)}{h}=-2h-h\sin\dfrac1h\to0$, so $f'(0)=0$ and (A) is false. Because $x^2(2+\sin\tfrac1x)>0$ for $x\ne0$, $f(x)<2=f(0)$: $x=0$ is a local *maximum*, so (D) is false. For $x\ne0$, $f'(x)=-4x-2x\sin\dfrac1x+\cos\dfrac1x$; near $0$ the term $\cos\dfrac1x$ dominates and changes sign infinitely often, so $f$ is not monotonic on any $(0,\delta)$ nor $(-\delta,0)$: (B) is false and (C) is true.
+
+### M-LCD-16 — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
+
+Let $\alpha,\beta$ be real numbers such that $\displaystyle\lim_{x\to0}\frac1{x^3}\left(\frac\alpha2\int_0^x\frac{dt}{1-t^2}+\beta x\cos x\right)=2$. Then $\alpha+\beta=$ ______.
+
+**Answer: 2.4** (accepted range $2.35$–$2.45$) · official key ✔ (re-derived)
+
+**Solution.** $\int_0^x\dfrac{dt}{1-t^2}=x+\dfrac{x^3}3+\cdots$ and $x\cos x=x-\dfrac{x^3}2+\cdots$. The bracket is $\left(\dfrac\alpha2+\beta\right)x+\left(\dfrac\alpha6-\dfrac\beta2\right)x^3+\cdots$. A finite limit needs $\beta=-\dfrac\alpha2$, and then $\dfrac\alpha6+\dfrac\alpha4=\dfrac{5\alpha}{12}=2\Rightarrow\alpha=\dfrac{24}5$, $\beta=-\dfrac{12}5$. $\alpha+\beta=\dfrac{12}{5}=2.4$.
+

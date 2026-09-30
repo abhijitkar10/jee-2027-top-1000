@@ -104,3 +104,13 @@ A line passes through $A(4,-6,-2)$ and $B(16,-2,4)$. The point $P(a,b,c)$, where
 
 **Solution.** $\overrightarrow{AB}=(12,4,6)\parallel(6,2,3)$ with length $7$, so unit direction $\pm\tfrac17(6,2,3)$. At distance $21$: $P=A\pm3(6,2,3)$. $A+3(6,2,3)=(22,0,7)$ has non-negative integer coordinates, whereas $A-3(6,2,3)=(-14,-12,-11)$ does not. $PQ=\sqrt{18^2+12^2+4^2}=\sqrt{484}=22$.
 
+### M-TDG-12 — JEE Advanced 2025 · Paper 1 · Q5 · Multiple correct
+
+$L_1$ is the line of intersection of the planes $2x+3y+z=4$ and $x+2y+z=5$. $L_2$ passes through $P(2,-1,3)$ and is parallel to $L_1$. $M$ is the plane $2x+y-2z=6$; $L_2$ meets $M$ at $Q$ and $R$ is the foot of the perpendicular from $P$ to $M$. Which are TRUE?
+
+(A) $PQ=9\sqrt3$  (B) $QR=15$  (C) the area of $\triangle PQR$ is $\tfrac32\sqrt{234}$  (D) the acute angle between $PQ$ and $PR$ is $\cos^{-1}\!\left(\tfrac1{2\sqrt3}\right)$
+
+**Answer: (A), (C)** · official key ✔ (re-derived)
+
+**Solution.** Direction of $L_1$: $(2,3,1)\times(1,2,1)=(1,-1,1)$. Points of $L_2$: $(2+t,-1-t,3+t)$. On $M$: $2(2+t)+(-1-t)-2(3+t)=6\Rightarrow-3-t=6\Rightarrow t=-9$, so $Q=(-7,8,-6)$ and $PQ=9\sqrt3$ (A true). The unit normal is $\tfrac13(2,1,-2)$; $P$ is at signed distance $\tfrac{6-(-3)}3=3$ from $M$, so $R=P+(2,1,-2)=(4,0,1)$, $PR=3$. $QR=\sqrt{11^2+8^2+7^2}=\sqrt{234}\ne15$ (B false). $PR\perp M$ so $\triangle PQR$ is right-angled at $R$: area $=\tfrac12\cdot3\cdot\sqrt{234}=\tfrac32\sqrt{234}$ (C true). $\cos\angle P=\dfrac{PR}{PQ}=\dfrac{3}{9\sqrt3}=\dfrac1{3\sqrt3}\ne\dfrac1{2\sqrt3}$ (D false).
+

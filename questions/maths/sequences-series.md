@@ -96,3 +96,11 @@ Let $S_n$ be the sum to $n$ terms of the arithmetic progression $3,7,11,\dots$. 
 
 **Solution.** $S_k=\tfrac k2\left(6+4(k-1)\right)=k(2k+1)$. $\sum_{k=1}^nS_k=2\cdot\dfrac{n(n+1)(2n+1)}6+\dfrac{n(n+1)}2=\dfrac{n(n+1)(4n+5)}6$. Then $\dfrac6{n(n+1)}\sum S_k=4n+5$, and $40<4n+5<42\Rightarrow35<4n<37\Rightarrow n=9$.
 
+### M-SEQ-11 — JEE Advanced 2025 · Paper 1 · Q12 · Numerical
+
+$f:\mathbb R\to\mathbb R$ satisfies $f(x)>0$ and $f(x+y)=f(x)f(y)$. Real numbers $a_1,\dots,a_{50}$ are in AP with $f(a_{31})=64f(a_{25})$ and $\sum_{i=1}^{50}f(a_i)=3(2^{25}+1)$. Then $\sum_{i=6}^{30}f(a_i)=$ ______.
+
+**Answer: 96** · official key ✔ (re-derived)
+
+**Solution.** Since $a_i$ form an AP, $f(a_{i+1})=f(a_i)f(d)$: the values $f(a_i)$ form a GP with ratio $r=f(d)>0$. $f(a_{31})=64f(a_{25})\Rightarrow r^6=64\Rightarrow r=2$. With first term $c$: $c(2^{50}-1)=3(2^{25}+1)\Rightarrow c=\dfrac{3}{2^{25}-1}$. $\sum_{i=6}^{30}=c\,2^5\dfrac{2^{25}-1}{2-1}=32\times3=96$.
+

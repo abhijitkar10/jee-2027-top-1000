@@ -100,3 +100,11 @@ Let $y=y(x)$ satisfy $\dfrac{dy}{dx}-y=1+4\sin x$ with $y(\pi)=1$. Then $y\!\lef
 
 **Solution.** Integrating factor $e^{-x}$: $ye^{-x}=\int(1+4\sin x)e^{-x}dx=-e^{-x}-2e^{-x}(\sin x+\cos x)+C$. So $y=-1-2(\sin x+\cos x)+Ce^x$. $y(\pi)=-1+2+Ce^\pi=1\Rightarrow C=0$. $y(\pi/2)=-1-2=-3$; $-3+10=7$.
 
+### M-DIF-12 — JEE Advanced 2025 · Paper 1 · Q13 · Numerical
+
+For $x>0$: $y_1'-(\sin x)^2y_1=0$, $y_1(1)=5$; $y_2'-(\cos x)^2y_2=0$, $y_2(1)=\tfrac13$; $y_3'-\dfrac{2-x^3}{x^3}y_3=0$, $y_3(1)=\dfrac{3}{5e}$. Then $\displaystyle\lim_{x\to0^+}\frac{y_1(x)y_2(x)y_3(x)+2x}{e^{3x}\sin x}=$ ______.
+
+**Answer: 2** · official key ✔ (re-derived)
+
+**Solution.** $y_1=5\exp\int_1^x\sin^2t\,dt$ and $y_2=\tfrac13\exp\int_1^x\cos^2t\,dt$, so $y_1y_2=\tfrac53\exp(x-1)$, which is finite at $0$. For $y_3$: $\dfrac{y_3'}{y_3}=\dfrac2{x^3}-1$, so $y_3=Ce^{-1/x^2-x}$, and $y_3\to0$ faster than any power of $x$ as $x\to0^+$. So $y_1y_2y_3=o(x)$ and the limit is $\lim\dfrac{2x}{e^{3x}\sin x}=2$.
+

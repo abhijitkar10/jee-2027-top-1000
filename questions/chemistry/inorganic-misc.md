@@ -96,3 +96,13 @@ In the reaction of potassium dichromate, potassium chloride and sulphuric acid (
 
 **Solution.** $\text{K}_2\text{Cr}_2\text{O}_7+4\text{KCl}+6\text{H}_2\text{SO}_4\to2\text{CrO}_2\text{Cl}_2+6\text{KHSO}_4+3\text{H}_2\text{O}$. The product is chromyl chloride, in which chromium is $+6$ (no change in oxidation state; $x-4+(-2)=0$).
 
+### C-INM-11 — JEE Advanced 2025 · Paper 1 · Q14 · Matching
+
+Match the group reagents (List I) with the metal ions they precipitate (List II): (P) $\text{H}_2\text{S}$ in the presence of $\text{NH}_4\text{OH}$; (Q) $(\text{NH}_4)_2\text{CO}_3$ in the presence of $\text{NH}_4\text{OH}$; (R) $\text{NH}_4\text{OH}$ in the presence of $\text{NH}_4\text{Cl}$; (S) $\text{H}_2\text{S}$ in the presence of dilute HCl; (1) $\text{Cu}^{2+}$, (2) $\text{Al}^{3+}$, (3) $\text{Mn}^{2+}$, (4) $\text{Ba}^{2+}$, (5) $\text{Mg}^{2+}$.
+
+(A) P→3; Q→4; R→2; S→1  (B) P→4; Q→2; R→3; S→1  (C) P→3; Q→4; R→1; S→5  (D) P→5; Q→3; R→2; S→4
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** Group II (dilute HCl + $\text{H}_2\text{S}$): $\text{Cu}^{2+}$ (S→1). Group III ($\text{NH}_4\text{OH}$ with $\text{NH}_4\text{Cl}$, which suppresses $[\text{OH}^-]$): $\text{Al}^{3+}$ as $\text{Al(OH)}_3$ (R→2). Group IV ($\text{H}_2\text{S}$ in basic medium): $\text{Mn}^{2+}$ as MnS (P→3). Group V ($(\text{NH}_4)_2\text{CO}_3$): $\text{Ba}^{2+}$ as $\text{BaCO}_3$ (Q→4). $\text{Mg}^{2+}$ is in group VI.
+

@@ -88,3 +88,13 @@ A plane progressive wave is given by $y=2\cos2\pi(330t-x)$ m. The frequency of t
 
 **Solution.** Compare with $y=A\cos(2\pi ft-kx)$: the coefficient of $t$ inside $2\pi(\ldots)$ is the frequency, $f=330$ Hz (wavelength $1$ m, speed $330$ m/s).
 
+### P-WAV-11 — JEE Advanced 2025 · Paper 1 · Q7 · Multiple correct
+
+Strings $S_1,S_2,S_3$ with linear mass densities $\mu,4\mu,16\mu$ are joined at $P$ ($S_1$–$S_2$) and $Q$ ($S_2$–$S_3$); the far end of $S_3$ is at a wall. A generator at the free end of $S_1$ sends $y=y_0\cos(\omega t-kx)$. Which are correct?
+
+(A) The wave reflected from $P$ is $y=\alpha_1y_0\cos(\omega t+kx+\pi)$  (B) The wave transmitted through $P$ is $y=\alpha_2y_0\cos(\omega t-kx)$  (C) The wave reflected from $Q$ is $y=\alpha_3y_0\cos(\omega t-kx+\pi)$  (D) The wave transmitted through $Q$ is $y=\alpha_4y_0\cos(\omega t-4kx)$
+
+**Answer: (A), (D)** · official key ✔ (re-derived)
+
+**Solution.** Wave speed $v=\sqrt{T/\mu}$, so $v_2=v_1/2$ and $v_3=v_1/4$; at fixed $\omega$, $k=\omega/v$ becomes $k,2k,4k$ in the three strings. At $P$ the wave goes from a light to a heavy string: the reflected wave is inverted ($\pi$ phase change) and travels backward, $\cos(\omega t+kx+\pi)$ (A true). The transmitted wave has no phase change and wave number $2k$: $\cos(\omega t-2kx)$, so (B) is false. At $Q$ (also light to heavy) the reflected wave travels backward in $S_2$ with wave number $2k$, so (C), with $-kx$, is false. The wave transmitted into $S_3$ has wave number $4k$ (D true).
+
