@@ -60,3 +60,23 @@ Bag $A$ contains $3$ white and $7$ red balls and bag $B$ contains $3$ white and 
 
 **Solution.** By Bayes' theorem: $P(A\mid W)=\dfrac{\tfrac12\cdot\tfrac3{10}}{\tfrac12\cdot\tfrac3{10}+\tfrac12\cdot\tfrac35}=\dfrac{3/10}{3/10+6/10}=\dfrac13$.
 
+### M-PRB-07 — JEE Main 2024 · 31 Jan Shift 1 · Q79 · MCQ
+
+Two marbles are drawn in succession, with replacement after each draw, from a box containing $10$ red, $30$ white, $20$ blue and $15$ orange marbles. The probability that the first marble drawn is red and the second is white is
+
+(1) $\tfrac2{25}$  (2) $\tfrac4{25}$  (3) $\tfrac23$  (4) $\tfrac4{75}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Total $=75$. Draws are independent: $\dfrac{10}{75}\times\dfrac{30}{75}=\dfrac{300}{5625}=\dfrac4{75}$.
+
+### M-PRB-08 — JEE Main 2024 · 31 Jan Shift 1 · Q80 · MCQ
+
+Three rotten apples are accidentally mixed with fifteen good apples. If the random variable $X$ is the number of rotten apples in a draw of two apples, the variance of $X$ is
+
+(1) $\tfrac{37}{153}$  (2) $\tfrac{57}{153}$  (3) $\tfrac{47}{153}$  (4) $\tfrac{40}{153}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $P(0)=\dfrac{{}^{15}C_2}{{}^{18}C_2}=\dfrac{105}{153}$, $P(1)=\dfrac{3\cdot15}{153}=\dfrac{45}{153}$, $P(2)=\dfrac{3}{153}$. $E[X]=\dfrac{45+6}{153}=\dfrac13$, $E[X^2]=\dfrac{45+12}{153}=\dfrac{57}{153}$. $\text{Var}=\dfrac{57}{153}-\dfrac19=\dfrac{57-17}{153}=\dfrac{40}{153}$.
+

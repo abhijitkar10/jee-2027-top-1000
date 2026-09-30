@@ -103,3 +103,25 @@ The number of complexes which show optical isomerism among the following is ____
 
 **Solution.** Optical isomerism needs a chiral complex (no plane of symmetry). Octahedral cis-$[\text{M(AA)}_2\text{X}_2]$ and tris-chelates $[\text{M(AA)}_3]$ are chiral. The trans isomers have a mirror plane and are achiral. Chiral: cis-$[\text{Cr(ox)}_2\text{Cl}_2]^{3-}$, $[\text{Co(en)}_3]^{3+}$, cis-$[\text{Pt(en)}_2\text{Cl}_2]^{2+}$, cis-$[\text{Co(en)}_2\text{Cl}_2]^+$: $4$.
 
+### C-COO-11 — JEE Main 2024 · 31 Jan Shift 1 · Q46 · MCQ
+
+The correct statements from the following are:
+A. The strength of anionic ligands can be explained by crystal field theory.
+B. Valence bond theory does not give a quantitative interpretation of the kinetic stability of coordination compounds.
+C. The hybridisation involved in the formation of the $[\text{Ni(CN)}_4]^{2-}$ complex is $dsp^2$.
+D. The number of possible isomers of $\text{cis-}[\text{PtCl}_2(\text{en})_2]^{2+}$ is one.
+
+(1) A, D only  (2) A, C only  (3) B, D only  (4) B, C only
+
+**Answer: (4)** · key ✔
+
+**Solution.** A is false: CFT treats ligands as point charges, so it cannot explain the strengths of anionic ligands (the spectrochemical series). B is true. C is true ($\text{Ni}^{2+}$, $d^8$, strong-field $\text{CN}^-$: square planar $dsp^2$). D is false: the cis isomer is chiral and exists as a pair of enantiomers.
+
+### C-COO-12 — JEE Main 2024 · 31 Jan Shift 1 · Q57 · Numerical
+
+The spin-only magnetic moment of $[\text{Ni(NH}_3)_6]^{2+}$ is ______ $\times10^{-1}$ BM. (Atomic number of Ni $=28$; round off to the nearest integer.)
+
+**Answer: 28** · key ✔
+
+**Solution.** $\text{Ni}^{2+}$ is $3d^8$. $\text{NH}_3$ is not strong enough to pair electrons here (octahedral $d^8$ has $2$ unpaired electrons regardless of field strength). $\mu=\sqrt{n(n+2)}=\sqrt8=2.83\ \text{BM}=28\times10^{-1}$ BM.
+

@@ -20,3 +20,14 @@ The IUPAC name of $\text{CH}_3\text{-CH(NH}_2)\text{-CH}_2\text{-CN}$ is
 
 **Solution.** Substitution can occur at each carbon of 2-chlorobutane: C-1 gives 1,2-dichlorobutane (chiral: $2$ enantiomers); C-2 gives 2,2-dichlorobutane (achiral); C-3 gives 2,3-dichlorobutane ($2$ optically active stereoisomers plus an inactive meso form); C-4 gives 1,3-dichlorobutane (chiral: $2$). Optically active isomers: $2+2+2=6$.
 
+### C-ISO-03 — JEE Main 2024 · 31 Jan Shift 1 · Q37 · MCQ
+
+Statement I: The IUPAC name of $\text{HO-CH}_2\text{-(CH}_2)_3\text{-CH}_2\text{-COCH}_3$ is 7-hydroxyheptan-2-one.
+Statement II: 2-Oxoheptan-7-ol is the correct IUPAC name for the same compound.
+
+(1) I correct, II incorrect  (2) Both incorrect  (3) Both correct  (4) I incorrect, II correct
+
+**Answer: (1)** · key ✔
+
+**Solution.** The principal characteristic group is the ketone (it outranks alcohol), so the chain is numbered from the end giving C=O the lowest locant: $\text{CH}_3\text{-CO-(CH}_2)_4\text{-CH}_2\text{OH}$ is heptan-2-one with OH at C-7. II uses "oxo" as a prefix and "-ol" as the suffix, which is wrong.
+

@@ -108,3 +108,13 @@ Two resistances of $100\ \Omega$ and $200\ \Omega$ are connected in series with 
 
 **Solution.** Let $R_p$ be the parallel combination of $100\ \Omega$ and the voltmeter. Voltage across it: $4\cdot\dfrac{R_p}{R_p+200}=1\Rightarrow R_p=\dfrac{200}3\ \Omega$. Then $\dfrac{100R_V}{100+R_V}=\dfrac{200}3\Rightarrow300R_V=20000+200R_V\Rightarrow R_V=200\ \Omega$.
 
+### P-CUR-12 — JEE Main 2024 · 31 Jan Shift 1 · Q9 · MCQ
+
+Two conductors have the same resistance at $0^\circ$C but their temperature coefficients of resistance are $\alpha_1$ and $\alpha_2$. The respective temperature coefficients of their series and parallel combinations are nearly
+
+(1) $\alpha_1+\alpha_2,\ \dfrac{\alpha_1+\alpha_2}2$  (2) $\dfrac{\alpha_1+\alpha_2}2,\ \dfrac{\alpha_1+\alpha_2}2$  (3) $\alpha_1+\alpha_2,\ \dfrac{\alpha_1^2\alpha_2}{\alpha_1+\alpha_2}$  (4) $\dfrac{\alpha_1+\alpha_2}2,\ \alpha_1+\alpha_2$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Series: $R_s=R_0[(1+\alpha_1t)+(1+\alpha_2t)]=2R_0\left[1+\dfrac{\alpha_1+\alpha_2}2t\right]$, so $\alpha_s=\dfrac{\alpha_1+\alpha_2}2$. Parallel: $R_p=\dfrac{R_0(1+\alpha_1t)(1+\alpha_2t)}{2+(\alpha_1+\alpha_2)t}\approx\dfrac{R_0}2\left[1+(\alpha_1+\alpha_2)t-\dfrac{(\alpha_1+\alpha_2)t}2\right]=\dfrac{R_0}2\left[1+\dfrac{\alpha_1+\alpha_2}2t\right]$ (first order). So $\alpha_p=\dfrac{\alpha_1+\alpha_2}2$.
+

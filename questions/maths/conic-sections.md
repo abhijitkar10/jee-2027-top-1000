@@ -86,3 +86,21 @@ Let $P$ be a point on the hyperbola $H:\dfrac{x^2}9-\dfrac{y^2}4=1$ in the first
 
 **Solution.** Foci: $(\pm\sqrt{13},0)$ since $c^2=9+4$. Area $=\tfrac12(2\sqrt{13})y=2\sqrt{13}\Rightarrow y=2$. Then $\dfrac{x^2}9=1+\dfrac44=2\Rightarrow x^2=18$. $OP^2=18+4=22$.
 
+### M-CON-10 — JEE Main 2024 · 31 Jan Shift 1 · Q66 · MCQ
+
+If the foci of a hyperbola are the same as those of the ellipse $\dfrac{x^2}9+\dfrac{y^2}{25}=1$ and the eccentricity of the hyperbola is $\dfrac{15}8$ times the eccentricity of the ellipse, then the smaller focal distance of the point $\left(\sqrt2,\ \dfrac{14}3\sqrt{\dfrac25}\right)$ on the hyperbola is
+
+(1) $7\sqrt{\dfrac25}-\dfrac83$  (2) $14\sqrt{\dfrac25}-\dfrac43$  (3) $14\sqrt{\dfrac25}-\dfrac{16}3$  (4) $7\sqrt{\dfrac25}+\dfrac83$
+
+**Answer: (1)** · key ✔
+
+**Solution.** The ellipse has $a=5$ along $y$, $e=\dfrac45$, foci $(0,\pm4)$. The hyperbola has $c=4$ and $e_h=\dfrac{15}8\cdot\dfrac45=\dfrac32$, so its transverse semi-axis is $a_h=\dfrac c{e_h}=\dfrac83$ (along $y$). For a point on it the focal distances are $|e_hy\pm a_h|$. Here $e_hy=\dfrac32\cdot\dfrac{14}3\sqrt{\dfrac25}=7\sqrt{\dfrac25}$, so the smaller focal distance is $7\sqrt{\dfrac25}-\dfrac83$.
+
+### M-CON-11 — JEE Main 2024 · 31 Jan Shift 1 · Q84 · Numerical
+
+Let the foci and the length of the latus rectum of the ellipse $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1$, $a>b$, be $(\pm5,0)$ and $\sqrt{50}$ respectively. Then the square of the eccentricity of the hyperbola $\dfrac{x^2}{b^2}-\dfrac{y^2}{a^2b^2}=1$ equals ______.
+
+**Answer: 51** · key ✔
+
+**Solution.** $ae=5\Rightarrow a^2-b^2=25$, and $\dfrac{2b^2}a=\sqrt{50}\Rightarrow b^2=\dfrac{5\sqrt2}2a$. Substituting: $a^2-\dfrac{5\sqrt2}2a-25=0\Rightarrow a=5\sqrt2$, so $a^2=50$ and $b^2=25$. For the hyperbola, $e^2=1+\dfrac{a^2b^2}{b^2}=1+a^2=51$.
+

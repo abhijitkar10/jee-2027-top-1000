@@ -99,3 +99,22 @@ The molecule/ion with square pyramidal shape is
 
 **Solution.** $\text{BrF}_5$ has $5$ bond pairs and $1$ lone pair on Br ($sp^3d^2$): square pyramidal. $\text{Ni(CN)}_4^{2-}$ is square planar, and $\text{PCl}_5$ and $\text{PF}_5$ are trigonal bipyramidal.
 
+### C-BND-12 — JEE Main 2024 · 31 Jan Shift 1 · Q32 · MCQ
+
+The linear combination of atomic orbitals to form molecular orbitals takes place only when the combining atomic orbitals
+A. have the same energy  B. have the minimum overlap  C. have the same symmetry about the molecular axis  D. have different symmetry about the molecular axis
+
+(1) A, B, C only  (2) A and C only  (3) B, C, D only  (4) B and D only
+
+**Answer: (2)** · key ✔
+
+**Solution.** LCAO requires (i) comparable energies, (ii) the same symmetry about the molecular axis, and (iii) maximum (not minimum) overlap. So A and C.
+
+### C-BND-13 — JEE Main 2024 · 31 Jan Shift 1 · Q53 · Numerical
+
+The number of species from the following in which the central atom uses $sp^3$ hybrid orbitals in its bonding is ______: $\text{NH}_3,\ \text{SO}_2,\ \text{SiO}_2,\ \text{BeCl}_2,\ \text{CO}_2,\ \text{H}_2\text{O},\ \text{CH}_4,\ \text{BF}_3$
+
+**Answer: 4** · key ✔
+
+**Solution.** $sp^3$: $\text{NH}_3$, $\text{H}_2\text{O}$, $\text{CH}_4$ and $\text{SiO}_2$ (each Si is tetrahedral in the network). $\text{SO}_2$ and $\text{BF}_3$ are $sp^2$; $\text{BeCl}_2$ and $\text{CO}_2$ are $sp$. Count $=4$.
+

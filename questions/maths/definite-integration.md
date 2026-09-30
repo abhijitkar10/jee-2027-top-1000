@@ -88,3 +88,11 @@ Let $f:\mathbb R\to\mathbb R$ be $f(x)=ae^{2x}+be^x+cx$. If $f(0)=-1$, $f'(\ln2)
 
 **Solution.** $f(0)=a+b=-1$. $f'(\ln2)=8a+2b+c=21$. $\int_0^{\ln4}(ae^{2x}+be^x)dx=a\cdot\tfrac{16-1}2+b(4-1)=\tfrac{15a}2+3b=\tfrac{39}2\Rightarrow5a+2b=13$. With $b=-1-a$: $3a=15\Rightarrow a=5,\ b=-6$, and $c=21-40+12=-7$. So $a+b+c=-8$ and $|a+b+c|=8$.
 
+### M-DEF-10 — JEE Main 2024 · 31 Jan Shift 1 · Q88 · Numerical
+
+If the integral $525\displaystyle\int_0^{\pi/2}\sin2x\cos^{11/2}x\left(1+\cos^{5/2}x\right)^{1/2}dx$ equals $n\sqrt2-64$, then $n$ is equal to ______.
+
+**Answer: 176** · key ✔
+
+**Solution.** With $\sin2x=2\sin x\cos x$ and $t=\cos x$: $I=\displaystyle\int_0^12t^{13/2}\left(1+t^{5/2}\right)^{1/2}dt$. Let $s=1+t^{5/2}$, so $t^{3/2}dt=\tfrac25ds$ and $t^{5}=(s-1)^2$: $I=\tfrac45\displaystyle\int_1^2(s-1)^2\sqrt s\,ds=\tfrac45\left[\tfrac27s^{7/2}-\tfrac45s^{5/2}+\tfrac23s^{3/2}\right]_1^2=\tfrac45\left(\tfrac{44\sqrt2}{105}-\tfrac{16}{105}\right)$. Then $525I=4\left(44\sqrt2-16\right)=176\sqrt2-64$, so $n=176$.
+

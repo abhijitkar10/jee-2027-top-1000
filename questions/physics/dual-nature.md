@@ -52,3 +52,13 @@ The work function of a substance is $3.0$ eV. The longest wavelength of light th
 
 **Solution.** $\lambda_{\max}=\dfrac{hc}{\phi}=\dfrac{1240\ \text{eV nm}}{3.0\ \text{eV}}\approx413\text{–}414$ nm.
 
+### P-DUL-06 — JEE Main 2024 · 31 Jan Shift 1 · Q18 · MCQ
+
+When a metal surface is illuminated by light of wavelength $\lambda$, the stopping potential is $8$ V. When the same surface is illuminated by light of wavelength $3\lambda$, the stopping potential is $2$ V. The threshold wavelength for this surface is
+
+(1) $5\lambda$  (2) $3\lambda$  (3) $9\lambda$  (4) $4.5\lambda$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Let $E=\dfrac{hc}{\lambda}$ (in eV). $8=E-\phi$ and $2=\dfrac E3-\phi$. Subtracting: $6=\dfrac{2E}3\Rightarrow E=9$ eV, so $\phi=1$ eV. $\lambda_0=\dfrac{hc}\phi=9\,\dfrac{hc}{E}=9\lambda$.
+

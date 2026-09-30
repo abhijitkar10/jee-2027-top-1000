@@ -28,3 +28,23 @@ The number of real solutions of the equation $x\left(x^2+3|x|+5|x-1|+6|x-2|\righ
 
 **Solution.** Either $x=0$ or $x^2+3|x|+5|x-1|+6|x-2|=0$. The second expression is a sum of non-negative terms and vanishes only if $x=0$, $x=1$ and $x=2$ simultaneously, which is impossible. So the only real solution is $x=0$.
 
+### M-QDR-04 — JEE Main 2024 · 31 Jan Shift 1 · Q61 · MCQ
+
+Let $S$ be the set of positive integral values of $a$ for which $\dfrac{ax^2+(2a+1)x+9a+4}{x^2-8x+32}<0$ for all $x\in\mathbb R$. Then the number of elements in $S$ is
+
+(1) 1  (2) 0  (3) $\infty$  (4) 3
+
+**Answer: (2)** · key ✔
+
+**Solution.** The denominator $x^2-8x+32=(x-4)^2+16>0$, so we need $ax^2+(2a+1)x+9a+4<0$ for all $x$: $a<0$ and discriminant $<0$. But $a$ is a positive integer, so the first condition already fails. $S$ is empty and $n(S)=0$.
+
+### M-QDR-05 — JEE Main 2024 · 31 Jan Shift 1 · Q68 · MCQ
+
+Let $a$ be the sum of all coefficients in the expansion of $(1-2x+2x^2)^{2023}(3-4x^2+2x^3)^{2024}$ and $b=\displaystyle\lim_{x\to0}\dfrac{\int_0^x\frac{\ln(1+t)}{t^{2024}+1}dt}{x^2}$. If the equations $cx^2+dx+e=0$ and $2bx^2+ax+4=0$ have a common root, where $c,d,e\in\mathbb R$, then $d:c:e$ equals
+
+(1) 2 : 1 : 4  (2) 4 : 1 : 4  (3) 1 : 2 : 4  (4) 1 : 1 : 4
+
+**Answer: (4)** · key ✔
+
+**Solution.** $a=(1-2+2)^{2023}(3-4+2)^{2024}=1$. For $b$, by L'Hôpital: $\dfrac{\ln(1+x)/(x^{2024}+1)}{2x}\to\dfrac12$, so $b=\dfrac12$. The second equation is $x^2+x+4=0$, with discriminant $1-16<0$, so its roots are non-real conjugates. A real-coefficient quadratic sharing one non-real root also shares its conjugate, hence the two quadratics are proportional: $c:d:e=1:1:4$.
+

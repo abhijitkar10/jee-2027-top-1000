@@ -107,3 +107,18 @@ Alkaline oxidative fusion of $\text{MnO}_2$ gives "A", which on electrolytic oxi
 
 **Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$, so A is manganate ($\text{MnO}_4^{2-}$, green). Electrolytic oxidation in alkaline medium gives permanganate: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$.
 
+### C-DFB-11 — JEE Main 2024 · 31 Jan Shift 1 · Q45 · MCQ
+
+Identify correct statements:
+A. The chromate ion is square planar.
+B. Dichromates are generally prepared from chromates.
+C. The green manganate ion is diamagnetic.
+D. Dark green $\text{K}_2\text{MnO}_4$ disproportionates in a neutral or acidic medium to give permanganate.
+E. With increasing oxidation number of the transition metal, the ionic character of the oxides decreases.
+
+(1) B, C, D only  (2) A, D, E only  (3) A, B, C only  (4) B, D, E only
+
+**Answer: (4)** · key ✔
+
+**Solution.** A is false (chromate is tetrahedral). B is true ($2\text{CrO}_4^{2-}+2\text{H}^+\to\text{Cr}_2\text{O}_7^{2-}+\text{H}_2\text{O}$). C is false ($\text{MnO}_4^{2-}$ is $d^1$, paramagnetic). D is true ($3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$). E is true (higher oxidation state gives more covalent, more acidic oxides).
+

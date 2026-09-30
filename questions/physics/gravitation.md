@@ -63,3 +63,13 @@ The escape velocity of a body from the earth is $11.2\ \text{km s}^{-1}$. If the
 
 **Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. Ratio $=\sqrt{\dfrac{1/6}{1/3}}=\dfrac1{\sqrt2}$, so $v=\dfrac{11.2}{\sqrt2}\approx7.9$ km/s.
 
+### P-GRV-07 — JEE Main 2024 · 31 Jan Shift 1 · Q8 · MCQ
+
+Four identical particles of mass $m$ are kept at the four corners of a square of side $a$. The gravitational force exerted on one of the masses by the other three is $\dfrac{2\sqrt2+1}{32}\dfrac{Gm^2}{L^2}$. The length of the side of the square is
+
+(1) $\dfrac L2$  (2) $4L$  (3) $3L$  (4) $2L$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Two neighbours (distance $a$) give a resultant $\sqrt2\,\dfrac{Gm^2}{a^2}$ along the diagonal, and the opposite particle (distance $\sqrt2a$) adds $\dfrac{Gm^2}{2a^2}$ in the same direction. Total $=\dfrac{Gm^2}{a^2}\left(\sqrt2+\tfrac12\right)=\dfrac{2\sqrt2+1}{2}\dfrac{Gm^2}{a^2}$. Setting this equal to the given expression: $\dfrac1{2a^2}=\dfrac1{32L^2}\Rightarrow a=4L$.
+

@@ -51,3 +51,25 @@ Phenol treated with chloroform in the presence of sodium hydroxide, followed by 
 
 **Solution.** This is the Reimer–Tiemann reaction. Dichlorocarbene ($:\text{CCl}_2$, from $\text{CHCl}_3$/NaOH) attacks the phenoxide ion at the ortho position to give $\text{ArCHCl}_2$, which is hydrolysed to the aldehyde: 2-hydroxybenzaldehyde (salicylaldehyde).
 
+### C-ALC-05 — JEE Main 2024 · 31 Jan Shift 1 · Q47 · MCQ
+
+Assertion A: The $\text{p}K_a$ value of phenol is $10.0$ while that of ethanol is $15.9$.
+Reason R: Ethanol is a stronger acid than phenol.
+
+(1) A true, R false  (2) A false, R true  (3) Both true and R explains A  (4) Both true but R does not explain A
+
+**Answer: (1)** · key ✔
+
+**Solution.** The quoted $\text{p}K_a$ values are correct. A lower $\text{p}K_a$ means a stronger acid, so phenol (resonance-stabilised phenoxide) is the stronger acid and R is false.
+
+### C-ALC-06 — JEE Main 2024 · 31 Jan Shift 1 · Q48 · MCQ
+
+Assertion A: Alcohols react both as nucleophiles and electrophiles.
+Reason R: Alcohols react with active metals such as sodium, potassium and aluminium to yield the corresponding alkoxides and liberate hydrogen.
+
+(1) A false, R true  (2) A true, R false  (3) Both true and R explains A  (4) Both true but R does not explain A
+
+**Answer: (4)** · key ✔
+
+**Solution.** A is true: the oxygen lone pair makes ROH a nucleophile, while protonated alcohols (or the C–O bond) act as electrophiles. R is a true statement about acidity (O–H cleavage) but it does not explain the dual behaviour, so R is not the explanation of A.
+

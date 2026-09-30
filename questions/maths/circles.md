@@ -56,3 +56,13 @@ Consider two circles $C_1:x^2+y^2=25$ and $C_2:(x-\alpha)^2+y^2=16$, where $\alp
 
 **Solution.** In the triangle formed by the centres and an intersection point (sides $5,4,\alpha$) the angle $\theta$ at the intersection point has $\cos\theta=\tfrac18$. By the cosine rule $\alpha^2=25+16-2(5)(4)\tfrac18=36$, so $\alpha=6$. The common chord is twice the height of that triangle on base $\alpha$: area $=\sqrt{7.5\times2.5\times3.5\times1.5}=\tfrac{15\sqrt7}{4}$, and $\beta=\dfrac{4\cdot\text{Area}}\alpha=\dfrac{15\sqrt7}{6}=\dfrac{5\sqrt7}2$. Then $(\alpha\beta)^2=\left(6\cdot\tfrac{5\sqrt7}2\right)^2=(15\sqrt7)^2=1575$.
 
+### M-CIR-07 — JEE Main 2024 · 31 Jan Shift 1 · Q65 · MCQ
+
+If one of the diameters of the circle $x^2+y^2-10x+4y+13=0$ is a chord of another circle $C$ whose centre is the point of intersection of the lines $2x+3y=12$ and $3x-2y=5$, then the radius of the circle $C$ is
+
+(1) $\sqrt{20}$  (2) 4  (3) 6  (4) $3\sqrt2$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The lines meet at $(3,2)$, the centre of $C$. The first circle is $(x-5)^2+(y+2)^2=16$: centre $(5,-2)$, radius $4$. Its diameter is a chord of $C$ of length $8$ with midpoint $(5,-2)$ (the centre). The distance from $(3,2)$ to $(5,-2)$ is $\sqrt{4+16}=\sqrt{20}$. So $R^2=(\sqrt{20})^2+4^2=36$ and $R=6$.
+

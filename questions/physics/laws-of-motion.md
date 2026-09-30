@@ -81,3 +81,23 @@ A block of mass $m$ is placed on a surface whose vertical cross-section is $y=\d
 
 **Solution.** The block just fails to slip when $\tan\theta=\mu$, where the slope is $\dfrac{dy}{dx}=\dfrac x2$. So $\dfrac x2=0.5\Rightarrow x=1$ m, and $y=\dfrac{1^2}4=\dfrac14$ m.
 
+### P-LOM-09 — JEE Main 2024 · 31 Jan Shift 1 · Q5 · MCQ
+
+A doubly inclined plane has inclinations $53^\circ$ (carrying block $M=10$ kg) and $37^\circ$ (carrying block $m$); the blocks are joined by a light string over an ideal pulley at the top. The coefficient of friction between the plane and the blocks is $0.25$. The value of $m$ for which $M$ moves down with an acceleration of $2\ \text{m s}^{-2}$ is ($g=10\ \text{m s}^{-2}$, $\tan37^\circ=\tfrac34$)
+
+(1) 9 kg  (2) 4.5 kg  (3) 6.5 kg  (4) 2.25 kg
+
+**Answer: (2)** · key ✔
+
+**Solution.** For $M$ down the $53^\circ$ slope: $Mg\sin53^\circ-\mu Mg\cos53^\circ-T=Ma\Rightarrow80-15-T=20\Rightarrow T=45$ N. For $m$ up the $37^\circ$ slope: $T-mg\sin37^\circ-\mu mg\cos37^\circ=ma\Rightarrow45=m(6+2+2)=10m\Rightarrow m=4.5$ kg.
+
+### P-LOM-10 — JEE Main 2024 · 31 Jan Shift 1 · Q6 · MCQ
+
+A coin is placed on a disc. The coefficient of friction between the coin and the disc is $\mu$. If the distance of the coin from the centre of the disc is $r$, the maximum angular velocity that can be given to the disc so that the coin does not slip away is
+
+(1) $\dfrac{\mu g}r$  (2) $\sqrt{\dfrac r{\mu g}}$  (3) $\sqrt{\dfrac{\mu g}r}$  (4) $\dfrac\mu{\sqrt{rg}}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Friction provides the centripetal force: $m\omega^2r\le\mu mg\Rightarrow\omega\le\sqrt{\dfrac{\mu g}r}$.
+

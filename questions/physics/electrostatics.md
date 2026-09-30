@@ -87,3 +87,13 @@ Two identical charged spheres are suspended by strings of equal lengths. The str
 
 **Solution.** In air, $\tan\theta=\dfrac{F}{mg}$. In the liquid the electric force becomes $\dfrac FK$ and the effective weight is $mg\left(1-\dfrac{\rho_l}{\rho_s}\right)$. Same angle: $\dfrac F{mg}=\dfrac{F/K}{mg\,(1-0.7/1.4)}\Rightarrow K=\dfrac1{1-0.5}=2$.
 
+### P-ELS-10 — JEE Main 2024 · 31 Jan Shift 1 · Q13 · MCQ
+
+Two charges $q$ and $3q$ are separated by a distance $r$ in air. At a distance $x$ from charge $q$, the resultant electric field is zero. The value of $x$ is
+
+(2) $\dfrac r{3(1+\sqrt3)}$  (3) $\dfrac r{1+\sqrt3}$  (4) $r(1+\sqrt3)$  (option (1) not legible in the source text)
+
+**Answer: (3)** · key ✔
+
+**Solution.** The field can vanish only between the like charges on the line joining them: $\dfrac{kq}{x^2}=\dfrac{k(3q)}{(r-x)^2}\Rightarrow(r-x)^2=3x^2\Rightarrow r-x=\sqrt3x\Rightarrow x=\dfrac r{1+\sqrt3}$.
+

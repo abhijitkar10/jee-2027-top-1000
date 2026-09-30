@@ -76,3 +76,13 @@ Let $L_1:\vec r=(\hat i-\hat j+2\hat k)+\lambda(\hat i-\hat j+2\hat k)$, $L_2:\v
 
 **Solution.** $L_1\perp L_2$: $(1,-1,2)\cdot(3,1,p)=3-1+2p=0\Rightarrow p=-1$. $L_3$ has direction $(1,-1,2)\times(3,1,-1)=\left((-1)(-1)-2(1),\ 2(3)-(1)(-1),\ 1(1)-(-1)(3)\right)=(-1,7,4)$. $L_3$ passes through the origin, so $\delta(-1,7,4)$ lies on it; at $\delta=1$ the point is $(-1,7,4)$.
 
+### M-TDG-09 — JEE Main 2024 · 31 Jan Shift 1 · Q78 · MCQ
+
+The distance of the point $Q(0,2,-2)$ from the line passing through $P(5,-4,3)$ and perpendicular to the lines $\vec r=-3\hat i+2\hat k+\lambda(2\hat i+3\hat j+5\hat k)$ and $\vec r=\hat i-2\hat j+\hat k+\mu(-\hat i+3\hat j+2\hat k)$ is
+
+(1) $\sqrt{86}$  (2) $\sqrt{20}$  (3) $\sqrt{54}$  (4) $\sqrt{74}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** The direction is $(2,3,5)\times(-1,3,2)=(-9,-9,9)\parallel(1,1,-1)$. $\overrightarrow{PQ}=(-5,6,-5)$ and $\overrightarrow{PQ}\times(1,1,-1)=(-1,-10,-11)$ with squared magnitude $222$; $|\vec d|^2=3$. Distance$^2=\dfrac{222}3=74$.
+

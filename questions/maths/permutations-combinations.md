@@ -56,3 +56,11 @@ In an examination there are $20$ questions of equal marks, divided into three se
 
 **Solution.** Let $(a,b,c)$ be the numbers chosen from $A,B,C$: $a+b+c=15$, $4\le a\le8$, $4\le b,c\le6$. Valid triples and counts: $(7,4,4)$: $8\cdot15\cdot15=1800$; $(6,4,5)$ and $(6,5,4)$: $2\times(28\cdot15\cdot6)=5040$; $(5,4,6)$ and $(5,6,4)$: $2\times(56\cdot15\cdot1)=1680$; $(5,5,5)$: $56\cdot6\cdot6=2016$; $(4,5,6)$ and $(4,6,5)$: $2\times(70\cdot6\cdot1)=840$. Total $=1800+5040+1680+2016+840=11376$.
 
+### M-PNC-07 — JEE Main 2024 · 31 Jan Shift 1 · Q82 · Numerical
+
+The total number of words (with or without meaning) that can be formed out of the letters of the word "DISTRIBUTION" taken four at a time is equal to ______.
+
+**Answer: 3734** · key ✔
+
+**Solution.** Letters: $I\times3$, $T\times2$ and seven single letters $D,S,R,B,U,O,N$. Cases: all four distinct from $9$ types: $P(9,4)=3024$. Exactly one letter repeated twice ($I$ or $T$) with two other distinct letters: $2\times\binom82\times\dfrac{4!}{2!}=2\times28\times12=672$. Two pairs ($II\,TT$): $\dfrac{4!}{2!2!}=6$. Three $I$'s and one other letter: $8\times\dfrac{4!}{3!}=32$. Total $=3024+672+6+32=3734$.
+

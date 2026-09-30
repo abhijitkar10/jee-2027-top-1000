@@ -56,3 +56,13 @@ What happens to the freezing point of benzene when a small quantity of naphthale
 
 **Solution.** A non-volatile solute lowers the vapour pressure of the solvent, giving depression of freezing point: $\Delta T_f=K_fm$. The solution freezes at a lower temperature than pure benzene.
 
+### C-SOL-07 — JEE Main 2024 · 31 Jan Shift 1 · Q40 · MCQ
+
+Identify the mixture that shows positive deviation from Raoult's law.
+
+(1) $(\text{CH}_3)_2\text{CO}+\text{C}_6\text{H}_5\text{NH}_2$  (2) $\text{CHCl}_3+\text{C}_6\text{H}_6$  (3) $\text{CHCl}_3+(\text{CH}_3)_2\text{CO}$  (4) $(\text{CH}_3)_2\text{CO}+\text{CS}_2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Positive deviation arises when A–B interactions are weaker than A–A and B–B. In acetone + $\text{CS}_2$ the polar acetone dipoles are disrupted by non-polar $\text{CS}_2$. Acetone + aniline and acetone + chloroform show negative deviation (hydrogen bonding), and chloroform + benzene is near-ideal.
+

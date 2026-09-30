@@ -80,3 +80,13 @@ Let $f:\mathbb R-\{0\}\to\mathbb R$ satisfy $f\!\left(\dfrac xy\right)=\dfrac{f(
 
 **Solution.** Differentiate with respect to $x$ (keeping $y$ fixed): $\dfrac1yf'\!\left(\dfrac xy\right)=\dfrac{f'(x)}{f(y)}$. Put $y=x$: $\dfrac1xf'(1)=\dfrac{f'(x)}{f(x)}\Rightarrow xf'(x)=2024f(x)$, i.e. $xf'(x)-2024f(x)=0$. (Indeed $f(x)=x^{2024}$ works.)
 
+### M-LCD-09 — JEE Main 2024 · 31 Jan Shift 1 · Q67 · MCQ
+
+$\displaystyle\lim_{x\to0}\dfrac{e^{2\sin x}-2\sin x-1}{x^2}$
+
+(1) is equal to $-1$  (2) does not exist  (3) is equal to $1$  (4) is equal to $2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Let $u=2\sin x\to0$. $e^u-u-1=\dfrac{u^2}2+\dots$, so the numerator $\approx\dfrac{(2\sin x)^2}2=2\sin^2x\approx2x^2$. The limit is $2$.
+

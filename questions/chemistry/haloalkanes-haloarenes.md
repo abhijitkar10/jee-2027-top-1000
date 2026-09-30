@@ -44,3 +44,11 @@ Statement II: A secondary alkyl halide treated with a large excess of ethanol fo
 
 **Solution.** Secondary substrates can go by either path depending on conditions. A strong nucleophile at high concentration, unhindered substrate: $S_N2$ (rate $=k[\text{RX}][\text{Nu}]$). Ethanol is a weak, polar protic nucleophile/solvent that favours ionisation, so an $S_N1$ path operates. Both are true.
 
+### C-HAL-05 — JEE Main 2024 · 31 Jan Shift 1 · Q58 · Numerical
+
+$\text{CH}_3\text{CH}_2\text{Br}+\text{NaOH}$ gives product A in $\text{C}_2\text{H}_5\text{OH}$ (alcoholic) and product B in $\text{H}_2\text{O}$ (aqueous). The total number of hydrogen atoms in products A and B is ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** Alcoholic NaOH favours elimination: A $=\text{CH}_2{=}\text{CH}_2$ ($4$ H). Aqueous NaOH favours substitution: B $=\text{CH}_3\text{CH}_2\text{OH}$ ($6$ H). Total $=10$.
+

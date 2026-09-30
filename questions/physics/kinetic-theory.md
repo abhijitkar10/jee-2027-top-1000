@@ -42,3 +42,13 @@ At which temperature is the r.m.s. velocity of a hydrogen molecule equal to that
 
 **Solution.** $v_{rms}=\sqrt{\dfrac{3RT}M}$. Equal $v_{rms}$: $\dfrac{T_{H_2}}{2}=\dfrac{T_{O_2}}{32}\Rightarrow T_{H_2}=\dfrac{320\times2}{32}=20$ K.
 
+### P-KTG-05 — JEE Main 2024 · 31 Jan Shift 1 · Q11 · MCQ
+
+The parameter that remains the same for molecules of all gases at a given temperature is
+
+(1) kinetic energy  (2) momentum  (3) mass  (4) speed
+
+**Answer: (1)** · key ✔
+
+**Solution.** The average translational kinetic energy per molecule is $\tfrac32k_BT$, which depends only on temperature. Mass, speed ($\sqrt{3k_BT/m}$) and momentum depend on the molecular mass.
+

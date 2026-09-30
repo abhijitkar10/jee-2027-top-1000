@@ -52,3 +52,11 @@ Two discs of moment of inertia $I_1=4\ \text{kg m}^2$ and $I_2=2\ \text{kg m}^2$
 
 **Solution.** Conservation of angular momentum: $\omega'=\dfrac{4(10)+2(4)}{4+2}=8$ rad/s. Loss $=\dfrac12\dfrac{I_1I_2}{I_1+I_2}(\omega_1-\omega_2)^2=\dfrac12\cdot\dfrac{8}{6}\cdot36=24$ J.
 
+### P-ROT-07 — JEE Main 2024 · 31 Jan Shift 1 · Q22 · Numerical
+
+A solid circular disc of mass $50$ kg rolls along a horizontal floor so that its centre of mass has a speed of $0.4\ \text{m s}^{-1}$. The absolute value of work done on the disc to stop it is ______ J.
+
+**Answer: 6** · key ✔
+
+**Solution.** By the work–energy theorem the work needed equals the total kinetic energy: $K=\tfrac12mv^2\left(1+\dfrac{I}{mR^2}\right)=\tfrac12(50)(0.16)\left(1+\tfrac12\right)=4\times1.5=6$ J.
+

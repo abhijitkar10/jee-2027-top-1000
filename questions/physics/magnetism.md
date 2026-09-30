@@ -55,3 +55,11 @@ A current of $5$ A flows in a square loop of side $1$ m placed in air. The magne
 
 **Solution.** Each side gives $B_1=\dfrac{\mu_0I}{4\pi d}(\sin45^\circ+\sin45^\circ)$ with $d=0.5$ m: $B_1=10^{-7}\times\dfrac5{0.5}\times\sqrt2=10\sqrt2\times10^{-7}$ T. Four sides: $B=40\sqrt2\times10^{-7}$ T, so $X=40$.
 
+### P-MAG-07 — JEE Main 2024 · 31 Jan Shift 1 · Q27 · Numerical
+
+An electron moves through a uniform magnetic field $\vec B=B_0\hat i+2B_0\hat j$ T. At a particular instant its velocity is $\vec u=3\hat i+5\hat j\ \text{m s}^{-1}$. If the magnetic force on it is $\vec F=5e\hat k$ N, where $e$ is the charge of the electron, then the value of $B_0$ is ______ T.
+
+**Answer: 5** · key ✔
+
+**Solution.** $\vec F=e\,(\vec u\times\vec B)$ with $e$ the (signed) charge. $\vec u\times\vec B=(3\hat i+5\hat j)\times(B_0\hat i+2B_0\hat j)=6B_0\hat k-5B_0\hat k=B_0\hat k$. So $eB_0\hat k=5e\hat k\Rightarrow B_0=5$ T.
+

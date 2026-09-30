@@ -65,3 +65,13 @@ E. Identical DNA strands are transferred to daughter cells.
 
 **Solution.** DNA (not RNA) is the reserve of genetic information, so A is false. B, D and E are correct (replication, genetic message, faithful transfer). Proteins are synthesised by ribosomes using mRNA (the message is copied from DNA), so DNA does not itself synthesise proteins; C is false. Count $=3$.
 
+### C-BIO-07 — JEE Main 2024 · 31 Jan Shift 1 · Q50 · MCQ
+
+Match List I with List II: A. Glucose/$\text{NaHCO}_3$/$\Delta$  B. Glucose/$\text{HNO}_3$  C. Glucose/HI/$\Delta$  D. Glucose/bromine water; I. Gluconic acid  II. No reaction  III. $n$-Hexane  IV. Saccharic acid.
+
+(1) A-IV, B-I, C-III, D-II  (2) A-II, B-IV, C-III, D-I  (3) A-III, B-II, C-I, D-IV  (4) A-I, B-IV, C-III, D-II
+
+**Answer: (2)** · key ✔
+
+**Solution.** Glucose has no $-\text{COOH}$, so $\text{NaHCO}_3$ does not react. Conc. $\text{HNO}_3$ oxidises both the CHO and the terminal $\text{CH}_2\text{OH}$: saccharic acid. Prolonged HI/$\Delta$ reduces it fully to $n$-hexane. Bromine water oxidises only the CHO: gluconic acid.
+

@@ -53,3 +53,23 @@ If mass is written as $m=kc^PG^{-1/2}h^{1/2}$ (constants have their usual meanin
 
 **Solution.** $[G]=M^{-1}L^3T^{-2}$ and $[h]=ML^2T^{-1}$, so $[G^{-1/2}h^{1/2}]=M^{1/2}L^{-3/2}T\cdot M^{1/2}L\,T^{-1/2}=ML^{-1/2}T^{1/2}$. Multiplying by $[c^P]=L^PT^{-P}$ must give $M$: the $L$ exponent $P-\tfrac12=0$ and the $T$ exponent $\tfrac12-P=0$ both give $P=\tfrac12$.
 
+### P-UNT-06 — JEE Main 2024 · 31 Jan Shift 1 · Q1 · MCQ
+
+If the percentage errors in measuring the length and the diameter of a wire are $0.1\%$ each, the percentage error in measuring its resistance will be
+
+(1) 0.2%  (2) 0.3%  (3) 0.1%  (4) 0.144%
+
+**Answer: (2)** · key ✔
+
+**Solution.** $R=\dfrac{\rho l}{A}=\dfrac{4\rho l}{\pi d^2}$, so $\dfrac{\Delta R}R=\dfrac{\Delta l}l+2\dfrac{\Delta d}d=0.1+2(0.1)=0.3\%$.
+
+### P-UNT-07 — JEE Main 2024 · 31 Jan Shift 1 · Q2 · MCQ
+
+A force is represented by $F=ax^2+bt^{1/2}$, where $x$ is distance and $t$ is time. The dimensions of $\dfrac{b^2}a$ are
+
+(1) $[ML^3T^{-3}]$  (2) $[MLT^{-2}]$  (3) $[ML^{-1}T^{-1}]$  (4) $[ML^2T^{-3}]$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Each term has the dimensions of force. $[a]=\dfrac{MLT^{-2}}{L^2}=ML^{-1}T^{-2}$ and $[b]=\dfrac{MLT^{-2}}{T^{1/2}}=MLT^{-5/2}$, so $[b^2]=M^2L^2T^{-5}$. $\left[\dfrac{b^2}a\right]=\dfrac{M^2L^2T^{-5}}{ML^{-1}T^{-2}}=ML^3T^{-3}$.
+

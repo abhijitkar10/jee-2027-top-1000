@@ -113,3 +113,21 @@ In a nuclear fission reaction of an isotope of mass $M$, three similar daughter 
 
 **Solution.** The energy released $\Delta Mc^2$ appears as kinetic energy of three daughters of mass $\tfrac M3$ each. Momentum conservation for three equal masses (starting from rest) gives equal speeds $v$: $3\cdot\tfrac12\cdot\tfrac M3v^2=\Delta Mc^2\Rightarrow v=c\sqrt{\dfrac{2\Delta M}M}$.
 
+### P-ATN-13 — JEE Main 2024 · 31 Jan Shift 1 · Q19 · MCQ
+
+If the wavelength of the first member of the Lyman series of hydrogen is $\lambda$, the wavelength of the second member will be
+
+(1) $\dfrac{27}{32}\lambda$  (2) $\dfrac{32}{27}\lambda$  (3) $\dfrac{27}5\lambda$  (4) $\dfrac5{27}\lambda$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Lyman: $\dfrac1\lambda=R\left(1-\dfrac1{n^2}\right)$. First member ($n=2$): $\dfrac1\lambda=\dfrac{3R}4$. Second ($n=3$): $\dfrac1{\lambda'}=\dfrac{8R}9$. So $\lambda'=\dfrac{3/4}{8/9}\lambda=\dfrac{27}{32}\lambda$.
+
+### P-ATN-14 — JEE Main 2024 · 31 Jan Shift 1 · Q30 · Numerical
+
+The mass defect in a particular reaction is $0.4$ g. The amount of energy liberated is $n\times10^7$ kW h, where $n=$ ______. (Speed of light $=3\times10^8\ \text{m s}^{-1}$)
+
+**Answer: 1** · key ✔
+
+**Solution.** $E=\Delta mc^2=0.4\times10^{-3}\times(3\times10^8)^2=3.6\times10^{13}$ J. Since $1\ \text{kWh}=3.6\times10^6$ J, $E=10^7$ kWh, so $n=1$.
+

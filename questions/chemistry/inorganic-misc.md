@@ -70,3 +70,21 @@ The number of metal ions characterised by a flame test among the following is __
 
 **Solution.** Characteristic flame colours: $\text{Sr}^{2+}$ crimson red, $\text{Ba}^{2+}$ apple green, $\text{Ca}^{2+}$ brick red, $\text{Cu}^{2+}$ blue-green. $\text{Zn}^{2+}$, $\text{Co}^{2+}$ and $\text{Fe}^{2+}$ give no characteristic flame colour. Count $=4$.
 
+### C-INM-08 — JEE Main 2024 · 31 Jan Shift 1 · Q49 · MCQ
+
+The compound that is white in colour is
+
+(1) ammonium sulphide  (2) lead sulphate  (3) lead iodide  (4) ammonium arsenomolybdate
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{PbSO}_4$ is a white precipitate. $\text{PbI}_2$ is yellow, ammonium arsenomolybdate is canary yellow, and ammonium sulphide solution is yellow.
+
+### C-INM-09 — JEE Main 2024 · 31 Jan Shift 1 · Q60 · Numerical
+
+The molar mass of the salt from $\text{NaBr},\ \text{NaNO}_3,\ \text{KI}$ and $\text{CaF}_2$ which does not evolve coloured vapours on heating with concentrated $\text{H}_2\text{SO}_4$ is ______ g mol$^{-1}$. (Na = 23, N = 14, K = 39, O = 16, Br = 80, I = 127, F = 19, Ca = 40)
+
+**Answer: 78** · key ✔
+
+**Solution.** $\text{NaBr}$ gives brown $\text{Br}_2$, $\text{KI}$ gives violet $\text{I}_2$ vapour, and $\text{NaNO}_3$ (on heating with conc. $\text{H}_2\text{SO}_4$) gives brown $\text{NO}_2$. $\text{CaF}_2$ only gives colourless HF: $\text{CaF}_2+\text{H}_2\text{SO}_4\to\text{CaSO}_4+2\text{HF}$. Molar mass $=40+2(19)=78$ g mol$^{-1}$.
+

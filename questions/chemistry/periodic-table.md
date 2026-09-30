@@ -83,3 +83,13 @@ Statement II: The nature of oxides formed by group 1 elements is basic while tha
 
 **Solution.** Reactivity is highest for the alkali metals and halogens and lowest at the noble gases and in the middle of the period, so I is false. Group 1 oxides are strongly basic and group 17 oxides ($\text{Cl}_2\text{O}_7$ etc.) are acidic, so II is true.
 
+### C-PER-09 — JEE Main 2024 · 31 Jan Shift 1 · Q31 · MCQ
+
+The correct sequence of electron gain enthalpy of the elements A. Ar  B. Br  C. F  D. S is
+
+(1) C > B > D > A  (2) A > D > B > C  (3) A > D > C > B  (4) D > C > B > A
+
+**Answer: (2)** · key ✔
+
+**Solution.** Electron gain enthalpies ($\Delta_{eg}H$, kJ/mol): Ar $+96$ (noble gas, positive), S $-200$, Br $-325$, F $-328$. Ordering as signed values from largest to smallest gives Ar $>$ S $>$ Br $>$ F, i.e. A > D > B > C.
+

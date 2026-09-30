@@ -88,3 +88,13 @@ Consider the system of linear equations $x+y+z=5$, $x+2y+\lambda^2z=9$, $x+3y+\l
 
 **Solution.** The coefficient determinant is $\begin{vmatrix}1&1&1\\1&2&\lambda^2\\1&3&\lambda\end{vmatrix}=-(2\lambda+1)(\lambda-1)$, which vanishes at $\lambda=1$ and $\lambda=-\tfrac12$. So a unique solution exists exactly when $\lambda\ne1$ and $\lambda\ne-\tfrac12$ (for any $\mu$); (3) omits the case $\lambda=-\tfrac12$ and is wrong. For $\lambda=1$: the first two equations give $y=4,\ x+z=1$, so the third requires $\mu=13$: (1) and (2) are right. (4) holds too (e.g. at $\lambda=-\tfrac12,\mu=13$ the equations are consistent).
 
+### M-MAT-10 — JEE Main 2024 · 31 Jan Shift 1 · Q69 · MCQ
+
+If $f(x)=\begin{vmatrix}x^3&2x^2+1&1+3x\\3x^2+2&2x&x^3+6\\x^3-x&4&x^2-2\end{vmatrix}$ for all $x\in\mathbb R$, then $2f(0)+f'(0)$ is equal to
+
+(1) 48  (2) 24  (3) 42  (4) 18
+
+**Answer: (3)** · key ✔
+
+**Solution.** $f(0)=\begin{vmatrix}0&1&1\\2&0&6\\0&4&-2\end{vmatrix}=-1(-4-0)+1(8-0)=12$. Differentiating row by row and setting $x=0$ (derivative rows $(0,0,3)$, $(0,2,0)$, $(-1,0,0)$): the three determinants are $24$, $0$ and $-6$. So $f'(0)=18$ and $2f(0)+f'(0)=24+18=42$.
+

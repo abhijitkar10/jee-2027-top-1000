@@ -18,3 +18,21 @@ At $500$ K equilibrium, the following concentrations were observed for the forma
 
 **Solution.** $K_c=\dfrac{[\text{NH}_3]^2}{[\text{N}_2][\text{H}_2]^3}=\dfrac{(1.5\times10^{-2})^2}{(2\times10^{-2})(3\times10^{-2})^3}=\dfrac{2.25\times10^{-4}}{5.4\times10^{-7}}=416.7\approx417$.
 
+### C-CEQ-03 — JEE Main 2024 · 31 Jan Shift 1 · Q33 · MCQ
+
+For the reaction $\text{Fe}^{3+}(aq)+\text{SCN}^-(aq)\rightleftharpoons[\text{FeSCN}]^{2+}(aq)$, the correct expression for $K_c$ is
+
+(1) $K_c=\dfrac{[\text{FeSCN}^{2+}]}{[\text{Fe}^{3+}][\text{SCN}^-]}$  (2) $K_c=\dfrac{[\text{Fe}^{3+}][\text{SCN}^-]}{[\text{FeSCN}^{2+}]}$  (3) $K_c=\dfrac{[\text{FeSCN}^{2+}]}{[\text{Fe}^{3+}]^2[\text{SCN}^-]^2}$  (4) another form (not legible in the source)
+
+**Answer: (1)** · key ✔
+
+**Solution.** $K_c$ is products over reactants, each raised to its stoichiometric coefficient (here all $1$): $K_c=\dfrac{[\text{FeSCN}^{2+}]}{[\text{Fe}^{3+}][\text{SCN}^-]}$ (the blood-red complex equilibrium).
+
+### C-CEQ-04 — JEE Main 2024 · 31 Jan Shift 1 · Q54 · Numerical
+
+For the reaction $\tfrac32\text{O}_2(g)\rightleftharpoons\text{O}_3(g)$ at $298$ K, $K_p=2.47\times10^{-29}$. $\Delta_rG^\circ$ for the reaction is ______ kJ. ($R=8.314\ \text{J K}^{-1}\text{mol}^{-1}$; nearest integer)
+
+**Answer: 163** · key ✔
+
+**Solution.** $\Delta_rG^\circ=-RT\ln K_p=-8.314\times298\times\left[\ln2.47-29\ln10\right]=-2477.6\times(0.904-66.77)=+1.63\times10^5$ J $\approx163$ kJ.
+

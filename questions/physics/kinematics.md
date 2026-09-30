@@ -66,3 +66,21 @@ Projectiles $A$ and $B$ are thrown at angles of $45^\circ$ and $60^\circ$ with t
 
 **Solution.** Elevation angles above the horizontal are $45^\circ$ and $30^\circ$. Landing on the ground below satisfies $-400=v\sin\theta\,t-\tfrac12gt^2$, so equal $t$ needs equal $v\sin\theta$: $v_A\sin45^\circ=v_B\sin30^\circ\Rightarrow\dfrac{v_A}{v_B}=\dfrac{1/2}{1/\sqrt2}=\dfrac1{\sqrt2}$.
 
+### P-KIN-08 — JEE Main 2024 · 31 Jan Shift 1 · Q3 · MCQ
+
+The relation between time $t$ and distance $x$ is $t=\alpha x^2+\beta x$, where $\alpha$ and $\beta$ are constants. The relation between acceleration $a$ and velocity $v$ is
+
+(1) $a=-2\alpha v^3$  (2) $a=-5\alpha v^5$  (3) $a=-3\alpha v^2$  (4) $a=-4\alpha v^4$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\dfrac{dt}{dx}=2\alpha x+\beta\Rightarrow v=\dfrac1{2\alpha x+\beta}$. Then $a=\dfrac{dv}{dt}=\dfrac{dv}{dx}\cdot v=-\dfrac{2\alpha}{(2\alpha x+\beta)^2}\,v=-2\alpha v^2\cdot v=-2\alpha v^3$.
+
+### P-KIN-09 — JEE Main 2024 · 31 Jan Shift 1 · Q21 · Numerical
+
+A body starts falling freely from a height $H$ and hits an inclined plane in its path at height $h$. As a result of this perfectly elastic impact the direction of its velocity becomes horizontal. The value of $\dfrac Hh$ for which the body takes the maximum time to reach the ground is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** Time to the plane: $\sqrt{\dfrac{2(H-h)}g}$. After the impact the velocity is horizontal, so the fall through $h$ takes $\sqrt{\dfrac{2h}g}$. Total $T=\sqrt{\dfrac2g}\left(\sqrt{H-h}+\sqrt h\right)$. $\dfrac{dT}{dh}=0\Rightarrow\dfrac1{\sqrt{H-h}}=\dfrac1{\sqrt h}\Rightarrow h=\dfrac H2$. So $\dfrac Hh=2$.
+

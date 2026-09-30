@@ -56,3 +56,13 @@ $\text{NO}_2$ is produced by the decomposition of $\text{N}_2\text{O}_5$ in $\te
 
 **Solution.** Rate of disappearance of $\text{N}_2\text{O}_5=\dfrac{3-2.75}{30}=8.33\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. From the stoichiometry, $\dfrac{d[\text{NO}_2]}{dt}=\dfrac42\times8.33\times10^{-3}=16.7\times10^{-3}\approx17\times10^{-3}$.
 
+### C-KIN-07 — JEE Main 2024 · 31 Jan Shift 1 · Q43 · MCQ
+
+For a first-order gas-phase reaction $\text{A}(g)\to\text{B}(g)+\text{C}(g)$, where $P_i$ is the initial pressure and $P_t$ is the total pressure at time $t$, the integrated rate law is
+
+(1) $k=\dfrac{2.303}t\log\dfrac{P_i}{2P_i-P_t}$  (2) $k=\dfrac{2.303}t\log\dfrac{2P_i}{2P_i-P_t}$  (3) $k=\dfrac{2.303}t\log\dfrac{2P_i-P_t}{P_i}$  (4) $k=\dfrac{2.303}t\cdot\dfrac{P_i-P_t}{2P_i-P_t}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** If $x$ atm of A reacts, $P_A=P_i-x$ and $P_t=(P_i-x)+x+x=P_i+x$, so $x=P_t-P_i$ and $P_A=2P_i-P_t$. First order: $k=\dfrac{2.303}t\log\dfrac{P_i}{P_A}=\dfrac{2.303}t\log\dfrac{P_i}{2P_i-P_t}$.
+

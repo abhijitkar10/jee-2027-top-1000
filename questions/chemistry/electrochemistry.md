@@ -103,3 +103,21 @@ The total number of species from the following that can undergo a disproportiona
 
 **Solution.** A species disproportionates if its element is in an intermediate oxidation state. $\text{H}_2\text{O}_2$ ($-1$: to $\text{O}_2$ and $\text{H}_2\text{O}$), $\text{ClO}_3^-$ ($+5$: to $\text{ClO}_4^-$ and $\text{Cl}^-$), $\text{P}_4$ ($0$: to $\text{PH}_3$ and $\text{H}_2\text{PO}_2^-$), $\text{Cl}_2$ ($0$: to $\text{Cl}^-$ and $\text{ClO}^-$), $\text{Cu}^+$ ($\to\text{Cu}^{2+}+\text{Cu}$) and $\text{NO}_2$ ($\to\text{NO}_3^-+\text{NO}_2^-$). $\text{F}_2$ cannot (no positive state), Ag is stable, and $\text{K}^+$ has no other state. Count $=6$.
 
+### C-ELC-12 — JEE Main 2024 · 31 Jan Shift 1 · Q42 · MCQ
+
+Identify the factor from the following that does **not** affect the electrolytic conductance of a solution.
+
+(1) The nature of the electrolyte added  (2) The nature of the electrode used  (3) Concentration of the electrolyte  (4) The nature of the solvent used
+
+**Answer: (2)** · key ✔
+
+**Solution.** Electrolytic conductance depends on ion concentration and mobility, so on the electrolyte, its concentration, the solvent (viscosity, dielectric constant) and temperature. It does not depend on the electrode material (that matters for electrode reactions, not for conduction through the solution).
+
+### C-ELC-13 — JEE Main 2024 · 31 Jan Shift 1 · Q56 · Numerical
+
+One Faraday of electricity liberates $x\times10^{-1}$ gram atom of copper from copper sulphate. The value of $x$ is ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** $\text{Cu}^{2+}+2e^-\to\text{Cu}$: $2$ F liberate $1$ gram atom, so $1$ F liberates $0.5=5\times10^{-1}$ gram atom.
+

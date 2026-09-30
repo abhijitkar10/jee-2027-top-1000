@@ -69,3 +69,13 @@ The correct stability order of the carbocations $(\text{CH}_3)_3\text{C}^+$, $(\
 
 **Solution.** Alkyl groups stabilise a carbocation by $+I$ and hyperconjugation. The number of $\alpha$-hydrogens available for hyperconjugation is $9,6,3,0$, so stability follows $3^\circ>2^\circ>1^\circ>\text{methyl}$.
 
+### C-GOC-08 — JEE Main 2024 · 31 Jan Shift 1 · Q35 · MCQ
+
+A species having a carbon with a sextet of electrons that can act as an electrophile is called
+
+(1) carbon free radical  (2) carbanion  (3) carbocation  (4) pentavalent carbon
+
+**Answer: (3)** · key ✔
+
+**Solution.** A carbocation ($\text{R}_3\text{C}^+$) has only $6$ electrons in the valence shell of the carbon, so it is electron-deficient and electrophilic. A free radical has $7$ and a carbanion has $8$.
+

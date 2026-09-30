@@ -62,3 +62,13 @@ If the total energy transferred to a surface in time $t$ is $6.48\times10^5$ J, 
 
 **Solution.** For complete absorption of radiation, $p=\dfrac Uc=\dfrac{6.48\times10^5}{3\times10^8}=2.16\times10^{-3}\ \text{kg m s}^{-1}$.
 
+### P-EMW-07 — JEE Main 2024 · 31 Jan Shift 1 · Q16 · MCQ
+
+In a plane EM wave the electric field oscillates sinusoidally at a frequency of $5\times10^{10}$ Hz with an amplitude of $50\ \text{V m}^{-1}$. The total average energy density of the electromagnetic field of the wave is (use $\varepsilon_0=8.85\times10^{-12}\ \text{C}^2\text{N}^{-1}\text{m}^{-2}$)
+
+(1) $1.106\times10^{-8}\ \text{J m}^{-3}$  (2) $4.425\times10^{-8}\ \text{J m}^{-3}$  (3) $2.212\times10^{-8}\ \text{J m}^{-3}$  (4) $2.212\times10^{-10}\ \text{J m}^{-3}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Average total energy density $u=\tfrac12\varepsilon_0E_0^2$ (the electric and magnetic parts contribute equally: $\tfrac14\varepsilon_0E_0^2$ each). $u=\tfrac12(8.85\times10^{-12})(50)^2=1.106\times10^{-8}\ \text{J m}^{-3}$.
+

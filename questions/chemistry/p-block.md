@@ -98,3 +98,24 @@ D. Basicity increases in the order $\text{NH}_3<\text{PH}_3<\text{AsH}_3<\text{S
 
 **Solution.** Down the group the E–H bond weakens, so stability falls (A true) and reducing power rises (B true). C is the reverse of B, so false. Basicity decreases from $\text{NH}_3$ to $\text{BiH}_3$ (the lone pair becomes more diffuse), so D is false.
 
+### C-PBL-10 — JEE Main 2024 · 31 Jan Shift 1 · Q34 · MCQ
+
+Consider the oxides of group 14 elements $\text{SiO}_2,\ \text{GeO}_2,\ \text{SnO}_2,\ \text{PbO}_2,\ \text{CO}$ and $\text{GeO}$. The amphoteric oxides are
+
+(1) GeO, GeO$_2$  (2) $\text{SiO}_2$, $\text{GeO}_2$  (3) $\text{SnO}_2$, $\text{PbO}_2$  (4) $\text{SnO}_2$, CO
+
+**Answer: (3)** · key ✔
+
+**Solution.** On descending group 14 the oxides change from acidic ($\text{CO}_2,\text{SiO}_2,\text{GeO}_2$) to amphoteric ($\text{SnO}_2,\text{PbO}_2$, which react with both acids and bases). CO is neutral.
+
+### C-PBL-11 — JEE Main 2024 · 31 Jan Shift 1 · Q44 · MCQ
+
+Statement I: Noble gases have very high boiling points.
+Statement II: Noble gases are monoatomic gases. They are held together by strong dispersion forces. Because of this they are liquefied at very low temperature. Hence, they have very high boiling points.
+
+(1) I false, II true  (2) Both true  (3) I true, II false  (4) Both false
+
+**Answer: (4)** · key ✔
+
+**Solution.** Noble gases have very *low* boiling points (He $4.2$ K, Ar $87$ K) because the only interatomic forces are *weak* London dispersion forces. Both statements are wrong.
+

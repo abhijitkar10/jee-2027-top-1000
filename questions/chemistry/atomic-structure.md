@@ -49,3 +49,11 @@ The number of spectral lines obtained in the $\text{He}^+$ spectrum when an elec
 
 **Solution.** The fifth excited state is $n=6$ and the first excited state is $n=2$. Lines arise from transitions among the levels $n=2,3,4,5,6$ ($5$ levels): number $=\dfrac{5\times4}{2}=10$.
 
+### C-ATS-06 — JEE Main 2024 · 31 Jan Shift 1 · Q52 · Numerical
+
+The ionisation energy of sodium in kJ mol$^{-1}$, if electromagnetic radiation of wavelength $242$ nm is just sufficient to ionise a sodium atom, is ______ (nearest integer).
+
+**Answer: 494** · key ✔
+
+**Solution.** Energy per atom $E=\dfrac{hc}\lambda=\dfrac{6.626\times10^{-34}\times3\times10^8}{242\times10^{-9}}=8.21\times10^{-19}$ J. Per mole: $8.21\times10^{-19}\times6.022\times10^{23}=4.95\times10^5$ J $\approx494$ kJ mol$^{-1}$.
+

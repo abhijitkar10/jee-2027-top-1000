@@ -71,3 +71,23 @@ Which among the following purification methods is based on the principle of "sol
 
 **Solution.** In differential (solvent) extraction an organic compound is transferred from an aqueous solution into an immiscible organic solvent in which it is more soluble, using the distribution law. Chromatography uses adsorption/partition, sublimation uses vapour pressure and distillation uses boiling point differences.
 
+### C-PRO-08 — JEE Main 2024 · 31 Jan Shift 1 · Q36 · MCQ
+
+The "adsorption" principle is used for which of the following purification methods?
+
+(1) Extraction  (2) Chromatography  (3) Distillation  (4) Sublimation
+
+**Answer: (2)** · key ✔
+
+**Solution.** In chromatography (column, TLC) components separate by differing adsorption on a stationary phase. Extraction uses solubility, distillation boiling points, sublimation vapour pressure.
+
+### C-PRO-09 — JEE Main 2024 · 31 Jan Shift 1 · Q38 · MCQ
+
+Match List I (technique) with List II (application): A. Distillation  B. Fractional distillation  C. Steam distillation  D. Distillation under reduced pressure; I. Separation of glycerol from spent lye  II. Aniline–water mixture  III. Separation of crude oil fractions  IV. Chloroform–aniline.
+
+(1) A-IV, B-I, C-II, D-III  (2) A-IV, B-III, C-II, D-I  (3) A-I, B-II, C-IV, D-III  (4) A-II, B-III, C-I, D-IV
+
+**Answer: (2)** · key ✔
+
+**Solution.** Simple distillation separates liquids with a large boiling-point gap (chloroform–aniline). Fractional distillation separates crude-oil fractions. Steam distillation suits water-immiscible, steam-volatile aniline. Reduced-pressure distillation is used for glycerol (decomposes near its normal boiling point).
+

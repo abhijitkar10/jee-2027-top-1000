@@ -44,3 +44,13 @@ A ceiling fan having $3$ blades of length $80$ cm each rotates with an angular v
 
 **Solution.** The blades sweep out a horizontal plane, so the relevant field is the vertical component $B_v=B\sin30^\circ=0.25$ G $=2.5\times10^{-5}$ T. $\omega=2\pi\cdot20=40\pi$ rad/s. Emf across each blade (the three are in parallel) $=\tfrac12B_v\omega l^2=\tfrac12(2.5\times10^{-5})(40\pi)(0.64)=32\pi\times10^{-5}$ V. So $N=32$.
 
+### P-EMI-06 — JEE Main 2024 · 31 Jan Shift 1 · Q15 · MCQ
+
+A coil is placed perpendicular to a magnetic field of $5000$ T. When the field is changed to $3000$ T in $2$ s, an induced emf of $22$ V is produced in the coil. If the diameter of the coil is $0.02$ m, the number of turns in the coil is (take $\pi=\tfrac{22}7$)
+
+(1) 7  (2) 70  (3) 35  (4) 140
+
+**Answer: (2)** · key ✔
+
+**Solution.** $|\varepsilon|=N\,A\left|\dfrac{\Delta B}{\Delta t}\right|$ with $A=\pi(0.01)^2=\dfrac{22}7\times10^{-4}$ m$^2$ and $\left|\dfrac{\Delta B}{\Delta t}\right|=\dfrac{2000}2=1000$ T/s. $22=N\cdot\dfrac{22}7\times10^{-4}\times10^3\Rightarrow N=70$.
+

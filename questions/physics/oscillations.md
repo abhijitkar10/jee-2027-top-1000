@@ -34,3 +34,11 @@ A simple pendulum is placed at a place whose distance from the earth's surface i
 
 **Solution.** At height $R$: $g'=\dfrac g{(1+1)^2}=\dfrac g4=\dfrac{\pi^2}4$. $T=2\pi\sqrt{\dfrac L{g'}}=2\pi\sqrt{\dfrac{4}{\pi^2/4}}=2\pi\cdot\dfrac4\pi=8$ s.
 
+### P-SHM-05 — JEE Main 2024 · 31 Jan Shift 1 · Q24 · Numerical
+
+A particle performs simple harmonic motion with amplitude $A$. Its speed is increased to three times at an instant when its displacement is $\dfrac{2A}3$. The new amplitude of motion is $\dfrac{nA}3$. The value of $n$ is ______.
+
+**Answer: 7** · key ✔
+
+**Solution.** Before: $v^2=\omega^2\left(A^2-\dfrac{4A^2}9\right)=\dfrac{5}{9}\omega^2A^2$. After: $9v^2=5\omega^2A^2=\omega^2\left(A'^2-\dfrac{4A^2}9\right)$ (same displacement, $\omega$ unchanged). $A'^2=5A^2+\dfrac{4A^2}9=\dfrac{49A^2}9\Rightarrow A'=\dfrac{7A}3$, so $n=7$.
+

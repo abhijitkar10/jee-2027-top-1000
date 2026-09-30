@@ -84,3 +84,11 @@ A big drop is formed by coalescing $1000$ small identical drops of water. If $E_
 
 **Solution.** Volume conservation: $1000r^3=R^3\Rightarrow R=10r$. Surface energy $\propto$ area: $E_1=1000\cdot4\pi r^2T$ and $E_2=4\pi(10r)^2T=100\cdot4\pi r^2T$. Ratio $=\dfrac{1000}{100}=10$.
 
+### P-POM-10 — JEE Main 2024 · 31 Jan Shift 1 · Q23 · Numerical
+
+The depth below the surface of the sea to which a rubber ball must be taken so as to decrease its volume by $0.02\%$ is ______ m. (Density of sea water $=10^3\ \text{kg m}^{-3}$, bulk modulus of rubber $=9\times10^8\ \text{N m}^{-2}$, $g=10\ \text{m s}^{-2}$)
+
+**Answer: 18** · key ✔
+
+**Solution.** $\dfrac{\Delta V}V=\dfrac{\rho gh}B\Rightarrow2\times10^{-4}=\dfrac{10^3\times10\times h}{9\times10^8}\Rightarrow h=\dfrac{2\times10^{-4}\times9\times10^8}{10^4}=18$ m.
+

@@ -18,3 +18,21 @@ In a closed organ pipe, the frequency of the fundamental note is $30$ Hz. Water 
 
 **Solution.** Closed pipe: $f=\dfrac v{4L}$. Initially $L_1=\dfrac{330}{4\times30}=2.75$ m; finally $L_2=\dfrac{330}{4\times110}=0.75$ m. Height of water $=2.75-0.75=2$ m $=200$ cm. Volume $=200\times2=400\ \text{cm}^3$, i.e. $400$ g.
 
+### P-WAV-03 — JEE Main 2024 · 31 Jan Shift 1 · Q12 · MCQ
+
+The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If the length of the open pipe is $60$ cm, the length of the closed pipe will be
+
+(1) 60 cm  (2) 45 cm  (3) 30 cm  (4) 15 cm
+
+**Answer: (4)** · key ✔
+
+**Solution.** Open pipe first overtone (second harmonic): $f=\dfrac vL=\dfrac v{0.6}$. Closed pipe fundamental: $f=\dfrac v{4L_c}$. Equating: $4L_c=0.6\Rightarrow L_c=0.15$ m $=15$ cm.
+
+### P-WAV-04 — JEE Main 2024 · 31 Jan Shift 1 · Q29 · Numerical
+
+Two waves of intensity ratio $1:9$ cross each other at a point. The resultant intensity at the point when (a) the waves are incoherent is $I_1$, and (b) the waves are coherent and differ in phase by $60^\circ$ is $I_2$. If $\dfrac{I_1}{I_2}=\dfrac{10}x$, then $x=$ ______.
+
+**Answer: 13** · key ✔
+
+**Solution.** Let the intensities be $I$ and $9I$. (a) Incoherent: $I_1=I+9I=10I$. (b) Coherent: $I_2=I+9I+2\sqrt{I\cdot9I}\cos60^\circ=10I+3I=13I$. So $\dfrac{I_1}{I_2}=\dfrac{10}{13}$ and $x=13$.
+
