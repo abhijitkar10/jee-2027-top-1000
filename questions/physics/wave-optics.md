@@ -154,3 +154,11 @@ Two slits are $1$ mm apart and the screen is $1$ m away. Light of wavelength $50
 
 **Solution.** Central maximum width $=\dfrac{2\lambda D}{a}$. Fringe width $\beta=\dfrac{\lambda D}{d}$. Setting $\dfrac{2\lambda D}{a}=10\beta=\dfrac{10\lambda D}{d}\Rightarrow a=\dfrac d5=0.2$ mm $=2\times10^{-4}$ m.
 
+### P-WOP-18 — JEE Main 2024 · 9 Apr Shift 1 · Q29 · Numerical
+
+In Young's double-slit experiment the intensity at a point is $\left(\tfrac14\right)$th of the maximum intensity. The minimum distance of the point from the central maximum is ______ $\mu$m. ($\lambda=600$ nm, $d=1.0$ mm, $D=1.0$ m)
+
+**Answer: 200** · key ✔
+
+**Solution.** $I=I_{max}\cos^2\dfrac\phi2=\dfrac{I_{max}}{4}\Rightarrow\cos\dfrac\phi2=\dfrac12\Rightarrow\phi=\dfrac{2\pi}{3}$, i.e. path difference $\dfrac\lambda3$. $y=\dfrac{D}{d}\cdot\dfrac\lambda3=\dfrac{1\times600\times10^{-9}}{10^{-3}\times3}=2\times10^{-4}$ m $=200\ \mu$m.
+

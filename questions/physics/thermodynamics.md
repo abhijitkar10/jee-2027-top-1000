@@ -112,3 +112,13 @@ A total of $48$ J of heat is given to one mole of helium kept in a cylinder. The
 
 **Solution.** $\Delta U=nC_v\Delta T=\tfrac32R\Delta T=\tfrac32(8.3)(2)=24.9$ J. $W=Q-\Delta U=48-24.9=23.1$ J.
 
+### P-THD-12 — JEE Main 2024 · 9 Apr Shift 1 · Q9 · MCQ
+
+The volume of an ideal gas ($\gamma=1.5$) is changed adiabatically from $5$ litres to $4$ litres. The ratio of the initial pressure to the final pressure is:
+
+(1) $\dfrac{16}{25}$  (2) $\dfrac45$  (3) $\dfrac{8}{5\sqrt5}$  (4) $\dfrac{2}{\sqrt5}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $PV^\gamma=$ const: $\dfrac{P_i}{P_f}=\left(\dfrac{V_f}{V_i}\right)^{\gamma}=\left(\dfrac45\right)^{3/2}=\dfrac{8}{5\sqrt5}$.
+

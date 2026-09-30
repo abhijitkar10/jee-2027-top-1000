@@ -134,3 +134,13 @@ The amount of oxygen (in g) required for the complete combustion of $900$ g of g
 
 **Solution.** $\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\to6\text{CO}_2+6\text{H}_2\text{O}$. $900$ g $=5$ mol glucose needs $30$ mol $\text{O}_2=30\times32=960$ g.
 
+### C-MOL-16 — JEE Main 2024 · 9 Apr Shift 1 · Q34 · MCQ
+
+Identify the incorrect statements regarding a primary standard in titrimetric analysis. (A) It should be available in pure, dry form. (B) It should not undergo chemical change in air. (C) It should be hygroscopic and should react with another chemical instantaneously and stoichiometrically. (D) It should be readily soluble in water. (E) $\text{KMnO}_4$ and NaOH can be used as primary standards.
+
+(1) (A), (B) only  (2) (C), (E) only  (3) (B), (E) only  (4) (C), (D) only
+
+**Answer: (2)** · key ✔
+
+**Solution.** A primary standard must be pure, stable in air, **non**-hygroscopic and soluble. C is wrong because it must not be hygroscopic. E is wrong: $\text{KMnO}_4$ (reduced by traces of organic matter) and NaOH (absorbs $\text{CO}_2$ and moisture) are secondary standards.
+

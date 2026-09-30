@@ -134,3 +134,11 @@ A circular table rotates with angular velocity $\omega$ rad/s about its axis. Th
 
 **Solution.** In the rotating frame the ball feels the centrifugal force $m\omega^2r$ (the groove supplies the normal force). Then $v\dfrac{dv}{dr}=\omega^2r\Rightarrow v^2=\omega^2(r^2-r_0^2)$. At $r=3$: $v^2=\omega^2(9-1)=8\omega^2$, so $v=2\sqrt2\,\omega$ and $x=2$.
 
+### P-ROT-17 — JEE Main 2024 · 9 Apr Shift 1 · Q22 · Numerical
+
+A string is wrapped around the rim of a wheel of moment of inertia $0.40\ \text{kg m}^2$ and radius $10$ cm. The wheel is free to rotate about its axis and is initially at rest. The string is pulled by a force of $40$ N. The angular velocity of the wheel after $10$ s is $x$ rad/s. $x=$ ______.
+
+**Answer: 100** · key ✔
+
+**Solution.** Torque $\tau=Fr=40\times0.1=4\ \text{N m}$. $\alpha=\dfrac\tau I=\dfrac{4}{0.4}=10\ \text{rad/s}^2$. $\omega=\alpha t=10\times10=100$ rad/s.
+

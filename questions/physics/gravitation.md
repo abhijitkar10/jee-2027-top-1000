@@ -183,3 +183,13 @@ Two satellites A and B go round a planet in circular orbits of radii $4R$ and $R
 
 **Solution.** Orbital speed $v_0=\sqrt{GM/r}\propto r^{-1/2}$. $\dfrac{v_B}{v_A}=\sqrt{\dfrac{4R}{R}}=2$, so $v_B=6v$.
 
+### P-GRV-19 — JEE Main 2024 · 9 Apr Shift 1 · Q6 · MCQ
+
+An astronaut throws a ball of mass $m$ into a circular orbit about the earth at an altitude of $318.5$ km. From the earth's surface to the orbit, the change in total mechanical energy of the ball is $x\dfrac{GM_em}{21R_e}$. The value of $x$ is ($R_e=6370$ km):
+
+(1) 10  (2) 12  (3) 9  (4) 11
+
+**Answer: (4)** · key ✔
+
+**Solution.** Orbit radius $r=6370+318.5=6688.5=1.05R_e$. Initial energy (at rest on the surface) $=-\dfrac{GMm}{R_e}$. Orbital energy $=-\dfrac{GMm}{2r}=-\dfrac{GMm}{2.1R_e}$. $\Delta E=\dfrac{GMm}{R_e}\left(1-\dfrac1{2.1}\right)=\dfrac{GMm}{R_e}\cdot\dfrac{11}{21}$. So $x=11$.
+

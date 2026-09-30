@@ -76,3 +76,11 @@ A particle does simple harmonic motion with amplitude $0.06$ m and time period $
 
 **Solution.** $\omega=\dfrac{2\pi}{3.14}=2$ rad/s. $v_{max}=A\omega=0.06\times2=0.12$ m/s $=12$ cm/s.
 
+### P-SHM-10 — JEE Main 2024 · 9 Apr Shift 1 · Q24 · Numerical
+
+The position, velocity and acceleration of a particle in SHM have magnitudes $4$ m, $2\ \text{m s}^{-1}$ and $16\ \text{m s}^{-2}$ at a certain instant. The amplitude of the motion is $\sqrt x$ m, where $x=$ ______.
+
+**Answer: 17** · key ✔
+
+**Solution.** $a=\omega^2x\Rightarrow\omega^2=\dfrac{16}{4}=4$. $v^2=\omega^2(A^2-x^2)\Rightarrow4=4(A^2-16)\Rightarrow A^2=17$. So $A=\sqrt{17}$ and $x=17$.
+

@@ -168,3 +168,11 @@ The molality of an aqueous solution of urea is $4.44$ m. The mole fraction of ur
 
 **Solution.** In $1$ kg of water there are $\dfrac{1000}{18}=55.5$ mol. $\chi_{urea}=\dfrac{4.44}{4.44+55.5}=0.0741=74\times10^{-3}$.
 
+### C-SOL-20 — JEE Main 2024 · 9 Apr Shift 1 · Q51 · Numerical
+
+The molarity of an aqueous solution containing $x$ g of anhydrous $\text{CuSO}_4$ in $500$ mL of solution at $32^\circ$C is $2\times10^{-1}$ M. Its molality is ______ $\times10^{-3}$ m (nearest integer). (Density of the solution $=1.25$ g/mL; $\text{CuSO}_4=159.5$ g mol$^{-1}$)
+
+**Answer: 164** · key ✔
+
+**Solution.** In $500$ mL: $0.1$ mol $\text{CuSO}_4=15.95$ g. Solution mass $=500\times1.25=625$ g; water $=625-15.95=609.05$ g. Molality $=\dfrac{0.1}{0.60905}=0.164\ \text{m}=164\times10^{-3}$ m.
+

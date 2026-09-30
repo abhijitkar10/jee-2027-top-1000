@@ -273,3 +273,24 @@ Incorrect statements about group 15 elements: (A) Dinitrogen is a diatomic gas t
 
 **Solution.** A, B and C are true. D is false: due to the inert-pair effect the $+5$ state becomes *less* stable down the group (Bi(V) is a strong oxidant). E is false: nitrogen has no $d$ orbitals, so its maximum covalency is $4$.
 
+### C-PBL-27 — JEE Main 2024 · 9 Apr Shift 1 · Q41 · MCQ
+
+Assertion A: Both rhombic and monoclinic sulphur exist as $\text{S}_8$ while oxygen exists as $\text{O}_2$.
+Reason R: Oxygen forms $p\pi$–$p\pi$ multiple bonds with itself and with other small, highly electronegative elements like C and N, which is not possible for sulphur.
+
+(1) A correct, R not correct  (2) A not correct, R correct  (3) Both correct, R explains A  (4) Both correct, R does not explain A
+
+**Answer: (1)** · key ✔
+
+**Solution.** A is correct. R is the textbook explanation for oxygen, but it overstates the case: sulphur does form $p\pi$–$p\pi$ bonds with C (e.g. $\text{CS}_2$), and the key marks R as not correct. The real reason is the small size of oxygen, which allows effective sideways overlap, so it forms stable $\text{O=O}$, whereas the larger sulphur prefers $\text{S-S}$ single bonds (the rings).
+
+### C-PBL-28 — JEE Main 2024 · 9 Apr Shift 1 · Q42 · MCQ
+
+On reaction of lead sulphide with dilute nitric acid, which of the following is NOT formed?
+
+(1) Nitric oxide  (2) Nitrous oxide  (3) Lead nitrate  (4) Sulphur
+
+**Answer: (2)** · key ✔
+
+**Solution.** $3\text{PbS}+8\text{HNO}_3\to3\text{Pb(NO}_3)_2+2\text{NO}+3\text{S}+4\text{H}_2\text{O}$. Dilute $\text{HNO}_3$ here gives NO, $\text{Pb(NO}_3)_2$ and S, but not $\text{N}_2\text{O}$.
+

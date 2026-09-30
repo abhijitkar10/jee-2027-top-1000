@@ -201,3 +201,21 @@ An alternating emf $E=110\sqrt2\sin100t$ volt is applied to a $2\ \mu$F capacito
 
 **Solution.** $V_{rms}=110$ V, $\omega=100$ rad/s. $X_C=\dfrac{1}{100\times2\times10^{-6}}=5000\ \Omega$. $I_{rms}=\dfrac{110}{5000}=0.022$ A $=22$ mA.
 
+### P-ACC-22 — JEE Main 2024 · 9 Apr Shift 1 · Q10 · MCQ
+
+A bulb and a capacitor are connected in series across an ac supply. A dielectric is then placed between the plates of the capacitor. The glow of the bulb:
+
+(1) increases  (2) decreases  (3) remains the same  (4) becomes zero
+
+**Answer: (1)** · key ✔
+
+**Solution.** A dielectric increases $C=K C_0$, so $X_C=\dfrac1{\omega C}$ falls. The circuit impedance decreases, the current rises, and the bulb glows brighter.
+
+### P-ACC-23 — JEE Main 2024 · 9 Apr Shift 1 · Q28 · Numerical
+
+A coil connected across a $20$ V dc supply draws a current of $5$ A. Connected across a $20$ V, $50$ Hz ac supply, it draws $4$ A. The self-inductance of the coil is ______ mH. (Take $\pi=3$)
+
+**Answer: 10** · key ✔
+
+**Solution.** $R=\dfrac{20}{5}=4\ \Omega$. On ac: $Z=\dfrac{20}{4}=5\ \Omega$, so $X_L=\sqrt{25-16}=3\ \Omega$. $L=\dfrac{X_L}{2\pi f}=\dfrac{3}{2\times3\times50}=0.01$ H $=10$ mH.
+

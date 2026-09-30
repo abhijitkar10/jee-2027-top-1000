@@ -220,3 +220,13 @@ The angle of projection for a projectile to have the same horizontal range and m
 
 **Solution.** $R=\dfrac{u^2\sin2\theta}{g}$ and $H=\dfrac{u^2\sin^2\theta}{2g}$. $R=H\Rightarrow2\sin\theta\cos\theta=\dfrac{\sin^2\theta}{2}\Rightarrow\tan\theta=4$.
 
+### P-KIN-25 — JEE Main 2024 · 9 Apr Shift 1 · Q2 · MCQ
+
+A particle moving in a straight line covers half the distance with a speed of $6$ m/s. The other half of the distance is covered in two equal time intervals with speeds $9$ m/s and $15$ m/s respectively. The average speed of the particle during the motion is:
+
+(1) 10 m/s  (2) 8 m/s  (3) 9.2 m/s  (4) 8.8 m/s
+
+**Answer: (2)** · key ✔
+
+**Solution.** Total distance $d$. First half: time $t_1=\dfrac{d/2}{6}=\dfrac d{12}$. Second half: in two equal intervals $t$ each, $(9+15)t=\dfrac d2\Rightarrow t=\dfrac d{48}$, so time $=2t=\dfrac d{24}$. Total time $=\dfrac d{12}+\dfrac d{24}=\dfrac d8$. Average speed $=\dfrac{d}{d/8}=8$ m/s.
+

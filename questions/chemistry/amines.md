@@ -107,3 +107,13 @@ Statement II: Their products in the reaction are soluble in aqueous NaOH.
 
 **Solution.** Hinsberg-type reactions need an N–H bond: the tertiary amine $(\text{C}_6\text{H}_5)_3\text{N}$ does not react (I false). Of the products, only the primary amine's sulfonamide has an acidic N–H and dissolves in NaOH; the secondary amine's sulfonamide has no N–H and is insoluble (II false).
 
+### C-AMN-13 — JEE Main 2024 · 9 Apr Shift 1 · Q36 · MCQ
+
+The correct order of basic strength of pyrrole, pyridine and piperidine is:
+
+(1) Pyrrole > Piperidine > Pyridine  (2) Pyrrole > Pyridine > Piperidine  (3) Pyridine > Piperidine > Pyrrole  (4) Piperidine > Pyridine > Pyrrole
+
+**Answer: (4)** · key ✔
+
+**Solution.** Piperidine has a lone pair on an $sp^3$ N (most available, $pK_b\approx2.8$). Pyridine's lone pair is on an $sp^2$ N, held more tightly ($pK_b\approx8.8$). In pyrrole the N lone pair is part of the aromatic sextet, so it is barely basic. Order: piperidine > pyridine > pyrrole.
+

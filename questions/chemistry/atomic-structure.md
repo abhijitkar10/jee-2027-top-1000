@@ -125,3 +125,13 @@ The wavenumber of a radiation of wavelength $5800\ \text{Å}$ is $x\times10\ \te
 
 **Solution.** $\lambda=5800\ \text{Å}=5.8\times10^{-5}$ cm. $\bar\nu=\dfrac1\lambda=\dfrac{1}{5.8\times10^{-5}}=1.724\times10^4\ \text{cm}^{-1}=1724\times10\ \text{cm}^{-1}$.
 
+### C-ATS-15 — JEE Main 2024 · 9 Apr Shift 1 · Q31 · MCQ
+
+Compare the energies of the sets of quantum numbers in a multi-electron atom: (A) $n=4,l=1$; (B) $n=4,l=2$; (C) $n=3,l=1$; (D) $n=3,l=2$; (E) $n=4,l=0$.
+
+(1) B > A > C > E > D  (2) E < C < D < A < B  (3) E > C > A > D > B  (4) C < E < D < A < B
+
+**Answer: (4)** · key ✔
+
+**Solution.** Use the $(n+l)$ rule: A $=5$, B $=6$, C $=4$, D $=5$, E $=4$. For equal $(n+l)$ the lower $n$ has lower energy: C ($n=3$) < E ($n=4$) and D ($n=3$) < A ($n=4$). Order: C < E < D < A < B.
+

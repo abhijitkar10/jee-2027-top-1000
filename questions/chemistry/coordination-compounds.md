@@ -334,3 +334,22 @@ The total number of unpaired electrons in the complex ions $[\text{Co(NH}_3)_6]^
 
 **Solution.** $[\text{Co(NH}_3)_6]^{3+}$: $\text{Co}^{3+}$ ($d^6$) with strong-field $\text{NH}_3$, low spin $t_{2g}^6$: $0$ unpaired. $[\text{NiCl}_4]^{2-}$: $\text{Ni}^{2+}$ ($d^8$), tetrahedral ($sp^3$) with weak-field $\text{Cl}^-$: $e^4t_2^4$, $2$ unpaired. Total $=2$.
 
+### C-COO-34 — JEE Main 2024 · 9 Apr Shift 1 · Q46 · MCQ
+
+Assertion A: The total number of geometrical isomers shown by the $[\text{Co(en)}_2\text{Cl}_2]^+$ complex ion is three.
+Reason R: The $[\text{Co(en)}_2\text{Cl}_2]^+$ complex ion has an octahedral geometry.
+
+(1) Both correct, R not the explanation  (2) A not correct, R correct  (3) Both correct, R explains A  (4) A correct, R not correct
+
+**Answer: (2)** · key ✔
+
+**Solution.** $[\text{M(AA)}_2\text{X}_2]$ has two geometrical isomers, cis and trans (the cis form is optically active, giving $3$ stereoisomers in total but $2$ geometrical isomers). So A is wrong and R is right.
+
+### C-COO-35 — JEE Main 2024 · 9 Apr Shift 1 · Q59 · Numerical
+
+The number of ambidentate ligands among $\text{NO}_2^-$, $\text{SCN}^-$, $\text{C}_2\text{O}_4^{2-}$, $\text{NH}_3$, $\text{CN}^-$, $\text{SO}_4^{2-}$, $\text{H}_2\text{O}$ is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** Ambidentate ligands can bind through either of two different donor atoms: $\text{NO}_2^-$ (N or O), $\text{SCN}^-$ (S or N) and $\text{CN}^-$ (C or N). $\text{C}_2\text{O}_4^{2-}$ is bidentate (chelating), $\text{SO}_4^{2-}$ can bridge but is not classed as ambidentate, and $\text{NH}_3$, $\text{H}_2\text{O}$ are simple unidentate. Count $=3$.
+

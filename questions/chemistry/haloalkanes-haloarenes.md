@@ -94,3 +94,14 @@ Statement II: $S_N1$ reactions generally result in the formation of products as 
 
 **Solution.** $S_N2$ proceeds with backside attack (inversion of configuration), so a single stereoisomer forms. $S_N1$ goes through a planar carbocation that the nucleophile can attack from either face, giving (partial) racemisation.
 
+### C-HAL-10 — JEE Main 2024 · 9 Apr Shift 1 · Q47 · MCQ
+
+Assertion A: The $S_N2$ reaction of $\text{C}_6\text{H}_5\text{CH}_2\text{Br}$ occurs more readily than the $S_N2$ reaction of $\text{CH}_3\text{CH}_2\text{Br}$.
+Reason R: The partially bonded unhybridised $p$ orbital that develops in the trigonal bipyramidal transition state is stabilised by conjugation with the phenyl ring.
+
+(1) A correct, R not correct  (2) A not correct, R correct  (3) Both correct, R not the explanation  (4) Both correct, R explains A
+
+**Answer: (4)** · key ✔
+
+**Solution.** In the $S_N2$ transition state the central carbon is $sp^2$-like with a $p$ orbital shared by the entering and leaving groups. For a benzylic carbon this $p$ orbital overlaps with the ring $\pi$ system and is stabilised, lowering the activation energy. So benzyl bromide reacts faster.
+

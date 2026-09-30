@@ -304,3 +304,21 @@ The number of molecules with bond order $2$ among $\text{C}_2$, $\text{O}_2$, $\
 
 **Solution.** $\text{C}_2$: $2$ (two $\pi$ bonds). $\text{O}_2$: $2$. $\text{Be}_2$: $0$; $\text{Li}_2$: $1$; $\text{Ne}_2$: $0$; $\text{N}_2$: $3$; $\text{He}_2$: $0$. Count $=2$.
 
+### C-BND-34 — JEE Main 2024 · 9 Apr Shift 1 · Q33 · MCQ
+
+In which pair do the central atoms exhibit $sp^2$ hybridisation?
+
+(1) $\text{H}_2\text{O}$ and $\text{NO}_2$  (2) $\text{BF}_3$ and $\text{NO}_2^-$  (3) $\text{NH}_2^-$ and $\text{H}_2\text{O}$  (4) $\text{NH}_2^-$ and $\text{BF}_3$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{BF}_3$ ($3$ bond pairs) and $\text{NO}_2^-$ ($2$ bond pairs + $1$ lone pair) both have three electron domains: $sp^2$. $\text{H}_2\text{O}$ and $\text{NH}_2^-$ have four domains ($sp^3$).
+
+### C-BND-35 — JEE Main 2024 · 9 Apr Shift 1 · Q52 · Numerical
+
+The total number of species with one unpaired electron among $\text{N}_2$, $\text{O}_2$, $\text{C}_2^-$, $\text{O}_2^-$, $\text{O}_2^{2-}$, $\text{H}_2^+$, $\text{CN}^-$, $\text{He}_2^+$ is ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** One unpaired electron: $\text{C}_2^-$ (odd, $\sigma 2p$ half-filled in the ground state of the anion), $\text{O}_2^-$ (superoxide, $1$ electron in $\pi^*$), $\text{H}_2^+$ ($1$ electron) and $\text{He}_2^+$ ($1$ electron in $\sigma^*$). $\text{N}_2$, $\text{O}_2^{2-}$ and $\text{CN}^-$ have all electrons paired, and $\text{O}_2$ has two unpaired. Count $=4$.
+

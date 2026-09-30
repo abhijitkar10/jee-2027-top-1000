@@ -192,3 +192,14 @@ Match the elements with their properties in their respective groups: A. Cl, S; B
 
 **Solution.** Cl (group 17) and S (group 16) have the most negative electron gain enthalpies in their groups (IV). Ge and As are metalloids (III). Fr (group 1) and Ra (group 2) are the largest atoms in their groups (II). F and O are the most electronegative in their groups (I).
 
+### C-PER-20 — JEE Main 2024 · 9 Apr Shift 1 · Q32 · MCQ
+
+Statement I: The oxidation state of an element in a compound is the charge acquired by its atom on the basis of electron gain enthalpy considerations from other atoms in the molecule.
+Statement II: $p\pi$–$p\pi$ bond formation is more prevalent in second-period elements than in other periods.
+
+(1) Both correct  (2) Both incorrect  (3) I incorrect, II correct  (4) I correct, II incorrect
+
+**Answer: (3)** · key ✔
+
+**Solution.** Oxidation state is defined by electronegativity (the hypothetical charge if bonding electrons are assigned to the more electronegative atom), not by electron gain enthalpy: I is incorrect. Second-period atoms are small, giving effective sideways $p$–$p$ overlap ($\text{C=C}$, $\text{N}\equiv\text{N}$, $\text{O=O}$), so II is correct.
+

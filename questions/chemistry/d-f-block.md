@@ -298,3 +298,21 @@ Statement II: Manganate ion on electrolytic oxidation in alkaline medium gives p
 
 **Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$ (green). Electrolytic oxidation in alkali: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$ (purple). Both true.
 
+### C-DFB-31 — JEE Main 2024 · 9 Apr Shift 1 · Q44 · MCQ
+
+The electronic configuration of Cu(II) is $3d^9$ whereas that of Cu(I) is $3d^{10}$. Which is correct?
+
+(1) Stability of Cu(I) and Cu(II) depends on the nature of the copper salts  (2) Cu(II) is more stable  (3) Cu(I) and Cu(II) are equally stable  (4) Cu(II) is less stable
+
+**Answer: (2)** · key ✔
+
+**Solution.** In aqueous solution $\text{Cu}^{2+}$ is more stable than $\text{Cu}^+$: the much higher (negative) hydration enthalpy of $\text{Cu}^{2+}$ more than compensates for the second ionisation enthalpy. As a result $\text{Cu}^+$ disproportionates: $2\text{Cu}^+\to\text{Cu}^{2+}+\text{Cu}$.
+
+### C-DFB-32 — JEE Main 2024 · 9 Apr Shift 1 · Q58 · Numerical
+
+The number of colourless lanthanoid ions among $\text{Eu}^{3+}$, $\text{Lu}^{3+}$, $\text{Nd}^{3+}$, $\text{La}^{3+}$, $\text{Sm}^{3+}$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** Ions with $4f^0$ ($\text{La}^{3+}$) and $4f^{14}$ ($\text{Lu}^{3+}$) have no $f$–$f$ transitions and are colourless. $\text{Nd}^{3+}$ (lilac), $\text{Sm}^{3+}$ (yellow) and $\text{Eu}^{3+}$ (pale pink) show colour. Count $=2$.
+

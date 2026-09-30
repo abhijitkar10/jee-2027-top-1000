@@ -129,3 +129,19 @@ $\Delta_{vap}H^\ominus$ for water is $+40.79$ kJ mol$^{-1}$ at $1$ bar and $100^
 
 **Solution.** $\text{H}_2\text{O}(l)\to\text{H}_2\text{O}(g)$: $\Delta n_g=1$. $\Delta U=\Delta H-\Delta n_gRT=40.79-\dfrac{8.3\times373}{1000}=40.79-3.10=37.69\approx38$ kJ mol$^{-1}$.
 
+### C-CTH-16 — JEE Main 2024 · 9 Apr Shift 1 · Q53 · Numerical
+
+When equal volumes of $1$ M HCl and $1$ M $\text{H}_2\text{SO}_4$ are separately neutralised by excess $1$ M NaOH solution, $x$ and $y$ kJ of heat are liberated respectively. The value of $y/x$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** The heat depends on the moles of $\text{H}^+$ neutralised ($\Delta H\approx-57$ kJ per mole of water formed). $1$ M HCl gives $1$ mol $\text{H}^+$ per litre; $1$ M $\text{H}_2\text{SO}_4$ gives $2$ mol. So $y=2x$ and $y/x=2$.
+
+### C-CTH-17 — JEE Main 2024 · 9 Apr Shift 1 · Q54 · Numerical
+
+The heats of solution of anhydrous $\text{CuSO}_4$ and $\text{CuSO}_4\cdot5\text{H}_2\text{O}$ are $-70$ kJ mol$^{-1}$ and $+12$ kJ mol$^{-1}$ respectively. The heat of hydration of $\text{CuSO}_4$ to $\text{CuSO}_4\cdot5\text{H}_2\text{O}$ is $-x$ kJ. $x=$ ______.
+
+**Answer: 82** · key ✔
+
+**Solution.** Hess's law: $\text{CuSO}_4(s)+5\text{H}_2\text{O}\to\text{CuSO}_4\cdot5\text{H}_2\text{O}(s)$. $\Delta H_{hyd}=\Delta H_{sol}(\text{anhydrous})-\Delta H_{sol}(\text{pentahydrate})=-70-12=-82$ kJ. So $x=82$.
+

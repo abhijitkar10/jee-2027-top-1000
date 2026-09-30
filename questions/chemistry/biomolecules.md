@@ -149,3 +149,11 @@ The total number of carbon atoms present in tyrosine, an amino acid, is ______.
 
 **Solution.** Tyrosine is $p$-hydroxyphenylalanine, $\text{HO-C}_6\text{H}_4\text{-CH}_2\text{-CH(NH}_2)\text{-COOH}$, $\text{C}_9\text{H}_{11}\text{NO}_3$: $6$ (ring) $+1$ ($\text{CH}_2$) $+1$ ($\alpha$-C) $+1$ (COOH) $=9$.
 
+### C-BIO-16 — JEE Main 2024 · 9 Apr Shift 1 · Q60 · Numerical
+
+The number of essential amino acids among arginine, phenylalanine, aspartic acid, cysteine, histidine, valine and proline is ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Amino acids that the body cannot synthesise (essential, as listed in NCERT): arginine, phenylalanine, histidine and valine. Aspartic acid, cysteine and proline are non-essential. Count $=4$.
+

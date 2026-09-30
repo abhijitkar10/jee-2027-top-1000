@@ -171,3 +171,11 @@ An electric field $\vec E=\dfrac{2\hat i+6\hat j+8\hat k}{\sqrt6}\ \text{V/m}$ p
 
 **Solution.** $\vec E\cdot\hat n=\dfrac{4+6+8}{6}=3$ V/m. $\Phi=(\vec E\cdot\hat n)A=3\times4=12$ V m.
 
+### P-ELS-19 — JEE Main 2024 · 9 Apr Shift 1 · Q25 · Numerical
+
+At the centre of a half ring of radius $R=10$ cm and linear charge density $4\ \text{nC m}^{-1}$, the potential is $x\pi$ V. The value of $x$ is ______.
+
+**Answer: 36** · key ✔
+
+**Solution.** Every element is at distance $R$ from the centre, so $V=\dfrac{kQ}{R}$ with $Q=\lambda\pi R$: $V=k\lambda\pi=9\times10^9\times4\times10^{-9}\times\pi=36\pi$ V.
+

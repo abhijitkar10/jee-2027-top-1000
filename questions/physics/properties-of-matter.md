@@ -264,3 +264,21 @@ Small water droplets of radius $0.01$ mm are formed in the upper atmosphere and 
 
 **Solution.** $v_T=\dfrac{2r^2(\rho-\sigma)g}{9\eta}\propto r^2$. Volume conservation: $8r^3=R^3\Rightarrow R=2r$. $v_T'=4\times10=40$ cm/s.
 
+### P-POM-30 — JEE Main 2024 · 9 Apr Shift 1 · Q7 · MCQ
+
+A sphere of relative density $\sigma$ and diameter $D$ has a concentric cavity of diameter $d$. The ratio $\dfrac Dd$, if it just floats on water in a tank, is:
+
+(1) $\left(\dfrac{\sigma-2}{\sigma+2}\right)^{1/3}$  (2) $\left(\dfrac{\sigma}{\sigma-1}\right)^{1/3}$  (3) $\left(\dfrac{\sigma-1}{\sigma}\right)^{1/3}$  (4) $\left(\dfrac{\sigma+1}{\sigma-1}\right)^{1/3}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Just floating means fully submerged, so weight equals buoyancy: $\sigma\left(D^3-d^3\right)=D^3\Rightarrow\dfrac{d^3}{D^3}=\dfrac{\sigma-1}{\sigma}$. Hence $\dfrac Dd=\left(\dfrac{\sigma}{\sigma-1}\right)^{1/3}$.
+
+### P-POM-31 — JEE Main 2024 · 9 Apr Shift 1 · Q23 · Numerical
+
+Two persons pull a wire towards themselves, each exerting a force of $200$ N on the wire. Young's modulus of the material of the wire is $1\times10^{11}\ \text{N m}^{-2}$; the original length of the wire is $2$ m and its area of cross-section is $2\ \text{cm}^2$. The wire will extend by ______ $\mu$m.
+
+**Answer: 20** · key ✔
+
+**Solution.** The tension in the wire is $200$ N (each end is pulled by $200$ N, not $400$ N). $\Delta L=\dfrac{FL}{AY}=\dfrac{200\times2}{2\times10^{-4}\times10^{11}}=2\times10^{-5}$ m $=20\ \mu$m.
+

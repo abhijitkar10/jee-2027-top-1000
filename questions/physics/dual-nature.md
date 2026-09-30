@@ -153,3 +153,13 @@ A proton and an electron are associated with the same de Broglie wavelength. The
 
 **Solution.** $K=\dfrac{h^2}{2m\lambda^2}\propto\dfrac1m$ at equal $\lambda$. $\dfrac{K_p}{K_e}=\dfrac{m_e}{m_p}=\dfrac1{1836}$, i.e. $1:1836$.
 
+### P-DUL-16 — JEE Main 2024 · 9 Apr Shift 1 · Q17 · MCQ
+
+A proton, an electron and an alpha particle have the same energies. Their de Broglie wavelengths compare as:
+
+(1) $\lambda_\alpha<\lambda_p<\lambda_e$  (2) $\lambda_e>\lambda_\alpha>\lambda_p$  (3) $\lambda_p>\lambda_e>\lambda_\alpha$  (4) $\lambda_p<\lambda_e<\lambda_\alpha$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\lambda=\dfrac{h}{\sqrt{2mK}}\propto\dfrac1{\sqrt m}$ at equal energy. Masses: $m_e<m_p<m_\alpha$, so $\lambda_e>\lambda_p>\lambda_\alpha$, i.e. $\lambda_\alpha<\lambda_p<\lambda_e$.
+

@@ -132,3 +132,13 @@ Three bodies A, B and C have equal kinetic energies and masses $400$ g, $1.2$ kg
 
 **Solution.** $p=\sqrt{2mK}\propto\sqrt m$. $\sqrt{0.4}:\sqrt{1.2}:\sqrt{1.6}=1:\sqrt3:2$.
 
+### P-WEP-14 — JEE Main 2024 · 9 Apr Shift 1 · Q4 · MCQ
+
+A particle of mass $m$ moves on a straight line with its velocity increasing with distance according to $v=\alpha\sqrt x$, where $\alpha$ is a constant. The total work done by all the forces applied on the particle during its displacement from $x=0$ to $x=d$ will be:
+
+(1) $\dfrac{m}{2\alpha^2d}$  (2) $\dfrac{md}{2\alpha^2}$  (3) $2m\alpha^2d$  (4) $\dfrac{m\alpha^2d}{2}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Work–energy theorem: $W=\tfrac12mv^2\big|_{x=d}-0=\tfrac12m\alpha^2d$.
+

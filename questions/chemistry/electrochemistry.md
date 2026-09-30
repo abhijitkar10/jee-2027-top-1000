@@ -308,3 +308,21 @@ The emf of the cell $\text{Tl}\,|\,\text{Tl}^+(0.001\text{ M})\,\|\,\text{Cu}^{2
 
 **Solution.** Cell reaction: $2\text{Tl}+\text{Cu}^{2+}\to2\text{Tl}^++\text{Cu}$. $E=E^\circ-\dfrac{0.059}{2}\log\dfrac{[\text{Tl}^+]^2}{[\text{Cu}^{2+}]}$. $E$ rises when $[\text{Cu}^{2+}]$ (reactant) increases or $[\text{Tl}^+]$ (product) decreases; only option (2) does this alone.
 
+### C-ELC-33 — JEE Main 2024 · 9 Apr Shift 1 · Q40 · MCQ
+
+The molar conductivities of electrolytes A and B are plotted against $c^{1/2}$: A falls from $130$ ($c^{1/2}=0.2$) to $55$ ($0.4$) and B from $150$ to $120$. Electrolytes A and B respectively are:
+
+(1) A strong, B weak  (2) both weak  (3) A weak, B strong  (4) both strong
+
+**Answer: (3)** · key ✔
+
+**Solution.** A strong electrolyte shows a gentle, nearly linear fall of $\Lambda_m$ with $\sqrt c$ (Debye–Hückel–Onsager). A weak electrolyte shows a sharp fall because the degree of dissociation drops quickly on concentration. A falls steeply: weak; B falls gently: strong.
+
+### C-ELC-34 — JEE Main 2024 · 9 Apr Shift 1 · Q56 · Numerical
+
+Given $E^\circ$: $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=1.33$ V; $\text{Fe}^{3+}/\text{Fe}=-0.04$ V; $\text{Ni}^{2+}/\text{Ni}=-0.25$ V; $\text{Ag}^+/\text{Ag}=0.80$ V; $\text{Au}^{3+}/\text{Au}=1.40$ V. The number of metals that will be oxidised by $\text{Cr}_2\text{O}_7^{2-}$ in aqueous solution is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** A metal is oxidised if its reduction potential is below $1.33$ V, so that $E^\circ_{cell}>0$. Fe, Ni and Ag qualify. Au ($1.40$ V) is higher and is not oxidised. Count $=3$.
+
