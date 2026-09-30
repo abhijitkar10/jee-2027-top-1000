@@ -52,3 +52,13 @@ Given $2\text{Fe}(s)+\tfrac32\text{O}_2(g)\to\text{Fe}_2\text{O}_3(s)$, $\Delta 
 
 **Solution.** Hess's law: reverse the first reaction ($+822$) and add three times the second ($3\times-110=-330$): $\Delta H=822-330=+492$ kJ.
 
+### C-CTH-07 — JEE Main 2024 · 1 Feb Shift 1 · Q35 · MCQ
+
+Choose the correct option for free expansion of an ideal gas under adiabatic condition:
+
+(1) $q=0,\ \Delta T\neq 0,\ w=0$  (2) $q=0,\ \Delta T<0,\ w\neq 0$  (3) $q\neq 0,\ \Delta T<0,\ w=0$  (4) $q=0,\ \Delta T=0,\ w=0$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Adiabatic: $q=0$. Free expansion is against zero external pressure: $w=-p_{ext}\Delta V=0$. Then $\Delta U=q+w=0$, and for an ideal gas $U$ depends only on $T$, so $\Delta T=0$.
+

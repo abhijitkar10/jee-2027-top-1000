@@ -66,3 +66,13 @@ Identify the mixture that shows positive deviation from Raoult's law.
 
 **Solution.** Positive deviation arises when A–B interactions are weaker than A–A and B–B. In acetone + $\text{CS}_2$ the polar acetone dipoles are disrupted by non-polar $\text{CS}_2$. Acetone + aniline and acetone + chloroform show negative deviation (hydrogen bonding), and chloroform + benzene is near-ideal.
 
+### C-SOL-08 — JEE Main 2024 · 1 Feb Shift 1 · Q43 · MCQ
+
+Three aqueous solutions of NaCl, A, B and C, have concentrations $0.1$ M, $0.01$ M and $0.001$ M respectively. The order of the van't Hoff factor $i$ is:
+
+(1) $i_A<i_B<i_C$  (2) $i_A<i_C<i_B$  (3) $i_A=i_B=i_C$  (4) $i_A>i_B>i_C$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Dissociation of an electrolyte increases on dilution (less ion–ion attraction), and $i\to 2$ for NaCl at infinite dilution. So the more dilute the solution, the larger $i$: $i_A<i_B<i_C$.
+

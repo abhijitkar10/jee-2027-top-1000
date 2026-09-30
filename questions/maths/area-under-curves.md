@@ -63,3 +63,14 @@ The area of the region enclosed by the parabola $y=4x-x^2$ and $3y=(x-4)^2$ is e
 
 **Solution.** Intersection: $3(4x-x^2)=(x-4)^2\Rightarrow4x^2-20x+16=0\Rightarrow x=1,4$. $A=\int_1^4\left[(4x-x^2)-\tfrac{(x-4)^2}3\right]dx=\tfrac13\int_1^4(-4x^2+20x-16)dx=\tfrac13\left[-\tfrac{4x^3}3+10x^2-16x\right]_1^4=\tfrac13(10.667+7.333)=6$.
 
+### M-ARE-08 — JEE Main 2024 · 1 Feb Shift 1 · Q76 · MCQ
+
+The area enclosed by the curves $xy+4y=16$ and $x+y=6$ is equal to:
+
+(1) $28-30\log_e2$  (2) $30-28\log_e2$  (3) $30-32\log_e2$  (4) $32-30\log_e2$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The curve is $y=\dfrac{16}{x+4}$. Intersection with $y=6-x$: $(6-x)(x+4)=16\Rightarrow x^2-2x-8=0$, so $x=-2,4$. The line is above the curve between them:
+$A=\displaystyle\int_{-2}^{4}\left(6-x-\frac{16}{x+4}\right)dx=\Big[6x-\tfrac{x^2}2\Big]_{-2}^{4}-16\ln\tfrac82=30-16\ln4=30-32\ln2.$
+

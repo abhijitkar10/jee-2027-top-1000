@@ -52,3 +52,14 @@ $\text{CH}_3\text{CH}_2\text{Br}+\text{NaOH}$ gives product A in $\text{C}_2\tex
 
 **Solution.** Alcoholic NaOH favours elimination: A $=\text{CH}_2{=}\text{CH}_2$ ($4$ H). Aqueous NaOH favours substitution: B $=\text{CH}_3\text{CH}_2\text{OH}$ ($6$ H). Total $=10$.
 
+### C-HAL-06 — JEE Main 2024 · 1 Feb Shift 1 · Q46 · MCQ
+
+Assertion A: Haloalkanes react with KCN to form alkyl cyanides as the main product, while with AgCN they form isocyanides as the main product.
+Reason R: KCN and AgCN both are highly ionic compounds.
+
+(1) A is correct but R is not correct  (2) Both correct, R is not the correct explanation  (3) A is not correct but R is correct  (4) Both correct, R is the correct explanation
+
+**Answer: (1)** · key ✔
+
+**Solution.** KCN is ionic, so the free $\text{CN}^-$ attacks through carbon (the better nucleophilic site, giving $\text{R-CN}$). AgCN is largely covalent, so the lone pair on N attacks, giving $\text{R-NC}$. R is therefore false.
+

@@ -140,3 +140,35 @@ The number of moles of $\text{H}^+$ ions required by $1$ mole of $\text{MnO}_4^-
 
 **Solution.** $\text{MnO}_4^-+8\text{H}^++5e^-\to\text{Mn}^{2+}+4\text{H}_2\text{O}$ (acidic medium). The balanced equation $2\text{MnO}_4^-+5\text{C}_2\text{O}_4^{2-}+16\text{H}^+\to2\text{Mn}^{2+}+10\text{CO}_2+8\text{H}_2\text{O}$ also gives $8$ mol $\text{H}^+$ per mol $\text{MnO}_4^-$.
 
+### C-ELC-16 — JEE Main 2024 · 1 Feb Shift 1 · Q36 · MCQ
+
+Which of the following reactions are disproportionation reactions?
+1. $\text{Cu}^+\to \text{Cu}^{2+}+\text{Cu}$
+2. $3\text{MnO}_4^{2-}+4\text{H}^+\to 2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$
+3. $2\text{KMnO}_4\to \text{K}_2\text{MnO}_4+\text{MnO}_2+\text{O}_2$
+4. $2\text{MnO}_4^-+3\text{Mn}^{2+}+2\text{H}_2\text{O}\to 5\text{MnO}_2+4\text{H}^+$
+
+(1) 1, 2  (2) 2, 3, 4  (3) 1, 2, 4  (4) 1, 4
+
+**Answer: (1)** · key ✔
+
+**Solution.** A disproportionation has one species of one element going both up and down in oxidation state. (1) $\text{Cu}^{+}\to \text{Cu}^{2+}$ and $\text{Cu}^0$: yes. (2) $\text{Mn}(+6)\to +7$ and $+4$: yes. (3) $\text{Mn}(+7)$ is only reduced (to $+6$ and $+4$); oxygen is the oxidised species: not a disproportionation. (4) $\text{Mn}(+7)$ and $\text{Mn}(+2)$ both go to $+4$: comproportionation. So 1, 2.
+
+### C-ELC-17 — JEE Main 2024 · 1 Feb Shift 1 · Q37 · MCQ
+
+In acidic medium, $\text{K}_2\text{Cr}_2\text{O}_7$ shows oxidising action as represented in the half reaction $\text{Cr}_2\text{O}_7^{2-}+X\text{H}^++Ye^-\to 2A+Z\text{H}_2\text{O}$. $X$, $Y$, $Z$ and $A$ are respectively:
+
+(1) 8, 6, 4 and $\text{Cr}_2\text{O}_3$  (2) 14, 7, 6 and $\text{Cr}^{3+}$  (3) 8, 4, 6 and $\text{Cr}_2\text{O}_3$  (4) 14, 6, 7 and $\text{Cr}^{3+}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{Cr}_2\text{O}_7^{2-}+14\text{H}^++6e^-\to 2\text{Cr}^{3+}+7\text{H}_2\text{O}$: two Cr go from $+6$ to $+3$ ($6e^-$), $7$ O need $14\text{H}^+$, and charge balances ($-2+14-6=+6=2\times3$).
+
+### C-ELC-18 — JEE Main 2024 · 1 Feb Shift 1 · Q57 · Numerical
+
+The potential for the half cell $2\text{H}^+_{(aq)}+2e^-\to \text{H}_2(g)$ at 298 K with $[\text{H}^+]=1\,\text{M}$, $p_{\text{H}_2}=2$ atm is $-$ ______ $\times10^{-2}$ V. (Given $2.303RT/F=0.06$ V, $\log 2=0.3$)
+
+**Answer: 1 (nearest integer)** · key ✔
+
+**Solution.** Nernst: $E=E^\circ-\dfrac{0.06}{2}\log\dfrac{p_{\text{H}_2}}{[\text{H}^+]^2}=0-0.03\log2=-0.03\times0.3=-0.009$ V $=-0.9\times10^{-2}$ V, i.e. $\approx -1\times10^{-2}$ V.
+

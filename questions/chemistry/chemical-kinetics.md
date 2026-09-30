@@ -74,3 +74,11 @@ For a reaction with rate $r=k[\text{A}]$, $50\%$ of A is decomposed in $120$ min
 
 **Solution.** First order: $k=\dfrac{0.693}{120}$. $t_{90\%}=\dfrac{2.303}k\log\dfrac{100}{10}=\dfrac{2.303\times120}{0.693}=399$ min (equivalently $120\times\log_210=120\times3.32$).
 
+### C-KIN-09 — JEE Main 2024 · 1 Feb Shift 1 · Q58 · Numerical
+
+The ratio of $^{14}\text{C}/^{12}\text{C}$ in a piece of wood is $\tfrac18$ that of the atmosphere. If the half-life of $^{14}\text{C}$ is $5730$ years, the age of the wood sample is ______ years.
+
+**Answer: 17190** · key ✔
+
+**Solution.** $\tfrac18=(\tfrac12)^3$, so three half-lives have elapsed: $3\times5730=17190$ years.
+

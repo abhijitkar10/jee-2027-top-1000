@@ -79,3 +79,14 @@ A species having a carbon with a sextet of electrons that can act as an electrop
 
 **Solution.** A carbocation ($\text{R}_3\text{C}^+$) has only $6$ electrons in the valence shell of the carbon, so it is electron-deficient and electrophilic. A free radical has $7$ and a carbanion has $8$.
 
+### C-GOC-09 — JEE Main 2024 · 1 Feb Shift 1 · Q40 · MCQ
+
+Ionic reactions with organic compounds proceed through:
+(A) Homolytic bond cleavage  (B) Heterolytic bond cleavage  (C) Free radical formation  (D) Primary free radical  (E) Secondary free radical
+
+(1) (A) only  (2) (C) only  (3) (B) only  (4) (D) and (E) only
+
+**Answer: (3)** · key ✔
+
+**Solution.** Ionic (polar) reactions involve carbocations/carbanions produced by heterolytic cleavage, where the bonding pair goes to one atom. Homolysis and free radicals belong to radical reactions.
+

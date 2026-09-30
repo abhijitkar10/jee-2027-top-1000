@@ -29,3 +29,14 @@ A compound $X$ with molar mass $108$ g mol$^{-1}$ undergoes acetylation to give 
 
 **Solution.** Each acetylation replaces an N–H hydrogen by $\text{COCH}_3$: $\Delta M=+42$. $\dfrac{192-108}{42}=2$, so $X$ has $2$ amino groups (e.g. $p$-phenylenediamine, $M=108$).
 
+### C-AMN-04 — JEE Main 2024 · 1 Feb Shift 1 · Q49 · MCQ
+
+Statement I: The $-\text{NH}_2$ group in aniline is ortho- and para-directing and a powerful activating group.
+Statement II: Aniline does not undergo Friedel–Crafts reactions (alkylation and acylation).
+
+(1) Both true  (2) Both false  (3) I false, II true  (4) I true, II false
+
+**Answer: (1)** · key ✔
+
+**Solution.** The lone pair on N is donated into the ring (+M), activating the ortho/para positions. In Friedel–Crafts conditions the basic $-\text{NH}_2$ reacts with anhydrous $\text{AlCl}_3$ to form a salt-like adduct; the resulting $-\text{N}^+\text{H}_2\text{–Al}^-\text{Cl}_3$ group is strongly deactivating and the reaction fails.
+

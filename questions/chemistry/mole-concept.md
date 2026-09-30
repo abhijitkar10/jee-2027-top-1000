@@ -52,3 +52,11 @@ The molarity of $1$ L orthophosphoric acid ($\text{H}_3\text{PO}_4$) having $70\
 
 **Solution.** Mass of $1$ L solution $=1540$ g, of which $70\%$ is acid: $1078$ g. Moles $=\dfrac{1078}{98}=11$, in $1$ L, so molarity $=11$ M.
 
+### C-MOL-07 — JEE Main 2024 · 1 Feb Shift 1 · Q51 · Numerical
+
+For $3\text{PbCl}_2+2(\text{NH}_4)_3\text{PO}_4\to \text{Pb}_3(\text{PO}_4)_2+6\text{NH}_4\text{Cl}$: if $72$ mmol $\text{PbCl}_2$ is mixed with $50$ mmol $(\text{NH}_4)_3\text{PO}_4$, the amount of $\text{Pb}_3(\text{PO}_4)_2$ formed is ______ mmol (nearest integer).
+
+**Answer: 24** · key ✔
+
+**Solution.** From $\text{PbCl}_2$: $72/3=24$ mmol of product. From phosphate: $50/2=25$ mmol. The smaller value fixes the limiting reagent ($\text{PbCl}_2$): $24$ mmol.
+

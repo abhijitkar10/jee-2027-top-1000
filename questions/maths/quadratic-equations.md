@@ -48,3 +48,13 @@ Let $a$ be the sum of all coefficients in the expansion of $(1-2x+2x^2)^{2023}(3
 
 **Solution.** $a=(1-2+2)^{2023}(3-4+2)^{2024}=1$. For $b$, by L'Hôpital: $\dfrac{\ln(1+x)/(x^{2024}+1)}{2x}\to\dfrac12$, so $b=\dfrac12$. The second equation is $x^2+x+4=0$, with discriminant $1-16<0$, so its roots are non-real conjugates. A real-coefficient quadratic sharing one non-real root also shares its conjugate, hence the two quadratics are proportional: $c:d:e=1:1:4$.
 
+### M-QDR-06 — JEE Main 2024 · 1 Feb Shift 1 · Q61 · MCQ
+
+Let $S=\{x\in\mathbb R:(\sqrt3+\sqrt2)^x+(\sqrt3-\sqrt2)^x=10\}$. Then the number of elements in $S$ is:
+
+(1) 4  (2) 0  (3) 2  (4) 1
+
+**Answer: (3)** · key ✔
+
+**Solution.** $(\sqrt3+\sqrt2)(\sqrt3-\sqrt2)=1$, so with $t=(\sqrt3+\sqrt2)^x>0$ the equation is $t+\tfrac1t=10$, i.e. $t^2-10t+1=0$, giving $t=5\pm2\sqrt6$ (both positive). Each $t$ gives exactly one $x$ (the map $x\mapsto t$ is one-one), so $|S|=2$.
+

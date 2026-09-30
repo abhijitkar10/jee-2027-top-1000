@@ -118,3 +118,11 @@ The number of species from the following in which the central atom uses $sp^3$ h
 
 **Solution.** $sp^3$: $\text{NH}_3$, $\text{H}_2\text{O}$, $\text{CH}_4$ and $\text{SiO}_2$ (each Si is tetrahedral in the network). $\text{SO}_2$ and $\text{BF}_3$ are $sp^2$; $\text{BeCl}_2$ and $\text{CO}_2$ are $sp$. Count $=4$.
 
+### C-BND-14 — JEE Main 2024 · 1 Feb Shift 1 · Q53 · Numerical
+
+The number of molecules/ions having trigonal bipyramidal shape is ______: $\text{PF}_5,\ \text{BrF}_5,\ \text{PCl}_5,\ \text{PtCl}_4^{2-},\ \text{BF}_3,\ \text{Fe(CO)}_5$
+
+**Answer: 3** · key ✔
+
+**Solution.** Trigonal bipyramidal: $\text{PF}_5$, $\text{PCl}_5$, $\text{Fe(CO)}_5$ ($dsp^3$). $\text{BrF}_5$ is square pyramidal, $\text{PtCl}_4^{2-}$ square planar and $\text{BF}_3$ trigonal planar. Count $=3$.
+

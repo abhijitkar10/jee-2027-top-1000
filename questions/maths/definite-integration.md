@@ -96,3 +96,13 @@ If the integral $525\displaystyle\int_0^{\pi/2}\sin2x\cos^{11/2}x\left(1+\cos^{5
 
 **Solution.** With $\sin2x=2\sin x\cos x$ and $t=\cos x$: $I=\displaystyle\int_0^12t^{13/2}\left(1+t^{5/2}\right)^{1/2}dt$. Let $s=1+t^{5/2}$, so $t^{3/2}dt=\tfrac25ds$ and $t^{5}=(s-1)^2$: $I=\tfrac45\displaystyle\int_1^2(s-1)^2\sqrt s\,ds=\tfrac45\left[\tfrac27s^{7/2}-\tfrac45s^{5/2}+\tfrac23s^{3/2}\right]_1^2=\tfrac45\left(\tfrac{44\sqrt2}{105}-\tfrac{16}{105}\right)$. Then $525I=4\left(44\sqrt2-16\right)=176\sqrt2-64$, so $n=176$.
 
+### M-DEF-11 — JEE Main 2024 · 1 Feb Shift 1 · Q75 · MCQ
+
+The value of $\displaystyle\int_0^{\pi/4}\frac{x\,dx}{\sin^4 2x+\cos^4 2x}$ equals:
+
+(1) $\dfrac{\sqrt2\pi^2}{8}$  (2) $\dfrac{\sqrt2\pi^2}{16}$  (3) $\dfrac{\sqrt2\pi^2}{32}$  (4) $\dfrac{\sqrt2\pi^2}{64}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Put $t=2x$: $I=\tfrac14\int_0^{\pi/2}\dfrac{t\,dt}{\sin^4t+\cos^4t}$. The denominator is symmetric under $t\to\tfrac\pi2-t$, so $\int_0^{\pi/2}tf=\tfrac\pi4\int_0^{\pi/2}f$. Using $\sin^4t+\cos^4t=1-\tfrac12\sin^22t$, $\int_0^{\pi/2}\dfrac{dt}{1-\frac12\sin^22t}=\dfrac{\pi}{\sqrt2}$. Hence $I=\tfrac14\cdot\tfrac\pi4\cdot\tfrac{\pi}{\sqrt2}=\dfrac{\pi^2}{16\sqrt2}=\dfrac{\sqrt2\pi^2}{32}$.
+

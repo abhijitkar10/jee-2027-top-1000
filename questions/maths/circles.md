@@ -66,3 +66,13 @@ If one of the diameters of the circle $x^2+y^2-10x+4y+13=0$ is a chord of anothe
 
 **Solution.** The lines meet at $(3,2)$, the centre of $C$. The first circle is $(x-5)^2+(y+2)^2=16$: centre $(5,-2)$, radius $4$. Its diameter is a chord of $C$ of length $8$ with midpoint $(5,-2)$ (the centre). The distance from $(3,2)$ to $(5,-2)$ is $\sqrt{4+16}=\sqrt{20}$. So $R^2=(\sqrt{20})^2+4^2=36$ and $R=6$.
 
+### M-CIR-08 — JEE Main 2024 · 1 Feb Shift 1 · Q66 · MCQ
+
+Let $C:x^2+y^2=4$ and $C':x^2+y^2-4\lambda x+9=0$ be two circles. If the set of all values of $\lambda$ for which the circles intersect at two distinct points is $\mathbb R-[a,b]$, then the point $(8a+12,\,16b-20)$ lies on the curve:
+
+(1) $x^2+2y^2-5x+6y=3$  (2) $5x^2-y=-11$  (3) $x^2-4y^2=7$  (4) $6x^2+y^2=42$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $C'$ has centre $(2\lambda,0)$ and radius $r=\sqrt{4\lambda^2-9}$ (needs $|\lambda|>3/2$). Two-point intersection needs $|r-2|<d<r+2$ with $d=2|\lambda|$. The condition $d<r+2$ gives $(2|\lambda|-2)^2<4\lambda^2-9\Rightarrow 8|\lambda|>13$, i.e. $|\lambda|>13/8$; the other inequality then holds automatically. So the set is $\mathbb R-[-\tfrac{13}{8},\tfrac{13}{8}]$, $a=-\tfrac{13}8$, $b=\tfrac{13}8$. The point is $(-1,\,6)$, and $6(1)+36=42$ lies on option (4).
+

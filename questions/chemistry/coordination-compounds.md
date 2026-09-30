@@ -145,3 +145,24 @@ Match List I (complex ion) with List II (electronic configuration): A. $[\text{C
 
 **Solution.** $\text{H}_2\text{O}$ is a weak-field ligand. $\text{Cr}^{3+}$ $d^3$: $t_{2g}^3$. $\text{Fe}^{3+}$ $d^5$ (high spin): $t_{2g}^3e_g^2$. $\text{Ni}^{2+}$ $d^8$: $t_{2g}^6e_g^2$. $\text{V}^{3+}$ $d^2$: $t_{2g}^2$.
 
+### C-COO-15 — JEE Main 2024 · 1 Feb Shift 1 · Q44 · MCQ
+
+Which of the following complexes is homoleptic?
+
+(1) $[\text{Ni(CN)}_4]^{2-}$  (2) $[\text{Ni(NH}_3)_2\text{Cl}_2]$  (3) $[\text{Fe(NH}_3)_4\text{Cl}_2]^+$  (4) $[\text{Co(NH}_3)_4\text{Cl}_2]^+$
+
+**Answer: (1)** · key ✔
+
+**Solution.** A homoleptic complex has only one kind of ligand. Only $[\text{Ni(CN)}_4]^{2-}$ has $\text{CN}^-$ alone; the others contain both $\text{NH}_3$ and $\text{Cl}^-$.
+
+### C-COO-16 — JEE Main 2024 · 1 Feb Shift 1 · Q45 · MCQ
+
+Statement I: A solution of $[\text{Ni(H}_2\text{O)}_6]^{2+}$ is green in colour.
+Statement II: A solution of $[\text{Ni(CN)}_4]^{2-}$ is colourless.
+
+(1) Both incorrect  (2) Both correct  (3) I incorrect, II correct  (4) I correct, II incorrect
+
+**Answer: (2)** · key ✔
+
+**Solution.** $[\text{Ni(H}_2\text{O)}_6]^{2+}$ ($d^8$, octahedral, two unpaired electrons) absorbs red light and appears green. $[\text{Ni(CN)}_4]^{2-}$ is square planar with strong-field $\text{CN}^-$ and is diamagnetic; its $d$–$d$ transitions lie in the UV, so the solution is taken as colourless (this is the NCERT/NTA answer).
+

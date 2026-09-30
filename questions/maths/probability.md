@@ -90,3 +90,13 @@ A coin is biased so that a head is twice as likely to occur as a tail. If the co
 
 **Solution.** $P(H)=\tfrac23,\ P(T)=\tfrac13$. Two tails and one head: $\binom31\left(\tfrac23\right)\left(\tfrac13\right)^2=3\cdot\tfrac{2}{27}=\tfrac29$.
 
+### M-PRB-10 — JEE Main 2024 · 1 Feb Shift 1 · Q80 · MCQ
+
+A bag contains 8 balls, each white or black. 4 balls are drawn at random without replacement and 2 are white and 2 are black. The probability that the bag contains equal numbers of white and black balls is:
+
+(1) $\dfrac25$  (2) $\dfrac27$  (3) $\dfrac17$  (4) $\dfrac15$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Take every composition $k=0,\dots,8$ of white balls as equally likely. $P(2W,2B\mid k)\propto\binom k2\binom{8-k}2$: $k=2:15$, $k=3:30$, $k=4:36$, $k=5:30$, $k=6:15$, total $126$. Bayes: $P(k=4)=36/126=2/7$.
+

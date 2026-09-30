@@ -28,3 +28,15 @@ The compound formed by the reaction of ethanal with semicarbazide contains _____
 
 **Solution.** $\text{CH}_3\text{CHO}+\text{H}_2\text{N-NH-CO-NH}_2\to\text{CH}_3\text{CH=N-NH-CO-NH}_2$ (ethanal semicarbazone) $+\text{H}_2\text{O}$. Semicarbazide has $3$ nitrogen atoms and all are retained in the product.
 
+### C-ALD-04 — JEE Main 2024 · 1 Feb Shift 1 · Q48 · MCQ
+
+Match List I with List II.
+(A) $\text{CH}_3(\text{CH}_2)_5\text{COOC}_2\text{H}_5\to \text{CH}_3(\text{CH}_2)_5\text{CHO}$  (B) $\text{C}_6\text{H}_5\text{COC}_6\text{H}_5\to \text{C}_6\text{H}_5\text{CH}_2\text{C}_6\text{H}_5$  (C) $\text{C}_6\text{H}_5\text{CHO}\to \text{C}_6\text{H}_5\text{CH(OH)CH}_3$  (D) $\text{CH}_3\text{COCH}_2\text{COOC}_2\text{H}_5\to \text{CH}_3\text{CH(OH)CH}_2\text{COOC}_2\text{H}_5$
+(I) $\text{CH}_3\text{MgBr},\ \text{H}_2\text{O}$  (II) $\text{Zn(Hg)}$, conc. HCl  (III) $\text{NaBH}_4$, $\text{H}^+$  (IV) DIBAL-H, $\text{H}_2\text{O}$
+
+(1) A-III, B-IV, C-I, D-II  (2) A-IV, B-II, C-I, D-III  (3) A-IV, B-II, C-III, D-I  (4) A-III, B-IV, C-II, D-I
+
+**Answer: (2)** · key ✔
+
+**Solution.** A: DIBAL-H partially reduces an ester to an aldehyde (IV). B: Clemmensen reduction, $\text{Zn(Hg)/conc. HCl}$, takes $\text{C=O}$ to $\text{CH}_2$ (II). C: a Grignard reagent adds to an aldehyde to give a secondary alcohol (I). D: $\text{NaBH}_4$ reduces the ketone group selectively and leaves the ester (III).
+

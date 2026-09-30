@@ -93,3 +93,21 @@ The correct sequence of electron gain enthalpy of the elements A. Ar  B. Br  C. 
 
 **Solution.** Electron gain enthalpies ($\Delta_{eg}H$, kJ/mol): Ar $+96$ (noble gas, positive), S $-200$, Br $-325$, F $-328$. Ordering as signed values from largest to smallest gives Ar $>$ S $>$ Br $>$ F, i.e. A > D > B > C.
 
+### C-PER-10 — JEE Main 2024 · 1 Feb Shift 1 · Q32 · MCQ
+
+In case of isoelectronic species the size of $\text{F}^-$, Ne and $\text{Na}^+$ is affected by:
+
+(1) Principal quantum number $n$  (2) None of the factors because their size is the same  (3) Electron–electron interaction in the outer orbitals  (4) Nuclear charge $Z$
+
+**Answer: (4)** · key ✔
+
+**Solution.** All three have $10$ electrons and the same $n=2$ shell, so the only thing that changes is the nuclear charge ($9,10,11$). A larger $Z$ pulls the same electron cloud in more strongly, so radius falls: $\text{F}^->\text{Ne}>\text{Na}^+$.
+
+### C-PER-11 — JEE Main 2024 · 1 Feb Shift 1 · Q52 · Numerical
+
+The lowest oxidation number of an atom in a compound $\text{A}_2\text{B}$ is $-2$. The number of electrons in its valence shell is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** In $\text{A}_2\text{B}$, B carries the negative oxidation state $-2$, so it needs $2$ electrons to complete an octet: it has $8-2=6$ valence electrons (group 16, e.g. $\text{Na}_2\text{O}$, $\text{H}_2\text{S}$).
+

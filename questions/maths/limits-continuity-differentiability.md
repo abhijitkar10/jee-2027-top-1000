@@ -100,3 +100,13 @@ Let $f:\mathbb R\to(0,\infty)$ be a strictly increasing function such that $\dis
 
 **Solution.** Since $f$ is strictly increasing, for $x>0$: $f(x)<f(5x)<f(7x)$, so $1<\dfrac{f(5x)}{f(x)}<\dfrac{f(7x)}{f(x)}\to1$. By the squeeze theorem $\dfrac{f(5x)}{f(x)}\to1$ and the required limit is $0$.
 
+### M-LCD-11 — JEE Main 2024 · 1 Feb Shift 1 · Q73 · MCQ
+
+Let $f:\mathbb R\to\mathbb R$ be $f(x)=\begin{cases}\dfrac{a-b\cos2x}{x^2}, & x<0\\ x^2+cx+2, & 0\le x\le1\\ 2x+1, & x>1\end{cases}$. If $f$ is continuous everywhere and $m$ is the number of points where $f$ is NOT differentiable, then $m+a+b+c$ equals:
+
+(1) 1  (2) 4  (3) 3  (4) 2
+
+**Answer: (4)** · key ✔
+
+**Solution.** For the left limit at $0$ to exist we need $a=b$; then $\dfrac{a(1-\cos2x)}{x^2}=\dfrac{2a\sin^2x}{x^2}\to 2a$. Continuity: $2a=2\Rightarrow a=b=1$. At $x=1$: $1+c+2=3\Rightarrow c=0$. Derivatives: at $0^-$ the function $2\sin^2x/x^2=2-\tfrac23x^2+\dots$ has slope $0$, and at $0^+$ the slope is $c=0$; at $1^-$ slope is $2x+c=2$ and at $1^+$ it is $2$. So $f$ is differentiable everywhere, $m=0$, and $m+a+b+c=2$.
+

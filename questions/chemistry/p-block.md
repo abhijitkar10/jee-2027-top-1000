@@ -130,3 +130,14 @@ Statement II: $\text{AlCl}_3$ upon hydrolysis in acidified aqueous solution form
 
 **Solution.** Covalent group 13 halides are Lewis acids with an empty $p$ orbital; water attacks and hydrolyses them. $\text{AlCl}_3$ in acidified water gives the octahedral hexaaqua ion $[\text{Al(H}_2\text{O)}_6]^{3+}$. Both statements are true.
 
+### C-PBL-13 — JEE Main 2024 · 1 Feb Shift 1 · Q34 · MCQ
+
+Assertion A: $\text{PH}_3$ has a lower boiling point than $\text{NH}_3$.
+Reason R: In the liquid state $\text{NH}_3$ molecules are associated through van der Waals forces, but $\text{PH}_3$ molecules are associated through hydrogen bonding.
+
+(1) Both A and R are correct and R is not the correct explanation of A  (2) A is not correct but R is correct  (3) Both A and R are correct and R is the correct explanation of A  (4) A is correct but R is not correct
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{NH}_3$ is strongly hydrogen-bonded (N is small and highly electronegative), which raises its boiling point above that of $\text{PH}_3$; so A is true. The reason has the two molecules swapped: $\text{NH}_3$ shows hydrogen bonding and $\text{PH}_3$ only weak van der Waals forces. R is false.
+

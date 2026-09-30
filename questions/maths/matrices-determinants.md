@@ -106,3 +106,13 @@ Let $A$ be a $3\times3$ matrix with $\det A=2$. If $n=\det\!\big(\underbrace{\te
 
 **Solution.** For a $3\times3$ matrix $\det(\text{adj}M)=(\det M)^2$. Each application squares the determinant, so after $k$ applications $\det=2^{2^k}$; here $n=2^{2^{2024}}$. Modulo $9$ the powers of $2$ cycle with period $6$, and $2^{2024}\equiv4\pmod6$ (since $2^k\equiv4\pmod6$ for even $k\ge2$). So $n\equiv2^4=16\equiv7\pmod9$.
 
+### M-MAT-12 — JEE Main 2024 · 1 Feb Shift 1 · Q70 · MCQ
+
+If $A=\begin{pmatrix}\sqrt2&1\\-1&\sqrt2\end{pmatrix}$, $B=\begin{pmatrix}1&0\\1&1\end{pmatrix}$, $C=ABA^T$ and $X=A^TC^2A$, then $\det X$ is equal to:
+
+(1) 243  (2) 729  (3) 27  (4) 891
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\det A=2+1=3$, $\det B=1$, so $\det C=3\cdot1\cdot3=9$. Then $\det X=\det(A^T)\,(\det C)^2\det A=3\cdot81\cdot3=729$.
+

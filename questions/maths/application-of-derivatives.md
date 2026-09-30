@@ -96,3 +96,13 @@ Let $f(x)=(x+3)^2(x-2)^3$, $x\in[-4,4]$. If $M$ and $m$ are the maximum and mini
 
 **Solution.** $f'(x)=(x+3)(x-2)^2\left[2(x-2)+3(x+3)\right]=5(x+3)(x+1)(x-2)^2$, with critical points $-3,-1,2$. Values: $f(-4)=(1)(-6)^3=-216$, $f(-3)=0$, $f(-1)=4(-27)=-108$, $f(2)=0$, $f(4)=49\cdot8=392$. So $M=392$, $m=-216$ and $M-m=608$.
 
+### M-AOD-11 — JEE Main 2024 · 1 Feb Shift 1 · Q74 · MCQ
+
+If $5f(x)+4f\!\left(\tfrac1x\right)=x^2-2$ for all $x\ne0$ and $y=9x^2f(x)$, then $y$ is strictly increasing in:
+
+(1) $\left(0,\tfrac1{\sqrt5}\right)\cup\left(\tfrac1{\sqrt5},\infty\right)$  (2) $\left(-\tfrac1{\sqrt5},0\right)\cup\left(\tfrac1{\sqrt5},\infty\right)$  (3) $\left(-\tfrac1{\sqrt5},0\right)\cup\left(0,\tfrac1{\sqrt5}\right)$  (4) $\left(-\infty,\tfrac1{\sqrt5}\right)\cup\left(0,\tfrac1{\sqrt5}\right)$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Replacing $x\to1/x$: $5f(1/x)+4f(x)=1/x^2-2$. Eliminate $f(1/x)$: $9f(x)=5(x^2-2)-4(1/x^2-2)=5x^2-2-4/x^2$. So $y=9x^2f(x)=5x^4-2x^2-4$ and $y'=20x^3-4x=4x(5x^2-1)$. $y'>0$ for $x\in\left(-\tfrac1{\sqrt5},0\right)\cup\left(\tfrac1{\sqrt5},\infty\right)$.
+

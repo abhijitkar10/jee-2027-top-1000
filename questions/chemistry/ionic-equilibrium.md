@@ -29,3 +29,22 @@ The pH of an aqueous solution containing $1$ M benzoic acid ($\text{p}K_a=4.20$)
 
 **Solution.** Henderson–Hasselbalch: $4.5=4.20+\log\dfrac{V_{\text{salt}}}{V_{\text{acid}}}\Rightarrow\dfrac{V_{\text{salt}}}{V_{\text{acid}}}=10^{0.3}=2$. Since both solutions are $1$ M, the mole ratio equals the volume ratio, and $V_{\text{acid}}+V_{\text{salt}}=300$ gives $V_{\text{acid}}=100$ mL.
 
+### C-ION-04 — JEE Main 2024 · 1 Feb Shift 1 · Q38 · MCQ
+
+Statement I: Potassium hydrogen phthalate is a primary standard for standardisation of sodium hydroxide solution.
+Statement II: In this titration phenolphthalein can be used as indicator.
+
+(1) Both true  (2) I true, II false  (3) I false, II true  (4) Both false
+
+**Answer: (1)** · key ✔
+
+**Solution.** KHP is pure, non-hygroscopic and stable, so it is a primary standard for NaOH. The titration is weak acid–strong base, with an equivalence point in the basic region (pH $\approx 8.5$–$9$), which suits phenolphthalein (range $8.3$–$10$).
+
+### C-ION-05 — JEE Main 2024 · 1 Feb Shift 1 · Q54 · Numerical
+
+$K_a$ for $\text{CH}_3\text{COOH}$ is $1.8\times10^{-5}$ and $K_b$ for $\text{NH}_4\text{OH}$ is $1.8\times10^{-5}$. The pH of ammonium acetate solution will be ______.
+
+**Answer: 7** · key ✔
+
+**Solution.** For a salt of a weak acid and weak base, $\text{pH}=7+\tfrac12(\text{p}K_a-\text{p}K_b)$. With $K_a=K_b$ the correction vanishes: $\text{pH}=7$.
+

@@ -83,3 +83,13 @@ From the vitamins A, $\text{B}_1$, $\text{B}_6$, $\text{B}_{12}$, C, D, E and K,
 
 **Solution.** Fat-soluble vitamins (A, D, E, K) are stored in adipose tissue and the liver. Vitamin $\text{B}_{12}$, although water-soluble, is also stored in the liver. $\text{B}_1$, $\text{B}_6$ and C are water-soluble and excreted, so they are not stored. Count $=5$.
 
+### C-BIO-09 — JEE Main 2024 · 1 Feb Shift 1 · Q50 · MCQ
+
+If one strand of a DNA has the sequence ATGCTTCA, the sequence of bases in the complementary strand is:
+
+(1) CATTAGCT  (2) TACGAAGT  (3) GTACTTAC  (4) ATGCGACT
+
+**Answer: (2)** · key ✔
+
+**Solution.** Base pairing is A–T and G–C, so ATGCTTCA pairs to TACGAAGT.
+
