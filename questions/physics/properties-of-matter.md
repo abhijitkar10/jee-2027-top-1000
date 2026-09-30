@@ -218,3 +218,13 @@ A hydraulic press containing water has two arms of diameters $1.4$ cm (thin) and
 
 **Solution.** Pascal's law: $\dfrac{F_1}{A_1}=\dfrac{F_2}{A_2}\Rightarrow F_2=F_1\left(\dfrac{D_2}{D_1}\right)^2=10\times100=1000$ N.
 
+### P-POM-25 — JEE Main 2024 · 6 Apr Shift 1 · Q8 · MCQ
+
+A small ball of mass $m$ and density $\rho$ is dropped into a viscous liquid of density $\rho_0$. After some time the ball falls with constant velocity. The viscous force on the ball is:
+
+(1) $mg(1-\rho\rho_0)$  (2) $mg\left(1+\dfrac{\rho}{\rho_0}\right)$  (3) $mg\left(\dfrac{\rho_0}{\rho}-1\right)$  (4) $mg\left(1-\dfrac{\rho_0}{\rho}\right)$
+
+**Answer: (4)** · key ✔
+
+**Solution.** At terminal velocity: $mg=F_{visc}+F_{buoy}$ with $F_{buoy}=\rho_0Vg=mg\dfrac{\rho_0}{\rho}$. So $F_{visc}=mg\left(1-\dfrac{\rho_0}{\rho}\right)$.
+

@@ -113,3 +113,23 @@ Which statement is NOT true about the stopping potential $V_0$?
 
 **Solution.** $eV_0=K_{max}=h\nu-\phi$, so $V_0$ depends on the frequency and the material (through $\phi$), not on the intensity. Intensity changes only the saturation current.
 
+### P-DUL-12 — JEE Main 2024 · 6 Apr Shift 1 · Q16 · MCQ
+
+In a photoelectric experiment, light of photon energy $2.48$ eV irradiates a photosensitive material. The stopping potential is measured to be $0.5$ V. The work function of the material is:
+
+(1) 1.68 eV  (2) 2.48 eV  (3) 1.98 eV  (4) 0.5 eV
+
+**Answer: (3)** · key ✔
+
+**Solution.** $eV_0=h\nu-\phi\Rightarrow\phi=2.48-0.5=1.98$ eV.
+
+### P-DUL-13 — JEE Main 2024 · 6 Apr Shift 1 · Q17 · MCQ
+
+Which of the following phenomena is not explained by the wave nature of light? A. reflection  B. diffraction  C. photoelectric effect  D. interference  E. polarisation
+
+(1) E only  (2) B, D only  (3) C only  (4) A, C only
+
+**Answer: (3)** · key ✔
+
+**Solution.** Reflection, diffraction, interference and polarisation are explained by the wave theory. The photoelectric effect (instantaneous emission, threshold frequency) needs the photon (particle) picture.
+

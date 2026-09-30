@@ -201,3 +201,14 @@ Correct statements: (A) The decreasing order of atomic radii of group 13 element
 
 **Solution.** (A) is false: Ga ($135$ pm) is smaller than Al ($143$ pm). (B) is false: electronegativity is not monotonic (Al $1.5$, Ga $1.6$, In $1.7$, Tl $1.8$). (C) is true. (D) is false: $+1$ is stable only for Tl. (E) is true: an octahedral $[\text{Al(H}_2\text{O)}_6]^{3+}$ uses $sp^3d^2$. Answer: C and E.
 
+### C-PBL-20 — JEE Main 2024 · 6 Apr Shift 1 · Q41 · MCQ
+
+Statement I: Gallium is used in the manufacture of thermometers.
+Statement II: A thermometer containing gallium is useful for measuring the freezing point (256 K) of brine solution.
+
+(1) Both true  (2) I false, II true  (3) Both false  (4) I true, II false
+
+**Answer: (4)** · key ✔
+
+**Solution.** Gallium melts at $303$ K but boils above $2400$ K, giving it a very wide liquid range, so it is used in high-temperature thermometers: I is true. At $256$ K gallium is already solid, so it cannot measure the freezing point of brine: II is false.
+

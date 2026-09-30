@@ -154,3 +154,22 @@ A series LCR circuit is subjected to an ac signal of $200$ V, $50$ Hz. If the vo
 
 **Solution.** $X_L=2\pi fL=2\pi(50)(0.01)=3.14\ \Omega$. $I=\dfrac{V_L}{X_L}=\dfrac{31.4}{3.14}=10$ A.
 
+### P-ACC-17 — JEE Main 2024 · 6 Apr Shift 1 · Q14 · MCQ
+
+Statement I: In an LCR series circuit, the current is maximum at resonance.
+Statement II: The current in a purely resistive circuit can never be less than that in a series LCR circuit connected to the same voltage source.
+
+(1) I false, II true  (2) I true, II false  (3) Both true  (4) Both false
+
+**Answer: (3)** · key ✔
+
+**Solution.** At resonance $Z=R$ (its minimum), so $I=V/R$ is maximum: I true. For any $\omega$, $Z=\sqrt{R^2+(X_L-X_C)^2}\ge R$, so the LCR current never exceeds the purely resistive current $V/R$: II true.
+
+### P-ACC-18 — JEE Main 2024 · 6 Apr Shift 1 · Q28 · Numerical
+
+A dc voltage of $100$ V applied to an inductor gives a dc current of $5$ A. When an ac voltage of $200$ V peak is connected to the inductor, its inductive reactance is $20\sqrt3\ \Omega$. The power dissipated in the circuit is ______ W.
+
+**Answer: 250** · key ✔
+
+**Solution.** The dc resistance is $R=\dfrac{100}{5}=20\ \Omega$. $Z=\sqrt{20^2+(20\sqrt3)^2}=40\ \Omega$. $I_{rms}=\dfrac{200/\sqrt2}{40}=\dfrac{5}{\sqrt2}$ A, so $P=I_{rms}^2R=12.5\times20=250$ W.
+

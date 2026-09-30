@@ -143,3 +143,13 @@ A satellite revolves around a planet in a stationary orbit with period $6$ hours
 
 **Solution.** Kepler: $r^3\propto MT^2$. $\dfrac{r}{r_E}=\left(\dfrac{1}{4}\cdot\left(\dfrac{6}{24}\right)^2\right)^{1/3}=\left(\dfrac1{64}\right)^{1/3}=\dfrac14$. $r=\dfrac{4.2\times10^4}{4}=1.05\times10^4$ km.
 
+### P-GRV-15 — JEE Main 2024 · 6 Apr Shift 1 · Q7 · MCQ
+
+To project a body of mass $m$ from the earth's surface to infinity, the required kinetic energy is (radius of earth $R_E$, $g$ = gravitational acceleration at the surface):
+
+(1) $2mgR_E$  (2) $4mgR_E$  (3) $mgR_E$  (4) $\tfrac12mgR_E$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Total energy must be $\ge0$: $KE-\dfrac{GMm}{R_E}=0\Rightarrow KE=\dfrac{GMm}{R_E}=mgR_E$ (with $GM=gR_E^2$).
+

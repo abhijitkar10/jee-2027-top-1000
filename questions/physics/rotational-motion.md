@@ -100,3 +100,11 @@ A hollow sphere rolls on a plane surface about its axis of symmetry. The ratio o
 
 **Solution.** For a hollow sphere $I=\tfrac23MR^2$. $\dfrac{KE_{rot}}{KE_{tot}}=\dfrac{k^2/R^2}{1+k^2/R^2}=\dfrac{2/3}{5/3}=\dfrac25$. So $x=2$.
 
+### P-ROT-13 — JEE Main 2024 · 6 Apr Shift 1 · Q22 · Numerical
+
+If the radius of the earth is reduced to three-fourths of its present value without change in its mass, the duration of a day will be ______ hours $30$ minutes.
+
+**Answer: 13** · key ✔
+
+**Solution.** No external torque, so $L=I\omega$ is conserved. $I\propto R^2$ (taking the earth as a uniform sphere), so $T\propto R^2$: $T'=24\times\dfrac9{16}=13.5$ h $=13$ h $30$ min.
+

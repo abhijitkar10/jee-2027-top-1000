@@ -143,3 +143,21 @@ A solenoid of length $0.5$ m and radius $1$ cm has $N$ turns and carries $5$ A. 
 
 **Solution.** $B=\mu_0nI\Rightarrow n=\dfrac{6.28\times10^{-3}}{4\pi\times10^{-7}\times5}=1000\ \text{turns/m}$. $N=nl=1000\times0.5=500$.
 
+### P-MAG-17 — JEE Main 2024 · 6 Apr Shift 1 · Q13 · MCQ
+
+A current element $\Delta\vec l=\Delta x\,\hat i$ is placed at the origin and carries a large current $I=10$ A. The magnetic field on the $y$-axis at a distance of $0.5$ m from the element, for $\Delta x=1$ cm, is:
+
+(1) $4\times10^{-8}$ T  (2) $10\times10^{-8}$ T  (3) $8\times10^{-8}$ T  (4) $12\times10^{-8}$ T
+
+**Answer: (1)** · key ✔
+
+**Solution.** Biot–Savart: $dB=\dfrac{\mu_0}{4\pi}\dfrac{I\,\Delta x\sin\theta}{r^2}$ with $\theta=90^\circ$: $10^{-7}\times\dfrac{10\times0.01}{0.25}=4\times10^{-8}$ T.
+
+### P-MAG-18 — JEE Main 2024 · 6 Apr Shift 1 · Q27 · Numerical
+
+A circular coil of $200$ turns, area $2.5\times10^{-4}\ \text{m}^2$ each, carrying $100\ \mu\text{A}$, is placed in a uniform field of $1$ T with its dipole moment initially along $\vec B$. The work required to rotate it through $90^\circ$ is ______ $\mu$J.
+
+**Answer: 5** · key ✔
+
+**Solution.** $M=NIA=200\times10^{-4}\times2.5\times10^{-4}=5\times10^{-6}\ \text{A m}^2$. $W=MB(\cos0^\circ-\cos90^\circ)=MB=5\times10^{-6}$ J $=5\ \mu$J.
+

@@ -101,3 +101,11 @@ The total number of electrons in an atom with $n=4$, $|m_l|=1$ and $m_s=-\tfrac1
 
 **Solution.** For $n=4$, $|m_l|=1$ is possible for $l\ge1$: $p$ ($m_l=\pm1$: $2$ orbitals), $d$ ($2$), $f$ ($2$). Each orbital holds one electron with $m_s=-\tfrac12$: $2+2+2=6$.
 
+### C-ATS-12 — JEE Main 2024 · 6 Apr Shift 1 · Q51 · Numerical
+
+The frequency of the de Broglie wave of the electron in Bohr's first orbit of hydrogen is ______ $\times10^{13}$ Hz (nearest integer). ($R_H=2.18\times10^{-18}$ J, $h=6.6\times10^{-34}$ J s)
+
+**Answer: 661** · key ✔
+
+**Solution.** $\nu=\dfrac{v}{\lambda}$ with $\lambda=\dfrac hp=\dfrac h{mv}$, so $\nu=\dfrac{mv^2}{h}$. In the first orbit $\tfrac12mv^2=R_H$, so $\nu=\dfrac{2R_H}{h}=\dfrac{2\times2.18\times10^{-18}}{6.6\times10^{-34}}=6.61\times10^{15}=661\times10^{13}$ Hz.
+

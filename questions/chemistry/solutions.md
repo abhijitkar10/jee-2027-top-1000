@@ -108,3 +108,21 @@ $5$ mL of acetic acid (density $1.2\ \text{g mL}^{-1}$) is dissolved in $1$ L of
 
 **Solution.** Moles $=\dfrac{5\times1.2}{60}=0.1$ mol in $1$ kg water, $m=0.1$. $\alpha=\sqrt{K_a/C}=\sqrt{6.25\times10^{-4}}=0.025$. $i=1+\alpha=1.025$. $\Delta T_f=i\,K_fm=1.025\times1.86\times0.1=0.1907\ \text{K}$, so $x=19$.
 
+### C-SOL-13 — JEE Main 2024 · 6 Apr Shift 1 · Q31 · MCQ
+
+The density of a solution of NaOH ($x$ molar) is $1.12\ \text{g mL}^{-1}$, while in molality the concentration of the solution is $3$ m ($3$ molal). Then $x$ is (molar mass of NaOH $=40$ g/mol):
+
+(1) 3.5  (2) 3.8  (3) 2.8  (4) 3.0
+
+**Answer: (4)** · key ✔
+
+**Solution.** Take $1$ kg of solvent: $3$ mol NaOH $=120$ g. Solution mass $=1120$ g. Volume $=\dfrac{1120}{1.12}=1000$ mL $=1$ L. Molarity $=\dfrac{3\ \text{mol}}{1\ \text{L}}=3.0$ M.
+
+### C-SOL-14 — JEE Main 2024 · 6 Apr Shift 1 · Q55 · Numerical
+
+For $\text{HX}(aq)\rightleftharpoons\text{H}^+(aq)+\text{X}^-(aq)$, $K_a=1.2\times10^{-5}$. The osmotic pressure of a $0.03$ M aqueous solution of HX at $300$ K is ______ $\times10^{-2}$ bar (nearest integer). ($R=0.083$ L bar mol$^{-1}$K$^{-1}$)
+
+**Answer: 76** · key ✔
+
+**Solution.** $\alpha=\sqrt{K_a/C}=\sqrt{\dfrac{1.2\times10^{-5}}{0.03}}=0.02$. $i=1+\alpha=1.02$. $\pi=iCRT=1.02\times0.03\times0.083\times300=0.762$ bar $=76\times10^{-2}$ bar.
+

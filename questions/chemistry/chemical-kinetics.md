@@ -122,3 +122,11 @@ For the single-step gas-phase reaction $2\text{A}(g)+\text{B}(g)\to\text{C}(g)$,
 
 **Solution.** Rate $=kp_A^2p_B$ (elementary). Initially $r_1=k(1.5)^2(0.7)=1.575k$. When $0.5$ atm of C forms, A used $=1.0$ atm and B used $=0.5$ atm: $p_A=0.5$, $p_B=0.2$, so $r_2=k(0.25)(0.2)=0.05k$. $r_1/r_2=31.5=315\times10^{-1}$.
 
+### C-KIN-15 — JEE Main 2024 · 6 Apr Shift 1 · Q56 · Numerical
+
+The time required for $99.9\%$ completion of a first-order reaction is ______ times the time required for $90\%$ completion (nearest integer).
+
+**Answer: 3** · key ✔
+
+**Solution.** $t=\dfrac{2.303}{k}\log\dfrac{100}{100-x}$. $t_{99.9}\propto\log1000=3$ and $t_{90}\propto\log10=1$. Ratio $=3$.
+

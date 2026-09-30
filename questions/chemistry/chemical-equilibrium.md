@@ -74,3 +74,13 @@ For $\text{Fe}_2\text{O}_3(s)+3\text{CO}(g)\rightleftharpoons\text{Fe}(l)+3\text
 
 **Solution.** The activity of a pure solid is constant and does not appear in $K_c=\dfrac{[\text{CO}_2]^3}{[\text{CO}]^3}$. Adding more $\text{Fe}_2\text{O}_3(s)$ therefore leaves the equilibrium unchanged, whereas changing $[\text{CO}]$ or $[\text{CO}_2]$ shifts it.
 
+### C-CEQ-09 — JEE Main 2024 · 6 Apr Shift 1 · Q37 · MCQ
+
+At $-20^\circ$C and $1$ atm pressure, a cylinder is filled with equal numbers of $\text{H}_2$, $\text{I}_2$ and HI molecules for $\text{H}_2(g)+\text{I}_2(g)\rightleftharpoons2\text{HI}(g)$. The $K_p$ for the process is $x\times10^{-1}$. $x=$ ______.
+
+(1) 0.01  (2) 10  (3) 2  (4) 1
+
+**Answer: (2)** · key ✔
+
+**Solution.** Equal numbers of molecules means equal mole fractions, so equal partial pressures of $\tfrac13$ atm each. $K_p=\dfrac{p_{HI}^2}{p_{H_2}p_{I_2}}=1=10\times10^{-1}$, so $x=10$. ($\Delta n_g=0$, so $K_p$ has no units and does not depend on $R$.)
+

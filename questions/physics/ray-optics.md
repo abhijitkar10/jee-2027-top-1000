@@ -105,3 +105,11 @@ Statement II: The refractive indices are different for different wavelengths in 
 
 **Solution.** $\mu$ falls with wavelength (Cauchy): $\mu_{red}<\mu_{yellow}<\mu_{violet}$, so red deviates the least. II is the cause of dispersion. Both true.
 
+### P-RAY-12 — JEE Main 2024 · 6 Apr Shift 1 · Q29 · Numerical
+
+The refractive index of a prism is $\mu=\sqrt3$ and the ratio of the angle of minimum deviation to the angle of the prism is $1$. The angle of the prism is ______ degrees.
+
+**Answer: 60** · key ✔
+
+**Solution.** $\delta_m=A$, so $\mu=\dfrac{\sin\frac{A+\delta_m}{2}}{\sin\frac A2}=\dfrac{\sin A}{\sin\frac A2}=2\cos\dfrac A2=\sqrt3\Rightarrow\dfrac A2=30^\circ$, so $A=60^\circ$.
+

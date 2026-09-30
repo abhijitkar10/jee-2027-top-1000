@@ -225,3 +225,29 @@ Fusion of chromite ore with sodium carbonate in the presence of air gives produc
 
 **Solution.** $4\text{FeCr}_2\text{O}_4+8\text{Na}_2\text{CO}_3+7\text{O}_2\to2\text{Fe}_2\text{O}_3+8\text{Na}_2\text{CrO}_4+8\text{CO}_2$. $\text{Fe}_2\text{O}_3$: $\text{Fe}^{3+}$ ($d^5$), $\mu=\sqrt{35}=5.92$ BM. $\text{Na}_2\text{CrO}_4$: $\text{Cr}^{6+}$ ($d^0$), $\mu=0$. Sum $\approx6$ BM.
 
+### C-DFB-23 — JEE Main 2024 · 6 Apr Shift 1 · Q43 · MCQ
+
+The number of elements among Eu, Cm, Er, Tb, Yb and Lu that do not belong to the lanthanoids is:
+
+(1) 3  (2) 4  (3) 1  (4) 5
+
+**Answer: (3)** · key ✔
+
+**Solution.** Eu ($63$), Er ($68$), Tb ($65$), Yb ($70$) and Lu ($71$) are lanthanoids ($Z=58$–$71$). Cm ($Z=96$) is an actinoid. Count $=1$.
+
+### C-DFB-24 — JEE Main 2024 · 6 Apr Shift 1 · Q57 · Numerical
+
+Among CrO, $\text{Cr}_2\text{O}_3$ and $\text{CrO}_3$, the sum of the spin-only magnetic moments of the basic and amphoteric oxides is ______ $\times10^{-2}$ BM (nearest integer). ($Z_{Cr}=24$)
+
+**Answer: 877** · key ✔
+
+**Solution.** CrO is basic ($\text{Cr}^{2+}$, $d^4$, $4$ unpaired, $\mu=\sqrt{24}=4.90$ BM). $\text{Cr}_2\text{O}_3$ is amphoteric ($\text{Cr}^{3+}$, $d^3$, $\mu=\sqrt{15}=3.87$ BM). $\text{CrO}_3$ is acidic. Sum $=8.77$ BM $=877\times10^{-2}$ BM.
+
+### C-DFB-25 — JEE Main 2024 · 6 Apr Shift 1 · Q58 · Numerical
+
+The difference in the spin-only magnetic moment of $\text{KMnO}_4$ and the manganese product formed during titration of $\text{KMnO}_4$ against oxalic acid in acidic medium is ______ BM (nearest integer).
+
+**Answer: 6** · key ✔
+
+**Solution.** $\text{KMnO}_4$: $\text{Mn}^{7+}$ ($d^0$), $\mu=0$. The product is $\text{Mn}^{2+}$ ($d^5$, $5$ unpaired), $\mu=\sqrt{35}=5.92$ BM. Difference $\approx6$ BM.
+

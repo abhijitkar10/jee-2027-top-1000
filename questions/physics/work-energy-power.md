@@ -92,3 +92,23 @@ A body moves unidirectionally under a constant power source. Its displacement in
 
 **Solution.** $P=Fv=mv\dfrac{dv}{dt}$ gives $\tfrac12mv^2=Pt$, so $v\propto t^{1/2}$. Then $x=\int v\,dt\propto t^{3/2}$.
 
+### P-WEP-10 — JEE Main 2024 · 6 Apr Shift 1 · Q5 · MCQ
+
+A bullet of mass $50$ g is fired with a speed of $100$ m/s into plywood and emerges with $40$ m/s. The percentage loss of kinetic energy is:
+
+(1) 84%  (2) 16%  (3) 32%  (4) 44%
+
+**Answer: (1)** · key ✔
+
+**Solution.** $KE\propto v^2$. Final/initial $=\left(\dfrac{40}{100}\right)^2=0.16$, so $84\%$ is lost.
+
+### P-WEP-11 — JEE Main 2024 · 6 Apr Shift 1 · Q6 · MCQ
+
+Four particles A, B, C, D of masses $\tfrac m2,\ m,\ 2m,\ 4m$ have the same momentum. The particle with maximum kinetic energy is:
+
+(1) B  (2) A  (3) D  (4) C
+
+**Answer: (2)** · key ✔
+
+**Solution.** $KE=\dfrac{p^2}{2m}$. At equal $p$, the lightest particle has the largest KE: particle A (mass $m/2$).
+

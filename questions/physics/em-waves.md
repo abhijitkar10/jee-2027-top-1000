@@ -103,3 +103,13 @@ The electric field in an EM wave is $\vec E=\hat i\,40\cos\omega(t-z/c)\ \text{N
 
 **Solution.** The wave travels along $+z$, and $\hat E\times\hat B=\hat k$ with $\hat E=\hat i$ gives $\hat B=\hat j$. The magnitude is $B_0=E_0/c=40/c$.
 
+### P-EMW-11 — JEE Main 2024 · 6 Apr Shift 1 · Q15 · MCQ
+
+Electromagnetic waves travel in a medium with a speed of $1.5\times10^8\ \text{m s}^{-1}$. The relative permeability of the medium is $2.0$. The relative permittivity will be:
+
+(1) 2  (2) 4  (3) 5  (4) 1
+
+**Answer: (1)** · key ✔
+
+**Solution.** $v=\dfrac{c}{\sqrt{\mu_r\epsilon_r}}\Rightarrow\sqrt{\mu_r\epsilon_r}=\dfrac{3\times10^8}{1.5\times10^8}=2$, so $\mu_r\epsilon_r=4$. With $\mu_r=2$: $\epsilon_r=2$.
+

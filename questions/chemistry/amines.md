@@ -72,3 +72,11 @@ The number of halobenzenes among fluoro-, chloro-, bromo-, iodo- and astatobenze
 
 **Solution.** Sandmeyer's reaction uses $\text{CuCl}$ or $\text{CuBr}$ on a diazonium salt, so only chlorobenzene and bromobenzene form. Iodobenzene is made with KI (no copper needed), and fluorobenzene by the Balz–Schiemann reaction ($\text{HBF}_4$).
 
+### C-AMN-09 — JEE Main 2024 · 6 Apr Shift 1 · Q60 · Numerical
+
+$9.3$ g of pure aniline upon diazotisation followed by coupling with phenol gives an orange dye. The mass of the dye produced (assume $100\%$ yield) is ______ g (nearest integer).
+
+**Answer: 20** · key ✔
+
+**Solution.** Aniline ($93$ g/mol): $0.1$ mol. Diazotisation gives benzenediazonium chloride; coupling with phenol at the para position gives $p$-hydroxyazobenzene, $\text{C}_6\text{H}_5\text{N=N-C}_6\text{H}_4\text{OH}$ (molar mass $198$). Mass $=0.1\times198=19.8\approx20$ g.
+

@@ -212,3 +212,11 @@ A wire of resistance $20\ \Omega$ is divided into $10$ equal parts. Pairs of par
 
 **Solution.** Each part is $2\ \Omega$. Two in parallel give $1\ \Omega$; there are $5$ such pairs, in series: $5\ \Omega$.
 
+### P-CUR-23 — JEE Main 2024 · 6 Apr Shift 1 · Q26 · Numerical
+
+A wire of resistance $R$ and radius $r$ is stretched until its radius becomes $r/2$. If the new resistance is $xR$, then $x=$ ______.
+
+**Answer: 16** · key ✔
+
+**Solution.** Volume is constant: area falls to $\tfrac14$, so length rises $4\times$. $R\propto\dfrac{l}{A}$ increases by $4\times4=16$. Hence $R'=16R$.
+

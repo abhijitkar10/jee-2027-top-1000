@@ -112,3 +112,13 @@ If $n$ is the number density and $d$ the diameter of the molecule, the mean free
 
 **Solution.** $\lambda=\dfrac{1}{\sqrt2\,n\pi d^2}$ (the factor $\sqrt2$ comes from the relative motion of the molecules).
 
+### P-KTG-12 — JEE Main 2024 · 6 Apr Shift 1 · Q9 · MCQ
+
+A sample contains a mixture of helium and oxygen gas. The ratio of the r.m.s. speed of helium to that of oxygen is:
+
+(1) $\dfrac1{32}$  (2) $\dfrac{2\sqrt2}{1}$  (3) $\dfrac1{2\sqrt2}$  (4) $\dfrac14$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $v_{rms}\propto M^{-1/2}$ at the same temperature: $\dfrac{v_{He}}{v_{O_2}}=\sqrt{\dfrac{32}{4}}=\sqrt8=2\sqrt2$.
+

@@ -105,3 +105,11 @@ For $\text{C}_6\text{H}_6(l)+\tfrac{15}2\text{O}_2(g)\to6\text{CO}_2(g)+3\text{H
 
 **Solution.** $\Delta_cH^\circ=6(-393.5)+3(-286)-48.5=-2361-858-48.5=-3267.5$ kJ per mole of benzene. For $2$ mol: $-6535$ kJ, so $x=6535$.
 
+### C-CTH-13 — JEE Main 2024 · 6 Apr Shift 1 · Q53 · Numerical
+
+An ideal gas with $\bar C_v=\tfrac52R$ is expanded adiabatically against a constant pressure of $1$ atm until its volume doubles. The initial temperature and pressure are $298$ K and $5$ atm. The final temperature is ______ K (nearest integer).
+
+**Answer: 274** · key ✔
+
+**Solution.** Let $V_1=\dfrac{nRT_1}{5}$ (litres, with $P_1=5$ atm). Work done by the gas $=P_{ext}\Delta V=1\times V_1$. First law ($q=0$): $nC_v(T_2-T_1)=-V_1=-\dfrac{nRT_1}{5}$. So $\tfrac52(T_2-T_1)=-\tfrac{T_1}5\Rightarrow T_2=T_1\left(1-\tfrac{2}{25}\right)=298\times0.92=274$ K.
+

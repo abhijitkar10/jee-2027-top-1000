@@ -169,3 +169,13 @@ A particle moves in the $x$–$y$ plane under a force $\vec F$ such that its lin
 
 **Solution.** $\vec F=\dfrac{d\vec p}{dt}=-k\left(\hat i\sin kt+\hat j\cos kt\right)$. $\vec F\cdot\vec p=-k(\sin kt\cos kt-\cos kt\sin kt)=0$, so the angle is $\pi/2$ (the momentum has constant magnitude, and only its direction rotates).
 
+### P-LOM-18 — JEE Main 2024 · 6 Apr Shift 1 · Q4 · MCQ
+
+A light string passing over a smooth light pulley connects two blocks of masses $m_1$ and $m_2$ ($m_2>m_1$). If the acceleration of the system is $\dfrac{g}{\sqrt2}$, the ratio $\dfrac{m_1}{m_2}$ is:
+
+(1) $\dfrac{\sqrt5-1}{1+\sqrt5}$  (2) $\dfrac{\sqrt2-1}{\sqrt2+1}$  (3) $\dfrac{1+\sqrt5}{\sqrt5-1}$  (4) $\dfrac{\sqrt3+1}{\sqrt2-1}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Atwood machine: $a=\dfrac{(m_2-m_1)g}{m_1+m_2}=\dfrac{g}{\sqrt2}$, so $\dfrac{1-m_1/m_2}{1+m_1/m_2}=\dfrac1{\sqrt2}$. Solving: $\dfrac{m_1}{m_2}=\dfrac{\sqrt2-1}{\sqrt2+1}$.
+

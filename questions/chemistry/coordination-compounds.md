@@ -267,3 +267,13 @@ The metal atom in a complex $\text{MABXL}$ (A, B, X, L unidentate) uses $sp^3$ h
 
 **Solution.** $sp^3$ means a tetrahedral complex. A tetrahedral $\text{MABXL}$ (four different ligands) shows no geometrical isomerism, since all four positions are equivalent by rotation; it exhibits optical isomerism instead. So $0$.
 
+### C-COO-27 — JEE Main 2024 · 6 Apr Shift 1 · Q45 · MCQ
+
+For the complexes (A) $[\text{CoCl(NH}_3)_5]^{2+}$, (B) $[\text{Co(CN)}_6]^{3-}$, (C) $[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$, (D) $[\text{Cu(H}_2\text{O)}_4]^{2+}$, the correct order in terms of wavenumber of light absorbed is:
+
+(1) C < D < A < B  (2) B < C < A < D  (3) A < C < B < D  (4) D < A < C < B
+
+**Answer: (4)** · key ✔
+
+**Solution.** The wavenumber absorbed is proportional to $\Delta$. $[\text{Co(CN)}_6]^{3-}$ (strong-field $\text{CN}^-$, $\text{Co}^{3+}$) has the largest $\Delta$. Among the $\text{Co}^{3+}$ pentammines $\text{H}_2\text{O}>\text{Cl}^-$, so C $>$ A. The tetrahedral-like $\text{Cu}^{2+}$ aqua complex with a $3d^9$ ion and weak-field ligand has the smallest. Order: D < A < C < B.
+

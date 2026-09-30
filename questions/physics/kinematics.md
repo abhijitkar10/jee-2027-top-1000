@@ -174,3 +174,21 @@ The maximum height reached by a projectile is $64$ m. If the initial velocity is
 
 **Solution.** $H=\dfrac{u^2\sin^2\theta}{2g}\propto u^2$. Halving $u$ divides $H$ by $4$: $64/4=16$ m.
 
+### P-KIN-20 — JEE Main 2024 · 6 Apr Shift 1 · Q3 · MCQ
+
+A train starting from rest first accelerates uniformly up to a speed of $80$ km/h for time $t$, then moves with constant speed for time $3t$. The average speed of the train for this duration of journey is (in km/h):
+
+(1) 40  (2) 80  (3) 30  (4) 70
+
+**Answer: (4)** · key ✔
+
+**Solution.** Distance in the acceleration phase: $\tfrac12(80)t=40t$. Constant-speed phase: $80\times3t=240t$. Total $280t$ in time $4t$: average speed $=70$ km/h.
+
+### P-KIN-21 — JEE Main 2024 · 6 Apr Shift 1 · Q21 · Numerical
+
+For vectors $\vec A=-x\hat i-6\hat j-2\hat k$, $\vec B=-\hat i+4\hat j+3\hat k$ and $\vec C=-8\hat i-\hat j+3\hat k$, if $\vec A\cdot(\vec B\times\vec C)=0$, then $x=$ ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** $\vec B\times\vec C=(4\cdot3-3\cdot(-1),\ 3\cdot(-8)-(-1)\cdot3,\ (-1)(-1)-4(-8))=(15,-21,33)$. $\vec A\cdot(\vec B\times\vec C)=-15x+126-66=0\Rightarrow x=4$. (Vanishing scalar triple product means the three vectors are coplanar.)
+

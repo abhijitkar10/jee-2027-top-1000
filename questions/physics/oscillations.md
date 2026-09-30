@@ -68,3 +68,11 @@ The displacement of a particle in SHM is $x=10\sin(\omega t+\tfrac\pi3)$ m. The 
 
 **Solution.** $\omega=\dfrac{2\pi}{T}=\dfrac{2\pi}{3.14}=2$ rad/s. $v=\dfrac{dx}{dt}=10\omega\cos(\omega t+\tfrac\pi3)$; at $t=0$: $10\times2\times\cos60^\circ=10$ m/s.
 
+### P-SHM-09 — JEE Main 2024 · 6 Apr Shift 1 · Q24 · Numerical
+
+A particle does simple harmonic motion with amplitude $0.06$ m and time period $3.14$ s. Its maximum velocity is ______ cm/s.
+
+**Answer: 12** · key ✔
+
+**Solution.** $\omega=\dfrac{2\pi}{3.14}=2$ rad/s. $v_{max}=A\omega=0.06\times2=0.12$ m/s $=12$ cm/s.
+

@@ -239,3 +239,21 @@ The shortest wavelength of the Lyman series of hydrogen is $915\ \text{Å}$. The
 
 **Solution.** The Lyman limit gives $\dfrac1{915}=R\left(1-0\right)$, so $R=\dfrac1{915}\ \text{Å}^{-1}$. Longest Balmer ($3\to2$): $\dfrac1\lambda=R\left(\dfrac14-\dfrac19\right)=\dfrac{5R}{36}\Rightarrow\lambda=\dfrac{36\times915}{5}=6588$ Å.
 
+### P-ATN-27 — JEE Main 2024 · 6 Apr Shift 1 · Q18 · MCQ
+
+The ratio of the shortest wavelength of the Balmer series to the shortest wavelength of the Lyman series for the hydrogen atom is:
+
+(1) 4:1  (2) 1:4  (3) 2:1  (4) 1:2
+
+**Answer: (1)** · key ✔
+
+**Solution.** Shortest wavelength is the series limit ($n\to\infty$): Balmer $\dfrac1\lambda=\dfrac R{4}$, Lyman $\dfrac1\lambda=R$. So $\lambda_B:\lambda_L=4:1$.
+
+### P-ATN-28 — JEE Main 2024 · 6 Apr Shift 1 · Q30 · Numerical
+
+The radius of a certain orbit of the hydrogen atom is $8.48\ \text{Å}$. If the energy of the electron in this orbit is $E/x$ where $E$ is the ground-state energy, then $x=$ ______. ($a_0=0.529\ \text{Å}$)
+
+**Answer: 16** · key ✔
+
+**Solution.** $r_n=n^2a_0\Rightarrow n^2=\dfrac{8.48}{0.529}=16$, $n=4$. $E_n=\dfrac{E_1}{n^2}=\dfrac{E}{16}$, so $x=16$.
+

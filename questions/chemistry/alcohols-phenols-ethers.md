@@ -114,3 +114,14 @@ Statement II: The Lewis acid catalyst polarises bromine to generate $\text{Br}^+
 
 **Solution.** Phenol is so activated that no Lewis acid is needed: in low-polarity solvents it gives mono-bromophenols (o/p) on treatment with $\text{Br}_2$ alone (in water it gives 2,4,6-tribromophenol). So I is false. II describes the general role of a Lewis acid and is true.
 
+### C-ALC-11 — JEE Main 2024 · 6 Apr Shift 1 · Q46 · MCQ
+
+Statement I: Picric acid is $2,4,6$-trinitrotoluene.
+Statement II: Phenol-$2,4$-disulphonic acid, when treated with conc. $\text{HNO}_3$, gives picric acid.
+
+(1) I incorrect, II correct  (2) Both incorrect  (3) I correct, II incorrect  (4) Both correct
+
+**Answer: (1)** · key ✔
+
+**Solution.** Picric acid is $2,4,6$-trinitro**phenol** (TNT is the toluene compound), so I is false. Direct nitration of phenol gives tar and oxidation products, so picric acid is made by sulphonating phenol to the $2,4$-disulphonic acid and then treating with conc. $\text{HNO}_3$, which replaces the $-\text{SO}_3\text{H}$ groups: II is true.
+

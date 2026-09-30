@@ -229,3 +229,33 @@ The number of compounds with zero dipole moment among HF, $\text{H}_2$, $\text{H
 
 **Solution.** Zero: $\text{H}_2$, $\text{CO}_2$ (linear), $\text{BF}_3$ (trigonal planar), $\text{CH}_4$, $\text{SiF}_4$ (tetrahedral) and $\text{BeF}_2$ (linear). Polar: HF, $\text{H}_2\text{S}$, $\text{NH}_3$, $\text{CHCl}_3$, $\text{H}_2\text{O}$. Count $=6$.
 
+### C-BND-26 — JEE Main 2024 · 6 Apr Shift 1 · Q34 · MCQ
+
+Match hybridisation with orientation in space: A. $sp^3$; B. $dsp^2$; C. $sp^3d$; D. $sp^3d^2$; (I) trigonal bipyramidal; (II) octahedral; (III) tetrahedral; (IV) square planar.
+
+(1) A-IV, B-III, C-I, D-II  (2) A-III, B-IV, C-I, D-II  (3) A-III, B-I, C-IV, D-II  (4) A-II, B-I, C-IV, D-III
+
+**Answer: (2)** · key ✔
+
+**Solution.** $sp^3$: tetrahedral. $dsp^2$: square planar. $sp^3d$: trigonal bipyramidal. $sp^3d^2$: octahedral.
+
+### C-BND-27 — JEE Main 2024 · 6 Apr Shift 1 · Q35 · MCQ
+
+Match: A. $\text{SF}_4$; B. $\text{BrF}_3$; C. $\text{BrO}_3^-$; D. $\text{NH}_4^+$ with (I) tetrahedral, (II) pyramidal, (III) see-saw, (IV) bent T-shape.
+
+(1) A-II, B-III, C-I, D-IV  (2) A-II, B-IV, C-III, D-I  (3) A-III, B-IV, C-II, D-I  (4) A-III, B-II, C-IV, D-I
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{SF}_4$ ($4$ bond + $1$ lone pair): see-saw. $\text{BrF}_3$ ($3+2$): T-shaped. $\text{BrO}_3^-$ ($3+1$): pyramidal. $\text{NH}_4^+$: tetrahedral.
+
+### C-BND-28 — JEE Main 2024 · 6 Apr Shift 1 · Q36 · MCQ
+
+Match: A. $\text{SO}_2\text{Cl}_2$; B. NO; C. $\text{NO}_2^-$; D. $\text{I}_3^-$ with (I) paramagnetic, (II) diamagnetic, (III) tetrahedral, (IV) linear.
+
+(1) A-II, B-III, C-I, D-IV  (2) A-III, B-I, C-II, D-IV  (3) A-IV, B-I, C-III, D-II  (4) A-III, B-IV, C-II, D-I
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{SO}_2\text{Cl}_2$ is tetrahedral. NO has an unpaired electron: paramagnetic. $\text{NO}_2^-$ has all electrons paired: diamagnetic. $\text{I}_3^-$ is linear ($sp^3d$ with three lone pairs on the central I).
+
