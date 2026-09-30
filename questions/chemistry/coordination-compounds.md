@@ -225,5 +225,5 @@ The number of unpaired $d$-electrons in $[\text{Co(H}_2\text{O)}_6]^{3+}$ is:
 
 **Answer: (3)** · key ✔
 
-**Solution.** $\text{Co}^{3+}$ is $d^6$. Its large crystal-field splitting (higher oxidation state, $4d$-like effective charge) makes $\text{H}_2\text{O}$ act as a strong-field ligand here, giving $t_{2g}^6e_g^0$: $0$ unpaired electrons and a diamagnetic complex. (Contrast with $[\text{CoF}_6]^{3-}$, which is high spin.)
+**Solution.** $\text{Co}^{3+}$ is $d^6$. The $+3$ charge gives a large splitting $\Delta_o$ (about $18{,}000\ \text{cm}^{-1}$), larger than the pairing energy, so the ion is low spin (experimentally $[\text{Co(H}_2\text{O)}_6]^{3+}$ is diamagnetic): $t_{2g}^6e_g^0$: $0$ unpaired electrons and a diamagnetic complex. (Contrast with $[\text{CoF}_6]^{3-}$, which is high spin.)
 

@@ -72,5 +72,5 @@ The total number of $\sigma$ and $\pi$ bonds in 2-oxohex-4-ynoic acid is ______.
 
 **Answer: 18** · key ✔
 
-**Solution.** Structure: $\text{HOOC-CO-CH}_2\text{-C}\equiv\text{C-CH}_3$. $\sigma$ bonds: $14$ ($5$ C–C, $6$ C–H, $2$ C–O/O–H... counting: C–C $5$, C–H $5$, O–H $1$, C–O $1$, C=O $2$ σ). $\pi$ bonds: $2$ (two C=O) $+2$ (C≡C) $=4$. Total $14+4=18$.
+**Solution.** Structure: $\text{HOOC-CO-CH}_2\text{-C}\equiv\text{C-CH}_3$. $\sigma$ bonds: C–C $5$ (including the $\sigma$ of the triple bond), C–H $5$, O–H $1$, C–O $1$, C=O $2$ = $14$. $\pi$ bonds: $2$ (two C=O) $+2$ (C≡C) $=4$. Total $14+4=18$.
 
