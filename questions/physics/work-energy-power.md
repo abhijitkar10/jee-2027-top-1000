@@ -122,3 +122,13 @@ When the kinetic energy of a body becomes $36$ times its original value, the per
 
 **Solution.** $p=\sqrt{2mK}\propto\sqrt K$. $p'/p=\sqrt{36}=6$, so the momentum increases by $(6-1)\times100=500\%$.
 
+### P-WEP-13 — JEE Main 2024 · 8 Apr Shift 1 · Q5 · MCQ
+
+Three bodies A, B and C have equal kinetic energies and masses $400$ g, $1.2$ kg and $1.6$ kg respectively. The ratio of their linear momenta is:
+
+(1) $\sqrt2:\sqrt3:1$  (2) $1:\sqrt3:2$  (3) $1:\sqrt3:\sqrt2$  (4) $\sqrt3:\sqrt2:1$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $p=\sqrt{2mK}\propto\sqrt m$. $\sqrt{0.4}:\sqrt{1.2}:\sqrt{1.6}=1:\sqrt3:2$.
+

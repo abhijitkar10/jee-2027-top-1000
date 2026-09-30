@@ -275,3 +275,21 @@ In the Franck–Hertz experiment the first dip in the current–voltage graph fo
 
 **Solution.** The excitation energy is $10.2$ eV (n = 1 to 2). When the atom returns, $\lambda=\dfrac{hc}{E}=\dfrac{1245}{10.2}=122$ nm (the Lyman-$\alpha$ line).
 
+### P-ATN-31 — JEE Main 2024 · 8 Apr Shift 1 · Q18 · MCQ
+
+The binding energy of a certain nucleus is $18\times10^8$ J. The difference between the total mass of all the nucleons and the nuclear mass of the given nucleus is:
+
+(1) $10\ \mu$g  (2) $20\ \mu$g  (3) $0.2\ \mu$g  (4) $2\ \mu$g
+
+**Answer: (2)** · key ✔
+
+**Solution.** Mass defect $\Delta m=\dfrac{E}{c^2}=\dfrac{18\times10^8}{9\times10^{16}}=2\times10^{-8}$ kg $=2\times10^{-5}$ g $=20\ \mu$g.
+
+### P-ATN-32 — JEE Main 2024 · 8 Apr Shift 1 · Q30 · Numerical
+
+In an $\alpha$-particle scattering experiment the distance of closest approach for the $\alpha$ particle is $4.5\times10^{-14}$ m. If the target nucleus has atomic number $80$, the maximum velocity of the $\alpha$ particle is approximately ______ $\times10^5$ m/s. ($\tfrac{1}{4\pi\epsilon_0}=9\times10^9$ SI; $m_\alpha=6.72\times10^{-27}$ kg)
+
+**Answer: 156** · key ✔
+
+**Solution.** At closest approach $KE=\dfrac{k(2e)(80e)}{d}=\dfrac{9\times10^9\times160\times(1.6\times10^{-19})^2}{4.5\times10^{-14}}=8.19\times10^{-13}$ J. $v=\sqrt{\dfrac{2KE}{m}}=\sqrt{\dfrac{1.638\times10^{-12}}{6.72\times10^{-27}}}=1.56\times10^7=156\times10^5$ m/s.
+

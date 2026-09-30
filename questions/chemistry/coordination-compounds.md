@@ -297,3 +297,32 @@ Match the complex with its electronic configuration: (A) $\text{TiCl}_4$; (B) $[
 
 **Solution.** All are tetrahedral ($e$ below $t_2$). $\text{Ti}^{4+}$ ($d^0$): $e^0t_2^0$. $\text{Fe}^{6+}$ ($d^2$): $e^2t_2^0$. $\text{Fe}^{3+}$ ($d^5$, high spin): $e^2t_2^3$. $\text{Co}^{2+}$ ($d^7$): $e^4t_2^3$.
 
+### C-COO-30 — JEE Main 2024 · 8 Apr Shift 1 · Q35 · MCQ
+
+Statement I: $\text{N(CH}_3)_3$ and $\text{P(CH}_3)_3$ can act as ligands to form transition metal complexes.
+Statement II: As N and P are from the same group, the nature of bonding of $\text{N(CH}_3)_3$ and $\text{P(CH}_3)_3$ with transition metals is always the same.
+
+(1) I correct, II incorrect  (2) I incorrect, II correct  (3) Both correct  (4) Both incorrect
+
+**Answer: (1)** · key ✔
+
+**Solution.** Both have a lone pair and act as $\sigma$-donor ligands (I true). $\text{P(CH}_3)_3$ also accepts electron density from the metal into vacant $3d$ (or $\sigma^*$) orbitals of P ($\pi$-back bonding), which N cannot do, so the bonding is not the same: II false.
+
+### C-COO-31 — JEE Main 2024 · 8 Apr Shift 1 · Q44 · MCQ
+
+The number of complexes with an even number of electrons in the $t_{2g}$ orbitals among $[\text{Fe(H}_2\text{O)}_6]^{2+}$, $[\text{Co(H}_2\text{O)}_6]^{2+}$, $[\text{Co(H}_2\text{O)}_6]^{3+}$, $[\text{Cu(H}_2\text{O)}_6]^{2+}$, $[\text{Cr(H}_2\text{O)}_6]^{2+}$ is:
+
+(1) 2  (2) 3  (3) 1  (4) 5
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{Fe}^{2+}$ ($d^6$, high spin) $t_{2g}^4e_g^2$: $4$ (even). $\text{Co}^{2+}$ ($d^7$, high spin) $t_{2g}^5e_g^2$: $5$ (odd). $\text{Co}^{3+}$ ($d^6$, low spin with $\text{H}_2\text{O}$) $t_{2g}^6$: $6$ (even). $\text{Cu}^{2+}$ ($d^9$) $t_{2g}^6e_g^3$: $6$ (even). $\text{Cr}^{2+}$ ($d^4$) $t_{2g}^3e_g^1$: $3$ (odd). Count $=3$.
+
+### C-COO-32 — JEE Main 2024 · 8 Apr Shift 1 · Q45 · Numerical
+
+An octahedral complex with formula $\text{CoCl}_3\cdot n\text{NH}_3$ upon reaction with excess $\text{AgNO}_3$ solution gives $2$ moles of AgCl. The oxidation state of Co in the complex is $x$. The value of $x+n$ is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** Two $\text{Cl}^-$ per formula unit are ionisable (outside the sphere), so the complex is $[\text{Co(NH}_3)_5\text{Cl}]\text{Cl}_2$ (octahedral with $5+1=6$ ligands). $n=5$ and Co is $+3$ ($x=3$). $x+n=8$.
+

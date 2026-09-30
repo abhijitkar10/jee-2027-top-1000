@@ -153,3 +153,21 @@ Two identical conducting spheres P and S, each with charge $q$, repel each other
 
 **Solution.** R touches P: both become $q/2$. Then R ($q/2$) touches S ($q$): both become $\dfrac{3q}{4}$. $F\propto q_Pq_S$: $F'=16\times\dfrac{1}{2}\times\dfrac34=6$ N.
 
+### P-ELS-17 — JEE Main 2024 · 8 Apr Shift 1 · Q11 · MCQ
+
+Two charged conducting spheres of radii $a$ and $b$ are connected by a conducting wire. The ratio of the charges of the two spheres respectively is:
+
+(1) $\dfrac ab$  (2) $\sqrt{ab}$  (3) $\dfrac ba$  (4) $ab$
+
+**Answer: (1)** · key ✔
+
+**Solution.** After connection the potentials are equal: $\dfrac{kq_a}{a}=\dfrac{kq_b}{b}\Rightarrow\dfrac{q_a}{q_b}=\dfrac ab$.
+
+### P-ELS-18 — JEE Main 2024 · 8 Apr Shift 1 · Q25 · Numerical
+
+An electric field $\vec E=\dfrac{2\hat i+6\hat j+8\hat k}{\sqrt6}\ \text{V/m}$ passes through a surface of area $4\ \text{m}^2$ having unit normal $\hat n=\dfrac{2\hat i+\hat j+\hat k}{\sqrt6}$. The electric flux through the surface is ______ V m.
+
+**Answer: 12** · key ✔
+
+**Solution.** $\vec E\cdot\hat n=\dfrac{4+6+8}{6}=3$ V/m. $\Phi=(\vec E\cdot\hat n)A=3\times4=12$ V m.
+

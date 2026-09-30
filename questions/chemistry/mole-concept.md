@@ -124,3 +124,13 @@ The number of moles of methane required to produce $11$ g of $\text{CO}_2(g)$ af
 
 **Solution.** $\text{CH}_4+2\text{O}_2\to\text{CO}_2+2\text{H}_2\text{O}$. $11$ g $\text{CO}_2=\dfrac{11}{44}=0.25$ mol, so $0.25$ mol of methane is needed (1:1).
 
+### C-MOL-15 — JEE Main 2024 · 8 Apr Shift 1 · Q31 · MCQ
+
+The amount of oxygen (in g) required for the complete combustion of $900$ g of glucose is ($M$ of glucose $=180$ g mol$^{-1}$):
+
+(1) 480  (2) 800  (3) 960  (4) 32
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\to6\text{CO}_2+6\text{H}_2\text{O}$. $900$ g $=5$ mol glucose needs $30$ mol $\text{O}_2=30\times32=960$ g.
+

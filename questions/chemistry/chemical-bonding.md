@@ -278,3 +278,11 @@ The number of species with the central atom using $sp^2$ hybrid orbitals among $
 
 **Solution.** $sp^2$: $\text{SO}_2$, $\text{C}_2\text{H}_4$, $\text{BCl}_3$, HCHO, $\text{C}_6\text{H}_6$, $\text{BF}_3$. Not: $\text{NH}_3$, $\text{SiO}_2$ and $\text{C}_2\text{H}_4\text{Cl}_2$ ($sp^3$); $\text{BeCl}_2$ and $\text{C}_2\text{H}_2$ ($sp$). Count $=6$.
 
+### C-BND-31 — JEE Main 2024 · 8 Apr Shift 1 · Q52 · Numerical
+
+The number of molecules that are exceptions to the octet rule among $\text{CO}_2$, $\text{NO}_2$, $\text{H}_2\text{SO}_4$, $\text{BF}_3$, $\text{CH}_4$, $\text{SiF}_4$, $\text{ClO}_2$, $\text{PCl}_5$, $\text{BeF}_2$, $\text{C}_2\text{H}_6$, $\text{CHCl}_3$, $\text{CBr}_4$ is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** Exceptions: $\text{NO}_2$ and $\text{ClO}_2$ (odd-electron), $\text{H}_2\text{SO}_4$ (expanded octet on S), $\text{BF}_3$ and $\text{BeF}_2$ (electron-deficient), $\text{PCl}_5$ (expanded). Count $=6$. The rest ($\text{CO}_2$, $\text{CH}_4$, $\text{SiF}_4$, $\text{C}_2\text{H}_6$, $\text{CHCl}_3$, $\text{CBr}_4$) obey the octet rule (H has a duet).
+

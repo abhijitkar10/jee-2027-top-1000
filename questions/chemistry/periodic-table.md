@@ -182,3 +182,13 @@ Statement II: Ions are always smaller in size than the corresponding elements.
 
 **Solution.** A cation is smaller than its atom ($\text{Na}^+$ is $1.02\ \text{Å}$) because it loses the outer shell, so I is true. An anion is larger than its atom ($\text{Cl}^-$ $1.81$ vs Cl $0.99\ \text{Å}$), so II is false.
 
+### C-PER-19 — JEE Main 2024 · 8 Apr Shift 1 · Q32 · MCQ
+
+Match the elements with their properties in their respective groups: A. Cl, S; B. Ge, As; C. Fr, Ra; D. F, O; (I) highest electronegativity; (II) largest atomic size; (III) show properties of both metals and non-metals; (IV) highest negative electron gain enthalpy.
+
+(1) A-II, B-I, C-IV, D-III  (2) A-III, B-II, C-I, D-IV  (3) A-IV, B-III, C-II, D-I  (4) A-II, B-III, C-IV, D-I
+
+**Answer: (3)** · key ✔
+
+**Solution.** Cl (group 17) and S (group 16) have the most negative electron gain enthalpies in their groups (IV). Ge and As are metalloids (III). Fr (group 1) and Ra (group 2) are the largest atoms in their groups (II). F and O are the most electronegative in their groups (I).
+

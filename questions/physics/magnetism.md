@@ -161,3 +161,21 @@ A circular coil of $200$ turns, area $2.5\times10^{-4}\ \text{m}^2$ each, carryi
 
 **Solution.** $M=NIA=200\times10^{-4}\times2.5\times10^{-4}=5\times10^{-6}\ \text{A m}^2$. $W=MB(\cos0^\circ-\cos90^\circ)=MB=5\times10^{-6}$ J $=5\ \mu$J.
 
+### P-MAG-19 — JEE Main 2024 · 8 Apr Shift 1 · Q13 · MCQ
+
+Paramagnetic substances: A. align themselves along the direction of the external magnetic field. B. are attracted strongly towards the external magnetic field. C. have susceptibility a little more than zero. D. move from a region of strong magnetic field to weak magnetic field.
+
+(1) A, B, C only  (2) A, B, C, D  (3) A, C only  (4) B, D only
+
+**Answer: (3)** · key ✔
+
+**Solution.** Paramagnets have $0<\chi\ll1$ (C) and their dipoles align with $\vec B$ (A). The attraction is weak, not strong (B false), and they move from weak to strong field (D false).
+
+### P-MAG-20 — JEE Main 2024 · 8 Apr Shift 1 · Q27 · Numerical
+
+An electron with kinetic energy $5$ eV enters a region of uniform magnetic field of $3\ \mu$T perpendicular to its velocity. An electric field $E$ is applied perpendicular to both the velocity and the magnetic field so that the electron moves along the same straight path. $E=$ ______ $\text{N C}^{-1}$. ($m_e=9\times10^{-31}$ kg, $e=1.6\times10^{-19}$ C)
+
+**Answer: 4** · key ✔
+
+**Solution.** No deflection requires $eE=evB$, i.e. $E=vB$. $v=\sqrt{\dfrac{2\times5\times1.6\times10^{-19}}{9\times10^{-31}}}=1.33\times10^6\ \text{m/s}$. $E=1.33\times10^6\times3\times10^{-6}=4\ \text{N C}^{-1}$.
+

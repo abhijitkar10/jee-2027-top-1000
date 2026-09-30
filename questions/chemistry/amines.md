@@ -88,3 +88,11 @@ An amine X is prepared by ammonolysis of benzyl chloride. On adding $p$-toluenes
 
 **Solution.** Hinsberg's test: a clear solution with no reaction means X has no N–H bond, so it is a tertiary amine: tribenzylamine $(\text{C}_6\text{H}_5\text{CH}_2)_3\text{N}=\text{C}_{21}\text{H}_{21}\text{N}$, $M=252+21+14=287$ g mol$^{-1}$.
 
+### C-AMN-11 — JEE Main 2024 · 8 Apr Shift 1 · Q59 · Numerical
+
+If $279$ g of aniline is reacted with one equivalent of benzenediazonium chloride, the maximum amount of aniline yellow formed (complete conversion) is ______ g.
+
+**Answer: 591** · key ✔
+
+**Solution.** $279$ g $=3$ mol aniline. Coupling at the para position gives $p$-aminoazobenzene (aniline yellow), $\text{C}_6\text{H}_5\text{N=N-C}_6\text{H}_4\text{NH}_2$, $M=197$ g mol$^{-1}$. Mass $=3\times197=591$ g.
+

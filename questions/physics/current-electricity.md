@@ -230,3 +230,11 @@ The number of electrons flowing per second in the filament of a $110$ W, $220$ V
 
 **Solution.** $I=\dfrac PV=\dfrac{110}{220}=0.5$ A. Electrons per second $=\dfrac{I}{e}=\dfrac{0.5}{1.6\times10^{-19}}=3.125\times10^{18}=31.25\times10^{17}$.
 
+### P-CUR-25 — JEE Main 2024 · 8 Apr Shift 1 · Q26 · Numerical
+
+The resistance of a wire at $0^\circ$C, $100^\circ$C and $t^\circ$C is found to be $10\ \Omega$, $10.2\ \Omega$ and $10.95\ \Omega$ respectively. The temperature $t$ on the Kelvin scale is ______.
+
+**Answer: 748** · key ✔
+
+**Solution.** Linear $R(t)$: $\dfrac{R_t-R_0}{R_{100}-R_0}=\dfrac{t}{100}$. $\dfrac{0.95}{0.2}=\dfrac{t}{100}\Rightarrow t=475^\circ$C $=748$ K.
+

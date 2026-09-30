@@ -238,3 +238,11 @@ The pressure inside a soap bubble is greater than the pressure outside by an amo
 
 **Solution.** A soap bubble has two surfaces (inside and outside), so the excess pressure is $\dfrac{4S}{R}$. (A liquid drop, with one surface, has $\dfrac{2S}{R}$.)
 
+### P-POM-27 — JEE Main 2024 · 8 Apr Shift 1 · Q23 · Numerical
+
+A liquid column of height $0.04$ cm balances the excess pressure of a soap bubble of a certain radius. The density of the liquid is $8\times10^3\ \text{kg m}^{-3}$ and the surface tension of the soap solution is $0.28\ \text{N m}^{-1}$. The diameter of the soap bubble is ______ cm. ($g=10$)
+
+**Answer: 7** · key ✔
+
+**Solution.** Excess pressure $\dfrac{4S}{R}=\rho gh=8\times10^3\times10\times4\times10^{-4}=32$ Pa. $R=\dfrac{4\times0.28}{32}=0.035$ m $=3.5$ cm, so the diameter is $7$ cm.
+

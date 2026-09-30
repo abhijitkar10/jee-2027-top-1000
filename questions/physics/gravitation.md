@@ -163,3 +163,13 @@ Assuming the earth to be a sphere of uniform density, a body weighs $300$ N on t
 
 **Solution.** Inside a uniform sphere $g'=g\left(1-\dfrac dR\right)=g\left(1-\dfrac14\right)=\dfrac{3g}{4}$. Weight $=\dfrac34\times300=225$ N.
 
+### P-GRV-17 — JEE Main 2024 · 8 Apr Shift 1 · Q7 · MCQ
+
+Two planets A and B of masses $m_1$ and $m_2$ move around the sun in circular orbits of radii $r_1$ and $r_2$. If the angular momentum of A is $L$ and that of B is $3L$, the ratio of time periods $\left(\dfrac{T_A}{T_B}\right)$ is:
+
+(1) $\left(\dfrac{r_2}{r_1}\right)^{3/2}$  (2) $\dfrac1{27}\left(\dfrac{m_2}{m_1}\right)^3$  (3) $27\left(\dfrac{m_1}{m_2}\right)^3$  (4) $\left(\dfrac{r_1}{r_2}\right)^3$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Kepler: $\dfrac{T_A}{T_B}=\left(\dfrac{r_1}{r_2}\right)^{3/2}$. Angular momentum of a circular orbit: $L=m\sqrt{GMr}$, so $\dfrac{L}{3L}=\dfrac{m_1\sqrt{r_1}}{m_2\sqrt{r_2}}\Rightarrow\sqrt{\dfrac{r_1}{r_2}}=\dfrac{m_2}{3m_1}$. Hence $\dfrac{T_A}{T_B}=\left(\dfrac{m_2}{3m_1}\right)^3=\dfrac1{27}\left(\dfrac{m_2}{m_1}\right)^3$.
+

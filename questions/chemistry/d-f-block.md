@@ -269,3 +269,11 @@ Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the sp
 
 **Solution.** $E^\circ$: $\text{MnO}_4^-/\text{Mn}^{2+}=+1.51$ V, $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=+1.33$ V, $\text{VO}_2^+/\text{VO}^{2+}=+1.00$ V, so $\text{VO}_2^+$ is the weakest oxidant. It contains $\text{V}^{5+}$ ($d^0$): $\mu=0$.
 
+### C-DFB-28 — JEE Main 2024 · 8 Apr Shift 1 · Q57 · Numerical
+
+The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with the least metallic radius among Sc, Ti, V, Cr, Mn and Zn, is ______ BM. ($Z$: Sc $21$, Ti $22$, V $23$, Cr $24$, Mn $25$, Zn $30$)
+
+**Answer: 0** · key ✔
+
+**Solution.** Metallic radii (pm): Sc $164$, Ti $147$, V $135$, Mn $137$, Zn $134$, Cr $129$. Cr has the smallest (strong metallic bonding through the $d^5$ and half-filled $4s$). $\text{CrO}_4^{2-}$: $\text{Cr}^{6+}$ ($d^0$), so $\mu=0$.
+

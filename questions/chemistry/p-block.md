@@ -232,3 +232,24 @@ Statements on group 14: (A) Covalent radius decreases down the group from C to P
 
 **Solution.** Covalent radius *increases* down the group (A false). Electronegativity is not regular ($\text{Si}<\text{Ge}\approx\text{Sn}<\text{Pb}$), so B is false. C, D and E are true (carbon forms $\text{CH}_4$, $\text{Al}_4\text{C}_3$ with negative states).
 
+### C-PBL-23 — JEE Main 2024 · 8 Apr Shift 1 · Q37 · MCQ
+
+Among the halogens $\text{F}_2$, $\text{Cl}_2$, $\text{Br}_2$ and $\text{I}_2$, which can undergo disproportionation reactions?
+
+(1) $\text{F}_2$, $\text{Cl}_2$ and $\text{Br}_2$  (2) $\text{F}_2$ and $\text{Cl}_2$  (3) only $\text{I}_2$  (4) $\text{Cl}_2$, $\text{Br}_2$ and $\text{I}_2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Fluorine only has $-1$ and $0$, so it cannot be oxidised: no disproportionation. $\text{Cl}_2$, $\text{Br}_2$ and $\text{I}_2$ disproportionate in alkali, e.g. $\text{Cl}_2+2\text{OH}^-\to\text{Cl}^-+\text{OCl}^-+\text{H}_2\text{O}$.
+
+### C-PBL-24 — JEE Main 2024 · 8 Apr Shift 1 · Q39 · MCQ
+
+Assertion A: The stability order of the $+1$ oxidation state of Ga, In and Tl is $\text{Ga}<\text{In}<\text{Tl}$.
+Reason R: The inert pair effect stabilises the lower oxidation state down the group.
+
+(1) A true, R false  (2) A false, R true  (3) Both true, R explains A  (4) Both true, R does not explain A
+
+**Answer: (3)** · key ✔
+
+**Solution.** Down group 13, the $ns^2$ pair becomes increasingly reluctant to participate in bonding, so $+1$ becomes progressively more stable, reaching Tl. R is the correct explanation of A.
+

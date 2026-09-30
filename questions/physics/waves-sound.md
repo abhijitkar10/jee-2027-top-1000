@@ -70,3 +70,11 @@ Two open organ pipes of lengths $60$ cm and $90$ cm resonate at their $6$th and 
 
 **Solution.** Open pipe: $f_n=\dfrac{nv}{2L}$. $f_6=\dfrac{6\times333}{2\times0.6}=1665$ Hz; $f_5=\dfrac{5\times333}{2\times0.9}=925$ Hz. Difference $=740$ Hz.
 
+### P-WAV-09 — JEE Main 2024 · 8 Apr Shift 1 · Q24 · Numerical
+
+A closed organ pipe and an open organ pipe have the same length. If the ratio of the frequencies of their seventh overtones is $\dfrac{a-1}{a}$, then $a=$ ______.
+
+**Answer: 16** · key ✔
+
+**Solution.** Closed pipe: overtones are odd harmonics, the $7$th overtone is the $15$th harmonic: $f_c=\dfrac{15v}{4L}$. Open pipe: the $7$th overtone is the $8$th harmonic: $f_o=\dfrac{8v}{2L}=\dfrac{16v}{4L}$. $\dfrac{f_c}{f_o}=\dfrac{15}{16}=\dfrac{a-1}{a}\Rightarrow a=16$.
+

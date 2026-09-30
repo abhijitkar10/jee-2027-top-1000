@@ -123,3 +123,13 @@ For a thin convex lens the radii of curvature are $15$ cm and $30$ cm and the fo
 
 **Solution.** Lens-maker: $\dfrac1f=(\mu-1)\left(\dfrac1{R_1}+\dfrac1{R_2}\right)$ for a biconvex lens: $\dfrac1{20}=(\mu-1)\dfrac{1}{10}\Rightarrow\mu-1=0.5$, so $\mu=1.5$.
 
+### P-RAY-14 — JEE Main 2024 · 8 Apr Shift 1 · Q15 · MCQ
+
+The critical angle of incidence for a pair of optical media is $45^\circ$. The refractive indices of the first and second media are in the ratio:
+
+(1) $1:\sqrt2$  (2) $\sqrt2:1$  (3) $2:1$  (4) $1:2$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Light goes from the denser (first) medium to the rarer (second): $\sin C=\dfrac{n_2}{n_1}=\sin45^\circ=\dfrac1{\sqrt2}$, so $n_1:n_2=\sqrt2:1$.
+

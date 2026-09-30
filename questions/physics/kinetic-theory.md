@@ -132,3 +132,13 @@ The energy of $10$ non-rigid diatomic molecules at temperature $T$ is:
 
 **Solution.** A non-rigid diatomic molecule has $3$ translational, $2$ rotational and $1$ vibrational mode, the last contributing two quadratic terms (kinetic and potential): $f=7$. Energy per molecule $=\tfrac72k_BT$, so $10$ molecules have $35k_BT$.
 
+### P-KTG-14 — JEE Main 2024 · 8 Apr Shift 1 · Q10 · MCQ
+
+A mixture of one mole of a monoatomic gas and one mole of a rigid diatomic gas is kept at room temperature ($27^\circ$C). The ratio of the specific heats at constant volume of the two gases respectively is:
+
+(1) $\tfrac75$  (2) $\tfrac35$  (3) $\tfrac53$  (4) $\tfrac32$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $C_v=\tfrac32R$ (monoatomic) and $\tfrac52R$ (rigid diatomic): ratio $=\dfrac{3/2}{5/2}=\dfrac35$.
+

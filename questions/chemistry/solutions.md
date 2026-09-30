@@ -144,3 +144,11 @@ For $\text{A}+\text{B}\to\text{C}$ (reaction 1) and $\text{P}\to\text{Q}$ (react
 
 **Solution.** $t=\dfrac{2.303}{k}\log\dfrac{1}{1-f}$. Reaction 1: $\log3=0.477$; reaction 2: $\log5=0.699$. $k\propto1/t_{1/2}$, so $\dfrac{k_1}{k_2}=\dfrac25$. $\dfrac{t_1}{t_2}=\dfrac{0.477}{0.699}\times\dfrac{k_2}{k_1}=0.682\times2.5=1.7=17\times10^{-1}$.
 
+### C-SOL-17 — JEE Main 2024 · 8 Apr Shift 1 · Q55 · Numerical
+
+A solution containing $10$ g of the electrolyte $\text{AB}_2$ in $100$ g of water boils at $100.52^\circ$C. The degree of ionisation of $\text{AB}_2\to\text{A}^{2+}+2\text{B}^-$ is ______ $\times10^{-1}$ (nearest integer). ($M_{\text{AB}_2}=200$ g mol$^{-1}$, $K_b=0.52$ K kg mol$^{-1}$)
+
+**Answer: 5** · key ✔
+
+**Solution.** $m=\dfrac{10/200}{0.1\ \text{kg}}=0.5$ mol kg$^{-1}$. $\Delta T_b=iK_bm\Rightarrow0.52=i(0.52)(0.5)\Rightarrow i=2$. For $n=3$ ions, $i=1+2\alpha\Rightarrow\alpha=0.5=5\times10^{-1}$.
+

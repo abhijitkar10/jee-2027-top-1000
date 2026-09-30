@@ -138,3 +138,11 @@ Two coherent monochromatic light beams of intensities $I$ and $4I$ are superpose
 
 **Solution.** $I_{max}=(\sqrt I+2\sqrt I)^2=9I$, $I_{min}=(2\sqrt I-\sqrt I)^2=I$. Difference $=8I$, so $x=8$.
 
+### P-WOP-16 — JEE Main 2024 · 8 Apr Shift 1 · Q29 · Numerical
+
+A parallel beam of monochromatic light of wavelength $600$ nm passes through a single slit of width $0.4$ mm. The angular divergence corresponding to the second-order minima is ______ $\times10^{-3}$ rad.
+
+**Answer: 6** · key ✔
+
+**Solution.** Second minimum: $\sin\theta=\dfrac{2\lambda}{a}=\dfrac{2\times600\times10^{-9}}{0.4\times10^{-3}}=3\times10^{-3}$ rad on each side of the axis. The full divergence (both sides) is $2\theta=6\times10^{-3}$ rad.
+

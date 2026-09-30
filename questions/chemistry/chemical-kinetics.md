@@ -130,3 +130,21 @@ The time required for $99.9\%$ completion of a first-order reaction is ______ ti
 
 **Solution.** $t=\dfrac{2.303}{k}\log\dfrac{100}{100-x}$. $t_{99.9}\propto\log1000=3$ and $t_{90}\propto\log10=1$. Ratio $=3$.
 
+### C-KIN-16 — JEE Main 2024 · 8 Apr Shift 1 · Q43 · MCQ
+
+$\text{Fe}^{3+}$ catalyses the reaction between iodide and persulphate ions. A. $\text{Fe}^{3+}$ oxidises the iodide ion; B. $\text{Fe}^{3+}$ oxidises the persulphate ion; C. $\text{Fe}^{2+}$ reduces the iodide ion; D. $\text{Fe}^{2+}$ reduces the persulphate ion.
+
+(1) B only  (2) A only  (3) B and C only  (4) A and D only
+
+**Answer: (4)** · key ✔
+
+**Solution.** $2\text{Fe}^{3+}+2\text{I}^-\to2\text{Fe}^{2+}+\text{I}_2$ ($\text{Fe}^{3+}$ oxidises iodide: A). $2\text{Fe}^{2+}+\text{S}_2\text{O}_8^{2-}\to2\text{Fe}^{3+}+2\text{SO}_4^{2-}$ ($\text{Fe}^{2+}$ reduces persulphate: D). The catalyst is regenerated.
+
+### C-KIN-17 — JEE Main 2024 · 8 Apr Shift 1 · Q56 · Numerical
+
+For $\text{A}+\text{B}\to\text{C}$: the time for A to become $\tfrac14$ of its initial concentration is twice the time to become $\tfrac12$; and a plot of the change in concentration of B against time is a straight line with a negative slope and positive intercept on the concentration axis. The overall order is ______.
+
+**Answer: 1** · key ✔
+
+**Solution.** $t_{1/4}=2t_{1/2}$ is the signature of first order in A (a constant half-life). A linear $[\text{B}]$ against $t$ plot means zero order in B. Overall order $=1+0=1$.
+

@@ -143,3 +143,13 @@ UV light of wavelength $300$ nm is incident on a metal surface of work function 
 
 **Solution.** Photon energy $=\dfrac{1240}{300}=4.13$ eV. $eV_0=4.13-2.13=2.0$ eV, so $V_0=2$ V.
 
+### P-DUL-15 — JEE Main 2024 · 8 Apr Shift 1 · Q16 · MCQ
+
+A proton and an electron are associated with the same de Broglie wavelength. The ratio of their kinetic energies (proton : electron) is ($m_p=1836\,m_e$):
+
+(1) $1:\sqrt{1836}$  (2) $1:\dfrac1{1836}$  (3) $1:\dfrac1{\sqrt{1836}}$  (4) $1:1836$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $K=\dfrac{h^2}{2m\lambda^2}\propto\dfrac1m$ at equal $\lambda$. $\dfrac{K_p}{K_e}=\dfrac{m_e}{m_p}=\dfrac1{1836}$, i.e. $1:1836$.
+

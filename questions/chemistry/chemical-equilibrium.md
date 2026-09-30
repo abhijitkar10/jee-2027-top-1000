@@ -94,3 +94,13 @@ The ratio $\dfrac{K_P}{K_C}$ for the reaction $\text{CO}(g)+\tfrac12\text{O}_2(g
 
 **Solution.** $K_P=K_C(RT)^{\Delta n_g}$ with $\Delta n_g=1-\tfrac32=-\tfrac12$. So $\dfrac{K_P}{K_C}=(RT)^{-1/2}=\dfrac1{\sqrt{RT}}$.
 
+### C-CEQ-11 — JEE Main 2024 · 8 Apr Shift 1 · Q36 · MCQ
+
+For the hypothetical reactions $\text{X}\rightleftharpoons\text{Y}$ ($K_1=1.0$), $\text{Y}\rightleftharpoons\text{Z}$ ($K_2=2.0$), $\text{Z}\rightleftharpoons\text{W}$ ($K_3=4.0$), the equilibrium constant for $\text{X}\rightleftharpoons\text{W}$ is:
+
+(1) 6.0  (2) 12.0  (3) 7.0  (4) 8.0
+
+**Answer: (4)** · key ✔
+
+**Solution.** Adding reactions multiplies the constants: $K=K_1K_2K_3=1.0\times2.0\times4.0=8.0$.
+

@@ -48,3 +48,13 @@ Two particles of masses $m_1=3$ kg and $m_2=2$ kg are placed at some distance. $
 
 **Solution.** The centre of mass is unchanged if the moments about it stay balanced: $m_1\Delta_1=m_2\Delta_2\Rightarrow3\times2=2\times\Delta_2$, so $\Delta_2=3$ cm.
 
+### P-COM-06 — JEE Main 2024 · 8 Apr Shift 1 · Q4 · MCQ
+
+A stationary particle breaks into two parts of masses $m_A$ and $m_B$ which move with velocities $v_A$ and $v_B$. The ratio of their kinetic energies $(K_B:K_A)$ is:
+
+(1) $v_B:v_A$  (2) $m_B:m_A$  (3) $m_Bv_B:m_Av_A$  (4) $1:1$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Momentum conservation: $m_Av_A=m_Bv_B$ (equal and opposite momenta). $\dfrac{K_B}{K_A}=\dfrac{\tfrac12m_Bv_B^2}{\tfrac12m_Av_A^2}=\dfrac{(m_Bv_B)v_B}{(m_Av_A)v_A}=\dfrac{v_B}{v_A}$.
+

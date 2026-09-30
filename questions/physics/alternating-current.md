@@ -173,3 +173,13 @@ A dc voltage of $100$ V applied to an inductor gives a dc current of $5$ A. When
 
 **Solution.** The dc resistance is $R=\dfrac{100}{5}=20\ \Omega$. $Z=\sqrt{20^2+(20\sqrt3)^2}=40\ \Omega$. $I_{rms}=\dfrac{200/\sqrt2}{40}=\dfrac{5}{\sqrt2}$ A, so $P=I_{rms}^2R=12.5\times20=250$ W.
 
+### P-ACC-19 — JEE Main 2024 · 8 Apr Shift 1 · Q14 · MCQ
+
+An LCR circuit is at resonance for a capacitor $C$, inductance $L$ and resistance $R$. The value of the resistance is now halved keeping all other parameters the same. The current amplitude at resonance will now be:
+
+(1) zero  (2) same  (3) halved  (4) double
+
+**Answer: (4)** · key ✔
+
+**Solution.** At resonance $Z=R$, so $I_0=\dfrac{V_0}{R}$. Halving $R$ doubles the current amplitude.
+

@@ -288,3 +288,13 @@ How can an electrochemical (galvanic) cell be converted into an electrolytic cel
 
 **Solution.** In the Daniell-type cell, an opposing external potential smaller than $E_{cell}$ just reduces the current. Once it exceeds $E_{cell}$, current flows in the reverse direction and the non-spontaneous reaction is driven: the cell works as an electrolytic cell.
 
+### C-ELC-31 — JEE Main 2024 · 8 Apr Shift 1 · Q38 · MCQ
+
+Thiosulphate reacts differently with iodine and bromine: $2\text{S}_2\text{O}_3^{2-}+\text{I}_2\to\text{S}_4\text{O}_6^{2-}+2\text{I}^-$ and $\text{S}_2\text{O}_3^{2-}+5\text{Br}_2+5\text{H}_2\text{O}\to2\text{SO}_4^{2-}+4\text{Br}^-+10\text{H}^+$. Which statement justifies this dual behaviour?
+
+(1) Bromine is a stronger oxidant than iodine  (2) Thiosulphate undergoes oxidation by bromine and reduction by iodine  (3) Bromine is a weaker oxidant than iodine  (4) Bromine undergoes oxidation and iodine undergoes reduction
+
+**Answer: (1)** · key ✔
+
+**Solution.** $E^\circ(\text{Br}_2/\text{Br}^-)=1.09$ V exceeds $E^\circ(\text{I}_2/\text{I}^-)=0.54$ V, so $\text{Br}_2$ oxidises S from $+2$ to the higher state $+6$, while the weaker oxidant $\text{I}_2$ only takes it to the average $+2.5$ of tetrathionate.
+

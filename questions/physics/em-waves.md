@@ -123,3 +123,13 @@ In an electromagnetic wave $E_y=600\sin(\omega t-kx)\ \text{V m}^{-1}$, the inte
 
 **Solution.** $I=\tfrac12\epsilon_0cE_0^2=\tfrac12(9\times10^{-12})(3\times10^8)(600)^2=486\ \text{W/m}^2$.
 
+### P-EMW-13 — JEE Main 2024 · 8 Apr Shift 1 · Q17 · MCQ
+
+The average force exerted on a non-reflecting surface at normal incidence is $2.4\times10^{-4}$ N. If $360\ \text{W/cm}^2$ is the light energy flux, the area of the surface is:
+
+(1) $0.2\ \text{m}^2$  (2) $20\ \text{m}^2$  (3) $0.1\ \text{m}^2$  (4) $0.02\ \text{m}^2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** For a perfect absorber $F=\dfrac{IA}{c}$. $I=360\ \text{W/cm}^2=3.6\times10^6\ \text{W/m}^2$. $A=\dfrac{Fc}{I}=\dfrac{2.4\times10^{-4}\times3\times10^8}{3.6\times10^6}=0.02\ \text{m}^2$.
+
