@@ -66,17 +66,7 @@ The function $f(x)=\dfrac x{x^2-6x-16}$, $x\in\mathbb R-\{-2,8\}$,
 
 **Solution.** $f'(x)=\dfrac{(x^2-6x-16)-x(2x-6)}{(x^2-6x-16)^2}=\dfrac{-(x^2+16)}{(x^2-6x-16)^2}<0$ everywhere on the domain. So $f$ is decreasing on each of $(-\infty,-2),(-2,8),(8,\infty)$.
 
-### M-AOD-08 — JEE Main 2024 · 30 Jan Shift 1 · Q66 · MCQ
-
-The maximum area of a triangle whose one vertex is at $(0,0)$ and the other two vertices lie on the curve $y=-2x^2+54$ at points $(x,y)$ and $(-x,y)$, where $y>0$, is
-
-(1) 88  (2) 122  (3) 92  (4) 108
-
-**Answer: (4)** · key ✔
-
-**Solution.** The base is $2x$ and the height is $y$, so $A=xy=54x-2x^3$. $A'=54-6x^2=0\Rightarrow x=3$ (and $A''<0$). $A_{\max}=162-54=108$.
-
-### M-AOD-09 — JEE Main 2024 · 30 Jan Shift 1 · Q73 · MCQ
+### M-AOD-08 — JEE Main 2024 · 30 Jan Shift 1 · Q73 · MCQ
 
 Let $g:\mathbb R\to\mathbb R$ be a non-constant twice differentiable function with $g'\!\left(\tfrac12\right)=g'\!\left(\tfrac32\right)$. If $f(x)=\tfrac12\left[g(x)+g(2-x)\right]$, then
 
@@ -86,7 +76,7 @@ Let $g:\mathbb R\to\mathbb R$ be a non-constant twice differentiable function wi
 
 **Solution.** $f'(x)=\tfrac12\left[g'(x)-g'(2-x)\right]$. Then $f'\!\left(\tfrac12\right)=\tfrac12\left[g'(\tfrac12)-g'(\tfrac32)\right]=0$, $f'(1)=0$ and $f'\!\left(\tfrac32\right)=0$. By Rolle's theorem $f''$ vanishes at least once in $\left(\tfrac12,1\right)$ and at least once in $\left(1,\tfrac32\right)$: at least two zeros in $(0,2)$. (Option (4) gives $0\ne1$.)
 
-### M-AOD-10 — JEE Main 2024 · 30 Jan Shift 2 · Q74 · MCQ
+### M-AOD-09 — JEE Main 2024 · 30 Jan Shift 2 · Q74 · MCQ
 
 Let $f(x)=(x+3)^2(x-2)^3$, $x\in[-4,4]$. If $M$ and $m$ are the maximum and minimum values of $f$ in $[-4,4]$ respectively, then $M-m$ is
 
@@ -96,7 +86,7 @@ Let $f(x)=(x+3)^2(x-2)^3$, $x\in[-4,4]$. If $M$ and $m$ are the maximum and mini
 
 **Solution.** $f'(x)=(x+3)(x-2)^2\left[2(x-2)+3(x+3)\right]=5(x+3)(x+1)(x-2)^2$, with critical points $-3,-1,2$. Values: $f(-4)=(1)(-6)^3=-216$, $f(-3)=0$, $f(-1)=4(-27)=-108$, $f(2)=0$, $f(4)=49\cdot8=392$. So $M=392$, $m=-216$ and $M-m=608$.
 
-### M-AOD-11 — JEE Main 2024 · 1 Feb Shift 1 · Q74 · MCQ
+### M-AOD-10 — JEE Main 2024 · 1 Feb Shift 1 · Q74 · MCQ
 
 If $5f(x)+4f\!\left(\tfrac1x\right)=x^2-2$ for all $x\ne0$ and $y=9x^2f(x)$, then $y$ is strictly increasing in:
 
@@ -106,7 +96,7 @@ If $5f(x)+4f\!\left(\tfrac1x\right)=x^2-2$ for all $x\ne0$ and $y=9x^2f(x)$, the
 
 **Solution.** Replacing $x\to1/x$: $5f(1/x)+4f(x)=1/x^2-2$. Eliminate $f(1/x)$: $9f(x)=5(x^2-2)-4(1/x^2-2)=5x^2-2-4/x^2$. So $y=9x^2f(x)=5x^4-2x^2-4$ and $y'=20x^3-4x=4x(5x^2-1)$. $y'>0$ for $x\in\left(-\tfrac1{\sqrt5},0\right)\cup\left(\tfrac1{\sqrt5},\infty\right)$.
 
-### M-AOD-12 — JEE Main 2024 · 4 Apr Shift 1 · Q72 · MCQ
+### M-AOD-11 — JEE Main 2024 · 4 Apr Shift 1 · Q72 · MCQ
 
 The sum of the maximum and minimum values of $f(x)=\dfrac{2x^2-3x+8}{2x^2+3x+8}$ is $\dfrac mn$, $\gcd(m,n)=1$. Then $m+n$ is:
 
@@ -116,7 +106,7 @@ The sum of the maximum and minimum values of $f(x)=\dfrac{2x^2-3x+8}{2x^2+3x+8}$
 
 **Solution.** Put $y=f(x)$: $(2y-2)x^2+(3y+3)x+(8y-8)=0$ must have a real root: $9(y+1)^2-4(2y-2)(8y-8)\ge0\Rightarrow9(y+1)^2\ge64(y-1)^2\Rightarrow3|y+1|\ge8|y-1|$. This gives $y\in\left[\tfrac5{11},\tfrac{11}5\right]$. Sum $=\tfrac5{11}+\tfrac{11}5=\tfrac{146}{55}$, so $m+n=201$.
 
-### M-AOD-13 — JEE Main 2024 · 4 Apr Shift 1 · Q74 · MCQ
+### M-AOD-12 — JEE Main 2024 · 4 Apr Shift 1 · Q74 · MCQ
 
 Let $f(x)=x^5+2e^{x/4}$ and $g$ be such that $(g\circ f)(x)=x$. Then $8g'(2)$ is:
 

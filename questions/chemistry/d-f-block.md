@@ -33,17 +33,7 @@ Statement II: $\text{Ce}^{4+}$ is a strong oxidant, reverting to the common $+3$
 
 **Solution.** $\text{Ce}^{4+}$ is $[\text{Xe}]$, a noble-gas core, which explains why $+4$ is accessible. But $E^\circ(\text{Ce}^{4+}/\text{Ce}^{3+})=+1.74$ V, so it is a strong oxidising agent that reverts to $+3$, the common lanthanoid oxidation state.
 
-### C-DFB-04 — JEE Main 2024 · 29 Jan Shift 1 · Q35 · MCQ
-
-$\text{KMnO}_4$ decomposes on heating at $513$ K to form $\text{O}_2$ along with
-
-(1) $\text{MnO}_2$ and $\text{K}_2\text{O}_2$  (2) $\text{K}_2\text{MnO}_4$ and Mn  (3) Mn and $\text{KO}_2$  (4) $\text{K}_2\text{MnO}_4$ and $\text{MnO}_2$
-
-**Answer: (4)** · key ✔
-
-**Solution.** $2\text{KMnO}_4\xrightarrow{513\,\text{K}}\text{K}_2\text{MnO}_4+\text{MnO}_2+\text{O}_2$ (used in the laboratory preparation of dioxygen).
-
-### C-DFB-05 — JEE Main 2024 · 29 Jan Shift 2 · Q40 · MCQ
+### C-DFB-04 — JEE Main 2024 · 29 Jan Shift 2 · Q40 · MCQ
 
 Which of the following acts as a strong reducing agent? (Atomic numbers: Ce = 58, Eu = 63, Gd = 64, Lu = 71)
 
@@ -53,7 +43,7 @@ Which of the following acts as a strong reducing agent? (Atomic numbers: Ce = 58
 
 **Solution.** $\text{Eu}^{2+}$ ($4f^7$, half-filled) readily loses an electron to reach the stable $+3$ state ($E^\circ=-0.35$ V), so it is a strong reductant. $\text{Lu}^{3+}$ ($4f^{14}$) and $\text{Gd}^{3+}$ ($4f^7$) are already stable, and $\text{Ce}^{4+}$ is an oxidant.
 
-### C-DFB-06 — JEE Main 2024 · 29 Jan Shift 2 · Q41 · MCQ
+### C-DFB-05 — JEE Main 2024 · 29 Jan Shift 2 · Q41 · MCQ
 
 Which of the following statements are correct about Zn, Cd and Hg?
 A. They exhibit high enthalpy of atomisation as the $d$-subshell is full.
@@ -67,7 +57,7 @@ D. Zn, Cd and Hg are called soft metals.
 
 **Solution.** A is false: the filled $d^{10}$ subshell means weak metallic bonding and low enthalpies of atomisation (low melting points). B is true ($\text{Hg}_2^{2+}$ and $\text{Hg}^{2+}$). C is false: $d^{10}$ compounds are diamagnetic. D is true (soft, low melting).
 
-### C-DFB-07 — JEE Main 2024 · 30 Jan Shift 1 · Q41 · MCQ
+### C-DFB-06 — JEE Main 2024 · 30 Jan Shift 1 · Q41 · MCQ
 
 Diamagnetic lanthanoid ions are
 
@@ -77,7 +67,7 @@ Diamagnetic lanthanoid ions are
 
 **Solution.** $\text{La}^{3+}$ ($4f^0$), $\text{Ce}^{4+}$ ($4f^0$) and $\text{Lu}^{3+}$ ($4f^{14}$) have no unpaired electrons. $\text{Nd}^{3+}$ ($4f^3$) and $\text{Eu}^{3+}$ ($4f^6$) are paramagnetic. So only option (2) has both ions diamagnetic.
 
-### C-DFB-08 — JEE Main 2024 · 30 Jan Shift 1 · Q42 · MCQ
+### C-DFB-07 — JEE Main 2024 · 30 Jan Shift 1 · Q42 · MCQ
 
 Match List I (species) with List II (electronic distribution): A. $\text{Cr}^{2+}$  B. $\text{Mn}^+$  C. $\text{Ni}^{2+}$  D. $\text{V}^+$; i. $3d^8$  ii. $3d^34s^1$  iii. $3d^4$  iv. $3d^54s^1$.
 
@@ -87,7 +77,7 @@ Match List I (species) with List II (electronic distribution): A. $\text{Cr}^{2+
 
 **Solution.** $\text{Cr}$ is $3d^54s^1$; $\text{Cr}^{2+}=3d^4$. $\text{Mn}$ is $3d^54s^2$; $\text{Mn}^+=3d^54s^1$. $\text{Ni}$ is $3d^84s^2$; $\text{Ni}^{2+}=3d^8$. $\text{V}$ is $3d^34s^2$; $\text{V}^+=3d^34s^1$. So A-iii, B-iv, C-i, D-ii.
 
-### C-DFB-09 — JEE Main 2024 · 30 Jan Shift 2 · Q42 · MCQ
+### C-DFB-08 — JEE Main 2024 · 30 Jan Shift 2 · Q42 · MCQ
 
 The orange colour of $\text{K}_2\text{Cr}_2\text{O}_7$ and the purple colour of $\text{KMnO}_4$ are due to
 
@@ -97,7 +87,7 @@ The orange colour of $\text{K}_2\text{Cr}_2\text{O}_7$ and the purple colour of 
 
 **Solution.** In $\text{Cr}_2\text{O}_7^{2-}$ ($\text{Cr}^{6+}$, $d^0$) and $\text{MnO}_4^-$ ($\text{Mn}^{7+}$, $d^0$) there are no $d$ electrons, so $d\to d$ transitions are impossible. The colours arise from ligand-to-metal charge transfer ($\text{O}^{2-}\to\text{M}$).
 
-### C-DFB-10 — JEE Main 2024 · 30 Jan Shift 2 · Q44 · MCQ
+### C-DFB-09 — JEE Main 2024 · 30 Jan Shift 2 · Q44 · MCQ
 
 Alkaline oxidative fusion of $\text{MnO}_2$ gives "A", which on electrolytic oxidation in alkaline solution produces B. A and B respectively are
 
@@ -107,7 +97,7 @@ Alkaline oxidative fusion of $\text{MnO}_2$ gives "A", which on electrolytic oxi
 
 **Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$, so A is manganate ($\text{MnO}_4^{2-}$, green). Electrolytic oxidation in alkaline medium gives permanganate: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$.
 
-### C-DFB-11 — JEE Main 2024 · 31 Jan Shift 1 · Q45 · MCQ
+### C-DFB-10 — JEE Main 2024 · 31 Jan Shift 1 · Q45 · MCQ
 
 Identify correct statements:
 A. The chromate ion is square planar.
@@ -122,17 +112,7 @@ E. With increasing oxidation number of the transition metal, the ionic character
 
 **Solution.** A is false (chromate is tetrahedral). B is true ($2\text{CrO}_4^{2-}+2\text{H}^+\to\text{Cr}_2\text{O}_7^{2-}+\text{H}_2\text{O}$). C is false ($\text{MnO}_4^{2-}$ is $d^1$, paramagnetic). D is true ($3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$). E is true (higher oxidation state gives more covalent, more acidic oxides).
 
-### C-DFB-12 — JEE Main 2024 · 1 Feb Shift 2 · Q44 · MCQ
-
-The transition metal having the highest third ionisation enthalpy is:
-
-(1) Cr  (2) Mn  (3) V  (4) Fe
-
-**Answer: (2)** · key ✔
-
-**Solution.** Removing the third electron from $\text{Mn}^{2+}$ ($3d^5$, half-filled) breaks a particularly stable configuration. Mn therefore has the highest $IE_3$ among the 3d series.
-
-### C-DFB-13 — JEE Main 2024 · 1 Feb Shift 2 · Q45 · MCQ
+### C-DFB-11 — JEE Main 2024 · 1 Feb Shift 2 · Q45 · MCQ
 
 Which compound shows colour due to $d$–$d$ transition?
 
@@ -142,7 +122,7 @@ Which compound shows colour due to $d$–$d$ transition?
 
 **Solution.** $\text{Cu}^{2+}$ ($d^9$) in $[\text{Cu(H}_2\text{O)}_4]^{2+}$ has a $d$–$d$ transition (blue). $\text{Cr}_2\text{O}_7^{2-}$, $\text{CrO}_4^{2-}$ and $\text{MnO}_4^-$ have no $d$ electrons and are coloured by ligand-to-metal charge transfer.
 
-### C-DFB-14 — JEE Main 2024 · 1 Feb Shift 2 · Q46 · MCQ
+### C-DFB-12 — JEE Main 2024 · 1 Feb Shift 2 · Q46 · MCQ
 
 Assertion A: In aqueous solution $\text{Cr}^{2+}$ is reducing while $\text{Mn}^{3+}$ is oxidising.
 Reason R: Extra stability is observed for the half-filled configuration compared with an incompletely filled one.
@@ -153,17 +133,7 @@ Reason R: Extra stability is observed for the half-filled configuration compared
 
 **Solution.** Both $d^4$ ions move towards a stable configuration: $\text{Cr}^{2+}(d^4)\to\text{Cr}^{3+}(d^3,\ t_{2g}^3)$ by oxidation, and $\text{Mn}^{3+}(d^4)\to\text{Mn}^{2+}(d^5)$ by reduction. Half-filled stability is the reason ($E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V, $E^\circ_{\text{Mn}^{3+}/\text{Mn}^{2+}}=+1.57$ V).
 
-### C-DFB-15 — JEE Main 2024 · 4 Apr Shift 1 · Q43 · MCQ
-
-The element which shows only one oxidation state other than its elemental form is:
-
-(1) Cobalt  (2) Titanium  (3) Nickel  (4) Scandium
-
-**Answer: (4)** · key ✔
-
-**Solution.** Scandium ($3d^14s^2$) shows only $+3$. Co, Ti and Ni each show several oxidation states.
-
-### C-DFB-16 — JEE Main 2024 · 4 Apr Shift 1 · Q58 · Numerical
+### C-DFB-13 — JEE Main 2024 · 4 Apr Shift 1 · Q58 · Numerical
 
 $\text{MnO}_2+\text{KOH}+\text{O}_2\to A+\text{H}_2\text{O}$. Product A in neutral or acidic medium disproportionates to B and C (with water). The sum of the spin-only magnetic moments of B and C is ______ BM (nearest integer). ($Z_{Mn}=25$)
 
@@ -171,17 +141,7 @@ $\text{MnO}_2+\text{KOH}+\text{O}_2\to A+\text{H}_2\text{O}$. Product A in neutr
 
 **Solution.** $A=\text{K}_2\text{MnO}_4$. In acid: $3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$. $\text{MnO}_4^-$ ($d^0$): $\mu=0$. $\text{MnO}_2$ ($\text{Mn}^{4+}$, $d^3$): $\mu=\sqrt{3\times5}=3.87\approx4$ BM. Sum $\approx4$.
 
-### C-DFB-17 — JEE Main 2024 · 4 Apr Shift 2 · Q45 · MCQ
-
-A first-row transition metal in its $+2$ oxidation state has a spin-only magnetic moment of $3.86$ BM. The atomic number of the metal is:
-
-(1) 26  (2) 25  (3) 23  (4) 22
-
-**Answer: (3)** · key ✔
-
-**Solution.** $\mu=\sqrt{n(n+2)}=3.87\Rightarrow n=3$ unpaired electrons, so $M^{2+}$ is $d^3$. $Z=18+3+2=23$ (vanadium: $\text{V}^{2+}=3d^3$).
-
-### C-DFB-18 — JEE Main 2024 · 4 Apr Shift 2 · Q57 · Numerical
+### C-DFB-14 — JEE Main 2024 · 4 Apr Shift 2 · Q57 · Numerical
 
 A first-row transition metal with the highest enthalpy of atomisation reacts with oxygen at high temperature to form oxides $M_2O_n$ ($n=3,4,5$). The spin-only magnetic moment of the amphoteric oxide among these is ______ BM (nearest integer).
 
@@ -189,17 +149,7 @@ A first-row transition metal with the highest enthalpy of atomisation reacts wit
 
 **Solution.** Vanadium has the highest enthalpy of atomisation in the 3d series ($\approx515$ kJ/mol); its oxides are $\text{V}_2\text{O}_3$ (basic), $\text{V}_2\text{O}_4$ and $\text{V}_2\text{O}_5$ (amphoteric). In $\text{V}_2\text{O}_5$ vanadium is $\text{V}^{5+}$ ($d^0$), so $\mu=0$.
 
-### C-DFB-19 — JEE Main 2024 · 5 Apr Shift 1 · Q44 · MCQ
-
-The metal that shows the highest and maximum number of oxidation states is:
-
-(1) Fe  (2) Mn  (3) Co  (4) Ti
-
-**Answer: (2)** · key ✔
-
-**Solution.** Mn shows every oxidation state from $+2$ to $+7$ (also $0$, $+1$ in some compounds): the highest ($+7$) and the largest number of states in the 3d series.
-
-### C-DFB-20 — JEE Main 2024 · 5 Apr Shift 1 · Q57 · Numerical
+### C-DFB-15 — JEE Main 2024 · 5 Apr Shift 1 · Q57 · Numerical
 
 The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$, $\text{Co}^{3+}$ and $\text{Cr}^{2+}$ that acts as a strong oxidising agent in aqueous solution is ______ BM (nearest integer).
 
@@ -207,7 +157,7 @@ The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$
 
 **Solution.** $\text{Ti}^{2+}$, $\text{V}^{2+}$ and $\text{Cr}^{2+}$ are reducing agents. $\text{Co}^{3+}$ is a very strong oxidising agent ($E^\circ_{\text{Co}^{3+}/\text{Co}^{2+}}=+1.97$ V). Taking it as $d^6$ with $4$ unpaired electrons: $\mu=\sqrt{4\times6}=4.9\approx5$ BM.
 
-### C-DFB-21 — JEE Main 2024 · 5 Apr Shift 2 · Q43 · MCQ
+### C-DFB-16 — JEE Main 2024 · 5 Apr Shift 2 · Q43 · MCQ
 
 The number of ions among $\text{Ti}^{2+}$, $\text{Cr}^{2+}$ and $\text{V}^{2+}$ that can liberate hydrogen from a dilute acid is:
 
@@ -217,7 +167,7 @@ The number of ions among $\text{Ti}^{2+}$, $\text{Cr}^{2+}$ and $\text{V}^{2+}$ 
 
 **Solution.** An ion can reduce $\text{H}^+$ if its oxidation half-reaction is more favourable than $E^\circ=0$ for $\text{H}^+/\text{H}_2$. $E^\circ_{\text{Ti}^{3+}/\text{Ti}^{2+}}=-0.37$ V, $E^\circ_{\text{V}^{3+}/\text{V}^{2+}}=-0.26$ V, $E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V; all are negative, so all three ions liberate $\text{H}_2$. Count $=3$.
 
-### C-DFB-22 — JEE Main 2024 · 5 Apr Shift 2 · Q57 · Numerical
+### C-DFB-17 — JEE Main 2024 · 5 Apr Shift 2 · Q57 · Numerical
 
 Fusion of chromite ore with sodium carbonate in the presence of air gives products A and B along with $\text{CO}_2$. The sum of the spin-only magnetic moments of A and B is ______ BM (nearest integer). ($Z$: Fe $26$, Cr $24$)
 
@@ -225,17 +175,7 @@ Fusion of chromite ore with sodium carbonate in the presence of air gives produc
 
 **Solution.** $4\text{FeCr}_2\text{O}_4+8\text{Na}_2\text{CO}_3+7\text{O}_2\to2\text{Fe}_2\text{O}_3+8\text{Na}_2\text{CrO}_4+8\text{CO}_2$. $\text{Fe}_2\text{O}_3$: $\text{Fe}^{3+}$ ($d^5$), $\mu=\sqrt{35}=5.92$ BM. $\text{Na}_2\text{CrO}_4$: $\text{Cr}^{6+}$ ($d^0$), $\mu=0$. Sum $\approx6$ BM.
 
-### C-DFB-23 — JEE Main 2024 · 6 Apr Shift 1 · Q43 · MCQ
-
-The number of elements among Eu, Cm, Er, Tb, Yb and Lu that do not belong to the lanthanoids is:
-
-(1) 3  (2) 4  (3) 1  (4) 5
-
-**Answer: (3)** · key ✔
-
-**Solution.** Eu ($63$), Er ($68$), Tb ($65$), Yb ($70$) and Lu ($71$) are lanthanoids ($Z=58$–$71$). Cm ($Z=96$) is an actinoid. Count $=1$.
-
-### C-DFB-24 — JEE Main 2024 · 6 Apr Shift 1 · Q57 · Numerical
+### C-DFB-18 — JEE Main 2024 · 6 Apr Shift 1 · Q57 · Numerical
 
 Among CrO, $\text{Cr}_2\text{O}_3$ and $\text{CrO}_3$, the sum of the spin-only magnetic moments of the basic and amphoteric oxides is ______ $\times10^{-2}$ BM (nearest integer). ($Z_{Cr}=24$)
 
@@ -243,25 +183,7 @@ Among CrO, $\text{Cr}_2\text{O}_3$ and $\text{CrO}_3$, the sum of the spin-only 
 
 **Solution.** CrO is basic ($\text{Cr}^{2+}$, $d^4$, $4$ unpaired, $\mu=\sqrt{24}=4.90$ BM). $\text{Cr}_2\text{O}_3$ is amphoteric ($\text{Cr}^{3+}$, $d^3$, $\mu=\sqrt{15}=3.87$ BM). $\text{CrO}_3$ is acidic. Sum $=8.77$ BM $=877\times10^{-2}$ BM.
 
-### C-DFB-25 — JEE Main 2024 · 6 Apr Shift 1 · Q58 · Numerical
-
-The difference in the spin-only magnetic moment of $\text{KMnO}_4$ and the manganese product formed during titration of $\text{KMnO}_4$ against oxalic acid in acidic medium is ______ BM (nearest integer).
-
-**Answer: 6** · key ✔
-
-**Solution.** $\text{KMnO}_4$: $\text{Mn}^{7+}$ ($d^0$), $\mu=0$. The product is $\text{Mn}^{2+}$ ($d^5$, $5$ unpaired), $\mu=\sqrt{35}=5.92$ BM. Difference $\approx6$ BM.
-
-### C-DFB-26 — JEE Main 2024 · 6 Apr Shift 2 · Q39 · MCQ
-
-Arrange in increasing order of the number of unpaired electrons in the atom: (A) Sc, (B) Cr, (C) V, (D) Ti, (E) Mn.
-
-(1) A < D < C < B < E  (2) C < E < B < A < D  (3) A < D < C < E < B  (4) B < C < D < E < A
-
-**Answer: (3)** · key ✔
-
-**Solution.** Ground-state configurations: Sc $3d^14s^2$ ($1$); Ti $3d^24s^2$ ($2$); V $3d^34s^2$ ($3$); Mn $3d^54s^2$ ($5$); Cr $3d^54s^1$ ($6$). Order: Sc < Ti < V < Mn < Cr, i.e. A < D < C < E < B.
-
-### C-DFB-27 — JEE Main 2024 · 6 Apr Shift 2 · Q56 · Numerical
+### C-DFB-19 — JEE Main 2024 · 6 Apr Shift 2 · Q56 · Numerical
 
 Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the spin-only magnetic moment of the species with the least oxidising ability is ______ BM (nearest integer).
 
@@ -269,7 +191,7 @@ Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the sp
 
 **Solution.** $E^\circ$: $\text{MnO}_4^-/\text{Mn}^{2+}=+1.51$ V, $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=+1.33$ V, $\text{VO}_2^+/\text{VO}^{2+}=+1.00$ V, so $\text{VO}_2^+$ is the weakest oxidant. It contains $\text{V}^{5+}$ ($d^0$): $\mu=0$.
 
-### C-DFB-28 — JEE Main 2024 · 8 Apr Shift 1 · Q57 · Numerical
+### C-DFB-20 — JEE Main 2024 · 8 Apr Shift 1 · Q57 · Numerical
 
 The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with the least metallic radius among Sc, Ti, V, Cr, Mn and Zn, is ______ BM. ($Z$: Sc $21$, Ti $22$, V $23$, Cr $24$, Mn $25$, Zn $30$)
 
@@ -277,7 +199,7 @@ The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with t
 
 **Solution.** Metallic radii (pm): Sc $164$, Ti $147$, V $135$, Mn $137$, Zn $134$, Cr $129$. Cr has the smallest (strong metallic bonding through the $d^5$ and half-filled $4s$). $\text{CrO}_4^{2-}$: $\text{Cr}^{6+}$ ($d^0$), so $\mu=0$.
 
-### C-DFB-29 — JEE Main 2024 · 8 Apr Shift 2 · Q34 · MCQ
+### C-DFB-21 — JEE Main 2024 · 8 Apr Shift 2 · Q34 · MCQ
 
 The equilibrium $\text{Cr}_2\text{O}_7^{2-}\rightleftharpoons2\text{CrO}_4^{2-}$ is shifted to the right in:
 
@@ -287,7 +209,7 @@ The equilibrium $\text{Cr}_2\text{O}_7^{2-}\rightleftharpoons2\text{CrO}_4^{2-}$
 
 **Solution.** $\text{Cr}_2\text{O}_7^{2-}+2\text{OH}^-\rightleftharpoons2\text{CrO}_4^{2-}+\text{H}_2\text{O}$. Alkali removes $\text{H}^+$ and drives the equilibrium to chromate (yellow); acid drives it back to dichromate (orange).
 
-### C-DFB-30 — JEE Main 2024 · 8 Apr Shift 2 · Q44 · MCQ
+### C-DFB-22 — JEE Main 2024 · 8 Apr Shift 2 · Q44 · MCQ
 
 Statement I: Fusion of $\text{MnO}_2$ with KOH and an oxidising agent gives dark green $\text{K}_2\text{MnO}_4$.
 Statement II: Manganate ion on electrolytic oxidation in alkaline medium gives permanganate ion.
@@ -298,7 +220,7 @@ Statement II: Manganate ion on electrolytic oxidation in alkaline medium gives p
 
 **Solution.** $2\text{MnO}_2+4\text{KOH}+\text{O}_2\to2\text{K}_2\text{MnO}_4+2\text{H}_2\text{O}$ (green). Electrolytic oxidation in alkali: $\text{MnO}_4^{2-}\to\text{MnO}_4^-+e^-$ (purple). Both true.
 
-### C-DFB-31 — JEE Main 2024 · 9 Apr Shift 1 · Q44 · MCQ
+### C-DFB-23 — JEE Main 2024 · 9 Apr Shift 1 · Q44 · MCQ
 
 The electronic configuration of Cu(II) is $3d^9$ whereas that of Cu(I) is $3d^{10}$. Which is correct?
 
@@ -308,7 +230,7 @@ The electronic configuration of Cu(II) is $3d^9$ whereas that of Cu(I) is $3d^{1
 
 **Solution.** In aqueous solution $\text{Cu}^{2+}$ is more stable than $\text{Cu}^+$: the much higher (negative) hydration enthalpy of $\text{Cu}^{2+}$ more than compensates for the second ionisation enthalpy. As a result $\text{Cu}^+$ disproportionates: $2\text{Cu}^+\to\text{Cu}^{2+}+\text{Cu}$.
 
-### C-DFB-32 — JEE Main 2024 · 9 Apr Shift 1 · Q58 · Numerical
+### C-DFB-24 — JEE Main 2024 · 9 Apr Shift 1 · Q58 · Numerical
 
 The number of colourless lanthanoid ions among $\text{Eu}^{3+}$, $\text{Lu}^{3+}$, $\text{Nd}^{3+}$, $\text{La}^{3+}$, $\text{Sm}^{3+}$ is ______.
 
@@ -316,7 +238,7 @@ The number of colourless lanthanoid ions among $\text{Eu}^{3+}$, $\text{Lu}^{3+}
 
 **Solution.** Ions with $4f^0$ ($\text{La}^{3+}$) and $4f^{14}$ ($\text{Lu}^{3+}$) have no $f$–$f$ transitions and are colourless. $\text{Nd}^{3+}$ (lilac), $\text{Sm}^{3+}$ (yellow) and $\text{Eu}^{3+}$ (pale pink) show colour. Count $=2$.
 
-### C-DFB-33 — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
+### C-DFB-25 — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
 
 The pair(s) of diamagnetic ions is(are):
 
@@ -326,7 +248,7 @@ The pair(s) of diamagnetic ions is(are):
 
 **Solution.** Diamagnetic means no unpaired electrons. $\text{La}^{3+}$ and $\text{Ce}^{4+}$ are $4f^0$; $\text{Yb}^{2+}$ and $\text{Lu}^{3+}$ are $4f^{14}$: pairs (A) and (B). $\text{Ce}^{3+}$ ($4f^1$), $\text{La}^{2+}$ ($5d^1$ or $4f^1$), $\text{Yb}^{3+}$ ($4f^{13}$) and $\text{Lu}^{2+}$ ($4f^{14}6s^1$/$5d^1$) each have an unpaired electron.
 
-### C-DFB-34 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
+### C-DFB-26 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
 
 One of the products from the reaction of permanganate ion with iodide ion in neutral aqueous medium is:
 

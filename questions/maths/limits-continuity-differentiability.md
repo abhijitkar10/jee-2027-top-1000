@@ -42,17 +42,7 @@ Consider $f:(0,2)\to\mathbb R$, $f(x)=\dfrac x2+\dfrac2x$, and $g(x)=\begin{case
 
 **Solution.** $f'(x)=\tfrac12-\tfrac2{x^2}<0$ on $(0,2)$, so $f$ is decreasing and $\min_{0<t\le x}f(t)=f(x)$. Thus $g(x)=\tfrac x2+\tfrac2x$ on $(0,1]$ with $g(1)=\tfrac52$, and $g(1^+)=\tfrac32+1=\tfrac52$: continuous. Left derivative $\tfrac12-2=-\tfrac32$, right derivative $1$: unequal, so not differentiable at $x=1$.
 
-### M-LCD-05 — JEE Main 2024 · 30 Jan Shift 1 · Q68 · MCQ
-
-Let $f:\left[-\dfrac\pi2,\dfrac\pi2\right]\to\mathbb R$ be a differentiable function with $f(0)=\dfrac12$. If $\displaystyle\lim_{x\to0}\frac{x\int_0^xf(t)\,dt}{e^{x^2}-1}=\alpha$, then $8\alpha^2$ is equal to
-
-(1) 16  (2) 2  (3) 1  (4) 4
-
-**Answer: (2)** · key ✔
-
-**Solution.** Near $0$: $\int_0^xf(t)dt\approx xf(0)=\tfrac x2$ and $e^{x^2}-1\approx x^2$. So the limit is $\dfrac{x\cdot x/2}{x^2}=\tfrac12=\alpha$, and $8\alpha^2=2$.
-
-### M-LCD-06 — JEE Main 2024 · 30 Jan Shift 1 · Q87 · Numerical
+### M-LCD-05 — JEE Main 2024 · 30 Jan Shift 1 · Q87 · Numerical
 
 If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\end{cases}$ is differentiable on $\mathbb R$, then $48(a+b)$ is equal to ______.
 
@@ -60,7 +50,7 @@ If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\en
 
 **Solution.** At $x=2$: continuity gives $4a+2b=\tfrac12$. Differentiability: right derivative $-\dfrac1{x^2}=-\tfrac14$ equals left derivative $2ax=4a$, so $a=-\tfrac1{16}$. Then $-\tfrac14+2b=\tfrac12\Rightarrow b=\tfrac38$. $a+b=\tfrac5{16}$ and $48(a+b)=15$. (The function is even, so $x=-2$ gives the same conditions.)
 
-### M-LCD-07 — JEE Main 2024 · 30 Jan Shift 2 · Q72 · MCQ
+### M-LCD-06 — JEE Main 2024 · 30 Jan Shift 2 · Q72 · MCQ
 
 Let $a$ and $b$ be real constants such that $f(x)=\begin{cases}x^2+3x+a,&x\le1\\bx+2,&x>1\end{cases}$ is differentiable on $\mathbb R$. Then $\displaystyle\int_{-2}^2f(x)\,dx$ equals
 
@@ -70,7 +60,7 @@ Let $a$ and $b$ be real constants such that $f(x)=\begin{cases}x^2+3x+a,&x\le1\\
 
 **Solution.** Differentiability at $1$: derivatives $2+3=5=b$. Continuity: $1+3+a=b+2\Rightarrow a=3$. $\int_{-2}^1(x^2+3x+3)dx=\left[\tfrac{x^3}3+\tfrac{3x^2}2+3x\right]_{-2}^1=\tfrac{29}6-\left(-\tfrac83\right)=7.5$ and $\int_1^2(5x+2)dx=\left[\tfrac{5x^2}2+2x\right]_1^2=14-4.5=9.5$. Total $=17$.
 
-### M-LCD-08 — JEE Main 2024 · 30 Jan Shift 2 · Q73 · MCQ
+### M-LCD-07 — JEE Main 2024 · 30 Jan Shift 2 · Q73 · MCQ
 
 Let $f:\mathbb R-\{0\}\to\mathbb R$ satisfy $f\!\left(\dfrac xy\right)=\dfrac{f(x)}{f(y)}$ for all $x,y$ with $f(y)\ne0$. If $f'(1)=2024$, then
 
@@ -80,17 +70,7 @@ Let $f:\mathbb R-\{0\}\to\mathbb R$ satisfy $f\!\left(\dfrac xy\right)=\dfrac{f(
 
 **Solution.** Differentiate with respect to $x$ (keeping $y$ fixed): $\dfrac1yf'\!\left(\dfrac xy\right)=\dfrac{f'(x)}{f(y)}$. Put $y=x$: $\dfrac1xf'(1)=\dfrac{f'(x)}{f(x)}\Rightarrow xf'(x)=2024f(x)$, i.e. $xf'(x)-2024f(x)=0$. (Indeed $f(x)=x^{2024}$ works.)
 
-### M-LCD-09 — JEE Main 2024 · 31 Jan Shift 1 · Q67 · MCQ
-
-$\displaystyle\lim_{x\to0}\dfrac{e^{2\sin x}-2\sin x-1}{x^2}$
-
-(1) is equal to $-1$  (2) does not exist  (3) is equal to $1$  (4) is equal to $2$
-
-**Answer: (4)** · key ✔
-
-**Solution.** Let $u=2\sin x\to0$. $e^u-u-1=\dfrac{u^2}2+\dots$, so the numerator $\approx\dfrac{(2\sin x)^2}2=2\sin^2x\approx2x^2$. The limit is $2$.
-
-### M-LCD-10 — JEE Main 2024 · 31 Jan Shift 2 · Q69 · MCQ
+### M-LCD-08 — JEE Main 2024 · 31 Jan Shift 2 · Q69 · MCQ
 
 Let $f:\mathbb R\to(0,\infty)$ be a strictly increasing function such that $\displaystyle\lim_{x\to\infty}\frac{f(7x)}{f(x)}=1$. Then the value of $\displaystyle\lim_{x\to\infty}\left(\frac{f(5x)}{f(x)}-1\right)$ is equal to
 
@@ -100,7 +80,7 @@ Let $f:\mathbb R\to(0,\infty)$ be a strictly increasing function such that $\dis
 
 **Solution.** Since $f$ is strictly increasing, for $x>0$: $f(x)<f(5x)<f(7x)$, so $1<\dfrac{f(5x)}{f(x)}<\dfrac{f(7x)}{f(x)}\to1$. By the squeeze theorem $\dfrac{f(5x)}{f(x)}\to1$ and the required limit is $0$.
 
-### M-LCD-11 — JEE Main 2024 · 1 Feb Shift 1 · Q73 · MCQ
+### M-LCD-09 — JEE Main 2024 · 1 Feb Shift 1 · Q73 · MCQ
 
 Let $f:\mathbb R\to\mathbb R$ be $f(x)=\begin{cases}\dfrac{a-b\cos2x}{x^2}, & x<0\\ x^2+cx+2, & 0\le x\le1\\ 2x+1, & x>1\end{cases}$. If $f$ is continuous everywhere and $m$ is the number of points where $f$ is NOT differentiable, then $m+a+b+c$ equals:
 
@@ -110,7 +90,7 @@ Let $f:\mathbb R\to\mathbb R$ be $f(x)=\begin{cases}\dfrac{a-b\cos2x}{x^2}, & x<
 
 **Solution.** For the left limit at $0$ to exist we need $a=b$; then $\dfrac{a(1-\cos2x)}{x^2}=\dfrac{2a\sin^2x}{x^2}\to 2a$. Continuity: $2a=2\Rightarrow a=b=1$. At $x=1$: $1+c+2=3\Rightarrow c=0$. Derivatives: at $0^-$ the function $2\sin^2x/x^2=2-\tfrac23x^2+\dots$ has slope $0$, and at $0^+$ the slope is $c=0$; at $1^-$ slope is $2x+c=2$ and at $1^+$ it is $2$. So $f$ is differentiable everywhere, $m=0$, and $m+a+b+c=2$.
 
-### M-LCD-12 — JEE Main 2024 · 4 Apr Shift 1 · Q73 · MCQ
+### M-LCD-10 — JEE Main 2024 · 4 Apr Shift 1 · Q73 · MCQ
 
 Let $f(x)=\begin{cases}\dfrac{1-\cos2x}{x^2}, & x<0\\ \alpha, & x=0\\ \dfrac{\beta\sqrt{1-\cos x}}{x}, & x>0\end{cases}$. If $f$ is continuous at $x=0$, then $\alpha^2+\beta^2$ is:
 
@@ -120,7 +100,7 @@ Let $f(x)=\begin{cases}\dfrac{1-\cos2x}{x^2}, & x<0\\ \alpha, & x=0\\ \dfrac{\be
 
 **Solution.** Left limit: $\dfrac{2\sin^2x}{x^2}\to2$. Right limit: $\dfrac{\beta\sqrt2\,|\sin(x/2)|}{x}\to\dfrac{\beta\sqrt2}{2}=\dfrac\beta{\sqrt2}$ as $x\to0^+$. Equating: $\alpha=2$, $\beta=2\sqrt2$. $\alpha^2+\beta^2=4+8=12$.
 
-### M-LCD-13 — JEE Main 2024 · 4 Apr Shift 2 · Q68 · MCQ
+### M-LCD-11 — JEE Main 2024 · 4 Apr Shift 2 · Q68 · MCQ
 
 Let $f(x)=\displaystyle\int_0^x\left(t+\sin(1-e^t)\right)dt$. Then $\displaystyle\lim_{x\to0}\frac{f(x)}{x^3}$ is:
 
@@ -130,7 +110,7 @@ Let $f(x)=\displaystyle\int_0^x\left(t+\sin(1-e^t)\right)dt$. Then $\displaystyl
 
 **Solution.** By L'Hôpital: $\lim\dfrac{x+\sin(1-e^x)}{3x^2}$. With $u=1-e^x=-x-\tfrac{x^2}{2}-\tfrac{x^3}{6}$ and $\sin u=u-\tfrac{u^3}{6}=-x-\tfrac{x^2}2-\tfrac{x^3}6+\tfrac{x^3}{6}+\dots$, we get $x+\sin u=-\tfrac{x^2}{2}+O(x^4)$. Limit $=\dfrac{-1/2}{3}=-\dfrac16$.
 
-### M-LCD-14 — JEE Main 2024 · 4 Apr Shift 2 · Q73 · MCQ
+### M-LCD-12 — JEE Main 2024 · 4 Apr Shift 2 · Q73 · MCQ
 
 If $f(x)=\begin{cases}\dfrac{72^x-9^x-8^x+1}{\sqrt2-\sqrt{1+\cos x}}, & x\ne0\\ a\ln2\ln3, & x=0\end{cases}$ is continuous at $x=0$, then $a^2$ is:
 
@@ -140,7 +120,7 @@ If $f(x)=\begin{cases}\dfrac{72^x-9^x-8^x+1}{\sqrt2-\sqrt{1+\cos x}}, & x\ne0\\ 
 
 **Solution.** Numerator $=(9^x-1)(8^x-1)\approx(x\ln9)(x\ln8)=6\ln2\ln3\,x^2$. Denominator: $\sqrt{1+\cos x}=\sqrt{2-x^2/2}\approx\sqrt2\left(1-\tfrac{x^2}{8}\right)$, so $\sqrt2-\sqrt{1+\cos x}\approx\dfrac{\sqrt2x^2}{8}$. Limit $=\dfrac{6\cdot8}{\sqrt2}\ln2\ln3=24\sqrt2\ln2\ln3$. So $a=24\sqrt2$ and $a^2=1152$.
 
-### M-LCD-15 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
+### M-LCD-13 — JEE Advanced 2025 · Paper 1 · Q3 · MCQ
 
 Define $f:\mathbb R\to\mathbb R$ by $f(x)=2-2x^2-x^2\sin\dfrac1x$ for $x\ne0$ and $f(0)=2$. Which statement is TRUE?
 
@@ -150,7 +130,7 @@ Define $f:\mathbb R\to\mathbb R$ by $f(x)=2-2x^2-x^2\sin\dfrac1x$ for $x\ne0$ an
 
 **Solution.** $\dfrac{f(h)-f(0)}{h}=-2h-h\sin\dfrac1h\to0$, so $f'(0)=0$ and (A) is false. Because $x^2(2+\sin\tfrac1x)>0$ for $x\ne0$, $f(x)<2=f(0)$: $x=0$ is a local *maximum*, so (D) is false. For $x\ne0$, $f'(x)=-4x-2x\sin\dfrac1x+\cos\dfrac1x$; near $0$ the term $\cos\dfrac1x$ dominates and changes sign infinitely often, so $f$ is not monotonic on any $(0,\delta)$ nor $(-\delta,0)$: (B) is false and (C) is true.
 
-### M-LCD-16 — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
+### M-LCD-14 — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
 
 Let $\alpha,\beta$ be real numbers such that $\displaystyle\lim_{x\to0}\frac1{x^3}\left(\frac\alpha2\int_0^x\frac{dt}{1-t^2}+\beta x\cos x\right)=2$. Then $\alpha+\beta=$ ______.
 

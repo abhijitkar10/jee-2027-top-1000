@@ -38,23 +38,7 @@ If the mean and variance of five observations are $\dfrac{24}5$ and $\dfrac{194}
 
 **Solution.** Total $=24$; the first four sum to $14$, so the fifth is $10$. $\sum x_i^2=5\left(\tfrac{194}{25}+\tfrac{576}{25}\right)=154$. For the first four: $\sum x^2=154-100=54$. Variance $=\dfrac{54}4-\left(\tfrac72\right)^2=13.5-12.25=\tfrac54$.
 
-### M-STA-05 — JEE Main 2024 · 30 Jan Shift 1 · Q69 · MCQ
-
-Let $M$ denote the median of the following frequency distribution.
-
-| Class | 0–4 | 4–8 | 8–12 | 12–16 | 16–20 |
-|---|---|---|---|---|---|
-| Frequency | 3 | 9 | 10 | 8 | 6 |
-
-Then $20M$ is equal to
-
-(1) 416  (2) 104  (3) 52  (4) 208
-
-**Answer: (4)** · key ✔
-
-**Solution.** $N=36$, $\tfrac N2=18$. Cumulative frequencies: $3,12,22,\dots$, so the median class is $8$–$12$. $M=l+\dfrac{N/2-F}{f}h=8+\dfrac{18-12}{10}(4)=8+2.4=10.4$. So $20M=208$.
-
-### M-STA-06 — JEE Main 2024 · 30 Jan Shift 2 · Q86 · Numerical
+### M-STA-05 — JEE Main 2024 · 30 Jan Shift 2 · Q86 · Numerical
 
 For the data below, the variance is $\sigma^2=k$. Find $[k]$, where $[\cdot]$ denotes the greatest integer function.
 
@@ -66,7 +50,7 @@ For the data below, the variance is $\sigma^2=k$. Find $[k]$, where $[\cdot]$ de
 
 **Solution.** $N=22$, $\sum f_ix_i=0+2+15+12+60+36+51=176$, so the mean is $8$. $\sum f_ix_i^2=0+2+75+72+600+432+867=2048$. Variance $=\dfrac{2048}{22}-64=93.09-64=29.09$, so $[k]=29$.
 
-### M-STA-07 — JEE Main 2024 · 31 Jan Shift 2 · Q70 · MCQ
+### M-STA-06 — JEE Main 2024 · 31 Jan Shift 2 · Q70 · MCQ
 
 The mean and the variance of the $6$ observations $a,b,68,44,48,60$ are $55$ and $194$ respectively. If $a>b$, then $a+3b$ is
 

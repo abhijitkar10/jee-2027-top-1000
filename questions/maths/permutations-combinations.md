@@ -64,17 +64,7 @@ The total number of words (with or without meaning) that can be formed out of th
 
 **Solution.** Letters: $I\times3$, $T\times2$ and seven single letters $D,S,R,B,U,O,N$. Cases: all four distinct from $9$ types: $P(9,4)=3024$. Exactly one letter repeated twice ($I$ or $T$) with two other distinct letters: $2\times\binom82\times\dfrac{4!}{2!}=2\times28\times12=672$. Two pairs ($II\,TT$): $\dfrac{4!}{2!2!}=6$. Three $I$'s and one other letter: $8\times\dfrac{4!}{3!}=32$. Total $=3024+672+6+32=3734$.
 
-### M-PNC-08 — JEE Main 2024 · 31 Jan Shift 2 · Q63 · MCQ
-
-The number of ways in which $21$ identical apples can be distributed among three children such that each child gets at least $2$ apples is
-
-(1) 406  (2) 130  (3) 142  (4) 136
-
-**Answer: (4)** · key ✔
-
-**Solution.** Give each child $2$ apples first; $15$ remain to be distributed freely: solutions of $y_1+y_2+y_3=15$ in non-negative integers number ${}^{15+2}C_2={}^{17}C_2=136$.
-
-### M-PNC-09 — JEE Main 2024 · 1 Feb Shift 2 · Q81 · Numerical
+### M-PNC-08 — JEE Main 2024 · 1 Feb Shift 2 · Q81 · Numerical
 
 The lines $L_1,\dots,L_{20}$ are distinct. For $n=1,\dots,10$ all lines $L_{2n-1}$ are parallel to each other and all lines $L_{2n}$ pass through a given point $P$. The maximum number of points of intersection of pairs of lines from the set is ______.
 
@@ -82,17 +72,7 @@ The lines $L_1,\dots,L_{20}$ are distinct. For $n=1,\dots,10$ all lines $L_{2n-1
 
 **Solution.** Total pairs $\binom{20}{2}=190$. The $10$ parallel lines give no points: subtract $\binom{10}2=45$. The $10$ concurrent lines meet in one point instead of $45$: subtract $45$, add $1$. Total $=190-45-45+1=101$.
 
-### M-PNC-10 — JEE Main 2024 · 4 Apr Shift 1 · Q63 · MCQ
-
-There are $5$ points $P_1,\dots,P_5$ on side $AB$, $6$ points $P_6,\dots,P_{11}$ on side $BC$ and $7$ points $P_{12},\dots,P_{18}$ on side $CA$ of a triangle $ABC$ (excluding the vertices). The number of triangles that can be formed using $P_1,\dots,P_{18}$ as vertices is:
-
-(1) 776  (2) 796  (3) 751  (4) 771
-
-**Answer: (3)** · key ✔
-
-**Solution.** Choose any $3$ of $18$ points and discard collinear triples: $\binom{18}3-\binom53-\binom63-\binom73=816-10-20-35=751$.
-
-### M-PNC-11 — JEE Advanced 2025 · Paper 1 · Q10 · Numerical
+### M-PNC-09 — JEE Advanced 2025 · Paper 1 · Q10 · Numerical
 
 Let $S$ be the set of all seven-digit numbers formed using the digits $0,1,2$ (the leading digit is nonzero). The number of elements $x\in S$ such that at least one of the digits $0$ and $1$ appears exactly twice in $x$ is ______.
 
