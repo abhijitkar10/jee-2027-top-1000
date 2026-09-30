@@ -42,3 +42,11 @@ For $x\in\left(-\dfrac\pi2,\dfrac\pi2\right)$, let $y(x)=\displaystyle\int\frac{
 
 **Solution.** Numerator: $\dfrac{1+\sin^2x}{\sin x}$. Denominator: $\dfrac{1+\sin^4x}{\sin x\cos x}$. The integrand is $\dfrac{\cos x\,(1+\sin^2x)}{1+\sin^4x}$. With $u=\sin x$: $\displaystyle\int\frac{1+u^2}{1+u^4}du=\frac1{\sqrt2}\tan^{-1}\!\left(\frac{u-1/u}{\sqrt2}\right)+C$. As $x\to\tfrac\pi2$, $u\to1$ and the $\tan^{-1}$ term $\to0$, so $C=0$. At $x=\tfrac\pi4$, $u=\tfrac1{\sqrt2}$: $\dfrac{u-1/u}{\sqrt2}=\dfrac{-1/\sqrt2}{\sqrt2}=-\tfrac12$, giving $y=\dfrac1{\sqrt2}\tan^{-1}\!\left(-\tfrac12\right)$.
 
+### M-DEF-05 — JEE Main 2024 · 29 Jan Shift 2 · Q88 · Numerical
+
+If $\displaystyle\int_{\pi/6}^{\pi/3}\sqrt{1-\sin2x}\,dx=\alpha+\beta\sqrt2+\gamma\sqrt3$, where $\alpha,\beta,\gamma$ are rational numbers, then $3\alpha+4\beta-\gamma$ is equal to ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** $\sqrt{1-\sin2x}=|\cos x-\sin x|$, which is positive for $x<\tfrac\pi4$ and negative after. $\int_{\pi/6}^{\pi/4}(\cos x-\sin x)dx=\left[\sin x+\cos x\right]=\sqrt2-\tfrac12-\tfrac{\sqrt3}2$ and $\int_{\pi/4}^{\pi/3}(\sin x-\cos x)dx=\left[-\cos x-\sin x\right]=\sqrt2-\tfrac12-\tfrac{\sqrt3}2$. Total $=-1+2\sqrt2-\sqrt3$, so $\alpha=-1,\beta=2,\gamma=-1$ and $3\alpha+4\beta-\gamma=-3+8+1=6$.
+

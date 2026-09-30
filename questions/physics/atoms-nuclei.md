@@ -56,3 +56,22 @@ When a hydrogen atom goes from $n=2$ to $n=1$ it emits a photon, and its recoil 
 
 **Solution.** $E=13.6\left(1-\tfrac14\right)=10.2$ eV $=1.632\times10^{-18}$ J. Photon momentum $p=E/c=5.44\times10^{-27}$ kg m/s. Recoil speed $v=\dfrac pm=\dfrac{5.44\times10^{-27}}{1.6\times10^{-27}}=3.4=\dfrac{17}5$ m/s, so $x=17$.
 
+### P-ATN-07 — JEE Main 2024 · 29 Jan Shift 2 · Q19 · MCQ
+
+Statement I: Most of the mass of the atom and all its positive charge are concentrated in a tiny nucleus and the electrons revolve around it, is Rutherford's model.
+Statement II: An atom is a spherical cloud of positive charges with electrons embedded in it, is a special case of Rutherford's model.
+
+(1) Both false  (2) I false, II true  (3) I true, II false  (4) Both true
+
+**Answer: (3)** · key ✔
+
+**Solution.** I correctly states Rutherford's nuclear model. II describes Thomson's plum-pudding model, which Rutherford's $\alpha$-scattering experiment disproved; it is not a special case of Rutherford's model.
+
+### P-ATN-08 — JEE Main 2024 · 29 Jan Shift 2 · Q30 · Numerical
+
+A hydrogen atom is bombarded with electrons accelerated through a potential difference $V$, which causes excitation of hydrogen atoms. If the experiment is performed at $T=0$ K, the minimum potential difference needed to observe any Balmer series lines in the emission spectrum will be $\dfrac\alpha{10}$ V. Find $\alpha$ (nearest integer).
+
+**Answer: 121** · key ✔
+
+**Solution.** At $0$ K all atoms are in $n=1$. A Balmer line ($n\to2$) requires some atoms to reach at least $n=3$: $\Delta E=13.6\left(1-\tfrac19\right)=12.09$ eV, so $V_{\min}=12.09\ \text{V}\approx\dfrac{121}{10}$ V, giving $\alpha=121$.
+

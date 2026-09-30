@@ -32,3 +32,14 @@ Appearance of a blood-red colour on treating the sodium fusion extract of an org
 
 **Solution.** In Lassaigne's test, sodium fusion converts N and S to $\text{NaSCN}$ when both are present. $\text{SCN}^-$ then reacts with $\text{Fe}^{3+}$ (from air oxidation of $\text{Fe}^{2+}$) to give the blood-red $[\text{Fe(SCN)}]^{2+}$. N alone gives Prussian blue and S alone gives a violet colour with nitroprusside.
 
+### C-PRO-04 — JEE Main 2024 · 29 Jan Shift 2 · Q38 · MCQ
+
+Chromatographic technique(s) based on the principle of differential adsorption is/are:
+A. Column chromatography  B. Thin layer chromatography  C. Paper chromatography
+
+(1) B only  (2) A only  (3) A and B only  (4) C only
+
+**Answer: (3)** · key ✔
+
+**Solution.** Column and thin-layer chromatography use a solid adsorbent (alumina/silica gel) and separate by differing adsorption of components. Paper chromatography is a partition technique between water held in the cellulose and the mobile phase.
+

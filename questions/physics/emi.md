@@ -28,3 +28,11 @@ A square loop of side $10$ cm and resistance $0.7\ \Omega$ is placed vertically 
 
 **Solution.** The loop's normal points north–south, so the field (north-east) makes $45^\circ$ with it. $\Phi=BA\cos45^\circ=0.20\times0.01\times\dfrac1{\sqrt2}=\sqrt2\times10^{-3}$ Wb. Emf $=\dfrac{\Delta\Phi}{\Delta t}=\sqrt2\times10^{-3}$ V, so $x=2$.
 
+### P-EMI-04 — JEE Main 2024 · 29 Jan Shift 2 · Q27 · Numerical
+
+A horizontal straight wire $5$ m long, extending from east to west, falls freely at right angles to the horizontal component of the earth's magnetic field $0.60\times10^{-4}\ \text{Wb m}^{-2}$. The instantaneous emf induced in the wire when its velocity is $10\ \text{m s}^{-1}$ is ______ $\times10^{-3}$ V.
+
+**Answer: 3** · key ✔
+
+**Solution.** Motional emf $\varepsilon=Blv=0.60\times10^{-4}\times5\times10=3\times10^{-3}$ V.
+

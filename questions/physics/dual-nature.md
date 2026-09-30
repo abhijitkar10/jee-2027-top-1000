@@ -32,3 +32,13 @@ The de Broglie wavelength of an electron is the same as that of a photon. If the
 
 **Solution.** Equal wavelengths mean equal momentum $p$. For the electron $K_e=\tfrac12pv$ (non-relativistic), and for the photon $E=pc$. So $\dfrac{K_e}{E}=\dfrac{v}{2c}=\dfrac{0.25}{2}=\dfrac18$.
 
+### P-DUL-04 — JEE Main 2024 · 29 Jan Shift 2 · Q18 · MCQ
+
+Two sources of light each emit with a power of $200$ W. The ratio of the number of photons of visible light emitted per second by the sources having wavelengths $300$ nm and $500$ nm respectively will be
+
+(1) 1 : 5  (2) 1 : 3  (3) 5 : 3  (4) 3 : 5
+
+**Answer: (4)** · key ✔
+
+**Solution.** Number of photons per second $n=\dfrac{P}{hc/\lambda}\propto\lambda$ at equal power. So $n_1:n_2=300:500=3:5$.
+

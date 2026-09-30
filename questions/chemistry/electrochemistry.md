@@ -69,3 +69,11 @@ The mass of zinc produced by the electrolysis of zinc sulphate solution with a s
 
 **Solution.** $Q=It=0.015\times900=13.5$ C. Moles of $e^-=\dfrac{13.5}{96500}=1.399\times10^{-4}$. $\text{Zn}^{2+}+2e^-\to\text{Zn}$, so $m=\dfrac{65.4}{2}\times1.399\times10^{-4}=4.575\times10^{-3}$ g $\approx46\times10^{-4}$ g.
 
+### C-ELC-08 — JEE Main 2024 · 29 Jan Shift 2 · Q58 · Numerical
+
+A constant current was passed through a solution of $\text{AuCl}_4^-$ between gold electrodes. After $10.0$ minutes, the increase in mass of the cathode was $1.314$ g. The total charge passed through the solution is ______ $\times10^{-2}$ F. (Atomic mass of Au $=197$)
+
+**Answer: 2** · key ✔
+
+**Solution.** $\text{Au}^{3+}+3e^-\to\text{Au}$. Moles of Au $=\dfrac{1.314}{197}=6.67\times10^{-3}$, so charge $=3\times6.67\times10^{-3}=2.0\times10^{-2}$ F.
+

@@ -43,3 +43,21 @@ The radii of curvature of the paths of two particles of the same mass are in the
 
 **Solution.** $F=\dfrac{mv^2}{r}$ is the same for both, so $v\propto\sqrt r$: $\dfrac{v_1}{v_2}=\sqrt{\dfrac34}=\dfrac{\sqrt3}2$.
 
+### P-LOM-05 — JEE Main 2024 · 29 Jan Shift 2 · Q3 · MCQ
+
+A stone of mass $900$ g is tied to a string and moved in a vertical circle of radius $1$ m making $10$ rpm. The tension in the string when the stone is at the lowest point is (take $\pi^2=9.8$ and $g=9.8\ \text{m s}^{-2}$)
+
+(1) 97 N  (2) 9.8 N  (3) 8.82 N  (4) 17.8 N
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\omega=\dfrac{2\pi\times10}{60}=\dfrac\pi3$, so $\omega^2=\dfrac{\pi^2}9=\dfrac{9.8}9$. At the lowest point $T-mg=m\omega^2r\Rightarrow T=0.9\left(9.8+\dfrac{9.8}{9}\right)=0.9\times9.8\times\dfrac{10}9=9.8$ N.
+
+### P-LOM-06 — JEE Main 2024 · 29 Jan Shift 2 · Q21 · Numerical
+
+A particle moves in a circle of radius $50$ cm so that at any instant the normal and tangential components of its acceleration are equal. If its speed at $t=0$ is $4\ \text{m s}^{-1}$, the time taken to complete the first revolution is $\dfrac1\alpha\left[1-e^{-2\pi}\right]$ s. Find $\alpha$.
+
+**Answer: 8** · key ✔
+
+**Solution.** $a_t=a_n\Rightarrow v\dfrac{dv}{ds}=\dfrac{v^2}{r}\Rightarrow\dfrac{dv}{ds}=\dfrac vr\Rightarrow v=v_0e^{s/r}$. Then $\dfrac{ds}{dt}=v_0e^{s/r}\Rightarrow\int_0^{2\pi r}e^{-s/r}ds=v_0t\Rightarrow r\left(1-e^{-2\pi}\right)=v_0t$. So $t=\dfrac{0.5}{4}\left(1-e^{-2\pi}\right)=\dfrac18\left(1-e^{-2\pi}\right)$ and $\alpha=8$.
+

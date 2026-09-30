@@ -30,3 +30,13 @@ A fair die is thrown until $6$ appears. Then the probability that $6$ appears in
 
 **Solution.** $P=\sum_{k\ge1}\left(\tfrac56\right)^{2k-1}\tfrac16=\dfrac{\tfrac56\cdot\tfrac16}{1-\tfrac{25}{36}}=\dfrac{5/36}{11/36}=\dfrac5{11}$.
 
+### M-PRB-04 — JEE Main 2024 · 29 Jan Shift 2 · Q80 · MCQ
+
+An integer is chosen at random from the integers $1,2,3,\dots,50$. The probability that the chosen integer is a multiple of at least one of $4$, $6$ and $7$ is
+
+(1) $\tfrac8{25}$  (2) $\tfrac{21}{50}$  (3) $\tfrac9{50}$  (4) $\tfrac{14}{25}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Inclusion–exclusion: multiples of $4$: $12$, of $6$: $8$, of $7$: $7$; of $\text{lcm}(4,6)=12$: $4$, of $28$: $1$, of $42$: $1$, of $84$: $0$. Union $=12+8+7-4-1-1+0=21$. Probability $=\dfrac{21}{50}$.
+

@@ -51,3 +51,11 @@ The number of compounds among the following that contain sulphur as a heteroatom
 
 **Solution.** Furan has O, pyridine and pyrrole have N, and tyrosine has O and N only. Thiophene (S in the ring) and cysteine ($\text{HS-CH}_2\text{-CH(NH}_2)\text{COOH}$) contain sulphur. Count $=2$.
 
+### C-GOC-06 — JEE Main 2024 · 29 Jan Shift 2 · Q52 · Numerical
+
+The total number of $\sigma$ and $\pi$ bonds in 2-formylhex-4-enoic acid is ______.
+
+**Answer: 22** · key ✔
+
+**Solution.** Structure: $\text{HOOC-CH(CHO)-CH}_2\text{-CH=CH-CH}_3$. $\sigma$ bonds: C–C: $6$ (including the C=C's $\sigma$ component and the branch to CHO); C–H: $1+2+1+1+3+1=9$; in COOH: C=O (1), C–O (1), O–H (1) $=3$; in CHO: C=O (1). Total $\sigma=6+9+3+1=19$. $\pi$ bonds: C=O of COOH, C=C, C=O of CHO $=3$. Total $=22$.
+

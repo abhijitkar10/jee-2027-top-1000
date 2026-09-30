@@ -40,3 +40,11 @@ If the points of intersection of two distinct conics $x^2+y^2=4b$ and $\dfrac{x^
 
 **Solution.** On $y^2=3x^2$: $x^2+3x^2=4b\Rightarrow x^2=b,\ y^2=3b$. Substituting in the ellipse: $\dfrac b{16}+\dfrac3b=1\Rightarrow b^2-16b+48=0\Rightarrow b=4$ or $12$. For $b=4$ both conics are the same circle $x^2+y^2=16$, which is not allowed (distinct conics), so $b=12$. Then $x=\pm2\sqrt3,\ y=\pm6$ and the rectangle has sides $4\sqrt3$ and $12$: area $48\sqrt3$. Hence $3\sqrt3\times48\sqrt3=432$.
 
+### M-CON-05 — JEE Main 2024 · 29 Jan Shift 2 · Q84 · Numerical
+
+Let $P(\alpha,\beta)$ be a point on the parabola $y^2=4x$. If $P$ also lies on the chord of the parabola $x^2=8y$ whose midpoint is $\left(1,\tfrac54\right)$, then $(\alpha-28)(\beta-8)$ is equal to ______.
+
+**Answer: 192** · key ✔
+
+**Solution.** Chord of $x^2=8y$ with midpoint $(1,\tfrac54)$: $T=S_1\Rightarrow x-4\left(y+\tfrac54\right)=1-10\Rightarrow x-4y+4=0$, so $x=4y-4$. Meeting $y^2=4x$: $y^2=16y-16\Rightarrow\beta^2-16\beta+16=0\Rightarrow(\beta-8)^2=48$. With $\alpha=4\beta-4$: $(\alpha-28)(\beta-8)=(4\beta-32)(\beta-8)=4(\beta-8)^2=192$.
+

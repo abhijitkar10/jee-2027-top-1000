@@ -50,3 +50,21 @@ Let $A$ be a square matrix with $AA^T=I$. Then $\dfrac12A\left[(A+A^T)^2+(A-A^T)
 
 **Solution.** $(A+A^T)^2+(A-A^T)^2=2A^2+2(A^T)^2$. So the expression is $A\left[A^2+(A^T)^2\right]=A^3+(AA^T)A^T=A^3+A^T$.
 
+### M-MAT-06 — JEE Main 2024 · 29 Jan Shift 2 · Q70 · MCQ
+
+Let $A=\begin{pmatrix}2&1&2\\6&2&11\\3&3&2\end{pmatrix}$ and $P=\begin{pmatrix}1&2&0\\5&0&2\\7&1&5\end{pmatrix}$. The sum of the prime factors of $\left|P^{-1}AP-2I\right|$ is
+
+(1) 26  (2) 27  (3) 66  (4) 23
+
+**Answer: (1)** · key ✔
+
+**Solution.** $P^{-1}AP-2I=P^{-1}(A-2I)P$, so its determinant equals $|A-2I|$. $A-2I=\begin{pmatrix}0&1&2\\6&0&11\\3&3&0\end{pmatrix}$, with determinant $0-1(0-33)+2(18-0)=33+36=69=3\times23$. Sum of prime factors $=3+23=26$.
+
+### M-MAT-07 — JEE Main 2024 · 29 Jan Shift 2 · Q86 · Numerical
+
+For any three distinct consecutive terms $a,b,c$ of an A.P., the lines $ax+by+c=0$ are concurrent at the point $P$. Let $Q(\alpha,\beta)$ be a point such that the system $x+y+z=6$, $2x+5y+\alpha z=\beta$, $x+2y+3z=4$ has infinitely many solutions. Then $(PQ)^2$ is equal to ______.
+
+**Answer: 113** · key ✔
+
+**Solution.** $2b=a+c\Rightarrow a-2b+c=0$, so every such line passes through $P(1,-2)$. For infinitely many solutions: $\begin{vmatrix}1&1&1\\2&5&\alpha\\1&2&3\end{vmatrix}=8-\alpha=0\Rightarrow\alpha=8$. Subtracting the third equation from the first: $y+2z=-2$ (i). Eliminating $x$ from the second (with $\alpha=8$) using twice the first: $3y+6z=\beta-12$, i.e. $3(y+2z)=\beta-12\Rightarrow-6=\beta-12\Rightarrow\beta=6$. So $Q(8,6)$ and $(PQ)^2=7^2+8^2=113$.
+

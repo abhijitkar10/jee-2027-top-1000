@@ -44,3 +44,19 @@ The number of species from the following that are paramagnetic and have bond ord
 
 **Solution.** Bond orders: $\text{H}_2$ 1 (diamagnetic), $\text{He}_2^+$ 0.5, $\text{O}_2^+$ 2.5, $\text{N}_2^{2-}$ 2, $\text{O}_2^{2-}$ 1 (diamagnetic), $\text{F}_2$ 1 (diamagnetic), $\text{Ne}_2^+$ 0.5, $\text{B}_2$ 1 (two unpaired electrons in degenerate $\pi_{2p}$ orbitals: paramagnetic). Only $\text{B}_2$ qualifies.
 
+### C-BND-06 — JEE Main 2024 · 29 Jan Shift 2 · Q51 · Numerical
+
+The total number of molecules with zero dipole moment among $\text{CH}_4,\ \text{BF}_3,\ \text{H}_2\text{O},\ \text{HF},\ \text{NH}_3,\ \text{CO}_2$ and $\text{SO}_2$ is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** Symmetric molecules cancel their bond dipoles: $\text{CH}_4$ (tetrahedral), $\text{BF}_3$ (trigonal planar) and $\text{CO}_2$ (linear). $\text{H}_2\text{O}$, HF, $\text{NH}_3$ and $\text{SO}_2$ are polar (bent, diatomic heteronuclear, pyramidal, bent).
+
+### C-BND-07 — JEE Main 2024 · 29 Jan Shift 2 · Q53 · Numerical
+
+The total number of antibonding molecular orbitals formed from $2s$ and $2p$ atomic orbitals in a diatomic molecule is ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Combining $2s$ and $2p$ orbitals of two atoms gives $8$ MOs: bonding $\sigma_{2s},\sigma_{2p_z},\pi_{2p_x},\pi_{2p_y}$ and antibonding $\sigma^*_{2s},\sigma^*_{2p_z},\pi^*_{2p_x},\pi^*_{2p_y}$. So $4$ antibonding MOs.
+

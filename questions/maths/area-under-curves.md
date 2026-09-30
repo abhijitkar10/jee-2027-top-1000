@@ -27,3 +27,11 @@ The area (in sq. units) of the part of the circle $x^2+y^2=169$ which is below t
 
 **Solution.** The line meets the circle at $(0,-13)$ and $(5,12)$. The origin satisfies $5x-y-13<0$, so the region below the line is the minor segment. Its distance from the centre is $\dfrac{13}{\sqrt{26}}$, so half the central angle has $\cos\dfrac\theta2=\dfrac1{\sqrt{26}}$, giving $\cos\theta=-\dfrac{12}{13}$, $\sin\theta=\dfrac5{13}$ and $\theta=\dfrac\pi2+\sin^{-1}\dfrac{12}{13}$. Segment area $=\dfrac{169}2(\theta-\sin\theta)=\dfrac{169\pi}4+\dfrac{169}2\sin^{-1}\dfrac{12}{13}-\dfrac{65}2$. Matching: $\dfrac\alpha\beta=\dfrac{169}2$, so $\alpha=169,\ \beta=2$ and $\alpha+\beta=171$.
 
+### M-ARE-04 — JEE Main 2024 · 29 Jan Shift 2 · Q89 · Numerical
+
+Let the area of the region $\{(x,y):0\le x\le3,\ 0\le y\le\min\{x^2+2,\ 2x+2\}\}$ be $A$. Then $12A$ is equal to ______.
+
+**Answer: 164** · key ✔
+
+**Solution.** $x^2+2=2x+2$ at $x=0,2$. For $0\le x\le2$ the minimum is $x^2+2$; for $2\le x\le3$ it is $2x+2$. $A=\int_0^2(x^2+2)dx+\int_2^3(2x+2)dx=\left(\tfrac83+4\right)+(15-8)=\tfrac{20}3+7=\tfrac{41}3$. So $12A=164$.
+

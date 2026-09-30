@@ -20,3 +20,21 @@ A parallel beam of monochromatic light of wavelength $5000$ Å is incident norma
 
 **Solution.** First minimum: $a\sin\theta=\lambda\Rightarrow\sin\theta=\dfrac{5\times10^{-7}}{10^{-6}}=\dfrac12\Rightarrow\theta=30^\circ$.
 
+### P-WOP-03 — JEE Main 2024 · 29 Jan Shift 2 · Q17 · MCQ
+
+In Young's double slit experiment, light from two identical sources superimposes on a screen. The path difference between the two lights reaching a point on the screen is $\dfrac{7\lambda}4$. The ratio of the intensity of the fringe at this point to the maximum intensity of the fringe is
+
+(1) $\tfrac12$  (2) $\tfrac34$  (3) $\tfrac13$  (4) $\tfrac14$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Phase difference $\phi=\dfrac{2\pi}\lambda\cdot\dfrac{7\lambda}4=\dfrac{7\pi}2$. $I=I_{\max}\cos^2\dfrac\phi2=I_{\max}\cos^2\dfrac{7\pi}4=I_{\max}\cdot\tfrac12$.
+
+### P-WOP-04 — JEE Main 2024 · 29 Jan Shift 2 · Q29 · Numerical
+
+In a single-slit diffraction pattern, light of wavelength $6000$ Å is used. The distance between the first and third minima is $3$ mm when the screen is $50$ cm away from the slit. The width of the slit is ______ $\times10^{-4}$ m.
+
+**Answer: 2** · key ✔
+
+**Solution.** The $n$th minimum is at $y_n=\dfrac{n\lambda D}a$, so $y_3-y_1=\dfrac{2\lambda D}a=3\times10^{-3}$. $a=\dfrac{2\times6\times10^{-7}\times0.5}{3\times10^{-3}}=2\times10^{-4}$ m.
+

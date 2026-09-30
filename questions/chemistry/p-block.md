@@ -53,3 +53,13 @@ Statement II: Group 14 contains non-metallic, metallic as well as metalloid elem
 
 **Solution.** Electronegativity is nearly constant from Si to Pb (Pauling $\approx1.8,1.8,1.8,1.9$), owing to poor shielding by $d$ and $f$ electrons, so I is false. Group 14 has non-metals (C), metalloids (Si, Ge) and metals (Sn, Pb), so II is true.
 
+### C-PBL-06 — JEE Main 2024 · 29 Jan Shift 2 · Q39 · MCQ
+
+The anomalous behaviour of oxygen is due to its
+
+(1) large size and high electronegativity  (2) small size and low electronegativity  (3) small size and high electronegativity  (4) large size and low electronegativity
+
+**Answer: (3)** · key ✔
+
+**Solution.** Oxygen differs from the rest of group 16 (no $d$-orbitals, forms strong H-bonds, only $\text{O}=\text{O}$ multiple bonds) because of its small atomic size and high electronegativity.
+

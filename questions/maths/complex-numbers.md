@@ -36,3 +36,11 @@ Let $\alpha,\beta$ be the roots of $x^2-x+2=0$ with $\text{Im}(\alpha)>\text{Im}
 
 **Solution.** Each root satisfies $t^2=t-2$. So $t^4=(t-2)^2=t^2-4t+4=-3t+2$ and $t^6=t^2\cdot t^4=(t-2)(-3t+2)=-3t^2+8t-4=-3(t-2)+8t-4=5t+2$. Then $\alpha^6+\alpha^4+\beta^4-5\alpha^2=(5\alpha+2)+(-3\alpha+2)+(-3\beta+2)-5(\alpha-2)=-3(\alpha+\beta)+16=-3+16=13$.
 
+### M-CMP-05 — JEE Main 2024 · 29 Jan Shift 2 · Q82 · Numerical
+
+Let $\alpha,\beta$ be the roots of $x^2-\sqrt6x+3=0$ with $\text{Im}(\alpha)>\text{Im}(\beta)$. Let $a,b$ be integers not divisible by $3$ and $n$ a natural number such that $\dfrac{\alpha^{99}}\beta+\alpha^{98}=3^n(a+ib)$, $i=\sqrt{-1}$. Then $n+a+b$ is equal to ______.
+
+**Answer: 49** · key ✔
+
+**Solution.** $x=\dfrac{\sqrt6\pm i\sqrt6}2$, so $\alpha=\sqrt3e^{i\pi/4}$ and $\beta=\bar\alpha$. Then $\dfrac1\beta=\dfrac1{\bar\alpha}=\dfrac\alpha{|\alpha|^2}=\dfrac\alpha3$, so $\dfrac{\alpha^{99}}\beta=\dfrac{\alpha^{100}}3$. The expression $=\alpha^{98}\left(\dfrac{\alpha^2}3+1\right)$, and $\alpha^2=3i$, so it equals $\alpha^{98}(1+i)$. $\alpha^{98}=3^{49}e^{i\,49\pi/2}=3^{49}e^{i\pi/2}=3^{49}i$ (since $49\pi/2=24\pi+\pi/2$). Hence $3^{49}\,i(1+i)=3^{49}(-1+i)$: $n=49,\ a=-1,\ b=1$ and $n+a+b=49$.
+

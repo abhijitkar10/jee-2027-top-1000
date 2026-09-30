@@ -32,3 +32,13 @@ The type of amino acids obtained by hydrolysis of proteins is
 
 **Solution.** Proteins are polymers of $\alpha$-amino acids, in which the $-\text{NH}_2$ group is on the carbon adjacent to $-\text{COOH}$, joined by peptide bonds. Hydrolysis regenerates $\alpha$-amino acids.
 
+### C-BIO-04 — JEE Main 2024 · 29 Jan Shift 2 · Q50 · MCQ
+
+Match List I (biopolymer) with List II (monomer): A. Starch  B. Cellulose  C. Nucleic acid  D. Protein; I. nucleotide  II. $\alpha$-glucose  III. $\beta$-glucose  IV. $\alpha$-amino acid.
+
+(1) A-II, B-I, C-III, D-IV  (2) A-IV, B-II, C-I, D-III  (3) A-I, B-III, C-IV, D-II  (4) A-II, B-III, C-I, D-IV
+
+**Answer: (4)** · key ✔
+
+**Solution.** Starch is a polymer of $\alpha$-D-glucose (amylose/amylopectin), cellulose of $\beta$-D-glucose, nucleic acids of nucleotides, and proteins of $\alpha$-amino acids.
+

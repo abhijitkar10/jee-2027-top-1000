@@ -28,3 +28,13 @@ If the mean and variance of the data $65,68,58,44,48,45,60,\alpha,\beta,60$, whe
 
 **Solution.** $\sum x=560$ and the known values sum to $448$, so $\alpha+\beta=112$. Variance: $\dfrac{\sum x^2}{10}-56^2=66.2\Rightarrow\sum x^2=32022$. The known squares sum to $4225+4624+3364+1936+2304+2025+3600+3600=25678$. Hence $\alpha^2+\beta^2=32022-25678=6344$.
 
+### M-STA-04 — JEE Main 2024 · 29 Jan Shift 2 · Q68 · MCQ
+
+If the mean and variance of five observations are $\dfrac{24}5$ and $\dfrac{194}{25}$ respectively and the mean of the first four observations is $\dfrac72$, then the variance of the first four observations is equal to
+
+(1) $\tfrac45$  (2) $\tfrac{77}{12}$  (3) $\tfrac54$  (4) $\tfrac{105}4$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Total $=24$; the first four sum to $14$, so the fifth is $10$. $\sum x_i^2=5\left(\tfrac{194}{25}+\tfrac{576}{25}\right)=154$. For the first four: $\sum x^2=154-100=54$. Variance $=\dfrac{54}4-\left(\tfrac72\right)^2=13.5-12.25=\tfrac54$.
+

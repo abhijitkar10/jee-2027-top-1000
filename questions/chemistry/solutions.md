@@ -38,3 +38,11 @@ The osmotic pressure of a dilute solution is $7\times10^5$ Pa at $273$ K. The os
 
 **Solution.** $\pi=CRT$, so at constant concentration $\pi\propto T$: $\pi_2=7\times10^5\times\dfrac{283}{273}=7.256\times10^5$ Pa $=72.6\times10^4\approx73\times10^4$ N m$^{-2}$.
 
+### C-SOL-05 — JEE Main 2024 · 29 Jan Shift 2 · Q57 · Numerical
+
+The molality of a $0.8$ M $\text{H}_2\text{SO}_4$ solution (density $1.06\ \text{g cm}^{-3}$) is ______ $\times10^{-3}$ m (nearest integer).
+
+**Answer: 815** · key ✔
+
+**Solution.** In $1$ L: mass of solution $=1060$ g and $\text{H}_2\text{SO}_4=0.8\times98=78.4$ g, so solvent $=1060-78.4=981.6$ g. Molality $=\dfrac{0.8}{0.9816}=0.815$ mol/kg $=815\times10^{-3}$ m.
+

@@ -33,3 +33,13 @@ The resistance $R=\dfrac VI$, where $V=(200\pm5)$ V and $I=(20\pm0.2)$ A. The pe
 
 **Solution.** For a quotient, maximum fractional errors add: $\dfrac{\Delta R}R=\dfrac{\Delta V}V+\dfrac{\Delta I}I=\dfrac5{200}+\dfrac{0.2}{20}=0.025+0.01=0.035$, i.e. $3.5\%$.
 
+### P-UNT-04 — JEE Main 2024 · 29 Jan Shift 2 · Q1 · MCQ
+
+A physical quantity $Q$ is found to depend on $a,b,c$ by the relation $Q=\dfrac{a^4b^3}{c^2}$. The percentage errors in $a,b,c$ are $3\%,4\%$ and $5\%$ respectively. The percentage error in $Q$ is
+
+(1) 66%  (2) 43%  (3) 34%  (4) 14%
+
+**Answer: (3)** · key ✔
+
+**Solution.** For $Q=a^pb^qc^r$ the maximum fractional error is $|p|\dfrac{\Delta a}a+|q|\dfrac{\Delta b}b+|r|\dfrac{\Delta c}c=4(3)+3(4)+2(5)=12+12+10=34\%$.
+

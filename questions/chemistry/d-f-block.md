@@ -43,3 +43,27 @@ $\text{KMnO}_4$ decomposes on heating at $513$ K to form $\text{O}_2$ along with
 
 **Solution.** $2\text{KMnO}_4\xrightarrow{513\,\text{K}}\text{K}_2\text{MnO}_4+\text{MnO}_2+\text{O}_2$ (used in the laboratory preparation of dioxygen).
 
+### C-DFB-05 — JEE Main 2024 · 29 Jan Shift 2 · Q40 · MCQ
+
+Which of the following acts as a strong reducing agent? (Atomic numbers: Ce = 58, Eu = 63, Gd = 64, Lu = 71)
+
+(1) $\text{Lu}^{3+}$  (2) $\text{Gd}^{3+}$  (3) $\text{Eu}^{2+}$  (4) $\text{Ce}^{4+}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{Eu}^{2+}$ ($4f^7$, half-filled) readily loses an electron to reach the stable $+3$ state ($E^\circ=-0.35$ V), so it is a strong reductant. $\text{Lu}^{3+}$ ($4f^{14}$) and $\text{Gd}^{3+}$ ($4f^7$) are already stable, and $\text{Ce}^{4+}$ is an oxidant.
+
+### C-DFB-06 — JEE Main 2024 · 29 Jan Shift 2 · Q41 · MCQ
+
+Which of the following statements are correct about Zn, Cd and Hg?
+A. They exhibit high enthalpy of atomisation as the $d$-subshell is full.
+B. Zn and Cd do not show variable oxidation state while Hg shows $+\text{I}$ and $+\text{II}$.
+C. Compounds of Zn, Cd and Hg are paramagnetic in nature.
+D. Zn, Cd and Hg are called soft metals.
+
+(1) B, D only  (2) B, C only  (3) A, D only  (4) C, D only
+
+**Answer: (1)** · key ✔
+
+**Solution.** A is false: the filled $d^{10}$ subshell means weak metallic bonding and low enthalpies of atomisation (low melting points). B is true ($\text{Hg}_2^{2+}$ and $\text{Hg}^{2+}$). C is false: $d^{10}$ compounds are diamagnetic. D is true (soft, low melting).
+

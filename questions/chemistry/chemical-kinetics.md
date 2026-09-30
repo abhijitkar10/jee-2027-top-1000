@@ -32,3 +32,11 @@ For a reaction taking place in three steps at the same temperature, the overall 
 
 **Solution.** From the Arrhenius equation $K=Ae^{-E_a/RT}$, the exponents add for products and subtract for quotients: $E_a=E_{a1}+E_{a2}-E_{a3}=40+50-60=30$ kJ/mol.
 
+### C-KIN-04 — JEE Main 2024 · 29 Jan Shift 2 · Q59 · Numerical
+
+The half-life of radioisotopic bromine-82 is $36$ hours. The fraction which remains after one day is ______ $\times10^{-2}$. (Given antilog $0.2006=1.587$; round off to the nearest integer.)
+
+**Answer: 63** · key ✔
+
+**Solution.** $\dfrac N{N_0}=\left(\tfrac12\right)^{24/36}=2^{-2/3}$. $\log2^{-2/3}=-\tfrac23(0.3010)=-0.2006$, so $\dfrac N{N_0}=\dfrac1{1.587}=0.63=63\times10^{-2}$.
+

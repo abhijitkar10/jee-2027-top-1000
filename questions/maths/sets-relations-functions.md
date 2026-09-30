@@ -62,3 +62,13 @@ Let $f(x)=\begin{cases}2+2x,&-1\le x<0\\1-\tfrac x3,&0\le x\le3\end{cases}$ and 
 
 **Solution.** $g(x)=|x|$ on $[-3,1]$, so $g$ takes all values in $[0,3]$. For $u\in[0,3]$, $f(u)=1-\tfrac u3$ decreases continuously from $1$ to $0$. So $f\circ g$ takes every value in $[0,1]$.
 
+### M-SRF-07 — JEE Main 2024 · 29 Jan Shift 2 · Q69 · MCQ
+
+If $R$ is the smallest equivalence relation on the set $\{1,2,3,4\}$ such that $\{(1,2),(1,3)\}\subset R$, then the number of elements in $R$ is
+
+(1) 10  (2) 12  (3) 8  (4) 15
+
+**Answer: (1)** · key ✔
+
+**Solution.** Symmetry and transitivity force $1,2,3$ into one class, and $4$ stays alone by reflexivity. Equivalence classes $\{1,2,3\}$ and $\{4\}$ give $3^2+1^2=9+1=10$ ordered pairs.
+

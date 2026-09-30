@@ -33,3 +33,13 @@ At what distance above and below the surface of the earth will a body have the s
 
 **Solution.** At height $h$: $g_h=g\dfrac{R^2}{(R+h)^2}$. At depth $h$: $g_d=g\left(1-\dfrac hR\right)$. Equate with $x=h/R$: $(1-x)(1+x)^2=1\Rightarrow x(1-x-x^2)=0\Rightarrow x^2+x-1=0\Rightarrow x=\dfrac{\sqrt5-1}2$. So $h=\dfrac{(\sqrt5-1)R}{2}$.
 
+### P-GRV-04 — JEE Main 2024 · 29 Jan Shift 2 · Q6 · MCQ
+
+A planet takes $200$ days to complete one revolution around the Sun. If the distance of the planet from the Sun is reduced to one fourth of the original distance, how many days will it take to complete one revolution?
+
+(1) 25  (2) 50  (3) 100  (4) 20
+
+**Answer: (1)** · key ✔
+
+**Solution.** Kepler's third law: $T^2\propto r^3$, so $T\propto r^{3/2}$. With $r\to\tfrac r4$: $T'=200\times\left(\tfrac14\right)^{3/2}=\dfrac{200}8=25$ days.
+

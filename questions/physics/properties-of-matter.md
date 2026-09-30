@@ -48,3 +48,31 @@ In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on t
 
 **Solution.** Bernoulli: the pressure difference is $\Delta P=\tfrac12\rho(v_u^2-v_l^2)=\tfrac12(1.2)(4900-4225)=405$ Pa. Lift $=\Delta P\cdot A=405\times2=810$ N.
 
+### P-POM-06 — JEE Main 2024 · 29 Jan Shift 2 · Q7 · MCQ
+
+A wire of length $L$ and radius $r$ is clamped at one end. If its other end is pulled by a force $F$, its length increases by $l$. If the radius of the wire and the applied force are both reduced to half of their original values keeping the original length constant, the increase in length will become
+
+(1) $\tfrac32$ times  (2) 3 times  (3) 4 times  (4) 2 times
+
+**Answer: (4)** · key ✔
+
+**Solution.** $l=\dfrac{FL}{AY}\propto\dfrac F{r^2}$. Halving $F$ and $r$: $\dfrac{1/2}{(1/2)^2}=2$, so the extension becomes $2$ times.
+
+### P-POM-07 — JEE Main 2024 · 29 Jan Shift 2 · Q8 · MCQ
+
+A small liquid drop of radius $R$ is divided into $27$ identical liquid drops. If the surface tension is $T$, the work done in the process will be
+
+(1) $8\pi R^2T$  (2) $3\pi R^2T$  (3) $\tfrac18\pi R^2T$  (4) $4\pi R^2T$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Volume conservation: $27\cdot\tfrac43\pi r^3=\tfrac43\pi R^3\Rightarrow r=\tfrac R3$. $W=T\,\Delta A=T\cdot4\pi\left(27r^2-R^2\right)=4\pi T\left(3R^2-R^2\right)=8\pi R^2T$.
+
+### P-POM-08 — JEE Main 2024 · 29 Jan Shift 2 · Q23 · Numerical
+
+Two metallic wires $P$ and $Q$ have the same volume and are made of the same material. Their cross-sectional areas are in the ratio $4:1$. When a force $F_1$ is applied to $P$, an extension $\Delta l$ is produced. The force required to produce the same extension in $Q$ is $F_2$. The value of $\dfrac{F_1}{F_2}$ is ______.
+
+**Answer: 16** · key ✔
+
+**Solution.** Equal volumes give $A_PL_P=A_QL_Q$, so $L_P:L_Q=1:4$. $\Delta l=\dfrac{FL}{AY}\Rightarrow F=\dfrac{\Delta l\,Y A}{L}\propto\dfrac AL$. Hence $\dfrac{F_1}{F_2}=\dfrac{A_P/L_P}{A_Q/L_Q}=\dfrac{4/1}{1/4}=16$.
+

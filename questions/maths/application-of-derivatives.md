@@ -36,3 +36,33 @@ Let $f(x)=2^x-x^2$, $x\in\mathbb R$. If $m$ and $n$ are respectively the numbers
 
 **Solution.** $f''(x)=2^x\ln^22-2$ has exactly one zero, so $f'$ has at most $2$ zeros and $f$ at most $3$. Zeros of $f$: $x=2$, $x=4$, and one negative root ($f(-1)=-\tfrac12<0$, $f(0)=1>0$), so $m=3$. By Rolle's theorem $f'$ vanishes between consecutive roots, giving at least $2$ zeros, so $n=2$. Hence $m+n=5$.
 
+### M-AOD-05 — JEE Main 2024 · 29 Jan Shift 2 · Q72 · MCQ
+
+Let $y=\ln\!\left(\dfrac{1-x^2}{1+x^2}\right)$, $-1<x<1$. Then at $x=\dfrac12$, the value of $225\,(y'-y'')$ is equal to
+
+(1) 732  (2) 746  (3) 742  (4) 736
+
+**Answer: (4)** · key ✔
+
+**Solution.** $y=\ln(1-x^2)-\ln(1+x^2)$, so $y'=-\dfrac{2x}{1-x^2}-\dfrac{2x}{1+x^2}$ and $y''=-\dfrac2{1-x^2}-\dfrac{4x^2}{(1-x^2)^2}-\dfrac2{1+x^2}+\dfrac{4x^2}{(1+x^2)^2}$. At $x=\tfrac12$ ($1-x^2=\tfrac34,\ 1+x^2=\tfrac54$): $y'=-\tfrac43-\tfrac45=-\tfrac{32}{15}$ and $y''=-\tfrac83-\tfrac{16}9-\tfrac85+\tfrac{16}{25}=-\tfrac{1216}{225}$. So $225(y'-y'')=-480+1216=736$.
+
+### M-AOD-06 — JEE Main 2024 · 29 Jan Shift 2 · Q73 · MCQ
+
+The function $f(x)=2x+3x^{2/3}$, $x\in\mathbb R$, has
+
+(1) exactly one point of local minima and no point of local maxima  (2) exactly one point of local maxima and no point of local minima  (3) exactly one point of local maxima and exactly one point of local minima  (4) exactly two points of local maxima and exactly one point of local minima
+
+**Answer: (3)** · key ✔
+
+**Solution.** $f'(x)=2+2x^{-1/3}=\dfrac{2\left(x^{1/3}+1\right)}{x^{1/3}}$, zero at $x=-1$ and undefined at $x=0$. For $x<-1$: $f'>0$; for $-1<x<0$: $f'<0$; for $x>0$: $f'>0$. So $x=-1$ is a local maximum and $x=0$ (a cusp) is a local minimum.
+
+### M-AOD-07 — JEE Main 2024 · 29 Jan Shift 2 · Q74 · MCQ
+
+The function $f(x)=\dfrac x{x^2-6x-16}$, $x\in\mathbb R-\{-2,8\}$,
+
+(1) decreases in $(-2,8)$ and increases in $(-\infty,-2)\cup(8,\infty)$  (2) decreases in $(-\infty,-2)\cup(-2,8)\cup(8,\infty)$  (3) decreases in $(-\infty,-2)$ and increases in $(8,\infty)$  (4) increases in $(-\infty,-2)\cup(-2,8)\cup(8,\infty)$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $f'(x)=\dfrac{(x^2-6x-16)-x(2x-6)}{(x^2-6x-16)^2}=\dfrac{-(x^2+16)}{(x^2-6x-16)^2}<0$ everywhere on the domain. So $f$ is decreasing on each of $(-\infty,-2),(-2,8),(8,\infty)$.
+

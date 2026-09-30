@@ -42,3 +42,13 @@ Consider $f:\left[\tfrac12,1\right]\to\mathbb R$, $f(x)=4\sqrt2\,x^3-3\sqrt2\,x-
 
 **Solution.** Put $x=\cos\theta$ with $\theta\in\left[0,\tfrac\pi3\right]$. Then $4x^3-3x=\cos3\theta$, so $f=\sqrt2\cos3\theta-1=0\Rightarrow\cos3\theta=\tfrac1{\sqrt2}$. For $3\theta\in[0,\pi]$ the only solution is $3\theta=\tfrac\pi4$, i.e. $\theta=\tfrac\pi{12}$. So there is exactly one intersection, at $x=\cos\tfrac\pi{12}\approx0.966\in\left[\tfrac12,1\right]$. Both are correct.
 
+### M-TRG-05 — JEE Main 2024 · 29 Jan Shift 2 · Q65 · MCQ
+
+The sum of the solutions $x\in\mathbb R$ of the equation $\dfrac{3\cos2x+\cos^32x}{\cos^6x-\sin^6x}=x^3-x^2+6$ is
+
+(1) 0  (2) 1  (3) $-1$  (4) 3
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\cos^6x-\sin^6x=\cos2x\left(1-\tfrac14\sin^22x\right)=\cos2x\cdot\dfrac{3+\cos^22x}4$, and the numerator is $\cos2x\,(3+\cos^22x)$. The LHS is therefore identically $4$ (where defined). So $x^3-x^2+6=4\Rightarrow x^3-x^2+2=0\Rightarrow(x+1)(x^2-2x+2)=0$, whose only real root is $x=-1$ (where $\cos2x\ne0$). Sum $=-1$.
+

@@ -46,3 +46,13 @@ If the solution curve $y=y(x)$ of $(1+y^2)(1+\ln x)\,dx+x\,dy=0$, $x>0$, passes 
 
 **Solution.** Separate: $\dfrac{dy}{1+y^2}=-\dfrac{1+\ln x}{x}dx\Rightarrow\tan^{-1}y=-\left(\ln x+\tfrac{(\ln x)^2}2\right)+C$. At $(1,1)$: $C=\tfrac\pi4$. At $x=e$: $\tan^{-1}y=\tfrac\pi4-\tfrac32\Rightarrow y=\tan\!\left(\tfrac\pi4-\tfrac32\right)=\dfrac{1-\tan\frac32}{1+\tan\frac32}$. So $\alpha=\beta=1$ and $\alpha+2\beta=3$.
 
+### M-DIF-06 — JEE Main 2024 · 29 Jan Shift 2 · Q76 · MCQ
+
+If $y$ is the solution of the differential equation $x\cos\!\left(\dfrac yx\right)\dfrac{dy}{dx}=y\cos\!\left(\dfrac yx\right)+x$ with $y(1)=\dfrac\pi3$ and $\sin\!\left(\dfrac yx\right)=\ln|x|+\dfrac\alpha2$, then $\alpha^2$ is equal to
+
+(1) 3  (2) 12  (3) 4  (4) 9
+
+**Answer: (1)** · key ✔
+
+**Solution.** Divide by $x\cos\frac yx$: $\dfrac{dy}{dx}=\dfrac yx+\sec\dfrac yx$. With $y=vx$: $v+x\dfrac{dv}{dx}=v+\sec v\Rightarrow\cos v\,dv=\dfrac{dx}x\Rightarrow\sin v=\ln|x|+C$. At $x=1$, $v=\tfrac\pi3$: $\dfrac{\sqrt3}2=C=\dfrac\alpha2\Rightarrow\alpha=\sqrt3$. So $\alpha^2=3$.
+

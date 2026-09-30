@@ -30,3 +30,13 @@ A capacitor of capacitance $100\ \mu$F is charged to a potential of $12$ V and c
 
 **Solution.** Energy conservation: $\tfrac12LI_{\max}^2=\tfrac12CV^2\Rightarrow I_{\max}=V\sqrt{C/L}=12\sqrt{\dfrac{100\times10^{-6}}{6.4\times10^{-3}}}=12\times0.125=1.5$ A.
 
+### P-ACC-04 — JEE Main 2024 · 29 Jan Shift 2 · Q14 · MCQ
+
+In an a.c. circuit, the voltage and current are $V=100\sin(100t)$ V and $I=100\sin\!\left(100t+\dfrac\pi3\right)$ mA respectively. The average power dissipated in one cycle is
+
+(1) 5 W  (2) 10 W  (3) 2.5 W  (4) 25 W
+
+**Answer: (3)** · key ✔
+
+**Solution.** $P_{av}=\tfrac12V_0I_0\cos\phi=\tfrac12(100)(0.1)\cos60^\circ=\tfrac12\times10\times\tfrac12=2.5$ W.
+

@@ -48,3 +48,11 @@ A line with direction ratios $2,1,2$ meets the lines $x=y+2=z$ and $x+2=2y=2z$ a
 
 **Solution.** $P=(t,t-2,t)$ and $Q=(u-2,\tfrac u2,\tfrac u2)$. $\overrightarrow{PQ}=k(2,1,2)$: from $y,z$ components: $\tfrac u2-t+2=k$ and $\tfrac u2-t=2k$, so $k=-2$ and $\tfrac u2-t=-4$. From $x$: $u-2-t=-4\Rightarrow u-t=-2$. Solving gives $u=4,\ t=6$: $P(6,4,6)$. For the point $(1,2,12)$: $\vec w=(-5,-2,6)$, $\vec d=(2,1,2)$. $\vec w\times\vec d=(-10,22,-1)$, $|\vec w\times\vec d|^2=585$, $|\vec d|^2=9$, so $l^2=65$.
 
+### M-TDG-06 — JEE Main 2024 · 29 Jan Shift 2 · Q90 · Numerical
+
+Let $O$ be the origin, and $M$ and $N$ points on the lines $\dfrac{x-5}4=\dfrac{y-4}1=\dfrac{z-5}3$ and $\dfrac{x+8}{12}=\dfrac{y+2}5=\dfrac{z+11}9$ respectively, such that $MN$ is the shortest distance between the given lines. Then $\overrightarrow{OM}\cdot\overrightarrow{ON}$ is equal to ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** $\vec d_1\times\vec d_2=(4,1,3)\times(12,5,9)=(-6,0,8)$, so $\overrightarrow{MN}\parallel(-3,0,4)$. With $M=(5+4s,4+s,5+3s)$ and $N=(-8+12t,-2+5t,-11+9t)$, the $y$-component of $\overrightarrow{MN}$ is zero: $5t-s=6\Rightarrow s=5t-6$. Then $\overrightarrow{MN}=(11-8t,\,0,\,2-6t)\parallel(-3,0,4)\Rightarrow4(11-8t)=-3(2-6t)\Rightarrow t=1,\ s=-1$. So $M=(1,3,2)$, $N=(4,3,-2)$ and $\overrightarrow{OM}\cdot\overrightarrow{ON}=4+9-4=9$.
+

@@ -32,3 +32,13 @@ The total kinetic energy of $1$ mole of oxygen at $27^\circ$C is (use $R=8.31\ \
 
 **Solution.** $\text{O}_2$ is diatomic. Near room temperature it has $5$ active degrees of freedom (3 translational + 2 rotational), so $K=\tfrac52RT=2.5\times8.31\times300=6232.5$ J.
 
+### P-THD-04 — JEE Main 2024 · 29 Jan Shift 2 · Q10 · MCQ
+
+$N$ moles of a polyatomic gas ($f=6$) must be mixed with two moles of a monoatomic gas so that the mixture behaves as a diatomic gas. The value of $N$ is
+
+(1) 6  (2) 3  (3) 4  (4) 2
+
+**Answer: (3)** · key ✔
+
+**Solution.** Molar $C_v=\tfrac f2R$: polyatomic $3R$, monoatomic $\tfrac32R$, diatomic $\tfrac52R$. Mixing: $\dfrac{N(3)+2\left(\tfrac32\right)}{N+2}=\tfrac52\Rightarrow3N+3=2.5N+5\Rightarrow N=4$.
+

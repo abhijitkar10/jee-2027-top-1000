@@ -67,3 +67,21 @@ Match List I with List II.
 
 **Solution.** Ziegler–Natta catalyst: $\text{TiCl}_4$ + $\text{Al(C}_2\text{H}_5)_3$ (Ti). Haemoglobin (blood pigment): Fe. Wilkinson's catalyst $[\text{RhCl(PPh}_3)_3]$: Rh. Vitamin B$_{12}$ (cyanocobalamin): Co.
 
+### C-COO-07 — JEE Main 2024 · 29 Jan Shift 2 · Q42 · MCQ
+
+The correct IUPAC name of $\text{K}_2\text{MnO}_4$ is
+
+(1) Potassium tetraoxopermanganate(VI)  (2) Potassium tetraoxidomanganate(VI)  (3) Dipotassium tetraoxidomanganate(VII)  (4) Potassium tetraoxidomanganese(VI)
+
+**Answer: (2)** · key ✔
+
+**Solution.** The anion $\text{MnO}_4^{2-}$ has Mn in $+6$ ($x-8=-2$). Anionic complexes end in "-ate", oxide is named "oxido", and cation prefixes are not used: potassium tetraoxidomanganate(VI).
+
+### C-COO-08 — JEE Main 2024 · 29 Jan Shift 2 · Q60 · Numerical
+
+The oxidation state of Fe in the complex formed in the brown ring test is ______.
+
+**Answer: 1** · key ✔
+
+**Solution.** The brown ring is $[\text{Fe(H}_2\text{O)}_5\text{NO}]^{2+}$. Water is neutral and NO is present as $\text{NO}^+$, so $x+1=+2\Rightarrow x=+1$ (Fe is $+1$, NO$^+$ is the nitrosonium ligand).
+

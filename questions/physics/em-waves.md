@@ -22,3 +22,13 @@ An object is placed in a medium of refractive index $3$. An electromagnetic wave
 
 **Solution.** Radiation pressure for complete absorption is $P=I/v$, with $v=c/n=10^8$ m/s in the medium. $P=\dfrac{6\times10^8}{10^8}=6\ \text{N m}^{-2}$.
 
+### P-EMW-03 — JEE Main 2024 · 29 Jan Shift 2 · Q15 · MCQ
+
+A plane electromagnetic wave of frequency $35$ MHz travels in free space along the $X$-direction. At a particular point (in space and time) $\vec E=9.6\hat j\ \text{V m}^{-1}$. The value of the magnetic field at this point is
+
+(1) $3.2\times10^{-8}\hat k$ T  (2) $3.2\times10^{-8}\hat i$ T  (3) $9.6\hat j$ T  (4) $9.6\times10^{-8}\hat k$ T
+
+**Answer: (1)** · key ✔
+
+**Solution.** $B=E/c=\dfrac{9.6}{3\times10^8}=3.2\times10^{-8}$ T. The direction of propagation is $\hat E\times\hat B$: $\hat j\times\hat k=\hat i$, so $\vec B$ is along $+\hat k$.
+

@@ -18,3 +18,11 @@ The volume of $3$ M NaOH (formula weight $40\ \text{g mol}^{-1}$) which can be p
 
 **Solution.** Moles of NaOH $=84/40=2.1$. Volume $=\dfrac{2.1}{3}=0.7\ \text{dm}^3=7\times10^{-1}\ \text{dm}^3$.
 
+### C-MOL-03 — JEE Main 2024 · 29 Jan Shift 2 · Q56 · Numerical
+
+$50$ mL of $0.5$ M oxalic acid is required to neutralise $25$ mL of NaOH solution. The amount of NaOH in $50$ mL of the given solution is ______ g.
+
+**Answer: 4** · key ✔
+
+**Solution.** Oxalic acid is dibasic: $n$-factor $=2$. Milliequivalents $=50\times0.5\times2=50$. So $25\times N_{\text{NaOH}}=50\Rightarrow N=2$ N $=2$ M. In $50$ mL: $0.1$ mol $\times40=4$ g.
+

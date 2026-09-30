@@ -38,3 +38,13 @@ A body starts from rest with constant acceleration. It covers a displacement $S_
 
 **Solution.** From rest, $S=\tfrac12at^2$. So $S_1+S_2=\tfrac12a\left[(p-1)^2+p^2\right]=\tfrac12a\,(2p^2-2p+1)$. Setting $\tfrac12at^2$ equal to this gives $t=\sqrt{2p^2-2p+1}$ s.
 
+### P-KIN-05 — JEE Main 2024 · 29 Jan Shift 2 · Q2 · MCQ
+
+A particle moves in a straight line with position $x=(t^3-6t^2+20t+15)$ m. The velocity of the body when its acceleration becomes zero is
+
+(1) 4 m s$^{-1}$  (2) 8 m s$^{-1}$  (3) 10 m s$^{-1}$  (4) 6 m s$^{-1}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $v=\dfrac{dx}{dt}=3t^2-12t+20$ and $a=\dfrac{dv}{dt}=6t-12=0\Rightarrow t=2$ s. Then $v=12-24+20=8$ m/s.
+

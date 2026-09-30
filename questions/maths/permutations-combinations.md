@@ -30,3 +30,13 @@ All the letters of the word GTWENTY are written in all possible ways, with or wi
 
 **Solution.** Letters in order: E, G, N, T, T, W, Y (T repeats). Words starting with E: $\dfrac{6!}{2!}=360$. Then G, second letter smaller than T: E gives $\dfrac{5!}{2!}=60$ and N gives $60$: $120$. Then GT, third letter smaller than W: E, N, T each give $4!=24$: $72$. The remaining letters E, N, T, Y are already in dictionary order, adding no more words. Rank $=360+120+72+1=553$.
 
+### M-PNC-04 — JEE Main 2024 · 29 Jan Shift 2 · Q62 · MCQ
+
+The number of ways of arranging $8$ identical books into $4$ identical shelves, where any number of shelves may remain empty, is equal to
+
+(1) 18  (2) 16  (3) 12  (4) 15
+
+**Answer: (4)** · key ✔
+
+**Solution.** Identical books into identical shelves means partitions of $8$ into at most $4$ parts. Count by number of parts: $1$ part: $1$; $2$ parts: $4$ ($7{+}1,6{+}2,5{+}3,4{+}4$); $3$ parts: $5$ ($6{+}1{+}1,5{+}2{+}1,4{+}3{+}1,4{+}2{+}2,3{+}3{+}2$); $4$ parts: $5$ ($5{+}1{+}1{+}1,4{+}2{+}1{+}1,3{+}3{+}1{+}1,3{+}2{+}2{+}1,2{+}2{+}2{+}2$). Total $=15$.
+

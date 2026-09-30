@@ -32,3 +32,24 @@ Reason R: The increasing nuclear charge outweighs the shielding across the perio
 
 **Solution.** Across a period $Z_{\text{eff}}$ increases (nuclear charge grows faster than screening), atomic size shrinks and ionisation enthalpy generally increases, so A is false and R is true.
 
+### C-PER-04 — JEE Main 2024 · 29 Jan Shift 2 · Q32 · MCQ
+
+The element having the highest first ionisation enthalpy is
+
+(1) Si  (2) Al  (3) N  (4) C
+
+**Answer: (3)** · key ✔
+
+**Solution.** Ionisation enthalpy rises across a period and falls down a group. N ($1402$ kJ/mol) is further right than C ($1086$) and in the same period, while Al and Si are in the third period with lower values. N has the highest.
+
+### C-PER-05 — JEE Main 2024 · 29 Jan Shift 2 · Q33 · MCQ
+
+Statement I: Fluorine has the most negative electron gain enthalpy in its group.
+Statement II: Oxygen has the least negative electron gain enthalpy in its group.
+
+(1) Both true  (2) I true, II false  (3) Both false  (4) I false, II true
+
+**Answer: (4)** · key ✔
+
+**Solution.** Because of its very small size and strong inter-electronic repulsion in the compact $2p$ subshell, the first row element in a group is less negative than the second: chlorine ($-349$ kJ/mol) is more negative than fluorine ($-328$), so I is false. In group 16, O ($-141$) is the least negative (S: $-200$), so II is true.
+

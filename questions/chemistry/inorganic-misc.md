@@ -32,3 +32,23 @@ In the chromyl chloride test for the $\text{Cl}^-$ ion, a yellow solution is obt
 
 **Solution.** The yellow solution contains $\text{CrO}_4^{2-}$. With acid and $\text{H}_2\text{O}_2$ it forms the blue peroxo compound $\text{CrO}(\text{O}_2)_2$, i.e. "$\text{CrO}_5$", which has one oxo ($-2$) and two peroxo ($-1$ each, $-4$ total) groups, so $x-2-4=0\Rightarrow x=+6$. No change in Cr oxidation state occurs.
 
+### C-INM-04 — JEE Main 2024 · 29 Jan Shift 2 · Q48 · MCQ
+
+On passing a gas $X$ through Nessler's reagent, a brown precipitate is obtained. The gas $X$ is
+
+(1) $\text{H}_2\text{S}$  (2) $\text{CO}_2$  (3) $\text{NH}_3$  (4) $\text{Cl}_2$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Nessler's reagent ($\text{K}_2[\text{HgI}_4]$ in alkali) gives a brown precipitate of the oxo-dimercuric ammonium iodide ($\text{H}_2\text{N-Hg-O-Hg-I}$ type) with $\text{NH}_3$ or $\text{NH}_4^+$.
+
+### C-INM-05 — JEE Main 2024 · 29 Jan Shift 2 · Q49 · MCQ
+
+A reagent which gives a brilliant red precipitate with nickel ions in basic medium is
+
+(1) sodium nitroprusside  (2) neutral $\text{FeCl}_3$  (3) meta-dinitrobenzene  (4) dimethylglyoxime
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{Ni}^{2+}$ with dimethylglyoxime (DMG) in ammoniacal (basic) solution forms the bright red, chelated bis(dimethylglyoximato)nickel(II) precipitate.
+

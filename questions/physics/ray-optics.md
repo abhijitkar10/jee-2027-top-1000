@@ -32,3 +32,13 @@ A biconvex lens of refractive index $1.5$ has a focal length of $20$ cm in air. 
 
 **Solution.** In air: $\dfrac1{20}=(1.5-1)K\Rightarrow K=\dfrac1{10}$, where $K=\dfrac1{R_1}-\dfrac1{R_2}$. In the liquid: $\dfrac1{f_l}=\left(\dfrac{1.5}{1.6}-1\right)K=-\dfrac{0.1}{1.6}\cdot\dfrac1{10}=-\dfrac1{160}$. So $f_l=-160$ cm (the lens becomes diverging).
 
+### P-RAY-04 — JEE Main 2024 · 29 Jan Shift 2 · Q16 · MCQ
+
+If the distance between an object and its two-times magnified virtual image produced by a curved mirror is $15$ cm, the focal length of the mirror must be
+
+(1) 15 cm  (2) $-12$ cm  (3) $-10$ cm  (4) $\tfrac{10}3$ cm
+
+**Answer: (3)** · key ✔
+
+**Solution.** A magnified virtual image needs a concave mirror. Let $u=-x$; $m=-\dfrac vu=2\Rightarrow v=+2x$ (behind the mirror). Separation $=x+2x=15\Rightarrow x=5$ cm, so $u=-5,\ v=10$. $\dfrac1f=\dfrac1v+\dfrac1u=\dfrac1{10}-\dfrac15=-\dfrac1{10}\Rightarrow f=-10$ cm.
+

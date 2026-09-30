@@ -22,3 +22,13 @@ Two vessels $A$ and $B$ have the same size and are at the same temperature. $A$ 
 
 **Solution.** At the same $V$ and $T$, $P\propto n$. $n_A=\dfrac1{2}$ (H$_2$, $M=2$) and $n_B=\dfrac1{32}$ (O$_2$, $M=32$). So $\dfrac{P_A}{P_B}=\dfrac{1/2}{1/32}=16$.
 
+### P-KTG-03 — JEE Main 2024 · 29 Jan Shift 2 · Q9 · MCQ
+
+The temperature of a gas having $2.0\times10^{25}$ molecules per cubic metre at $1.38$ atm is (take $1\ \text{atm}\approx10^5$ Pa; $k=1.38\times10^{-23}\ \text{J K}^{-1}$)
+
+(1) 500 K  (2) 200 K  (3) 100 K  (4) 300 K
+
+**Answer: (1)** · key ✔
+
+**Solution.** $P=nkT\Rightarrow T=\dfrac{P}{nk}=\dfrac{1.38\times10^5}{2.0\times10^{25}\times1.38\times10^{-23}}=\dfrac{1.38\times10^5}{276}\approx500$ K.
+

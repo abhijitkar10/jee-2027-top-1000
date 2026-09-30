@@ -60,3 +60,13 @@ Let $O$ be the origin and the position vectors of $A$ and $B$ be $2\hat i+2\hat 
 
 **Solution.** $OA=3$ and $OB=6$. By the angle bisector theorem $AC:CB=OA:OB=1:2$, so $C=\dfrac{2\vec A+\vec B}{3}=\left(2,\tfrac83,2\right)$. $OC^2=4+\tfrac{64}9+4=\tfrac{136}9$, so $OC=\dfrac23\sqrt{34}$.
 
+### M-VEC-07 — JEE Main 2024 · 29 Jan Shift 2 · Q77 · MCQ
+
+Let $\overrightarrow{OA}=\vec a$, $\overrightarrow{OB}=12\vec a+4\vec b$ and $\overrightarrow{OC}=\vec b$, where $O$ is the origin. If $S$ is the parallelogram with adjacent sides $OA$ and $OC$, then $\dfrac{\text{area of quadrilateral }OABC}{\text{area of }S}$ is equal to
+
+(1) 6  (2) 10  (3) 7  (4) 8
+
+**Answer: (4)** · key ✔
+
+**Solution.** Area of $OABC=\text{area}(\triangle OAB)+\text{area}(\triangle OBC)=\tfrac12|\vec a\times(12\vec a+4\vec b)|+\tfrac12|(12\vec a+4\vec b)\times\vec b|=\tfrac12(4)|\vec a\times\vec b|+\tfrac12(12)|\vec a\times\vec b|=8|\vec a\times\vec b|$. Area of $S=|\vec a\times\vec b|$. Ratio $=8$.
+

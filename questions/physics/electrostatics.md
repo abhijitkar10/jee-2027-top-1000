@@ -49,3 +49,13 @@ Two charges $5Q$ and $-2Q$ are situated at the points $(3a,0)$ and $(-5a,0)$ res
 
 **Solution.** By Gauss's law only enclosed charge counts. $5Q$ at distance $3a<4a$ is inside; $-2Q$ at distance $5a>4a$ is outside. Flux $=\dfrac{5Q}{\varepsilon_0}$.
 
+### P-ELS-06 — JEE Main 2024 · 29 Jan Shift 2 · Q11 · MCQ
+
+An electric field is given by $(6\hat i+5\hat j+3\hat k)\ \text{N C}^{-1}$. The electric flux through a surface of area $30\hat i\ \text{m}^2$ lying in the $YZ$-plane (in SI units) is
+
+(1) 90  (2) 150  (3) 180  (4) 60
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\Phi=\vec E\cdot\vec A=(6\hat i+5\hat j+3\hat k)\cdot30\hat i=180$ N m$^2$ C$^{-1}$.
+
