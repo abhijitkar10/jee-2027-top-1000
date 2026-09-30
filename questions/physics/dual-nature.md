@@ -133,3 +133,13 @@ Which of the following phenomena is not explained by the wave nature of light? A
 
 **Solution.** Reflection, diffraction, interference and polarisation are explained by the wave theory. The photoelectric effect (instantaneous emission, threshold frequency) needs the photon (particle) picture.
 
+### P-DUL-14 — JEE Main 2024 · 6 Apr Shift 2 · Q17 · MCQ
+
+UV light of wavelength $300$ nm is incident on a metal surface of work function $2.13$ eV. The stopping potential is ($hc=1240$ eV nm):
+
+(1) 1.5 V  (2) 4.1 V  (3) 2 V  (4) 4 V
+
+**Answer: (3)** · key ✔
+
+**Solution.** Photon energy $=\dfrac{1240}{300}=4.13$ eV. $eV_0=4.13-2.13=2.0$ eV, so $V_0=2$ V.
+

@@ -113,3 +113,13 @@ Electromagnetic waves travel in a medium with a speed of $1.5\times10^8\ \text{m
 
 **Solution.** $v=\dfrac{c}{\sqrt{\mu_r\epsilon_r}}\Rightarrow\sqrt{\mu_r\epsilon_r}=\dfrac{3\times10^8}{1.5\times10^8}=2$, so $\mu_r\epsilon_r=4$. With $\mu_r=2$: $\epsilon_r=2$.
 
+### P-EMW-12 — JEE Main 2024 · 6 Apr Shift 2 · Q14 · MCQ
+
+In an electromagnetic wave $E_y=600\sin(\omega t-kx)\ \text{V m}^{-1}$, the intensity of the associated light beam is (in $\text{W/m}^2$), given $\epsilon_0=9\times10^{-12}\ \text{C}^2\text{N}^{-1}\text{m}^{-2}$:
+
+(1) 243  (2) 729  (3) 972  (4) 486
+
+**Answer: (4)** · key ✔
+
+**Solution.** $I=\tfrac12\epsilon_0cE_0^2=\tfrac12(9\times10^{-12})(3\times10^8)(600)^2=486\ \text{W/m}^2$.
+

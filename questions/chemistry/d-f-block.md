@@ -251,3 +251,21 @@ The difference in the spin-only magnetic moment of $\text{KMnO}_4$ and the manga
 
 **Solution.** $\text{KMnO}_4$: $\text{Mn}^{7+}$ ($d^0$), $\mu=0$. The product is $\text{Mn}^{2+}$ ($d^5$, $5$ unpaired), $\mu=\sqrt{35}=5.92$ BM. Difference $\approx6$ BM.
 
+### C-DFB-26 — JEE Main 2024 · 6 Apr Shift 2 · Q39 · MCQ
+
+Arrange in increasing order of the number of unpaired electrons in the atom: (A) Sc, (B) Cr, (C) V, (D) Ti, (E) Mn.
+
+(1) A < D < C < B < E  (2) C < E < B < A < D  (3) A < D < C < E < B  (4) B < C < D < E < A
+
+**Answer: (3)** · key ✔
+
+**Solution.** Ground-state configurations: Sc $3d^14s^2$ ($1$); Ti $3d^24s^2$ ($2$); V $3d^34s^2$ ($3$); Mn $3d^54s^2$ ($5$); Cr $3d^54s^1$ ($6$). Order: Sc < Ti < V < Mn < Cr, i.e. A < D < C < E < B.
+
+### C-DFB-27 — JEE Main 2024 · 6 Apr Shift 2 · Q56 · Numerical
+
+Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the spin-only magnetic moment of the species with the least oxidising ability is ______ BM (nearest integer).
+
+**Answer: 0** · key ✔
+
+**Solution.** $E^\circ$: $\text{MnO}_4^-/\text{Mn}^{2+}=+1.51$ V, $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=+1.33$ V, $\text{VO}_2^+/\text{VO}^{2+}=+1.00$ V, so $\text{VO}_2^+$ is the weakest oxidant. It contains $\text{V}^{5+}$ ($d^0$): $\mu=0$.
+

@@ -80,3 +80,11 @@ $9.3$ g of pure aniline upon diazotisation followed by coupling with phenol give
 
 **Solution.** Aniline ($93$ g/mol): $0.1$ mol. Diazotisation gives benzenediazonium chloride; coupling with phenol at the para position gives $p$-hydroxyazobenzene, $\text{C}_6\text{H}_5\text{N=N-C}_6\text{H}_4\text{OH}$ (molar mass $198$). Mass $=0.1\times198=19.8\approx20$ g.
 
+### C-AMN-10 — JEE Main 2024 · 6 Apr Shift 2 · Q53 · Numerical
+
+An amine X is prepared by ammonolysis of benzyl chloride. On adding $p$-toluenesulphonyl chloride to it, the solution remains clear. The molar mass of the amine X is ______ g mol$^{-1}$. (C $12$, H $1$, N $14$)
+
+**Answer: 287** · key ✔
+
+**Solution.** Hinsberg's test: a clear solution with no reaction means X has no N–H bond, so it is a tertiary amine: tribenzylamine $(\text{C}_6\text{H}_5\text{CH}_2)_3\text{N}=\text{C}_{21}\text{H}_{21}\text{N}$, $M=252+21+14=287$ g mol$^{-1}$.
+

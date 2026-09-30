@@ -143,3 +143,13 @@ In a hydrogen-like system the ratio of the Coulombic force to the gravitational 
 
 **Solution.** The ratio is independent of separation: $\dfrac{ke^2}{Gm_em_p}=\dfrac{9\times10^9\times(1.6\times10^{-19})^2}{6.67\times10^{-11}\times9.1\times10^{-31}\times1.67\times10^{-27}}\approx2.3\times10^{39}$, i.e. of order $10^{39}$.
 
+### P-ELS-16 — JEE Main 2024 · 6 Apr Shift 2 · Q10 · MCQ
+
+Two identical conducting spheres P and S, each with charge $q$, repel each other with a force of $16$ N. A third identical uncharged conducting sphere R is successively brought in contact with the two spheres P and S. The new force of repulsion between P and S is:
+
+(1) 1 N  (2) 6 N  (3) 12 N  (4) 4 N
+
+**Answer: (2)** · key ✔
+
+**Solution.** R touches P: both become $q/2$. Then R ($q/2$) touches S ($q$): both become $\dfrac{3q}{4}$. $F\propto q_Pq_S$: $F'=16\times\dfrac{1}{2}\times\dfrac34=6$ N.
+

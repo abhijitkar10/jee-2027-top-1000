@@ -109,3 +109,11 @@ The frequency of the de Broglie wave of the electron in Bohr's first orbit of hy
 
 **Solution.** $\nu=\dfrac{v}{\lambda}$ with $\lambda=\dfrac hp=\dfrac h{mv}$, so $\nu=\dfrac{mv^2}{h}$. In the first orbit $\tfrac12mv^2=R_H$, so $\nu=\dfrac{2R_H}{h}=\dfrac{2\times2.18\times10^{-18}}{6.6\times10^{-34}}=6.61\times10^{15}=661\times10^{13}$ Hz.
 
+### C-ATS-13 — JEE Main 2024 · 6 Apr Shift 2 · Q52 · Numerical
+
+For a hydrogen atom the energy of an electron in the first excited state is $-3.4$ eV. The kinetic energy of the same electron is $x\times10^{-1}$ eV. $x=$ ______ (nearest integer).
+
+**Answer: 34** · key ✔
+
+**Solution.** For a Coulomb orbit, $KE=-E_{total}=+3.4$ eV $=34\times10^{-1}$ eV.
+

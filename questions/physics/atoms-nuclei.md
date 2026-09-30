@@ -257,3 +257,21 @@ The radius of a certain orbit of the hydrogen atom is $8.48\ \text{Å}$. If the 
 
 **Solution.** $r_n=n^2a_0\Rightarrow n^2=\dfrac{8.48}{0.529}=16$, $n=4$. $E_n=\dfrac{E_1}{n^2}=\dfrac{E}{16}$, so $x=16$.
 
+### P-ATN-29 — JEE Main 2024 · 6 Apr Shift 2 · Q18 · MCQ
+
+The longest wavelength associated with the Paschen series is ($R_H=1.097\times10^7$ SI):
+
+(1) $3.646\times10^{-6}$ m  (2) $1.876\times10^{-6}$ m  (3) $2.973\times10^{-6}$ m  (4) $1.094\times10^{-6}$ m
+
+**Answer: (2)** · key ✔
+
+**Solution.** Paschen: $n_1=3$. The longest wavelength is for $4\to3$: $\dfrac1\lambda=R\left(\dfrac19-\dfrac1{16}\right)=\dfrac{7R}{144}$, so $\lambda=\dfrac{144}{7\times1.097\times10^7}=1.876\times10^{-6}$ m.
+
+### P-ATN-30 — JEE Main 2024 · 6 Apr Shift 2 · Q30 · Numerical
+
+In the Franck–Hertz experiment the first dip in the current–voltage graph for hydrogen is at $10.2$ V. The wavelength of light emitted by a hydrogen atom excited to the first excitation level is ______ nm. ($hc=1245$ eV nm)
+
+**Answer: 122** · key ✔
+
+**Solution.** The excitation energy is $10.2$ eV (n = 1 to 2). When the atom returns, $\lambda=\dfrac{hc}{E}=\dfrac{1245}{10.2}=122$ nm (the Lyman-$\alpha$ line).
+

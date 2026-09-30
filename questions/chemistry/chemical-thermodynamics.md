@@ -113,3 +113,11 @@ An ideal gas with $\bar C_v=\tfrac52R$ is expanded adiabatically against a const
 
 **Solution.** Let $V_1=\dfrac{nRT_1}{5}$ (litres, with $P_1=5$ atm). Work done by the gas $=P_{ext}\Delta V=1\times V_1$. First law ($q=0$): $nC_v(T_2-T_1)=-V_1=-\dfrac{nRT_1}{5}$. So $\tfrac52(T_2-T_1)=-\tfrac{T_1}5\Rightarrow T_2=T_1\left(1-\tfrac{2}{25}\right)=298\times0.92=274$ K.
 
+### C-CTH-14 — JEE Main 2024 · 6 Apr Shift 2 · Q54 · Numerical
+
+For the reaction at $298$ K, $2\text{A}+\text{B}\to\text{C}$, $\Delta H=400$ kJ mol$^{-1}$ and $\Delta S=0.2$ kJ mol$^{-1}$K$^{-1}$. The reaction will become spontaneous above ______ K.
+
+**Answer: 2000** · key ✔
+
+**Solution.** $\Delta G=\Delta H-T\Delta S<0\Rightarrow T>\dfrac{\Delta H}{\Delta S}=\dfrac{400}{0.2}=2000$ K.
+

@@ -85,3 +85,13 @@ Reason R: The dipole moment of trans-2-butene is zero.
 
 **Solution.** In the cis isomer the two $\text{C-CH}_3$ bond dipoles add to a resultant; in the trans isomer they are equal and opposite and cancel, giving $\mu=0$. R is true and explains A.
 
+### C-ISO-10 — JEE Main 2024 · 6 Apr Shift 2 · Q37 · MCQ
+
+The incorrect statement about the geometrical isomers of 2-butene is:
+
+(1) cis- and trans-2-butene are not interconvertible at room temperature  (2) cis- and trans-2-butene are stereoisomers  (3) cis-2-butene has a smaller dipole moment than trans-2-butene  (4) trans-2-butene is more stable than cis-2-butene
+
+**Answer: (3)** · key ✔
+
+**Solution.** Cis-2-butene has $\mu\approx0.33$ D (the two $\text{C-CH}_3$ dipoles add), while trans has $\mu=0$ (they cancel). So the cis isomer has a larger dipole moment and (3) is incorrect. Interconversion needs rotation about the $\pi$ bond, which is prevented at room temperature. Trans is more stable because of less steric strain.
+

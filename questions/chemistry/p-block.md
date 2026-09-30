@@ -212,3 +212,23 @@ Statement II: A thermometer containing gallium is useful for measuring the freez
 
 **Solution.** Gallium melts at $303$ K but boils above $2400$ K, giving it a very wide liquid range, so it is used in high-temperature thermometers: I is true. At $256$ K gallium is already solid, so it cannot measure the freezing point of brine: II is false.
 
+### C-PBL-21 — JEE Main 2024 · 6 Apr Shift 2 · Q34 · MCQ
+
+The number of ions expected to behave as oxidising agents among $\text{Sn}^{4+}$, $\text{Sn}^{2+}$, $\text{Pb}^{2+}$, $\text{Tl}^{3+}$, $\text{Pb}^{4+}$, $\text{Tl}^+$ is:
+
+(1) 3  (2) 2  (3) 1  (4) 4
+
+**Answer: (2)** · key ✔
+
+**Solution.** Because of the inert-pair effect, the lower oxidation state is the stable one for Tl and Pb, so $\text{Tl}^{3+}$ and $\text{Pb}^{4+}$ are strong oxidising agents. $\text{Sn}^{4+}$ is the stable state of tin ($\text{Sn}^{2+}$ is reducing), and $\text{Pb}^{2+}$, $\text{Tl}^+$ are stable. Count $=2$.
+
+### C-PBL-22 — JEE Main 2024 · 6 Apr Shift 2 · Q35 · MCQ
+
+Statements on group 14: (A) Covalent radius decreases down the group from C to Pb in a regular manner. (B) Electronegativity decreases from C to Pb gradually. (C) The maximum covalence of C is 4 whereas other elements can expand their covalence due to $d$ orbitals. (D) Heavier elements do not form $p\pi$–$p\pi$ bonds. (E) Carbon can exhibit negative oxidation states.
+
+(1) (A), (B), (C) only  (2) (C), (D), (E) only  (3) (C), (D) only  (4) (A), (B) only
+
+**Answer: (2)** · key ✔
+
+**Solution.** Covalent radius *increases* down the group (A false). Electronegativity is not regular ($\text{Si}<\text{Ge}\approx\text{Sn}<\text{Pb}$), so B is false. C, D and E are true (carbon forms $\text{CH}_4$, $\text{Al}_4\text{C}_3$ with negative states).
+

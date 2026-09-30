@@ -108,3 +108,11 @@ If the radius of the earth is reduced to three-fourths of its present value with
 
 **Solution.** No external torque, so $L=I\omega$ is conserved. $I\propto R^2$ (taking the earth as a uniform sphere), so $T\propto R^2$: $T'=24\times\dfrac9{16}=13.5$ h $=13$ h $30$ min.
 
+### P-ROT-14 — JEE Main 2024 · 6 Apr Shift 2 · Q22 · Numerical
+
+Three balls of masses $2$ kg, $4$ kg and $6$ kg are placed at the centres of the edges of an equilateral triangle of side $2$ m. The moment of inertia of the system about an axis through the centroid, perpendicular to the plane of the triangle, is ______ $\text{kg m}^2$.
+
+**Answer: 4** · key ✔
+
+**Solution.** The distance from the centroid to each edge midpoint is the inradius $=\dfrac{a}{2\sqrt3}=\dfrac1{\sqrt3}$ m. $I=\sum mr^2=(2+4+6)\times\dfrac13=4\ \text{kg m}^2$.
+

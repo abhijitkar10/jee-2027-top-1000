@@ -62,3 +62,11 @@ A sonometer wire of resonating length $90$ cm has a fundamental frequency of $40
 
 **Solution.** $f=\dfrac{1}{2l}\sqrt{T/\mu}\Rightarrow f\propto\dfrac1l$ at fixed tension. $l'=90\times\dfrac{400}{600}=60$ cm.
 
+### P-WAV-08 — JEE Main 2024 · 6 Apr Shift 2 · Q24 · Numerical
+
+Two open organ pipes of lengths $60$ cm and $90$ cm resonate at their $6$th and $5$th harmonics respectively. The difference of frequencies for the given modes is ______ Hz. (Velocity of sound $=333$ m/s)
+
+**Answer: 740** · key ✔
+
+**Solution.** Open pipe: $f_n=\dfrac{nv}{2L}$. $f_6=\dfrac{6\times333}{2\times0.6}=1665$ Hz; $f_5=\dfrac{5\times333}{2\times0.9}=925$ Hz. Difference $=740$ Hz.
+

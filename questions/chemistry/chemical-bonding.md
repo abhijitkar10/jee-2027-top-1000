@@ -259,3 +259,22 @@ Match: A. $\text{SO}_2\text{Cl}_2$; B. NO; C. $\text{NO}_2^-$; D. $\text{I}_3^-$
 
 **Solution.** $\text{SO}_2\text{Cl}_2$ is tetrahedral. NO has an unpaired electron: paramagnetic. $\text{NO}_2^-$ has all electrons paired: diamagnetic. $\text{I}_3^-$ is linear ($sp^3d$ with three lone pairs on the central I).
 
+### C-BND-29 — JEE Main 2024 · 6 Apr Shift 2 · Q41 · MCQ
+
+Statement I: $\text{PF}_5$ and $\text{BrF}_5$ both exhibit $sp^3d$ hybridisation.
+Statement II: Both $\text{SF}_6$ and $[\text{Co(NH}_3)_6]^{3+}$ exhibit $sp^3d^2$ hybridisation.
+
+(1) I true, II false  (2) I false, II true  (3) Both true  (4) Both false
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{PF}_5$ is $sp^3d$, but $\text{BrF}_5$ ($5$ bond + $1$ lone pair) is $sp^3d^2$, so I is false. $\text{SF}_6$ is $sp^3d^2$, but $[\text{Co(NH}_3)_6]^{3+}$ is an inner-orbital complex ($d^2sp^3$), so II is false.
+
+### C-BND-30 — JEE Main 2024 · 6 Apr Shift 2 · Q59 · Numerical
+
+The number of species with the central atom using $sp^2$ hybrid orbitals among $\text{NH}_3$, $\text{SO}_2$, $\text{SiO}_2$, $\text{BeCl}_2$, $\text{C}_2\text{H}_2$, $\text{C}_2\text{H}_4$, $\text{BCl}_3$, HCHO, $\text{C}_6\text{H}_6$, $\text{BF}_3$, $\text{C}_2\text{H}_4\text{Cl}_2$ is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** $sp^2$: $\text{SO}_2$, $\text{C}_2\text{H}_4$, $\text{BCl}_3$, HCHO, $\text{C}_6\text{H}_6$, $\text{BF}_3$. Not: $\text{NH}_3$, $\text{SiO}_2$ and $\text{C}_2\text{H}_4\text{Cl}_2$ ($sp^3$); $\text{BeCl}_2$ and $\text{C}_2\text{H}_2$ ($sp$). Count $=6$.
+

@@ -113,3 +113,13 @@ The refractive index of a prism is $\mu=\sqrt3$ and the ratio of the angle of mi
 
 **Solution.** $\delta_m=A$, so $\mu=\dfrac{\sin\frac{A+\delta_m}{2}}{\sin\frac A2}=\dfrac{\sin A}{\sin\frac A2}=2\cos\dfrac A2=\sqrt3\Rightarrow\dfrac A2=30^\circ$, so $A=60^\circ$.
 
+### P-RAY-13 — JEE Main 2024 · 6 Apr Shift 2 · Q16 · MCQ
+
+For a thin convex lens the radii of curvature are $15$ cm and $30$ cm and the focal length is $20$ cm. The refractive index of the material is:
+
+(1) 1.2  (2) 1.8  (3) 1.5  (4) 1.4
+
+**Answer: (3)** · key ✔
+
+**Solution.** Lens-maker: $\dfrac1f=(\mu-1)\left(\dfrac1{R_1}+\dfrac1{R_2}\right)$ for a biconvex lens: $\dfrac1{20}=(\mu-1)\dfrac{1}{10}\Rightarrow\mu-1=0.5$, so $\mu=1.5$.
+

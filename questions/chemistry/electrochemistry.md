@@ -268,3 +268,23 @@ For the electrochemical cell $\text{M}\,|\,\text{M}^{2+}\,\|\,\text{X}^{2-}\,|\,
 
 **Solution.** For $\text{M}+\text{X}\to\text{M}^{2+}+\text{X}^{2-}$, X is reduced (cathode) and M is oxidised (anode): $E^\circ_{cell}=0.34-0.46=-0.12$ V $<0$, so the forward reaction is non-spontaneous and the reverse, $\text{M}^{2+}+\text{X}^{2-}\to\text{M}+\text{X}$, is spontaneous. (Options with $\pm0.80$ V come from adding the two potentials, which is wrong.)
 
+### C-ELC-29 — JEE Main 2024 · 6 Apr Shift 2 · Q33 · MCQ
+
+Match the reaction with the type of redox reaction: (A) $\text{N}_2+\text{O}_2\to2\text{NO}$; (B) $2\text{Pb(NO}_3)_2\to2\text{PbO}+4\text{NO}_2+\text{O}_2$; (C) $2\text{Na}+2\text{H}_2\text{O}\to2\text{NaOH}+\text{H}_2$; (D) $2\text{NO}_2+2\text{OH}^-\to\text{NO}_2^-+\text{NO}_3^-+\text{H}_2\text{O}$. (I) decomposition, (II) displacement, (III) disproportionation, (IV) combination.
+
+(1) A-II, B-III, C-IV, D-I  (2) A-III, B-II, C-I, D-IV  (3) A-IV, B-I, C-II, D-III  (4) A-I, B-II, C-III, D-IV
+
+**Answer: (3)** · key ✔
+
+**Solution.** A: two elements combine: combination (IV). B: one compound splits into several: decomposition (I). C: Na displaces H from water: displacement (II). D: $\text{N}(+4)$ goes to $+3$ and $+5$: disproportionation (III).
+
+### C-ELC-30 — JEE Main 2024 · 6 Apr Shift 2 · Q38 · MCQ
+
+How can an electrochemical (galvanic) cell be converted into an electrolytic cell?
+
+(1) Applying an external opposite potential lower than $E^\circ_{cell}$  (2) Reversing the flow of ions in the salt bridge  (3) Applying an external opposite potential greater than $E^\circ_{cell}$  (4) Exchanging the electrodes at anode and cathode
+
+**Answer: (3)** · key ✔
+
+**Solution.** In the Daniell-type cell, an opposing external potential smaller than $E_{cell}$ just reduces the current. Once it exceeds $E_{cell}$, current flows in the reverse direction and the non-spontaneous reaction is driven: the cell works as an electrolytic cell.
+

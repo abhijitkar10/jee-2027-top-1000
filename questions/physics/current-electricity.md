@@ -220,3 +220,13 @@ A wire of resistance $R$ and radius $r$ is stretched until its radius becomes $r
 
 **Solution.** Volume is constant: area falls to $\tfrac14$, so length rises $4\times$. $R\propto\dfrac{l}{A}$ increases by $4\times4=16$. Hence $R'=16R$.
 
+### P-CUR-24 — JEE Main 2024 · 6 Apr Shift 2 · Q11 · MCQ
+
+The number of electrons flowing per second in the filament of a $110$ W, $220$ V bulb operating at $220$ V is ($e=1.6\times10^{-19}$ C):
+
+(1) $6.25\times10^{17}$  (2) $1.25\times10^{19}$  (3) $6.25\times10^{18}$  (4) $31.25\times10^{17}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $I=\dfrac PV=\dfrac{110}{220}=0.5$ A. Electrons per second $=\dfrac{I}{e}=\dfrac{0.5}{1.6\times10^{-19}}=3.125\times10^{18}=31.25\times10^{17}$.
+

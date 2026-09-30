@@ -84,3 +84,13 @@ At $-20^\circ$C and $1$ atm pressure, a cylinder is filled with equal numbers of
 
 **Solution.** Equal numbers of molecules means equal mole fractions, so equal partial pressures of $\tfrac13$ atm each. $K_p=\dfrac{p_{HI}^2}{p_{H_2}p_{I_2}}=1=10\times10^{-1}$, so $x=10$. ($\Delta n_g=0$, so $K_p$ has no units and does not depend on $R$.)
 
+### C-CEQ-10 — JEE Main 2024 · 6 Apr Shift 2 · Q32 · MCQ
+
+The ratio $\dfrac{K_P}{K_C}$ for the reaction $\text{CO}(g)+\tfrac12\text{O}_2(g)\rightleftharpoons\text{CO}_2(g)$ is:
+
+(1) $\dfrac1{\sqrt{RT}}$  (2) $(RT)^{1/2}$  (3) $RT$  (4) $1$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $K_P=K_C(RT)^{\Delta n_g}$ with $\Delta n_g=1-\tfrac32=-\tfrac12$. So $\dfrac{K_P}{K_C}=(RT)^{-1/2}=\dfrac1{\sqrt{RT}}$.
+

@@ -112,3 +112,13 @@ Four particles A, B, C, D of masses $\tfrac m2,\ m,\ 2m,\ 4m$ have the same mome
 
 **Solution.** $KE=\dfrac{p^2}{2m}$. At equal $p$, the lightest particle has the largest KE: particle A (mass $m/2$).
 
+### P-WEP-12 — JEE Main 2024 · 6 Apr Shift 2 · Q5 · MCQ
+
+When the kinetic energy of a body becomes $36$ times its original value, the percentage increase in the momentum of the body will be:
+
+(1) 6%  (2) 600%  (3) 60%  (4) 500%
+
+**Answer: (4)** · key ✔
+
+**Solution.** $p=\sqrt{2mK}\propto\sqrt K$. $p'/p=\sqrt{36}=6$, so the momentum increases by $(6-1)\times100=500\%$.
+

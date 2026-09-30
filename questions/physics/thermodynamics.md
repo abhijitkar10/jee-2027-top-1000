@@ -102,3 +102,13 @@ During an adiabatic process the pressure of a gas is found to be proportional to
 
 **Solution.** For an adiabatic process $P^{1-\gamma}T^{\gamma}=$ const, i.e. $P\propto T^{\gamma/(\gamma-1)}$. Setting $\dfrac{\gamma}{\gamma-1}=3$ gives $\gamma=\dfrac32$.
 
+### P-THD-11 — JEE Main 2024 · 6 Apr Shift 2 · Q8 · MCQ
+
+A total of $48$ J of heat is given to one mole of helium kept in a cylinder. The temperature of the helium increases by $2^\circ$C. The work done by the gas is ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$):
+
+(1) 24.9 J  (2) 72.9 J  (3) 48 J  (4) 23.1 J
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\Delta U=nC_v\Delta T=\tfrac32R\Delta T=\tfrac32(8.3)(2)=24.9$ J. $W=Q-\Delta U=48-24.9=23.1$ J.
+

@@ -228,3 +228,13 @@ A small ball of mass $m$ and density $\rho$ is dropped into a viscous liquid of 
 
 **Solution.** At terminal velocity: $mg=F_{visc}+F_{buoy}$ with $F_{buoy}=\rho_0Vg=mg\dfrac{\rho_0}{\rho}$. So $F_{visc}=mg\left(1-\dfrac{\rho_0}{\rho}\right)$.
 
+### P-POM-26 — JEE Main 2024 · 6 Apr Shift 2 · Q7 · MCQ
+
+The pressure inside a soap bubble is greater than the pressure outside by an amount (radius $R$, surface tension $S$):
+
+(1) $\dfrac{2S}{R}$  (2) $\dfrac{4R}{S}$  (3) $\dfrac SR$  (4) $\dfrac{4S}{R}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** A soap bubble has two surfaces (inside and outside), so the excess pressure is $\dfrac{4S}{R}$. (A liquid drop, with one surface, has $\dfrac{2S}{R}$.)
+

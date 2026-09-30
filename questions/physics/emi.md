@@ -94,3 +94,13 @@ The current in an inductor is $I=(3t+8)$ A ($t$ in seconds). The magnitude of th
 
 **Solution.** $\varepsilon=L\dfrac{dI}{dt}=3L=12\times10^{-3}\Rightarrow L=4\times10^{-3}$ H $=4$ mH.
 
+### P-EMI-12 — JEE Main 2024 · 6 Apr Shift 2 · Q13 · MCQ
+
+In a coil the current changes from $-2$ A to $+2$ A in $0.2$ s and induces an emf of $0.1$ V. The self-inductance of the coil is:
+
+(1) 4 mH  (2) 1 mH  (3) 5 mH  (4) 2.5 mH
+
+**Answer: (3)** · key ✔
+
+**Solution.** $|\varepsilon|=L\dfrac{|\Delta I|}{\Delta t}=L\dfrac{4}{0.2}=20L=0.1\Rightarrow L=5\times10^{-3}$ H $=5$ mH.
+

@@ -277,3 +277,23 @@ For the complexes (A) $[\text{CoCl(NH}_3)_5]^{2+}$, (B) $[\text{Co(CN)}_6]^{3-}$
 
 **Solution.** The wavenumber absorbed is proportional to $\Delta$. $[\text{Co(CN)}_6]^{3-}$ (strong-field $\text{CN}^-$, $\text{Co}^{3+}$) has the largest $\Delta$. Among the $\text{Co}^{3+}$ pentammines $\text{H}_2\text{O}>\text{Cl}^-$, so C $>$ A. The $3d^9$ $[\text{Cu(H}_2\text{O)}_4]^{2+}$ with weak-field $\text{H}_2\text{O}$ (and a first-row $+2$ ion) has the smallest $\Delta$. Order: D < A < C < B.
 
+### C-COO-28 — JEE Main 2024 · 6 Apr Shift 2 · Q40 · MCQ
+
+The correct IUPAC name of $[\text{PtBr}_2(\text{PMe}_3)_2]$ is:
+
+(1) dibromodi(trimethylphosphine)platinum(II)  (2) bis(trimethylphosphine)dibromoplatinum(II)  (3) dibromobis(trimethylphosphine)platinum(II)  (4) bis[bromo(trimethylphosphine)]platinum(II)
+
+**Answer: (3)** · key ✔
+
+**Solution.** Ligands are named alphabetically (bromo before trimethylphosphine, ignoring multipliers). The prefix "di" is used for simple ligands (bromo) and "bis" for ligands with substituent prefixes (trimethylphosphine). Pt is $+2$ ($2\times(-1)+0$). Name: dibromobis(trimethylphosphine)platinum(II).
+
+### C-COO-29 — JEE Main 2024 · 6 Apr Shift 2 · Q42 · MCQ
+
+Match the complex with its electronic configuration: (A) $\text{TiCl}_4$; (B) $[\text{FeO}_4]^{2-}$; (C) $[\text{FeCl}_4]^-$; (D) $[\text{CoCl}_4]^{2-}$; (I) $e^2,t_2^0$; (II) $e^4,t_2^3$; (III) $e^0,t_2^0$; (IV) $e^2,t_2^3$.
+
+(1) A-III, B-IV, C-II, D-I  (2) A-IV, B-III, C-I, D-II  (3) A-III, B-I, C-IV, D-II  (4) A-I, B-III, C-IV, D-II
+
+**Answer: (3)** · key ✔
+
+**Solution.** All are tetrahedral ($e$ below $t_2$). $\text{Ti}^{4+}$ ($d^0$): $e^0t_2^0$. $\text{Fe}^{6+}$ ($d^2$): $e^2t_2^0$. $\text{Fe}^{3+}$ ($d^5$, high spin): $e^2t_2^3$. $\text{Co}^{2+}$ ($d^7$): $e^4t_2^3$.
+

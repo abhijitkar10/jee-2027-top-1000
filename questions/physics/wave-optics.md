@@ -130,3 +130,11 @@ A parallel beam of green light of wavelength $550$ nm passes through a slit of w
 
 **Solution.** First minimum: $a\sin\theta=\lambda$, $y=\dfrac{\lambda D}{a}=\dfrac{550\times10^{-9}\times1}{0.2\times10^{-3}}=2.75\times10^{-3}$ m $=275\times10^{-5}$ m.
 
+### P-WOP-15 — JEE Main 2024 · 6 Apr Shift 2 · Q29 · Numerical
+
+Two coherent monochromatic light beams of intensities $I$ and $4I$ are superposed. The difference between the maximum and minimum possible intensities in the resulting beam is $xI$. The value of $x$ is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** $I_{max}=(\sqrt I+2\sqrt I)^2=9I$, $I_{min}=(2\sqrt I-\sqrt I)^2=I$. Difference $=8I$, so $x=8$.
+

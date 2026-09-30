@@ -192,3 +192,21 @@ For vectors $\vec A=-x\hat i-6\hat j-2\hat k$, $\vec B=-\hat i+4\hat j+3\hat k$ 
 
 **Solution.** $\vec B\times\vec C=(4\cdot3-3\cdot(-1),\ 3\cdot(-8)-(-1)\cdot3,\ (-1)(-1)-4(-8))=(15,-21,33)$. $\vec A\cdot(\vec B\times\vec C)=-15x+126-66=0\Rightarrow x=4$. (Vanishing scalar triple product means the three vectors are coplanar.)
 
+### P-KIN-22 — JEE Main 2024 · 6 Apr Shift 2 · Q2 · MCQ
+
+A body projected vertically upwards with a certain speed from the top of a tower reaches the ground in time $t_1$. If it is projected vertically downwards from the same point with the same speed, it reaches the ground in time $t_2$. The time required to reach the ground if it is dropped from the top of the tower is:
+
+(1) $\sqrt{t_1t_2}$  (2) $\sqrt{t_1+t_2}$  (3) $\sqrt{t_1-t_2}$  (4) $\sqrt{t_1/t_2}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Take down as positive and tower height $h$: $h=-ut_1+\tfrac12gt_1^2$ and $h=ut_2+\tfrac12gt_2^2$. Multiply the first by $t_2$ and the second by $t_1$ and add: $h(t_1+t_2)=\tfrac12gt_1t_2(t_1+t_2)\Rightarrow h=\tfrac12gt_1t_2$. For a drop, $h=\tfrac12gt^2$, so $t=\sqrt{t_1t_2}$.
+
+### P-KIN-23 — JEE Main 2024 · 6 Apr Shift 2 · Q21 · Numerical
+
+A particle moves in a straight line with displacement given by $x^2=1+t^2$. Its acceleration at any time $t$ is $x^{-n}$, where $n=$ ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** $2x\dot x=2t\Rightarrow\dot x=\dfrac tx$. $\ddot x=\dfrac{x-t\dot x}{x^2}=\dfrac{x-t^2/x}{x^2}=\dfrac{x^2-t^2}{x^3}=\dfrac{1}{x^3}$. So $n=3$.
+

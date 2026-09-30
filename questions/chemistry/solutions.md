@@ -126,3 +126,21 @@ For $\text{HX}(aq)\rightleftharpoons\text{H}^+(aq)+\text{X}^-(aq)$, $K_a=1.2\tim
 
 **Solution.** $\alpha=\sqrt{K_a/C}=\sqrt{\dfrac{1.2\times10^{-5}}{0.03}}=0.02$. $i=1+\alpha=1.02$. $\pi=iCRT=1.02\times0.03\times0.083\times300=0.762$ bar $=76\times10^{-2}$ bar.
 
+### C-SOL-15 — JEE Main 2024 · 6 Apr Shift 2 · Q31 · MCQ
+
+The molality of a $3$ M aqueous solution of NaCl (density $1.25\ \text{g mL}^{-1}$; Na $=23$, Cl $=35.5$ g mol$^{-1}$) is:
+
+(1) 1.9 m  (2) 3.85 m  (3) 2.79 m  (4) 2.90 m
+
+**Answer: (3)** · key ✔
+
+**Solution.** In $1$ L: solution mass $=1250$ g; NaCl $=3\times58.5=175.5$ g; water $=1074.5$ g. Molality $=\dfrac{3}{1.0745}=2.79$ m.
+
+### C-SOL-16 — JEE Main 2024 · 6 Apr Shift 2 · Q55 · Numerical
+
+For $\text{A}+\text{B}\to\text{C}$ (reaction 1) and $\text{P}\to\text{Q}$ (reaction 2), both first order, the ratio of half-lives $t_{1/2}(1):t_{1/2}(2)=5:2$. If $t_1$ and $t_2$ are the times to complete $\tfrac23$ (reaction 1) and $\tfrac45$ (reaction 2), then $t_1:t_2=$ ______ $\times10^{-1}$. ($\log3=0.477$, $\log5=0.699$)
+
+**Answer: 17** · key ✔
+
+**Solution.** $t=\dfrac{2.303}{k}\log\dfrac{1}{1-f}$. Reaction 1: $\log3=0.477$; reaction 2: $\log5=0.699$. $k\propto1/t_{1/2}$, so $\dfrac{k_1}{k_2}=\dfrac25$. $\dfrac{t_1}{t_2}=\dfrac{0.477}{0.699}\times\dfrac{k_2}{k_1}=0.682\times2.5=1.7=17\times10^{-1}$.
+

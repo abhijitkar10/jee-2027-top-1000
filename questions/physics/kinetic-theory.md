@@ -122,3 +122,13 @@ A sample contains a mixture of helium and oxygen gas. The ratio of the r.m.s. sp
 
 **Solution.** $v_{rms}\propto M^{-1/2}$ at the same temperature: $\dfrac{v_{He}}{v_{O_2}}=\sqrt{\dfrac{32}{4}}=\sqrt8=2\sqrt2$.
 
+### P-KTG-13 — JEE Main 2024 · 6 Apr Shift 2 · Q9 · MCQ
+
+The energy of $10$ non-rigid diatomic molecules at temperature $T$ is:
+
+(1) $70k_BT$  (2) $35k_BT$  (3) $\tfrac72RT$  (4) $35RT$
+
+**Answer: (2)** · key ✔
+
+**Solution.** A non-rigid diatomic molecule has $3$ translational, $2$ rotational and $1$ vibrational mode, the last contributing two quadratic terms (kinetic and potential): $f=7$. Energy per molecule $=\tfrac72k_BT$, so $10$ molecules have $35k_BT$.
+

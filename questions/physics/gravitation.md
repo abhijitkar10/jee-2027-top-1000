@@ -153,3 +153,13 @@ To project a body of mass $m$ from the earth's surface to infinity, the required
 
 **Solution.** Total energy must be $\ge0$: $KE-\dfrac{GMm}{R_E}=0\Rightarrow KE=\dfrac{GMm}{R_E}=mgR_E$ (with $GM=gR_E^2$).
 
+### P-GRV-16 — JEE Main 2024 · 6 Apr Shift 2 · Q6 · MCQ
+
+Assuming the earth to be a sphere of uniform density, a body weighs $300$ N on the surface. How much would it weigh at a depth $R/4$ below the surface?
+
+(1) 75 N  (2) 300 N  (3) 375 N  (4) 225 N
+
+**Answer: (4)** · key ✔
+
+**Solution.** Inside a uniform sphere $g'=g\left(1-\dfrac dR\right)=g\left(1-\dfrac14\right)=\dfrac{3g}{4}$. Weight $=\dfrac34\times300=225$ N.
+

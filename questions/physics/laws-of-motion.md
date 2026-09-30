@@ -179,3 +179,23 @@ A light string passing over a smooth light pulley connects two blocks of masses 
 
 **Solution.** Atwood machine: $a=\dfrac{(m_2-m_1)g}{m_1+m_2}=\dfrac{g}{\sqrt2}$, so $\dfrac{1-m_1/m_2}{1+m_1/m_2}=\dfrac1{\sqrt2}$. Solving: $\dfrac{m_1}{m_2}=\dfrac{\sqrt2-1}{\sqrt2+1}$.
 
+### P-LOM-19 — JEE Main 2024 · 6 Apr Shift 2 · Q3 · MCQ
+
+A body of weight $200$ N is suspended from a tree branch through a chain of mass $10$ kg. The branch pulls the chain with a force equal to ($g=10\ \text{m/s}^2$):
+
+(1) 100 N  (2) 200 N  (3) 300 N  (4) 150 N
+
+**Answer: (3)** · key ✔
+
+**Solution.** The body and chain are at rest. The branch supports the weight of the body plus the weight of the chain: $200+10\times10=300$ N.
+
+### P-LOM-20 — JEE Main 2024 · 6 Apr Shift 2 · Q4 · MCQ
+
+A car of $800$ kg is taking a turn on a banked road of radius $300$ m and banking angle $30^\circ$. If the coefficient of static friction is $0.2$, the maximum speed with which the car can negotiate the turn safely is ($g=10$, $\sqrt3=1.73$):
+
+(1) 264 m/s  (2) 51.4 m/s  (3) 70.4 m/s  (4) 102.8 m/s
+
+**Answer: (2)** · key ✔
+
+**Solution.** $v_{max}^2=rg\dfrac{\tan\theta+\mu}{1-\mu\tan\theta}$ with $\tan30^\circ=\dfrac1{1.73}=0.578$: $\dfrac{0.578+0.2}{1-0.1156}=0.880$. $v^2=300\times10\times0.880=2640$, so $v\approx51.4$ m/s.
+

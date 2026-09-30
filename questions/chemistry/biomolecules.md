@@ -131,3 +131,13 @@ Coagulation of egg on heating is because of:
 
 **Solution.** Heat breaks the hydrogen bonds and other weak interactions that hold the secondary and tertiary structure, so the globular albumin unfolds and aggregates (denaturation). The primary structure (peptide bonds) is not broken.
 
+### C-BIO-14 — JEE Main 2024 · 6 Apr Shift 2 · Q50 · MCQ
+
+The incorrect statements regarding enzymes are: (A) Enzymes are biocatalysts. (B) Enzymes are non-specific and can catalyse different kinds of reactions. (C) Most enzymes are globular proteins. (D) The enzyme oxidase catalyses the hydrolysis of maltose into glucose.
+
+(1) (B), (C) and (D)  (2) (B) and (D)  (3) (A), (B) and (C)  (4) (B) and (C)
+
+**Answer: (2)** · key ✔
+
+**Solution.** A and C are true. B is false because enzymes are highly specific. D is false: oxidases catalyse oxidation, whereas maltase hydrolyses maltose to glucose.
+
