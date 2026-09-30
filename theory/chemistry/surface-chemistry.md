@@ -1,6 +1,6 @@
 # Surface Chemistry — theory
 
-> Questions: [../../questions/chemistry/surface-chemistry.md](../../questions/chemistry/surface-chemistry.md)
+> No verified questions from the sourced papers in this chapter yet (see ../../README.md, *Coverage gaps*).
 
 ## Key ideas
 - Physisorption (weak, reversible, multilayer, decreases with $T$) vs chemisorption (strong, monolayer, specific). Freundlich $\dfrac xm=kP^{1/n}$.
