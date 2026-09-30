@@ -62,3 +62,13 @@ A gas mixture consists of $8$ moles of argon and $6$ moles of oxygen at temperat
 
 **Solution.** Argon (monoatomic): $U=\tfrac32nRT=8\times1.5RT=12RT$. Oxygen (diatomic, $5$ degrees of freedom without vibration): $U=\tfrac52nRT=6\times2.5RT=15RT$. Total $=27RT$.
 
+### P-KTG-07 — JEE Main 2024 · 1 Feb Shift 1 · Q10 · MCQ
+
+Two moles of a monoatomic gas are mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is
+
+(1) $\tfrac94R$  (2) $\tfrac74R$  (3) $\tfrac32R$  (4) $\tfrac52R$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $C_v=\dfrac{n_1C_{v1}+n_2C_{v2}}{n_1+n_2}=\dfrac{2\left(\tfrac32R\right)+6\left(\tfrac52R\right)}{8}=\dfrac{3R+15R}8=\dfrac94R$.
+

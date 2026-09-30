@@ -138,3 +138,21 @@ The resistance per centimetre of a meter bridge wire is $r$, with $X\ \Omega$ re
 
 **Solution.** At balance $\dfrac X{25}=\dfrac{r\,l}{r(100-l)}=\dfrac l{100-l}$. Only the ratio of the two wire segments matters, and both scale by the same factor $2$ for the new wire, so the balance point is unchanged at $40$ cm.
 
+### P-CUR-15 — JEE Main 2024 · 1 Feb Shift 1 · Q13 · MCQ
+
+A galvanometer has a resistance of $50\ \Omega$ and it allows a maximum current of $5$ mA. It can be converted into a voltmeter to measure up to $100$ V by connecting in series a resistor of resistance
+
+(1) 5975 Ω  (2) 20050 Ω  (3) 19950 Ω  (4) 19500 Ω
+
+**Answer: (3)** · key ✔
+
+**Solution.** $R_{series}=\dfrac V{I_g}-G=\dfrac{100}{5\times10^{-3}}-50=20000-50=19950\ \Omega$.
+
+### P-CUR-16 — JEE Main 2024 · 1 Feb Shift 1 · Q26 · Numerical
+
+The current in a conductor is $I=3t^2+4t^3$ (in ampere, $t$ in second). The amount of electric charge that flows through a section of the conductor from $t=1$ s to $t=2$ s is ______ C.
+
+**Answer: 22** · key ✔
+
+**Solution.** $q=\int_1^2(3t^2+4t^3)dt=\left[t^3+t^4\right]_1^2=(8+16)-(1+1)=22$ C.
+

@@ -121,3 +121,13 @@ A block of mass $5$ kg is placed on a rough inclined surface ($\mu=0.1$, inclina
 
 **Solution.** $F_1=mg\sin\theta+\mu mg\cos\theta$ (friction down the slope) and $F_2=mg\sin\theta-\mu mg\cos\theta$ (friction up the slope). $F_1-F_2=2\mu mg\cos\theta=2(0.1)(50)\dfrac{\sqrt3}2=5\sqrt3$ N.
 
+### P-LOM-13 — JEE Main 2024 · 1 Feb Shift 1 · Q6 · MCQ
+
+A ball of mass $0.5$ kg is attached to a string of length $50$ cm. The ball is rotated on a horizontal circular path about its vertical axis. The maximum tension that the string can bear is $400$ N. The maximum possible value of angular velocity of the ball is
+
+(1) 1600 rad s$^{-1}$  (2) 40 rad s$^{-1}$  (3) 1000 rad s$^{-1}$  (4) 20 rad s$^{-1}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** For a (nearly) horizontal circle of radius equal to the string length, $T=m\omega^2r$. $\omega_{\max}=\sqrt{\dfrac{T_{\max}}{mr}}=\sqrt{\dfrac{400}{0.5\times0.5}}=\sqrt{1600}=40$ rad/s.
+

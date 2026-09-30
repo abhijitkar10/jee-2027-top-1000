@@ -52,3 +52,23 @@ If three moles of a monoatomic gas ($\gamma=\tfrac53$) are mixed with two moles 
 
 **Solution.** $C_v$: monoatomic $\tfrac32R$, diatomic $\tfrac52R$. $C_{v,mix}=\dfrac{3(1.5R)+2(2.5R)}5=1.9R$ and $C_{p,mix}=C_v+R=2.9R$. $\gamma=\dfrac{2.9}{1.9}=1.526\approx1.52$.
 
+### P-THD-06 — JEE Main 2024 · 1 Feb Shift 1 · Q9 · MCQ
+
+The pressure and volume of an ideal gas are related as $PV^{3/2}=K$ (constant). The work done when the gas is taken from state $A(P_1,V_1,T_1)$ to state $B(P_2,V_2,T_2)$ is
+
+(1) $2(P_1V_1-P_2V_2)$  (2) $2(P_2V_2-P_1V_1)$  (3) $2\left(\sqrt{P_1}V_1-\sqrt{P_2}V_2\right)$  (4) $2\left(P_2\sqrt{V_2}-P_1\sqrt{V_1}\right)$
+
+**Answer: (1)** · key ✔
+
+**Solution.** For $PV^n=$ const, $W=\dfrac{P_1V_1-P_2V_2}{n-1}$. With $n=\tfrac32$: $W=\dfrac{P_1V_1-P_2V_2}{1/2}=2(P_1V_1-P_2V_2)$.
+
+### P-THD-07 — JEE Main 2024 · 1 Feb Shift 1 · Q35 · MCQ
+
+Choose the correct option for the free expansion of an ideal gas under adiabatic conditions.
+
+(1) $q=0,\ \Delta T\ne0,\ w=0$  (2) $q=0,\ \Delta T<0,\ w\ne0$  (3) $q\ne0,\ \Delta T<0,\ w=0$  (4) $q=0,\ \Delta T=0,\ w=0$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Adiabatic: $q=0$. Free expansion against zero external pressure: $w=0$. First law: $\Delta U=0$, and for an ideal gas $U$ depends only on $T$, so $\Delta T=0$.
+

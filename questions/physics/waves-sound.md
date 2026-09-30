@@ -46,3 +46,11 @@ The speed of sound in oxygen at S.T.P. will be approximately (given $R=8.3\ \tex
 
 **Solution.** $v=\sqrt{\dfrac{\gamma RT}M}=\sqrt{\dfrac{1.4\times8.3\times273}{32\times10^{-3}}}\approx\sqrt{9.9\times10^4}\approx315\ \text{m s}^{-1}$, closest to $310\ \text{m s}^{-1}$.
 
+### P-WAV-06 — JEE Main 2024 · 1 Feb Shift 1 · Q24 · Numerical
+
+A tuning fork resonates with a sonometer wire of length $1$ m stretched with a tension of $6$ N. When the tension in the wire is changed to $54$ N, the same tuning fork produces $12$ beats per second with it. The frequency of the tuning fork is ______ Hz.
+
+**Answer: 6** · key ✔
+
+**Solution.** $f\propto\sqrt T$ for the same length: $\dfrac{f_2}{f_1}=\sqrt{\dfrac{54}6}=3$. The tuning fork matched the wire at $6$ N, so $f_1=f_{fork}$, and at $54$ N the beat frequency is $f_2-f_1=2f_1=12\Rightarrow f_1=6$ Hz.
+

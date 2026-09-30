@@ -18,3 +18,13 @@ A parallel plate capacitor with plate separation $5$ mm is charged up by a batte
 
 **Solution.** At fixed voltage $Q\propto C$, so $C'=1.25C$. $C'=\dfrac{\varepsilon_0A}{d-t+t/K}=1.25\dfrac{\varepsilon_0A}d\Rightarrow d-t+\dfrac tK=\dfrac d{1.25}=4$ mm. So $5-2+\dfrac2K=4\Rightarrow\dfrac2K=1\Rightarrow K=2$.
 
+### P-CAP-03 — JEE Main 2024 · 1 Feb Shift 1 · Q11 · MCQ
+
+Two identical capacitors have the same capacitance $C$. One of them is charged to potential $V$ and the other to potential $2V$. The negative ends of both are connected together. When the positive ends are also joined together, the decrease in energy of the combined system is
+
+(1) $\tfrac14CV^2$  (2) $2CV^2$  (3) $\tfrac12CV^2$  (4) $\tfrac34CV^2$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Loss of energy $=\dfrac{C_1C_2}{2(C_1+C_2)}(V_1-V_2)^2=\dfrac{C\cdot C}{2\cdot2C}(V)^2=\dfrac{CV^2}4$.
+

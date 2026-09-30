@@ -78,3 +78,23 @@ An AC voltage $V=20\sin200\pi t$ is applied to a series LCR circuit which drives
 
 **Solution.** $P_{av}=\tfrac12V_0I_0\cos\phi=\tfrac12(20)(10)\cos\dfrac\pi3=100\times\tfrac12=50$ W.
 
+### P-ACC-09 — JEE Main 2024 · 1 Feb Shift 1 · Q14 · MCQ
+
+A parallel plate capacitor has capacitance $C=200$ pF. It is connected to a $230$ V ac supply with an angular frequency of $300\ \text{rad s}^{-1}$. The rms values of the conduction current in the circuit and the displacement current in the capacitor respectively are
+
+(1) 1.38 μA and 1.38 μA  (2) 14.3 μA and 143 μA  (3) 13.8 μA and 138 μA  (4) 13.8 μA and 13.8 μA
+
+**Answer: (4)** · key ✔
+
+**Solution.** $I_{rms}=\dfrac{V_{rms}}{X_C}=V_{rms}\,\omega C=230\times300\times200\times10^{-12}=13.8\ \mu\text{A}$. By continuity of current, the displacement current between the plates has the same value, $13.8\ \mu$A.
+
+### P-ACC-10 — JEE Main 2024 · 1 Feb Shift 1 · Q15 · MCQ
+
+In a series LCR circuit the capacitance is changed from $C$ to $4C$. To keep the resonance frequency unchanged, the new inductance should be
+
+(1) reduced by $\tfrac14L$  (2) increased by $2L$  (3) reduced by $\tfrac34L$  (4) increased to $4L$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Resonance frequency $f=\dfrac1{2\pi\sqrt{LC}}$ is fixed, so $LC$ is constant: $L'(4C)=LC\Rightarrow L'=\tfrac L4$. This is a reduction by $L-\tfrac L4=\tfrac34L$.
+

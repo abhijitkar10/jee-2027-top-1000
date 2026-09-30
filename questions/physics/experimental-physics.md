@@ -33,3 +33,13 @@ If $50$ vernier divisions are equal to $49$ main scale divisions of a travelling
 
 **Solution.** $50\,\text{VSD}=49\,\text{MSD}\Rightarrow1\,\text{VSD}=\tfrac{49}{50}\,\text{MSD}$. Vernier constant $=1\,\text{MSD}-1\,\text{VSD}=\tfrac1{50}\,\text{MSD}=\dfrac{0.5}{50}=0.01$ mm.
 
+### P-EXP-04 — JEE Main 2024 · 1 Feb Shift 1 · Q20 · MCQ
+
+$10$ divisions on the main scale of a vernier calliper coincide with $11$ divisions on the vernier scale. If each division on the main scale is $5$ units, the least count of the instrument is
+
+(1) $\tfrac12$  (2) $\tfrac{10}{11}$  (3) $\tfrac{50}{11}$  (4) $\tfrac5{11}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $11\,\text{VSD}=10\,\text{MSD}=50$ units, so $1\,\text{VSD}=\tfrac{50}{11}$. Least count $=1\,\text{MSD}-1\,\text{VSD}=5-\tfrac{50}{11}=\tfrac5{11}$ unit.
+

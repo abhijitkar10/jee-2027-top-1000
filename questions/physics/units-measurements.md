@@ -93,3 +93,23 @@ The measured value of the length of a simple pendulum is $20$ cm with $2$ mm acc
 
 **Solution.** $g=\dfrac{4\pi^2L}{T^2}$, so $\dfrac{\Delta g}g=\dfrac{\Delta L}L+2\dfrac{\Delta T}T=\dfrac{0.2}{20}+2\cdot\dfrac{1}{40}=0.01+0.05=0.06$, i.e. $6\%$.
 
+### P-UNT-10 — JEE Main 2024 · 1 Feb Shift 1 · Q1 · MCQ
+
+The radius $r$, length $l$ and resistance $R$ of a metal wire were measured as $r=0.35\pm0.05$ cm, $R=100\pm10$ ohm, $l=15\pm0.2$ cm. The percentage error in the resistivity of the material of the wire is
+
+(1) 25.6%  (2) 39.9%  (3) 37.3%  (4) 35.6%
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\rho=\dfrac{R\pi r^2}{l}$, so $\dfrac{\Delta\rho}\rho=\dfrac{\Delta R}R+2\dfrac{\Delta r}r+\dfrac{\Delta l}l=10\%+2\left(\dfrac{0.05}{0.35}\times100\right)\%+\dfrac{0.2}{15}\times100\%=10+28.57+1.33\approx39.9\%$.
+
+### P-UNT-11 — JEE Main 2024 · 1 Feb Shift 1 · Q2 · MCQ
+
+The dimensional formula of angular impulse is
+
+(1) $[ML^{-2}T^{-1}]$  (2) $[ML^2T^{-2}]$  (3) $[MLT^{-1}]$  (4) $[ML^2T^{-1}]$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Angular impulse $=\text{torque}\times\text{time}=[ML^2T^{-2}][T]=[ML^2T^{-1}]$, the same as angular momentum.
+

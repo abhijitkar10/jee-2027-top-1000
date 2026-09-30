@@ -68,3 +68,13 @@ When unpolarised light is incident at an angle of $60^\circ$ on a transparent me
 
 **Solution.** At the polarising (Brewster) angle $i_p$ the reflected and refracted rays are perpendicular: $i_p+r=90^\circ\Rightarrow r=90^\circ-60^\circ=30^\circ$ (and $\mu=\tan60^\circ=\sqrt3$).
 
+### P-WOP-08 — JEE Main 2024 · 1 Feb Shift 1 · Q16 · MCQ
+
+A monochromatic light of wavelength $6000$ Å is incident on a single slit of width $0.01$ mm. If the diffraction pattern is formed at the focus of a convex lens of focal length $20$ cm, the linear width of the central maximum is
+
+(1) 60 mm  (2) 24 mm  (3) 120 mm  (4) 12 mm
+
+**Answer: (2)** · key ✔
+
+**Solution.** The central maximum extends between the first minima on both sides: width $=\dfrac{2\lambda f}a=\dfrac{2\times6\times10^{-7}\times0.2}{10^{-5}}=2.4\times10^{-2}$ m $=24$ mm.
+

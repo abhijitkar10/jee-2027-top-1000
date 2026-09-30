@@ -72,3 +72,13 @@ In a photoelectric effect experiment, light of frequency $1.5$ times the thresho
 
 **Solution.** Initially $\nu=1.5\nu_0>\nu_0$, so emission occurs. After halving, $\nu=0.75\nu_0<\nu_0$, below the threshold, so no photoelectrons are emitted however intense the light is.
 
+### P-DUL-08 — JEE Main 2024 · 1 Feb Shift 1 · Q17 · MCQ
+
+The de Broglie wavelengths of a proton and an $\alpha$-particle are $\lambda$ and $2\lambda$ respectively. The ratio of the velocities of the proton and the $\alpha$-particle will be
+
+(1) 1 : 8  (2) 1 : 2  (3) 4 : 1  (4) 8 : 1
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\lambda=\dfrac h{mv}\Rightarrow v\propto\dfrac1{m\lambda}$. $m_\alpha=4m_p$, so $\dfrac{v_p}{v_\alpha}=\dfrac{m_\alpha\lambda_\alpha}{m_p\lambda_p}=\dfrac{4\times2\lambda}{1\times\lambda}=8$.
+

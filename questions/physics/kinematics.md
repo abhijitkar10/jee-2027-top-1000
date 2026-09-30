@@ -84,3 +84,21 @@ A body starts falling freely from a height $H$ and hits an inclined plane in its
 
 **Solution.** Time to the plane: $\sqrt{\dfrac{2(H-h)}g}$. After the impact the velocity is horizontal, so the fall through $h$ takes $\sqrt{\dfrac{2h}g}$. Total $T=\sqrt{\dfrac2g}\left(\sqrt{H-h}+\sqrt h\right)$. $\dfrac{dT}{dh}=0\Rightarrow\dfrac1{\sqrt{H-h}}=\dfrac1{\sqrt h}\Rightarrow h=\dfrac H2$. So $\dfrac Hh=2$.
 
+### P-KIN-10 — JEE Main 2024 · 1 Feb Shift 1 · Q3 · MCQ
+
+A particle moving in a circle of radius $R$ with uniform speed takes time $T$ to complete one revolution. If this particle is projected with the same speed at an angle $\theta$ to the horizontal, the maximum height attained by it is $4R$. The angle of projection $\theta$ is given by
+
+(the correct choice is $\theta=\sin^{-1}\left(\dfrac{2gT^2}{\pi^2R}\right)^{1/2}$, option (1))
+
+**Answer: $\theta=\sin^{-1}\!\left(\dfrac{2gT^2}{\pi^2R}\right)^{1/2}$** · key ✔
+
+**Solution.** Speed $v=\dfrac{2\pi R}T$. Maximum height $H=\dfrac{v^2\sin^2\theta}{2g}=4R\Rightarrow\sin^2\theta=\dfrac{8gR}{v^2}=\dfrac{8gRT^2}{4\pi^2R^2}=\dfrac{2gT^2}{\pi^2R}$. So $\theta=\sin^{-1}\left(\dfrac{2gT^2}{\pi^2R}\right)^{1/2}$.
+
+### P-KIN-11 — JEE Main 2024 · 1 Feb Shift 1 · Q21 · Numerical
+
+A particle moves along the $x$-axis under a variable force with $x=-3t^3+18t^2+16t$ ($x$ in m, $t$ in s). The velocity of the particle when its acceleration becomes zero is ______ m s$^{-1}$.
+
+**Answer: 52** · key ✔
+
+**Solution.** $v=\dfrac{dx}{dt}=-9t^2+36t+16$ and $a=\dfrac{dv}{dt}=-18t+36=0\Rightarrow t=2$ s. Then $v=-36+72+16=52\ \text{m s}^{-1}$.
+

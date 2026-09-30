@@ -110,3 +110,21 @@ Two blocks of mass $2$ kg and $4$ kg are connected by a metal wire going over a 
 
 **Solution.** Tension in the Atwood machine: $T=\dfrac{2m_1m_2g}{m_1+m_2}=\dfrac{2(2)(4)(10)}{6}=\dfrac{80}3$ N. Stress $=\dfrac T{\pi r^2}$, so strain $=\dfrac{T}{\pi r^2Y}=\dfrac{80/3}{\pi(16\times10^{-10})(2\times10^{11})}=\dfrac{80/3}{320\pi}=\dfrac1{12\pi}$. So $\alpha=12$.
 
+### P-POM-13 — JEE Main 2024 · 1 Feb Shift 1 · Q8 · MCQ
+
+With rise in temperature, the Young's modulus of elasticity
+
+(1) changes erratically  (2) decreases  (3) increases  (4) remains unchanged
+
+**Answer: (2)** · key ✔
+
+**Solution.** On heating, the inter-atomic separation increases and the bonds soften, so the material offers less resistance to deformation: $Y$ decreases.
+
+### P-POM-14 — JEE Main 2024 · 1 Feb Shift 1 · Q23 · Numerical
+
+A plane is in level flight at constant speed and each of its two wings has an area of $40\ \text{m}^2$. If the speed of the air is $180\ \text{km h}^{-1}$ over the lower wing surface and $252\ \text{km h}^{-1}$ over the upper wing surface, the mass of the plane is ______ kg. (Take air density $=1\ \text{kg m}^{-3}$ and $g=10\ \text{m s}^{-2}$)
+
+**Answer: 9600** · key ✔
+
+**Solution.** $v_{lower}=50$ m/s and $v_{upper}=70$ m/s. Pressure difference $\Delta P=\tfrac12\rho(v_u^2-v_l^2)=\tfrac12(4900-2500)=1200$ Pa. Total wing area $=80\ \text{m}^2$, so lift $=1200\times80=96000$ N $=mg\Rightarrow m=9600$ kg.
+

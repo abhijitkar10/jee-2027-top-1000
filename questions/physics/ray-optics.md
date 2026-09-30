@@ -58,3 +58,11 @@ Light from a point source in air falls on a convex curved surface of radius $20$
 
 **Solution.** Refraction at a spherical surface: $\dfrac{\mu_2}v-\dfrac{\mu_1}u=\dfrac{\mu_2-\mu_1}R$. With $u=-100$, $R=+20$: $\dfrac{1.5}v+\dfrac1{100}=\dfrac{0.5}{20}=0.025\Rightarrow\dfrac{1.5}{v}=0.015\Rightarrow v=100$ cm. The image is $100$ cm beyond the surface, i.e. $100+100=200$ cm from the object.
 
+### P-RAY-07 — JEE Main 2024 · 1 Feb Shift 1 · Q29 · Numerical
+
+The distance between an object and its $3$ times magnified virtual image produced by a convex lens is $20$ cm. The focal length of the lens used is ______ cm.
+
+**Answer: 15** · key ✔
+
+**Solution.** A virtual image lies on the same side as the object, so $|v|-|u|=20$ with $|v|=3|u|$: $u=10$ cm and $v=30$ cm. $\dfrac1f=\dfrac1u-\dfrac1v$ (magnitudes): $\dfrac1{10}-\dfrac1{30}=\dfrac1{15}$, so $f=15$ cm.
+

@@ -83,3 +83,13 @@ The mass of the moon is $\dfrac1{144}$ times the mass of a planet and its diamet
 
 **Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. Ratio $=\sqrt{\dfrac{1/144}{1/16}}=\sqrt{\dfrac{16}{144}}=\dfrac13$, so $v_{moon}=\dfrac v3$.
 
+### P-GRV-09 — JEE Main 2024 · 1 Feb Shift 1 · Q7 · MCQ
+
+If $R$ is the radius of the earth and the acceleration due to gravity at the earth's surface is $g=\pi^2\ \text{m s}^{-2}$, then the length of the second's pendulum at a height $h=2R$ from the surface of the earth will be
+
+(1) $\tfrac29$ m  (2) $\tfrac19$ m  (3) $\tfrac49$ m  (4) $\tfrac89$ m
+
+**Answer: (2)** · key ✔
+
+**Solution.** At $h=2R$ the distance from the centre is $3R$, so $g'=\dfrac g9=\dfrac{\pi^2}9$. A second's pendulum has $T=2$ s: $l=\dfrac{g'T^2}{4\pi^2}=\dfrac{(\pi^2/9)(4)}{4\pi^2}=\dfrac19$ m.
+

@@ -62,3 +62,11 @@ The magnetic flux $\phi$ (in weber) linked with a closed circuit of resistance $
 
 **Solution.** $\varepsilon=-\dfrac{d\phi}{dt}=-(10t-36)$; at $t=2$: $\varepsilon=16$ V. $I=\dfrac{16}8=2$ A.
 
+### P-EMI-08 — JEE Main 2024 · 1 Feb Shift 1 · Q28 · Numerical
+
+A rectangular loop of sides $12$ cm and $5$ cm, with its sides parallel to the $x$-axis and $y$-axis respectively, moves with a velocity of $5\ \text{cm s}^{-1}$ in the positive $x$ direction in a space containing a variable magnetic field in the positive $z$ direction. The field has a gradient of $10^{-3}\ \text{T cm}^{-1}$ along the negative $x$ direction and it is decreasing with time at the rate of $10^{-3}\ \text{T s}^{-1}$. If the resistance of the loop is $6\ \text{m}\Omega$, the power dissipated by the loop as heat is ______ $\times10^{-9}$ W.
+
+**Answer: 216** · key ✔
+
+**Solution.** Moving in $+x$, the loop enters weaker field (gradient towards $-x$): $\left|\dfrac{dB}{dt}\right|_{\text{motion}}=0.1\ \text{T/m}\times0.05\ \text{m/s}=5\times10^{-3}$ T/s, and the field also decreases at $10^{-3}$ T/s, giving a total rate $6\times10^{-3}$ T/s (both reduce the flux). Area $=0.12\times0.05=6\times10^{-3}\ \text{m}^2$. $\varepsilon=6\times10^{-3}\times6\times10^{-3}=3.6\times10^{-5}$ V and $P=\dfrac{\varepsilon^2}{R}=\dfrac{1.296\times10^{-9}}{6\times10^{-3}}=2.16\times10^{-7}$ W $=216\times10^{-9}$ W.
+

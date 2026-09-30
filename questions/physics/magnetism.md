@@ -81,3 +81,11 @@ Two circular coils $P$ and $Q$ of $100$ turns each have the same radius of $\pi$
 
 **Solution.** $B=\dfrac{\mu_0NI}{2r}=\dfrac{4\pi\times10^{-7}\times100\times I}{2\pi\times10^{-2}}=2\times10^{-3}I$ T. So $B_P=2$ mT and $B_Q=4$ mT, perpendicular to each other: $B=\sqrt{2^2+4^2}=\sqrt{20}$ mT. Hence $x=20$.
 
+### P-MAG-10 — JEE Main 2024 · 1 Feb Shift 1 · Q27 · Numerical
+
+A regular polygon of $6$ sides is formed by bending a wire of length $4\pi$ m. If an electric current of $4\pi\sqrt3$ A flows through the sides of the polygon, the magnetic field at the centre of the polygon would be $x\times10^{-7}$ T. The value of $x$ is ______.
+
+**Answer: 72** · key ✔
+
+**Solution.** Side $a=\dfrac{4\pi}6=\dfrac{2\pi}3$ m; the distance from the centre to a side is $d=\dfrac{a\sqrt3}2=\dfrac\pi{\sqrt3}$. Each side gives $B_1=\dfrac{\mu_0I}{4\pi d}(2\sin30^\circ)=10^{-7}\dfrac Id$. Six sides: $B=6\times10^{-7}\times\dfrac{4\pi\sqrt3}{\pi/\sqrt3}=6\times10^{-7}\times12=72\times10^{-7}$ T.
+

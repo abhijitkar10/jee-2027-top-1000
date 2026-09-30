@@ -149,3 +149,21 @@ A nucleus has mass number $A_1$ and volume $V_1$. Another nucleus has mass numbe
 
 **Solution.** Nuclear density is constant, so volume is proportional to mass number ($V=\tfrac43\pi R_0^3A$). $\dfrac{V_2}{V_1}=\dfrac{A_2}{A_1}=4$.
 
+### P-ATN-17 — JEE Main 2024 · 1 Feb Shift 1 · Q18 · MCQ
+
+The minimum energy required by a hydrogen atom in the ground state to emit radiation in the Balmer series is nearly
+
+(1) 1.5 eV  (2) 13.6 eV  (3) 1.9 eV  (4) 12.1 eV
+
+**Answer: (4)** · key ✔
+
+**Solution.** Balmer lines are emitted in transitions ending at $n=2$, so the atom must first be excited from $n=1$ to at least $n=3$: $\Delta E=13.6\left(1-\tfrac19\right)=12.09\approx12.1$ eV.
+
+### P-ATN-18 — JEE Main 2024 · 1 Feb Shift 1 · Q30 · Numerical
+
+The radius of a nucleus of mass number $64$ is $4.8$ fermi. The mass number of another nucleus having a radius of $4$ fermi is $\dfrac{1000}x$, where $x=$ ______.
+
+**Answer: 27** · key ✔
+
+**Solution.** $R\propto A^{1/3}$: $A'=64\left(\dfrac4{4.8}\right)^3=64\times\dfrac{125}{216}=\dfrac{1000}{27}$. So $x=27$.
+

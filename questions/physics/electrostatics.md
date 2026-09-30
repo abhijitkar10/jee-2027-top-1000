@@ -107,3 +107,11 @@ The force between two point charges $q_1$ and $q_2$ placed in vacuum at $r$ cm a
 
 **Solution.** $F'=\dfrac{1}{4\pi\varepsilon_0K}\dfrac{q_1q_2}{(r/5)^2}=\dfrac{25}{K}F=\dfrac{25}5F=5F$.
 
+### P-ELS-12 — JEE Main 2024 · 1 Feb Shift 1 · Q25 · Numerical
+
+Two identical charged spheres are suspended by strings of equal lengths. The strings make an angle $\theta$ with each other. When suspended in water the angle remains the same. If the density of the material of the spheres is $1.5$ g/cc, the dielectric constant of water will be ______. (Density of water $=1$ g/cc)
+
+**Answer: 3** · key ✔
+
+**Solution.** In water the Coulomb force is divided by $K$ and the effective weight becomes $mg\left(1-\dfrac{\rho_w}{\rho_s}\right)$. For the same angle: $\dfrac F{mg}=\dfrac{F/K}{mg(1-1/1.5)}\Rightarrow K=\dfrac1{1-2/3}=3$.
+
