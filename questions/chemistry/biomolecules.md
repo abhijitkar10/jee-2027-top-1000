@@ -75,3 +75,11 @@ Match List I with List II: A. Glucose/$\text{NaHCO}_3$/$\Delta$  B. Glucose/$\te
 
 **Solution.** Glucose has no $-\text{COOH}$, so $\text{NaHCO}_3$ does not react. Conc. $\text{HNO}_3$ oxidises both the CHO and the terminal $\text{CH}_2\text{OH}$: saccharic acid. Prolonged HI/$\Delta$ reduces it fully to $n$-hexane. Bromine water oxidises only the CHO: gluconic acid.
 
+### C-BIO-08 — JEE Main 2024 · 31 Jan Shift 2 · Q60 · Numerical
+
+From the vitamins A, $\text{B}_1$, $\text{B}_6$, $\text{B}_{12}$, C, D, E and K, the number of vitamins that can be stored in our body is ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** Fat-soluble vitamins (A, D, E, K) are stored in adipose tissue and the liver. Vitamin $\text{B}_{12}$, although water-soluble, is also stored in the liver. $\text{B}_1$, $\text{B}_6$ and C are water-soluble and excreted, so they are not stored. Count $=5$.
+

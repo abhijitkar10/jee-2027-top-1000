@@ -50,3 +50,11 @@ The distance between an object and its two times magnified real image produced b
 
 **Solution.** For a real image with $|m|=2$: $v=2u$ (magnitudes). $u+v=3u=45\Rightarrow u=15$ cm, $v=30$ cm. $f=\dfrac{uv}{u+v}=\dfrac{15\times30}{45}=10$ cm.
 
+### P-RAY-06 — JEE Main 2024 · 31 Jan Shift 2 · Q29 · Numerical
+
+Light from a point source in air falls on a convex curved surface of radius $20$ cm and refractive index $1.5$. If the source is located $100$ cm from the convex surface, the image will be formed at ______ cm from the object.
+
+**Answer: 200** · key ✔
+
+**Solution.** Refraction at a spherical surface: $\dfrac{\mu_2}v-\dfrac{\mu_1}u=\dfrac{\mu_2-\mu_1}R$. With $u=-100$, $R=+20$: $\dfrac{1.5}v+\dfrac1{100}=\dfrac{0.5}{20}=0.025\Rightarrow\dfrac{1.5}{v}=0.015\Rightarrow v=100$ cm. The image is $100$ cm beyond the surface, i.e. $100+100=200$ cm from the object.
+

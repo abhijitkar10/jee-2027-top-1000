@@ -42,3 +42,13 @@ A block of mass $1$ kg is pushed up a surface inclined at $60^\circ$ to the hori
 
 **Solution.** Friction $f=\mu N=\mu mg\cos60^\circ=0.1\times1\times10\times\tfrac12=0.5$ N. Work against friction $=f\,d=0.5\times10=5$ J.
 
+### P-WEP-05 — JEE Main 2024 · 31 Jan Shift 2 · Q5 · MCQ
+
+A body of mass $2$ kg begins to move under the action of a time-dependent force $\vec F=(6t\,\hat i+6t^2\hat j)$ N. The power developed by the force at time $t$ is
+
+(1) $6t^4+9t^5$ W  (2) $3t^3+6t^5$ W  (3) $9t^5+6t^3$ W  (4) $9t^3+6t^5$ W
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\vec a=\dfrac{\vec F}m=(3t\,\hat i+3t^2\hat j)$, and from rest $\vec v=\left(\tfrac32t^2\hat i+t^3\hat j\right)$. $P=\vec F\cdot\vec v=6t\cdot\tfrac32t^2+6t^2\cdot t^3=9t^3+6t^5$ W.
+

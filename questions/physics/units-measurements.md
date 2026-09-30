@@ -73,3 +73,23 @@ A force is represented by $F=ax^2+bt^{1/2}$, where $x$ is distance and $t$ is ti
 
 **Solution.** Each term has the dimensions of force. $[a]=\dfrac{MLT^{-2}}{L^2}=ML^{-1}T^{-2}$ and $[b]=\dfrac{MLT^{-2}}{T^{1/2}}=MLT^{-5/2}$, so $[b^2]=M^2L^2T^{-5}$. $\left[\dfrac{b^2}a\right]=\dfrac{M^2L^2T^{-5}}{ML^{-1}T^{-2}}=ML^3T^{-3}$.
 
+### P-UNT-08 — JEE Main 2024 · 31 Jan Shift 2 · Q2 · MCQ
+
+Two physical quantities $A$ and $B$ are related as $E=\dfrac{B-x^2}{At}$, where $E$, $x$ and $t$ have the dimensions of energy, length and time respectively. The dimension of $AB$ is
+
+(1) $L^{-2}M^{1}T^{0}$  (2) $L^{2}M^{-1}T^{1}$  (3) $L^{-2}M^{-1}T^{1}$  (4) $L^{0}M^{-1}T^{1}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $B$ is added to $x^2$, so $[B]=L^2$. Then $[E]=\dfrac{[B]}{[A][t]}\Rightarrow[A]=\dfrac{L^2}{ML^2T^{-2}\cdot T}=M^{-1}T$. So $[AB]=M^{-1}T\cdot L^2=L^2M^{-1}T^1$.
+
+### P-UNT-09 — JEE Main 2024 · 31 Jan Shift 2 · Q20 · MCQ
+
+The measured value of the length of a simple pendulum is $20$ cm with $2$ mm accuracy. The time for $50$ oscillations was measured to be $40$ s with $1$ s resolution. From these measurements, the accuracy in the measurement of the acceleration due to gravity is $N\%$. The value of $N$ is
+
+(1) 4  (2) 8  (3) 6  (4) 5
+
+**Answer: (3)** · key ✔
+
+**Solution.** $g=\dfrac{4\pi^2L}{T^2}$, so $\dfrac{\Delta g}g=\dfrac{\Delta L}L+2\dfrac{\Delta T}T=\dfrac{0.2}{20}+2\cdot\dfrac{1}{40}=0.01+0.05=0.06$, i.e. $6\%$.
+

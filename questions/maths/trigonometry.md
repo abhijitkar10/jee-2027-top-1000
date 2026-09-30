@@ -62,3 +62,13 @@ If $2\sin^3x+\sin2x\cos x+4\sin x-4=0$ has exactly $3$ solutions in the interval
 
 **Solution.** $\sin2x\cos x=2\sin x\cos^2x$, so the equation is $2\sin x(\sin^2x+\cos^2x)+4\sin x-4=0\Rightarrow\sin x=\tfrac23$. Solutions: $\alpha,\ \pi-\alpha,\ 2\pi+\alpha,\ 3\pi-\alpha,\dots$ with $\alpha=\sin^{-1}\tfrac23\approx0.73$. Exactly $3$ solutions need $2\pi+\alpha\le\tfrac{n\pi}2<3\pi-\alpha$, i.e. $4+\tfrac{2\alpha}\pi\le n<6-\tfrac{2\alpha}\pi$, i.e. $4.46\le n<5.54$, so $n=5$. Then $x^2+5x+2=0$ has roots $\dfrac{-5\pm\sqrt{17}}2$, both negative.
 
+### M-TRG-07 — JEE Main 2024 · 31 Jan Shift 2 · Q72 · MCQ
+
+If $a=\sin^{-1}(\sin5)$ and $b=\cos^{-1}(\cos5)$, then $a^2+b^2$ is equal to
+
+(1) $4\pi^2+25$  (2) $8\pi^2-40\pi+50$  (3) $4\pi^2-20\pi+50$  (4) 25
+
+**Answer: (2)** · key ✔
+
+**Solution.** $5$ rad lies in $\left(\tfrac{3\pi}2,2\pi\right)$. The principal value of $\sin^{-1}$ must lie in $\left[-\tfrac\pi2,\tfrac\pi2\right]$: $a=5-2\pi$. For $\cos^{-1}$ (range $[0,\pi]$): $b=2\pi-5$. So $a^2+b^2=2(2\pi-5)^2=8\pi^2-40\pi+50$.
+

@@ -53,3 +53,13 @@ The area of the region enclosed by the parabola $(y-2)^2=x-1$, the line $x-2y+4=
 
 **Solution.** The line $x=2y-4$ touches the parabola at $(2,3)$ (substituting gives $(y-3)^2=0$) and meets the $y$-axis at $(0,2)$; the parabola meets the $x$-axis at $(5,0)$. Integrating in $y$: for $0\le y\le2$ the region runs from $x=0$ to $x=(y-2)^2+1$; for $2\le y\le3$ it runs from the line $x=2y-4$ to the parabola. $A=\int_0^2\left[(y-2)^2+1\right]dy+\int_2^3\left[(y-2)^2+1-(2y-4)\right]dy=\tfrac{14}3+\int_2^3(y-3)^2dy=\tfrac{14}3+\tfrac13=5$.
 
+### M-ARE-07 — JEE Main 2024 · 31 Jan Shift 2 · Q76 · MCQ
+
+The area of the region enclosed by the parabola $y=4x-x^2$ and $3y=(x-4)^2$ is equal to
+
+(1) $\tfrac{32}9$  (2) 4  (3) 6  (4) $\tfrac{14}3$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Intersection: $3(4x-x^2)=(x-4)^2\Rightarrow4x^2-20x+16=0\Rightarrow x=1,4$. $A=\int_1^4\left[(4x-x^2)-\tfrac{(x-4)^2}3\right]dx=\tfrac13\int_1^4(-4x^2+20x-16)dx=\tfrac13\left[-\tfrac{4x^3}3+10x^2-16x\right]_1^4=\tfrac13(10.667+7.333)=6$.
+

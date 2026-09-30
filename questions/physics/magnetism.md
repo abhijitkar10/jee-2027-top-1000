@@ -63,3 +63,21 @@ An electron moves through a uniform magnetic field $\vec B=B_0\hat i+2B_0\hat j$
 
 **Solution.** $\vec F=e\,(\vec u\times\vec B)$ with $e$ the (signed) charge. $\vec u\times\vec B=(3\hat i+5\hat j)\times(B_0\hat i+2B_0\hat j)=6B_0\hat k-5B_0\hat k=B_0\hat k$. So $eB_0\hat k=5e\hat k\Rightarrow B_0=5$ T.
 
+### P-MAG-08 — JEE Main 2024 · 31 Jan Shift 2 · Q13 · MCQ
+
+A uniform magnetic field of $2\times10^{-3}$ T acts along the positive $Y$-direction. A rectangular loop of sides $20$ cm and $10$ cm carrying a current of $5$ A lies in the $Y$–$Z$ plane. The current is anticlockwise as seen looking from the negative $X$-axis. The magnitude and direction of the torque is
+
+(1) $2\times10^{-4}$ N m along $+Z$  (2) $2\times10^{-4}$ N m along $-Z$  (3) $2\times10^{-4}$ N m along $+X$  (4) $2\times10^{-4}$ N m along $+Y$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $|\vec m|=IA=5\times(0.2\times0.1)=0.1$ A m$^2$. Anticlockwise as seen from the negative $X$ side means the normal (right-hand rule) points towards that observer, i.e. along $-\hat x$: $\vec m=-0.1\,\hat x$. $\vec\tau=\vec m\times\vec B=-0.1\,\hat x\times(2\times10^{-3}\hat y)=-2\times10^{-4}\,\hat z$ N m.
+
+### P-MAG-09 — JEE Main 2024 · 31 Jan Shift 2 · Q27 · Numerical
+
+Two circular coils $P$ and $Q$ of $100$ turns each have the same radius of $\pi$ cm. The currents in $P$ and $Q$ are $1$ A and $2$ A respectively. $P$ and $Q$ are placed with their planes mutually perpendicular and their centres coinciding. The resultant magnetic field induction at the centre is $\sqrt x$ mT, where $x=$ ______. (Use $\mu_0=4\pi\times10^{-7}\ \text{T m A}^{-1}$)
+
+**Answer: 20** · key ✔
+
+**Solution.** $B=\dfrac{\mu_0NI}{2r}=\dfrac{4\pi\times10^{-7}\times100\times I}{2\pi\times10^{-2}}=2\times10^{-3}I$ T. So $B_P=2$ mT and $B_Q=4$ mT, perpendicular to each other: $B=\sqrt{2^2+4^2}=\sqrt{20}$ mT. Hence $x=20$.
+

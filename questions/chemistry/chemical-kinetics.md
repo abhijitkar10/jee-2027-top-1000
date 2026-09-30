@@ -66,3 +66,11 @@ For a first-order gas-phase reaction $\text{A}(g)\to\text{B}(g)+\text{C}(g)$, wh
 
 **Solution.** If $x$ atm of A reacts, $P_A=P_i-x$ and $P_t=(P_i-x)+x+x=P_i+x$, so $x=P_t-P_i$ and $P_A=2P_i-P_t$. First order: $k=\dfrac{2.303}t\log\dfrac{P_i}{P_A}=\dfrac{2.303}t\log\dfrac{P_i}{2P_i-P_t}$.
 
+### C-KIN-08 — JEE Main 2024 · 31 Jan Shift 2 · Q56 · Numerical
+
+For a reaction with rate $r=k[\text{A}]$, $50\%$ of A is decomposed in $120$ minutes. The time taken for $90\%$ decomposition of A is ______ minutes.
+
+**Answer: 399** · key ✔
+
+**Solution.** First order: $k=\dfrac{0.693}{120}$. $t_{90\%}=\dfrac{2.303}k\log\dfrac{100}{10}=\dfrac{2.303\times120}{0.693}=399$ min (equivalently $120\times\log_210=120\times3.32$).
+

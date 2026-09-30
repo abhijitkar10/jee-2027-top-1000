@@ -90,3 +90,13 @@ $\displaystyle\lim_{x\to0}\dfrac{e^{2\sin x}-2\sin x-1}{x^2}$
 
 **Solution.** Let $u=2\sin x\to0$. $e^u-u-1=\dfrac{u^2}2+\dots$, so the numerator $\approx\dfrac{(2\sin x)^2}2=2\sin^2x\approx2x^2$. The limit is $2$.
 
+### M-LCD-10 — JEE Main 2024 · 31 Jan Shift 2 · Q69 · MCQ
+
+Let $f:\mathbb R\to(0,\infty)$ be a strictly increasing function such that $\displaystyle\lim_{x\to\infty}\frac{f(7x)}{f(x)}=1$. Then the value of $\displaystyle\lim_{x\to\infty}\left(\frac{f(5x)}{f(x)}-1\right)$ is equal to
+
+(1) 4  (2) 0  (3) $\tfrac75$  (4) 1
+
+**Answer: (2)** · key ✔
+
+**Solution.** Since $f$ is strictly increasing, for $x>0$: $f(x)<f(5x)<f(7x)$, so $1<\dfrac{f(5x)}{f(x)}<\dfrac{f(7x)}{f(x)}\to1$. By the squeeze theorem $\dfrac{f(5x)}{f(x)}\to1$ and the required limit is $0$.
+

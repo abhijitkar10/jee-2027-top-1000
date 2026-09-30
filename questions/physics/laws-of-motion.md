@@ -101,3 +101,23 @@ A coin is placed on a disc. The coefficient of friction between the coin and the
 
 **Solution.** Friction provides the centripetal force: $m\omega^2r\le\mu mg\Rightarrow\omega\le\sqrt{\dfrac{\mu g}r}$.
 
+### P-LOM-11 — JEE Main 2024 · 31 Jan Shift 2 · Q3 · MCQ
+
+A light string passing over a smooth light fixed pulley connects two blocks of masses $m_1$ and $m_2$. If the acceleration of the system is $\dfrac g8$, then the ratio of the masses $\dfrac{m_1}{m_2}$ is
+
+(the options were $\tfrac97$ (option 1) and other simple ratios)
+
+**Answer: $\dfrac97$ (option 1)** · key ✔
+
+**Solution.** For an Atwood machine $a=\dfrac{m_1-m_2}{m_1+m_2}g=\dfrac g8\Rightarrow8m_1-8m_2=m_1+m_2\Rightarrow7m_1=9m_2$, so $\dfrac{m_1}{m_2}=\dfrac97$.
+
+### P-LOM-12 — JEE Main 2024 · 31 Jan Shift 2 · Q4 · MCQ
+
+A block of mass $5$ kg is placed on a rough inclined surface ($\mu=0.1$, inclination $30^\circ$). If $F_1$ is the force required to just move the block up the inclined plane and $F_2$ is the force required to just prevent the block from sliding down, then $F_1-F_2$ is ($g=10\ \text{m s}^{-2}$)
+
+(1) $25\sqrt3$ N  (2) $5\sqrt3$ N  (3) $\dfrac{5\sqrt3}2$ N  (4) 10 N
+
+**Answer: (2)** · key ✔
+
+**Solution.** $F_1=mg\sin\theta+\mu mg\cos\theta$ (friction down the slope) and $F_2=mg\sin\theta-\mu mg\cos\theta$ (friction up the slope). $F_1-F_2=2\mu mg\cos\theta=2(0.1)(50)\dfrac{\sqrt3}2=5\sqrt3$ N.
+

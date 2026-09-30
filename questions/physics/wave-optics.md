@@ -58,3 +58,13 @@ A beam of unpolarised light of intensity $I_0$ is passed through a polaroid $A$ 
 
 **Solution.** After $A$: $\dfrac{I_0}2$. By Malus's law, after $B$: $\dfrac{I_0}2\cos^245^\circ=\dfrac{I_0}2\cdot\dfrac12=\dfrac{I_0}4$.
 
+### P-WOP-07 — JEE Main 2024 · 31 Jan Shift 2 · Q16 · MCQ
+
+When unpolarised light is incident at an angle of $60^\circ$ on a transparent medium from air, the reflected ray is completely polarised. The angle of refraction in the medium is
+
+(1) $30^\circ$  (2) $60^\circ$  (3) $90^\circ$  (4) $45^\circ$
+
+**Answer: (1)** · key ✔
+
+**Solution.** At the polarising (Brewster) angle $i_p$ the reflected and refracted rays are perpendicular: $i_p+r=90^\circ\Rightarrow r=90^\circ-60^\circ=30^\circ$ (and $\mu=\tan60^\circ=\sqrt3$).
+

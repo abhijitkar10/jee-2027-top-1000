@@ -36,3 +36,13 @@ Two waves of intensity ratio $1:9$ cross each other at a point. The resultant in
 
 **Solution.** Let the intensities be $I$ and $9I$. (a) Incoherent: $I_1=I+9I=10I$. (b) Coherent: $I_2=I+9I+2\sqrt{I\cdot9I}\cos60^\circ=10I+3I=13I$. So $\dfrac{I_1}{I_2}=\dfrac{10}{13}$ and $x=13$.
 
+### P-WAV-05 — JEE Main 2024 · 31 Jan Shift 2 · Q9 · MCQ
+
+The speed of sound in oxygen at S.T.P. will be approximately (given $R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$, $\gamma=1.4$)
+
+(1) 310 m s$^{-1}$  (2) 333 m s$^{-1}$  (3) 341 m s$^{-1}$  (4) 325 m s$^{-1}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $v=\sqrt{\dfrac{\gamma RT}M}=\sqrt{\dfrac{1.4\times8.3\times273}{32\times10^{-3}}}\approx\sqrt{9.9\times10^4}\approx315\ \text{m s}^{-1}$, closest to $310\ \text{m s}^{-1}$.
+

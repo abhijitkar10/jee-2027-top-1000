@@ -74,3 +74,21 @@ Let $y=y(x)$ be the solution of $(1-x^2)\,dy=\left[xy+(x^3+2)\sqrt{3(1-x^2)}\rig
 
 **Solution.** $\dfrac{dy}{dx}-\dfrac{x}{1-x^2}y=\dfrac{(x^3+2)\sqrt3}{\sqrt{1-x^2}}$. Integrating factor: $e^{-\int\frac x{1-x^2}dx}=\sqrt{1-x^2}$. So $\dfrac d{dx}\left(y\sqrt{1-x^2}\right)=\sqrt3(x^3+2)\Rightarrow y\sqrt{1-x^2}=\sqrt3\left(\dfrac{x^4}4+2x\right)+C$, and $y(0)=0\Rightarrow C=0$. At $x=\tfrac12$: $y\cdot\dfrac{\sqrt3}2=\sqrt3\left(\dfrac1{64}+1\right)=\dfrac{65\sqrt3}{64}\Rightarrow y=\dfrac{65}{32}$. So $m+n=97$.
 
+### M-DIF-09 — JEE Main 2024 · 31 Jan Shift 2 · Q77 · MCQ
+
+The temperature $T(t)$ of a body at time $t=0$ is $160^\circ$F and it decreases continuously as per the differential equation $\dfrac{dT}{dt}=-K(T-80)$, where $K$ is a positive constant. If $T(15)=120^\circ$F, then $T(45)$ is equal to
+
+(1) $85^\circ$F  (2) $95^\circ$F  (3) $90^\circ$F  (4) $80^\circ$F
+
+**Answer: (3)** · key ✔
+
+**Solution.** $T-80=(T_0-80)e^{-Kt}=80e^{-Kt}$. At $t=15$: $40=80e^{-15K}\Rightarrow e^{-15K}=\tfrac12$. At $t=45$: $T-80=80\left(\tfrac12\right)^3=10$, so $T(45)=90^\circ$F.
+
+### M-DIF-10 — JEE Main 2024 · 31 Jan Shift 2 · Q88 · Numerical
+
+Let $y=y(x)$ be the solution of $\sec^2x\,dx+\left(e^{2y}\tan^2x+\tan x\right)dy=0$, $0<x<\dfrac\pi2$, $y\!\left(\dfrac\pi4\right)=0$. If $y\!\left(\dfrac\pi6\right)=\alpha$, then $e^{8\alpha}$ is equal to ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** Put $u=\tan x$: $\dfrac{du}{dy}+e^{2y}u^2+u=0$. Let $w=\dfrac1u$: $\dfrac{dw}{dy}=-u^{-2}\dfrac{du}{dy}=e^{2y}+w$, so $\dfrac{dw}{dy}-w=e^{2y}$, with integrating factor $e^{-y}$: $we^{-y}=e^{y}+C$. At $y=0$, $u=1\Rightarrow w=1\Rightarrow C=0$, so $w=e^{2y}$, i.e. $\tan x=e^{-2y}$. At $x=\tfrac\pi6$: $\tfrac1{\sqrt3}=e^{-2\alpha}\Rightarrow e^{2\alpha}=\sqrt3\Rightarrow e^{8\alpha}=(\sqrt3)^4=9$.
+

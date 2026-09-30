@@ -34,3 +34,21 @@ The mass of sodium acetate ($\text{CH}_3\text{COONa}$) required to prepare $250$
 
 **Solution.** Moles $=0.35\times0.250=0.0875$. Mass $=0.0875\times82.02=7.18\approx7$ g.
 
+### C-MOL-05 — JEE Main 2024 · 31 Jan Shift 2 · Q31 · MCQ
+
+A sample of $\text{CaCO}_3$ and $\text{MgCO}_3$ weighing $2.21$ g is ignited to a constant weight of $1.152$ g. The composition of the mixture is (molar masses: $\text{CaCO}_3$ 100, $\text{MgCO}_3$ 84 g mol$^{-1}$)
+
+(1) $1.187$ g $\text{CaCO}_3$ + $1.023$ g $\text{MgCO}_3$  (2) $1.023$ g $\text{CaCO}_3$ + $1.023$ g $\text{MgCO}_3$  (3) $1.187$ g $\text{CaCO}_3$ + $1.187$ g $\text{MgCO}_3$  (4) $1.023$ g $\text{CaCO}_3$ + $1.187$ g $\text{MgCO}_3$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let $x$ g be $\text{CaCO}_3$ (leaving $\text{CaO}$, mass ratio $\tfrac{56}{100}$) and $2.21-x$ g $\text{MgCO}_3$ (leaving $\text{MgO}$, ratio $\tfrac{40}{84}$). $0.56x+0.4762(2.21-x)=1.152\Rightarrow0.0838x=0.0996\Rightarrow x=1.187$ g. So $\text{MgCO}_3=1.023$ g.
+
+### C-MOL-06 — JEE Main 2024 · 31 Jan Shift 2 · Q51 · Numerical
+
+The molarity of $1$ L orthophosphoric acid ($\text{H}_3\text{PO}_4$) having $70\%$ purity by weight (specific gravity $1.54\ \text{g cm}^{-3}$) is ______ M. (Molar mass of $\text{H}_3\text{PO}_4=98\ \text{g mol}^{-1}$)
+
+**Answer: 11** · key ✔
+
+**Solution.** Mass of $1$ L solution $=1540$ g, of which $70\%$ is acid: $1078$ g. Moles $=\dfrac{1078}{98}=11$, in $1$ L, so molarity $=11$ M.
+

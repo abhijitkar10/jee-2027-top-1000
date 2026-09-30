@@ -52,3 +52,13 @@ The parameter that remains the same for molecules of all gases at a given temper
 
 **Solution.** The average translational kinetic energy per molecule is $\tfrac32k_BT$, which depends only on temperature. Mass, speed ($\sqrt{3k_BT/m}$) and momentum depend on the molecular mass.
 
+### P-KTG-06 — JEE Main 2024 · 31 Jan Shift 2 · Q8 · MCQ
+
+A gas mixture consists of $8$ moles of argon and $6$ moles of oxygen at temperature $T$. Neglecting all vibrational modes, the total internal energy of the system is
+
+(1) $29RT$  (2) $20RT$  (3) $27RT$  (4) $21RT$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Argon (monoatomic): $U=\tfrac32nRT=8\times1.5RT=12RT$. Oxygen (diatomic, $5$ degrees of freedom without vibration): $U=\tfrac52nRT=6\times2.5RT=15RT$. Total $=27RT$.
+

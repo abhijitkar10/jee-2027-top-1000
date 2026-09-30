@@ -54,3 +54,11 @@ A coil is placed perpendicular to a magnetic field of $5000$ T. When the field i
 
 **Solution.** $|\varepsilon|=N\,A\left|\dfrac{\Delta B}{\Delta t}\right|$ with $A=\pi(0.01)^2=\dfrac{22}7\times10^{-4}$ m$^2$ and $\left|\dfrac{\Delta B}{\Delta t}\right|=\dfrac{2000}2=1000$ T/s. $22=N\cdot\dfrac{22}7\times10^{-4}\times10^3\Rightarrow N=70$.
 
+### P-EMI-07 — JEE Main 2024 · 31 Jan Shift 2 · Q28 · Numerical
+
+The magnetic flux $\phi$ (in weber) linked with a closed circuit of resistance $8\ \Omega$ varies with time (in seconds) as $\phi=5t^2-36t+1$. The induced current in the circuit at $t=2$ s is ______ A.
+
+**Answer: 2** · key ✔
+
+**Solution.** $\varepsilon=-\dfrac{d\phi}{dt}=-(10t-36)$; at $t=2$: $\varepsilon=16$ V. $I=\dfrac{16}8=2$ A.
+

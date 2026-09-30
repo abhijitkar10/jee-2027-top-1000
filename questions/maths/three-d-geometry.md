@@ -86,3 +86,21 @@ The distance of the point $Q(0,2,-2)$ from the line passing through $P(5,-4,3)$ 
 
 **Solution.** The direction is $(2,3,5)\times(-1,3,2)=(-9,-9,9)\parallel(1,1,-1)$. $\overrightarrow{PQ}=(-5,6,-5)$ and $\overrightarrow{PQ}\times(1,1,-1)=(-1,-10,-11)$ with squared magnitude $222$; $|\vec d|^2=3$. Distance$^2=\dfrac{222}3=74$.
 
+### M-TDG-10 — JEE Main 2024 · 31 Jan Shift 2 · Q78 · MCQ
+
+Let $(\alpha,\beta,\gamma)$ be the mirror image of the point $(2,3,5)$ in the line $\dfrac{x-1}2=\dfrac{y-2}3=\dfrac{z-3}4$. Then $2\alpha+3\beta+4\gamma$ is equal to
+
+(1) 32  (2) 33  (3) 31  (4) 34
+
+**Answer: (2)** · key ✔
+
+**Solution.** A point on the line: $(1+2t,2+3t,3+4t)$. Perpendicular from $(2,3,5)$: $(2t-1)2+(3t-1)3+(4t-2)4=0\Rightarrow29t=13$. Foot $=\left(\tfrac{55}{29},\tfrac{97}{29},\tfrac{139}{29}\right)$. Image $=2\cdot\text{foot}-(2,3,5)=\left(\tfrac{52}{29},\tfrac{107}{29},\tfrac{133}{29}\right)$. $2\alpha+3\beta+4\gamma=\dfrac{104+321+532}{29}=\dfrac{957}{29}=33$.
+
+### M-TDG-11 — JEE Main 2024 · 31 Jan Shift 2 · Q90 · Numerical
+
+A line passes through $A(4,-6,-2)$ and $B(16,-2,4)$. The point $P(a,b,c)$, where $a,b,c$ are non-negative integers, on the line $AB$ lies at a distance of $21$ units from the point $A$. The distance between the points $P(a,b,c)$ and $Q(4,-12,3)$ is equal to ______.
+
+**Answer: 22** · key ✔
+
+**Solution.** $\overrightarrow{AB}=(12,4,6)\parallel(6,2,3)$ with length $7$, so unit direction $\pm\tfrac17(6,2,3)$. At distance $21$: $P=A\pm3(6,2,3)$. $A+3(6,2,3)=(22,0,7)$ has non-negative integer coordinates, whereas $A-3(6,2,3)=(-14,-12,-11)$ does not. $PQ=\sqrt{18^2+12^2+4^2}=\sqrt{484}=22$.
+

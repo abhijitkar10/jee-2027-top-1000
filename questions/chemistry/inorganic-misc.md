@@ -88,3 +88,11 @@ The molar mass of the salt from $\text{NaBr},\ \text{NaNO}_3,\ \text{KI}$ and $\
 
 **Solution.** $\text{NaBr}$ gives brown $\text{Br}_2$, $\text{KI}$ gives violet $\text{I}_2$ vapour, and $\text{NaNO}_3$ (on heating with conc. $\text{H}_2\text{SO}_4$) gives brown $\text{NO}_2$. $\text{CaF}_2$ only gives colourless HF: $\text{CaF}_2+\text{H}_2\text{SO}_4\to\text{CaSO}_4+2\text{HF}$. Molar mass $=40+2(19)=78$ g mol$^{-1}$.
 
+### C-INM-10 — JEE Main 2024 · 31 Jan Shift 2 · Q58 · Numerical
+
+In the reaction of potassium dichromate, potassium chloride and sulphuric acid (conc.), the oxidation state of chromium in the product is $+$ ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** $\text{K}_2\text{Cr}_2\text{O}_7+4\text{KCl}+6\text{H}_2\text{SO}_4\to2\text{CrO}_2\text{Cl}_2+6\text{KHSO}_4+3\text{H}_2\text{O}$. The product is chromyl chloride, in which chromium is $+6$ (no change in oxidation state; $x-4+(-2)=0$).
+

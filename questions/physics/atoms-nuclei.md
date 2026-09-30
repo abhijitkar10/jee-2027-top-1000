@@ -131,3 +131,21 @@ The mass defect in a particular reaction is $0.4$ g. The amount of energy libera
 
 **Solution.** $E=\Delta mc^2=0.4\times10^{-3}\times(3\times10^8)^2=3.6\times10^{13}$ J. Since $1\ \text{kWh}=3.6\times10^6$ J, $E=10^7$ kWh, so $n=1$.
 
+### P-ATN-15 — JEE Main 2024 · 31 Jan Shift 2 · Q18 · MCQ
+
+The mass number of a nucleus having a radius equal to half of the radius of the nucleus with mass number $192$ is
+
+(1) 24  (2) 32  (3) 40  (4) 20
+
+**Answer: (1)** · key ✔
+
+**Solution.** $R=R_0A^{1/3}$, so $\dfrac{R'}{R}=\left(\dfrac{A'}{192}\right)^{1/3}=\dfrac12\Rightarrow A'=\dfrac{192}8=24$.
+
+### P-ATN-16 — JEE Main 2024 · 31 Jan Shift 2 · Q30 · Numerical
+
+A nucleus has mass number $A_1$ and volume $V_1$. Another nucleus has mass number $A_2$ and volume $V_2$. If $A_2=4A_1$, then $\dfrac{V_2}{V_1}=$ ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Nuclear density is constant, so volume is proportional to mass number ($V=\tfrac43\pi R_0^3A$). $\dfrac{V_2}{V_1}=\dfrac{A_2}{A_1}=4$.
+

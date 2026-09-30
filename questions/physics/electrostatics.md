@@ -97,3 +97,13 @@ Two charges $q$ and $3q$ are separated by a distance $r$ in air. At a distance $
 
 **Solution.** The field can vanish only between the like charges on the line joining them: $\dfrac{kq}{x^2}=\dfrac{k(3q)}{(r-x)^2}\Rightarrow(r-x)^2=3x^2\Rightarrow r-x=\sqrt3x\Rightarrow x=\dfrac r{1+\sqrt3}$.
 
+### P-ELS-11 — JEE Main 2024 · 31 Jan Shift 2 · Q10 · MCQ
+
+The force between two point charges $q_1$ and $q_2$ placed in vacuum at $r$ cm apart is $F$. The force between them when placed in a medium of dielectric constant $K=5$ at $\dfrac r5$ cm apart will be
+
+(1) $\dfrac F{25}$  (2) $5F$  (3) $\dfrac F5$  (4) $25F$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $F'=\dfrac{1}{4\pi\varepsilon_0K}\dfrac{q_1q_2}{(r/5)^2}=\dfrac{25}{K}F=\dfrac{25}5F=5F$.
+

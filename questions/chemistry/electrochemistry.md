@@ -121,3 +121,22 @@ One Faraday of electricity liberates $x\times10^{-1}$ gram atom of copper from c
 
 **Solution.** $\text{Cu}^{2+}+2e^-\to\text{Cu}$: $2$ F liberate $1$ gram atom, so $1$ F liberates $0.5=5\times10^{-1}$ gram atom.
 
+### C-ELC-14 — JEE Main 2024 · 31 Jan Shift 2 · Q36 · MCQ
+
+Statement I: $\text{S}_8$ (solid) undergoes a disproportionation reaction under alkaline conditions to form $\text{S}^{2-}$ and $\text{S}_2\text{O}_3^{2-}$.
+Statement II: $\text{ClO}_4^-$ can undergo a disproportionation reaction under acidic conditions.
+
+(1) I correct, II incorrect  (2) I incorrect, II correct  (3) Both incorrect  (4) Both correct
+
+**Answer: (1)** · key ✔
+
+**Solution.** I is true: $\text{S}_8+12\text{OH}^-\to4\text{S}^{2-}+2\text{S}_2\text{O}_3^{2-}+6\text{H}_2\text{O}$ (S goes from $0$ to $-2$ and $+2$). In $\text{ClO}_4^-$ chlorine is already in its maximum oxidation state $+7$ and can only be reduced, so it cannot disproportionate: II is false.
+
+### C-ELC-15 — JEE Main 2024 · 31 Jan Shift 2 · Q57 · Numerical
+
+The number of moles of $\text{H}^+$ ions required by $1$ mole of $\text{MnO}_4^-$ to oxidise oxalate ion to $\text{CO}_2$ is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** $\text{MnO}_4^-+8\text{H}^++5e^-\to\text{Mn}^{2+}+4\text{H}_2\text{O}$ (acidic medium). The balanced equation $2\text{MnO}_4^-+5\text{C}_2\text{O}_4^{2-}+16\text{H}^+\to2\text{Mn}^{2+}+10\text{CO}_2+8\text{H}_2\text{O}$ also gives $8$ mol $\text{H}^+$ per mol $\text{MnO}_4^-$.
+

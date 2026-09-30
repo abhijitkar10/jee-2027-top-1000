@@ -119,3 +119,14 @@ Statement II: Noble gases are monoatomic gases. They are held together by strong
 
 **Solution.** Noble gases have very *low* boiling points (He $4.2$ K, Ar $87$ K) because the only interatomic forces are *weak* London dispersion forces. Both statements are wrong.
 
+### C-PBL-12 — JEE Main 2024 · 31 Jan Shift 2 · Q37 · MCQ
+
+Statement I: Group 13 trivalent halides get easily hydrolysed by water due to their covalent nature.
+Statement II: $\text{AlCl}_3$ upon hydrolysis in acidified aqueous solution forms the octahedral $[\text{Al(H}_2\text{O)}_6]^{3+}$ ion.
+
+(1) I true, II false  (2) I false, II true  (3) Both false  (4) Both true
+
+**Answer: (4)** · key ✔
+
+**Solution.** Covalent group 13 halides are Lewis acids with an empty $p$ orbital; water attacks and hydrolyses them. $\text{AlCl}_3$ in acidified water gives the octahedral hexaaqua ion $[\text{Al(H}_2\text{O)}_6]^{3+}$. Both statements are true.
+

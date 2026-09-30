@@ -125,3 +125,23 @@ The spin-only magnetic moment of $[\text{Ni(NH}_3)_6]^{2+}$ is ______ $\times10^
 
 **Solution.** $\text{Ni}^{2+}$ is $3d^8$. $\text{NH}_3$ is not strong enough to pair electrons here (octahedral $d^8$ has $2$ unpaired electrons regardless of field strength). $\mu=\sqrt{n(n+2)}=\sqrt8=2.83\ \text{BM}=28\times10^{-1}$ BM.
 
+### C-COO-13 — JEE Main 2024 · 31 Jan Shift 2 · Q44 · MCQ
+
+Select the option with the correct property:
+
+(1) $\text{Ni(CO)}_4$ and $[\text{NiCl}_4]^{2-}$ both diamagnetic  (2) $\text{Ni(CO)}_4$ and $[\text{NiCl}_4]^{2-}$ both paramagnetic  (3) $[\text{NiCl}_4]^{2-}$ diamagnetic, $\text{Ni(CO)}_4$ paramagnetic  (4) $\text{Ni(CO)}_4$ diamagnetic, $[\text{NiCl}_4]^{2-}$ paramagnetic
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{Ni(CO)}_4$: Ni(0) is $3d^{10}$ (or $3d^84s^2$ pairs up under the strong-field CO), tetrahedral $sp^3$, no unpaired electrons: diamagnetic. $[\text{NiCl}_4]^{2-}$: $\text{Ni}^{2+}$ $3d^8$ with the weak-field $\text{Cl}^-$ is tetrahedral $sp^3$ with $2$ unpaired electrons: paramagnetic.
+
+### C-COO-14 — JEE Main 2024 · 31 Jan Shift 2 · Q45 · MCQ
+
+Match List I (complex ion) with List II (electronic configuration): A. $[\text{Cr(H}_2\text{O)}_6]^{3+}$  B. $[\text{Fe(H}_2\text{O)}_6]^{3+}$  C. $[\text{Ni(H}_2\text{O)}_6]^{2+}$  D. $[\text{V(H}_2\text{O)}_6]^{3+}$; I. $t_{2g}^2e_g^0$  II. $t_{2g}^3e_g^0$  III. $t_{2g}^3e_g^2$  IV. $t_{2g}^6e_g^2$.
+
+(1) A-III, B-II, C-IV, D-I  (2) A-IV, B-I, C-II, D-III  (3) A-IV, B-III, C-I, D-II  (4) A-II, B-III, C-IV, D-I
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{H}_2\text{O}$ is a weak-field ligand. $\text{Cr}^{3+}$ $d^3$: $t_{2g}^3$. $\text{Fe}^{3+}$ $d^5$ (high spin): $t_{2g}^3e_g^2$. $\text{Ni}^{2+}$ $d^8$: $t_{2g}^6e_g^2$. $\text{V}^{3+}$ $d^2$: $t_{2g}^2$.
+

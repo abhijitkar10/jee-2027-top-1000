@@ -54,3 +54,11 @@ Suppose $28-p,\ p,\ 70-\alpha,\ \alpha$ are the coefficients of four consecutive
 
 **Solution.** Let the coefficients be ${}^nC_{r-1},{}^nC_r,{}^nC_{r+1},{}^nC_{r+2}$. Adding the first two: ${}^{n+1}C_r=28$; adding the last two: ${}^{n+1}C_{r+2}=70$. Since ${}^8C_2=28$ and ${}^8C_4=70$: $n+1=8,\ r=2$, so $n=7$. Then $28-p={}^7C_1=7\Rightarrow p=21$ and $\alpha={}^7C_4=35$. So $2\alpha-3p=70-63=7$.
 
+### M-BIN-07 — JEE Main 2024 · 31 Jan Shift 2 · Q82 · Numerical
+
+Let the coefficient of $x^r$ in the expansion of $(x+3)^{n-1}+(x+3)^{n-2}(x+2)+(x+3)^{n-3}(x+2)^2+\cdots+(x+2)^{n-1}$ be $\alpha_r$. If $\displaystyle\sum_{r=0}^n\alpha_r=\beta^n-\gamma^n$, $\beta,\gamma\in\mathbb N$, then $\beta^2+\gamma^2$ equals ______.
+
+**Answer: 25** · key ✔
+
+**Solution.** $\sum\alpha_r$ is the sum of coefficients, i.e. the value at $x=1$: $4^{n-1}+4^{n-2}3+\dots+3^{n-1}$, a geometric series with ratio $\tfrac34$, equal to $\dfrac{4^n-3^n}{4-3}=4^n-3^n$. So $\beta=4,\ \gamma=3$ and $\beta^2+\gamma^2=25$.
+

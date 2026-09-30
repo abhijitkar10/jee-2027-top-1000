@@ -98,3 +98,11 @@ If $f(x)=\begin{vmatrix}x^3&2x^2+1&1+3x\\3x^2+2&2x&x^3+6\\x^3-x&4&x^2-2\end{vmat
 
 **Solution.** $f(0)=\begin{vmatrix}0&1&1\\2&0&6\\0&4&-2\end{vmatrix}=-1(-4-0)+1(8-0)=12$. Differentiating row by row and setting $x=0$ (derivative rows $(0,0,3)$, $(0,2,0)$, $(-1,0,0)$): the three determinants are $24$, $0$ and $-6$. So $f'(0)=18$ and $2f(0)+f'(0)=24+18=42$.
 
+### M-MAT-11 — JEE Main 2024 · 31 Jan Shift 2 · Q86 · Numerical
+
+Let $A$ be a $3\times3$ matrix with $\det A=2$. If $n=\det\!\big(\underbrace{\text{adj}(\text{adj}(\cdots\text{adj}(A)))}_{2024\text{ times}}\big)$, then the remainder when $n$ is divided by $9$ is equal to ______.
+
+**Answer: 7** · key ✔
+
+**Solution.** For a $3\times3$ matrix $\det(\text{adj}M)=(\det M)^2$. Each application squares the determinant, so after $k$ applications $\det=2^{2^k}$; here $n=2^{2^{2024}}$. Modulo $9$ the powers of $2$ cycle with period $6$, and $2^{2024}\equiv4\pmod6$ (since $2^k\equiv4\pmod6$ for even $k\ge2$). So $n\equiv2^4=16\equiv7\pmod9$.
+

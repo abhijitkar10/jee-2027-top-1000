@@ -72,3 +72,14 @@ In a plane EM wave the electric field oscillates sinusoidally at a frequency of 
 
 **Solution.** Average total energy density $u=\tfrac12\varepsilon_0E_0^2$ (the electric and magnetic parts contribute equally: $\tfrac14\varepsilon_0E_0^2$ each). $u=\tfrac12(8.85\times10^{-12})(50)^2=1.106\times10^{-8}\ \text{J m}^{-3}$.
 
+### P-EMW-08 — JEE Main 2024 · 31 Jan Shift 2 · Q15 · MCQ
+
+Statement I: Electromagnetic waves carry energy as they travel through space, and this energy is equally shared by the electric and magnetic fields.
+Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface.
+
+(1) I incorrect, II correct  (2) Both correct  (3) Both incorrect  (4) I correct, II incorrect
+
+**Answer: (2)** · key ✔
+
+**Solution.** The energy densities are equal, $u_E=u_B=\tfrac12\varepsilon_0E^2=\dfrac{B^2}{2\mu_0}$, so I is true. Radiation carries momentum $p=U/c$ and exerts radiation pressure, so II is true.
+

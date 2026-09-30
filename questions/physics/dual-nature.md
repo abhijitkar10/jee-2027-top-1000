@@ -62,3 +62,13 @@ When a metal surface is illuminated by light of wavelength $\lambda$, the stoppi
 
 **Solution.** Let $E=\dfrac{hc}{\lambda}$ (in eV). $8=E-\phi$ and $2=\dfrac E3-\phi$. Subtracting: $6=\dfrac{2E}3\Rightarrow E=9$ eV, so $\phi=1$ eV. $\lambda_0=\dfrac{hc}\phi=9\,\dfrac{hc}{E}=9\lambda$.
 
+### P-DUL-07 — JEE Main 2024 · 31 Jan Shift 2 · Q17 · MCQ
+
+In a photoelectric effect experiment, light of frequency $1.5$ times the threshold frequency is made to fall on the surface of a photosensitive material. Now, if the frequency is halved and the intensity is doubled, the number of photoelectrons emitted will be
+
+(1) Doubled  (2) Quadrupled  (3) Zero  (4) Halved
+
+**Answer: (3)** · key ✔
+
+**Solution.** Initially $\nu=1.5\nu_0>\nu_0$, so emission occurs. After halving, $\nu=0.75\nu_0<\nu_0$, below the threshold, so no photoelectrons are emitted however intense the light is.
+

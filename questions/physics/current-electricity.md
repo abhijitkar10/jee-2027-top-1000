@@ -118,3 +118,23 @@ Two conductors have the same resistance at $0^\circ$C but their temperature coef
 
 **Solution.** Series: $R_s=R_0[(1+\alpha_1t)+(1+\alpha_2t)]=2R_0\left[1+\dfrac{\alpha_1+\alpha_2}2t\right]$, so $\alpha_s=\dfrac{\alpha_1+\alpha_2}2$. Parallel: $R_p=\dfrac{R_0(1+\alpha_1t)(1+\alpha_2t)}{2+(\alpha_1+\alpha_2)t}\approx\dfrac{R_0}2\left[1+(\alpha_1+\alpha_2)t-\dfrac{(\alpha_1+\alpha_2)t}2\right]=\dfrac{R_0}2\left[1+\dfrac{\alpha_1+\alpha_2}2t\right]$ (first order). So $\alpha_p=\dfrac{\alpha_1+\alpha_2}2$.
 
+### P-CUR-13 — JEE Main 2024 · 31 Jan Shift 2 · Q11 · MCQ
+
+By what percentage will the illumination of a lamp decrease if the current drops by $20\%$?
+
+(1) 46%  (2) 26%  (3) 36%  (4) 56%
+
+**Answer: (3)** · key ✔
+
+**Solution.** The lamp's light output tracks its power $P=I^2R$. With $I\to0.8I$: $P\to0.64P$, a decrease of $36\%$.
+
+### P-CUR-14 — JEE Main 2024 · 31 Jan Shift 2 · Q12 · MCQ
+
+The resistance per centimetre of a meter bridge wire is $r$, with $X\ \Omega$ resistance in the left gap. The balancing length from the left end is $40$ cm with a $25\ \Omega$ resistance in the right gap. The wire is now replaced by another wire of $2r$ resistance per centimetre. The new balancing length for the same settings will be at
+
+(1) 20 cm  (2) 10 cm  (3) 80 cm  (4) 40 cm
+
+**Answer: (4)** · key ✔
+
+**Solution.** At balance $\dfrac X{25}=\dfrac{r\,l}{r(100-l)}=\dfrac l{100-l}$. Only the ratio of the two wire segments matters, and both scale by the same factor $2$ for the new wire, so the balance point is unchanged at $40$ cm.
+

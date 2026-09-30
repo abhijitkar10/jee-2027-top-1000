@@ -68,3 +68,13 @@ A power transmission line feeds input power at $2.3$ kV to a step-down transform
 
 **Solution.** $P_{in}=2300\times5=11500$ W. $P_{out}=0.9\times11500=10350$ W. $I_{out}=\dfrac{10350}{230}=45$ A.
 
+### P-ACC-08 — JEE Main 2024 · 31 Jan Shift 2 · Q14 · MCQ
+
+An AC voltage $V=20\sin200\pi t$ is applied to a series LCR circuit which drives a current $I=10\sin\!\left(200\pi t+\dfrac\pi3\right)$. The average power dissipated is
+
+(1) 21.6 W  (2) 200 W  (3) 173.2 W  (4) 50 W
+
+**Answer: (4)** · key ✔
+
+**Solution.** $P_{av}=\tfrac12V_0I_0\cos\phi=\tfrac12(20)(10)\cos\dfrac\pi3=100\times\tfrac12=50$ W.
+

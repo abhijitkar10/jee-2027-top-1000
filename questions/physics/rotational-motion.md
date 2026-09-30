@@ -60,3 +60,19 @@ A solid circular disc of mass $50$ kg rolls along a horizontal floor so that its
 
 **Solution.** By the work–energy theorem the work needed equals the total kinetic energy: $K=\tfrac12mv^2\left(1+\dfrac{I}{mR^2}\right)=\tfrac12(50)(0.16)\left(1+\tfrac12\right)=4\times1.5=6$ J.
 
+### P-ROT-08 — JEE Main 2024 · 31 Jan Shift 2 · Q21 · Numerical
+
+Two identical spheres each of mass $2$ kg and radius $50$ cm are fixed at the ends of a light rod so that the separation between the centres is $150$ cm. The moment of inertia of the system about an axis perpendicular to the rod and passing through its middle point is $\dfrac x{20}$ kg m$^2$, where $x$ is ______.
+
+**Answer: 53** · key ✔
+
+**Solution.** For each solid sphere $I=\tfrac25mr^2+md^2$ with $d=0.75$ m: $\tfrac25(2)(0.25)+2(0.5625)=0.2+1.125=1.325$ kg m$^2$. Two spheres: $2.65=\dfrac{53}{20}$, so $x=53$.
+
+### P-ROT-09 — JEE Main 2024 · 31 Jan Shift 2 · Q22 · Numerical
+
+A body of mass $m$ is projected with speed $u$ at an angle of $45^\circ$ with the ground. The angular momentum of the body about the point of projection, at the highest point, is $\dfrac{\sqrt2\,mu^3}{Xg}$. The value of $X$ is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** At the highest point $v=u\cos45^\circ=\dfrac u{\sqrt2}$ (horizontal) and $h=\dfrac{u^2\sin^245^\circ}{2g}=\dfrac{u^2}{4g}$. $L=mvh=m\cdot\dfrac u{\sqrt2}\cdot\dfrac{u^2}{4g}=\dfrac{mu^3}{4\sqrt2g}=\dfrac{\sqrt2mu^3}{8g}$. So $X=8$.
+

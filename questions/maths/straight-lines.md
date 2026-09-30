@@ -80,3 +80,13 @@ If $x^2-y^2+2hxy+2gx+2fy+c=0$ is the locus of a point which moves so that it is 
 
 **Solution.** Equal distances: $(x+2y+7)^2=(2x-y+8)^2$ (both denominators are $\sqrt5$), i.e. $(-x+3y-1)(3x+y+15)=0$. Expanding: $-3x^2+8xy+3y^2-18x+44y-15=0$. Dividing by $-3$: $x^2-\tfrac83xy-y^2+6x-\tfrac{44}3y+5=0$. So $h=-\tfrac43,\ g=3,\ f=-\tfrac{22}3,\ c=5$, and $g+c+h-f=3+5-\tfrac43+\tfrac{22}3=8+6=14$.
 
+### M-STL-09 — JEE Main 2024 · 31 Jan Shift 2 · Q67 · MCQ
+
+A variable line passes through the centre of the circle $x^2+y^2-16x-4y=0$ and meets the positive coordinate axes at the points $A$ and $B$. Then the minimum value of $OA+OB$, where $O$ is the origin, is
+
+(1) 12  (2) 18  (3) 20  (4) 24
+
+**Answer: (2)** · key ✔
+
+**Solution.** The centre is $(8,2)$. With intercepts $a,b$: $\dfrac8a+\dfrac2b=1$. By Cauchy–Schwarz, $a+b=(a+b)\left(\dfrac8a+\dfrac2b\right)\ge\left(\sqrt8+\sqrt2\right)^2=(3\sqrt2)^2=18$, with equality attainable.
+

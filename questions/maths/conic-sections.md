@@ -104,3 +104,13 @@ Let the foci and the length of the latus rectum of the ellipse $\dfrac{x^2}{a^2}
 
 **Solution.** $ae=5\Rightarrow a^2-b^2=25$, and $\dfrac{2b^2}a=\sqrt{50}\Rightarrow b^2=\dfrac{5\sqrt2}2a$. Substituting: $a^2-\dfrac{5\sqrt2}2a-25=0\Rightarrow a=5\sqrt2$, so $a^2=50$ and $b^2=25$. For the hyperbola, $e^2=1+\dfrac{a^2b^2}{b^2}=1+a^2=51$.
 
+### M-CON-12 — JEE Main 2024 · 31 Jan Shift 2 · Q68 · MCQ
+
+Let $P$ be a parabola with vertex $(2,3)$ and directrix $2x+y=6$. Let an ellipse $E:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1$, $a>b$, of eccentricity $\dfrac1{\sqrt2}$ pass through the focus of the parabola $P$. Then the square of the length of the latus rectum of $E$ is
+
+(1) $\tfrac{385}8$  (2) $\tfrac{347}8$  (3) $\tfrac{512}{25}$  (4) $\tfrac{656}{25}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** The vertex is at distance $\dfrac{|4+3-6|}{\sqrt5}=\dfrac1{\sqrt5}$ from the directrix, on the side where $2x+y>6$. The focus lies the same distance beyond the vertex along $\dfrac{(2,1)}{\sqrt5}$: $F=\left(2+\tfrac25,\ 3+\tfrac15\right)=\left(\tfrac{12}5,\tfrac{16}5\right)$. With $e=\tfrac1{\sqrt2}$, $b^2=\tfrac{a^2}2$. Passing through $F$: $\dfrac{144/25}{a^2}+\dfrac{256/25}{a^2/2}=1\Rightarrow a^2=\dfrac{656}{25}$. Latus rectum $=\dfrac{2b^2}a=a$, so its square is $a^2=\dfrac{656}{25}$.
+

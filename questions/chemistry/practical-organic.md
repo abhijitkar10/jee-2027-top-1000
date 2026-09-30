@@ -91,3 +91,13 @@ Match List I (technique) with List II (application): A. Distillation  B. Fractio
 
 **Solution.** Simple distillation separates liquids with a large boiling-point gap (chloroform–aniline). Fractional distillation separates crude-oil fractions. Steam distillation suits water-immiscible, steam-volatile aniline. Reduced-pressure distillation is used for glycerol (decomposes near its normal boiling point).
 
+### C-PRO-10 — JEE Main 2024 · 31 Jan Shift 2 · Q39 · MCQ
+
+The fragrance of flowers is due to the presence of steam-volatile organic compounds called essential oils. They are generally insoluble in water at room temperature but miscible with water vapour in the vapour phase. A suitable method for the extraction of these oils from the flowers is
+
+(1) crystallisation  (2) distillation under reduced pressure  (3) distillation  (4) steam distillation
+
+**Answer: (4)** · key ✔
+
+**Solution.** Steam distillation suits substances that are volatile in steam, immiscible with water and would decompose at their normal boiling points. The oil co-distils with steam below $100^\circ$C and is separated from the condensed water.
+

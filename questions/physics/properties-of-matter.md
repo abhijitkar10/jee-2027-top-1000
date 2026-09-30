@@ -92,3 +92,21 @@ The depth below the surface of the sea to which a rubber ball must be taken so a
 
 **Solution.** $\dfrac{\Delta V}V=\dfrac{\rho gh}B\Rightarrow2\times10^{-4}=\dfrac{10^3\times10\times h}{9\times10^8}\Rightarrow h=\dfrac{2\times10^{-4}\times9\times10^8}{10^4}=18$ m.
 
+### P-POM-11 — JEE Main 2024 · 31 Jan Shift 2 · Q7 · MCQ
+
+A small spherical ball of radius $r$, falling through a viscous medium of negligible density, has terminal velocity $v$. Another ball of the same mass but of radius $2r$, falling through the same viscous medium, will have terminal velocity
+
+(1) $\dfrac v2$  (2) $\dfrac v4$  (3) $4v$  (4) $2v$
+
+**Answer: (1)** · key ✔
+
+**Solution.** With negligible medium density there is no buoyancy, so at terminal velocity $mg=6\pi\eta rv$, i.e. $v=\dfrac{mg}{6\pi\eta r}\propto\dfrac1r$ at fixed mass. Doubling the radius halves the terminal velocity.
+
+### P-POM-12 — JEE Main 2024 · 31 Jan Shift 2 · Q23 · Numerical
+
+Two blocks of mass $2$ kg and $4$ kg are connected by a metal wire going over a smooth pulley. The radius of the wire is $4.0\times10^{-5}$ m and Young's modulus of the metal is $2.0\times10^{11}\ \text{N m}^{-2}$. The longitudinal strain developed in the wire is $\dfrac1{\alpha\pi}$. The value of $\alpha$ is ______. (Use $g=10\ \text{m s}^{-2}$)
+
+**Answer: 12** · key ✔
+
+**Solution.** Tension in the Atwood machine: $T=\dfrac{2m_1m_2g}{m_1+m_2}=\dfrac{2(2)(4)(10)}{6}=\dfrac{80}3$ N. Stress $=\dfrac T{\pi r^2}$, so strain $=\dfrac{T}{\pi r^2Y}=\dfrac{80/3}{\pi(16\times10^{-10})(2\times10^{11})}=\dfrac{80/3}{320\pi}=\dfrac1{12\pi}$. So $\alpha=12$.
+

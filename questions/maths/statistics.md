@@ -66,3 +66,13 @@ For the data below, the variance is $\sigma^2=k$. Find $[k]$, where $[\cdot]$ de
 
 **Solution.** $N=22$, $\sum f_ix_i=0+2+15+12+60+36+51=176$, so the mean is $8$. $\sum f_ix_i^2=0+2+75+72+600+432+867=2048$. Variance $=\dfrac{2048}{22}-64=93.09-64=29.09$, so $[k]=29$.
 
+### M-STA-07 — JEE Main 2024 · 31 Jan Shift 2 · Q70 · MCQ
+
+The mean and the variance of the $6$ observations $a,b,68,44,48,60$ are $55$ and $194$ respectively. If $a>b$, then $a+3b$ is
+
+(1) 200  (2) 190  (3) 180  (4) 210
+
+**Answer: (3)** · key ✔
+
+**Solution.** Sum $=330\Rightarrow a+b=330-220=110$. $\sum x^2=6(55^2+194)=19314$; known squares sum to $4624+1936+2304+3600=12464$, so $a^2+b^2=6850$. Then $2ab=110^2-6850=5250\Rightarrow ab=2625$. $a,b$ are roots of $t^2-110t+2625=0\Rightarrow t=75,35$. With $a>b$: $a+3b=75+105=180$.
+

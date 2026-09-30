@@ -57,3 +57,13 @@ The ionisation energy of sodium in kJ mol$^{-1}$, if electromagnetic radiation o
 
 **Solution.** Energy per atom $E=\dfrac{hc}\lambda=\dfrac{6.626\times10^{-34}\times3\times10^8}{242\times10^{-9}}=8.21\times10^{-19}$ J. Per mole: $8.21\times10^{-19}\times6.022\times10^{23}=4.95\times10^5$ J $\approx494$ kJ mol$^{-1}$.
 
+### C-ATS-07 — JEE Main 2024 · 31 Jan Shift 2 · Q32 · MCQ
+
+The four quantum numbers for the electron in the outermost orbital of potassium (atomic number $19$) are
+
+(1) $n=4,l=2,m=-1,s=+\tfrac12$  (2) $n=4,l=0,m=0,s=\pm\tfrac12$  (3) $n=3,l=0,m=-1,s=+\tfrac12$  (4) $n=2,l=0,m=0,s=+\tfrac12$
+
+**Answer: (2)** · key ✔
+
+**Solution.** K is $[\text{Ar}]4s^1$. The valence electron is in the $4s$ orbital: $n=4$, $l=0$, $m_l=0$, $s=\pm\tfrac12$.
+

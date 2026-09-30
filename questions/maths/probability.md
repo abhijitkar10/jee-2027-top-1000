@@ -80,3 +80,13 @@ Three rotten apples are accidentally mixed with fifteen good apples. If the rand
 
 **Solution.** $P(0)=\dfrac{{}^{15}C_2}{{}^{18}C_2}=\dfrac{105}{153}$, $P(1)=\dfrac{3\cdot15}{153}=\dfrac{45}{153}$, $P(2)=\dfrac{3}{153}$. $E[X]=\dfrac{45+6}{153}=\dfrac13$, $E[X^2]=\dfrac{45+12}{153}=\dfrac{57}{153}$. $\text{Var}=\dfrac{57}{153}-\dfrac19=\dfrac{57-17}{153}=\dfrac{40}{153}$.
 
+### M-PRB-09 — JEE Main 2024 · 31 Jan Shift 2 · Q80 · MCQ
+
+A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed $3$ times, the probability of getting two tails and one head is
+
+(1) $\tfrac29$  (2) $\tfrac19$  (3) $\tfrac2{27}$  (4) $\tfrac1{27}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $P(H)=\tfrac23,\ P(T)=\tfrac13$. Two tails and one head: $\binom31\left(\tfrac23\right)\left(\tfrac13\right)^2=3\cdot\tfrac{2}{27}=\tfrac29$.
+

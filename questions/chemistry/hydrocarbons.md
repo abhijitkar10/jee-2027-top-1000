@@ -18,3 +18,11 @@ The number of alkanes obtained on electrolysis of a mixture of $\text{CH}_3\text
 
 **Solution.** Kolbe electrolysis couples the alkyl radicals formed at the anode: $\text{CH}_3\cdot+\text{CH}_3\cdot\to\text{C}_2\text{H}_6$, $\text{C}_2\text{H}_5\cdot+\text{C}_2\text{H}_5\cdot\to\text{C}_4\text{H}_{10}$ and the cross product $\text{CH}_3\cdot+\text{C}_2\text{H}_5\cdot\to\text{C}_3\text{H}_8$. Three alkanes.
 
+### C-HYD-03 — JEE Main 2024 · 31 Jan Shift 2 · Q54 · Numerical
+
+The number of isomeric products formed by monochlorination of 2-methylbutane in the presence of sunlight is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** 2-Methylbutane is $\text{CH}_3\text{-CH(CH}_3)\text{-CH}_2\text{-CH}_3$. Chlorination at C-1 (either equivalent $\text{CH}_3$) gives 1-chloro-2-methylbutane (chiral: $2$ enantiomers); at C-2 gives 2-chloro-2-methylbutane ($1$); at C-3 gives 2-chloro-3-methylbutane (chiral: $2$); at C-4 gives 1-chloro-3-methylbutane ($1$). Total $=2+1+2+1=6$.
+

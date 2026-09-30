@@ -73,3 +73,13 @@ Four identical particles of mass $m$ are kept at the four corners of a square of
 
 **Solution.** Two neighbours (distance $a$) give a resultant $\sqrt2\,\dfrac{Gm^2}{a^2}$ along the diagonal, and the opposite particle (distance $\sqrt2a$) adds $\dfrac{Gm^2}{2a^2}$ in the same direction. Total $=\dfrac{Gm^2}{a^2}\left(\sqrt2+\tfrac12\right)=\dfrac{2\sqrt2+1}{2}\dfrac{Gm^2}{a^2}$. Setting this equal to the given expression: $\dfrac1{2a^2}=\dfrac1{32L^2}\Rightarrow a=4L$.
 
+### P-GRV-08 — JEE Main 2024 · 31 Jan Shift 2 · Q6 · MCQ
+
+The mass of the moon is $\dfrac1{144}$ times the mass of a planet and its diameter is $\dfrac1{16}$ times the diameter of the planet. If the escape velocity on the planet is $v$, the escape velocity on the moon will be
+
+(1) $\dfrac v3$  (2) $\dfrac v{12}$  (3) $\dfrac v4$  (4) $\dfrac v6$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. Ratio $=\sqrt{\dfrac{1/144}{1/16}}=\sqrt{\dfrac{16}{144}}=\dfrac13$, so $v_{moon}=\dfrac v3$.
+

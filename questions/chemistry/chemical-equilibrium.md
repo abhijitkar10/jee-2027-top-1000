@@ -36,3 +36,13 @@ For the reaction $\tfrac32\text{O}_2(g)\rightleftharpoons\text{O}_3(g)$ at $298$
 
 **Solution.** $\Delta_rG^\circ=-RT\ln K_p=-8.314\times298\times\left[\ln2.47-29\ln10\right]=-2477.6\times(0.904-66.77)=+1.63\times10^5$ J $\approx163$ kJ.
 
+### C-CEQ-05 — JEE Main 2024 · 31 Jan Shift 2 · Q35 · MCQ
+
+For the equilibrium $\text{A}(g)\rightleftharpoons\text{B}(g)+\tfrac12\text{C}(g)$, the correct relationship between $K_P$, the degree of dissociation $\alpha$ and the equilibrium pressure $P$ is
+
+(the correct expression is $K_P=\dfrac{\alpha^{3/2}P^{1/2}}{(2+\alpha)^{1/2}(1-\alpha)}$, option (2))
+
+**Answer: $K_P=\dfrac{\alpha^{3/2}P^{1/2}}{(2+\alpha)^{1/2}(1-\alpha)}$** · key ✔
+
+**Solution.** Starting from $1$ mol A: A $=1-\alpha$, B $=\alpha$, C $=\tfrac\alpha2$, total $=1+\tfrac\alpha2=\tfrac{2+\alpha}2$. Mole fractions: $x_A=\dfrac{2(1-\alpha)}{2+\alpha}$, $x_B=\dfrac{2\alpha}{2+\alpha}$, $x_C=\dfrac\alpha{2+\alpha}$. $K_P=\dfrac{x_Bx_C^{1/2}P^{3/2}}{x_AP}=\dfrac{2\alpha}{2+\alpha}\left(\dfrac\alpha{2+\alpha}\right)^{1/2}\dfrac{(2+\alpha)}{2(1-\alpha)}P^{1/2}=\dfrac{\alpha^{3/2}P^{1/2}}{(2+\alpha)^{1/2}(1-\alpha)}$.
+
