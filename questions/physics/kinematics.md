@@ -28,3 +28,13 @@ A body falling under gravity covers two points $A$ and $B$ separated by $80$ m i
 
 **Solution.** If the speed at $A$ is $u$: $80=2u+\tfrac12(10)(2)^2=2u+20\Rightarrow u=30$ m/s. Then $h=\dfrac{u^2}{2g}=\dfrac{900}{20}=45$ m.
 
+### P-KIN-04 — JEE Main 2024 · 29 Jan Shift 1 · Q2 · MCQ
+
+A body starts from rest with constant acceleration. It covers a displacement $S_1$ in the first $(p-1)$ seconds and $S_2$ in the first $p$ seconds. The displacement $S_1+S_2$ will be covered in time
+
+(1) $(2p+1)$ s  (2) $\sqrt{2p^2-2p+1}$ s  (3) $(2p-1)$ s  (4) $(2p^2-2p+1)$ s
+
+**Answer: (2)** · key ✔
+
+**Solution.** From rest, $S=\tfrac12at^2$. So $S_1+S_2=\tfrac12a\left[(p-1)^2+p^2\right]=\tfrac12a\,(2p^2-2p+1)$. Setting $\tfrac12at^2$ equal to this gives $t=\sqrt{2p^2-2p+1}$ s.
+

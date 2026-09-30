@@ -20,3 +20,11 @@ The mean and standard deviation of $15$ observations were found to be $12$ and $
 
 **Solution.** Correct sum $=15\cdot12-10+12=182$, so $15\mu=182$. Original $\sum x_i^2=15(9+144)=2295$; corrected $\sum x_i^2=2295-100+144=2339$. Since $\mu^2+\sigma^2=\dfrac{\sum x_i^2}{15}$: $15(\mu+\mu^2+\sigma^2)=182+2339=2521$.
 
+### M-STA-03 — JEE Main 2024 · 29 Jan Shift 1 · Q86 · Numerical
+
+If the mean and variance of the data $65,68,58,44,48,45,60,\alpha,\beta,60$, where $\alpha>\beta$, are $56$ and $66.2$ respectively, then $\alpha^2+\beta^2$ is equal to ______.
+
+**Answer: 6344** · key ✔
+
+**Solution.** $\sum x=560$ and the known values sum to $448$, so $\alpha+\beta=112$. Variance: $\dfrac{\sum x^2}{10}-56^2=66.2\Rightarrow\sum x^2=32022$. The known squares sum to $4225+4624+3364+1936+2304+2025+3600+3600=25678$. Hence $\alpha^2+\beta^2=32022-25678=6344$.
+

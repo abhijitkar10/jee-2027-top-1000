@@ -22,3 +22,13 @@ Identify the incorrect pair:
 
 **Solution.** The Wacker process (ethene to ethanal) uses $\text{PdCl}_2$ (with $\text{CuCl}_2$), not $\text{PtCl}_2$. $\text{AgBr}$ is the light-sensitive salt in photography, Ziegler–Natta catalyst ($\text{TiCl}_4$ + trialkylaluminium) makes polythene, and iron catalyses the Haber process.
 
+### C-INM-03 — JEE Main 2024 · 29 Jan Shift 1 · Q45 · MCQ
+
+In the chromyl chloride test for the $\text{Cl}^-$ ion, a yellow solution is obtained. Acidification of the solution and addition of amyl alcohol and $10\%\ \text{H}_2\text{O}_2$ turns the organic layer blue, indicating formation of chromium pentoxide. The oxidation state of chromium in that species is
+
+(1) $+6$  (2) $+5$  (3) $+10$  (4) $+3$
+
+**Answer: (1)** · key ✔
+
+**Solution.** The yellow solution contains $\text{CrO}_4^{2-}$. With acid and $\text{H}_2\text{O}_2$ it forms the blue peroxo compound $\text{CrO}(\text{O}_2)_2$, i.e. "$\text{CrO}_5$", which has one oxo ($-2$) and two peroxo ($-1$ each, $-4$ total) groups, so $x-2-4=0\Rightarrow x=+6$. No change in Cr oxidation state occurs.
+

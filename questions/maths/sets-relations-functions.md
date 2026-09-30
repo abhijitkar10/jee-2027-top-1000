@@ -42,3 +42,23 @@ Let $f:\mathbb R-\{-\tfrac12\}\to\mathbb R$ and $g:\mathbb R-\{-\tfrac52\}\to\ma
 
 **Solution.** We need $x\neq-\tfrac52$ and $g(x)\neq-\tfrac12$. Solve $\dfrac{|x|+1}{2x+5}=-\dfrac12\Rightarrow2|x|+2=-2x-5$. For $x<0$: $-2x+2=-2x-5$ is impossible. For $x\ge0$: $2x+2=-2x-5\Rightarrow x=-\tfrac74$, rejected since $x\ge0$. So no extra exclusion; the domain is $\mathbb R-\{-\tfrac52\}$.
 
+### M-SRF-05 — JEE Main 2024 · 29 Jan Shift 1 · Q68 · MCQ
+
+Let $R$ be a relation on $\mathbb Z\times\mathbb Z$ defined by $(a,b)\,R\,(c,d)$ if and only if $ad-bc$ is divisible by $5$. Then $R$ is
+
+(1) Reflexive and symmetric but not transitive  (2) Reflexive but neither symmetric nor transitive  (3) Reflexive, symmetric and transitive  (4) Reflexive and transitive but not symmetric
+
+**Answer: (1)** · key ✔
+
+**Solution.** Reflexive: $ab-ba=0$. Symmetric: $cb-da=-(ad-bc)$ is also divisible by $5$. Not transitive: $(1,1)R(0,0)$ and $(0,0)R(1,2)$ (both give $0$), but $(1,1)$ and $(1,2)$ give $1\cdot2-1\cdot1=1$, not divisible by $5$.
+
+### M-SRF-06 — JEE Main 2024 · 29 Jan Shift 1 · Q71 · MCQ
+
+Let $f(x)=\begin{cases}2+2x,&-1\le x<0\\1-\tfrac x3,&0\le x\le3\end{cases}$ and $g(x)=\begin{cases}-x,&-3\le x\le0\\x,&0<x\le1\end{cases}$. The range of $f\circ g$ is
+
+(1) $(0,1]$  (2) $[0,3)$  (3) $[0,1]$  (4) $[0,1)$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $g(x)=|x|$ on $[-3,1]$, so $g$ takes all values in $[0,3]$. For $u\in[0,3]$, $f(u)=1-\tfrac u3$ decreases continuously from $1$ to $0$. So $f\circ g$ takes every value in $[0,1]$.
+

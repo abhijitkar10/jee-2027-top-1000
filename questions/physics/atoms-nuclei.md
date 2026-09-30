@@ -38,3 +38,21 @@ If the Rydberg constant is $R$, the longest wavelength of radiation in the Pasch
 
 **Solution.** Paschen: $n_f=3$. Longest wavelength is for $n_i=4$: $\dfrac1\lambda=R\left(\dfrac19-\dfrac1{16}\right)=\dfrac{7R}{144}$, so $\lambda=\dfrac{144}{7R}$ and $\alpha=144$.
 
+### P-ATN-05 — JEE Main 2024 · 29 Jan Shift 1 · Q19 · MCQ
+
+The explosive in a hydrogen bomb is a mixture of ${}^2_1\text{H}$, ${}^3_1\text{H}$ and ${}^6_3\text{Li}$ in some condensed form. The reactions are ${}^6_3\text{Li}+{}^1_0n\to{}^4_2\text{He}+{}^3_1\text{H}$ and ${}^2_1\text{H}+{}^3_1\text{H}\to{}^4_2\text{He}+{}^1_0n$. During the explosion the energy released is approximately [Given $M(\text{Li})=6.01690$ amu, $M({}^2_1\text{H})=2.01471$ amu, $M({}^4_2\text{He})=4.00388$ amu, $1\text{ amu}=931.5$ MeV]
+
+(1) 28.12 MeV  (2) 12.64 MeV  (3) 16.48 MeV  (4) 22.22 MeV
+
+**Answer: (4)** · key ✔
+
+**Solution.** Adding the two reactions, the neutron and the tritium cancel, leaving the net reaction ${}^6\text{Li}+{}^2\text{H}\to2\,{}^4\text{He}$. Mass defect $=6.01690+2.01471-2(4.00388)=0.02385$ amu, so $Q=0.02385\times931.5\approx22.22$ MeV.
+
+### P-ATN-06 — JEE Main 2024 · 29 Jan Shift 1 · Q30 · Numerical
+
+When a hydrogen atom goes from $n=2$ to $n=1$ it emits a photon, and its recoil speed is $\dfrac x5\ \text{m s}^{-1}$. Find $x$. (Use mass of hydrogen atom $=1.6\times10^{-27}$ kg, $e=1.6\times10^{-19}$ C)
+
+**Answer: 17** · key ✔
+
+**Solution.** $E=13.6\left(1-\tfrac14\right)=10.2$ eV $=1.632\times10^{-18}$ J. Photon momentum $p=E/c=5.44\times10^{-27}$ kg m/s. Recoil speed $v=\dfrac pm=\dfrac{5.44\times10^{-27}}{1.6\times10^{-27}}=3.4=\dfrac{17}5$ m/s, so $x=17$.
+

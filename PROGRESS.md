@@ -7,7 +7,7 @@ last page of the PDF -> `scripts/ingest.py` -> `scripts/build.py --write` (renum
 Skip: questions that depend on a figure/structure image, or where the text cannot be rebuilt confidently.
 
 ## Papers done
-- JEE Main 2024 · 27 Jan S1 (links.mathongo.com/Qe0X)
+- JEE Main 2024 · 27 Jan S1 (Qe0X), 27 Jan S2 (2rtB), 29 Jan S1 (Oe6L)
 
 ## MathonGo short links (order on index page; label from the PDF header)
 2024 Jan: Qe0X 2rtB Oe6L Be5F ZrrZ urqP 0rqQ YreE JeHi EeXb

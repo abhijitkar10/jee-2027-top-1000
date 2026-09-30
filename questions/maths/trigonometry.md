@@ -20,3 +20,25 @@ Considering only principal values of inverse trigonometric functions, the number
 
 **Solution.** For $x>0$ the sum lies in $(0,\pi)$ and $2x^2<1$ is needed for the addition formula: $\dfrac{3x}{1-2x^2}=1\Rightarrow2x^2+3x-1=0\Rightarrow x=\dfrac{-3\pm\sqrt{17}}4$. Only $x=\dfrac{-3+\sqrt{17}}4\approx0.28>0$, and it satisfies $2x^2<1$. Exactly one positive solution.
 
+### M-TRG-03 — JEE Main 2024 · 29 Jan Shift 1 · Q64 · MCQ
+
+If $\alpha$, $-\dfrac\pi2<\alpha<\dfrac\pi2$, is the solution of $4\cos\theta+5\sin\theta=1$, then the value of $\tan\alpha$ is
+
+(1) $\dfrac{10-\sqrt{10}}6$  (2) $\dfrac{10-\sqrt{10}}{12}$  (3) $\dfrac{\sqrt{10}-10}{12}$  (4) $\dfrac{\sqrt{10}-10}6$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Let $m=\tan\alpha$. Since $\cos\alpha>0$ on this interval, $\cos\alpha=\dfrac1{\sqrt{1+m^2}}$ and $\sin\alpha=\dfrac m{\sqrt{1+m^2}}$, so $4+5m=\sqrt{1+m^2}$, which requires $4+5m>0$. Squaring: $24m^2+40m+15=0\Rightarrow m=\dfrac{-10\pm\sqrt{10}}{12}$. The root $\dfrac{-10-\sqrt{10}}{12}\approx-1.10$ gives $4+5m<0$ and is rejected. So $\tan\alpha=\dfrac{\sqrt{10}-10}{12}$.
+
+### M-TRG-04 — JEE Main 2024 · 29 Jan Shift 1 · Q72 · MCQ
+
+Consider $f:\left[\tfrac12,1\right]\to\mathbb R$, $f(x)=4\sqrt2\,x^3-3\sqrt2\,x-1$. Statements:
+(I) The curve $y=f(x)$ intersects the $x$-axis at exactly one point.
+(II) The curve $y=f(x)$ intersects the $x$-axis at $x=\cos\dfrac\pi{12}$.
+
+(1) Only (II) is correct  (2) Both incorrect  (3) Only (I) is correct  (4) Both correct
+
+**Answer: (4)** · key ✔
+
+**Solution.** Put $x=\cos\theta$ with $\theta\in\left[0,\tfrac\pi3\right]$. Then $4x^3-3x=\cos3\theta$, so $f=\sqrt2\cos3\theta-1=0\Rightarrow\cos3\theta=\tfrac1{\sqrt2}$. For $3\theta\in[0,\pi]$ the only solution is $3\theta=\tfrac\pi4$, i.e. $\theta=\tfrac\pi{12}$. So there is exactly one intersection, at $x=\cos\tfrac\pi{12}\approx0.966\in\left[\tfrac12,1\right]$. Both are correct.
+

@@ -30,3 +30,13 @@ If the sum of the squares of all real values of $\alpha$ for which the lines $2x
 
 **Solution.** Three lines fail to form a triangle if two are parallel or all three are concurrent. Slopes of the first two are $2$ and $-2$. Third parallel to first: $-\tfrac\alpha2=2\Rightarrow\alpha=-4$. Parallel to second: $\alpha=4$. Concurrency: the first two meet at $\left(-\tfrac56,\tfrac43\right)$; substituting in the third: $-\tfrac{5\alpha}6+\tfrac83-2=0\Rightarrow\alpha=\tfrac45$. $p=16+16+\tfrac{16}{25}=32.64$, so $\lfloor p\rfloor=32$.
 
+### M-STL-04 — JEE Main 2024 · 29 Jan Shift 1 · Q66 · MCQ
+
+In a $\triangle ABC$, suppose $y=x$ is the equation of the bisector of the angle $B$ and the equation of the side $AC$ is $2x-y=2$. If $2AB=BC$ and the points $A$ and $B$ are $(4,6)$ and $(\alpha,\beta)$ respectively, then $\alpha+2\beta$ is equal to
+
+(1) $-4$  (2) $42$  (3) $2$  (4) $-1$
+
+**Answer: (2)** · key ✔
+
+**Solution.** The reflection of $A$ in the bisector $y=x$ is $A'(6,4)$, which lies on line $BC$ with $BA'=BA$. Let $B=(t,t)$. Since $BC=2BA=2BA'$ and $A'$ lies on $BC$: $C=2A'-B=(12-t,\,8-t)$. $C$ lies on $2x-y=2$: $2(12-t)-(8-t)=2\Rightarrow t=14$. So $B=(14,14)$ and $\alpha+2\beta=14+28=42$.
+

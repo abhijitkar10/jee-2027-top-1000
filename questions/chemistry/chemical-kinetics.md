@@ -24,3 +24,11 @@ The time required for $99.9\%$ completion of a first-order reaction is ______ ti
 
 **Solution.** $t=\dfrac{2.303}k\log\dfrac{100}{0.1}=\dfrac{2.303\times3}k$ and $t_{1/2}=\dfrac{0.693}k$. Ratio $=\dfrac{6.909}{0.693}\approx9.97\approx10$.
 
+### C-KIN-03 — JEE Main 2024 · 29 Jan Shift 1 · Q59 · Numerical
+
+For a reaction taking place in three steps at the same temperature, the overall rate constant is $K=\dfrac{K_1K_2}{K_3}$. If $E_{a1},E_{a2}$ and $E_{a3}$ are $40,50$ and $60$ kJ/mol respectively, the overall $E_a$ is ______ kJ/mol.
+
+**Answer: 30** · key ✔
+
+**Solution.** From the Arrhenius equation $K=Ae^{-E_a/RT}$, the exponents add for products and subtract for quotients: $E_a=E_{a1}+E_{a2}-E_{a3}=40+50-60=30$ kJ/mol.
+

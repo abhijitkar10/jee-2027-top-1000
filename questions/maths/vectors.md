@@ -40,3 +40,23 @@ The position vectors of the vertices of a triangle are $A(2,2,1)$, $B(1,2,2)$ an
 
 **Solution.** $AB=BC=CA=\sqrt2$, so the triangle is equilateral and the orthocentre coincides with the centroid and incentre. Each perpendicular equals the inradius $r=\dfrac{a}{2\sqrt3}=\dfrac{\sqrt2}{2\sqrt3}=\dfrac1{\sqrt6}$. So $\sum l_i^2=3\cdot\dfrac16=\dfrac12$.
 
+### M-VEC-05 — JEE Main 2024 · 29 Jan Shift 1 · Q77 · MCQ
+
+Let $\vec a,\vec b,\vec c$ be three non-zero vectors such that $\vec b$ and $\vec c$ are non-collinear. If $\vec a+5\vec b$ is collinear with $\vec c$, $\vec b+6\vec c$ is collinear with $\vec a$, and $\vec a+\alpha\vec b+\beta\vec c=\vec0$, then $\alpha+\beta$ is equal to
+
+(1) 35  (2) 30  (3) $-30$  (4) $-25$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let $\vec a+5\vec b=\lambda\vec c$, so $\vec a=\lambda\vec c-5\vec b$. Also $\vec b+6\vec c=\mu\vec a=\mu\lambda\vec c-5\mu\vec b$. Comparing coefficients of the independent vectors $\vec b,\vec c$: $1=-5\mu\Rightarrow\mu=-\tfrac15$ and $6=\mu\lambda\Rightarrow\lambda=-30$. Then $\vec a=-30\vec c-5\vec b$, i.e. $\vec a+5\vec b+30\vec c=\vec0$, so $\alpha=5,\ \beta=30$ and $\alpha+\beta=35$.
+
+### M-VEC-06 — JEE Main 2024 · 29 Jan Shift 1 · Q78 · MCQ
+
+Let $O$ be the origin and the position vectors of $A$ and $B$ be $2\hat i+2\hat j+\hat k$ and $2\hat i+4\hat j+4\hat k$. If the internal bisector of $\angle AOB$ meets $AB$ at $C$, then the length of $OC$ is
+
+(1) $\tfrac23\sqrt{31}$  (2) $\tfrac23\sqrt{34}$  (3) $\tfrac34\sqrt{34}$  (4) $\tfrac32\sqrt{31}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $OA=3$ and $OB=6$. By the angle bisector theorem $AC:CB=OA:OB=1:2$, so $C=\dfrac{2\vec A+\vec B}{3}=\left(2,\tfrac83,2\right)$. $OC^2=4+\tfrac{64}9+4=\tfrac{136}9$, so $OC=\dfrac23\sqrt{34}$.
+

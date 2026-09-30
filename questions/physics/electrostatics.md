@@ -39,3 +39,13 @@ Charges $-4\ \mu$C and $+4\ \mu$C are placed at $A(1,0,4)$ m and $B(2,-1,5)$ m i
 
 **Solution.** $\vec p=q\,\vec{AB}=4\times10^{-6}(\hat i-\hat j+\hat k)$ C m, and $E=0.20\ \text{V/cm}=20\ \text{V/m}$. $\vec\tau=\vec p\times\vec E=(4\times10^{-6})(20)\,(\hat i-\hat j+\hat k)\times\hat i=8\times10^{-5}(\hat j+\hat k)$, of magnitude $8\sqrt2\times10^{-5}$. So $\alpha=2$.
 
+### P-ELS-05 — JEE Main 2024 · 29 Jan Shift 1 · Q10 · MCQ
+
+Two charges $5Q$ and $-2Q$ are situated at the points $(3a,0)$ and $(-5a,0)$ respectively. The electric flux through a sphere of radius $4a$ having its centre at the origin is
+
+(1) $\dfrac{2Q}{\varepsilon_0}$  (2) $\dfrac{5Q}{\varepsilon_0}$  (3) $\dfrac{7Q}{\varepsilon_0}$  (4) $\dfrac{3Q}{\varepsilon_0}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** By Gauss's law only enclosed charge counts. $5Q$ at distance $3a<4a$ is inside; $-2Q$ at distance $5a>4a$ is outside. Flux $=\dfrac{5Q}{\varepsilon_0}$.
+

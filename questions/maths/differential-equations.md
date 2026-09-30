@@ -28,3 +28,21 @@ If the solution curve of $\dfrac{dy}{dx}=\dfrac{x+y-2}{x-y}$ passing through $(2
 
 **Solution.** Put $X=x-1,\ Y=y-1$: $\dfrac{dY}{dX}=\dfrac{X+Y}{X-Y}$. With $Y=vX$: $X\dfrac{dv}{dX}=\dfrac{1+v}{1-v}-v=\dfrac{1+v^2}{1-v}$, so $\int\dfrac{1-v}{1+v^2}dv=\ln|X|+c$, i.e. $\tan^{-1}v-\tfrac12\ln(1+v^2)=\ln|X|+c$. At $(2,1)$: $v=0,X=1\Rightarrow c=0$. Comparing: $\beta=2,\ \alpha=1$, so $5\beta+\alpha=11$.
 
+### M-DIF-04 — JEE Main 2024 · 29 Jan Shift 1 · Q76 · MCQ
+
+A function $y=f(x)$ satisfies $f(x)\sin2x+\sin x-(1+\cos^2x)f'(x)=0$ with $f(0)=0$. Then $f\!\left(\dfrac\pi2\right)$ is equal to
+
+(1) 1  (2) 0  (3) $-1$  (4) 2
+
+**Answer: (1)** · key ✔
+
+**Solution.** Rewrite as $f'-\dfrac{\sin2x}{1+\cos^2x}f=\dfrac{\sin x}{1+\cos^2x}$. Since $\int\dfrac{\sin2x}{1+\cos^2x}dx=-\ln(1+\cos^2x)$, the integrating factor is $e^{\int-\frac{\sin2x}{1+\cos^2x}dx}=1+\cos^2x$. So $\dfrac d{dx}\left[f(1+\cos^2x)\right]=\sin x$, giving $f(1+\cos^2x)=-\cos x+C$. From $f(0)=0$: $0=-1+C\Rightarrow C=1$. At $x=\tfrac\pi2$: $f\cdot1=0+1$, so $f\!\left(\tfrac\pi2\right)=1$.
+
+### M-DIF-05 — JEE Main 2024 · 29 Jan Shift 1 · Q89 · Numerical
+
+If the solution curve $y=y(x)$ of $(1+y^2)(1+\ln x)\,dx+x\,dy=0$, $x>0$, passes through $(1,1)$ and $y(e)=\dfrac{\alpha-\tan\frac32}{\beta+\tan\frac32}$, then $\alpha+2\beta$ is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** Separate: $\dfrac{dy}{1+y^2}=-\dfrac{1+\ln x}{x}dx\Rightarrow\tan^{-1}y=-\left(\ln x+\tfrac{(\ln x)^2}2\right)+C$. At $(1,1)$: $C=\tfrac\pi4$. At $x=e$: $\tan^{-1}y=\tfrac\pi4-\tfrac32\Rightarrow y=\tan\!\left(\tfrac\pi4-\tfrac32\right)=\dfrac{1-\tan\frac32}{1+\tan\frac32}$. So $\alpha=\beta=1$ and $\alpha+2\beta=3$.
+

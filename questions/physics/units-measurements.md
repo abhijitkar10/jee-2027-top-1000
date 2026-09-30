@@ -23,3 +23,13 @@ The equation of state of a real gas is $\left(P+\dfrac{a}{V^2}\right)(V-b)=RT$, 
 
 **Solution.** Terms added must share dimensions, so $[a/V^2]=[P]\Rightarrow[a]=[P][V^2]$. Also $[b]=[V]$. Hence $\left[\dfrac a{b^2}\right]=\dfrac{[P][V^2]}{[V^2]}=[P]$.
 
+### P-UNT-03 — JEE Main 2024 · 29 Jan Shift 1 · Q1 · MCQ
+
+The resistance $R=\dfrac VI$, where $V=(200\pm5)$ V and $I=(20\pm0.2)$ A. The percentage error in the measurement of $R$ is
+
+(1) 3.5%  (2) 7%  (3) 3%  (4) 5.5%
+
+**Answer: (1)** · key ✔
+
+**Solution.** For a quotient, maximum fractional errors add: $\dfrac{\Delta R}R=\dfrac{\Delta V}V+\dfrac{\Delta I}I=\dfrac5{200}+\dfrac{0.2}{20}=0.025+0.01=0.035$, i.e. $3.5\%$.
+

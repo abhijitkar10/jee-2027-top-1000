@@ -28,3 +28,11 @@ Let $g(x)=3f\!\left(\dfrac x3\right)+f(3-x)$ with $f''(x)>0$ for all $x\in(0,3)$
 
 **Solution.** $g'(x)=f'\!\left(\tfrac x3\right)-f'(3-x)$. Since $f''>0$, $f'$ is strictly increasing, so $g'(x)=0\iff\tfrac x3=3-x\iff x=\tfrac94$, with $g'<0$ before and $g'>0$ after. So $\alpha=\tfrac94$ and $8\alpha=18$.
 
+### M-AOD-04 — JEE Main 2024 · 29 Jan Shift 1 · Q87 · Numerical
+
+Let $f(x)=2^x-x^2$, $x\in\mathbb R$. If $m$ and $n$ are respectively the numbers of points at which the curves $y=f(x)$ and $y=f'(x)$ intersect the $x$-axis, then $m+n$ is ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** $f''(x)=2^x\ln^22-2$ has exactly one zero, so $f'$ has at most $2$ zeros and $f$ at most $3$. Zeros of $f$: $x=2$, $x=4$, and one negative root ($f(-1)=-\tfrac12<0$, $f(0)=1>0$), so $m=3$. By Rolle's theorem $f'$ vanishes between consecutive roots, giving at least $2$ zeros, so $n=2$. Hence $m+n=5$.
+

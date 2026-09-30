@@ -22,3 +22,13 @@ A phenolic group can be identified by a positive
 
 **Solution.** Phenol heated with phthalic anhydride and conc. $\text{H}_2\text{SO}_4$, then made alkaline, gives phenolphthalein (pink). Lucas tests alcohols, Tollens' tests aldehydes, and the carbylamine test detects primary amines.
 
+### C-PRO-03 — JEE Main 2024 · 29 Jan Shift 1 · Q39 · MCQ
+
+Appearance of a blood-red colour on treating the sodium fusion extract of an organic compound with $\text{FeSO}_4$ in the presence of conc. $\text{H}_2\text{SO}_4$ indicates the presence of the element(s)
+
+(1) Br  (2) N  (3) N and S  (4) S
+
+**Answer: (3)** · key ✔
+
+**Solution.** In Lassaigne's test, sodium fusion converts N and S to $\text{NaSCN}$ when both are present. $\text{SCN}^-$ then reacts with $\text{Fe}^{3+}$ (from air oxidation of $\text{Fe}^{2+}$) to give the blood-red $[\text{Fe(SCN)}]^{2+}$. N alone gives Prussian blue and S alone gives a violet colour with nitroprusside.
+

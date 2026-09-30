@@ -23,3 +23,13 @@ Reason (R): The moon takes less time to move around the earth than the earth tak
 
 **Solution.** $\omega=2\pi/T$. The moon's period is about $27.3$ days versus $365$ days for the earth, so the moon's angular speed is larger. R states exactly the period comparison that gives A.
 
+### P-GRV-03 — JEE Main 2024 · 29 Jan Shift 1 · Q6 · MCQ
+
+At what distance above and below the surface of the earth will a body have the same weight? (Take the radius of the earth as $R$.)
+
+(1) $\sqrt5R-R$  (2) $\dfrac{\sqrt3R-R}{2}$  (3) $\dfrac R2$  (4) $\dfrac{\sqrt5R-R}{2}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** At height $h$: $g_h=g\dfrac{R^2}{(R+h)^2}$. At depth $h$: $g_d=g\left(1-\dfrac hR\right)$. Equate with $x=h/R$: $(1-x)(1+x)^2=1\Rightarrow x(1-x-x^2)=0\Rightarrow x^2+x-1=0\Rightarrow x=\dfrac{\sqrt5-1}2$. So $h=\dfrac{(\sqrt5-1)R}{2}$.
+

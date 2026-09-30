@@ -20,3 +20,11 @@ The coefficient of $x^{2012}$ in the expansion of $(1-x)^{2008}(1+x+x^2)^{2007}$
 
 **Solution.** $(1-x)(1+x+x^2)=1-x^3$, so the product is $(1-x)\,(1-x^3)^{2007}$. Terms of $(1-x^3)^{2007}$ have exponents divisible by $3$, so the product has exponents $\equiv0$ or $1\pmod3$. $2012\equiv2\pmod3$, so the coefficient is $0$.
 
+### M-BIN-03 — JEE Main 2024 · 29 Jan Shift 1 · Q83 · Numerical
+
+If $\dfrac{{}^{11}C_1}2+\dfrac{{}^{11}C_2}3+\cdots+\dfrac{{}^{11}C_9}{10}=\dfrac nm$ with $\gcd(n,m)=1$, then $n+m$ is equal to ______.
+
+**Answer: 2041** · key ✔
+
+**Solution.** $\dfrac{{}^{11}C_r}{r+1}=\dfrac{{}^{12}C_{r+1}}{12}$. So the sum is $\dfrac1{12}\sum_{k=2}^{10}{}^{12}C_k=\dfrac1{12}\left(2^{12}-1-12-12-1\right)=\dfrac{4070}{12}=\dfrac{2035}6$. With $\gcd(2035,6)=1$: $n+m=2041$.
+

@@ -29,3 +29,22 @@ The pressure gauge attached to a closed pipe reads $4.5\times10^4\ \text{N m}^{-
 
 **Solution.** Bernoulli's principle with no height change: $\Delta P=\tfrac12\rho v^2\Rightarrow v^2=\dfrac{2(4.5-2.0)\times10^4}{1000}=50$. So $V=50$.
 
+### P-POM-04 — JEE Main 2024 · 29 Jan Shift 1 · Q7 · MCQ
+
+Statement I: If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in hot water.
+Statement II: If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in cold water.
+
+(1) Both true  (2) Both false  (3) I true, II false  (4) I false, II true
+
+**Answer: (3)** · key ✔
+
+**Solution.** Capillary rise $h=\dfrac{2T\cos\theta}{r\rho g}$. Surface tension $T$ decreases as temperature increases, so $h$ is smaller in hot water and larger in cold water. I is true, II is false.
+
+### P-POM-05 — JEE Main 2024 · 29 Jan Shift 1 · Q23 · Numerical
+
+In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are $70\ \text{m s}^{-1}$ and $65\ \text{m s}^{-1}$ respectively. If the wing area is $2\ \text{m}^2$, the lift of the wing is ______ N. (Density of air $=1.2\ \text{kg m}^{-3}$)
+
+**Answer: 810** · key ✔
+
+**Solution.** Bernoulli: the pressure difference is $\Delta P=\tfrac12\rho(v_u^2-v_l^2)=\tfrac12(1.2)(4900-4225)=405$ Pa. Lift $=\Delta P\cdot A=405\times2=810$ N.
+

@@ -20,3 +20,13 @@ The number of electrons present in all the completely filled subshells having $n
 
 **Solution.** The completely filled $n=4$ subshells are $4s,4p,4d,4f$ with $1+3+5+7=16$ orbitals. Each filled orbital holds exactly one electron with $s=+\tfrac12$, so the count is $16$.
 
+### C-ATS-03 — JEE Main 2024 · 29 Jan Shift 1 · Q31 · MCQ
+
+The correct set of four quantum numbers $(n,l,m_l,m_s)$ for the valence electron of rubidium ($Z=37$) is
+
+(1) $5,0,0,+\tfrac12$  (2) $5,0,1,+\tfrac12$  (3) $5,1,0,+\tfrac12$  (4) $5,1,1,+\tfrac12$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Rb is $[\text{Kr}]5s^1$, so the valence electron has $n=5$, $l=0$ (s), and therefore $m_l=0$ only. Spin is $\pm\tfrac12$.
+

@@ -30,3 +30,23 @@ Let $A$ be a $2\times2$ real matrix and $I$ the identity matrix of order $2$. If
 
 **Solution.** The roots of $|A-xI|=0$ are the eigenvalues $\lambda_1=-1,\lambda_2=3$. $A^2$ has eigenvalues $\lambda_i^2$, so $\text{tr}(A^2)=1+9=10$.
 
+### M-MAT-04 — JEE Main 2024 · 29 Jan Shift 1 · Q69 · MCQ
+
+Let $A=\begin{pmatrix}1&0&0\\0&\alpha&\beta\\0&\beta&\alpha\end{pmatrix}$ and $|2A|^3=2^{21}$, where $\alpha,\beta\in\mathbb Z$. A value of $\alpha$ is
+
+(1) 3  (2) 5  (3) 17  (4) 9
+
+**Answer: (2)** · key ✔
+
+**Solution.** $|2A|=2^3|A|$, so $2^9|A|^3=2^{21}\Rightarrow|A|^3=2^{12}\Rightarrow|A|=16$. $|A|=\alpha^2-\beta^2=16\Rightarrow(\alpha-\beta)(\alpha+\beta)=16$. Integer solutions include $\alpha=5,\beta=3$ ($25-9=16$). $\alpha=3,9,17$ would need $\beta^2=-7,65,273$, none a perfect square.
+
+### M-MAT-05 — JEE Main 2024 · 29 Jan Shift 1 · Q70 · MCQ
+
+Let $A$ be a square matrix with $AA^T=I$. Then $\dfrac12A\left[(A+A^T)^2+(A-A^T)^2\right]$ is equal to
+
+(1) $A^2+I$  (2) $A^3+I$  (3) $A^2+A^T$  (4) $A^3+A^T$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $(A+A^T)^2+(A-A^T)^2=2A^2+2(A^T)^2$. So the expression is $A\left[A^2+(A^T)^2\right]=A^3+(AA^T)A^T=A^3+A^T$.
+

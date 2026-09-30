@@ -20,3 +20,13 @@ An urn contains $6$ white and $9$ black balls. Two successive draws of $4$ balls
 
 **Solution.** $P=\dfrac{{}^6C_4}{{}^{15}C_4}\times\dfrac{{}^9C_4}{{}^{11}C_4}=\dfrac{15}{1365}\times\dfrac{126}{330}=\dfrac1{91}\times\dfrac{21}{55}=\dfrac{3}{715}$.
 
+### M-PRB-03 — JEE Main 2024 · 29 Jan Shift 1 · Q80 · MCQ
+
+A fair die is thrown until $6$ appears. Then the probability that $6$ appears in an even number of throws is
+
+(1) $\tfrac56$  (2) $\tfrac16$  (3) $\tfrac5{11}$  (4) $\tfrac6{11}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $P=\sum_{k\ge1}\left(\tfrac56\right)^{2k-1}\tfrac16=\dfrac{\tfrac56\cdot\tfrac16}{1-\tfrac{25}{36}}=\dfrac{5/36}{11/36}=\dfrac5{11}$.
+

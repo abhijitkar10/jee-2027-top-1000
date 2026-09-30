@@ -20,3 +20,11 @@ Two coils have a mutual inductance $0.002$ H. The current in the first coil vari
 
 **Solution.** $\varepsilon_{\max}=M\,i_0\,\omega=0.002\times5\times50\pi=0.5\pi=\dfrac{\pi}{2}$ V, so $\alpha=2$.
 
+### P-EMI-03 — JEE Main 2024 · 29 Jan Shift 1 · Q28 · Numerical
+
+A square loop of side $10$ cm and resistance $0.7\ \Omega$ is placed vertically in the east–west plane. A uniform magnetic field of $0.20$ T is set up across the plane in the north-east direction. The field is decreased to zero in $1$ s at a steady rate. The magnitude of the induced emf is $\sqrt x\times10^{-3}$ V. Find $x$.
+
+**Answer: 2** · key ✔
+
+**Solution.** The loop's normal points north–south, so the field (north-east) makes $45^\circ$ with it. $\Phi=BA\cos45^\circ=0.20\times0.01\times\dfrac1{\sqrt2}=\sqrt2\times10^{-3}$ Wb. Emf $=\dfrac{\Delta\Phi}{\Delta t}=\sqrt2\times10^{-3}$ V, so $x=2$.
+

@@ -28,3 +28,19 @@ The number of non-polar molecules among $\text{HF, H}_2\text{O, SO}_2,\text{H}_2
 
 **Solution.** Symmetric molecules with zero dipole: $\text{H}_2$ (homonuclear), $\text{CO}_2$ (linear), $\text{CH}_4$ (tetrahedral) and $\text{BF}_3$ (trigonal planar). HF, HCl, $\text{H}_2\text{O}$, $\text{SO}_2$, $\text{NH}_3$ and $\text{CHCl}_3$ are polar.
 
+### C-BND-04 — JEE Main 2024 · 29 Jan Shift 1 · Q51 · Numerical
+
+The number of compounds having exactly one lone pair of electrons on the central atom among $\text{O}_3,\ \text{H}_2\text{O},\ \text{SF}_4,\ \text{ClF}_3,\ \text{NH}_3,\ \text{BrF}_5,\ \text{XeF}_4$ is ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Lone pairs on the central atom: $\text{O}_3$ (1), $\text{H}_2\text{O}$ (2), $\text{SF}_4$ (1), $\text{ClF}_3$ (2), $\text{NH}_3$ (1), $\text{BrF}_5$ (1), $\text{XeF}_4$ (2). Exactly one: $\text{O}_3,\text{SF}_4,\text{NH}_3,\text{BrF}_5$, so $4$.
+
+### C-BND-05 — JEE Main 2024 · 29 Jan Shift 1 · Q52 · Numerical
+
+The number of species from the following that are paramagnetic and have bond order equal to one is ______: $\text{H}_2,\ \text{He}_2^+,\ \text{O}_2^+,\ \text{N}_2^{2-},\ \text{O}_2^{2-},\ \text{F}_2,\ \text{Ne}_2^+,\ \text{B}_2$
+
+**Answer: 1** · key ✔
+
+**Solution.** Bond orders: $\text{H}_2$ 1 (diamagnetic), $\text{He}_2^+$ 0.5, $\text{O}_2^+$ 2.5, $\text{N}_2^{2-}$ 2, $\text{O}_2^{2-}$ 1 (diamagnetic), $\text{F}_2$ 1 (diamagnetic), $\text{Ne}_2^+$ 0.5, $\text{B}_2$ 1 (two unpaired electrons in degenerate $\pi_{2p}$ orbitals: paramagnetic). Only $\text{B}_2$ qualifies.
+

@@ -26,3 +26,13 @@ For a thermochemical reaction $\text{M}\to\text{N}$ at $T=400$ K, $\Delta H^\cir
 
 **Solution.** For $\text{H}^+/\tfrac12\text{H}_2$ at $1$ atm: $E=E^\circ-0.059\log\dfrac1{[\text{H}^+]}=-0.059\,\text{pH}=-0.059\times3=-0.177$ V $\approx-18\times10^{-2}$ V.
 
+### C-CTH-04 — JEE Main 2024 · 29 Jan Shift 1 · Q33 · MCQ
+
+Which of the following is **not** correct?
+
+(1) $\Delta G$ is negative for a spontaneous reaction  (2) $\Delta G$ is positive for a spontaneous reaction  (3) $\Delta G$ is zero for a reversible reaction  (4) $\Delta G$ is positive for a non-spontaneous reaction
+
+**Answer: (2)** · key ✔
+
+**Solution.** At constant $T,P$: $\Delta G<0$ spontaneous, $\Delta G=0$ equilibrium (reversible), $\Delta G>0$ non-spontaneous. So the statement that $\Delta G$ is positive for a spontaneous reaction is wrong.
+

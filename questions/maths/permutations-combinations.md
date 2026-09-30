@@ -22,3 +22,11 @@ Let $\alpha=\dfrac{(4!)!}{(4!)^{3!}}$ and $\beta=\dfrac{(5!)!}{(5!)^{4!}}$. Then
 
 **Solution.** Use Legendre's formula $v_p(n!)=\sum\lfloor n/p^k\rfloor$. $\alpha=24!/24^6$ with $24=2^3\cdot3$: $v_2(24!)=22\ge18$, $v_3(24!)=10\ge6$. $\beta=120!/120^{24}$ with $120=2^3\cdot3\cdot5$: $v_2(120!)=116\ge72$, $v_3(120!)=58\ge24$, $v_5(120!)=28\ge24$. In both cases every prime power in the denominator divides the numerator, so both are natural numbers.
 
+### M-PNC-03 — JEE Main 2024 · 29 Jan Shift 1 · Q82 · Numerical
+
+All the letters of the word GTWENTY are written in all possible ways, with or without meaning, and arranged as in a dictionary. The serial number of the word GTWENTY is ______.
+
+**Answer: 553** · key ✔
+
+**Solution.** Letters in order: E, G, N, T, T, W, Y (T repeats). Words starting with E: $\dfrac{6!}{2!}=360$. Then G, second letter smaller than T: E gives $\dfrac{5!}{2!}=60$ and N gives $60$: $120$. Then GT, third letter smaller than W: E, N, T each give $4!=24$: $72$. The remaining letters E, N, T, Y are already in dictionary order, adding no more words. Rank $=360+120+72+1=553$.
+

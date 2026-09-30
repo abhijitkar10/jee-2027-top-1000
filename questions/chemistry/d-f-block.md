@@ -33,3 +33,13 @@ Statement II: $\text{Ce}^{4+}$ is a strong oxidant, reverting to the common $+3$
 
 **Solution.** $\text{Ce}^{4+}$ is $[\text{Xe}]$, a noble-gas core, which explains why $+4$ is accessible. But $E^\circ(\text{Ce}^{4+}/\text{Ce}^{3+})=+1.74$ V, so it is a strong oxidising agent that reverts to $+3$, the common lanthanoid oxidation state.
 
+### C-DFB-04 — JEE Main 2024 · 29 Jan Shift 1 · Q35 · MCQ
+
+$\text{KMnO}_4$ decomposes on heating at $513$ K to form $\text{O}_2$ along with
+
+(1) $\text{MnO}_2$ and $\text{K}_2\text{O}_2$  (2) $\text{K}_2\text{MnO}_4$ and Mn  (3) Mn and $\text{KO}_2$  (4) $\text{K}_2\text{MnO}_4$ and $\text{MnO}_2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $2\text{KMnO}_4\xrightarrow{513\,\text{K}}\text{K}_2\text{MnO}_4+\text{MnO}_2+\text{O}_2$ (used in the laboratory preparation of dioxygen).
+

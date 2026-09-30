@@ -22,3 +22,13 @@ The threshold frequency of a metal with work function $6.63$ eV is
 
 **Solution.** $\nu_0=\dfrac\phi h=\dfrac{6.63\times1.6\times10^{-19}}{6.63\times10^{-34}}=1.6\times10^{15}$ Hz.
 
+### P-DUL-03 — JEE Main 2024 · 29 Jan Shift 1 · Q18 · MCQ
+
+The de Broglie wavelength of an electron is the same as that of a photon. If the velocity of the electron is $25\%$ of the velocity of light, the ratio of the K.E. of the electron to the K.E. of the photon will be
+
+(1) $\tfrac14$  (2) $\tfrac18$  (3) $\tfrac{1}{1}$  (4) $\tfrac{8}{1}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Equal wavelengths mean equal momentum $p$. For the electron $K_e=\tfrac12pv$ (non-relativistic), and for the photon $E=pc$. So $\dfrac{K_e}{E}=\dfrac{v}{2c}=\dfrac{0.25}{2}=\dfrac18$.
+

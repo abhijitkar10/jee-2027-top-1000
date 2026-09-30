@@ -42,3 +42,33 @@ A current of $200\ \mu$A deflects the coil of a moving-coil galvanometer through
 
 **Solution.** Deflection is proportional to current ($\theta=\tfrac{NAB}{k}I$). $\dfrac\pi{10}$ rad $=18^\circ$, so $I=200\times\dfrac{18}{60}=60\ \mu$A.
 
+### P-CUR-05 — JEE Main 2024 · 29 Jan Shift 1 · Q13 · MCQ
+
+The electric current through a wire varies with time as $I=I_0+\beta t$, where $I_0=20$ A and $\beta=3\ \text{A s}^{-1}$. The amount of charge crossing a section of the wire in $20$ s is
+
+(1) 80 C  (2) 1000 C  (3) 800 C  (4) 1600 C
+
+**Answer: (2)** · key ✔
+
+**Solution.** $q=\int_0^{20}(I_0+\beta t)\,dt=20(20)+3\cdot\dfrac{20^2}{2}=400+600=1000$ C.
+
+### P-CUR-06 — JEE Main 2024 · 29 Jan Shift 1 · Q14 · MCQ
+
+A galvanometer of coil resistance $10\ \Omega$ shows full-scale deflection for a current of $3$ mA. For it to measure a current of $8$ A, the value of the shunt should be
+
+(1) $3\times10^{-3}\ \Omega$  (2) $4.85\times10^{-3}\ \Omega$  (3) $3.75\times10^{-3}\ \Omega$  (4) $2.75\times10^{-3}\ \Omega$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $S=\dfrac{I_gG}{I-I_g}=\dfrac{3\times10^{-3}\times10}{8-0.003}=\dfrac{0.03}{7.997}=3.75\times10^{-3}\ \Omega$.
+
+### P-CUR-07 — JEE Main 2024 · 29 Jan Shift 1 · Q15 · MCQ
+
+The deflection in a moving-coil galvanometer falls from $25$ divisions to $5$ divisions when a shunt of $24\ \Omega$ is applied. The resistance of the galvanometer coil is
+
+(1) 12 Ω  (2) 96 Ω  (3) 48 Ω  (4) 100 Ω
+
+**Answer: (2)** · key ✔
+
+**Solution.** Deflection is proportional to the current through the coil, so the coil now carries $\dfrac5{25}=\dfrac15$ of the total. With a shunt $S$: $\dfrac{I_g}{I}=\dfrac{S}{G+S}=\dfrac15\Rightarrow G=4S=96\ \Omega$.
+

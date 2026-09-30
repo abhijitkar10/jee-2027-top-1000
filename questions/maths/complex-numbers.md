@@ -28,3 +28,11 @@ The complex numbers $\alpha$ and $\dfrac1{\bar\alpha}$ lie on the circles $|z-z_
 
 **Solution.** Let $r=|\alpha|$. From $|\alpha-z_0|^2=4$: $r^2-2\,\text{Re}(\bar\alpha z_0)+2=4$. For $w=1/\bar\alpha=\alpha/r^2$: $|w-z_0|^2=\dfrac1{r^2}-\dfrac{2\,\text{Re}(\bar\alpha z_0)}{r^2}+2=16$. Let $u=2\,\text{Re}(\bar\alpha z_0)$. Then $u=r^2-2$ and $1-u=14r^2$. Substituting: $3-r^2=14r^2\Rightarrow r^2=\dfrac15$, so $100|\alpha|^2=20$.
 
+### M-CMP-04 — JEE Main 2024 · 29 Jan Shift 1 · Q81 · Numerical
+
+Let $\alpha,\beta$ be the roots of $x^2-x+2=0$ with $\text{Im}(\alpha)>\text{Im}(\beta)$. Then $\alpha^6+\alpha^4+\beta^4-5\alpha^2$ is equal to ______.
+
+**Answer: 13** · key ✔
+
+**Solution.** Each root satisfies $t^2=t-2$. So $t^4=(t-2)^2=t^2-4t+4=-3t+2$ and $t^6=t^2\cdot t^4=(t-2)(-3t+2)=-3t^2+8t-4=-3(t-2)+8t-4=5t+2$. Then $\alpha^6+\alpha^4+\beta^4-5\alpha^2=(5\alpha+2)+(-3\alpha+2)+(-3\beta+2)-5(\alpha-2)=-3(\alpha+\beta)+16=-3+16=13$.
+

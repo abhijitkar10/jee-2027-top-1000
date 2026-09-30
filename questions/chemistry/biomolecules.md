@@ -22,3 +22,13 @@ Which structure of a protein remains intact after coagulation of egg white on bo
 
 **Solution.** Heat denatures a protein by breaking weak hydrogen bonds and other interactions that hold the secondary, tertiary and quaternary structures. The amino-acid sequence (primary structure, held by peptide bonds) is unchanged.
 
+### C-BIO-03 — JEE Main 2024 · 29 Jan Shift 1 · Q49 · MCQ
+
+The type of amino acids obtained by hydrolysis of proteins is
+
+(1) $\beta$  (2) $\alpha$  (3) $\delta$  (4) $\gamma$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Proteins are polymers of $\alpha$-amino acids, in which the $-\text{NH}_2$ group is on the carbon adjacent to $-\text{COOH}$, joined by peptide bonds. Hydrolysis regenerates $\alpha$-amino acids.
+

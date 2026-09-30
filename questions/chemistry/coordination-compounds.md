@@ -40,3 +40,30 @@ The spin-only magnetic moment of the square planar complex $[\text{Pt(NH}_3)_2\t
 
 **Solution.** Pt is $[\text{Xe}]4f^{14}5d^96s^1$, so $\text{Pt}^{2+}$ is $5d^8$. In the strong ligand field of a $5d$ metal it is square planar with all electrons paired, giving $n=0$ and $\mu=0$ BM.
 
+### C-COO-05 — JEE Main 2024 · 29 Jan Shift 1 · Q47 · MCQ
+
+In which one of the following metal carbonyls does CO form a bridge between metal atoms?
+
+(1) $[\text{Co}_2(\text{CO})_8]$  (2) $[\text{Mn}_2(\text{CO})_{10}]$  (3) $[\text{Os}_3(\text{CO})_{12}]$  (4) $[\text{Ru}_3(\text{CO})_{12}]$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\text{Co}_2(\text{CO})_8$ has a $\text{Co–Co}$ bond and two bridging ($\mu$) CO ligands, with six terminal CO. $\text{Mn}_2(\text{CO})_{10}$, $\text{Os}_3(\text{CO})_{12}$ and $\text{Ru}_3(\text{CO})_{12}$ contain only terminal CO (with M–M bonds).
+
+### C-COO-06 — JEE Main 2024 · 29 Jan Shift 1 · Q50 · MCQ
+
+Match List I with List II.
+
+| List I (Substance) | List II (Element present) |
+|---|---|
+| A. Ziegler catalyst | I. Rhodium |
+| B. Blood pigment | II. Cobalt |
+| C. Wilkinson catalyst | III. Iron |
+| D. Vitamin B$_{12}$ | IV. Titanium |
+
+(1) A-II, B-IV, C-I, D-III  (2) A-II, B-III, C-IV, D-I  (3) A-III, B-II, C-IV, D-I  (4) A-IV, B-III, C-I, D-II
+
+**Answer: (4)** · key ✔
+
+**Solution.** Ziegler–Natta catalyst: $\text{TiCl}_4$ + $\text{Al(C}_2\text{H}_5)_3$ (Ti). Haemoglobin (blood pigment): Fe. Wilkinson's catalyst $[\text{RhCl(PPh}_3)_3]$: Rh. Vitamin B$_{12}$ (cyanocobalamin): Co.
+

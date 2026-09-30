@@ -22,3 +22,19 @@ The quantity which changes with temperature is
 
 **Solution.** Molarity $=\dfrac{\text{moles of solute}}{\text{volume of solution}}$ and the volume changes with temperature. Mass percentage, molality and mole fraction depend only on masses or amounts, so they are temperature independent.
 
+### C-SOL-03 — JEE Main 2024 · 29 Jan Shift 1 · Q56 · Numerical
+
+A solution of $\text{H}_2\text{SO}_4$ is $31.4\%$ by mass and has a density of $1.25\ \text{g mL}^{-1}$. The molarity of the solution is ______ M (nearest integer). [Molar mass of $\text{H}_2\text{SO}_4=98\ \text{g mol}^{-1}$]
+
+**Answer: 4** · key ✔
+
+**Solution.** In $100$ g of solution there is $31.4$ g of $\text{H}_2\text{SO}_4=0.3204$ mol. Volume $=\dfrac{100}{1.25}=80$ mL $=0.08$ L. $M=\dfrac{0.3204}{0.08}=4.0$.
+
+### C-SOL-04 — JEE Main 2024 · 29 Jan Shift 1 · Q57 · Numerical
+
+The osmotic pressure of a dilute solution is $7\times10^5$ Pa at $273$ K. The osmotic pressure of the same solution at $283$ K is ______ $\times10^4\ \text{N m}^{-2}$ (nearest integer).
+
+**Answer: 73** · key ✔
+
+**Solution.** $\pi=CRT$, so at constant concentration $\pi\propto T$: $\pi_2=7\times10^5\times\dfrac{283}{273}=7.256\times10^5$ Pa $=72.6\times10^4\approx73\times10^4$ N m$^{-2}$.
+

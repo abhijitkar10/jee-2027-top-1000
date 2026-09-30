@@ -20,3 +20,13 @@ A series LCR circuit with $L=\dfrac{100}{\pi}$ mH, $C=\dfrac{10^{-3}}{\pi}$ F an
 
 **Solution.** $X_L=2\pi(50)\dfrac{0.1}\pi=10\ \Omega$ and $X_C=\dfrac1{2\pi(50)\cdot10^{-3}/\pi}=10\ \Omega$. $X_L=X_C$: resonance, $Z=R$, so $\cos\phi=R/Z=1$.
 
+### P-ACC-03 — JEE Main 2024 · 29 Jan Shift 1 · Q12 · MCQ
+
+A capacitor of capacitance $100\ \mu$F is charged to a potential of $12$ V and connected to a $6.4$ mH inductor to produce oscillations. The maximum current in the circuit would be
+
+(1) 3.2 A  (2) 1.5 A  (3) 2.0 A  (4) 1.2 A
+
+**Answer: (2)** · key ✔
+
+**Solution.** Energy conservation: $\tfrac12LI_{\max}^2=\tfrac12CV^2\Rightarrow I_{\max}=V\sqrt{C/L}=12\sqrt{\dfrac{100\times10^{-6}}{6.4\times10^{-3}}}=12\times0.125=1.5$ A.
+

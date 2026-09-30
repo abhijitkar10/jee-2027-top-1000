@@ -21,3 +21,14 @@ The total number of ions from the following with noble gas configuration is: $\t
 
 **Solution.** $\text{Sr}^{2+}$ has $36$ electrons ($[\text{Kr}]$) and $\text{Cs}^+$ has $54$ ($[\text{Xe}]$). $\text{La}^{2+}=[\text{Xe}]5d^1$, $\text{Pb}^{2+}=[\text{Xe}]4f^{14}5d^{10}6s^2$, $\text{Yb}^{2+}=[\text{Xe}]4f^{14}$ and $\text{Fe}^{2+}=[\text{Ar}]3d^6$ are not noble-gas configurations. Count $=2$.
 
+### C-PER-03 — JEE Main 2024 · 29 Jan Shift 1 · Q32 · MCQ
+
+Assertion A: The first ionisation enthalpy decreases across a period.
+Reason R: The increasing nuclear charge outweighs the shielding across the period.
+
+(1) Both true and R explains A  (2) A true, R false  (3) A false, R true  (4) Both true but R does not explain A
+
+**Answer: (3)** · key ✔
+
+**Solution.** Across a period $Z_{\text{eff}}$ increases (nuclear charge grows faster than screening), atomic size shrinks and ionisation enthalpy generally increases, so A is false and R is true.
+

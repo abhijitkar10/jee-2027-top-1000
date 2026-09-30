@@ -32,3 +32,13 @@ For $0<a<1$, the value of $\displaystyle\int_0^\pi\frac{dx}{1-2a\cos x+a^2}$ is
 
 **Solution.** Use $t=\tan\frac x2$: $\cos x=\dfrac{1-t^2}{1+t^2}$, $dx=\dfrac{2\,dt}{1+t^2}$, and $1-2a\cos x+a^2=\dfrac{(1-a)^2+(1+a)^2t^2}{1+t^2}$. The integral becomes $\displaystyle\int_0^\infty\frac{2\,dt}{(1-a)^2+(1+a)^2t^2}=\frac{2}{(1-a)(1+a)}\cdot\frac\pi2=\frac{\pi}{1-a^2}$.
 
+### M-DEF-04 — JEE Main 2024 · 29 Jan Shift 1 · Q75 · MCQ
+
+For $x\in\left(-\dfrac\pi2,\dfrac\pi2\right)$, let $y(x)=\displaystyle\int\frac{\csc x+\sin x}{\csc x\sec x+\tan x\sin^2x}\,dx$ with $\displaystyle\lim_{x\to(\pi/2)^-}y(x)=0$. Then $y\!\left(\dfrac\pi4\right)$ is
+
+(1) $\tan^{-1}\dfrac1{\sqrt2}$  (2) $\tfrac12\tan^{-1}\dfrac1{\sqrt2}$  (3) $-\dfrac1{\sqrt2}\tan^{-1}\dfrac1{\sqrt2}$  (4) $\dfrac1{\sqrt2}\tan^{-1}\!\left(-\tfrac12\right)$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Numerator: $\dfrac{1+\sin^2x}{\sin x}$. Denominator: $\dfrac{1+\sin^4x}{\sin x\cos x}$. The integrand is $\dfrac{\cos x\,(1+\sin^2x)}{1+\sin^4x}$. With $u=\sin x$: $\displaystyle\int\frac{1+u^2}{1+u^4}du=\frac1{\sqrt2}\tan^{-1}\!\left(\frac{u-1/u}{\sqrt2}\right)+C$. As $x\to\tfrac\pi2$, $u\to1$ and the $\tan^{-1}$ term $\to0$, so $C=0$. At $x=\tfrac\pi4$, $u=\tfrac1{\sqrt2}$: $\dfrac{u-1/u}{\sqrt2}=\dfrac{-1/\sqrt2}{\sqrt2}=-\tfrac12$, giving $y=\dfrac1{\sqrt2}\tan^{-1}\!\left(-\tfrac12\right)$.
+
