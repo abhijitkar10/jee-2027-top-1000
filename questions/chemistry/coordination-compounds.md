@@ -227,3 +227,23 @@ The number of unpaired $d$-electrons in $[\text{Co(H}_2\text{O)}_6]^{3+}$ is:
 
 **Solution.** $\text{Co}^{3+}$ is $d^6$. The $+3$ charge gives a large splitting $\Delta_o$ (about $18{,}000\ \text{cm}^{-1}$), larger than the pairing energy, so the ion is low spin (experimentally $[\text{Co(H}_2\text{O)}_6]^{3+}$ is diamagnetic): $t_{2g}^6e_g^0$: $0$ unpaired electrons and a diamagnetic complex. (Contrast with $[\text{CoF}_6]^{3-}$, which is high spin.)
 
+### C-COO-23 — JEE Main 2024 · 5 Apr Shift 1 · Q45 · MCQ
+
+Which complex will exhibit the least paramagnetic behaviour? ($Z$: Cr $24$, Mn $25$, Fe $26$, Co $27$)
+
+(1) $[\text{Cr(H}_2\text{O)}_6]^{2+}$  (2) $[\text{Fe(H}_2\text{O)}_6]^{2+}$  (3) $[\text{Co(H}_2\text{O)}_6]^{2+}$  (4) $[\text{Mn(H}_2\text{O)}_6]^{2+}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** With the weak-field ligand $\text{H}_2\text{O}$ (high spin): $\text{Cr}^{2+}$ ($d^4$) has $4$ unpaired electrons, $\text{Fe}^{2+}$ ($d^6$) $4$, $\text{Co}^{2+}$ ($d^7$) $3$, $\text{Mn}^{2+}$ ($d^5$) $5$. $\text{Co}^{2+}$ has the fewest.
+
+### C-COO-24 — JEE Main 2024 · 5 Apr Shift 1 · Q46 · MCQ
+
+The correct order of ligands in increasing field strength is:
+
+(1) $\text{F}^-<\text{Br}^-<\text{I}^-<\text{NH}_3$  (2) $\text{Br}^-<\text{F}^-<\text{H}_2\text{O}<\text{NH}_3$  (3) $\text{H}_2\text{O}<\text{OH}^-<\text{CN}^-<\text{NH}_3$  (4) $\text{Cl}^-<\text{OH}^-<\text{Br}^-<\text{CN}^-$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Spectrochemical series: $\text{I}^-<\text{Br}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) is in the right order.
+

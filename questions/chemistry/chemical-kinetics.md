@@ -106,3 +106,11 @@ For $\text{A}+\text{B}\to\text{C}$, rate $=k[\text{A}]^{1/2}[\text{B}]^{1/2}$ wi
 
 **Solution.** A and B are consumed in equal amounts and start equal, so $[\text{A}]=[\text{B}]$ throughout: rate $=k[\text{A}]$, first order overall. $t=\dfrac{2.303}{k}\log\dfrac{1}{0.1}=\dfrac{2.303}{4.6\times10^{-2}}\approx50$ s.
 
+### C-KIN-13 — JEE Main 2024 · 5 Apr Shift 1 · Q56 · Numerical
+
+For $2\text{A}+\text{B}\to\text{C}+\text{D}$ the data are: (I) $[\text{A}]=0.1$, $[\text{B}]=0.1$, rate $6.0\times10^{-3}$; (II) $0.3$, $0.2$, $7.20\times10^{-2}$; (III) $0.3$, $0.4$, $2.88\times10^{-1}$; (IV) $0.4$, $0.1$, $2.40\times10^{-2}$. The overall order of the reaction is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** Compare I and IV ($[\text{B}]$ fixed): $[\text{A}]$ ×4 gives rate ×4, so order in A is $1$. Compare II and III ($[\text{A}]$ fixed): $[\text{B}]$ ×2 gives rate ×4, so order in B is $2$. Overall order $=1+2=3$ (check: $k=\dfrac{6\times10^{-3}}{0.1\times0.01}=6$; experiment II: $6\times0.3\times0.04=0.072$ ✓).
+

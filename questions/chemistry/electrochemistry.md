@@ -228,3 +228,23 @@ A hydrogen–oxygen fuel cell: A. has been used in spaceships; B. has an efficie
 
 **Solution.** The $\text{H}_2$–$\text{O}_2$ cell was used in Apollo spacecraft (A), gives only water (D), and is a galvanic cell with continuously supplied reactants (E). Its efficiency is about $60$–$70\%$ (not $40\%$, so B is rejected), and the catalysts used are Pt/Pd, not Al (C is false).
 
+### C-ELC-25 — JEE Main 2024 · 5 Apr Shift 1 · Q42 · MCQ
+
+The reaction at the cathode in the cells commonly used in clocks involves:
+
+(1) reduction of Mn from $+7$ to $+2$  (2) reduction of Mn from $+4$ to $+3$  (3) oxidation of Mn from $+3$ to $+4$  (4) oxidation of Mn from $+2$ to $+7$
+
+**Answer: (2)** · key ✔
+
+**Solution.** In the dry (Leclanché/alkaline) cell used in clocks, the cathode reaction is $\text{MnO}_2+\text{NH}_4^++e^-\to\text{MnO(OH)}+\text{NH}_3$: Mn is reduced from $+4$ to $+3$.
+
+### C-ELC-26 — JEE Main 2024 · 5 Apr Shift 1 · Q43 · MCQ
+
+Molar ionic conductivities of a divalent cation and anion are $57$ and $73\ \text{S cm}^2\text{mol}^{-1}$ respectively. The molar conductivity of a solution of an electrolyte with this cation and anion will be:
+
+(1) $187$  (2) $260$  (3) $130$  (4) $65$ $\ \text{S cm}^2\text{mol}^{-1}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The cation and the anion are both divalent, so the electrolyte is of the type $\text{M}^{2+}\text{A}^{2-}$ (e.g. $\text{MgSO}_4$), formula unit $1:1$. By Kohlrausch's law $\Lambda_m=\lambda_++\lambda_-=57+73=130\ \text{S cm}^2\text{mol}^{-1}$.
+

@@ -92,3 +92,13 @@ The translational degrees of freedom ($f_t$) and rotational degrees of freedom (
 
 **Solution.** Methane is a non-linear polyatomic molecule: $3$ translational and $3$ rotational degrees of freedom (plus vibrational modes at high temperature).
 
+### P-KTG-10 — JEE Main 2024 · 5 Apr Shift 1 · Q12 · MCQ
+
+If the collision frequency of hydrogen molecules in a closed chamber at $27^\circ$C is $Z$, the collision frequency of the same system at $127^\circ$C is:
+
+(1) $\dfrac{\sqrt3}{2}Z$  (2) $\dfrac{2}{\sqrt3}Z$  (3) $\dfrac34Z$  (4) $\dfrac43Z$
+
+**Answer: (2)** · key ✔
+
+**Solution.** In a closed chamber the number density is fixed, so the collision frequency $\propto\bar v\propto\sqrt T$. $\dfrac{Z'}{Z}=\sqrt{\dfrac{400}{300}}=\dfrac{2}{\sqrt3}$.
+

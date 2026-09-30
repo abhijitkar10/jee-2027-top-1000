@@ -172,3 +172,22 @@ When $\text{MnO}_2$ and conc. $\text{H}_2\text{SO}_4$ are added to a salt A, a g
 
 **Solution.** The greenish-yellow gas is $\text{Cl}_2$: $\text{MnO}_2+4\text{HCl}\to\text{MnCl}_2+\text{Cl}_2+2\text{H}_2\text{O}$, where HCl comes from a chloride with conc. $\text{H}_2\text{SO}_4$. Iodide would give violet $\text{I}_2$, bromide brown $\text{Br}_2$, nitrate brown $\text{NO}_2$.
 
+### C-PBL-17 — JEE Main 2024 · 5 Apr Shift 1 · Q33 · MCQ
+
+Statement I: In group 13, the stability of the $+1$ oxidation state increases down the group.
+Statement II: The atomic size of gallium is greater than that of aluminium.
+
+(1) Both correct  (2) I incorrect, II correct  (3) Both incorrect  (4) I correct, II incorrect
+
+**Answer: (4)** · key ✔
+
+**Solution.** The inert-pair effect makes $+1$ progressively more stable from Ga to Tl: I is true. Ga ($135$ pm) is slightly *smaller* than Al ($143$ pm) because of poor shielding by the $3d^{10}$ electrons, so II is false.
+
+### C-PBL-18 — JEE Main 2024 · 5 Apr Shift 1 · Q37 · Numerical
+
+The number of neutrons in the more abundant isotope of boron is $x$. Amorphous boron heated with air forms a product in which the oxidation state of boron is $y$. $x+y=$ ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** The more abundant isotope is $^{11}_{5}\text{B}$ ($80\%$): neutrons $=11-5=6$. Boron burns in air to $\text{B}_2\text{O}_3$ (with some BN), where B is $+3$. $x+y=6+3=9$.
+

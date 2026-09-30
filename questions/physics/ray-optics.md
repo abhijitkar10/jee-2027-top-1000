@@ -84,3 +84,13 @@ A ray is incident on a glass slab of thickness $4\sqrt3$ cm and refractive index
 
 **Solution.** $\sin i_c=\tfrac1{\sqrt2}\Rightarrow i=45^\circ$. Snell: $\sin r=\dfrac{\sin45^\circ}{\sqrt2}=\tfrac12\Rightarrow r=30^\circ$. Lateral shift $d=\dfrac{t\sin(i-r)}{\cos r}=\dfrac{4\sqrt3\times0.25}{\sqrt3/2}=2$ cm.
 
+### P-RAY-10 — JEE Main 2024 · 5 Apr Shift 1 · Q17 · MCQ
+
+Light emerges from a convex lens when a point source is kept at its focus. The shape of the wavefront of the emerging light is:
+
+(1) both spherical and cylindrical  (2) plane  (3) spherical  (4) cylindrical
+
+**Answer: (2)** · key ✔
+
+**Solution.** A source at the focus gives a parallel beam after refraction, and a parallel beam corresponds to a plane wavefront.
+

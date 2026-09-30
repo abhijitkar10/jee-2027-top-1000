@@ -120,3 +120,13 @@ Three urns A, B, C contain (7 red, 5 black), (5 red, 7 black) and (6 red, 6 blac
 
 **Solution.** By Bayes with equal priors: $P(A\mid\text{black})=\dfrac{5/12}{5/12+7/12+6/12}=\dfrac5{18}$.
 
+### M-PRB-13 — JEE Main 2024 · 5 Apr Shift 1 · Q80 · MCQ
+
+The coefficients $a,b,c$ in the quadratic equation $ax^2+bx+c=0$ are chosen from $\{1,2,\dots,8\}$. The probability that the equation has repeated roots is:
+
+(1) $\tfrac1{128}$  (2) $\tfrac1{64}$  (3) $\tfrac3{256}$  (4) $\tfrac3{128}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Total triples $=8^3=512$. Repeated roots need $b^2=4ac$: $b=2$: $ac=1$ ($1$ way); $b=4$: $ac=4$ ($3$ ways); $b=6$: $ac=9$ ($(3,3)$, $1$ way); $b=8$: $ac=16$ ($(2,8),(4,4),(8,2)$, $3$ ways). Total $=8$. $P=\dfrac{8}{512}=\dfrac1{64}$.
+

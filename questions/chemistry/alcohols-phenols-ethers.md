@@ -103,3 +103,14 @@ The common name of benzene-1,2-diol is:
 
 **Solution.** $1,2$-Dihydroxybenzene is catechol (pyrocatechol). Resorcinol is the $1,3$-isomer and quinol (hydroquinone) is the $1,4$-isomer; $o$-cresol is $2$-methylphenol.
 
+### C-ALC-10 — JEE Main 2024 · 5 Apr Shift 1 · Q47 · MCQ
+
+Statement I: Bromination of phenol in a solvent of low polarity such as $\text{CHCl}_3$ or $\text{CS}_2$ requires a Lewis acid catalyst.
+Statement II: The Lewis acid catalyst polarises bromine to generate $\text{Br}^+$.
+
+(1) Both true  (2) I true, II false  (3) I false, II true  (4) Both false
+
+**Answer: (3)** · key ✔
+
+**Solution.** Phenol is so activated that no Lewis acid is needed: in low-polarity solvents it gives mono-bromophenols (o/p) on treatment with $\text{Br}_2$ alone (in water it gives 2,4,6-tribromophenol). So I is false. II describes the general role of a Lewis acid and is true.
+

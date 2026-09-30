@@ -181,3 +181,22 @@ Mercury is filled in a tube of radius $2$ cm up to a height of $30$ cm. The forc
 
 **Solution.** Pressure at the bottom $=P_0+\rho gh=10^5+1.36\times10^4\times10\times0.3=1.408\times10^5$ Pa. Area $=\pi(0.02)^2=1.257\times10^{-3}\ \text{m}^2$. $F=1.408\times10^5\times1.257\times10^{-3}\approx177$ N.
 
+### P-POM-21 — JEE Main 2024 · 5 Apr Shift 1 · Q10 · MCQ
+
+Statement I: When a capillary tube is dipped into a liquid, the liquid neither rises nor falls in the capillary. The contact angle may be $0^\circ$.
+Statement II: The contact angle between a solid and a liquid is a property of the material of the solid and the liquid as well.
+
+(1) Both false  (2) Both true  (3) I false, II true  (4) I true, II false
+
+**Answer: (3)** · key ✔
+
+**Solution.** No rise or fall means $h\propto\cos\theta=0$, so $\theta=90^\circ$, not $0^\circ$ (a $0^\circ$ angle gives the maximum rise). I is false. II is true: the contact angle depends on the solid–liquid pair.
+
+### P-POM-22 — JEE Main 2024 · 5 Apr Shift 1 · Q23 · Numerical
+
+The density and breaking stress of a wire are $6\times10^4\ \text{kg m}^{-3}$ and $1.2\times10^8\ \text{N m}^{-2}$. The wire is suspended from a rigid support on a planet where $g$ is $\tfrac13$rd of its value on earth ($g=10$ on earth). The maximum length of the wire without breaking is ______ m.
+
+**Answer: 600** · key ✔
+
+**Solution.** The stress at the top is $\rho L g'$, with $g'=10/3$. Setting it equal to the breaking stress: $L=\dfrac{1.2\times10^8}{6\times10^4\times10/3}=\dfrac{1.2\times10^8}{2\times10^5}=600$ m.
+

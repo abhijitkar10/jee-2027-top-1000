@@ -94,3 +94,23 @@ Only $2$ mL of $\text{KMnO}_4$ solution of unknown molarity is required to reach
 
 **Solution.** Equivalents: $\text{KMnO}_4$ has $n=5$, oxalic acid $n=2$. $M\times5\times2=2\times2\times20\Rightarrow M=8$ M.
 
+### C-MOL-12 — JEE Main 2024 · 5 Apr Shift 1 · Q31 · MCQ
+
+An organic compound has $42.1\%$ carbon, $6.4\%$ hydrogen and the rest oxygen. If its molecular weight is $342$, its molecular formula is:
+
+(1) $\text{C}_{11}\text{H}_{18}\text{O}_{12}$  (2) $\text{C}_{12}\text{H}_{20}\text{O}_{12}$  (3) $\text{C}_{12}\text{H}_{22}\text{O}_{11}$  (4) $\text{C}_{14}\text{H}_{20}\text{O}_{10}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Oxygen $=51.5\%$. In $342$ g: C $=0.421\times342=144\Rightarrow12$ atoms; H $=0.064\times342=21.9\Rightarrow22$; O $=0.515\times342=176\Rightarrow11$. So $\text{C}_{12}\text{H}_{22}\text{O}_{11}$ (sucrose).
+
+### C-MOL-13 — JEE Main 2024 · 5 Apr Shift 1 · Q32 · MCQ
+
+The incorrect postulates of Dalton's atomic theory are: (A) Atoms of different elements differ in mass. (B) Matter consists of divisible atoms. (C) Compounds are formed when atoms of different elements combine in a fixed ratio. (D) All atoms of a given element have different properties including mass. (E) Chemical reactions involve reorganisation of atoms.
+
+(1) (C), (D), (E) only  (2) (B), (D) only  (3) (A), (B), (D) only  (4) (B), (D), (E) only
+
+**Answer: (2)** · key ✔
+
+**Solution.** Dalton's actual postulates: atoms are *indivisible* (so B is wrong) and all atoms of an element are *identical* in mass and properties (so D is wrong). A, C and E are true statements of the theory.
+

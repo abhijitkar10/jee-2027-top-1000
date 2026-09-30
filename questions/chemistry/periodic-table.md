@@ -161,3 +161,13 @@ Statement II: The order of negative electron gain enthalpy of Li, Na, F, Cl is $
 
 **Solution.** First IE (kJ/mol): Na $496$ < Li $520$ < Cl $1251$ < F $1681$. Electron gain enthalpy (kJ/mol): Na $-53$, Li $-60$, F $-328$, Cl $-349$; F is less negative than Cl because of its small size and inter-electronic repulsion. Both statements are true.
 
+### C-PER-17 — JEE Main 2024 · 5 Apr Shift 1 · Q34 · MCQ
+
+Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text{Mg}^{2+}$: (A) All are isoelectronic. (B) All have the same nuclear charge. (C) $\text{O}^{2-}$ has the largest ionic radius. (D) $\text{Mg}^{2+}$ has the smallest ionic radius.
+
+(1) (B), (C), (D) only  (2) (C), (D) only  (3) (A), (C), (D) only  (4) (A), (B), (C), (D)
+
+**Answer: (3)** · key ✔
+
+**Solution.** Each has $10$ electrons (A true) but nuclear charges $8,9,11,12$ (B false). For an isoelectronic series, radius falls as $Z$ rises: $\text{O}^{2-}>\text{F}^->\text{Na}^+>\text{Mg}^{2+}$, so C and D are true.
+

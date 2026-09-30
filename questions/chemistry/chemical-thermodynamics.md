@@ -78,3 +78,22 @@ Three moles of an ideal gas are compressed isothermally from $60$ L to $20$ L us
 
 **Solution.** $w=-p_{ext}\Delta V=-5(20-60)=+200$ L atm. Isothermal ideal gas: $\Delta U=0$, so $q=-w=-200$ L atm (heat is released).
 
+### C-CTH-10 — JEE Main 2024 · 5 Apr Shift 1 · Q35 · MCQ
+
+Assertion A: The enthalpy of neutralisation of a strong monobasic acid with a strong monoacidic base is always $-57\ \text{kJ mol}^{-1}$.
+Reason R: Enthalpy of neutralisation is the heat liberated when one mole of $\text{H}^+$ furnished by an acid combines with one mole of $\text{OH}^-$ furnished by a base to form one mole of water.
+
+(1) A true, R false  (2) Both true, R does not explain A  (3) Both true, R explains A
+
+**Answer: (3)** · key ✔
+
+**Solution.** For strong acid and strong base everything is fully ionised, and the net change is $\text{H}^++\text{OH}^-\to\text{H}_2\text{O}$ with $\Delta H\approx-57.3$ kJ mol$^{-1}$. R defines the quantity and thereby explains why it is constant.
+
+### C-CTH-11 — JEE Main 2024 · 5 Apr Shift 1 · Q54 · Numerical
+
+The heat of combustion of solid benzoic acid at constant volume is $-321.30$ kJ at $27^\circ$C. The heat of combustion at constant pressure is $(-321.30-xR)$ kJ. $x=$ ______.
+
+**Answer: 150** · key ✔
+
+**Solution.** $\text{C}_6\text{H}_5\text{COOH}(s)+\tfrac{15}{2}\text{O}_2(g)\to7\text{CO}_2(g)+3\text{H}_2\text{O}(l)$: $\Delta n_g=7-7.5=-\tfrac12$. $\Delta H=\Delta U+\Delta n_gRT=-321.30-\tfrac12R(300)=-321.30-150R$. So $x=150$.
+

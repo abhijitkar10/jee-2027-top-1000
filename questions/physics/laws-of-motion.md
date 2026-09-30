@@ -149,3 +149,13 @@ Two forces $\vec F_1$ and $\vec F_2$ act on a body. One has magnitude thrice the
 
 **Solution.** Let $F_2=F$, $F_1=3F$. The resultant $R=3F$: $9F^2=9F^2+F^2+6F^2\cos\theta\Rightarrow\cos\theta=-\tfrac16$. So $n=-6$ and $|n|=6$.
 
+### P-LOM-16 — JEE Main 2024 · 5 Apr Shift 1 · Q4 · MCQ
+
+A wooden block of mass $5$ kg rests on a soft horizontal floor. When an iron cylinder of mass $25$ kg is placed on top, the floor yields and the block and cylinder go down together with an acceleration of $0.1\ \text{m s}^{-2}$. The action force of the system on the floor is:
+
+(1) 196 N  (2) 291 N  (3) 294 N  (4) 297 N
+
+**Answer: (2)** · key ✔
+
+**Solution.** For the system ($m=30$ kg) moving down: $mg-N=ma\Rightarrow N=m(g-a)=30(9.8-0.1)=291$ N. By Newton's third law the force on the floor is $291$ N. (The key uses $g=9.8\ \text{m s}^{-2}$.)
+

@@ -148,3 +148,11 @@ A bus moving at $72$ km/h is brought to a halt within $4$ s after applying the b
 
 **Solution.** $u=72\ \text{km/h}=20$ m/s, final speed $0$: $s=\dfrac{u+0}{2}t=10\times4=40$ m.
 
+### P-KIN-17 — JEE Main 2024 · 5 Apr Shift 1 · Q21 · Numerical
+
+A body starts from rest on a frictionless plane. If $S_{n-1}$ is the distance moved between $t=n-2$ and $t=n-1$, and $S_n$ between $t=n-1$ and $t=n$, then $\dfrac{S_{n-1}}{S_n}=\left(1-\dfrac2x\right)$ for $n=10$. The value of $x$ is ______.
+
+**Answer: 19** · key ✔
+
+**Solution.** Uniform acceleration from rest: $S_n\propto(2n-1)$. $\dfrac{S_{n-1}}{S_n}=\dfrac{2n-3}{2n-1}=1-\dfrac{2}{2n-1}$. For $n=10$: $1-\dfrac2{19}$, so $x=19$.
+

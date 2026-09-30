@@ -126,3 +126,21 @@ An alternating current at any instant is $i=\left[6+\sqrt{56}\sin(100\pi t+\pi/3
 
 **Solution.** For $i=I_0+I_1\sin(\omega t+\phi)$: $i_{rms}^2=I_0^2+\dfrac{I_1^2}{2}=36+\dfrac{56}{2}=64$, so $i_{rms}=8$ A.
 
+### P-ACC-14 — JEE Main 2024 · 5 Apr Shift 1 · Q16 · MCQ
+
+An alternating voltage of amplitude $40$ V and frequency $4$ kHz is applied directly across a $12\ \mu\text{F}$ capacitor. The maximum displacement current between the plates is nearly:
+
+(1) 10 A  (2) 12 A  (3) 8 A  (4) 13 A
+
+**Answer: (2)** · key ✔
+
+**Solution.** The displacement current equals the conduction current in the circuit: $I_0=\omega CV_0=2\pi(4000)(12\times10^{-6})(40)=12.06$ A $\approx12$ A.
+
+### P-ACC-15 — JEE Main 2024 · 5 Apr Shift 1 · Q28 · Numerical
+
+A series LCR circuit has $L=1$ H, $R=300\ \Omega$, $C=20\ \mu\text{F}$, driven by $V=50\sqrt2\sin(100t)$ V. The r.m.s. potential difference across the capacitor is ______ V.
+
+**Answer: 50** · key ✔
+
+**Solution.** $X_L=100\times1=100\ \Omega$, $X_C=\dfrac{1}{100\times20\times10^{-6}}=500\ \Omega$. $Z=\sqrt{300^2+400^2}=500\ \Omega$. $I_{rms}=\dfrac{50}{500}=0.1$ A, so $V_C=0.1\times500=50$ V.
+

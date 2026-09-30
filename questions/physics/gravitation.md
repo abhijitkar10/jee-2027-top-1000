@@ -123,3 +123,13 @@ The correct formula for the height of a satellite above the earth's surface (per
 
 **Solution.** With $GM=gR^2$, Kepler's third law gives $T^2=\dfrac{4\pi^2r^3}{gR^2}\Rightarrow r=\left(\dfrac{gR^2T^2}{4\pi^2}\right)^{1/3}$. Height $h=r-R$.
 
+### P-GRV-13 — JEE Main 2024 · 5 Apr Shift 1 · Q7 · MCQ
+
+A simple pendulum doing small oscillations at a height $R$ above the earth's surface has time period $T_1=4$ s. $T_2$ is its time period at a height $2R$ from the earth's surface ($R$ = radius of earth). The correct relation is:
+
+(1) $2T_1=T_2$  (2) $2T_1=3T_2$  (3) $T_1=T_2$  (4) $3T_1=2T_2$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $T=2\pi\sqrt{l/g'}$ with $g'=GM/r^2$, so $T\propto r$ (distance from the centre). At height $R$: $r=2R$; at height $2R$: $r=3R$. $\dfrac{T_2}{T_1}=\dfrac32\Rightarrow3T_1=2T_2$ (so $T_2=6$ s).
+

@@ -111,3 +111,13 @@ Match List I with List II: (A) $\alpha$-glucose and $\alpha$-galactose; (B) $\al
 
 **Solution.** Glucose and galactose differ only at C-4: epimers (IV). $\alpha$ and $\beta$ glucose differ at the anomeric C-1: anomers (III). Glucose (aldose) and fructose (ketose), both $\text{C}_6\text{H}_{12}\text{O}_6$, are functional isomers (I). Glucose ($\text{C}_6$) and ribose ($\text{C}_5$) differ by a $\text{CHOH}$ unit: homologous-type relationship (II) as per the key.
 
+### C-BIO-12 — JEE Main 2024 · 5 Apr Shift 1 · Q50 · MCQ
+
+Which of the following gives a positive test with ninhydrin?
+
+(1) Starch  (2) Egg albumin  (3) Polyvinyl chloride  (4) Cellulose
+
+**Answer: (2)** · key ✔
+
+**Solution.** Ninhydrin gives a purple (Ruhemann's purple) colour with free $\alpha$-amino acids, peptides and proteins. Egg albumin is a protein; starch and cellulose are polysaccharides and PVC is a synthetic polymer.
+

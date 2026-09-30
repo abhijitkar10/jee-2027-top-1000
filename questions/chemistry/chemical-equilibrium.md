@@ -64,3 +64,13 @@ For $\text{SO}_3(g)\rightleftharpoons\text{SO}_2(g)+\tfrac12\text{O}_2(g)$, $K_c
 
 **Solution.** Reversing inverts $K$; doubling the equation squares it: $K'=\dfrac{1}{K^2}=\dfrac{1}{(4.9\times10^{-2})^2}=\dfrac{1}{2.401\times10^{-3}}\approx416$.
 
+### C-CEQ-08 — JEE Main 2024 · 5 Apr Shift 1 · Q36 · MCQ
+
+For $\text{Fe}_2\text{O}_3(s)+3\text{CO}(g)\rightleftharpoons\text{Fe}(l)+3\text{CO}_2(g)$, which change will not disturb the equilibrium?
+
+(1) Addition of $\text{CO}_2$  (2) Removal of $\text{CO}_2$  (3) Addition of $\text{Fe}_2\text{O}_3$  (4) Removal of CO
+
+**Answer: (3)** · key ✔
+
+**Solution.** The activity of a pure solid is constant and does not appear in $K_c=\dfrac{[\text{CO}_2]^3}{[\text{CO}]^3}$. Adding more $\text{Fe}_2\text{O}_3(s)$ therefore leaves the equilibrium unchanged, whereas changing $[\text{CO}]$ or $[\text{CO}_2]$ shifts it.
+

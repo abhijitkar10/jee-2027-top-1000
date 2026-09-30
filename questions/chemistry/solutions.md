@@ -92,3 +92,11 @@ $2.7$ kg of each of water and acetic acid are mixed. The freezing point of the s
 
 **Solution.** Treat acetic acid as the solute in water: $n=\dfrac{2700}{60}=45$ mol in $2.7$ kg, so $m=16.67$ mol kg$^{-1}$. $\Delta T_f=1.86\times16.67=31$ K. Freezing point $=0-31=-31^\circ$C, $x=31$.
 
+### C-SOL-11 — JEE Main 2024 · 5 Apr Shift 1 · Q55 · Numerical
+
+An artificial cell is made by encapsulating $0.2$ M glucose solution within a semipermeable membrane. The osmotic pressure developed when it is placed in a $0.05$ M NaCl solution at $300$ K is ______ $\times10^{-1}$ bar (nearest integer). ($R=0.083$ L bar mol$^{-1}$K$^{-1}$; NaCl fully dissociates)
+
+**Answer: 25** · key ✔
+
+**Solution.** Outside: $0.05$ M NaCl gives $0.10$ M of particles. Inside: $0.2$ M glucose. Net osmotic concentration $=0.2-0.1=0.1$ M. $\pi=CRT=0.1\times0.083\times300=2.49\ \text{bar}\approx25\times10^{-1}$ bar.
+

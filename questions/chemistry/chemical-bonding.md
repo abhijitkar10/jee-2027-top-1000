@@ -193,3 +193,21 @@ The number of species with a non-zero dipole moment among $\text{BeCl}_2$, $\tex
 
 **Solution.** Symmetric ($\mu=0$): $\text{BeCl}_2$ (linear), $\text{BCl}_3$, $\text{XeF}_4$ (square planar), $\text{CCl}_4$, $\text{CO}_2$, $\text{H}_2$. Polar: $\text{NF}_3$, $\text{H}_2\text{O}$, $\text{H}_2\text{S}$, HBr, HCl. Count $=5$.
 
+### C-BND-22 — JEE Main 2024 · 5 Apr Shift 1 · Q38 · MCQ
+
+The number of $\sigma$ and $\pi$ bonds in an ethylene molecule is respectively:
+
+(1) 4 and 1  (2) 5 and 2  (3) 3 and 1  (4) 5 and 1
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{H}_2\text{C=CH}_2$: $4$ C–H $\sigma$ bonds, $1$ C–C $\sigma$ bond and $1$ C–C $\pi$ bond: $5\ \sigma$, $1\ \pi$.
+
+### C-BND-23 — JEE Main 2024 · 5 Apr Shift 1 · Q53 · Numerical
+
+In the Lewis dot structure of $\text{NO}_2^-$, the total number of valence electrons around nitrogen is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** $[\text{O=N-O}]^-$: nitrogen has one lone pair ($2$ e$^-$), one N=O double bond ($4$ e$^-$) and one N–O single bond ($2$ e$^-$). Total $=8$ (octet complete).
+

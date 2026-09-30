@@ -133,3 +133,13 @@ A charge $q$ is placed at the centre of one of the faces of a cube. The flux lin
 
 **Solution.** Place an identical cube on the other side of that face so the charge sits at the centre of a combined closed surface: total flux $q/\epsilon_0$ is shared equally by the two cubes, so each gets $\dfrac{q}{2\epsilon_0}$.
 
+### P-ELS-15 — JEE Main 2024 · 5 Apr Shift 1 · Q8 · MCQ
+
+In a hydrogen-like system the ratio of the Coulombic force to the gravitational force between an electron and a proton is of the order of:
+
+(1) $10^{39}$  (2) $10^{29}$  (3) $10^{19}$  (4) $10^{36}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** The ratio is independent of separation: $\dfrac{ke^2}{Gm_em_p}=\dfrac{9\times10^9\times(1.6\times10^{-19})^2}{6.67\times10^{-11}\times9.1\times10^{-31}\times1.67\times10^{-27}}\approx2.3\times10^{39}$, i.e. of order $10^{39}$.
+

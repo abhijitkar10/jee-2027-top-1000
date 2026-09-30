@@ -74,3 +74,14 @@ The total number of $\sigma$ and $\pi$ bonds in 2-oxohex-4-ynoic acid is ______.
 
 **Solution.** Structure: $\text{HOOC-CO-CH}_2\text{-C}\equiv\text{C-CH}_3$. $\sigma$ bonds: C–C $5$ (including the $\sigma$ of the triple bond), C–H $5$, O–H $1$, C–O $1$, C=O $2$ = $14$. $\pi$ bonds: $2$ (two C=O) $+2$ (C≡C) $=4$. Total $14+4=18$.
 
+### C-ISO-09 — JEE Main 2024 · 5 Apr Shift 1 · Q39 · MCQ
+
+Assertion A: The cis form of an alkene is more polar than the trans form.
+Reason R: The dipole moment of trans-2-butene is zero.
+
+(1) A false, R true  (2) Both true, R explains A  (3) A true, R false  (4) Both true, R does not explain A
+
+**Answer: (2)** · key ✔
+
+**Solution.** In the cis isomer the two $\text{C-CH}_3$ bond dipoles add to a resultant; in the trans isomer they are equal and opposite and cancel, giving $\mu=0$. R is true and explains A.
+

@@ -189,3 +189,21 @@ A first-row transition metal with the highest enthalpy of atomisation reacts wit
 
 **Solution.** Vanadium has the highest enthalpy of atomisation in the 3d series ($\approx515$ kJ/mol); its oxides are $\text{V}_2\text{O}_3$ (basic), $\text{V}_2\text{O}_4$ and $\text{V}_2\text{O}_5$ (amphoteric). In $\text{V}_2\text{O}_5$ vanadium is $\text{V}^{5+}$ ($d^0$), so $\mu=0$.
 
+### C-DFB-19 — JEE Main 2024 · 5 Apr Shift 1 · Q44 · MCQ
+
+The metal that shows the highest and maximum number of oxidation states is:
+
+(1) Fe  (2) Mn  (3) Co  (4) Ti
+
+**Answer: (2)** · key ✔
+
+**Solution.** Mn shows every oxidation state from $+2$ to $+7$ (also $0$, $+1$ in some compounds): the highest ($+7$) and the largest number of states in the 3d series.
+
+### C-DFB-20 — JEE Main 2024 · 5 Apr Shift 1 · Q57 · Numerical
+
+The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$, $\text{Co}^{3+}$ and $\text{Cr}^{2+}$ that acts as a strong oxidising agent in aqueous solution is ______ BM (nearest integer).
+
+**Answer: 5** · key ✔
+
+**Solution.** $\text{Ti}^{2+}$, $\text{V}^{2+}$ and $\text{Cr}^{2+}$ are reducing agents. $\text{Co}^{3+}$ is a very strong oxidising agent ($E^\circ_{\text{Co}^{3+}/\text{Co}^{2+}}=+1.97$ V). Taking it as $d^6$ with $4$ unpaired electrons: $\mu=\sqrt{4\times6}=4.9\approx5$ BM.
+

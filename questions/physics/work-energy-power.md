@@ -72,3 +72,13 @@ A rubber ball falls from height $h$ and rebounds to height $h/2$. The percentage
 
 **Solution.** Energy at height $h$ is $mgh$, at rebound height $mgh/2$: $50\%$ lost. Speed on impact: $v=\sqrt{2gh}$.
 
+### P-WEP-08 — JEE Main 2024 · 5 Apr Shift 1 · Q5 · MCQ
+
+A body of mass $50$ kg is lifted to a height of $20$ m from the ground in two ways: (Case 1) pulled straight up; (Case 2) along a $30^\circ$ ramp. The ratio of the work done against gravity in the two cases is:
+
+(1) $\sqrt3:2$  (2) $1:2$  (3) $2:1$  (4) $1:1$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Gravity is conservative, so the work done against it depends only on the vertical height gained, $mgh$, and not on the path. The ratio is $1:1$.
+

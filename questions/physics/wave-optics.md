@@ -114,3 +114,11 @@ The width of one of the two slits in Young's double-slit experiment is $4$ times
 
 **Solution.** Intensity $\propto$ width: $I_1:I_2=4:1$, amplitudes $2:1$. $\dfrac{I_{max}}{I_{min}}=\dfrac{(2+1)^2}{(2-1)^2}=9:1$.
 
+### P-WOP-13 — JEE Main 2024 · 5 Apr Shift 1 · Q29 · Numerical
+
+In Young's double-slit experiment with light of wavelength $5000\ \text{Å}$, the slit separation is $0.3$ mm and the screen is $200$ cm away. The central maximum is at $x=0$. The position $x$ of the third maximum is ______ mm.
+
+**Answer: 10** · key ✔
+
+**Solution.** $x_n=\dfrac{n\lambda D}{d}=\dfrac{3\times5\times10^{-7}\times2}{3\times10^{-4}}=10^{-2}$ m $=10$ mm.
+

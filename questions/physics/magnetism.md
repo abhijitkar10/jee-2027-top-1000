@@ -117,3 +117,21 @@ The magnetic moment of a bar magnet is $0.5\ \text{A m}^2$. It is suspended in a
 
 **Solution.** $U=-mB\cos\theta$, from $\theta=0$ to $\pi$: $W=2mB=2\times0.5\times8\times10^{-2}=8\times10^{-2}$ J.
 
+### P-MAG-14 — JEE Main 2024 · 5 Apr Shift 1 · Q14 · MCQ
+
+In a co-axial straight cable the central conductor and the outer conductor carry equal currents in opposite directions. The magnetic field is zero:
+
+(1) outside the cable  (2) inside the outer conductor  (3) inside the inner conductor  (4) in between the two conductors
+
+**Answer: (1)** · key ✔
+
+**Solution.** By Ampère's law, a loop outside the cable encloses net current $I-I=0$, so $B=0$ there. Between the conductors the enclosed current is $I$ ($B=\mu_0I/2\pi r$), and inside each conductor a fraction of the current is enclosed.
+
+### P-MAG-15 — JEE Main 2024 · 5 Apr Shift 1 · Q27 · Numerical
+
+A $2$ A current-carrying straight metal wire of resistance $1\ \Omega$, resistivity $2\times10^{-6}\ \Omega\,\text{m}$, cross-section $10\ \text{mm}^2$ and mass $500$ g is suspended horizontally by a uniform magnetic field $\vec B$. $B=$ ______ $\times10^{-1}$ T ($g=10$).
+
+**Answer: 5** · key ✔
+
+**Solution.** Length $l=\dfrac{RA}{\rho}=\dfrac{1\times10\times10^{-6}}{2\times10^{-6}}=5$ m. Balance: $BIl=mg\Rightarrow B=\dfrac{0.5\times10}{2\times5}=0.5$ T $=5\times10^{-1}$ T.
+

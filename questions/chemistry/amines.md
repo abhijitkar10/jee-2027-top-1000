@@ -56,3 +56,19 @@ From $6.55$ g of aniline the maximum amount of acetanilide that can be prepared 
 
 **Solution.** $\text{C}_6\text{H}_5\text{NH}_2$ ($93$ g/mol): $n=\dfrac{6.55}{93}=0.0704$ mol. Acetanilide $\text{C}_6\text{H}_5\text{NHCOCH}_3$ ($135$ g/mol): $0.0704\times135=9.5$ g $=95\times10^{-1}$ g.
 
+### C-AMN-07 — JEE Main 2024 · 5 Apr Shift 1 · Q51 · Numerical
+
+$9.3$ g of pure aniline is treated with bromine water at room temperature to give a white precipitate of product P. The mass of P obtained is $26.4$ g. The percentage yield is ______ %.
+
+**Answer: 80** · key ✔
+
+**Solution.** $\text{C}_6\text{H}_5\text{NH}_2$ ($93$) $\to$ 2,4,6-tribromoaniline $\text{C}_6\text{H}_4\text{Br}_3\text{N}$ ($330$ g/mol). $9.3$ g $=0.1$ mol, so the theoretical yield is $33$ g. Yield $=\dfrac{26.4}{33}\times100=80\%$.
+
+### C-AMN-08 — JEE Main 2024 · 5 Apr Shift 1 · Q58 · Numerical
+
+The number of halobenzenes among fluoro-, chloro-, bromo-, iodo- and astatobenzene that can be prepared by Sandmeyer's reaction is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** Sandmeyer's reaction uses $\text{CuCl}$ or $\text{CuBr}$ on a diazonium salt, so only chlorobenzene and bromobenzene form. Iodobenzene is made with KI (no copper needed), and fluorobenzene by the Balz–Schiemann reaction ($\text{HBF}_4$).
+

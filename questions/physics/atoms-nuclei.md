@@ -203,3 +203,21 @@ The disintegration energy $Q$ for $^{235}\text{U}\to{}^{140}\text{Ce}+{}^{94}\te
 
 **Solution.** Mass defect $=235.0439-(139.9054+93.9063+1.0086)=235.0439-234.8203=0.2236$ u. $Q=0.2236\times931\approx208$ MeV.
 
+### P-ATN-23 — JEE Main 2024 · 5 Apr Shift 1 · Q19 · MCQ
+
+An electron rotates in a circle around a nucleus with positive charge $Ze$. The correct relation between the total energy $E$ of the electron and its potential energy $U$ is:
+
+(1) $E=U$  (2) $2E=U$  (3) $2E=3U$  (4) $E=2U$
+
+**Answer: (2)** · key ✔
+
+**Solution.** For an inverse-square orbit, $KE=\dfrac{Ze^2}{8\pi\epsilon_0r}$, $U=-\dfrac{Ze^2}{4\pi\epsilon_0r}=-2KE$, and $E=KE+U=-KE=\dfrac U2$. So $2E=U$.
+
+### P-ATN-24 — JEE Main 2024 · 5 Apr Shift 1 · Q30 · Numerical
+
+Three helium nuclei combine to form a carbon nucleus. The energy released is ______ $\times10^{-2}$ MeV. ($1\text{u}=931\ \text{MeV}/c^2$; atomic mass of helium $=4.002603$ u)
+
+**Answer: 727** · key ✔
+
+**Solution.** $\Delta m=3(4.002603)-12.000000=0.007809$ u (using atomic masses, the electron masses cancel). $E=0.007809\times931=7.27$ MeV $=727\times10^{-2}$ MeV.
+

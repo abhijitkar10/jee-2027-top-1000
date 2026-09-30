@@ -85,3 +85,11 @@ The de Broglie wavelength of an electron in the $4$th orbit is $x\pi a_0$ ($a_0$
 
 **Solution.** $2\pi r_n=n\lambda\Rightarrow\lambda=\dfrac{2\pi n^2a_0}{n}=2\pi na_0=2\pi(4)a_0=8\pi a_0$.
 
+### C-ATS-10 — JEE Main 2024 · 5 Apr Shift 1 · Q52 · Numerical
+
+Given $R_H=2.18\times10^{-18}$ J and electron mass $9.1\times10^{-31}$ kg, the velocity of the electron in Bohr's first orbit of hydrogen is ______ $\times10^5\ \text{m s}^{-1}$ (nearest integer).
+
+**Answer: 22** · key ✔
+
+**Solution.** The ground-state energy is $-R_H$ and $KE=\tfrac12mv^2=R_H$. $v=\sqrt{\dfrac{2\times2.18\times10^{-18}}{9.1\times10^{-31}}}=\sqrt{4.79\times10^{12}}=2.19\times10^6=21.9\times10^5\approx22\times10^5\ \text{m s}^{-1}$.
+
