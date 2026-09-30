@@ -12,7 +12,7 @@ See [`weightage.md`](weightage.md) for the chapter-wise spread and [`SOURCES.md`
 
 ## What is in the set (read this first)
 
-- **Main-first, as requested.** 959 questions are from JEE Main **2024** (all 10 January and April sessions, i.e. 27 Jan – 9 Apr), 8 from JEE Main 2023, and **33 are JEE Advanced 2025 (Paper 1)** picked for concept value.
+- **Main-first, as requested.** 959 questions are from JEE Main **2024** (19 sessions: 27 Jan – 1 Feb and 4 Apr – 9 Apr Shift 1), 8 from JEE Main 2023, and **33 are JEE Advanced 2025 (Paper 1)** picked for concept value.
 - **Only real PYQs.** Every question is a real question from an NTA / JEE Advanced paper. No question was invented. Figure-dependent questions and ones whose text could not be reconstructed reliably were **skipped**, so the pool is slightly biased towards questions that can be stated in text.
 - **Highest-weightage chapters first.** Chapters are weighted by how often and how heavily they appear in JEE Main, e.g. Current Electricity, Electrostatics, Magnetism, Chemical Bonding, Coordination Compounds, p-block, GOC in the sciences; Calculus (limits, derivatives, integrals, DE), Coordinate Geometry, Vectors/3D, Probability, Matrices in maths.
 - **Coverage gaps (honest note).** Solid State, Surface Chemistry and Mathematical Reasoning have no questions yet, and Gaseous State, s-block, Metallurgy, Semiconductors, Heat Transfer and Hydrocarbons are thinner than their real exam weight, because the text-only questions I could verify from the sourced papers did not cover them. Their theory notes are included. Older sessions (2019–2023 Main) would fill these.
