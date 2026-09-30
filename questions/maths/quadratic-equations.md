@@ -58,3 +58,13 @@ Let $S=\{x\in\mathbb R:(\sqrt3+\sqrt2)^x+(\sqrt3-\sqrt2)^x=10\}$. Then the numbe
 
 **Solution.** $(\sqrt3+\sqrt2)(\sqrt3-\sqrt2)=1$, so with $t=(\sqrt3+\sqrt2)^x>0$ the equation is $t+\tfrac1t=10$, i.e. $t^2-10t+1=0$, giving $t=5\pm2\sqrt6$ (both positive). Each $t$ gives exactly one $x$ (the map $x\mapsto t$ is one-one), so $|S|=2$.
 
+### M-QDR-07 — JEE Main 2024 · 1 Feb Shift 2 · Q61 · MCQ
+
+Let $\alpha,\beta$ be the roots of $px^2+qx-r=0$, $p\ne0$. If $p,q,r$ are consecutive terms of a non-constant G.P. and $\dfrac1\alpha+\dfrac1\beta=\dfrac34$, then $(\alpha-\beta)^2$ is:
+
+(1) $\dfrac{80}{9}$  (2) $9$  (3) $\dfrac{20}{3}$  (4) $8$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let the G.P. ratio be $k$: $q=pk$, $r=pk^2$. $\dfrac1\alpha+\dfrac1\beta=\dfrac{\alpha+\beta}{\alpha\beta}=\dfrac{-q/p}{-r/p}=\dfrac qr=\dfrac1k=\dfrac34\Rightarrow k=\dfrac43$. Then $(\alpha-\beta)^2=(\alpha+\beta)^2-4\alpha\beta=k^2+4k^2=5k^2=\dfrac{80}{9}$.
+

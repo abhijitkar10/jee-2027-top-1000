@@ -156,3 +156,23 @@ The current in a conductor is $I=3t^2+4t^3$ (in ampere, $t$ in second). The amou
 
 **Solution.** $q=\int_1^2(3t^2+4t^3)dt=\left[t^3+t^4\right]_1^2=(8+16)-(1+1)=22$ C.
 
+### P-CUR-17 — JEE Main 2024 · 1 Feb Shift 2 · Q12 · MCQ
+
+In a metre bridge the resistance in the left gap is $2\ \Omega$ and the unknown resistance is in the right gap; the balance length is $40$ cm. On shunting the unknown resistance with $2\ \Omega$, the balance length changes by:
+
+(1) 22.5 cm  (2) 20 cm  (3) 62.5 cm  (4) 65 cm
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\dfrac{2}{X}=\dfrac{40}{60}\Rightarrow X=3\ \Omega$. Shunted: $X'=\dfrac{3\cdot2}{5}=1.2\ \Omega$. $\dfrac{2}{1.2}=\dfrac{l}{100-l}\Rightarrow l=62.5$ cm. Change $=62.5-40=22.5$ cm.
+
+### P-CUR-18 — JEE Main 2024 · 1 Feb Shift 2 · Q13 · MCQ
+
+In an ammeter, $5\%$ of the main current passes through the galvanometer of resistance $G$. The resistance of the ammeter is:
+
+(1) $\dfrac{G}{20}$  (2) $\dfrac{G}{199}$  (3) $199G$  (4) $200G$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $I_g=0.05I$, shunt current $0.95I$: $0.05\,G=0.95\,S\Rightarrow S=G/19$. Ammeter resistance $=\dfrac{GS}{G+S}=\dfrac{G\cdot G/19}{20G/19}=\dfrac{G}{20}$.
+

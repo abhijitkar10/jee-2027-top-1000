@@ -48,3 +48,13 @@ $K_a$ for $\text{CH}_3\text{COOH}$ is $1.8\times10^{-5}$ and $K_b$ for $\text{NH
 
 **Solution.** For a salt of a weak acid and weak base, $\text{pH}=7+\tfrac12(\text{p}K_a-\text{p}K_b)$. With $K_a=K_b$ the correction vanishes: $\text{pH}=7$.
 
+### C-ION-06 — JEE Main 2024 · 1 Feb Shift 2 · Q35 · MCQ
+
+The solubility of calcium phosphate (molar mass $M$) in water is $W$ g per $100$ mL at $25^\circ$C. Its solubility product is approximately:
+
+(1) $10^7\dfrac{W^3}{M^3}$  (2) $10^7\dfrac{W^5}{M^5}$  (3) $10^3\dfrac{W^5}{M^5}$  (4) $10^5\dfrac{W^5}{M^5}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $s=\dfrac{W}{M}\times10\ \text{mol L}^{-1}$. For $\text{Ca}_3(\text{PO}_4)_2$: $K_{sp}=(3s)^3(2s)^2=108s^5=108\times10^5\dfrac{W^5}{M^5}\approx10^7\dfrac{W^5}{M^5}$.
+

@@ -73,3 +73,23 @@ Reason R: Alcohols react with active metals such as sodium, potassium and alumin
 
 **Solution.** A is true: the oxygen lone pair makes ROH a nucleophile, while protonated alcohols (or the C–O bond) act as electrophiles. R is a true statement about acidity (O–H cleavage) but it does not explain the dual behaviour, so R is not the explanation of A.
 
+### C-ALC-07 — JEE Main 2024 · 1 Feb Shift 2 · Q38 · MCQ
+
+Which has the highest boiling point?
+
+(1) $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_3$  (2) $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$  (3) $\text{CH}_3\text{CH}_2\text{CH}_2\text{CHO}$  (4) $\text{C}_2\text{H}_5\text{OC}_2\text{H}_5$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Butan-1-ol is hydrogen-bonded; the aldehyde is only dipole–dipole; the ether and alkane have weaker forces. Boiling points: alcohol ($118^\circ$C) > aldehyde ($75^\circ$C) > ether ($35^\circ$C) > butane ($0^\circ$C).
+
+### C-ALC-08 — JEE Main 2024 · 1 Feb Shift 2 · Q50 · MCQ
+
+Match List I (reactants) with List II (products): (A) phenol, Zn/$\Delta$; (B) phenol, $\text{CHCl}_3$, NaOH, HCl; (C) phenol, $\text{CO}_2$, NaOH, HCl; (D) phenol, conc. $\text{HNO}_3$; (I) salicylaldehyde, (II) salicylic acid, (III) benzene, (IV) picric acid.
+
+(1) A-IV, B-II, C-I, D-III  (2) A-IV, B-I, C-II, D-III  (3) A-III, B-I, C-II, D-IV  (4) A-III, B-IV, C-I, D-II
+
+**Answer: (3)** · key ✔
+
+**Solution.** Zn dust reduces phenol to benzene (III). Reimer–Tiemann ($\text{CHCl}_3$/NaOH) gives salicylaldehyde (I). Kolbe's reaction ($\text{CO}_2$/NaOH) gives salicylic acid (II). Conc. $\text{HNO}_3$ nitrates fully to picric acid (IV).
+

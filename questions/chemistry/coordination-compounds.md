@@ -166,3 +166,24 @@ Statement II: A solution of $[\text{Ni(CN)}_4]^{2-}$ is colourless.
 
 **Solution.** $[\text{Ni(H}_2\text{O)}_6]^{2+}$ ($d^8$, octahedral, two unpaired electrons) absorbs red light and appears green. $[\text{Ni(CN)}_4]^{2-}$ is square planar with strong-field $\text{CN}^-$ and is diamagnetic; its $d$–$d$ transitions lie in the UV, so the solution is taken as colourless (this is the NCERT/NTA answer).
 
+### C-COO-17 — JEE Main 2024 · 1 Feb Shift 2 · Q47 · MCQ
+
+Statement I: Dimethylglyoxime forms a six-membered covalent chelate with $\text{NiCl}_2$ in the presence of $\text{NH}_4\text{OH}$.
+Statement II: The Prussian blue precipitate contains iron in both $+2$ and $+3$ oxidation states.
+
+(1) I false, II true  (2) Both true  (3) Both false  (4) I true, II false
+
+**Answer: (1)** · key ✔
+
+**Solution.** In the red $[\text{Ni(dmg)}_2]$ precipitate, each dmg forms a **five**-membered chelate ring with Ni (the six-membered rings are the O–H···O hydrogen bonds). So I is false. Prussian blue, $\text{Fe}_4[\text{Fe(CN)}_6]_3$, has $\text{Fe}^{3+}$ and $\text{Fe}^{2+}$: II is true.
+
+### C-COO-18 — JEE Main 2024 · 1 Feb Shift 2 · Q48 · MCQ
+
+$[\text{Co(NH}_3)_6]^{3+}$ and $[\text{CoF}_6]^{3-}$ are respectively known as:
+
+(1) Spin-free, spin-paired  (2) Spin-paired, spin-free  (3) Outer orbital, inner orbital  (4) Inner orbital, spin-paired
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{NH}_3$ is a strong-field ligand: $t_{2g}^6$, diamagnetic, $d^2sp^3$ (spin-paired/low spin, inner orbital). $\text{F}^-$ is weak-field: $t_{2g}^4e_g^2$, four unpaired electrons, $sp^3d^2$ (spin-free/high spin, outer orbital).
+

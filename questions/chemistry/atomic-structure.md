@@ -67,3 +67,13 @@ The four quantum numbers for the electron in the outermost orbital of potassium 
 
 **Solution.** K is $[\text{Ar}]4s^1$. The valence electron is in the $4s$ orbital: $n=4$, $l=0$, $m_l=0$, $s=\pm\tfrac12$.
 
+### C-ATS-08 — JEE Main 2024 · 1 Feb Shift 2 · Q31 · MCQ
+
+The number of radial nodes for the $3p$ orbital is:
+
+(1) 1  (2) 4  (3) 2  (4) 3
+
+**Answer: (1)** · key ✔
+
+**Solution.** Radial nodes $=n-l-1=3-1-1=1$.
+

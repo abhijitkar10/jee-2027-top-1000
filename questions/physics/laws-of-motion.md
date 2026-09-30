@@ -131,3 +131,13 @@ A ball of mass $0.5$ kg is attached to a string of length $50$ cm. The ball is r
 
 **Solution.** For a (nearly) horizontal circle of radius equal to the string length, $T=m\omega^2r$. $\omega_{\max}=\sqrt{\dfrac{T_{\max}}{mr}}=\sqrt{\dfrac{400}{0.5\times0.5}}=\sqrt{1600}=40$ rad/s.
 
+### P-LOM-14 — JEE Main 2024 · 1 Feb Shift 2 · Q3 · MCQ
+
+A cricket player catches a ball of mass $120$ g moving at $25\ \text{m s}^{-1}$. If the catch takes $0.1$ s, the magnitude of the force exerted by the ball on the hand is (SI):
+
+(1) 24  (2) 12  (3) 25  (4) 30
+
+**Answer: (4)** · key ✔
+
+**Solution.** $F=\dfrac{\Delta p}{\Delta t}=\dfrac{0.12\times25}{0.1}=30$ N.
+

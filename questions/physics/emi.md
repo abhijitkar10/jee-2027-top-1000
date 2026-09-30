@@ -70,3 +70,11 @@ A rectangular loop of sides $12$ cm and $5$ cm, with its sides parallel to the $
 
 **Solution.** Moving in $+x$, the loop enters weaker field (gradient towards $-x$): $\left|\dfrac{dB}{dt}\right|_{\text{motion}}=0.1\ \text{T/m}\times0.05\ \text{m/s}=5\times10^{-3}$ T/s, and the field also decreases at $10^{-3}$ T/s, giving a total rate $6\times10^{-3}$ T/s (both reduce the flux). Area $=0.12\times0.05=6\times10^{-3}\ \text{m}^2$. $\varepsilon=6\times10^{-3}\times6\times10^{-3}=3.6\times10^{-5}$ V and $P=\dfrac{\varepsilon^2}{R}=\dfrac{1.296\times10^{-9}}{6\times10^{-3}}=2.16\times10^{-7}$ W $=216\times10^{-9}$ W.
 
+### P-EMI-09 — JEE Main 2024 · 1 Feb Shift 2 · Q28 · Numerical
+
+A coil of $200$ turns and area $0.20\ \text{m}^2$ rotates at half a revolution per second in a uniform field of $0.01$ T perpendicular to the axis of rotation. The maximum voltage generated is $\dfrac{2\pi}{\beta}$ V; $\beta=$ ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** $\varepsilon_{max}=NAB\omega$ with $\omega=2\pi(0.5)=\pi$ rad/s: $200\times0.20\times0.01\times\pi=0.4\pi=\dfrac{2\pi}{5}$ V. $\beta=5$.
+

@@ -126,3 +126,14 @@ The number of molecules/ions having trigonal bipyramidal shape is ______: $\text
 
 **Solution.** Trigonal bipyramidal: $\text{PF}_5$, $\text{PCl}_5$, $\text{Fe(CO)}_5$ ($dsp^3$). $\text{BrF}_5$ is square pyramidal, $\text{PtCl}_4^{2-}$ square planar and $\text{BF}_3$ trigonal planar. Count $=3$.
 
+### C-BND-15 — JEE Main 2024 · 1 Feb Shift 2 · Q33 · MCQ
+
+Statement I: A $\pi$ bonding MO has lower electron density above and below the internuclear axis.
+Statement II: The $\pi^*$ antibonding MO has a node between the nuclei.
+
+(1) Both false  (2) Both true  (3) I false, II true  (4) I true, II false
+
+**Answer: (3)** · key ✔
+
+**Solution.** A $\pi$ bonding MO (sideways overlap of $p$ orbitals) has its electron density *above and below* the axis, with a nodal plane containing the axis; so I is false. The $\pi^*$ orbital additionally has a nodal plane perpendicular to the axis between the nuclei: II is true.
+

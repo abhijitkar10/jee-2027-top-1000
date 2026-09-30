@@ -76,3 +76,11 @@ A body of mass $m$ is projected with speed $u$ at an angle of $45^\circ$ with th
 
 **Solution.** At the highest point $v=u\cos45^\circ=\dfrac u{\sqrt2}$ (horizontal) and $h=\dfrac{u^2\sin^245^\circ}{2g}=\dfrac{u^2}{4g}$. $L=mvh=m\cdot\dfrac u{\sqrt2}\cdot\dfrac{u^2}{4g}=\dfrac{mu^3}{4\sqrt2g}=\dfrac{\sqrt2mu^3}{8g}$. So $X=8$.
 
+### P-ROT-10 — JEE Main 2024 · 1 Feb Shift 2 · Q22 · Numerical
+
+A uniform rod AB of mass $2$ kg and length $30$ cm lies at rest on a smooth horizontal surface. An impulse of $0.2$ N s is applied at end B (perpendicular to the rod). The time taken by the rod to turn through a right angle is $\dfrac\pi x$ s; $x=$ ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** Angular impulse about the centre: $J\cdot\dfrac L2=I\omega$ with $I=\dfrac{ML^2}{12}=\dfrac{2(0.09)}{12}=0.015$. $\omega=\dfrac{0.2\times0.15}{0.015}=2$ rad/s. Time for $\pi/2$: $t=\dfrac{\pi/2}{2}=\dfrac\pi4$ s, so $x=4$.
+

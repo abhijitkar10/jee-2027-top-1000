@@ -89,3 +89,11 @@ A regular polygon of $6$ sides is formed by bending a wire of length $4\pi$ m. I
 
 **Solution.** Side $a=\dfrac{4\pi}6=\dfrac{2\pi}3$ m; the distance from the centre to a side is $d=\dfrac{a\sqrt3}2=\dfrac\pi{\sqrt3}$. Each side gives $B_1=\dfrac{\mu_0I}{4\pi d}(2\sin30^\circ)=10^{-7}\dfrac Id$. Six sides: $B=6\times10^{-7}\times\dfrac{4\pi\sqrt3}{\pi/\sqrt3}=6\times10^{-7}\times12=72\times10^{-7}$ T.
 
+### P-MAG-11 — JEE Main 2024 · 1 Feb Shift 2 · Q27 · Numerical
+
+A moving-coil galvanometer has $100$ turns, each of area $2.0\ \text{cm}^2$, in a field of $0.01$ T. A current of $10$ mA gives a deflection of $0.05$ rad. The torsional constant is $x\times10^{-5}$ N m/rad; $x=$ ______.
+
+**Answer: 4** · key ✔
+
+**Solution.** $NIAB=k\phi\Rightarrow k=\dfrac{100\times10^{-2}\times2\times10^{-4}\times10^{-2}}{0.05}=\dfrac{2\times10^{-6}}{0.05}=4\times10^{-5}$ N m/rad.
+

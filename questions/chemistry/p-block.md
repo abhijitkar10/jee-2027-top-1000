@@ -141,3 +141,24 @@ Reason R: In the liquid state $\text{NH}_3$ molecules are associated through van
 
 **Solution.** $\text{NH}_3$ is strongly hydrogen-bonded (N is small and highly electronegative), which raises its boiling point above that of $\text{PH}_3$; so A is true. The reason has the two molecules swapped: $\text{NH}_3$ shows hydrogen bonding and $\text{PH}_3$ only weak van der Waals forces. R is false.
 
+### C-PBL-14 — JEE Main 2024 · 1 Feb Shift 2 · Q37 · MCQ
+
+Statement I: $\text{SiO}_2$ and $\text{GeO}_2$ are acidic while $\text{SnO}$ and $\text{PbO}$ are amphoteric.
+Statement II: Allotropic forms of carbon are due to the property of catenation and $p\pi$–$d\pi$ bond formation.
+
+(1) Both false  (2) Both true  (3) I true, II false  (4) I true, II true
+
+**Answer: (3)** · key ✔
+
+**Solution.** I is true: acidity/basicity trend in group 14 oxides. II is false: carbon's allotropy is due to catenation and $p\pi$–$p\pi$ multiple bonding; carbon has no $d$ orbitals.
+
+### C-PBL-15 — JEE Main 2024 · 1 Feb Shift 2 · Q43 · MCQ
+
+The strongest reducing agent among the following is:
+
+(1) $\text{NH}_3$  (2) $\text{SbH}_3$  (3) $\text{BiH}_3$  (4) $\text{PH}_3$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Down group 15 the $\text{E-H}$ bond weakens and hydrides become less stable, so the reducing power rises: $\text{NH}_3<\text{PH}_3<\text{AsH}_3<\text{SbH}_3<\text{BiH}_3$.
+

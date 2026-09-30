@@ -72,3 +72,13 @@ If $a=\sin^{-1}(\sin5)$ and $b=\cos^{-1}(\cos5)$, then $a^2+b^2$ is equal to
 
 **Solution.** $5$ rad lies in $\left(\tfrac{3\pi}2,2\pi\right)$. The principal value of $\sin^{-1}$ must lie in $\left[-\tfrac\pi2,\tfrac\pi2\right]$: $a=5-2\pi$. For $\cos^{-1}$ (range $[0,\pi]$): $b=2\pi-5$. So $a^2+b^2=2(2\pi-5)^2=8\pi^2-40\pi+50$.
 
+### M-TRG-08 — JEE Main 2024 · 1 Feb Shift 2 · Q65 · MCQ
+
+The number of solutions of $4\sin^2x-4\cos^3x+9-4\cos x=0$, $x\in[-2\pi,2\pi]$ is:
+
+(1) 1  (2) 3  (3) 2  (4) 0
+
+**Answer: (4)** · key ✔
+
+**Solution.** With $c=\cos x$: $4(1-c^2)-4c^3+9-4c=0\Rightarrow4c^3+4c^2+4c-13=0$. The cubic $g(c)=4c^3+4c^2+4c-13$ is increasing ($g'>0$) and $g(1)=-1<0$, so it has no root in $[-1,1]$. No solutions.
+

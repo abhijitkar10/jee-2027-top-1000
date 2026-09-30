@@ -74,3 +74,11 @@ The number of ways in which $21$ identical apples can be distributed among three
 
 **Solution.** Give each child $2$ apples first; $15$ remain to be distributed freely: solutions of $y_1+y_2+y_3=15$ in non-negative integers number ${}^{15+2}C_2={}^{17}C_2=136$.
 
+### M-PNC-09 — JEE Main 2024 · 1 Feb Shift 2 · Q81 · Numerical
+
+The lines $L_1,\dots,L_{20}$ are distinct. For $n=1,\dots,10$ all lines $L_{2n-1}$ are parallel to each other and all lines $L_{2n}$ pass through a given point $P$. The maximum number of points of intersection of pairs of lines from the set is ______.
+
+**Answer: 101** · key ✔
+
+**Solution.** Total pairs $\binom{20}{2}=190$. The $10$ parallel lines give no points: subtract $\binom{10}2=45$. The $10$ concurrent lines meet in one point instead of $45$: subtract $45$, add $1$. Total $=190-45-45+1=101$.
+

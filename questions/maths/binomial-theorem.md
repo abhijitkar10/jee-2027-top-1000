@@ -62,3 +62,13 @@ Let the coefficient of $x^r$ in the expansion of $(x+3)^{n-1}+(x+3)^{n-2}(x+2)+(
 
 **Solution.** $\sum\alpha_r$ is the sum of coefficients, i.e. the value at $x=1$: $4^{n-1}+4^{n-2}3+\dots+3^{n-1}$, a geometric series with ratio $\tfrac34$, equal to $\dfrac{4^n-3^n}{4-3}=4^n-3^n$. So $\beta=4,\ \gamma=3$ and $\beta^2+\gamma^2=25$.
 
+### M-BIN-08 — JEE Main 2024 · 1 Feb Shift 2 · Q64 · MCQ
+
+Let $m$ and $n$ be the coefficients of the seventh and thirteenth terms respectively in the expansion of $\left(\tfrac13x^{1/3}+\tfrac1{2x^{2/3}}\right)^{18}$. Then $\left(\dfrac nm\right)^{1/3}$ is:
+
+(1) $\dfrac49$  (2) $\dfrac19$  (3) $\dfrac14$  (4) $\dfrac94$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $m=T_7$ coefficient $=\binom{18}{6}\left(\tfrac13\right)^{12}\left(\tfrac12\right)^6$, $n=T_{13}$ coefficient $=\binom{18}{12}\left(\tfrac13\right)^{6}\left(\tfrac12\right)^{12}$. Since $\binom{18}{6}=\binom{18}{12}$: $\dfrac nm=3^6/2^6=\left(\tfrac32\right)^6$, so $\left(\tfrac nm\right)^{1/3}=\left(\tfrac32\right)^2=\dfrac94$.
+

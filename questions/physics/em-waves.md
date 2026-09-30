@@ -83,3 +83,13 @@ Statement II: When electromagnetic waves strike a surface, a pressure is exerted
 
 **Solution.** The energy densities are equal, $u_E=u_B=\tfrac12\varepsilon_0E^2=\dfrac{B^2}{2\mu_0}$, so I is true. Radiation carries momentum $p=U/c$ and exerts radiation pressure, so II is true.
 
+### P-EMW-09 — JEE Main 2024 · 1 Feb Shift 2 · Q16 · MCQ
+
+An electromagnetic wave of frequency $60$ MHz travels in air along the $z$ direction. The wavelength of the wave (in m) is:
+
+(1) 2.5  (2) 10  (3) 5  (4) 2
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\lambda=\dfrac{c}{f}=\dfrac{3\times10^8}{60\times10^6}=5$ m. ($\vec E$, $\vec B$ and the propagation direction are mutually perpendicular.)
+

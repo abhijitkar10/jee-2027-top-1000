@@ -82,3 +82,11 @@ The ratio of $^{14}\text{C}/^{12}\text{C}$ in a piece of wood is $\tfrac18$ that
 
 **Solution.** $\tfrac18=(\tfrac12)^3$, so three half-lives have elapsed: $3\times5730=17190$ years.
 
+### C-KIN-10 — JEE Main 2024 · 1 Feb Shift 2 · Q58 · Numerical
+
+First-order thermal decomposition of gas A at constant volume: $\text{A(g)}\to2\text{B(g)}+\text{C(g)}$. Total pressure is $0.1$ atm at $t=0$ and $0.28$ atm at $t=115$ s. The rate constant is ______ $\times10^{-2}\ \text{s}^{-1}$ (nearest integer).
+
+**Answer: 2** · key ✔
+
+**Solution.** Let $p$ of A decompose: total $=0.1-p+2p+p=0.1+2p=0.28\Rightarrow p=0.09$. $p_A=0.01$. $k=\dfrac1t\ln\dfrac{0.1}{0.01}=\dfrac{2.303}{115}=0.02\ \text{s}^{-1}=2\times10^{-2}$.
+

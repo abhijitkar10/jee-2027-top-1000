@@ -93,3 +93,13 @@ If $R$ is the radius of the earth and the acceleration due to gravity at the ear
 
 **Solution.** At $h=2R$ the distance from the centre is $3R$, so $g'=\dfrac g9=\dfrac{\pi^2}9$. A second's pendulum has $T=2$ s: $l=\dfrac{g'T^2}{4\pi^2}=\dfrac{(\pi^2/9)(4)}{4\pi^2}=\dfrac19$ m.
 
+### P-GRV-10 — JEE Main 2024 · 1 Feb Shift 2 · Q6 · MCQ
+
+A light planet revolves around a massive star in a circular orbit of radius $R$ with period $T$. If the force of attraction between planet and star is proportional to $R^{-3/2}$, then:
+
+(1) $T^2\propto R^{5/2}$  (2) $T^2\propto R^{7/2}$  (3) $T^2\propto R^{3/2}$  (4) $T^2\propto R^3$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\dfrac{mv^2}{R}\propto R^{-3/2}\Rightarrow v^2\propto R^{-1/2}$. $T=\dfrac{2\pi R}{v}\Rightarrow T^2\propto\dfrac{R^2}{v^2}\propto R^{5/2}$.
+

@@ -63,3 +63,13 @@ Reason R: KCN and AgCN both are highly ionic compounds.
 
 **Solution.** KCN is ionic, so the free $\text{CN}^-$ attacks through carbon (the better nucleophilic site, giving $\text{R-CN}$). AgCN is largely covalent, so the lone pair on N attacks, giving $\text{R-NC}$. R is therefore false.
 
+### C-HAL-07 — JEE Main 2024 · 1 Feb Shift 2 · Q49 · MCQ
+
+$\text{C}_2\text{H}_5\text{Br}\xrightarrow{\text{alc. KOH}}A\xrightarrow{\text{Br}_2/\text{CCl}_4}B\xrightarrow{\text{excess KCN}}C\xrightarrow{\text{H}_3\text{O}^+,\ \text{excess}}D$. The acid D is:
+
+(1) Gluconic acid  (2) Succinic acid  (3) Oxalic acid  (4) Malonic acid
+
+**Answer: (2)** · key ✔
+
+**Solution.** $A=\text{CH}_2{=}\text{CH}_2$; $B=\text{BrCH}_2\text{CH}_2\text{Br}$; $C=\text{NC-CH}_2\text{CH}_2\text{-CN}$; hydrolysis gives $\text{HOOC-CH}_2\text{CH}_2\text{-COOH}$, succinic acid.
+

@@ -93,3 +93,11 @@ If one strand of a DNA has the sequence ATGCTTCA, the sequence of bases in the c
 
 **Solution.** Base pairing is A–T and G–C, so ATGCTTCA pairs to TACGAAGT.
 
+### C-BIO-10 — JEE Main 2024 · 1 Feb Shift 2 · Q60 · Numerical
+
+The number of tripeptides formed by three different amino acids, each used once, is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** Different sequences of three distinct residues are different tripeptides: $3!=6$.
+

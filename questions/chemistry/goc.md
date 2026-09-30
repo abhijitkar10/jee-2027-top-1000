@@ -90,3 +90,23 @@ Ionic reactions with organic compounds proceed through:
 
 **Solution.** Ionic (polar) reactions involve carbocations/carbanions produced by heterolytic cleavage, where the bonding pair goes to one atom. Homolysis and free radicals belong to radical reactions.
 
+### C-GOC-10 — JEE Main 2024 · 1 Feb Shift 2 · Q39 · MCQ
+
+The set of meta-directing groups is:
+
+(1) $-\text{CN},-\text{NH}_2,-\text{NHR},-\text{OCH}_3$  (2) $-\text{NO}_2,-\text{NH}_2,-\text{COOH},-\text{COOR}$  (3) $-\text{NO}_2,-\text{CHO},-\text{SO}_3\text{H},-\text{COR}$  (4) $-\text{CN},-\text{CHO},-\text{NHCOCH}_3,-\text{COOR}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Meta directors are electron-withdrawing ($-M$/$-I$) groups: $-\text{NO}_2,-\text{CHO},-\text{SO}_3\text{H},-\text{COR}$. $-\text{NH}_2,-\text{NHR},-\text{OCH}_3,-\text{NHCOCH}_3$ are ortho/para directing.
+
+### C-GOC-11 — JEE Main 2024 · 1 Feb Shift 2 · Q40 · MCQ
+
+The functional group that shows a negative resonance effect ($-R$) is:
+
+(1) $-\text{NH}_2$  (2) $-\text{OH}$  (3) $-\text{COOH}$  (4) $-\text{OR}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $-\text{NH}_2$, $-\text{OH}$ and $-\text{OR}$ donate a lone pair into the ring ($+R$). $-\text{COOH}$ withdraws electrons by resonance ($-R$).
+

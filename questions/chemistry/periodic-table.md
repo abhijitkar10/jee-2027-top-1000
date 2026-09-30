@@ -111,3 +111,14 @@ The lowest oxidation number of an atom in a compound $\text{A}_2\text{B}$ is $-2
 
 **Solution.** In $\text{A}_2\text{B}$, B carries the negative oxidation state $-2$, so it needs $2$ electrons to complete an octet: it has $8-2=6$ valence electrons (group 16, e.g. $\text{Na}_2\text{O}$, $\text{H}_2\text{S}$).
 
+### C-PER-12 — JEE Main 2024 · 1 Feb Shift 2 · Q32 · MCQ
+
+Statement I: Both metals and non-metals exist in the p- and d-block elements.
+Statement II: Non-metals have higher ionisation enthalpy and higher electronegativity than metals.
+
+(1) Both false  (2) I false, II true  (3) I true, II false  (4) Both true
+
+**Answer: (2)** · key ✔
+
+**Solution.** The p-block has both metals and non-metals, but every d-block element is a metal, so I is false. II is generally true: small non-metal atoms hold their electrons more tightly.
+

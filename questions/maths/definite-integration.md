@@ -106,3 +106,23 @@ The value of $\displaystyle\int_0^{\pi/4}\frac{x\,dx}{\sin^4 2x+\cos^4 2x}$ equa
 
 **Solution.** Put $t=2x$: $I=\tfrac14\int_0^{\pi/2}\dfrac{t\,dt}{\sin^4t+\cos^4t}$. The denominator is symmetric under $t\to\tfrac\pi2-t$, so $\int_0^{\pi/2}tf=\tfrac\pi4\int_0^{\pi/2}f$. Using $\sin^4t+\cos^4t=1-\tfrac12\sin^22t$, $\int_0^{\pi/2}\dfrac{dt}{1-\frac12\sin^22t}=\dfrac{\pi}{\sqrt2}$. Hence $I=\tfrac14\cdot\tfrac\pi4\cdot\tfrac{\pi}{\sqrt2}=\dfrac{\pi^2}{16\sqrt2}=\dfrac{\sqrt2\pi^2}{32}$.
 
+### M-DEF-12 — JEE Main 2024 · 1 Feb Shift 2 · Q74 · MCQ
+
+The value of $\displaystyle\int_0^1\left(2x^3-3x^2-x+1\right)^{1/3}dx$ is:
+
+(1) 0  (2) 1  (3) 2  (4) $-1$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Let $g(x)=2x^3-3x^2-x+1$. Then $g(1-x)=-g(x)$, so $g^{1/3}(1-x)=-g^{1/3}(x)$. By the King property $I=\int_0^1g^{1/3}(1-x)dx=-I$, so $I=0$.
+
+### M-DEF-13 — JEE Main 2024 · 1 Feb Shift 2 · Q75 · MCQ
+
+If $\displaystyle\int_0^{\pi/3}\cos^4x\,dx=a\pi+b\sqrt3$ with $a,b$ rational, then $9a+8b$ is:
+
+(1) 2  (2) 1  (3) 3  (4) $\dfrac32$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\cos^4x=\dfrac{3+4\cos2x+\cos4x}{8}$. Integrating: $\left[\tfrac{3x}8+\tfrac{\sin2x}4+\tfrac{\sin4x}{32}\right]_0^{\pi/3}=\dfrac\pi8+\dfrac{\sqrt3}8-\dfrac{\sqrt3}{64}=\dfrac\pi8+\dfrac{7\sqrt3}{64}$. So $a=\tfrac18$, $b=\tfrac7{64}$ and $9a+8b=\tfrac98+\tfrac78=2$.
+

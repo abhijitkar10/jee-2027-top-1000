@@ -122,3 +122,34 @@ E. With increasing oxidation number of the transition metal, the ionic character
 
 **Solution.** A is false (chromate is tetrahedral). B is true ($2\text{CrO}_4^{2-}+2\text{H}^+\to\text{Cr}_2\text{O}_7^{2-}+\text{H}_2\text{O}$). C is false ($\text{MnO}_4^{2-}$ is $d^1$, paramagnetic). D is true ($3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$). E is true (higher oxidation state gives more covalent, more acidic oxides).
 
+### C-DFB-12 — JEE Main 2024 · 1 Feb Shift 2 · Q44 · MCQ
+
+The transition metal having the highest third ionisation enthalpy is:
+
+(1) Cr  (2) Mn  (3) V  (4) Fe
+
+**Answer: (2)** · key ✔
+
+**Solution.** Removing the third electron from $\text{Mn}^{2+}$ ($3d^5$, half-filled) breaks a particularly stable configuration. Mn therefore has the highest $IE_3$ among the 3d series.
+
+### C-DFB-13 — JEE Main 2024 · 1 Feb Shift 2 · Q45 · MCQ
+
+Which compound shows colour due to $d$–$d$ transition?
+
+(1) $\text{CuSO}_4\cdot5\text{H}_2\text{O}$  (2) $\text{K}_2\text{Cr}_2\text{O}_7$  (3) $\text{K}_2\text{CrO}_4$  (4) $\text{KMnO}_4$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\text{Cu}^{2+}$ ($d^9$) in $[\text{Cu(H}_2\text{O)}_4]^{2+}$ has a $d$–$d$ transition (blue). $\text{Cr}_2\text{O}_7^{2-}$, $\text{CrO}_4^{2-}$ and $\text{MnO}_4^-$ have no $d$ electrons and are coloured by ligand-to-metal charge transfer.
+
+### C-DFB-14 — JEE Main 2024 · 1 Feb Shift 2 · Q46 · MCQ
+
+Assertion A: In aqueous solution $\text{Cr}^{2+}$ is reducing while $\text{Mn}^{3+}$ is oxidising.
+Reason R: Extra stability is observed for the half-filled configuration compared with an incompletely filled one.
+
+(1) Both true, R is the correct explanation  (2) Both true, R is not the explanation  (3) A false, R true  (4) A true, R false
+
+**Answer: (1)** · key ✔
+
+**Solution.** Both $d^4$ ions move towards a stable configuration: $\text{Cr}^{2+}(d^4)\to\text{Cr}^{3+}(d^3,\ t_{2g}^3)$ by oxidation, and $\text{Mn}^{3+}(d^4)\to\text{Mn}^{2+}(d^5)$ by reduction. Half-filled stability is the reason ($E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V, $E^\circ_{\text{Mn}^{3+}/\text{Mn}^{2+}}=+1.57$ V).
+

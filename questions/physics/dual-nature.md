@@ -82,3 +82,13 @@ The de Broglie wavelengths of a proton and an $\alpha$-particle are $\lambda$ an
 
 **Solution.** $\lambda=\dfrac h{mv}\Rightarrow v\propto\dfrac1{m\lambda}$. $m_\alpha=4m_p$, so $\dfrac{v_p}{v_\alpha}=\dfrac{m_\alpha\lambda_\alpha}{m_p\lambda_p}=\dfrac{4\times2\lambda}{1\times\lambda}=8$.
 
+### P-DUL-09 — JEE Main 2024 · 1 Feb Shift 2 · Q18 · MCQ
+
+Monochromatic light of frequency $6\times10^{14}$ Hz is produced by a laser of power $2\times10^{-3}$ W. The number of photons emitted per second is ($h=6.63\times10^{-34}$ J s):
+
+(1) $9\times10^{18}$  (2) $6\times10^{15}$  (3) $5\times10^{15}$  (4) $7\times10^{16}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $N=\dfrac{P}{h\nu}=\dfrac{2\times10^{-3}}{6.63\times10^{-34}\times6\times10^{14}}\approx5\times10^{15}\ \text{s}^{-1}$.
+

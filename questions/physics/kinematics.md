@@ -102,3 +102,21 @@ A particle moves along the $x$-axis under a variable force with $x=-3t^3+18t^2+1
 
 **Solution.** $v=\dfrac{dx}{dt}=-9t^2+36t+16$ and $a=\dfrac{dv}{dt}=-18t+36=0\Rightarrow t=2$ s. Then $v=-36+72+16=52\ \text{m s}^{-1}$.
 
+### P-KIN-12 — JEE Main 2024 · 1 Feb Shift 2 · Q2 · MCQ
+
+Train A moves north at $72\ \text{km h}^{-1}$ and train B moves south at $108\ \text{km h}^{-1}$ on parallel tracks. The velocity of B with respect to A and the velocity of the ground with respect to B are (in $\text{m s}^{-1}$):
+
+(1) $-30$ and $50$  (2) $-50$ and $-30$  (3) $-50$ and $30$  (4) $50$ and $-30$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Take north as positive: $v_A=+20$, $v_B=-30$ m/s. $v_{BA}=v_B-v_A=-30-20=-50$. The ground is at rest, so $v_{GB}=0-(-30)=+30$.
+
+### P-KIN-13 — JEE Main 2024 · 1 Feb Shift 2 · Q21 · Numerical
+
+A particle starts from rest at $x=0$ with velocity $v=4\sqrt x\ \text{m s}^{-1}$. Its acceleration is ______ $\text{m s}^{-2}$.
+
+**Answer: 8** · key ✔
+
+**Solution.** $a=v\dfrac{dv}{dx}=4\sqrt x\cdot\dfrac{2}{\sqrt x}=8\ \text{m s}^{-2}$, a constant.
+

@@ -100,3 +100,13 @@ A bag contains 8 balls, each white or black. 4 balls are drawn at random without
 
 **Solution.** Take every composition $k=0,\dots,8$ of white balls as equally likely. $P(2W,2B\mid k)\propto\binom k2\binom{8-k}2$: $k=2:15$, $k=3:30$, $k=4:36$, $k=5:30$, $k=6:15$, total $126$. Bayes: $P(k=4)=36/126=2/7$.
 
+### M-PRB-11 — JEE Main 2024 · 1 Feb Shift 2 · Q80 · MCQ
+
+The probability that Ajay will not appear in the JEE exam is $p=\tfrac27$, and the probability that both Ajay and Vijay appear is $q=\tfrac15$. The probability that Ajay appears and Vijay does not is:
+
+(1) $\tfrac9{35}$  (2) $\tfrac{18}{35}$  (3) $\tfrac{24}{35}$  (4) $\tfrac3{35}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $P(\text{Ajay appears})=1-\tfrac27=\tfrac57$. $P(A\cap V^c)=P(A)-P(A\cap V)=\tfrac57-\tfrac15=\dfrac{18}{35}$.
+

@@ -64,3 +64,13 @@ If $z$ is a complex number, the number of common roots of the equations $z^{1985
 
 **Solution.** $z^3+2z^2+2z+1=(z+1)(z^2+z+1)$, so the roots are $-1,\omega,\omega^2$. For $z=-1$: $(-1)^{1985}+(-1)^{100}+1=-1+1+1=1\ne0$. For $z=\omega$: $1985\equiv2$ and $100\equiv1\pmod3$, so $\omega^2+\omega+1=0$ ✓. For $z=\omega^2$: $\omega^{3970}=\omega^{1}$ and $\omega^{200}=\omega^{2}$, so $\omega+\omega^2+1=0$ ✓. Two common roots.
 
+### M-CMP-08 — JEE Main 2024 · 1 Feb Shift 2 · Q62 · MCQ
+
+If $|z|\le1$, the minimum value of $\left|z+\tfrac12(3+4i)\right|$ is:
+
+(1) 2  (2) $\tfrac52$  (3) $\tfrac32$  (4) 3
+
+**Answer: (3)** · key ✔
+
+**Solution.** The distance from $z$ (in the unit disc) to the point $-\tfrac12(3+4i)$, which lies at distance $\tfrac52$ from the origin, has minimum $\tfrac52-1=\tfrac32$.
+

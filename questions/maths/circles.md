@@ -76,3 +76,13 @@ Let $C:x^2+y^2=4$ and $C':x^2+y^2-4\lambda x+9=0$ be two circles. If the set of 
 
 **Solution.** $C'$ has centre $(2\lambda,0)$ and radius $r=\sqrt{4\lambda^2-9}$ (needs $|\lambda|>3/2$). Two-point intersection needs $|r-2|<d<r+2$ with $d=2|\lambda|$. The condition $d<r+2$ gives $(2|\lambda|-2)^2<4\lambda^2-9\Rightarrow 8|\lambda|>13$, i.e. $|\lambda|>13/8$; the other inequality then holds automatically. So the set is $\mathbb R-[-\tfrac{13}{8},\tfrac{13}{8}]$, $a=-\tfrac{13}8$, $b=\tfrac{13}8$. The point is $(-1,\,6)$, and $6(1)+36=42$ lies on option (4).
 
+### M-CIR-09 — JEE Main 2024 · 1 Feb Shift 2 · Q66 · MCQ
+
+Let the locus of the mid-points of the chords of the circle $x^2+(y-1)^2=1$ drawn from the origin intersect the line $x+y=1$ at $P$ and $Q$. Then $PQ$ is:
+
+(1) $\dfrac1{\sqrt2}$  (2) $\sqrt2$  (3) $\dfrac12$  (4) $1$
+
+**Answer: (1)** · key ✔
+
+**Solution.** The origin lies on the circle. The midpoint $M$ of a chord $OA$ satisfies $\angle OMC=90^\circ$ where $C=(0,1)$, so $M$ lies on the circle with diameter $OC$: $x^2+y^2-y=0$. With $y=1-x$: $2x^2-x=0$, $x=0,\tfrac12$. Points $(0,1)$ and $\left(\tfrac12,\tfrac12\right)$, distance $\sqrt{\tfrac14+\tfrac14}=\dfrac1{\sqrt2}$.
+

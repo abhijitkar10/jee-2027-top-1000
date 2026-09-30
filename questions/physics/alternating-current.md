@@ -98,3 +98,13 @@ In a series LCR circuit the capacitance is changed from $C$ to $4C$. To keep the
 
 **Solution.** Resonance frequency $f=\dfrac1{2\pi\sqrt{LC}}$ is fixed, so $LC$ is constant: $L'(4C)=LC\Rightarrow L'=\tfrac L4$. This is a reduction by $L-\tfrac L4=\tfrac34L$.
 
+### P-ACC-11 — JEE Main 2024 · 1 Feb Shift 2 · Q15 · MCQ
+
+A transformer has an efficiency of $80\%$ and works at $10\ \text{kV}$ and $4$ kW. If the secondary voltage is $240$ V, the current in the secondary coil is:
+
+(1) 1.59 A  (2) 13.33 A  (3) 1.33 A  (4) 15.1 A
+
+**Answer: (2)** · key ✔
+
+**Solution.** Input power $4$ kW; output $=0.8\times4000=3200$ W. $I_s=\dfrac{3200}{240}=13.33$ A.
+

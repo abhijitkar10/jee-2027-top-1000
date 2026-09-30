@@ -78,3 +78,21 @@ A monochromatic light of wavelength $6000$ Å is incident on a single slit of wi
 
 **Solution.** The central maximum extends between the first minima on both sides: width $=\dfrac{2\lambda f}a=\dfrac{2\times6\times10^{-7}\times0.2}{10^{-5}}=2.4\times10^{-2}$ m $=24$ mm.
 
+### P-WOP-09 — JEE Main 2024 · 1 Feb Shift 2 · Q17 · MCQ
+
+A microwave of wavelength $2.0$ cm falls normally on a slit of width $4.0$ cm. The angular spread of the central maximum of the diffraction pattern on a screen $1.5$ m away is:
+
+(1) $30^\circ$  (2) $15^\circ$  (3) $60^\circ$  (4) $45^\circ$
+
+**Answer: (3)** · key ✔
+
+**Solution.** First minimum: $a\sin\theta=\lambda\Rightarrow\sin\theta=\tfrac{2}{4}=\tfrac12$, $\theta=30^\circ$. The angular spread is on both sides: $2\theta=60^\circ$.
+
+### P-WOP-10 — JEE Main 2024 · 1 Feb Shift 2 · Q29 · Numerical
+
+In Young's double slit experiment, light of wavelength $5000\ \text{Å}$ is used, slit separation $1.0$ mm and screen distance $1.0$ m. The distance from the centre where intensity first becomes half of the maximum is ______ $\times10^{-6}$ m.
+
+**Answer: 125** · key ✔
+
+**Solution.** $I=I_0\cos^2(\phi/2)=I_0/2\Rightarrow\phi=\pi/2$, i.e. path difference $\lambda/4$. $y=\dfrac{D}{d}\cdot\dfrac\lambda4=\dfrac{1\times5\times10^{-7}}{10^{-3}\times4}=1.25\times10^{-4}$ m $=125\times10^{-6}$ m.
+

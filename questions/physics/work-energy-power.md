@@ -52,3 +52,13 @@ A body of mass $2$ kg begins to move under the action of a time-dependent force 
 
 **Solution.** $\vec a=\dfrac{\vec F}m=(3t\,\hat i+3t^2\hat j)$, and from rest $\vec v=\left(\tfrac32t^2\hat i+t^3\hat j\right)$. $P=\vec F\cdot\vec v=6t\cdot\tfrac32t^2+6t^2\cdot t^3=9t^3+6t^5$ W.
 
+### P-WEP-06 — JEE Main 2024 · 1 Feb Shift 2 · Q5 · MCQ
+
+A disc of radius $R$ and mass $M$ rolls horizontally without slipping at speed $v$ and then moves up a **smooth** inclined surface. The maximum height it reaches is:
+
+(1) $\dfrac{v^2}{g}$  (2) $\dfrac34\dfrac{v^2}{g}$  (3) $\dfrac12\dfrac{v^2}{g}$  (4) $\dfrac23\dfrac{v^2}{g}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** On a smooth incline there is no friction, so no torque acts and the disc's angular velocity stays constant; its rotational KE ($\tfrac14Mv^2$) is not converted. Only translational KE: $\tfrac12Mv^2=Mgh\Rightarrow h=\dfrac{v^2}{2g}$. (On a rough incline the answer would be $3v^2/4g$.)
+

@@ -167,3 +167,11 @@ The radius of a nucleus of mass number $64$ is $4.8$ fermi. The mass number of a
 
 **Solution.** $R\propto A^{1/3}$: $A'=64\left(\dfrac4{4.8}\right)^3=64\times\dfrac{125}{216}=\dfrac{1000}{27}$. So $x=27$.
 
+### P-ATN-19 — JEE Main 2024 · 1 Feb Shift 2 · Q30 · Numerical
+
+A hydrogen-like ion emits radiation of frequency $3\times10^{15}$ Hz for the transition $n=2\to n=1$. The frequency for $n=3\to n=1$ is $\dfrac x9\times10^{15}$ Hz; $x=$ ______.
+
+**Answer: 32** · key ✔
+
+**Solution.** $\nu\propto\left(1-\tfrac1{n^2}\right)$. $\nu_{31}/\nu_{21}=\dfrac{8/9}{3/4}=\dfrac{32}{27}$, so $\nu_{31}=3\times10^{15}\times\dfrac{32}{27}=\dfrac{32}{9}\times10^{15}$ Hz. $x=32$.
+

@@ -128,3 +128,21 @@ A plane is in level flight at constant speed and each of its two wings has an ar
 
 **Solution.** $v_{lower}=50$ m/s and $v_{upper}=70$ m/s. Pressure difference $\Delta P=\tfrac12\rho(v_u^2-v_l^2)=\tfrac12(4900-2500)=1200$ Pa. Total wing area $=80\ \text{m}^2$, so lift $=1200\times80=96000$ N $=mg\Rightarrow m=9600$ kg.
 
+### P-POM-15 — JEE Main 2024 · 1 Feb Shift 2 · Q7 · MCQ
+
+A big drop is formed by coalescing $1000$ small droplets of water. The surface energy will become:
+
+(1) 100 times  (2) 10 times  (3) $\tfrac1{100}$th  (4) $\tfrac1{10}$th
+
+**Answer: (4)** · key ✔
+
+**Solution.** Volume conservation: $R^3=1000r^3\Rightarrow R=10r$. Surface energy $\propto$ area: initial $1000\cdot4\pi r^2$, final $4\pi(10r)^2=100\cdot4\pi r^2$. Ratio $=\tfrac1{10}$ (the difference is released as heat).
+
+### P-POM-16 — JEE Main 2024 · 1 Feb Shift 2 · Q23 · Numerical
+
+One end of a metal wire is fixed to a ceiling and a $2$ kg load hangs from the other end. A similar wire is attached to the bottom of this load and carries a $1$ kg load. The ratio of longitudinal strain of the upper wire to that of the lower wire is ______. ($A=0.005\ \text{cm}^2$, $Y=2\times10^{11}\ \text{N m}^{-2}$, $g=10$)
+
+**Answer: 3** · key ✔
+
+**Solution.** Upper wire tension $=(2+1)g=30$ N; lower wire $=1\cdot g=10$ N. Strain $=\dfrac{F}{AY}$, same $A,Y$, so the ratio is $30/10=3$.
+

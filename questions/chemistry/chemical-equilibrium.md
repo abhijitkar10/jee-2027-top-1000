@@ -46,3 +46,11 @@ For the equilibrium $\text{A}(g)\rightleftharpoons\text{B}(g)+\tfrac12\text{C}(g
 
 **Solution.** Starting from $1$ mol A: A $=1-\alpha$, B $=\alpha$, C $=\tfrac\alpha2$, total $=1+\tfrac\alpha2=\tfrac{2+\alpha}2$. Mole fractions: $x_A=\dfrac{2(1-\alpha)}{2+\alpha}$, $x_B=\dfrac{2\alpha}{2+\alpha}$, $x_C=\dfrac\alpha{2+\alpha}$. $K_P=\dfrac{x_Bx_C^{1/2}P^{3/2}}{x_AP}=\dfrac{2\alpha}{2+\alpha}\left(\dfrac\alpha{2+\alpha}\right)^{1/2}\dfrac{(2+\alpha)}{2(1-\alpha)}P^{1/2}=\dfrac{\alpha^{3/2}P^{1/2}}{(2+\alpha)^{1/2}(1-\alpha)}$.
 
+### C-CEQ-06 — JEE Main 2024 · 1 Feb Shift 2 · Q52 · Numerical
+
+For a certain reaction at $300$ K, $K=10$. Then $\Delta G^\circ=-$ ______ $\times10^{-1}$ kJ mol$^{-1}$. ($R=8.314$ J K$^{-1}$ mol$^{-1}$)
+
+**Answer: 57** · key ✔
+
+**Solution.** $\Delta G^\circ=-2.303RT\log K=-2.303\times8.314\times300\times1=-5744$ J $=-5.74$ kJ $=-57\times10^{-1}$ kJ mol$^{-1}$.
+

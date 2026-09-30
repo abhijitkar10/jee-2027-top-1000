@@ -60,3 +60,19 @@ For $3\text{PbCl}_2+2(\text{NH}_4)_3\text{PO}_4\to \text{Pb}_3(\text{PO}_4)_2+6\
 
 **Solution.** From $\text{PbCl}_2$: $72/3=24$ mmol of product. From phosphate: $50/2=25$ mmol. The smaller value fixes the limiting reagent ($\text{PbCl}_2$): $24$ mmol.
 
+### C-MOL-08 — JEE Main 2024 · 1 Feb Shift 2 · Q51 · Numerical
+
+$10$ mL of a gaseous hydrocarbon on combustion gives $40$ mL $\text{CO}_2(g)$ and $50$ mL water vapour. The total number of carbon and hydrogen atoms in the hydrocarbon is ______.
+
+**Answer: 14** · key ✔
+
+**Solution.** By Avogadro's law, volumes are in mole ratio: $\text{C}_x\text{H}_y$ : $\text{CO}_2$ : $\text{H}_2\text{O}=1:4:5$. So $x=4$, $y=10$ ($\text{C}_4\text{H}_{10}$). Total atoms $=14$.
+
+### C-MOL-09 — JEE Main 2024 · 1 Feb Shift 2 · Q53 · Numerical
+
+In Kjeldahl's method, $1$ g of an organic compound released ammonia that neutralised $10$ mL of $2\ \text{M}\ \text{H}_2\text{SO}_4$. The percentage of nitrogen is ______ %.
+
+**Answer: 56** · key ✔
+
+**Solution.** $10$ mL $\times2$ M $=20$ mmol $\text{H}_2\text{SO}_4$, which neutralises $40$ mmol $\text{NH}_3$ ($2\text{NH}_3+\text{H}_2\text{SO}_4$). $40$ mmol N $=0.56$ g, so $56\%$.
+

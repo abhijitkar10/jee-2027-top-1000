@@ -115,3 +115,11 @@ Two identical charged spheres are suspended by strings of equal lengths. The str
 
 **Solution.** In water the Coulomb force is divided by $K$ and the effective weight becomes $mg\left(1-\dfrac{\rho_w}{\rho_s}\right)$. For the same angle: $\dfrac F{mg}=\dfrac{F/K}{mg(1-1/1.5)}\Rightarrow K=\dfrac1{1-2/3}=3$.
 
+### P-ELS-13 — JEE Main 2024 · 1 Feb Shift 2 · Q25 · Numerical
+
+A uniformly charged wall gives a uniform electric field of $2\times10^4\ \text{N C}^{-1}$ normal to it. A charged particle of mass $2$ g hangs from the wall on a silk thread of length $20$ cm and stays $10$ cm from the wall. The charge is $\dfrac1{\sqrt x}\ \mu\text{C}$, with $x=$ ______. ($g=10$)
+
+**Answer: 3** · key ✔
+
+**Solution.** $\sin\theta=\dfrac{10}{20}=\tfrac12\Rightarrow\theta=30^\circ$. Equilibrium: $qE=mg\tan\theta$, so $q=\dfrac{2\times10^{-3}\times10\times\frac1{\sqrt3}}{2\times10^4}=\dfrac{1}{\sqrt3}\times10^{-6}$ C. $x=3$.
+

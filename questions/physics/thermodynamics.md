@@ -72,3 +72,13 @@ Choose the correct option for the free expansion of an ideal gas under adiabatic
 
 **Solution.** Adiabatic: $q=0$. Free expansion against zero external pressure: $w=0$. First law: $\Delta U=0$, and for an ideal gas $U$ depends only on $T$, so $\Delta T=0$.
 
+### P-THD-08 — JEE Main 2024 · 1 Feb Shift 2 · Q8 · MCQ
+
+A diatomic gas ($\gamma=1.4$) does $200$ J of work when expanded isobarically. The heat given to the gas is:
+
+(1) 850 J  (2) 800 J  (3) 600 J  (4) 700 J
+
+**Answer: (4)** · key ✔
+
+**Solution.** Isobaric: $W=nR\Delta T$, $Q=nC_p\Delta T=\dfrac{\gamma}{\gamma-1}W=\dfrac{1.4}{0.4}\times200=700$ J.
+

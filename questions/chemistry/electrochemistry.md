@@ -172,3 +172,19 @@ The potential for the half cell $2\text{H}^+_{(aq)}+2e^-\to \text{H}_2(g)$ at 29
 
 **Solution.** Nernst: $E=E^\circ-\dfrac{0.06}{2}\log\dfrac{p_{\text{H}_2}}{[\text{H}^+]^2}=0-0.03\log2=-0.03\times0.3=-0.009$ V $=-0.9\times10^{-2}$ V, i.e. $\approx -1\times10^{-2}$ V.
 
+### C-ELC-19 — JEE Main 2024 · 1 Feb Shift 2 · Q56 · Numerical
+
+The amount of electricity, in coulomb, required for the oxidation of $1$ mol of $\text{H}_2\text{O}$ to $\text{O}_2$ is ______ $\times10^5$ C.
+
+**Answer: 2** · key ✔
+
+**Solution.** $\text{H}_2\text{O}\to\tfrac12\text{O}_2+2\text{H}^++2e^-$: $2$ mol of electrons $=2\times96500\approx1.93\times10^5\approx2\times10^5$ C.
+
+### C-ELC-20 — JEE Main 2024 · 1 Feb Shift 2 · Q57 · Numerical
+
+For $\text{MnO}_4^-+\text{H}^++\text{H}_2\text{C}_2\text{O}_4\rightleftharpoons\text{Mn}^{2+}+\text{H}_2\text{O}+\text{CO}_2$ (balanced), $E^\circ_{\text{MnO}_4^-/\text{Mn}^{2+}}=+1.51$ V and $E^\circ_{\text{CO}_2/\text{H}_2\text{C}_2\text{O}_4}=-0.49$ V. If $K_{eq}=10^x$, then $x=$ ______ (nearest integer).
+
+**Answer: 338** · key ✔
+
+**Solution.** $E^\circ_{cell}=1.51-(-0.49)=2.00$ V. Balanced: $2\text{MnO}_4^-+6\text{H}^++5\text{H}_2\text{C}_2\text{O}_4\to2\text{Mn}^{2+}+8\text{H}_2\text{O}+10\text{CO}_2$, $n=10$. $\log K=\dfrac{nE^\circ}{0.0591}=\dfrac{10\times2}{0.0591}=338.4\approx338$ (using $0.0591$ V at 298 K).
+

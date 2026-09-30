@@ -50,3 +50,11 @@ The number of optical isomers possible for 2-chlorobutane is ______.
 
 **Solution.** $\text{CH}_3\text{-C}^*\text{HCl-CH}_2\text{CH}_3$ has one stereocentre, so $2^1=2$ optical isomers (one enantiomeric pair).
 
+### C-ISO-06 — JEE Main 2024 · 1 Feb Shift 2 · Q54 · Numerical
+
+The total number of isomeric compounds (including stereoisomers) formed by monochlorination of 2-methylbutane is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** $(\text{CH}_3)_2\text{CH-CH}_2\text{CH}_3$ has four types of H: (i) $\text{ClCH}_2\text{CH(CH}_3)\text{CH}_2\text{CH}_3$ – chiral, $2$; (ii) $(\text{CH}_3)_2\text{CCl-CH}_2\text{CH}_3$ – $1$; (iii) $(\text{CH}_3)_2\text{CH-CHClCH}_3$ – chiral, $2$; (iv) $(\text{CH}_3)_2\text{CH-CH}_2\text{CH}_2\text{Cl}$ – $1$. Total $=6$.
+

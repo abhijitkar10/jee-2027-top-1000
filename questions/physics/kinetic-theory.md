@@ -72,3 +72,13 @@ Two moles of a monoatomic gas are mixed with six moles of a diatomic gas. The mo
 
 **Solution.** $C_v=\dfrac{n_1C_{v1}+n_2C_{v2}}{n_1+n_2}=\dfrac{2\left(\tfrac32R\right)+6\left(\tfrac52R\right)}{8}=\dfrac{3R+15R}8=\dfrac94R$.
 
+### P-KTG-08 — JEE Main 2024 · 1 Feb Shift 2 · Q9 · MCQ
+
+If the r.m.s. velocity of hydrogen molecules at a given temperature and pressure is $2\ \text{km s}^{-1}$, the r.m.s. velocity of oxygen at the same conditions is (in $\text{km s}^{-1}$):
+
+(1) 2.0  (2) 0.5  (3) 1.5  (4) 1.0
+
+**Answer: (2)** · key ✔
+
+**Solution.** $v_{rms}=\sqrt{3RT/M}\propto M^{-1/2}$. $M_{\text{O}_2}/M_{\text{H}_2}=16\Rightarrow v_{\text{O}_2}=2/4=0.5$ km/s.
+

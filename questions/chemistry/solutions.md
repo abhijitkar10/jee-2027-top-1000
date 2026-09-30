@@ -76,3 +76,11 @@ Three aqueous solutions of NaCl, A, B and C, have concentrations $0.1$ M, $0.01$
 
 **Solution.** Dissociation of an electrolyte increases on dilution (less ion–ion attraction), and $i\to 2$ for NaCl at infinite dilution. So the more dilute the solution, the larger $i$: $i_A<i_B<i_C$.
 
+### C-SOL-09 — JEE Main 2024 · 1 Feb Shift 2 · Q55 · Numerical
+
+The mass of ethylene glycol (antifreeze) to be added to $18.6$ kg of water to protect the freezing point at $-24^\circ$C is ______ kg. (Molar mass $62$ g mol$^{-1}$; $K_f=1.86$ K kg mol$^{-1}$)
+
+**Answer: 15** · key ✔
+
+**Solution.** $\Delta T_f=K_fm\Rightarrow m=\dfrac{24}{1.86}=12.9$ mol kg$^{-1}$. Moles $=12.9\times18.6=240$ mol; mass $=240\times62=14880$ g $\approx15$ kg.
+

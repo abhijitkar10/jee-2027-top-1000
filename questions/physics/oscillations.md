@@ -42,3 +42,11 @@ A particle performs simple harmonic motion with amplitude $A$. Its speed is incr
 
 **Solution.** Before: $v^2=\omega^2\left(A^2-\dfrac{4A^2}9\right)=\dfrac{5}{9}\omega^2A^2$. After: $9v^2=5\omega^2A^2=\omega^2\left(A'^2-\dfrac{4A^2}9\right)$ (same displacement, $\omega$ unchanged). $A'^2=5A^2+\dfrac{4A^2}9=\dfrac{49A^2}9\Rightarrow A'=\dfrac{7A}3$, so $n=7$.
 
+### P-SHM-06 — JEE Main 2024 · 1 Feb Shift 2 · Q24 · Numerical
+
+A mass $m$ suspended from a spring oscillates at frequency $f_1$; with mass $9m$ on the same spring the frequency is $f_2$. The value of $f_1/f_2$ is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** $f=\dfrac1{2\pi}\sqrt{k/m}\propto m^{-1/2}\Rightarrow\dfrac{f_1}{f_2}=\sqrt{\dfrac{9m}{m}}=3$.
+
