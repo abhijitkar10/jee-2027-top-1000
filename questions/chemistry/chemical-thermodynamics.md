@@ -62,3 +62,11 @@ Choose the correct option for free expansion of an ideal gas under adiabatic con
 
 **Solution.** Adiabatic: $q=0$. Free expansion is against zero external pressure: $w=-p_{ext}\Delta V=0$. Then $\Delta U=q+w=0$, and for an ideal gas $U$ depends only on $T$, so $\Delta T=0$.
 
+### C-CTH-08 — JEE Main 2024 · 4 Apr Shift 1 · Q53 · Numerical
+
+For $\text{C}_2\text{H}_4+\text{H}_2\to\text{C}_2\text{H}_6$, the bond energies of C–H, C–C, C=C and H–H are $414$, $347$, $615$ and $435$ kJ mol$^{-1}$. The magnitude of the enthalpy change is ______ kJ.
+
+**Answer: 125** · key ✔
+
+**Solution.** Bonds broken: $\text{C=C}$ ($615$) + $\text{H-H}$ ($435$) $=1050$. Bonds formed: $\text{C-C}$ ($347$) + $2\,\text{C-H}$ ($828$) $=1175$. $\Delta H=1050-1175=-125$ kJ mol$^{-1}$; the value asked is $125$ kJ (exothermic).
+

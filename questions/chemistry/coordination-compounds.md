@@ -187,3 +187,23 @@ $[\text{Co(NH}_3)_6]^{3+}$ and $[\text{CoF}_6]^{3-}$ are respectively known as:
 
 **Solution.** $\text{NH}_3$ is a strong-field ligand: $t_{2g}^6$, diamagnetic, $d^2sp^3$ (spin-paired/low spin, inner orbital). $\text{F}^-$ is weak-field: $t_{2g}^4e_g^2$, four unpaired electrons, $sp^3d^2$ (spin-free/high spin, outer orbital).
 
+### C-COO-19 — JEE Main 2024 · 4 Apr Shift 1 · Q44 · MCQ
+
+The number of complexes with an even number of unpaired $d$ electrons among $[\text{V(H}_2\text{O)}_6]^{3+}$, $[\text{Cr(H}_2\text{O)}_6]^{2+}$, $[\text{Fe(H}_2\text{O)}_6]^{3+}$, $[\text{Ni(H}_2\text{O)}_6]^{3+}$, $[\text{Cu(H}_2\text{O)}_6]^{2+}$ is:
+
+(1) 2  (2) 1  (3) 4  (4) 5
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\text{H}_2\text{O}$ is weak-field, so high-spin. $\text{V}^{3+}$ ($d^2$): $2$ unpaired (even). $\text{Cr}^{2+}$ ($d^4$): $4$ (even). $\text{Fe}^{3+}$ ($d^5$): $5$. $\text{Ni}^{3+}$ ($d^7$): $3$. $\text{Cu}^{2+}$ ($d^9$): $1$. Count $=2$.
+
+### C-COO-20 — JEE Main 2024 · 4 Apr Shift 1 · Q45 · MCQ
+
+The correct order of ligands in decreasing field strength is:
+
+(1) $\text{NCS}^->\text{EDTA}^{4-}>\text{CN}^->\text{CO}$  (2) $\text{CO}>\text{H}_2\text{O}>\text{F}^->\text{S}^{2-}$  (3) $\text{S}^{2-}>\text{OH}^->\text{EDTA}^{4-}>\text{CO}$  (4) $\text{OH}^->\text{F}^->\text{NH}_3>\text{CN}^-$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Spectrochemical series (weak to strong): $\text{I}^-<\text{Br}^-<\text{S}^{2-}<\text{SCN}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NCS}^-<\text{EDTA}^{4-}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) reads strong to weak.
+

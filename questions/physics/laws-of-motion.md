@@ -141,3 +141,11 @@ A cricket player catches a ball of mass $120$ g moving at $25\ \text{m s}^{-1}$.
 
 **Solution.** $F=\dfrac{\Delta p}{\Delta t}=\dfrac{0.12\times25}{0.1}=30$ N.
 
+### P-LOM-15 — JEE Main 2024 · 4 Apr Shift 1 · Q21 · Numerical
+
+Two forces $\vec F_1$ and $\vec F_2$ act on a body. One has magnitude thrice the other and the resultant equals the larger force. The angle between them is $\cos^{-1}(1/n)$. The value of $|n|$ is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** Let $F_2=F$, $F_1=3F$. The resultant $R=3F$: $9F^2=9F^2+F^2+6F^2\cos\theta\Rightarrow\cos\theta=-\tfrac16$. So $n=-6$ and $|n|=6$.
+

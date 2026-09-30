@@ -96,3 +96,11 @@ In Young's double slit experiment, light of wavelength $5000\ \text{Å}$ is used
 
 **Solution.** $I=I_0\cos^2(\phi/2)=I_0/2\Rightarrow\phi=\pi/2$, i.e. path difference $\lambda/4$. $y=\dfrac{D}{d}\cdot\dfrac\lambda4=\dfrac{1\times5\times10^{-7}}{10^{-3}\times4}=1.25\times10^{-4}$ m $=125\times10^{-6}$ m.
 
+### P-WOP-11 — JEE Main 2024 · 4 Apr Shift 1 · Q29 · Numerical
+
+Wavelengths $\lambda_1=450$ nm and $\lambda_2=650$ nm are used in Young's double-slit experiment. The minimum order of the fringe of $\lambda_2$ that overlaps with a fringe of $\lambda_1$ is $n$. The value of $n$ is ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** Bright fringes coincide when $n\lambda_2=m\lambda_1$: $650n=450m\Rightarrow13n=9m$. The smallest integers are $n=9$, $m=13$.
+

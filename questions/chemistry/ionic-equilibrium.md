@@ -58,3 +58,13 @@ The solubility of calcium phosphate (molar mass $M$) in water is $W$ g per $100$
 
 **Solution.** $s=\dfrac{W}{M}\times10\ \text{mol L}^{-1}$. For $\text{Ca}_3(\text{PO}_4)_2$: $K_{sp}=(3s)^3(2s)^2=108s^5=108\times10^5\dfrac{W^5}{M^5}\approx10^7\dfrac{W^5}{M^5}$.
 
+### C-ION-07 — JEE Main 2024 · 4 Apr Shift 1 · Q42 · MCQ
+
+The decreasing order of basic strength of the conjugate bases $\text{OH}^-$, $\text{RO}^-$, $\text{CH}_3\text{COO}^-$, $\text{Cl}^-$ is:
+
+(1) $\text{RO}^->\text{OH}^->\text{CH}_3\text{COO}^->\text{Cl}^-$  (2) $\text{Cl}^->\text{RO}^->\text{OH}^->\text{CH}_3\text{COO}^-$  (3) $\text{OH}^->\text{RO}^->\text{CH}_3\text{COO}^->\text{Cl}^-$  (4) $\text{Cl}^->\text{OH}^->\text{RO}^->\text{CH}_3\text{COO}^-$
+
+**Answer: (1)** · key ✔
+
+**Solution.** A stronger acid has a weaker conjugate base. Acid strength: $\text{HCl}>\text{CH}_3\text{COOH}>\text{H}_2\text{O}>\text{ROH}$, so base strength is $\text{RO}^->\text{OH}^->\text{CH}_3\text{COO}^->\text{Cl}^-$ (the alkyl group's $+I$ effect makes $\text{RO}^-$ the strongest).
+

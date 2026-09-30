@@ -68,3 +68,13 @@ Let $\alpha,\beta$ be the roots of $px^2+qx-r=0$, $p\ne0$. If $p,q,r$ are consec
 
 **Solution.** Let the G.P. ratio be $k$: $q=pk$, $r=pk^2$. $\dfrac1\alpha+\dfrac1\beta=\dfrac{\alpha+\beta}{\alpha\beta}=\dfrac{-q/p}{-r/p}=\dfrac qr=\dfrac1k=\dfrac34\Rightarrow k=\dfrac43$. Then $(\alpha-\beta)^2=(\alpha+\beta)^2-4\alpha\beta=k^2+4k^2=5k^2=\dfrac{80}{9}$.
 
+### M-QDR-08 — JEE Main 2024 · 4 Apr Shift 1 · Q61 · MCQ
+
+If $2$ and $6$ are the roots of $ax^2+bx+1=0$, then the quadratic equation whose roots are $\dfrac1{2a+b}$ and $\dfrac1{6a+b}$ is:
+
+(1) $2x^2+11x+12=0$  (2) $x^2+8x+12=0$  (3) $4x^2+14x+12=0$  (4) $x^2+10x+16=0$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Sum of roots $8=-b/a$ and product $12=1/a$, so $a=\tfrac1{12}$, $b=-\tfrac23$. Then $2a+b=-\tfrac12$ and $6a+b=-\tfrac16$, giving roots $-2$ and $-6$: $x^2+8x+12=0$.
+

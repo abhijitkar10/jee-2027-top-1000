@@ -84,3 +84,11 @@ A uniform rod AB of mass $2$ kg and length $30$ cm lies at rest on a smooth hori
 
 **Solution.** Angular impulse about the centre: $J\cdot\dfrac L2=I\omega$ with $I=\dfrac{ML^2}{12}=\dfrac{2(0.09)}{12}=0.015$. $\omega=\dfrac{0.2\times0.15}{0.015}=2$ rad/s. Time for $\pi/2$: $t=\dfrac{\pi/2}{2}=\dfrac\pi4$ s, so $x=4$.
 
+### P-ROT-11 — JEE Main 2024 · 4 Apr Shift 1 · Q22 · Numerical
+
+A solid sphere and a hollow cylinder roll up, without slipping, the same inclined plane with the same initial speed $v$. They reach maximum heights $h_1$ and $h_2$. The ratio $h_1:h_2$ is $\dfrac n{10}$. The value of $n$ is ______.
+
+**Answer: 7** · key ✔
+
+**Solution.** Energy: $\tfrac12mv^2\left(1+\dfrac{k^2}{R^2}\right)=mgh$, so $h=\dfrac{v^2}{2g}\left(1+\dfrac{k^2}{R^2}\right)$. Sphere: $1+\tfrac25=\tfrac75$; hollow cylinder: $1+1=2$. $\dfrac{h_1}{h_2}=\dfrac{7/5}{2}=\dfrac7{10}$, so $n=7$.
+

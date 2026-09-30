@@ -110,3 +110,13 @@ The functional group that shows a negative resonance effect ($-R$) is:
 
 **Solution.** $-\text{NH}_2$, $-\text{OH}$ and $-\text{OR}$ donate a lone pair into the ring ($+R$). $-\text{COOH}$ withdraws electrons by resonance ($-R$).
 
+### C-GOC-12 — JEE Main 2024 · 4 Apr Shift 1 · Q37 · MCQ
+
+Which of the following is an **incorrect** statement?
+
+(1) The electromeric effect dominates over the inductive effect  (2) The electromeric effect is a temporary effect  (3) The hydrogen ion shows a negative electromeric effect  (4) An organic compound shows the electromeric effect in the presence of the reagent only
+
+**Answer: (3)** · key ✔
+
+**Solution.** The electromeric effect is a temporary complete transfer of $\pi$ electrons, shown only in the presence of an attacking reagent, and it dominates the inductive effect. When the attacking reagent is an electrophile such as $\text{H}^+$ the transfer is towards the attacked atom: $+E$, not $-E$. Statement (3) is wrong.
+

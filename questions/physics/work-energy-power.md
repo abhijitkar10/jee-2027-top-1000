@@ -62,3 +62,13 @@ A disc of radius $R$ and mass $M$ rolls horizontally without slipping at speed $
 
 **Solution.** On a smooth incline there is no friction, so no torque acts and the disc's angular velocity stays constant; its rotational KE ($\tfrac14Mv^2$) is not converted. Only translational KE: $\tfrac12Mv^2=Mgh\Rightarrow h=\dfrac{v^2}{2g}$. (On a rough incline the answer would be $3v^2/4g$.)
 
+### P-WEP-07 — JEE Main 2024 · 4 Apr Shift 1 · Q6 · MCQ
+
+A rubber ball falls from height $h$ and rebounds to height $h/2$. The percentage loss of the initial total energy and the velocity of the ball just before it strikes the ground are respectively:
+
+(1) $50\%,\ \sqrt{2gh}$  (2) $50\%,\ \sqrt{gh}$  (3) $40\%,\ \sqrt{2gh}$  (4) $50\%,\ \sqrt{gh/2}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Energy at height $h$ is $mgh$, at rebound height $mgh/2$: $50\%$ lost. Speed on impact: $v=\sqrt{2gh}$.
+

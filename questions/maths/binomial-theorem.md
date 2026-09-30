@@ -72,3 +72,13 @@ Let $m$ and $n$ be the coefficients of the seventh and thirteenth terms respecti
 
 **Solution.** $m=T_7$ coefficient $=\binom{18}{6}\left(\tfrac13\right)^{12}\left(\tfrac12\right)^6$, $n=T_{13}$ coefficient $=\binom{18}{12}\left(\tfrac13\right)^{6}\left(\tfrac12\right)^{12}$. Since $\binom{18}{6}=\binom{18}{12}$: $\dfrac nm=3^6/2^6=\left(\tfrac32\right)^6$, so $\left(\tfrac nm\right)^{1/3}=\left(\tfrac32\right)^2=\dfrac94$.
 
+### M-BIN-09 — JEE Main 2024 · 4 Apr Shift 1 · Q65 · MCQ
+
+The sum of all rational terms in the expansion of $\left(2^{1/5}+5^{1/3}\right)^{15}$ is:
+
+(1) 3133  (2) 931  (3) 6131  (4) 633
+
+**Answer: (1)** · key ✔
+
+**Solution.** $T_{r+1}=\binom{15}{r}2^{(15-r)/5}5^{r/3}$. Rational needs $3\mid r$ and $5\mid(15-r)$, so $r\in\{0,15\}$. $r=0$: $2^3=8$; $r=15$: $5^5=3125$. Sum $=3133$.
+

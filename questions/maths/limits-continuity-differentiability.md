@@ -110,3 +110,13 @@ Let $f:\mathbb R\to\mathbb R$ be $f(x)=\begin{cases}\dfrac{a-b\cos2x}{x^2}, & x<
 
 **Solution.** For the left limit at $0$ to exist we need $a=b$; then $\dfrac{a(1-\cos2x)}{x^2}=\dfrac{2a\sin^2x}{x^2}\to 2a$. Continuity: $2a=2\Rightarrow a=b=1$. At $x=1$: $1+c+2=3\Rightarrow c=0$. Derivatives: at $0^-$ the function $2\sin^2x/x^2=2-\tfrac23x^2+\dots$ has slope $0$, and at $0^+$ the slope is $c=0$; at $1^-$ slope is $2x+c=2$ and at $1^+$ it is $2$. So $f$ is differentiable everywhere, $m=0$, and $m+a+b+c=2$.
 
+### M-LCD-12 — JEE Main 2024 · 4 Apr Shift 1 · Q73 · MCQ
+
+Let $f(x)=\begin{cases}\dfrac{1-\cos2x}{x^2}, & x<0\\ \alpha, & x=0\\ \dfrac{\beta\sqrt{1-\cos x}}{x}, & x>0\end{cases}$. If $f$ is continuous at $x=0$, then $\alpha^2+\beta^2$ is:
+
+(1) 3  (2) 12  (3) 48  (4) 6
+
+**Answer: (2)** · key ✔
+
+**Solution.** Left limit: $\dfrac{2\sin^2x}{x^2}\to2$. Right limit: $\dfrac{\beta\sqrt2\,|\sin(x/2)|}{x}\to\dfrac{\beta\sqrt2}{2}=\dfrac\beta{\sqrt2}$ as $x\to0^+$. Equating: $\alpha=2$, $\beta=2\sqrt2$. $\alpha^2+\beta^2=4+8=12$.
+

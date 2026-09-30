@@ -77,3 +77,11 @@ The number of radial nodes for the $3p$ orbital is:
 
 **Solution.** Radial nodes $=n-l-1=3-1-1=1$.
 
+### C-ATS-09 — JEE Main 2024 · 4 Apr Shift 1 · Q51 · Numerical
+
+The de Broglie wavelength of an electron in the $4$th orbit is $x\pi a_0$ ($a_0$ = Bohr radius). Then $x=$ ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** $2\pi r_n=n\lambda\Rightarrow\lambda=\dfrac{2\pi n^2a_0}{n}=2\pi na_0=2\pi(4)a_0=8\pi a_0$.
+

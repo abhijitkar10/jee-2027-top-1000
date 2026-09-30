@@ -175,3 +175,13 @@ A hydrogen-like ion emits radiation of frequency $3\times10^{15}$ Hz for the tra
 
 **Solution.** $\nu\propto\left(1-\tfrac1{n^2}\right)$. $\nu_{31}/\nu_{21}=\dfrac{8/9}{3/4}=\dfrac{32}{27}$, so $\nu_{31}=3\times10^{15}\times\dfrac{32}{27}=\dfrac{32}{9}\times10^{15}$ Hz. $x=32$.
 
+### P-ATN-20 — JEE Main 2024 · 4 Apr Shift 1 · Q19 · MCQ
+
+Which nuclear fragment set corresponds to fission of $^{235}_{92}\text{U}$ by a neutron?
+
+(1) $^{144}_{56}\text{Ba}+^{89}_{36}\text{Kr}+4\,^1_0n$  (2) $^{144}_{56}\text{Ba}+^{89}_{36}\text{Kr}+3\,^1_0n$  (3) $^{140}_{56}\text{Xe}+^{94}_{38}\text{Sr}+^1_0n$  (4) $^{153}_{51}\text{Sb}+^{99}_{41}\text{Nb}+3\,^1_0n$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Conserve $A$ and $Z$ ($235+1=236$, $Z=92$). (2): $144+89+3=236$, $56+36=92$ ✓. (1) gives $237$, (3) is wrong since Xe has $Z=54$, and (4) has $Z=92$ but $A=252$.
+

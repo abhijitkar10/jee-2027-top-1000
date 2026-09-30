@@ -82,3 +82,13 @@ The lines $L_1,\dots,L_{20}$ are distinct. For $n=1,\dots,10$ all lines $L_{2n-1
 
 **Solution.** Total pairs $\binom{20}{2}=190$. The $10$ parallel lines give no points: subtract $\binom{10}2=45$. The $10$ concurrent lines meet in one point instead of $45$: subtract $45$, add $1$. Total $=190-45-45+1=101$.
 
+### M-PNC-10 — JEE Main 2024 · 4 Apr Shift 1 · Q63 · MCQ
+
+There are $5$ points $P_1,\dots,P_5$ on side $AB$, $6$ points $P_6,\dots,P_{11}$ on side $BC$ and $7$ points $P_{12},\dots,P_{18}$ on side $CA$ of a triangle $ABC$ (excluding the vertices). The number of triangles that can be formed using $P_1,\dots,P_{18}$ as vertices is:
+
+(1) 776  (2) 796  (3) 751  (4) 771
+
+**Answer: (3)** · key ✔
+
+**Solution.** Choose any $3$ of $18$ points and discard collinear triples: $\binom{18}3-\binom53-\binom63-\binom73=816-10-20-35=751$.
+

@@ -106,3 +106,23 @@ If $5f(x)+4f\!\left(\tfrac1x\right)=x^2-2$ for all $x\ne0$ and $y=9x^2f(x)$, the
 
 **Solution.** Replacing $x\to1/x$: $5f(1/x)+4f(x)=1/x^2-2$. Eliminate $f(1/x)$: $9f(x)=5(x^2-2)-4(1/x^2-2)=5x^2-2-4/x^2$. So $y=9x^2f(x)=5x^4-2x^2-4$ and $y'=20x^3-4x=4x(5x^2-1)$. $y'>0$ for $x\in\left(-\tfrac1{\sqrt5},0\right)\cup\left(\tfrac1{\sqrt5},\infty\right)$.
 
+### M-AOD-12 — JEE Main 2024 · 4 Apr Shift 1 · Q72 · MCQ
+
+The sum of the maximum and minimum values of $f(x)=\dfrac{2x^2-3x+8}{2x^2+3x+8}$ is $\dfrac mn$, $\gcd(m,n)=1$. Then $m+n$ is:
+
+(1) 195  (2) 201  (3) 217  (4) 182
+
+**Answer: (2)** · key ✔
+
+**Solution.** Put $y=f(x)$: $(2y-2)x^2+(3y+3)x+(8y-8)=0$ must have a real root: $9(y+1)^2-4(2y-2)(8y-8)\ge0\Rightarrow9(y+1)^2\ge64(y-1)^2\Rightarrow3|y+1|\ge8|y-1|$. This gives $y\in\left[\tfrac5{11},\tfrac{11}5\right]$. Sum $=\tfrac5{11}+\tfrac{11}5=\tfrac{146}{55}$, so $m+n=201$.
+
+### M-AOD-13 — JEE Main 2024 · 4 Apr Shift 1 · Q74 · MCQ
+
+Let $f(x)=x^5+2e^{x/4}$ and $g$ be such that $(g\circ f)(x)=x$. Then $8g'(2)$ is:
+
+(1) 2  (2) 8  (3) 4  (4) 16
+
+**Answer: (4)** · key ✔
+
+**Solution.** $g=f^{-1}$, so $g'(2)=\dfrac1{f'(g(2))}$. $f(0)=0+2=2\Rightarrow g(2)=0$. $f'(x)=5x^4+\tfrac12e^{x/4}$, $f'(0)=\tfrac12$. So $g'(2)=2$ and $8g'(2)=16$.
+

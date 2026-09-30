@@ -66,3 +66,13 @@ The distance between an object and its $3$ times magnified virtual image produce
 
 **Solution.** A virtual image lies on the same side as the object, so $|v|-|u|=20$ with $|v|=3|u|$: $u=10$ cm and $v=30$ cm. $\dfrac1f=\dfrac1u-\dfrac1v$ (magnitudes): $\dfrac1{10}-\dfrac1{30}=\dfrac1{15}$, so $f=15$ cm.
 
+### P-RAY-08 — JEE Main 2024 · 4 Apr Shift 1 · Q17 · MCQ
+
+The effective power of a combination of $5$ identical convex lenses kept in contact along the principal axis is $25$ D. The focal length of each lens is:
+
+(1) 20 cm  (2) 50 cm  (3) 500 cm  (4) 25 cm
+
+**Answer: (1)** · key ✔
+
+**Solution.** Powers add for lenses in contact: $5P=25\Rightarrow P=5$ D, so $f=\dfrac{1}{5}\text{ m}=20$ cm.
+

@@ -93,3 +93,13 @@ An electromagnetic wave of frequency $60$ MHz travels in air along the $z$ direc
 
 **Solution.** $\lambda=\dfrac{c}{f}=\dfrac{3\times10^8}{60\times10^6}=5$ m. ($\vec E$, $\vec B$ and the propagation direction are mutually perpendicular.)
 
+### P-EMW-10 — JEE Main 2024 · 4 Apr Shift 1 · Q16 · MCQ
+
+The electric field in an EM wave is $\vec E=\hat i\,40\cos\omega(t-z/c)\ \text{N C}^{-1}$. The magnetic induction of this wave (SI) is:
+
+(1) $\hat k\dfrac{40}{c}\cos\omega(t-z/c)$  (2) $\hat j\,40\cos\omega(t-z/c)$  (3) $\hat i\dfrac{40}{c}\cos\omega(t-z/c)$  (4) $\hat j\dfrac{40}{c}\cos\omega(t-z/c)$
+
+**Answer: (4)** · key ✔
+
+**Solution.** The wave travels along $+z$, and $\hat E\times\hat B=\hat k$ with $\hat E=\hat i$ gives $\hat B=\hat j$. The magnitude is $B_0=E_0/c=40/c$.
+

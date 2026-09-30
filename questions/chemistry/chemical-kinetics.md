@@ -90,3 +90,11 @@ First-order thermal decomposition of gas A at constant volume: $\text{A(g)}\to2\
 
 **Solution.** Let $p$ of A decompose: total $=0.1-p+2p+p=0.1+2p=0.28\Rightarrow p=0.09$. $p_A=0.01$. $k=\dfrac1t\ln\dfrac{0.1}{0.01}=\dfrac{2.303}{115}=0.02\ \text{s}^{-1}=2\times10^{-2}$.
 
+### C-KIN-11 — JEE Main 2024 · 4 Apr Shift 1 · Q57 · Numerical
+
+In a first-order sequence $A+B\underset{3}{\overset{1}{\rightleftharpoons}}C\xrightarrow{2}P$ the overall rate constant is $k=\dfrac{k_1k_2}{k_3}$. Given $E_{a1}=300$, $E_{a2}=200$ kJ mol$^{-1}$ and overall $E_a=400$ kJ mol$^{-1}$, the value of $E_{a3}$ is ______ kJ mol$^{-1}$.
+
+**Answer: 100** · key ✔
+
+**Solution.** Taking $\ln$ of $k=Ae^{-E_a/RT}$ for each step, $E_a=E_{a1}+E_{a2}-E_{a3}$. So $400=300+200-E_{a3}\Rightarrow E_{a3}=100$ kJ mol$^{-1}$.
+

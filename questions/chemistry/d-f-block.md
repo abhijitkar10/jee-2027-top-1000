@@ -153,3 +153,21 @@ Reason R: Extra stability is observed for the half-filled configuration compared
 
 **Solution.** Both $d^4$ ions move towards a stable configuration: $\text{Cr}^{2+}(d^4)\to\text{Cr}^{3+}(d^3,\ t_{2g}^3)$ by oxidation, and $\text{Mn}^{3+}(d^4)\to\text{Mn}^{2+}(d^5)$ by reduction. Half-filled stability is the reason ($E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V, $E^\circ_{\text{Mn}^{3+}/\text{Mn}^{2+}}=+1.57$ V).
 
+### C-DFB-15 — JEE Main 2024 · 4 Apr Shift 1 · Q43 · MCQ
+
+The element which shows only one oxidation state other than its elemental form is:
+
+(1) Cobalt  (2) Titanium  (3) Nickel  (4) Scandium
+
+**Answer: (4)** · key ✔
+
+**Solution.** Scandium ($3d^14s^2$) shows only $+3$. Co, Ti and Ni each show several oxidation states.
+
+### C-DFB-16 — JEE Main 2024 · 4 Apr Shift 1 · Q58 · Numerical
+
+$\text{MnO}_2+\text{KOH}+\text{O}_2\to A+\text{H}_2\text{O}$. Product A in neutral or acidic medium disproportionates to B and C (with water). The sum of the spin-only magnetic moments of B and C is ______ BM (nearest integer). ($Z_{Mn}=25$)
+
+**Answer: 4** · key ✔
+
+**Solution.** $A=\text{K}_2\text{MnO}_4$. In acid: $3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$. $\text{MnO}_4^-$ ($d^0$): $\mu=0$. $\text{MnO}_2$ ($\text{Mn}^{4+}$, $d^3$): $\mu=\sqrt{3\times5}=3.87\approx4$ BM. Sum $\approx4$.
+

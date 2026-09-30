@@ -108,3 +108,21 @@ A transformer has an efficiency of $80\%$ and works at $10\ \text{kV}$ and $4$ k
 
 **Solution.** Input power $4$ kW; output $=0.8\times4000=3200$ W. $I_s=\dfrac{3200}{240}=13.33$ A.
 
+### P-ACC-12 — JEE Main 2024 · 4 Apr Shift 1 · Q15 · MCQ
+
+In an ac circuit the instantaneous current is zero when the instantaneous voltage is maximum. The source may be connected to: A. pure inductor  B. pure capacitor  C. pure resistor  D. a combination of an inductor and a capacitor.
+
+(1) A, B and C only  (2) A and B only  (3) B, C and D only  (4) A, B and D only
+
+**Answer: (4)** · key ✔
+
+**Solution.** This needs a $90^\circ$ phase difference between $V$ and $I$. A pure $L$ or pure $C$ gives exactly $\pm90^\circ$, and an ideal series $L$–$C$ combination (no resistance) also gives $\pm90^\circ$. A pure resistor gives $0^\circ$. So A, B and D.
+
+### P-ACC-13 — JEE Main 2024 · 4 Apr Shift 1 · Q28 · Numerical
+
+An alternating current at any instant is $i=\left[6+\sqrt{56}\sin(100\pi t+\pi/3)\right]$ A. The r.m.s. value of the current is ______ A.
+
+**Answer: 8** · key ✔
+
+**Solution.** For $i=I_0+I_1\sin(\omega t+\phi)$: $i_{rms}^2=I_0^2+\dfrac{I_1^2}{2}=36+\dfrac{56}{2}=64$, so $i_{rms}=8$ A.
+

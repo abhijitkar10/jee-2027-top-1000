@@ -73,3 +73,13 @@ $\text{C}_2\text{H}_5\text{Br}\xrightarrow{\text{alc. KOH}}A\xrightarrow{\text{B
 
 **Solution.** $A=\text{CH}_2{=}\text{CH}_2$; $B=\text{BrCH}_2\text{CH}_2\text{Br}$; $C=\text{NC-CH}_2\text{CH}_2\text{-CN}$; hydrolysis gives $\text{HOOC-CH}_2\text{CH}_2\text{-COOH}$, succinic acid.
 
+### C-HAL-08 — JEE Main 2024 · 4 Apr Shift 1 · Q46 · MCQ
+
+Identify $X$ and $Y$: $\text{CH}_3\text{CH}_2\text{CH}_2\text{Br}\xrightarrow{X}\text{Product}\xrightarrow{Y}\text{CH}_3\text{CHBrCH}_3$
+
+(1) $X$ = dil. aq. NaOH, $20^\circ$C; $Y$ = $\text{Br}_2/\text{CHCl}_3$  (2) $X$ = conc. alc. NaOH, $80^\circ$C; $Y$ = $\text{Br}_2/\text{CHCl}_3$  (3) $X$ = dil. aq. NaOH, $20^\circ$C; $Y$ = HBr/acetic acid  (4) $X$ = conc. alc. NaOH, $80^\circ$C; $Y$ = HBr/acetic acid
+
+**Answer: (4)** · key ✔
+
+**Solution.** Alcoholic NaOH at high temperature gives E2 elimination: propene. Addition of HBr follows Markovnikov's rule to give $2$-bromopropane. (With peroxides it would be anti-Markovnikov.)
+

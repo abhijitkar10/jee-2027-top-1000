@@ -122,3 +122,21 @@ Statement II: Non-metals have higher ionisation enthalpy and higher electronegat
 
 **Solution.** The p-block has both metals and non-metals, but every d-block element is a metal, so I is false. II is generally true: small non-metal atoms hold their electrons more tightly.
 
+### C-PER-13 — JEE Main 2024 · 4 Apr Shift 1 · Q31 · Numerical
+
+The number of elements from B, C, N, S, O, F, P, Al, Si that CANNOT form compounds with valencies matching their group valencies is ______.
+
+**Answer: 3** · key ✔
+
+**Solution.** Second-period elements have no $d$ orbitals and cannot expand their octet. $\text{N}$ (group valency $5$), $\text{O}$ ($6$) and $\text{F}$ ($7$) cannot reach their group valency; B, C, Al, Si, P and S can ($\text{BF}_3$, $\text{CO}_2$, $\text{AlCl}_3$, $\text{SiO}_2$, $\text{PCl}_5$, $\text{SF}_6$). Count $=3$.
+
+### C-PER-14 — JEE Main 2024 · 4 Apr Shift 1 · Q32 · MCQ
+
+The correct order of first ionisation enthalpy of (A) O, (B) N, (C) Be, (D) F, (E) B is:
+
+(1) E < C < A < B < D  (2) C < E < A < B < D  (3) A < B < D < C < E  (4) B < D < C < E < A
+
+**Answer: (1)** · key ✔
+
+**Solution.** Values (kJ/mol): B $801$, Be $899$, O $1314$, N $1402$, F $1681$. Be is above B (filled $2s$), and N is above O (half-filled $2p$). Order: B < Be < O < N < F, i.e. E < C < A < B < D.
+

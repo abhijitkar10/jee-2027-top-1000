@@ -76,3 +76,21 @@ In Kjeldahl's method, $1$ g of an organic compound released ammonia that neutral
 
 **Solution.** $10$ mL $\times2$ M $=20$ mmol $\text{H}_2\text{SO}_4$, which neutralises $40$ mmol $\text{NH}_3$ ($2\text{NH}_3+\text{H}_2\text{SO}_4$). $40$ mmol N $=0.56$ g, so $56\%$.
 
+### C-MOL-10 — JEE Main 2024 · 4 Apr Shift 1 · Q39 · MCQ
+
+The molarity of an aqueous solution containing $5.85$ g of NaCl in $500$ mL of water is (Na $=23$, Cl $=35.5$ g mol$^{-1}$):
+
+(1) 2  (2) 20  (3) 4  (4) 0.2
+
+**Answer: (4)** · key ✔
+
+**Solution.** $n=\dfrac{5.85}{58.5}=0.1$ mol; $M=\dfrac{0.1}{0.5\ \text{L}}=0.2$ M.
+
+### C-MOL-11 — JEE Main 2024 · 4 Apr Shift 1 · Q54 · Numerical
+
+Only $2$ mL of $\text{KMnO}_4$ solution of unknown molarity is required to reach the end point of a titration of $20$ mL of oxalic acid ($2$ M) in acidic medium. The molarity of the $\text{KMnO}_4$ solution should be ______ M.
+
+**Answer: 8** · key ✔
+
+**Solution.** Equivalents: $\text{KMnO}_4$ has $n=5$, oxalic acid $n=2$. $M\times5\times2=2\times2\times20\Rightarrow M=8$ M.
+

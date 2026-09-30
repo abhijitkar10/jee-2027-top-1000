@@ -97,3 +97,13 @@ A moving-coil galvanometer has $100$ turns, each of area $2.0\ \text{cm}^2$, in 
 
 **Solution.** $NIAB=k\phi\Rightarrow k=\dfrac{100\times10^{-2}\times2\times10^{-4}\times10^{-2}}{0.05}=\dfrac{2\times10^{-6}}{0.05}=4\times10^{-5}$ N m/rad.
 
+### P-MAG-12 — JEE Main 2024 · 4 Apr Shift 1 · Q14 · MCQ
+
+An electron is projected with uniform velocity along the axis inside a current-carrying long solenoid. Then:
+
+(1) the electron continues with uniform velocity along the axis  (2) the electron is accelerated along the axis  (3) the electron's path is circular about the axis  (4) the electron experiences a force at $45^\circ$ to the axis and moves in a helix
+
+**Answer: (1)** · key ✔
+
+**Solution.** Inside a long solenoid the field is uniform and parallel to the axis. The electron's velocity is parallel to $\vec B$, so $\vec F=q\vec v\times\vec B=0$ and it keeps moving uniformly.
+

@@ -188,3 +188,23 @@ For $\text{MnO}_4^-+\text{H}^++\text{H}_2\text{C}_2\text{O}_4\rightleftharpoons\
 
 **Solution.** $E^\circ_{cell}=1.51-(-0.49)=2.00$ V. Balanced: $2\text{MnO}_4^-+6\text{H}^++5\text{H}_2\text{C}_2\text{O}_4\to2\text{Mn}^{2+}+8\text{H}_2\text{O}+10\text{CO}_2$, $n=10$. $\log K=\dfrac{nE^\circ}{0.0591}=\dfrac{10\times2}{0.0591}=338.4\approx338$ (using $0.0591$ V at 298 K).
 
+### C-ELC-21 — JEE Main 2024 · 4 Apr Shift 1 · Q40 · MCQ
+
+What pressure (bar) of $\text{H}_2$ would be required to make the emf of a hydrogen electrode zero in pure water at $25^\circ$C?
+
+(1) $10^{-7}$  (2) 0.5  (3) 1  (4) $10^{-14}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** For $2\text{H}^++2e^-\to\text{H}_2$: $E=-\dfrac{0.059}{2}\log\dfrac{p_{\text{H}_2}}{[\text{H}^+]^2}$. $E=0$ needs $p_{\text{H}_2}=[\text{H}^+]^2=(10^{-7})^2=10^{-14}$ bar.
+
+### C-ELC-22 — JEE Main 2024 · 4 Apr Shift 1 · Q41 · MCQ
+
+The calomel electrode belongs to which category?
+
+(1) Oxidation–reduction electrodes  (2) Metal ion–metal electrodes  (3) Gas–ion electrodes  (4) Metal–insoluble salt–anion electrodes
+
+**Answer: (4)** · key ✔
+
+**Solution.** Calomel is $\text{Hg}\,|\,\text{Hg}_2\text{Cl}_2(s)\,|\,\text{Cl}^-$: a metal in contact with its sparingly soluble salt and the common anion.
+

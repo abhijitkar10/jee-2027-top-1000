@@ -40,3 +40,14 @@ Match List I with List II.
 
 **Solution.** A: DIBAL-H partially reduces an ester to an aldehyde (IV). B: Clemmensen reduction, $\text{Zn(Hg)/conc. HCl}$, takes $\text{C=O}$ to $\text{CH}_2$ (II). C: a Grignard reagent adds to an aldehyde to give a secondary alcohol (I). D: $\text{NaBH}_4$ reduces the ketone group selectively and leaves the ester (III).
 
+### C-ALD-05 — JEE Main 2024 · 4 Apr Shift 1 · Q47 · MCQ
+
+Statement I: The acidity of $\alpha$-hydrogens of aldehydes and ketones is responsible for the aldol reaction.
+Statement II: The reaction between benzaldehyde and ethanal will NOT give a cross-aldol product.
+
+(1) I correct, II incorrect  (2) Both correct  (3) Both incorrect  (4) I incorrect, II correct
+
+**Answer: (1)** · key ✔
+
+**Solution.** I is true: the $\alpha$-H is removed to give the enolate nucleophile. II is false: benzaldehyde has no $\alpha$-H and cannot self-condense, but ethanal's enolate attacks it to give a cross-aldol (Claisen–Schmidt) product, cinnamaldehyde after dehydration.
+

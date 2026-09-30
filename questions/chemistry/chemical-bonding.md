@@ -137,3 +137,31 @@ Statement II: The $\pi^*$ antibonding MO has a node between the nuclei.
 
 **Solution.** A $\pi$ bonding MO (sideways overlap of $p$ orbitals) has its electron density *above and below* the axis, with a nodal plane containing the axis; so I is false. The $\pi^*$ orbital additionally has a nodal plane perpendicular to the axis between the nuclei: II is true.
 
+### C-BND-16 — JEE Main 2024 · 4 Apr Shift 1 · Q33 · MCQ
+
+Which one of the following molecules has the maximum dipole moment?
+
+(1) $\text{NF}_3$  (2) $\text{CH}_4$  (3) $\text{PF}_5$  (4) $\text{NH}_3$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{CH}_4$ and $\text{PF}_5$ are symmetric ($\mu=0$). In $\text{NF}_3$ the bond dipoles oppose the lone-pair dipole, giving $0.24$ D; in $\text{NH}_3$ they add, giving $1.47$ D.
+
+### C-BND-17 — JEE Main 2024 · 4 Apr Shift 1 · Q34 · MCQ
+
+The number of species in which the central atom is $sp^3$ hybridised among $\text{NO}_3^-$, $\text{BCl}_3$, $\text{ClO}_2^-$, $\text{ClO}_3^-$ is:
+
+(1) 4  (2) 3  (3) 2  (4) 1
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{NO}_3^-$ ($sp^2$, 3 bond pairs) and $\text{BCl}_3$ ($sp^2$) are trigonal planar. $\text{ClO}_2^-$ ($2$ bond pairs + $2$ lone pairs) and $\text{ClO}_3^-$ ($3+1$) have $4$ electron domains: $sp^3$. Count $=2$.
+
+### C-BND-18 — JEE Main 2024 · 4 Apr Shift 1 · Q52 · Numerical
+
+The number of species with one unpaired electron among $\text{O}_2$, $\text{O}_2^-$, NO, $\text{CN}^-$, $\text{O}_2^{2-}$ is ______.
+
+**Answer: 2** · key ✔
+
+**Solution.** $\text{O}_2$: $2$ unpaired. $\text{O}_2^-$ (superoxide): $1$. NO: $1$ (odd electron in $\pi^*$). $\text{CN}^-$: $0$. $\text{O}_2^{2-}$ (peroxide): $0$. Count $=2$.
+

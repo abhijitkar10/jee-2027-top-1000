@@ -92,3 +92,11 @@ Let $y=y(x)$ be the solution of $\sec^2x\,dx+\left(e^{2y}\tan^2x+\tan x\right)dy
 
 **Solution.** Put $u=\tan x$: $\dfrac{du}{dy}+e^{2y}u^2+u=0$. Let $w=\dfrac1u$: $\dfrac{dw}{dy}=-u^{-2}\dfrac{du}{dy}=e^{2y}+w$, so $\dfrac{dw}{dy}-w=e^{2y}$, with integrating factor $e^{-y}$: $we^{-y}=e^{y}+C$. At $y=0$, $u=1\Rightarrow w=1\Rightarrow C=0$, so $w=e^{2y}$, i.e. $\tan x=e^{-2y}$. At $x=\tfrac\pi6$: $\tfrac1{\sqrt3}=e^{-2\alpha}\Rightarrow e^{2\alpha}=\sqrt3\Rightarrow e^{8\alpha}=(\sqrt3)^4=9$.
 
+### M-DIF-11 — JEE Main 2024 · 4 Apr Shift 1 · Q88 · Numerical
+
+Let $y=y(x)$ satisfy $\dfrac{dy}{dx}-y=1+4\sin x$ with $y(\pi)=1$. Then $y\!\left(\tfrac\pi2\right)+10$ is ______.
+
+**Answer: 7** · key ✔
+
+**Solution.** Integrating factor $e^{-x}$: $ye^{-x}=\int(1+4\sin x)e^{-x}dx=-e^{-x}-2e^{-x}(\sin x+\cos x)+C$. So $y=-1-2(\sin x+\cos x)+Ce^x$. $y(\pi)=-1+2+Ce^\pi=1\Rightarrow C=0$. $y(\pi/2)=-1-2=-3$; $-3+10=7$.
+

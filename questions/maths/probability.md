@@ -110,3 +110,13 @@ The probability that Ajay will not appear in the JEE exam is $p=\tfrac27$, and t
 
 **Solution.** $P(\text{Ajay appears})=1-\tfrac27=\tfrac57$. $P(A\cap V^c)=P(A)-P(A\cap V)=\tfrac57-\tfrac15=\dfrac{18}{35}$.
 
+### M-PRB-12 — JEE Main 2024 · 4 Apr Shift 1 · Q80 · MCQ
+
+Three urns A, B, C contain (7 red, 5 black), (5 red, 7 black) and (6 red, 6 black) balls respectively. One urn is chosen at random and a ball is drawn. If the ball is black, the probability that it came from urn A is:
+
+(1) $\tfrac5{18}$  (2) $\tfrac5{16}$  (3) $\tfrac4{17}$  (4) $\tfrac7{18}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** By Bayes with equal priors: $P(A\mid\text{black})=\dfrac{5/12}{5/12+7/12+6/12}=\dfrac5{18}$.
+

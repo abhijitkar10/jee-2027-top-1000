@@ -120,3 +120,23 @@ A particle starts from rest at $x=0$ with velocity $v=4\sqrt x\ \text{m s}^{-1}$
 
 **Solution.** $a=v\dfrac{dv}{dx}=4\sqrt x\cdot\dfrac{2}{\sqrt x}=8\ \text{m s}^{-2}$, a constant.
 
+### P-KIN-14 — JEE Main 2024 · 4 Apr Shift 1 · Q3 · MCQ
+
+A body travels $102.5$ m in the $n$th second and $115.0$ m in the $(n+2)$th second. The acceleration is:
+
+(1) $6.25\ \text{m/s}^2$  (2) $12.5\ \text{m/s}^2$  (3) $9\ \text{m/s}^2$  (4) $5\ \text{m/s}^2$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Distance in the $n$th second: $s_n=u+a\left(n-\tfrac12\right)$. Between the $n$th and $(n+2)$th second the increase is $2a=115.0-102.5=12.5$, so $a=6.25\ \text{m/s}^2$.
+
+### P-KIN-15 — JEE Main 2024 · 4 Apr Shift 1 · Q4 · MCQ
+
+The coordinates of a particle in the $x$–$y$ plane are $x=2+4t$, $y=3t+8t^2$. The motion of the particle is:
+
+(1) uniformly accelerated along a parabolic path  (2) uniform motion along a straight line  (3) uniformly accelerated along a straight line  (4) non-uniformly accelerated
+
+**Answer: (1)** · key ✔
+
+**Solution.** $a_x=0$, $a_y=16$ (constant), so the acceleration is uniform. Eliminating $t=(x-2)/4$: $y=\tfrac34(x-2)+\tfrac12(x-2)^2$, a parabola. The initial velocity $(4,3)$ is not parallel to $a$, so the path is not straight.
+

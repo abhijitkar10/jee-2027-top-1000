@@ -40,3 +40,11 @@ Statement II: Aniline does not undergo Friedel–Crafts reactions (alkylation an
 
 **Solution.** The lone pair on N is donated into the ring (+M), activating the ortho/para positions. In Friedel–Crafts conditions the basic $-\text{NH}_2$ reacts with anhydrous $\text{AlCl}_3$ to form a salt-like adduct; the resulting $-\text{N}^+\text{H}_2\text{–Al}^-\text{Cl}_3$ group is strongly deactivating and the reaction fails.
 
+### C-AMN-05 — JEE Main 2024 · 4 Apr Shift 1 · Q60 · Numerical
+
+$X$ g of ethylamine is treated with $\text{NaNO}_2/\text{HCl}$ followed by water. The evolved $\text{N}_2$ occupies $2.24$ L at STP. $X$ is ______ $\times10^{-1}$ g.
+
+**Answer: 45** · key ✔
+
+**Solution.** $\text{C}_2\text{H}_5\text{NH}_2+\text{HNO}_2\to\text{C}_2\text{H}_5\text{OH}+\text{N}_2+\text{H}_2\text{O}$. $2.24$ L $=0.1$ mol $\text{N}_2$ requires $0.1$ mol amine: $0.1\times45=4.5$ g $=45\times10^{-1}$ g.
+

@@ -146,3 +146,19 @@ One end of a metal wire is fixed to a ceiling and a $2$ kg load hangs from the o
 
 **Solution.** Upper wire tension $=(2+1)g=30$ N; lower wire $=1\cdot g=10$ N. Strain $=\dfrac{F}{AY}$, same $A,Y$, so the ratio is $30/10=3$.
 
+### P-POM-17 — JEE Main 2024 · 4 Apr Shift 1 · Q23 · Numerical
+
+An elastic spring under tension $3$ N has length $a$, and under tension $2$ N has length $b$. For length $(3a-2b)$ the tension will be ______ N.
+
+**Answer: 5** · key ✔
+
+**Solution.** $T=k(l-l_0)$. Subtracting: $1=k(a-b)$. For $l=3a-2b$: $T=3+k[(3a-2b)-a]=3+2k(a-b)=3+2=5$ N.
+
+### P-POM-18 — JEE Main 2024 · 4 Apr Shift 1 · Q24 · Numerical
+
+A soap bubble is blown to a diameter of $7$ cm. $36960$ erg of work is done in blowing it further. If the surface tension of the soap solution is $40$ dyne/cm, the new radius is ______ cm. ($\pi=\tfrac{22}7$)
+
+**Answer: 7** · key ✔
+
+**Solution.** A bubble has two surfaces: $W=2T\cdot4\pi\left(r_2^2-r_1^2\right)$. With $r_1=3.5$: $36960=2(40)(4)\dfrac{22}{7}(r_2^2-12.25)\Rightarrow r_2^2-12.25=36.75$, so $r_2^2=49$ and $r_2=7$ cm.
+

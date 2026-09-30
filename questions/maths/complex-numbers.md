@@ -74,3 +74,13 @@ If $|z|\le1$, the minimum value of $\left|z+\tfrac12(3+4i)\right|$ is:
 
 **Solution.** The distance from $z$ (in the unit disc) to the point $-\tfrac12(3+4i)$, which lies at distance $\tfrac52$ from the origin, has minimum $\tfrac52-1=\tfrac32$.
 
+### M-CMP-09 — JEE Main 2024 · 4 Apr Shift 1 · Q62 · MCQ
+
+Let $\alpha$ and $\beta$ be the sum and product of all non-zero solutions of $(\bar z)^2+|z|=0$, $z\in\mathbb C$. Then $4(\alpha^2+\beta^2)$ equals:
+
+(1) 6  (2) 8  (3) 2  (4) 4
+
+**Answer: (4)** · key ✔
+
+**Solution.** Put $z=re^{i\theta}$: $r^2e^{-2i\theta}=-r\Rightarrow re^{-2i\theta}=-1$, so $r=1$ and $e^{-2i\theta}=-1$, giving $\theta=\pm\tfrac\pi2$. The non-zero solutions are $z=\pm i$: sum $\alpha=0$, product $\beta=(i)(-i)=1$. $4(0+1)=4$.
+

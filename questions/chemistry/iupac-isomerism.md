@@ -58,3 +58,11 @@ The total number of isomeric compounds (including stereoisomers) formed by monoc
 
 **Solution.** $(\text{CH}_3)_2\text{CH-CH}_2\text{CH}_3$ has four types of H: (i) $\text{ClCH}_2\text{CH(CH}_3)\text{CH}_2\text{CH}_3$ – chiral, $2$; (ii) $(\text{CH}_3)_2\text{CCl-CH}_2\text{CH}_3$ – $1$; (iii) $(\text{CH}_3)_2\text{CH-CHClCH}_3$ – chiral, $2$; (iv) $(\text{CH}_3)_2\text{CH-CH}_2\text{CH}_2\text{Cl}$ – $1$. Total $=6$.
 
+### C-ISO-07 — JEE Main 2024 · 4 Apr Shift 1 · Q55 · Numerical
+
+The number of different chain isomers for $\text{C}_7\text{H}_{16}$ is ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** Heptane, 2-methylhexane, 3-methylhexane, 2,2-, 2,3-, 2,4-, 3,3-dimethylpentane, 3-ethylpentane and 2,2,3-trimethylbutane: $9$ isomers.
+
