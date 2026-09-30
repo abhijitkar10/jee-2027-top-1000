@@ -42,3 +42,11 @@ If the distance between an object and its two-times magnified virtual image prod
 
 **Solution.** A magnified virtual image needs a concave mirror. Let $u=-x$; $m=-\dfrac vu=2\Rightarrow v=+2x$ (behind the mirror). Separation $=x+2x=15\Rightarrow x=5$ cm, so $u=-5,\ v=10$. $\dfrac1f=\dfrac1v+\dfrac1u=\dfrac1{10}-\dfrac15=-\dfrac1{10}\Rightarrow f=-10$ cm.
 
+### P-RAY-05 — JEE Main 2024 · 30 Jan Shift 1 · Q29 · Numerical
+
+The distance between an object and its two times magnified real image produced by a convex lens is $45$ cm. The focal length of the lens used is ______ cm.
+
+**Answer: 10** · key ✔
+
+**Solution.** For a real image with $|m|=2$: $v=2u$ (magnitudes). $u+v=3u=45\Rightarrow u=15$ cm, $v=30$ cm. $f=\dfrac{uv}{u+v}=\dfrac{15\times30}{45}=10$ cm.
+

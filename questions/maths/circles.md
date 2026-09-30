@@ -38,3 +38,13 @@ Equations of two diameters of a circle are $2x-3y=5$ and $3x-4y=7$. The line joi
 
 **Solution.** The diameters meet at the centre $C(1,-1)$. The line through the two given points has slope $\dfrac{3+4}{-\frac17+\frac{22}7}=\dfrac73$: $7x-3y+10=0$. It meets the circle at exactly one point, so it is tangent and $P$ is the foot of the perpendicular from $C$: $P=C-\dfrac{7(1)-3(-1)+10}{7^2+3^2}(7,-3)=\left(1-\dfrac{140}{58},\,-1+\dfrac{60}{58}\right)=\left(-\dfrac{41}{29},\dfrac1{29}\right)$. So $17\beta-\alpha=\dfrac{17+41}{29}=2$.
 
+### M-CIR-05 — JEE Main 2024 · 30 Jan Shift 1 · Q65 · MCQ
+
+If the circles $(x+1)^2+(y+2)^2=r^2$ and $x^2+y^2-4x-4y+4=0$ intersect at exactly two distinct points, then
+
+(1) $5<r<9$  (2) $0<r<7$  (3) $3<r<7$  (4) $\tfrac12<r<7$
+
+**Answer: (3)** · key ✔
+
+**Solution.** The second circle has centre $(2,2)$ and radius $2$. The centres are $\sqrt{9+16}=5$ apart. Two intersection points require $|r-2|<5<r+2$, i.e. $r>3$ and $r<7$.
+

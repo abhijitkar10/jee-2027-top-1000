@@ -32,3 +32,13 @@ A plane electromagnetic wave of frequency $35$ MHz travels in free space along t
 
 **Solution.** $B=E/c=\dfrac{9.6}{3\times10^8}=3.2\times10^{-8}$ T. The direction of propagation is $\hat E\times\hat B$: $\hat j\times\hat k=\hat i$, so $\vec B$ is along $+\hat k$.
 
+### P-EMW-04 — JEE Main 2024 · 30 Jan Shift 1 · Q16 · MCQ
+
+The electric field of an electromagnetic wave in free space is $\vec E=E_0\cos(\omega t-kz)\,\hat i$. The corresponding magnetic induction vector will be
+
+(1) $\vec B=E_0C\cos(\omega t-kz)\,\hat j$  (2) $\vec B=\dfrac{E_0}{C}\cos(\omega t-kz)\,\hat j$  (3) $\vec B=E_0C\cos(\omega t+kz)\,\hat j$  (4) $\vec B=\dfrac{E_0}{C}\cos(\omega t+kz)\,\hat j$
+
+**Answer: (2)** · key ✔
+
+**Solution.** The wave travels along $+z$ (phase $\omega t-kz$). $\vec E\times\vec B$ must point along $+z$: $\hat i\times\hat j=\hat k$, so $\vec B\parallel+\hat j$. In free space $B_0=E_0/C$ and $\vec B$ is in phase with $\vec E$.
+

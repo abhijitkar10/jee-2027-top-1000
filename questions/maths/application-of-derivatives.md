@@ -66,3 +66,23 @@ The function $f(x)=\dfrac x{x^2-6x-16}$, $x\in\mathbb R-\{-2,8\}$,
 
 **Solution.** $f'(x)=\dfrac{(x^2-6x-16)-x(2x-6)}{(x^2-6x-16)^2}=\dfrac{-(x^2+16)}{(x^2-6x-16)^2}<0$ everywhere on the domain. So $f$ is decreasing on each of $(-\infty,-2),(-2,8),(8,\infty)$.
 
+### M-AOD-08 — JEE Main 2024 · 30 Jan Shift 1 · Q66 · MCQ
+
+The maximum area of a triangle whose one vertex is at $(0,0)$ and the other two vertices lie on the curve $y=-2x^2+54$ at points $(x,y)$ and $(-x,y)$, where $y>0$, is
+
+(1) 88  (2) 122  (3) 92  (4) 108
+
+**Answer: (4)** · key ✔
+
+**Solution.** The base is $2x$ and the height is $y$, so $A=xy=54x-2x^3$. $A'=54-6x^2=0\Rightarrow x=3$ (and $A''<0$). $A_{\max}=162-54=108$.
+
+### M-AOD-09 — JEE Main 2024 · 30 Jan Shift 1 · Q73 · MCQ
+
+Let $g:\mathbb R\to\mathbb R$ be a non-constant twice differentiable function with $g'\!\left(\tfrac12\right)=g'\!\left(\tfrac32\right)$. If $f(x)=\tfrac12\left[g(x)+g(2-x)\right]$, then
+
+(1) $f''(x)=0$ for at least two $x$ in $(0,2)$  (2) $f''(x)=0$ for exactly one $x$ in $(0,1)$  (3) $f''(x)=0$ for no $x$ in $(0,1)$  (4) $f'\!\left(\tfrac32\right)+f'\!\left(\tfrac12\right)=1$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $f'(x)=\tfrac12\left[g'(x)-g'(2-x)\right]$. Then $f'\!\left(\tfrac12\right)=\tfrac12\left[g'(\tfrac12)-g'(\tfrac32)\right]=0$, $f'(1)=0$ and $f'\!\left(\tfrac32\right)=0$. By Rolle's theorem $f''$ vanishes at least once in $\left(\tfrac12,1\right)$ and at least once in $\left(1,\tfrac32\right)$: at least two zeros in $(0,2)$. (Option (4) gives $0\ne1$.)
+

@@ -38,3 +38,13 @@ In a single-slit diffraction pattern, light of wavelength $6000$ Å is used. The
 
 **Solution.** The $n$th minimum is at $y_n=\dfrac{n\lambda D}a$, so $y_3-y_1=\dfrac{2\lambda D}a=3\times10^{-3}$. $a=\dfrac{2\times6\times10^{-7}\times0.5}{3\times10^{-3}}=2\times10^{-4}$ m.
 
+### P-WOP-05 — JEE Main 2024 · 30 Jan Shift 1 · Q17 · MCQ
+
+The diffraction pattern of light of wavelength $400$ nm diffracting from a slit of width $0.2$ mm is focused on the focal plane of a convex lens of focal length $100$ cm. The width of the first secondary maximum will be
+
+(1) 2 mm  (2) 2 cm  (3) 0.02 mm  (4) 0.2 mm
+
+**Answer: (1)** · key ✔
+
+**Solution.** The width of each secondary maximum equals the distance between successive minima: $\beta=\dfrac{\lambda f}{a}=\dfrac{400\times10^{-9}\times1}{0.2\times10^{-3}}=2\times10^{-3}$ m $=2$ mm.
+

@@ -36,3 +36,11 @@ The remainder when $64^{32^{32}}$ is divided by $9$ is equal to ______.
 
 **Solution.** $64=63+1\equiv1\pmod9$ (as $63=7\cdot9$), so every positive integer power of $64$ leaves remainder $1$. Equivalently, $64^N=(63+1)^N$ and every term but the last is divisible by $9$.
 
+### M-BIN-05 — JEE Main 2024 · 30 Jan Shift 1 · Q83 · Numerical
+
+The number of integral terms in the expansion of $\left\{7^{1/2}+11^{1/6}\right\}^{824}$ is equal to ______.
+
+**Answer: 138** · key ✔
+
+**Solution.** $T_{r+1}={}^{824}C_r\,7^{(824-r)/2}\,11^{r/6}$. This is an integer when $6\mid r$ (for $11^{r/6}$) and $(824-r)$ is even (for the power of 7). As $824$ is even, $r$ must be even, which multiples of $6$ already satisfy. So $r=0,6,12,\dots,822$: $\dfrac{822}6+1=138$ terms.
+

@@ -50,3 +50,21 @@ If $\displaystyle\int_{\pi/6}^{\pi/3}\sqrt{1-\sin2x}\,dx=\alpha+\beta\sqrt2+\gam
 
 **Solution.** $\sqrt{1-\sin2x}=|\cos x-\sin x|$, which is positive for $x<\tfrac\pi4$ and negative after. $\int_{\pi/6}^{\pi/4}(\cos x-\sin x)dx=\left[\sin x+\cos x\right]=\sqrt2-\tfrac12-\tfrac{\sqrt3}2$ and $\int_{\pi/4}^{\pi/3}(\sin x-\cos x)dx=\left[-\cos x-\sin x\right]=\sqrt2-\tfrac12-\tfrac{\sqrt3}2$. Total $=-1+2\sqrt2-\sqrt3$, so $\alpha=-1,\beta=2,\gamma=-1$ and $3\alpha+4\beta-\gamma=-3+8+1=6$.
 
+### M-DEF-06 — JEE Main 2024 · 30 Jan Shift 1 · Q74 · MCQ
+
+The value of $\displaystyle\lim_{n\to\infty}\sum_{k=1}^n\frac{n^3}{(n^2+k^2)(n^2+3k^2)}$ is
+
+(1) $\dfrac{(2\sqrt3+3)\pi}{24}$  (2) $\dfrac{13\pi}{8(4\sqrt3+3)}$  (3) $\dfrac{13(2\sqrt3-3)\pi}8$  (4) $\dfrac\pi{8(2\sqrt3+3)}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Dividing by $n^4$: the sum is $\sum\dfrac1n\cdot\dfrac1{(1+(k/n)^2)(1+3(k/n)^2)}\to\int_0^1\dfrac{dx}{(1+x^2)(1+3x^2)}$. Partial fractions: $\dfrac1{(1+x^2)(1+3x^2)}=\dfrac{3/2}{1+3x^2}-\dfrac{1/2}{1+x^2}$. Integral $=\dfrac{3}{2\sqrt3}\tan^{-1}\sqrt3-\dfrac12\cdot\dfrac\pi4=\dfrac{\sqrt3}2\cdot\dfrac\pi3-\dfrac\pi8=\dfrac{(4\sqrt3-3)\pi}{24}$. Rationalising: $\dfrac{(4\sqrt3-3)(4\sqrt3+3)\pi}{24(4\sqrt3+3)}=\dfrac{39\pi}{24(4\sqrt3+3)}=\dfrac{13\pi}{8(4\sqrt3+3)}$.
+
+### M-DEF-07 — JEE Main 2024 · 30 Jan Shift 1 · Q88 · Numerical
+
+The value of $9\displaystyle\int_0^9\left[\sqrt{\frac{10x}{x+1}}\right]dx$, where $[t]$ denotes the greatest integer $\le t$, is ______.
+
+**Answer: 155** · key ✔
+
+**Solution.** $g(x)=\sqrt{\tfrac{10x}{x+1}}$ increases from $0$ to $3$ on $[0,9]$. $g\ge1\iff x\ge\tfrac19$ and $g\ge2\iff10x\ge4x+4\iff x\ge\tfrac23$. So $[g]=0$ on $[0,\tfrac19)$, $1$ on $[\tfrac19,\tfrac23)$, $2$ on $[\tfrac23,9)$ (it reaches $3$ only at $x=9$). Integral $=1\left(\tfrac23-\tfrac19\right)+2\left(9-\tfrac23\right)=\tfrac59+\tfrac{50}3=\tfrac{155}9$. Times $9$: $155$.
+

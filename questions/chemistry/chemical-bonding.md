@@ -60,3 +60,21 @@ The total number of antibonding molecular orbitals formed from $2s$ and $2p$ ato
 
 **Solution.** Combining $2s$ and $2p$ orbitals of two atoms gives $8$ MOs: bonding $\sigma_{2s},\sigma_{2p_z},\pi_{2p_x},\pi_{2p_y}$ and antibonding $\sigma^*_{2s},\sigma^*_{2p_z},\pi^*_{2p_x},\pi^*_{2p_y}$. So $4$ antibonding MOs.
 
+### C-BND-08 — JEE Main 2024 · 30 Jan Shift 1 · Q33 · MCQ
+
+Match List I (molecule) with List II (shape): A. $\text{BrF}_5$  B. $\text{H}_2\text{O}$  C. $\text{ClF}_3$  D. $\text{SF}_4$; i. T-shape  ii. See-saw  iii. Bent  iv. Square pyramidal.
+
+(1) A-I, B-II, C-IV, D-III  (2) A-II, B-I, C-III, D-IV  (3) A-III, B-IV, C-I, D-II  (4) A-IV, B-III, C-I, D-II
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{BrF}_5$: $sp^3d^2$ with one lone pair, square pyramidal. $\text{H}_2\text{O}$: $sp^3$ with two lone pairs, bent. $\text{ClF}_3$: $sp^3d$ with two lone pairs, T-shaped. $\text{SF}_4$: $sp^3d$ with one lone pair, see-saw.
+
+### C-BND-09 — JEE Main 2024 · 30 Jan Shift 1 · Q53 · Numerical
+
+The total number of molecular orbitals formed from $2s$ and $2p$ atomic orbitals of a diatomic molecule is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** Each atom contributes $1$ ($2s$) $+3$ ($2p$) $=4$ atomic orbitals, so two atoms give $8$ atomic orbitals, hence $8$ molecular orbitals ($4$ bonding and $4$ antibonding).
+

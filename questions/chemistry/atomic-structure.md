@@ -30,3 +30,14 @@ The correct set of four quantum numbers $(n,l,m_l,m_s)$ for the valence electron
 
 **Solution.** Rb is $[\text{Kr}]5s^1$, so the valence electron has $n=5$, $l=0$ (s), and therefore $m_l=0$ only. Spin is $\pm\tfrac12$.
 
+### C-ATS-04 — JEE Main 2024 · 30 Jan Shift 1 · Q31 · MCQ
+
+Statement I: Orbitals having the same energy are called degenerate orbitals.
+Statement II: In a hydrogen atom, $3p$ and $3d$ orbitals are not degenerate orbitals.
+
+(1) I true, II false  (2) Both true  (3) Both false  (4) I false, II true
+
+**Answer: (1)** · key ✔
+
+**Solution.** I is the definition of degeneracy. In a hydrogen atom (a one-electron system) energy depends only on $n$, so $3s,3p,3d$ are all degenerate; II is false. (In multi-electron atoms $l$ also matters and the degeneracy is lifted.)
+

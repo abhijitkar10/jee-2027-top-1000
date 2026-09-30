@@ -42,3 +42,13 @@ Two sources of light each emit with a power of $200$ W. The ratio of the number 
 
 **Solution.** Number of photons per second $n=\dfrac{P}{hc/\lambda}\propto\lambda$ at equal power. So $n_1:n_2=300:500=3:5$.
 
+### P-DUL-05 — JEE Main 2024 · 30 Jan Shift 1 · Q18 · MCQ
+
+The work function of a substance is $3.0$ eV. The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately
+
+(1) 215 nm  (2) 414 nm  (3) 400 nm  (4) 200 nm
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\lambda_{\max}=\dfrac{hc}{\phi}=\dfrac{1240\ \text{eV nm}}{3.0\ \text{eV}}\approx413\text{–}414$ nm.
+

@@ -68,3 +68,13 @@ For any three distinct consecutive terms $a,b,c$ of an A.P., the lines $ax+by+c=
 
 **Solution.** $2b=a+c\Rightarrow a-2b+c=0$, so every such line passes through $P(1,-2)$. For infinitely many solutions: $\begin{vmatrix}1&1&1\\2&5&\alpha\\1&2&3\end{vmatrix}=8-\alpha=0\Rightarrow\alpha=8$. Subtracting the third equation from the first: $y+2z=-2$ (i). Eliminating $x$ from the second (with $\alpha=8$) using twice the first: $3y+6z=\beta-12$, i.e. $3(y+2z)=\beta-12\Rightarrow-6=\beta-12\Rightarrow\beta=6$. So $Q(8,6)$ and $(PQ)^2=7^2+8^2=113$.
 
+### M-MAT-08 — JEE Main 2024 · 30 Jan Shift 1 · Q70 · MCQ
+
+If $f(x)=\begin{vmatrix}2\cos^4x&2\sin^4x&3+\sin^22x\\3+2\cos^4x&2\sin^4x&\sin^22x\\2\cos^4x&3+2\sin^4x&\sin^22x\end{vmatrix}$, then $\dfrac15f'(0)$ is equal to
+
+(1) 0  (2) 1  (3) 2  (4) 6
+
+**Answer: (1)** · key ✔
+
+**Solution.** Apply $R_2\to R_2-R_1$ and $R_3\to R_3-R_1$: rows become $(3,0,-3)$ and $(0,3,-3)$. Expanding along the top row: $f(x)=2\cos^4x(9)-2\sin^4x(-9)+(3+\sin^22x)(9)=18(\cos^4x+\sin^4x)+27+9\sin^22x$. Since $\cos^4x+\sin^4x=1-\tfrac12\sin^22x$: $f(x)=18-9\sin^22x+27+9\sin^22x=45$. A constant, so $f'(0)=0$.
+

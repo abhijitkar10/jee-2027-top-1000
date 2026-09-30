@@ -40,3 +40,13 @@ An integer is chosen at random from the integers $1,2,3,\dots,50$. The probabili
 
 **Solution.** Inclusion–exclusion: multiples of $4$: $12$, of $6$: $8$, of $7$: $7$; of $\text{lcm}(4,6)=12$: $4$, of $28$: $1$, of $42$: $1$, of $84$: $0$. Union $=12+8+7-4-1-1+0=21$. Probability $=\dfrac{21}{50}$.
 
+### M-PRB-05 — JEE Main 2024 · 30 Jan Shift 1 · Q80 · MCQ
+
+Two integers $x$ and $y$ are chosen with replacement from the set $\{0,1,2,3,\dots,10\}$. Then the probability that $|x-y|>5$ is
+
+(1) $\tfrac{30}{121}$  (2) $\tfrac{62}{121}$  (3) $\tfrac{60}{121}$  (4) $\tfrac{31}{121}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Total outcomes $=11^2=121$. Ordered pairs with $|x-y|=d$: $2(11-d)$. For $d=6,7,8,9,10$: $10+8+6+4+2=30$. Probability $=\dfrac{30}{121}$.
+

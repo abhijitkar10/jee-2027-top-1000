@@ -52,3 +52,13 @@ The sum of the solutions $x\in\mathbb R$ of the equation $\dfrac{3\cos2x+\cos^32
 
 **Solution.** $\cos^6x-\sin^6x=\cos2x\left(1-\tfrac14\sin^22x\right)=\cos2x\cdot\dfrac{3+\cos^22x}4$, and the numerator is $\cos2x\,(3+\cos^22x)$. The LHS is therefore identically $4$ (where defined). So $x^3-x^2+6=4\Rightarrow x^3-x^2+2=0\Rightarrow(x+1)(x^2-2x+2)=0$, whose only real root is $x=-1$ (where $\cos2x\ne0$). Sum $=-1$.
 
+### M-TRG-06 — JEE Main 2024 · 30 Jan Shift 1 · Q63 · MCQ
+
+If $2\sin^3x+\sin2x\cos x+4\sin x-4=0$ has exactly $3$ solutions in the interval $\left[0,\dfrac{n\pi}2\right]$, $n\in\mathbb N$, then the roots of $x^2+nx+(n-3)=0$ belong to
+
+(1) $(0,\infty)$  (2) $(-\infty,0)$  (3) $\left(-\dfrac{\sqrt{17}}2,\dfrac{\sqrt{17}}2\right)$  (4) $\mathbb Z$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\sin2x\cos x=2\sin x\cos^2x$, so the equation is $2\sin x(\sin^2x+\cos^2x)+4\sin x-4=0\Rightarrow\sin x=\tfrac23$. Solutions: $\alpha,\ \pi-\alpha,\ 2\pi+\alpha,\ 3\pi-\alpha,\dots$ with $\alpha=\sin^{-1}\tfrac23\approx0.73$. Exactly $3$ solutions need $2\pi+\alpha\le\tfrac{n\pi}2<3\pi-\alpha$, i.e. $4+\tfrac{2\alpha}\pi\le n<6-\tfrac{2\alpha}\pi$, i.e. $4.46\le n<5.54$, so $n=5$. Then $x^2+5x+2=0$ has roots $\dfrac{-5\pm\sqrt{17}}2$, both negative.
+

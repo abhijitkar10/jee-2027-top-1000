@@ -32,3 +32,13 @@ The temperature of a gas having $2.0\times10^{25}$ molecules per cubic metre at 
 
 **Solution.** $P=nkT\Rightarrow T=\dfrac{P}{nk}=\dfrac{1.38\times10^5}{2.0\times10^{25}\times1.38\times10^{-23}}=\dfrac{1.38\times10^5}{276}\approx500$ K.
 
+### P-KTG-04 — JEE Main 2024 · 30 Jan Shift 1 · Q8 · MCQ
+
+At which temperature is the r.m.s. velocity of a hydrogen molecule equal to that of an oxygen molecule at $47^\circ$C?
+
+(1) 80 K  (2) $-73$ K  (3) 4 K  (4) 20 K
+
+**Answer: (4)** · key ✔
+
+**Solution.** $v_{rms}=\sqrt{\dfrac{3RT}M}$. Equal $v_{rms}$: $\dfrac{T_{H_2}}{2}=\dfrac{T_{O_2}}{32}\Rightarrow T_{H_2}=\dfrac{320\times2}{32}=20$ K.
+

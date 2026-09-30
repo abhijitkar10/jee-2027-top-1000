@@ -39,3 +39,11 @@ A charge of $4.0\ \mu$C moves with velocity $4.0\times10^6\ \text{m s}^{-1}$ alo
 
 **Solution.** $\vec F=q\,\vec v\times\vec B=4\times10^{-6}\,(4\times10^6\hat j)\times(2\hat k)=32\,(\hat j\times\hat k)=32\hat i$ N. So $x=32$.
 
+### P-MAG-05 — JEE Main 2024 · 30 Jan Shift 1 · Q28 · Numerical
+
+The horizontal component of the earth's magnetic field at a place is $3.5\times10^{-5}$ T. A very long straight conductor carrying a current of $\sqrt2$ A in the direction from south-east to north-west is placed there. The force per unit length experienced by the conductor is ______ $\times10^{-6}\ \text{N m}^{-1}$.
+
+**Answer: 35** · key ✔
+
+**Solution.** $\vec B_H$ points north. The current along north-west makes $45^\circ$ with north, so $\dfrac Fl=IB\sin45^\circ=\sqrt2\times3.5\times10^{-5}\times\dfrac1{\sqrt2}=3.5\times10^{-5}=35\times10^{-6}\ \text{N m}^{-1}$.
+

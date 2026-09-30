@@ -48,3 +48,21 @@ Let $P(\alpha,\beta)$ be a point on the parabola $y^2=4x$. If $P$ also lies on t
 
 **Solution.** Chord of $x^2=8y$ with midpoint $(1,\tfrac54)$: $T=S_1\Rightarrow x-4\left(y+\tfrac54\right)=1-10\Rightarrow x-4y+4=0$, so $x=4y-4$. Meeting $y^2=4x$: $y^2=16y-16\Rightarrow\beta^2-16\beta+16=0\Rightarrow(\beta-8)^2=48$. With $\alpha=4\beta-4$: $(\alpha-28)(\beta-8)=(4\beta-32)(\beta-8)=4(\beta-8)^2=192$.
 
+### M-CON-06 — JEE Main 2024 · 30 Jan Shift 1 · Q67 · MCQ
+
+If the length of the minor axis of an ellipse is equal to half of the distance between the foci, then the eccentricity of the ellipse is
+
+(1) $\dfrac{\sqrt5}3$  (2) $\dfrac{\sqrt3}2$  (3) $\dfrac1{\sqrt3}$  (4) $\dfrac2{\sqrt5}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** Minor axis $=2b$ and focal distance $=2ae$, so $2b=\tfrac12(2ae)\Rightarrow b=\tfrac{ae}2$. Then $a^2(1-e^2)=\dfrac{a^2e^2}4\Rightarrow1-e^2=\dfrac{e^2}4\Rightarrow e^2=\dfrac45$, so $e=\dfrac2{\sqrt5}$.
+
+### M-CON-07 — JEE Main 2024 · 30 Jan Shift 1 · Q84 · Numerical
+
+Let the latus rectum of the hyperbola $\dfrac{x^2}9-\dfrac{y^2}{b^2}=1$ subtend an angle of $\dfrac\pi3$ at the centre of the hyperbola. If $b^2=\dfrac lm\left(1+\sqrt n\right)$, where $l$ and $m$ are coprime, then $l^2+m^2+n^2$ is equal to ______.
+
+**Answer: 182** · key ✔
+
+**Solution.** An end of the latus rectum is $\left(ae,\dfrac{b^2}a\right)$ with $a=3$, so the half-angle $\dfrac\pi6$ satisfies $\tan\dfrac\pi6=\dfrac{b^2/3}{3e}$ where $3e=\sqrt{9+b^2}$: $\dfrac{b^2}{3\sqrt{9+b^2}}\cdot\ldots$ precisely, $\dfrac{b^2/3}{\sqrt{9+b^2}}=\dfrac1{\sqrt3}\Rightarrow b^4=3(9+b^2)\Rightarrow b^4-3b^2-27=0\Rightarrow b^2=\dfrac{3+3\sqrt{13}}2=\dfrac32\left(1+\sqrt{13}\right)$. So $l=3,\ m=2,\ n=13$ and $l^2+m^2+n^2=9+4+169=182$.
+

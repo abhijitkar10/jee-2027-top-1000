@@ -13,3 +13,11 @@ Statement II: The acidic/basic nature of the salt of a weak acid and a weak base
 
 **Solution.** For a weak-acid/weak-base salt, $\text{pH}=7+\tfrac12(\text{p}K_a-\text{p}K_b)$, so II is true. In $(\text{NH}_4)_2\text{CO}_3$, $K_b(\text{NH}_3)\approx1.8\times10^{-5}$ exceeds $K_a(\text{HCO}_3^-)\approx4.7\times10^{-11}$ (the acid conjugate to $\text{CO}_3^{2-}$), so carbonate hydrolyses more and the solution is basic. I is true.
 
+### C-ION-02 — JEE Main 2024 · 30 Jan Shift 1 · Q55 · Numerical
+
+The pH at which $\text{Mg(OH)}_2$ [$K_{sp}=1\times10^{-11}$] begins to precipitate from a solution containing $0.10$ M $\text{Mg}^{2+}$ ions is ______.
+
+**Answer: 9** · key ✔
+
+**Solution.** Precipitation begins when the ionic product equals $K_{sp}$: $[\text{OH}^-]^2=\dfrac{10^{-11}}{0.10}=10^{-10}\Rightarrow[\text{OH}^-]=10^{-5}$ M. $\text{pOH}=5$ so $\text{pH}=9$.
+

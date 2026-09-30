@@ -67,3 +67,23 @@ D. Zn, Cd and Hg are called soft metals.
 
 **Solution.** A is false: the filled $d^{10}$ subshell means weak metallic bonding and low enthalpies of atomisation (low melting points). B is true ($\text{Hg}_2^{2+}$ and $\text{Hg}^{2+}$). C is false: $d^{10}$ compounds are diamagnetic. D is true (soft, low melting).
 
+### C-DFB-07 — JEE Main 2024 · 30 Jan Shift 1 · Q41 · MCQ
+
+Diamagnetic lanthanoid ions are
+
+(1) $\text{Nd}^{3+}$ and $\text{Eu}^{3+}$  (2) $\text{La}^{3+}$ and $\text{Ce}^{4+}$  (3) $\text{Nd}^{3+}$ and $\text{Ce}^{4+}$  (4) $\text{Lu}^{3+}$ and $\text{Eu}^{3+}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{La}^{3+}$ ($4f^0$), $\text{Ce}^{4+}$ ($4f^0$) and $\text{Lu}^{3+}$ ($4f^{14}$) have no unpaired electrons. $\text{Nd}^{3+}$ ($4f^3$) and $\text{Eu}^{3+}$ ($4f^6$) are paramagnetic. So only option (2) has both ions diamagnetic.
+
+### C-DFB-08 — JEE Main 2024 · 30 Jan Shift 1 · Q42 · MCQ
+
+Match List I (species) with List II (electronic distribution): A. $\text{Cr}^{2+}$  B. $\text{Mn}^+$  C. $\text{Ni}^{2+}$  D. $\text{V}^+$; i. $3d^8$  ii. $3d^34s^1$  iii. $3d^4$  iv. $3d^54s^1$.
+
+(1) A-I, B-II, C-III, D-IV  (2) A-III, B-IV, C-I, D-II  (3) A-IV, B-III, C-I, D-II  (4) A-II, B-I, C-IV, D-III
+
+**Answer: (2)** · key ✔
+
+**Solution.** $\text{Cr}$ is $3d^54s^1$; $\text{Cr}^{2+}=3d^4$. $\text{Mn}$ is $3d^54s^2$; $\text{Mn}^+=3d^54s^1$. $\text{Ni}$ is $3d^84s^2$; $\text{Ni}^{2+}=3d^8$. $\text{V}$ is $3d^34s^2$; $\text{V}^+=3d^34s^1$. So A-iii, B-iv, C-i, D-ii.
+

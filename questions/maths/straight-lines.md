@@ -60,3 +60,13 @@ The distance of the point $(2,3)$ from the line $2x-3y+28=0$, measured parallel 
 
 **Solution.** The given direction has slope $\sqrt3$ (angle $60^\circ$). Points at distance $t$ along it: $\left(2+\tfrac t2,\ 3+\tfrac{\sqrt3}2t\right)$. Substituting in $2x-3y+28=0$: $4+t-9-\tfrac{3\sqrt3}2t+28=0\Rightarrow t=\dfrac{23}{\frac{3\sqrt3}2-1}=\dfrac{46}{3\sqrt3-2}=\dfrac{46(3\sqrt3+2)}{23}=6\sqrt3+4$.
 
+### M-STL-07 — JEE Main 2024 · 30 Jan Shift 1 · Q64 · MCQ
+
+A line passing through the point $A(9,0)$ makes an angle of $30^\circ$ with the positive direction of the $x$-axis. If this line is rotated about $A$ through an angle of $15^\circ$ in the clockwise direction, then its equation in the new position is
+
+(1) $\dfrac y{\sqrt3-2}+x=9$  (2) $\dfrac x{\sqrt3-2}+y=9$  (3) $\dfrac x{\sqrt3+2}+y=9$  (4) $\dfrac y{\sqrt3+2}+x=9$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Clockwise rotation reduces the inclination to $30^\circ-15^\circ=15^\circ$, with slope $\tan15^\circ=2-\sqrt3$. The line is $y=(2-\sqrt3)(x-9)$, i.e. $y=(\sqrt3-2)(9-x)\Rightarrow\dfrac y{\sqrt3-2}+x=9$.
+

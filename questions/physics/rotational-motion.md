@@ -26,3 +26,21 @@ A body of mass $5$ kg moves with a uniform speed $3\sqrt2\ \text{m s}^{-1}$ in t
 
 **Solution.** $|\vec L|=mvd$, where $d$ is the perpendicular distance of the line $x-y+4=0$ from the origin: $d=\dfrac4{\sqrt2}=2\sqrt2$. $L=5\times3\sqrt2\times2\sqrt2=60$.
 
+### P-ROT-04 — JEE Main 2024 · 30 Jan Shift 1 · Q2 · MCQ
+
+A particle of mass $m$ is projected with velocity $u$ at an angle of $30^\circ$ with the horizontal. The magnitude of the angular momentum of the projectile about the point of projection when the particle is at its maximum height $h$ is
+
+(1) $\dfrac{\sqrt3}{16}\dfrac{mu^3}{g}$  (2) $\dfrac{\sqrt3}{2}\dfrac{mu^2}{g}$  (3) $\dfrac{mu^3}{\sqrt2\,g}$  (4) zero
+
+**Answer: (1)** · key ✔
+
+**Solution.** At maximum height the velocity is horizontal: $v=u\cos30^\circ=\dfrac{\sqrt3}2u$, and the height is $h=\dfrac{u^2\sin^230^\circ}{2g}=\dfrac{u^2}{8g}$. $L=mvh=m\cdot\dfrac{\sqrt3}2u\cdot\dfrac{u^2}{8g}=\dfrac{\sqrt3}{16}\dfrac{mu^3}g$.
+
+### P-ROT-05 — JEE Main 2024 · 30 Jan Shift 1 · Q22 · Numerical
+
+A disc of mass $5$ kg and radius $2$ m rotates with angular velocity $10\ \text{rad s}^{-1}$ about an axis perpendicular to its plane. An identical disc is placed gently over it along the same axis. The energy dissipated so that both discs continue to rotate together without slipping is ______ J.
+
+**Answer: 250** · key ✔
+
+**Solution.** $I=\tfrac12MR^2=\tfrac12(5)(4)=10$ kg m$^2$. Angular momentum is conserved: $10(10)=20\omega'\Rightarrow\omega'=5$ rad/s. $K_i=\tfrac12(10)(100)=500$ J and $K_f=\tfrac12(20)(25)=250$ J. Energy dissipated $=250$ J.
+

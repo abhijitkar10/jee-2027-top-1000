@@ -40,3 +40,11 @@ The number of ways of arranging $8$ identical books into $4$ identical shelves, 
 
 **Solution.** Identical books into identical shelves means partitions of $8$ into at most $4$ parts. Count by number of parts: $1$ part: $1$; $2$ parts: $4$ ($7{+}1,6{+}2,5{+}3,4{+}4$); $3$ parts: $5$ ($6{+}1{+}1,5{+}2{+}1,4{+}3{+}1,4{+}2{+}2,3{+}3{+}2$); $4$ parts: $5$ ($5{+}1{+}1{+}1,4{+}2{+}1{+}1,3{+}3{+}1{+}1,3{+}2{+}2{+}1,2{+}2{+}2{+}2$). Total $=15$.
 
+### M-PNC-05 — JEE Main 2024 · 30 Jan Shift 1 · Q86 · Numerical
+
+Let $A=\{1,2,3,\dots,7\}$ and let $P(A)$ denote the power set of $A$. If the number of functions $f:A\to P(A)$ such that $a\in f(a)$ for all $a\in A$ is $m^n$, with $m$ and $n\in\mathbb N$ and $m$ the least, then $m+n$ is equal to ______.
+
+**Answer: 44** · key ✔
+
+**Solution.** For each $a$, $f(a)$ is a subset of $A$ containing $a$: the other $6$ elements are free, giving $2^6$ choices. Over $7$ elements: $(2^6)^7=2^{42}$. The least base is $m=2$ with $n=42$, so $m+n=44$.
+

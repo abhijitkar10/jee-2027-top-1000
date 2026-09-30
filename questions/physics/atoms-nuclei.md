@@ -75,3 +75,21 @@ A hydrogen atom is bombarded with electrons accelerated through a potential diff
 
 **Solution.** At $0$ K all atoms are in $n=1$. A Balmer line ($n\to2$) requires some atoms to reach at least $n=3$: $\Delta E=13.6\left(1-\tfrac19\right)=12.09$ eV, so $V_{\min}=12.09\ \text{V}\approx\dfrac{121}{10}$ V, giving $\alpha=121$.
 
+### P-ATN-09 — JEE Main 2024 · 30 Jan Shift 1 · Q19 · MCQ
+
+The ratio of the magnitudes of the kinetic energy to the potential energy of an electron in the $5^{th}$ excited state of a hydrogen atom is
+
+(1) $\tfrac14$  (2) 4  (3) $\tfrac12$  (4) 1
+
+**Answer: (3)** · key ✔
+
+**Solution.** For any Bohr orbit, $K=-E=\tfrac12|U|$, so $\dfrac{K}{|U|}=\tfrac12$ independent of $n$.
+
+### P-ATN-10 — JEE Main 2024 · 30 Jan Shift 1 · Q30 · Numerical
+
+An electron of a hydrogen atom in an excited state has energy $E_n=-0.85$ eV. The maximum number of allowed transitions to lower energy levels is ______.
+
+**Answer: 6** · key ✔
+
+**Solution.** $E_n=-\dfrac{13.6}{n^2}=-0.85\Rightarrow n^2=16\Rightarrow n=4$. Number of possible transitions to lower levels $=\dfrac{n(n-1)}2=6$.
+

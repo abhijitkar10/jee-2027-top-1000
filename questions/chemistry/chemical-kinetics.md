@@ -40,3 +40,11 @@ The half-life of radioisotopic bromine-82 is $36$ hours. The fraction which rema
 
 **Solution.** $\dfrac N{N_0}=\left(\tfrac12\right)^{24/36}=2^{-2/3}$. $\log2^{-2/3}=-\tfrac23(0.3010)=-0.2006$, so $\dfrac N{N_0}=\dfrac1{1.587}=0.63=63\times10^{-2}$.
 
+### C-KIN-05 — JEE Main 2024 · 30 Jan Shift 1 · Q59 · Numerical
+
+The rate of a first-order reaction is $0.04\ \text{mol L}^{-1}\text{s}^{-1}$ at $10$ minutes and $0.03\ \text{mol L}^{-1}\text{s}^{-1}$ at $20$ minutes after initiation. The half-life of the reaction is ______ minutes. (Given $\log2=0.3010$, $\log3=0.4771$; round off to the nearest integer.)
+
+**Answer: 24** · key ✔
+
+**Solution.** For first order the rate is proportional to concentration, so $\dfrac{r_1}{r_2}=e^{k(t_2-t_1)}$: $k=\dfrac{2.303}{10}\log\dfrac{0.04}{0.03}=\dfrac{2.303}{10}\left(2\log2-\log3\right)=\dfrac{2.303}{10}(0.1249)=0.02877\ \text{min}^{-1}$. $t_{1/2}=\dfrac{0.693}{0.02877}=24.1\approx24$ min.
+

@@ -46,3 +46,13 @@ The molality of a $0.8$ M $\text{H}_2\text{SO}_4$ solution (density $1.06\ \text
 
 **Solution.** In $1$ L: mass of solution $=1060$ g and $\text{H}_2\text{SO}_4=0.8\times98=78.4$ g, so solvent $=1060-78.4=981.6$ g. Molality $=\dfrac{0.8}{0.9816}=0.815$ mol/kg $=815\times10^{-3}$ m.
 
+### C-SOL-06 — JEE Main 2024 · 30 Jan Shift 1 · Q40 · MCQ
+
+What happens to the freezing point of benzene when a small quantity of naphthalene is added to benzene?
+
+(1) Increases  (2) Remains unchanged  (3) First decreases and then increases  (4) Decreases
+
+**Answer: (4)** · key ✔
+
+**Solution.** A non-volatile solute lowers the vapour pressure of the solvent, giving depression of freezing point: $\Delta T_f=K_fm$. The solution freezes at a lower temperature than pure benzene.
+

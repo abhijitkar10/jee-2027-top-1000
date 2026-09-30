@@ -72,3 +72,21 @@ If $R$ is the smallest equivalence relation on the set $\{1,2,3,4\}$ such that $
 
 **Solution.** Symmetry and transitivity force $1,2,3$ into one class, and $4$ stays alone by reflexivity. Equivalence classes $\{1,2,3\}$ and $\{4\}$ give $3^2+1^2=9+1=10$ ordered pairs.
 
+### M-SRF-08 — JEE Main 2024 · 30 Jan Shift 1 · Q72 · MCQ
+
+If the domain of the function $f(x)=\cos^{-1}\!\left(\dfrac{2-|x|}4\right)+\left(\ln(3-x)\right)^{-1}$ is $[-\alpha,\beta)-\{\gamma\}$, then $\alpha+\beta+\gamma$ is equal to
+
+(1) 12  (2) 9  (3) 11  (4) 8
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\cos^{-1}$ needs $\left|\tfrac{2-|x|}4\right|\le1\Rightarrow|x|\le6$. The term $\dfrac1{\ln(3-x)}$ needs $3-x>0$ and $\ln(3-x)\neq0$, i.e. $x<3$ and $x\ne2$. Domain: $[-6,3)-\{2\}$, so $\alpha=6,\ \beta=3,\ \gamma=2$ and the sum is $11$.
+
+### M-SRF-09 — JEE Main 2024 · 30 Jan Shift 1 · Q85 · Numerical
+
+A group of $40$ students appeared in an examination of $3$ subjects: Mathematics, Physics and Chemistry. All students passed in at least one subject; $20$ passed in Mathematics, $25$ in Physics and $16$ in Chemistry; at most $11$ passed in both Mathematics and Physics, at most $15$ in both Physics and Chemistry, and at most $15$ in both Mathematics and Chemistry. The maximum number of students who passed in all three subjects is ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** Let $a,b,c$ be the pairwise intersections (M∩P, P∩C, M∩C) and $x$ the triple intersection. Inclusion–exclusion: $40=61-(a+b+c)+x\Rightarrow a+b+c=21+x$. Also $x\le a\le11$, and $b,c\ge x$. With $a=11$: $b+c=10+x\ge2x\Rightarrow x\le10$. Check $x=10$, $b=c=10$: only-Maths $=20-21+10=9$, only-Physics $=25-21+10=14$, only-Chemistry $=16-20+10=6$, all non-negative, and total $=9+14+6+1+0+0+10=40$ ✓. So the maximum is $10$.
+

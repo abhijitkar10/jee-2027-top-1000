@@ -44,3 +44,13 @@ Let $\alpha,\beta$ be the roots of $x^2-\sqrt6x+3=0$ with $\text{Im}(\alpha)>\te
 
 **Solution.** $x=\dfrac{\sqrt6\pm i\sqrt6}2$, so $\alpha=\sqrt3e^{i\pi/4}$ and $\beta=\bar\alpha$. Then $\dfrac1\beta=\dfrac1{\bar\alpha}=\dfrac\alpha{|\alpha|^2}=\dfrac\alpha3$, so $\dfrac{\alpha^{99}}\beta=\dfrac{\alpha^{100}}3$. The expression $=\alpha^{98}\left(\dfrac{\alpha^2}3+1\right)$, and $\alpha^2=3i$, so it equals $\alpha^{98}(1+i)$. $\alpha^{98}=3^{49}e^{i\,49\pi/2}=3^{49}e^{i\pi/2}=3^{49}i$ (since $49\pi/2=24\pi+\pi/2$). Hence $3^{49}\,i(1+i)=3^{49}(-1+i)$: $n=49,\ a=-1,\ b=1$ and $n+a+b=49$.
 
+### M-CMP-06 — JEE Main 2024 · 30 Jan Shift 1 · Q61 · MCQ
+
+If $z=x+iy$, $xy\neq0$, satisfies the equation $z^2+i\bar z=0$, then $|z^2|$ is equal to
+
+(1) 9  (2) 1  (3) 4  (4) $\tfrac14$
+
+**Answer: (2)** · key ✔
+
+**Solution.** $z^2=-i\bar z\Rightarrow|z|^2=|{-i}|\,|\bar z|=|z|$. Since $z\neq0$ (as $xy\ne0$), $|z|=1$, so $|z^2|=|z|^2=1$.
+

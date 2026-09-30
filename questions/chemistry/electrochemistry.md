@@ -77,3 +77,11 @@ A constant current was passed through a solution of $\text{AuCl}_4^-$ between go
 
 **Solution.** $\text{Au}^{3+}+3e^-\to\text{Au}$. Moles of Au $=\dfrac{1.314}{197}=6.67\times10^{-3}$, so charge $=3\times6.67\times10^{-3}=2.0\times10^{-2}$ F.
 
+### C-ELC-09 — JEE Main 2024 · 30 Jan Shift 1 · Q56 · Numerical
+
+For $2\text{MnO}_4^-+b\,\text{I}^-+c\,\text{H}_2\text{O}\to x\,\text{I}_2+y\,\text{MnO}_2+z\,\text{OH}^-$, if the equation is balanced with integer coefficients, the value of $z$ is ______.
+
+**Answer: 8** · key ✔
+
+**Solution.** Reduction: $\text{MnO}_4^-+2\text{H}_2\text{O}+3e^-\to\text{MnO}_2+4\text{OH}^-$. Oxidation: $2\text{I}^-\to\text{I}_2+2e^-$. Multiply by $2$ and $3$: $2\text{MnO}_4^-+6\text{I}^-+4\text{H}_2\text{O}\to3\text{I}_2+2\text{MnO}_2+8\text{OH}^-$. So $z=8$.
+

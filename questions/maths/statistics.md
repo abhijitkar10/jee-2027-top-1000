@@ -38,3 +38,19 @@ If the mean and variance of five observations are $\dfrac{24}5$ and $\dfrac{194}
 
 **Solution.** Total $=24$; the first four sum to $14$, so the fifth is $10$. $\sum x_i^2=5\left(\tfrac{194}{25}+\tfrac{576}{25}\right)=154$. For the first four: $\sum x^2=154-100=54$. Variance $=\dfrac{54}4-\left(\tfrac72\right)^2=13.5-12.25=\tfrac54$.
 
+### M-STA-05 — JEE Main 2024 · 30 Jan Shift 1 · Q69 · MCQ
+
+Let $M$ denote the median of the following frequency distribution.
+
+| Class | 0–4 | 4–8 | 8–12 | 12–16 | 16–20 |
+|---|---|---|---|---|---|
+| Frequency | 3 | 9 | 10 | 8 | 6 |
+
+Then $20M$ is equal to
+
+(1) 416  (2) 104  (3) 52  (4) 208
+
+**Answer: (4)** · key ✔
+
+**Solution.** $N=36$, $\tfrac N2=18$. Cumulative frequencies: $3,12,22,\dots$, so the median class is $8$–$12$. $M=l+\dfrac{N/2-F}{f}h=8+\dfrac{18-12}{10}(4)=8+2.4=10.4$. So $20M=208$.
+

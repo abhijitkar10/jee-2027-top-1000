@@ -53,3 +53,22 @@ Statement II: Oxygen has the least negative electron gain enthalpy in its group.
 
 **Solution.** Because of its very small size and strong inter-electronic repulsion in the compact $2p$ subshell, the first row element in a group is less negative than the second: chlorine ($-349$ kJ/mol) is more negative than fluorine ($-328$), so I is false. In group 16, O ($-141$) is the least negative (S: $-200$), so II is true.
 
+### C-PER-06 — JEE Main 2024 · 30 Jan Shift 1 · Q32 · MCQ
+
+Assertion (A): There is a considerable increase in covalent radius from N to P. However, from As to Bi only a small increase in covalent radius is observed.
+Reason (R): Covalent and ionic radii in a particular oxidation state increase down the group.
+
+(1) A false, R true  (2) Both true but R is not the correct explanation of A  (3) A true, R false  (4) Both true and R is the correct explanation of A
+
+**Answer: (2)** · key ✔
+
+**Solution.** Both statements are true. Radii do increase down a group (R), but that does not explain the small increase from As to Bi: it is due to the poor shielding by the intervening filled $d$ (and $f$) orbitals, which raises $Z_{\text{eff}}$. So R is not the correct explanation.
+
+### C-PER-07 — JEE Main 2024 · 30 Jan Shift 1 · Q52 · Numerical
+
+If the IUPAC name of an element is "Unununnium", the element belongs to the $n$th group of the periodic table. The value of $n$ is ______.
+
+**Answer: 11** · key ✔
+
+**Solution.** IUPAC systematic names use the roots $0=$nil, $1=$un. "Un-un-un-ium" $=111$ (roentgenium, Rg), a member of group 11 (Cu, Ag, Au, Rg).
+

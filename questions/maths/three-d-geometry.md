@@ -56,3 +56,13 @@ Let $O$ be the origin, and $M$ and $N$ points on the lines $\dfrac{x-5}4=\dfrac{
 
 **Solution.** $\vec d_1\times\vec d_2=(4,1,3)\times(12,5,9)=(-6,0,8)$, so $\overrightarrow{MN}\parallel(-3,0,4)$. With $M=(5+4s,4+s,5+3s)$ and $N=(-8+12t,-2+5t,-11+9t)$, the $y$-component of $\overrightarrow{MN}$ is zero: $5t-s=6\Rightarrow s=5t-6$. Then $\overrightarrow{MN}=(11-8t,\,0,\,2-6t)\parallel(-3,0,4)\Rightarrow4(11-8t)=-3(2-6t)\Rightarrow t=1,\ s=-1$. So $M=(1,3,2)$, $N=(4,3,-2)$ and $\overrightarrow{OM}\cdot\overrightarrow{ON}=4+9-4=9$.
 
+### M-TDG-07 — JEE Main 2024 · 30 Jan Shift 1 · Q79 · MCQ
+
+Let $(\alpha,\beta,\gamma)$ be the foot of the perpendicular from the point $(1,2,3)$ on the line $\dfrac{x+3}5=\dfrac{y-1}2=\dfrac{z+4}3$. Then $19(\alpha+\beta+\gamma)$ is equal to
+
+(1) 102  (2) 101  (3) 99  (4) 100
+
+**Answer: (2)** · key ✔
+
+**Solution.** A point on the line: $(-3+5t,\,1+2t,\,-4+3t)$. The vector from $(1,2,3)$ is $(5t-4,\,2t-1,\,3t-7)$; perpendicular to $(5,2,3)$: $25t-20+4t-2+9t-21=0\Rightarrow t=\tfrac{43}{38}$. Foot $=\left(\tfrac{101}{38},\tfrac{124}{38},-\tfrac{23}{38}\right)$, with coordinate sum $\dfrac{202}{38}$. So $19(\alpha+\beta+\gamma)=101$.
+

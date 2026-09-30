@@ -43,3 +43,13 @@ A planet takes $200$ days to complete one revolution around the Sun. If the dist
 
 **Solution.** Kepler's third law: $T^2\propto r^3$, so $T\propto r^{3/2}$. With $r\to\tfrac r4$: $T'=200\times\left(\tfrac14\right)^{3/2}=\dfrac{200}8=25$ days.
 
+### P-GRV-05 — JEE Main 2024 · 30 Jan Shift 1 · Q6 · MCQ
+
+The gravitational potential at a point above the surface of the earth is $-5.12\times10^7\ \text{J kg}^{-1}$ and the acceleration due to gravity at that point is $6.4\ \text{m s}^{-2}$. Assume the mean radius of the earth to be $6400$ km. The height of this point above the earth's surface is
+
+(1) 1600 km  (2) 540 km  (3) 1200 km  (4) 1000 km
+
+**Answer: (1)** · key ✔
+
+**Solution.** With $r$ the distance from the centre: $V=-\dfrac{GM}r$ and $g=\dfrac{GM}{r^2}$, so $r=\dfrac{|V|}{g}=\dfrac{5.12\times10^7}{6.4}=8\times10^6$ m $=8000$ km. Height $=8000-6400=1600$ km.
+

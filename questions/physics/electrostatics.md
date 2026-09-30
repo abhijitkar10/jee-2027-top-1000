@@ -59,3 +59,13 @@ An electric field is given by $(6\hat i+5\hat j+3\hat k)\ \text{N C}^{-1}$. The 
 
 **Solution.** $\Phi=\vec E\cdot\vec A=(6\hat i+5\hat j+3\hat k)\cdot30\hat i=180$ N m$^2$ C$^{-1}$.
 
+### P-ELS-07 — JEE Main 2024 · 30 Jan Shift 1 · Q10 · MCQ
+
+The electrostatic potential due to an electric dipole at a distance $r$ varies as
+
+(1) $\dfrac1r$  (2) $\dfrac1{r^2}$  (3) $\dfrac1{r^3}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Potential of a dipole: $V=\dfrac{1}{4\pi\varepsilon_0}\dfrac{p\cos\theta}{r^2}\propto\dfrac1{r^2}$ (whereas the field falls as $1/r^3$). It is monopole potential that varies as $1/r$.
+

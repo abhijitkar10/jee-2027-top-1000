@@ -72,3 +72,21 @@ The deflection in a moving-coil galvanometer falls from $25$ divisions to $5$ di
 
 **Solution.** Deflection is proportional to the current through the coil, so the coil now carries $\dfrac5{25}=\dfrac15$ of the total. With a shunt $S$: $\dfrac{I_g}{I}=\dfrac{S}{G+S}=\dfrac15\Rightarrow G=4S=96\ \Omega$.
 
+### P-CUR-08 — JEE Main 2024 · 30 Jan Shift 1 · Q12 · MCQ
+
+An electric toaster has resistance $60\ \Omega$ at room temperature ($27^\circ$C). The toaster is connected to a $220$ V supply. If the current flowing through it reaches $2.75$ A, the temperature attained by the toaster is around (if $\alpha=2\times10^{-4}\ ^\circ\text{C}^{-1}$)
+
+(1) 694°C  (2) 1235°C  (3) 1694°C  (4) 1667°C
+
+**Answer: (3)** · key ✔
+
+**Solution.** Hot resistance $R=\dfrac{220}{2.75}=80\ \Omega$. $R=R_0\left[1+\alpha(T-27)\right]\Rightarrow\dfrac{80}{60}-1=2\times10^{-4}(T-27)\Rightarrow T-27=1667\Rightarrow T\approx1694^\circ$C.
+
+### P-CUR-09 — JEE Main 2024 · 30 Jan Shift 1 · Q26 · Numerical
+
+Two cells are connected in opposition. Cell $E_1$ has emf $8$ V and internal resistance $2\ \Omega$; cell $E_2$ has emf $2$ V and internal resistance $4\ \Omega$. The terminal potential difference of cell $E_2$ is ______ V.
+
+**Answer: 6** · key ✔
+
+**Solution.** The stronger cell drives current through the weaker one: $I=\dfrac{8-2}{2+4}=1$ A. Cell $E_2$ is being charged, so its terminal voltage is $V_2=E_2+Ir_2=2+1(4)=6$ V.
+

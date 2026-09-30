@@ -48,3 +48,11 @@ A particle moves in a straight line with position $x=(t^3-6t^2+20t+15)$ m. The v
 
 **Solution.** $v=\dfrac{dx}{dt}=3t^2-12t+20$ and $a=\dfrac{dv}{dt}=6t-12=0\Rightarrow t=2$ s. Then $v=12-24+20=8$ m/s.
 
+### P-KIN-06 — JEE Main 2024 · 30 Jan Shift 1 · Q21 · Numerical
+
+The displacement and the increase in velocity of a moving particle in the time interval $t$ to $(t+1)$ s are $125$ m and $50\ \text{m s}^{-1}$ respectively. The distance travelled by the particle in the $(t+2)^{th}$ s is ______ m.
+
+**Answer: 175** · key ✔
+
+**Solution.** The increase in velocity in $1$ s gives $a=50\ \text{m s}^{-2}$. For the interval $t\to t+1$: $125=v_t(1)+\tfrac12(50)(1)^2\Rightarrow v_t=100$ m/s. Then $v_{t+1}=150$ m/s, and in the next second $s=150(1)+\tfrac12(50)=175$ m.
+

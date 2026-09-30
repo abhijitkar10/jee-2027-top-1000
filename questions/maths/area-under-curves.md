@@ -35,3 +35,13 @@ Let the area of the region $\{(x,y):0\le x\le3,\ 0\le y\le\min\{x^2+2,\ 2x+2\}\}
 
 **Solution.** $x^2+2=2x+2$ at $x=0,2$. For $0\le x\le2$ the minimum is $x^2+2$; for $2\le x\le3$ it is $2x+2$. $A=\int_0^2(x^2+2)dx+\int_2^3(2x+2)dx=\left(\tfrac83+4\right)+(15-8)=\tfrac{20}3+7=\tfrac{41}3$. So $12A=164$.
 
+### M-ARE-05 — JEE Main 2024 · 30 Jan Shift 1 · Q75 · MCQ
+
+The area (in square units) of the region bounded by the parabola $y^2=4(x-2)$ and the line $y=2x-8$ is
+
+(1) 8  (2) 9  (3) 6  (4) 7
+
+**Answer: (2)** · key ✔
+
+**Solution.** With $x=\dfrac{y+8}2$ in the parabola: $y^2=4\left(\dfrac y2+2\right)=2y+8\Rightarrow y^2-2y-8=0\Rightarrow y=-2,\ 4$. Area $=\displaystyle\int_{-2}^4\left[\dfrac{y+8}2-\left(\dfrac{y^2}4+2\right)\right]dy=\int_{-2}^4\left(\dfrac y2+2-\dfrac{y^2}4\right)dy=\left[\dfrac{y^2}4+2y-\dfrac{y^3}{12}\right]_{-2}^4=\dfrac{20}3+\dfrac73=9$.
+

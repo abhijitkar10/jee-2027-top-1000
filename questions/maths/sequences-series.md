@@ -60,3 +60,21 @@ Each term of a geometric progression $a_1,a_2,a_3,\dots$ with $a_1=\dfrac18$ and
 
 **Solution.** $2a_n=a_{n+1}+a_{n+2}\Rightarrow2=r+r^2\Rightarrow r=1$ or $-2$; since $a_2\neq a_1$, $r=-2$. $S_{20}-S_{18}=a_{19}+a_{20}=a_1r^{18}(1+r)=\tfrac18\cdot2^{18}\cdot(-1)=-2^{15}$.
 
+### M-SEQ-07 — JEE Main 2024 · 30 Jan Shift 1 · Q62 · MCQ
+
+Let $S_n$ denote the sum of the first $n$ terms of an arithmetic progression. If $S_{20}=790$ and $S_{10}=145$, then $S_{15}-S_5$ is
+
+(1) 395  (2) 390  (3) 405  (4) 410
+
+**Answer: (1)** · key ✔
+
+**Solution.** $S_n=\tfrac n2\left(2a+(n-1)d\right)$: $S_{20}=790\Rightarrow2a+19d=79$; $S_{10}=145\Rightarrow2a+9d=29$. Subtract: $10d=50\Rightarrow d=5$, $a=-8$. $S_{15}-S_5$ is the sum of terms $6$ to $15$: $\tfrac{10}{2}(a_6+a_{15})=5(17+62)=395$.
+
+### M-SEQ-08 — JEE Main 2024 · 30 Jan Shift 1 · Q82 · Numerical
+
+Let $\alpha=1^2+4^2+8^2+13^2+19^2+26^2+\cdots$ up to $10$ terms and $\beta=\sum_{n=1}^{10}n^4$. If $4\alpha-\beta=55k+40$, then $k$ is equal to ______.
+
+**Answer: 353** · key ✔
+
+**Solution.** The terms $1,4,8,13,19,26,\dots$ have differences $3,4,5,\dots$, so $a_n=\dfrac{n^2+3n-2}2$. Then $4a_n^2=(n^2+3n-2)^2=n^4+6n^3+5n^2-12n+4$, so $4\alpha-\beta=6\sum n^3+5\sum n^2-12\sum n+4(10)=6(3025)+5(385)-12(55)+40=19455$. So $55k=19415\Rightarrow k=353$.
+

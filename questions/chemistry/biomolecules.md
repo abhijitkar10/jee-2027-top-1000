@@ -42,3 +42,13 @@ Match List I (biopolymer) with List II (monomer): A. Starch  B. Cellulose  C. Nu
 
 **Solution.** Starch is a polymer of $\alpha$-D-glucose (amylose/amylopectin), cellulose of $\beta$-D-glucose, nucleic acids of nucleotides, and proteins of $\alpha$-amino acids.
 
+### C-BIO-05 — JEE Main 2024 · 30 Jan Shift 1 · Q50 · MCQ
+
+The sugar which does not give a reddish-brown precipitate with Fehling's reagent is
+
+(1) Sucrose  (2) Lactose  (3) Glucose  (4) Maltose
+
+**Answer: (1)** · key ✔
+
+**Solution.** Fehling's reagent detects reducing sugars (free hemiacetal/aldehyde group). Glucose, lactose and maltose all have a free anomeric carbon. In sucrose the two anomeric carbons are joined through the glycosidic bond, so it is non-reducing.
+

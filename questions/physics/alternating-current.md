@@ -40,3 +40,13 @@ In an a.c. circuit, the voltage and current are $V=100\sin(100t)$ V and $I=100\s
 
 **Solution.** $P_{av}=\tfrac12V_0I_0\cos\phi=\tfrac12(100)(0.1)\cos60^\circ=\tfrac12\times10\times\tfrac12=2.5$ W.
 
+### P-ACC-05 — JEE Main 2024 · 30 Jan Shift 1 · Q14 · MCQ
+
+A series $LR$ circuit connected to an ac source $E=(25\sqrt2\sin1000t)$ V has a power factor of $\dfrac1{\sqrt2}$. If the source of emf is changed to $E=(20\sin2000t)$ V, the new power factor of the circuit will be
+
+(1) $\dfrac1{\sqrt2}$  (2) $\dfrac1{\sqrt3}$  (3) $\dfrac1{\sqrt5}$  (4) $\dfrac1{\sqrt7}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Initially $\cos\phi=\dfrac R{\sqrt{R^2+X_L^2}}=\dfrac1{\sqrt2}\Rightarrow X_L=R$ at $\omega=1000$. Doubling $\omega$ doubles $X_L$: $X_L'=2R$. New power factor $=\dfrac R{\sqrt{R^2+4R^2}}=\dfrac1{\sqrt5}$. (The change in source amplitude does not affect it.)
+

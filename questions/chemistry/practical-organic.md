@@ -43,3 +43,21 @@ A. Column chromatography  B. Thin layer chromatography  C. Paper chromatography
 
 **Solution.** Column and thin-layer chromatography use a solid adsorbent (alumina/silica gel) and separate by differing adsorption of components. Paper chromatography is a partition technique between water held in the cellulose and the mobile phase.
 
+### C-PRO-05 — JEE Main 2024 · 30 Jan Shift 1 · Q49 · MCQ
+
+The Lassaigne's extract is boiled with dil. $\text{HNO}_3$ before testing for halogens because
+
+(1) AgCN is soluble in $\text{HNO}_3$  (2) Silver halides are soluble in $\text{HNO}_3$  (3) $\text{Ag}_2\text{S}$ is soluble in $\text{HNO}_3$  (4) $\text{Na}_2\text{S}$ and NaCN are decomposed by $\text{HNO}_3$
+
+**Answer: (4)** · key ✔
+
+**Solution.** If present, $\text{S}^{2-}$ and $\text{CN}^-$ would also precipitate with $\text{AgNO}_3$ and interfere. Boiling with $\text{HNO}_3$ destroys them: $\text{Na}_2\text{S}+2\text{HNO}_3\to2\text{NaNO}_3+\text{H}_2\text{S}\uparrow$ and $\text{NaCN}+\text{HNO}_3\to\text{NaNO}_3+\text{HCN}\uparrow$.
+
+### C-PRO-06 — JEE Main 2024 · 30 Jan Shift 1 · Q57 · Numerical
+
+On a thin layer chromatography plate an organic compound moved by $3.5$ cm while the solvent moved by $5$ cm. The retardation factor of the organic compound is ______ $\times10^{-1}$.
+
+**Answer: 7** · key ✔
+
+**Solution.** $R_f=\dfrac{\text{distance moved by compound}}{\text{distance moved by solvent}}=\dfrac{3.5}{5}=0.7=7\times10^{-1}$.
+

@@ -36,3 +36,11 @@ A horizontal straight wire $5$ m long, extending from east to west, falls freely
 
 **Solution.** Motional emf $\varepsilon=Blv=0.60\times10^{-4}\times5\times10=3\times10^{-3}$ V.
 
+### P-EMI-05 — JEE Main 2024 · 30 Jan Shift 1 · Q27 · Numerical
+
+A ceiling fan having $3$ blades of length $80$ cm each rotates with an angular velocity of $1200$ rpm. The magnetic field of the earth in that region is $0.5$ G and the angle of dip is $30^\circ$. The emf induced across the blades is $N\pi\times10^{-5}$ V. The value of $N$ is ______.
+
+**Answer: 32** · key ✔
+
+**Solution.** The blades sweep out a horizontal plane, so the relevant field is the vertical component $B_v=B\sin30^\circ=0.25$ G $=2.5\times10^{-5}$ T. $\omega=2\pi\cdot20=40\pi$ rad/s. Emf across each blade (the three are in parallel) $=\tfrac12B_v\omega l^2=\tfrac12(2.5\times10^{-5})(40\pi)(0.64)=32\pi\times10^{-5}$ V. So $N=32$.
+

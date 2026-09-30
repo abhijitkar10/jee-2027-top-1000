@@ -42,3 +42,21 @@ Consider $f:(0,2)\to\mathbb R$, $f(x)=\dfrac x2+\dfrac2x$, and $g(x)=\begin{case
 
 **Solution.** $f'(x)=\tfrac12-\tfrac2{x^2}<0$ on $(0,2)$, so $f$ is decreasing and $\min_{0<t\le x}f(t)=f(x)$. Thus $g(x)=\tfrac x2+\tfrac2x$ on $(0,1]$ with $g(1)=\tfrac52$, and $g(1^+)=\tfrac32+1=\tfrac52$: continuous. Left derivative $\tfrac12-2=-\tfrac32$, right derivative $1$: unequal, so not differentiable at $x=1$.
 
+### M-LCD-05 — JEE Main 2024 · 30 Jan Shift 1 · Q68 · MCQ
+
+Let $f:\left[-\dfrac\pi2,\dfrac\pi2\right]\to\mathbb R$ be a differentiable function with $f(0)=\dfrac12$. If $\displaystyle\lim_{x\to0}\frac{x\int_0^xf(t)\,dt}{e^{x^2}-1}=\alpha$, then $8\alpha^2$ is equal to
+
+(1) 16  (2) 2  (3) 1  (4) 4
+
+**Answer: (2)** · key ✔
+
+**Solution.** Near $0$: $\int_0^xf(t)dt\approx xf(0)=\tfrac x2$ and $e^{x^2}-1\approx x^2$. So the limit is $\dfrac{x\cdot x/2}{x^2}=\tfrac12=\alpha$, and $8\alpha^2=2$.
+
+### M-LCD-06 — JEE Main 2024 · 30 Jan Shift 1 · Q87 · Numerical
+
+If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\end{cases}$ is differentiable on $\mathbb R$, then $48(a+b)$ is equal to ______.
+
+**Answer: 15** · key ✔
+
+**Solution.** At $x=2$: continuity gives $4a+2b=\tfrac12$. Differentiability: right derivative $-\dfrac1{x^2}=-\tfrac14$ equals left derivative $2ax=4a$, so $a=-\tfrac1{16}$. Then $-\tfrac14+2b=\tfrac12\Rightarrow b=\tfrac38$. $a+b=\tfrac5{16}$ and $48(a+b)=15$. (The function is even, so $x=-2$ gives the same conditions.)
+

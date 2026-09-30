@@ -70,3 +70,23 @@ Let $\overrightarrow{OA}=\vec a$, $\overrightarrow{OB}=12\vec a+4\vec b$ and $\o
 
 **Solution.** Area of $OABC=\text{area}(\triangle OAB)+\text{area}(\triangle OBC)=\tfrac12|\vec a\times(12\vec a+4\vec b)|+\tfrac12|(12\vec a+4\vec b)\times\vec b|=\tfrac12(4)|\vec a\times\vec b|+\tfrac12(12)|\vec a\times\vec b|=8|\vec a\times\vec b|$. Area of $S=|\vec a\times\vec b|$. Ratio $=8$.
 
+### M-VEC-08 — JEE Main 2024 · 30 Jan Shift 1 · Q77 · MCQ
+
+Let $A(2,3,5)$ and $C(-3,4,-2)$ be opposite vertices of a parallelogram $ABCD$. If the diagonal $\overrightarrow{BD}=\hat i+2\hat j+3\hat k$, then the area of the parallelogram is equal to
+
+(1) $\tfrac12\sqrt{410}$  (2) $\tfrac12\sqrt{474}$  (3) $\tfrac12\sqrt{586}$  (4) $\tfrac12\sqrt{306}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Area of a parallelogram $=\tfrac12|\vec d_1\times\vec d_2|$. $\overrightarrow{AC}=(-5,1,-7)$, $\overrightarrow{BD}=(1,2,3)$. $\overrightarrow{AC}\times\overrightarrow{BD}=(3+14,\ 7-(-15)\cdot\ldots)$; computing componentwise: $(1\cdot3-(-7)\cdot2,\ (-7)\cdot1-(-5)\cdot3,\ (-5)\cdot2-1\cdot1)=(17,8,-11)$, with $|\cdot|^2=289+64+121=474$. Area $=\tfrac12\sqrt{474}$.
+
+### M-VEC-09 — JEE Main 2024 · 30 Jan Shift 1 · Q78 · MCQ
+
+Let $\vec a$ and $\vec b$ be vectors with $|\vec a|=1$, $\vec a\cdot\vec b=2$ and $|\vec b|=4$. If $\vec c=2(\vec a\times\vec b)-3\vec b$, then the angle between $\vec b$ and $\vec c$ is
+
+(1) $\cos^{-1}\!\left(\dfrac2{\sqrt3}\right)$  (2) $\cos^{-1}\!\left(-\dfrac1{\sqrt3}\right)$  (3) $\cos^{-1}\!\left(-\dfrac{\sqrt3}2\right)$  (4) $\cos^{-1}\!\left(\dfrac23\right)$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\vec b\cdot\vec c=2\vec b\cdot(\vec a\times\vec b)-3|\vec b|^2=0-48=-48$. $|\vec a\times\vec b|^2=|\vec a|^2|\vec b|^2-(\vec a\cdot\vec b)^2=16-4=12$, and since $\vec a\times\vec b\perp\vec b$: $|\vec c|^2=4(12)+9(16)=192\Rightarrow|\vec c|=8\sqrt3$. $\cos\theta=\dfrac{-48}{4\cdot8\sqrt3}=-\dfrac{\sqrt3}2$.
+

@@ -56,3 +56,21 @@ If $y$ is the solution of the differential equation $x\cos\!\left(\dfrac yx\righ
 
 **Solution.** Divide by $x\cos\frac yx$: $\dfrac{dy}{dx}=\dfrac yx+\sec\dfrac yx$. With $y=vx$: $v+x\dfrac{dv}{dx}=v+\sec v\Rightarrow\cos v\,dv=\dfrac{dx}x\Rightarrow\sin v=\ln|x|+C$. At $x=1$, $v=\tfrac\pi3$: $\dfrac{\sqrt3}2=C=\dfrac\alpha2\Rightarrow\alpha=\sqrt3$. So $\alpha^2=3$.
 
+### M-DIF-07 — JEE Main 2024 · 30 Jan Shift 1 · Q76 · MCQ
+
+Let $y=y(x)$ be the solution of $\sec x\,dy+\{2(1-x)\tan x+x(2-x)\}\,dx=0$ such that $y(0)=2$. Then $y(2)$ is equal to
+
+(1) 2  (2) $2\{1-\sin(2)\}$  (3) $2\{\sin(2)+1\}$  (4) 1
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\dfrac{dy}{dx}=-\cos x\{2(1-x)\tan x+x(2-x)\}=-\{2(1-x)\sin x+x(2-x)\cos x\}=-\dfrac d{dx}\left[x(2-x)\sin x\right]$, since $\dfrac d{dx}[x(2-x)]=2-2x$. So $y=-x(2-x)\sin x+C$, and $y(0)=2\Rightarrow C=2$. At $x=2$: $y(2)=0+2=2$.
+
+### M-DIF-08 — JEE Main 2024 · 30 Jan Shift 1 · Q89 · Numerical
+
+Let $y=y(x)$ be the solution of $(1-x^2)\,dy=\left[xy+(x^3+2)\sqrt{3(1-x^2)}\right]dx$, $-1<x<1$, $y(0)=0$. If $y\!\left(\tfrac12\right)=\dfrac mn$ with $m,n$ coprime, then $m+n$ is equal to ______.
+
+**Answer: 97** · key ✔
+
+**Solution.** $\dfrac{dy}{dx}-\dfrac{x}{1-x^2}y=\dfrac{(x^3+2)\sqrt3}{\sqrt{1-x^2}}$. Integrating factor: $e^{-\int\frac x{1-x^2}dx}=\sqrt{1-x^2}$. So $\dfrac d{dx}\left(y\sqrt{1-x^2}\right)=\sqrt3(x^3+2)\Rightarrow y\sqrt{1-x^2}=\sqrt3\left(\dfrac{x^4}4+2x\right)+C$, and $y(0)=0\Rightarrow C=0$. At $x=\tfrac12$: $y\cdot\dfrac{\sqrt3}2=\sqrt3\left(\dfrac1{64}+1\right)=\dfrac{65\sqrt3}{64}\Rightarrow y=\dfrac{65}{32}$. So $m+n=97$.
+

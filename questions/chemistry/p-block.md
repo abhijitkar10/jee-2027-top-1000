@@ -63,3 +63,13 @@ The anomalous behaviour of oxygen is due to its
 
 **Solution.** Oxygen differs from the rest of group 16 (no $d$-orbitals, forms strong H-bonds, only $\text{O}=\text{O}$ multiple bonds) because of its small atomic size and high electronegativity.
 
+### C-PBL-07 — JEE Main 2024 · 30 Jan Shift 1 · Q44 · MCQ
+
+Aluminium chloride in acidified aqueous solution forms an ion having the geometry
+
+(1) Octahedral  (2) Square planar  (3) Tetrahedral  (4) Trigonal bipyramidal
+
+**Answer: (1)** · key ✔
+
+**Solution.** $\text{Al}^{3+}$ is strongly hydrated: $\text{AlCl}_3+6\text{H}_2\text{O}\to[\text{Al(H}_2\text{O)}_6]^{3+}+3\text{Cl}^-$. The hexaaqua ion is octahedral ($sp^3d^2$/$d^2sp^3$-type description).
+
