@@ -275,5 +275,5 @@ For the complexes (A) $[\text{CoCl(NH}_3)_5]^{2+}$, (B) $[\text{Co(CN)}_6]^{3-}$
 
 **Answer: (4)** · key ✔
 
-**Solution.** The wavenumber absorbed is proportional to $\Delta$. $[\text{Co(CN)}_6]^{3-}$ (strong-field $\text{CN}^-$, $\text{Co}^{3+}$) has the largest $\Delta$. Among the $\text{Co}^{3+}$ pentammines $\text{H}_2\text{O}>\text{Cl}^-$, so C $>$ A. The tetrahedral-like $\text{Cu}^{2+}$ aqua complex with a $3d^9$ ion and weak-field ligand has the smallest. Order: D < A < C < B.
+**Solution.** The wavenumber absorbed is proportional to $\Delta$. $[\text{Co(CN)}_6]^{3-}$ (strong-field $\text{CN}^-$, $\text{Co}^{3+}$) has the largest $\Delta$. Among the $\text{Co}^{3+}$ pentammines $\text{H}_2\text{O}>\text{Cl}^-$, so C $>$ A. The $3d^9$ $[\text{Cu(H}_2\text{O)}_4]^{2+}$ with weak-field $\text{H}_2\text{O}$ (and a first-row $+2$ ion) has the smallest $\Delta$. Order: D < A < C < B.
 
