@@ -87,3 +87,11 @@ At $25^\circ$C, the concentration of $\text{H}^+$ in a $1.00\times10^{-3}$ M aqu
 
 **Solution.** The acid is so weak that water's own ionisation cannot be ignored. Charge balance: $[\text{H}^+]=[\text{A}^-]+[\text{OH}^-]$, with $[\text{A}^-]=\dfrac{K_aC}{[\text{H}^+]}$ and $[\text{OH}^-]=\dfrac{K_w}{[\text{H}^+]}$. So $[\text{H}^+]^2=K_aC+K_w=4\times10^{-14}+1\times10^{-14}=5\times10^{-14}$, giving $[\text{H}^+]=2.24\times10^{-7}$ M.
 
+### C-ION-10 — JEE Main 2023 · 24 Jan Shift 1 · Q53 · Numerical
+
+The dissociation constant of acetic acid is $x\times10^{-5}$. When $25$ mL of $0.2$ M $\text{CH}_3\text{COONa}$ solution is mixed with $25$ mL of $0.02$ M $\text{CH}_3\text{COOH}$ solution, the pH of the resulting solution is $5$. $x=$ ______.
+
+**Answer: 10** · key ✔
+
+**Solution.** After mixing (volume doubled): $[\text{salt}]=0.1$ M and $[\text{acid}]=0.01$ M. Henderson: $\text{pH}=\text{p}K_a+\log\dfrac{0.1}{0.01}=\text{p}K_a+1=5\Rightarrow\text{p}K_a=4$, so $K_a=10^{-4}=10\times10^{-5}$, $x=10$.
+

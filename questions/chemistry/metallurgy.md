@@ -12,3 +12,13 @@ Identify the incorrect pair:
 
 **Solution.** Fluorspar is calcium fluoride, $\text{CaF}_2$, not $\text{BF}_3$. The other three formulae are correct.
 
+### C-MET-02 — JEE Main 2023 · 24 Jan Shift 1 · Q40 · MCQ
+
+Match List I with List II. A. Reverberatory furnace; B. Electrolytic cell; C. Blast furnace; D. Zone-refining furnace; (I) pig iron, (II) aluminium, (III) silicon, (IV) copper.
+
+(1) A-IV, B-II, C-I, D-III  (2) A-I, B-IV, C-II, D-III  (3) A-I, B-III, C-II, D-IV  (4) A-III, B-IV, C-I, D-II
+
+**Answer: (1)** · key ✔
+
+**Solution.** Copper matte is smelted in a reverberatory furnace (IV). Aluminium is obtained by electrolysis of alumina in cryolite (II). A blast furnace produces pig iron (I). Ultra-pure silicon (and germanium) is refined by the zone-refining method (III).
+

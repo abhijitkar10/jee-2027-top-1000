@@ -22,3 +22,13 @@ Fluoride ions make the enamel on teeth much harder by converting hydroxyapatite 
 
 **Solution.** Hydroxyapatite is $3\text{Ca}_3(\text{PO}_4)_2\cdot\text{Ca(OH)}_2$ [$\text{Ca}_5(\text{PO}_4)_3\text{OH}$]. $\text{F}^-$ replaces $\text{OH}^-$, giving fluoroapatite $3\text{Ca}_3(\text{PO}_4)_2\cdot\text{CaF}_2$, which is harder and less soluble in acid.
 
+### C-POL-03 — JEE Main 2023 · 24 Jan Shift 1 · Q37 · MCQ
+
+Which of the following is true about freons?
+
+(1) These are chlorofluorocarbon compounds  (2) These are chemicals causing skin cancer  (3) These are radicals of chlorine and chlorine monoxide  (4) All radicals are called freons
+
+**Answer: (1)** · key ✔
+
+**Solution.** Freons are chlorofluorocarbons (e.g. $\text{CF}_2\text{Cl}_2$), used as refrigerants. Their photolysis in the stratosphere releases Cl atoms, which deplete ozone (increasing UV and skin-cancer risk), but the freons themselves are neither the radicals nor the cancer-causing agent.
+

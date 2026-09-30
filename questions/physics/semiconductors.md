@@ -22,3 +22,14 @@ The energy needed to create a hole in a p-type semiconductor is $6$ eV (acceptor
 
 **Solution.** $\lambda_{max}=\dfrac{hc}{E}=\dfrac{1242}{6}=207$ nm.
 
+### P-SEM-03 — JEE Main 2023 · 24 Jan Shift 1 · Q19 · MCQ
+
+Assertion A: Photodiodes are preferably operated in reverse bias condition for light intensity measurement.
+Reason R: The current in the forward bias is more than the current in the reverse bias for a $p$–$n$ junction diode.
+
+(1) A false, R true  (2) Both true, R is NOT the correct explanation of A  (3) A true, R false  (4) Both true, R is the correct explanation of A
+
+**Answer: (2)** · key ✔
+
+**Solution.** In reverse bias the dark current is tiny, so the small photo-generated current (proportional to light intensity) is a large fractional change and is easily measured: A is true. R is also a true statement about a $p$–$n$ junction, but it does not explain A (the explanation is the small reverse dark current, not the size of the forward current).
+

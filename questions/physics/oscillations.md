@@ -94,3 +94,11 @@ The centre of a disk of radius $r$ and mass $m$ is attached to a spring of const
 
 **Solution.** Let the centre swing through angle $\theta$ about the ring centre: speed $v=(R-r)\dot\theta$. Rolling without slipping: $\omega_{disk}=\dfrac{v}{r}$. $KE=\tfrac12mv^2+\tfrac12\left(\tfrac12mr^2\right)\dfrac{v^2}{r^2}=\tfrac34mv^2=\tfrac34m(R-r)^2\dot\theta^2$. For small $\theta$: $PE=\tfrac12mg(R-r)\theta^2+\tfrac12k\left[(R-r)\theta\right]^2$. Then $\omega^2=\dfrac{mg(R-r)+k(R-r)^2}{\tfrac32m(R-r)^2}=\dfrac23\left(\dfrac{g}{R-r}+\dfrac km\right)$.
 
+### P-SHM-12 — JEE Main 2023 · 24 Jan Shift 1 · Q25 · Numerical
+
+A block of mass $2$ kg is attached to two identical springs of spring constant $20\ \text{N m}^{-1}$ each, placed on a frictionless surface with the spring ends attached to rigid supports (on either side of the block). The time period of oscillation is $\dfrac\pi{\sqrt X}$ s in SI units. $X=$ ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** Springs on both sides act in parallel, so $k_{eff}=20+20=40\ \text{N m}^{-1}$. $T=2\pi\sqrt{\dfrac{m}{k_{eff}}}=2\pi\sqrt{\dfrac{2}{40}}=\dfrac{2\pi}{\sqrt{20}}=\dfrac{\pi}{\sqrt5}$. So $X=5$.
+

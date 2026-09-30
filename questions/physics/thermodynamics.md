@@ -122,3 +122,13 @@ The volume of an ideal gas ($\gamma=1.5$) is changed adiabatically from $5$ litr
 
 **Solution.** $PV^\gamma=$ const: $\dfrac{P_i}{P_f}=\left(\dfrac{V_f}{V_i}\right)^{\gamma}=\left(\dfrac45\right)^{3/2}=\dfrac{8}{5\sqrt5}$.
 
+### P-THD-13 — JEE Main 2023 · 24 Jan Shift 1 · Q7 · MCQ
+
+$1$ g of a liquid is converted to vapour at $3\times10^5$ Pa pressure. If $10\%$ of the heat supplied is used for increasing the volume by $1600\ \text{cm}^3$ during this phase change, the increase in internal energy in the process will be:
+
+(1) 4320 J  (2) 432000 J  (3) 4800 J  (4) $4.32\times10^8$ J
+
+**Answer: (1)** · key ✔
+
+**Solution.** Work done by the vapour $W=P\Delta V=3\times10^5\times1600\times10^{-6}=480$ J, which is $10\%$ of $Q$. So $Q=4800$ J and $\Delta U=Q-W=4800-480=4320$ J.
+

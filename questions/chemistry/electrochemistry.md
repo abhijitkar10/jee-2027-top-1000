@@ -10,15 +10,7 @@ The mass of silver (molar mass $108\ \text{g mol}^{-1}$) displaced by the quanti
 
 **Solution.** $5600$ mL $=0.25$ mol $\text{O}_2$, and each $\text{O}_2$ needs $4e^-$, so charge $=1$ mol $e^-$. One mole of electrons deposits $1$ mol Ag ($\text{Ag}^++e^-\to\text{Ag}$) $=108$ g.
 
-### C-ELC-02 — JEE Main 2024 · 27 Jan Shift 1 · Q60 · Numerical
-
-From the given list, the number of compounds in which sulphur has oxidation state $+4$ is: $\text{SO}_3,\ \text{H}_2\text{SO}_3,\ \text{SOCl}_2,\ \text{SF}_4,\ \text{BaSO}_4,\ \text{H}_2\text{S}_2\text{O}_7$
-
-**Answer: 3** · key ✔
-
-**Solution.** $\text{H}_2\text{SO}_3$: $+4$; $\text{SOCl}_2$: $+4$; $\text{SF}_4$: $+4$. $\text{SO}_3$, $\text{BaSO}_4$ and $\text{H}_2\text{S}_2\text{O}_7$ have S in $+6$. Count $=3$.
-
-### C-ELC-03 — JEE Main 2024 · 27 Jan Shift 2 · Q31 · MCQ
+### C-ELC-02 — JEE Main 2024 · 27 Jan Shift 2 · Q31 · MCQ
 
 Which of the following cannot function as an oxidising agent?
 
@@ -28,7 +20,7 @@ Which of the following cannot function as an oxidising agent?
 
 **Solution.** An oxidising agent must be reducible. $\text{N}^{3-}$ has nitrogen in its lowest oxidation state ($-3$) and can only be oxidised. In $\text{SO}_4^{2-}$ (S: $+6$), $\text{BrO}_3^-$ (Br: $+5$) and $\text{MnO}_4^-$ (Mn: $+7$) the central atom can be reduced.
 
-### C-ELC-04 — JEE Main 2024 · 27 Jan Shift 2 · Q39 · MCQ
+### C-ELC-03 — JEE Main 2024 · 27 Jan Shift 2 · Q39 · MCQ
 
 Which of the following statements is **not** correct about rusting of iron?
 
@@ -41,7 +33,7 @@ Which of the following statements is **not** correct about rusting of iron?
 
 **Solution.** Tin is less reactive than iron ($E^\circ_{\text{Sn}^{2+}/\text{Sn}}=-0.14$ V vs $-0.44$ V for Fe). Once the tin coating is broken, iron becomes the anode and rusts faster. Statements (2)–(4) are correct: rusting needs acidic/neutral moisture, acidic oxides speed it up, and it is an electrochemical process.
 
-### C-ELC-05 — JEE Main 2024 · 29 Jan Shift 1 · Q34 · MCQ
+### C-ELC-04 — JEE Main 2024 · 29 Jan Shift 1 · Q34 · MCQ
 
 Chlorine undergoes disproportionation in alkaline medium: $a\,\text{Cl}_2(g)+b\,\text{OH}^-(aq)\to c\,\text{ClO}^-(aq)+d\,\text{Cl}^-(aq)+e\,\text{H}_2\text{O}(l)$. The values of $a,b,c$ and $d$ in the balanced equation are respectively
 
@@ -51,7 +43,7 @@ Chlorine undergoes disproportionation in alkaline medium: $a\,\text{Cl}_2(g)+b\,
 
 **Solution.** In $\text{Cl}_2$ one chlorine atom goes $0\to+1$ (losing $1e^-$) and the other goes $0\to-1$ (gaining $1e^-$), so $1$ mol of $\text{Cl}_2$ gives $1$ mol each of $\text{ClO}^-$ and $\text{Cl}^-$. Balancing charge with $\text{OH}^-$ and hydrogen with water: $\text{Cl}_2+2\text{OH}^-\to\text{ClO}^-+\text{Cl}^-+\text{H}_2\text{O}$. Hence $a=1,b=2,c=1,d=1$ (and $e=1$).
 
-### C-ELC-06 — JEE Main 2024 · 29 Jan Shift 1 · Q46 · MCQ
+### C-ELC-05 — JEE Main 2024 · 29 Jan Shift 1 · Q46 · MCQ
 
 In alkaline medium, $\text{MnO}_4^-$ oxidises $\text{I}^-$ to
 
@@ -61,7 +53,7 @@ In alkaline medium, $\text{MnO}_4^-$ oxidises $\text{I}^-$ to
 
 **Solution.** In neutral or faintly alkaline solution: $2\text{MnO}_4^-+\text{H}_2\text{O}+\text{I}^-\to2\text{MnO}_2+2\text{OH}^-+\text{IO}_3^-$. Iodide is oxidised to iodate (I: $-1\to+5$) while permanganate is reduced to $\text{MnO}_2$.
 
-### C-ELC-07 — JEE Main 2024 · 29 Jan Shift 1 · Q58 · Numerical
+### C-ELC-06 — JEE Main 2024 · 29 Jan Shift 1 · Q58 · Numerical
 
 The mass of zinc produced by the electrolysis of zinc sulphate solution with a steady current of $0.015$ A for $15$ minutes is ______ $\times10^{-4}$ g. (Atomic mass of zinc $=65.4$ amu; nearest integer)
 
@@ -69,7 +61,7 @@ The mass of zinc produced by the electrolysis of zinc sulphate solution with a s
 
 **Solution.** $Q=It=0.015\times900=13.5$ C. Moles of $e^-=\dfrac{13.5}{96500}=1.399\times10^{-4}$. $\text{Zn}^{2+}+2e^-\to\text{Zn}$, so $m=\dfrac{65.4}{2}\times1.399\times10^{-4}=4.575\times10^{-3}$ g $\approx46\times10^{-4}$ g.
 
-### C-ELC-08 — JEE Main 2024 · 30 Jan Shift 1 · Q56 · Numerical
+### C-ELC-07 — JEE Main 2024 · 30 Jan Shift 1 · Q56 · Numerical
 
 For $2\text{MnO}_4^-+b\,\text{I}^-+c\,\text{H}_2\text{O}\to x\,\text{I}_2+y\,\text{MnO}_2+z\,\text{OH}^-$, if the equation is balanced with integer coefficients, the value of $z$ is ______.
 
@@ -77,17 +69,7 @@ For $2\text{MnO}_4^-+b\,\text{I}^-+c\,\text{H}_2\text{O}\to x\,\text{I}_2+y\,\te
 
 **Solution.** Reduction: $\text{MnO}_4^-+2\text{H}_2\text{O}+3e^-\to\text{MnO}_2+4\text{OH}^-$. Oxidation: $2\text{I}^-\to\text{I}_2+2e^-$. Multiply by $2$ and $3$: $2\text{MnO}_4^-+6\text{I}^-+4\text{H}_2\text{O}\to3\text{I}_2+2\text{MnO}_2+8\text{OH}^-$. So $z=8$.
 
-### C-ELC-09 — JEE Main 2024 · 30 Jan Shift 2 · Q40 · MCQ
-
-Reduction potentials of some ions are: $\text{ClO}_4^-$: $E^\circ=1.19$ V; $\text{IO}_4^-$: $E^\circ=1.65$ V; $\text{BrO}_4^-$: $E^\circ=1.74$ V. The correct order of their oxidising power is
-
-(1) $\text{ClO}_4^->\text{IO}_4^->\text{BrO}_4^-$  (2) $\text{BrO}_4^->\text{IO}_4^->\text{ClO}_4^-$  (3) $\text{BrO}_4^->\text{ClO}_4^->\text{IO}_4^-$  (4) $\text{IO}_4^->\text{BrO}_4^->\text{ClO}_4^-$
-
-**Answer: (2)** · key ✔
-
-**Solution.** A more positive standard reduction potential means a stronger oxidising agent: $1.74>1.65>1.19$, i.e. $\text{BrO}_4^->\text{IO}_4^->\text{ClO}_4^-$.
-
-### C-ELC-10 — JEE Main 2024 · 30 Jan Shift 2 · Q54 · Numerical
+### C-ELC-08 — JEE Main 2024 · 30 Jan Shift 2 · Q54 · Numerical
 
 The total number of species from the following that can undergo a disproportionation reaction is ______: $\text{H}_2\text{O}_2,\ \text{ClO}_3^-,\ \text{P}_4,\ \text{Cl}_2,\ \text{Ag},\ \text{Cu}^+,\ \text{F}_2,\ \text{NO}_2,\ \text{K}^+$
 
@@ -95,7 +77,7 @@ The total number of species from the following that can undergo a disproportiona
 
 **Solution.** A species disproportionates if its element is in an intermediate oxidation state. $\text{H}_2\text{O}_2$ ($-1$: to $\text{O}_2$ and $\text{H}_2\text{O}$), $\text{ClO}_3^-$ ($+5$: to $\text{ClO}_4^-$ and $\text{Cl}^-$), $\text{P}_4$ ($0$: to $\text{PH}_3$ and $\text{H}_2\text{PO}_2^-$), $\text{Cl}_2$ ($0$: to $\text{Cl}^-$ and $\text{ClO}^-$), $\text{Cu}^+$ ($\to\text{Cu}^{2+}+\text{Cu}$) and $\text{NO}_2$ ($\to\text{NO}_3^-+\text{NO}_2^-$). $\text{F}_2$ cannot (no positive state), Ag is stable, and $\text{K}^+$ has no other state. Count $=6$.
 
-### C-ELC-11 — JEE Main 2024 · 31 Jan Shift 1 · Q42 · MCQ
+### C-ELC-09 — JEE Main 2024 · 31 Jan Shift 1 · Q42 · MCQ
 
 Identify the factor from the following that does **not** affect the electrolytic conductance of a solution.
 
@@ -105,7 +87,7 @@ Identify the factor from the following that does **not** affect the electrolytic
 
 **Solution.** Electrolytic conductance depends on ion concentration and mobility, so on the electrolyte, its concentration, the solvent (viscosity, dielectric constant) and temperature. It does not depend on the electrode material (that matters for electrode reactions, not for conduction through the solution).
 
-### C-ELC-12 — JEE Main 2024 · 31 Jan Shift 2 · Q36 · MCQ
+### C-ELC-10 — JEE Main 2024 · 31 Jan Shift 2 · Q36 · MCQ
 
 Statement I: $\text{S}_8$ (solid) undergoes a disproportionation reaction under alkaline conditions to form $\text{S}^{2-}$ and $\text{S}_2\text{O}_3^{2-}$.
 Statement II: $\text{ClO}_4^-$ can undergo a disproportionation reaction under acidic conditions.
@@ -116,7 +98,7 @@ Statement II: $\text{ClO}_4^-$ can undergo a disproportionation reaction under a
 
 **Solution.** I is true: $\text{S}_8+12\text{OH}^-\to4\text{S}^{2-}+2\text{S}_2\text{O}_3^{2-}+6\text{H}_2\text{O}$ (S goes from $0$ to $-2$ and $+2$). In $\text{ClO}_4^-$ chlorine is already in its maximum oxidation state $+7$ and can only be reduced, so it cannot disproportionate: II is false.
 
-### C-ELC-13 — JEE Main 2024 · 31 Jan Shift 2 · Q57 · Numerical
+### C-ELC-11 — JEE Main 2024 · 31 Jan Shift 2 · Q57 · Numerical
 
 The number of moles of $\text{H}^+$ ions required by $1$ mole of $\text{MnO}_4^-$ to oxidise oxalate ion to $\text{CO}_2$ is ______.
 
@@ -124,7 +106,7 @@ The number of moles of $\text{H}^+$ ions required by $1$ mole of $\text{MnO}_4^-
 
 **Solution.** $\text{MnO}_4^-+8\text{H}^++5e^-\to\text{Mn}^{2+}+4\text{H}_2\text{O}$ (acidic medium). The balanced equation $2\text{MnO}_4^-+5\text{C}_2\text{O}_4^{2-}+16\text{H}^+\to2\text{Mn}^{2+}+10\text{CO}_2+8\text{H}_2\text{O}$ also gives $8$ mol $\text{H}^+$ per mol $\text{MnO}_4^-$.
 
-### C-ELC-14 — JEE Main 2024 · 1 Feb Shift 1 · Q36 · MCQ
+### C-ELC-12 — JEE Main 2024 · 1 Feb Shift 1 · Q36 · MCQ
 
 Which of the following reactions are disproportionation reactions?
 1. $\text{Cu}^+\to \text{Cu}^{2+}+\text{Cu}$
@@ -138,7 +120,7 @@ Which of the following reactions are disproportionation reactions?
 
 **Solution.** A disproportionation has one species of one element going both up and down in oxidation state. (1) $\text{Cu}^{+}\to \text{Cu}^{2+}$ and $\text{Cu}^0$: yes. (2) $\text{Mn}(+6)\to +7$ and $+4$: yes. (3) $\text{Mn}(+7)$ is only reduced (to $+6$ and $+4$); oxygen is the oxidised species: not a disproportionation. (4) $\text{Mn}(+7)$ and $\text{Mn}(+2)$ both go to $+4$: comproportionation. So 1, 2.
 
-### C-ELC-15 — JEE Main 2024 · 1 Feb Shift 1 · Q37 · MCQ
+### C-ELC-13 — JEE Main 2024 · 1 Feb Shift 1 · Q37 · MCQ
 
 In acidic medium, $\text{K}_2\text{Cr}_2\text{O}_7$ shows oxidising action as represented in the half reaction $\text{Cr}_2\text{O}_7^{2-}+X\text{H}^++Ye^-\to 2A+Z\text{H}_2\text{O}$. $X$, $Y$, $Z$ and $A$ are respectively:
 
@@ -148,7 +130,7 @@ In acidic medium, $\text{K}_2\text{Cr}_2\text{O}_7$ shows oxidising action as re
 
 **Solution.** $\text{Cr}_2\text{O}_7^{2-}+14\text{H}^++6e^-\to 2\text{Cr}^{3+}+7\text{H}_2\text{O}$: two Cr go from $+6$ to $+3$ ($6e^-$), $7$ O need $14\text{H}^+$, and charge balances ($-2+14-6=+6=2\times3$).
 
-### C-ELC-16 — JEE Main 2024 · 1 Feb Shift 1 · Q57 · Numerical
+### C-ELC-14 — JEE Main 2024 · 1 Feb Shift 1 · Q57 · Numerical
 
 The potential for the half cell $2\text{H}^+_{(aq)}+2e^-\to \text{H}_2(g)$ at 298 K with $[\text{H}^+]=1\,\text{M}$, $p_{\text{H}_2}=2$ atm is $-$ ______ $\times10^{-2}$ V. (Given $2.303RT/F=0.06$ V, $\log 2=0.3$)
 
@@ -156,7 +138,7 @@ The potential for the half cell $2\text{H}^+_{(aq)}+2e^-\to \text{H}_2(g)$ at 29
 
 **Solution.** Nernst: $E=E^\circ-\dfrac{0.06}{2}\log\dfrac{p_{\text{H}_2}}{[\text{H}^+]^2}=0-0.03\log2=-0.03\times0.3=-0.009$ V $=-0.9\times10^{-2}$ V, i.e. $\approx -1\times10^{-2}$ V.
 
-### C-ELC-17 — JEE Main 2024 · 1 Feb Shift 2 · Q57 · Numerical
+### C-ELC-15 — JEE Main 2024 · 1 Feb Shift 2 · Q57 · Numerical
 
 For $\text{MnO}_4^-+\text{H}^++\text{H}_2\text{C}_2\text{O}_4\rightleftharpoons\text{Mn}^{2+}+\text{H}_2\text{O}+\text{CO}_2$ (balanced), $E^\circ_{\text{MnO}_4^-/\text{Mn}^{2+}}=+1.51$ V and $E^\circ_{\text{CO}_2/\text{H}_2\text{C}_2\text{O}_4}=-0.49$ V. If $K_{eq}=10^x$, then $x=$ ______ (nearest integer).
 
@@ -164,7 +146,7 @@ For $\text{MnO}_4^-+\text{H}^++\text{H}_2\text{C}_2\text{O}_4\rightleftharpoons\
 
 **Solution.** $E^\circ_{cell}=1.51-(-0.49)=2.00$ V. Balanced: $2\text{MnO}_4^-+6\text{H}^++5\text{H}_2\text{C}_2\text{O}_4\to2\text{Mn}^{2+}+8\text{H}_2\text{O}+10\text{CO}_2$, $n=10$. $\log K=\dfrac{nE^\circ}{0.0591}=\dfrac{10\times2}{0.0591}=338.4\approx338$ (using $0.0591$ V at 298 K).
 
-### C-ELC-18 — JEE Main 2024 · 4 Apr Shift 1 · Q40 · MCQ
+### C-ELC-16 — JEE Main 2024 · 4 Apr Shift 1 · Q40 · MCQ
 
 What pressure (bar) of $\text{H}_2$ would be required to make the emf of a hydrogen electrode zero in pure water at $25^\circ$C?
 
@@ -174,7 +156,7 @@ What pressure (bar) of $\text{H}_2$ would be required to make the emf of a hydro
 
 **Solution.** For $2\text{H}^++2e^-\to\text{H}_2$: $E=-\dfrac{0.059}{2}\log\dfrac{p_{\text{H}_2}}{[\text{H}^+]^2}$. $E=0$ needs $p_{\text{H}_2}=[\text{H}^+]^2=(10^{-7})^2=10^{-14}$ bar.
 
-### C-ELC-19 — JEE Main 2024 · 4 Apr Shift 2 · Q42 · MCQ
+### C-ELC-17 — JEE Main 2024 · 4 Apr Shift 2 · Q42 · MCQ
 
 For a strong electrolyte, a plot of molar conductivity against $c^{1/2}$ is a straight line with negative slope. The correct unit of the slope is:
 
@@ -184,7 +166,7 @@ For a strong electrolyte, a plot of molar conductivity against $c^{1/2}$ is a st
 
 **Solution.** Debye–Hückel–Onsager: $\Lambda_m=\Lambda_m^\circ-A\sqrt c$. The unit of $A$ is $\dfrac{\text{S cm}^2\text{mol}^{-1}}{(\text{mol L}^{-1})^{1/2}}=\text{S cm}^2\text{mol}^{-3/2}\text{L}^{1/2}$.
 
-### C-ELC-20 — JEE Main 2024 · 4 Apr Shift 2 · Q43 · MCQ
+### C-ELC-18 — JEE Main 2024 · 4 Apr Shift 2 · Q43 · MCQ
 
 A hydrogen–oxygen fuel cell: A. has been used in spaceships; B. has an efficiency of $40\%$ to produce electricity; C. uses aluminium as catalyst; D. is eco-friendly; E. is actually a type of galvanic cell only.
 
@@ -194,7 +176,7 @@ A hydrogen–oxygen fuel cell: A. has been used in spaceships; B. has an efficie
 
 **Solution.** The $\text{H}_2$–$\text{O}_2$ cell was used in Apollo spacecraft (A), gives only water (D), and is a galvanic cell with continuously supplied reactants (E). Its efficiency is about $60$–$70\%$ (not $40\%$, so B is rejected), and the catalysts used are Pt/Pd, not Al (C is false).
 
-### C-ELC-21 — JEE Main 2024 · 5 Apr Shift 1 · Q42 · MCQ
+### C-ELC-19 — JEE Main 2024 · 5 Apr Shift 1 · Q42 · MCQ
 
 The reaction at the cathode in the cells commonly used in clocks involves:
 
@@ -204,7 +186,7 @@ The reaction at the cathode in the cells commonly used in clocks involves:
 
 **Solution.** In the dry (Leclanché/alkaline) cell used in clocks, the cathode reaction is $\text{MnO}_2+\text{NH}_4^++e^-\to\text{MnO(OH)}+\text{NH}_3$: Mn is reduced from $+4$ to $+3$.
 
-### C-ELC-22 — JEE Main 2024 · 5 Apr Shift 1 · Q43 · MCQ
+### C-ELC-20 — JEE Main 2024 · 5 Apr Shift 1 · Q43 · MCQ
 
 Molar ionic conductivities of a divalent cation and anion are $57$ and $73\ \text{S cm}^2\text{mol}^{-1}$ respectively. The molar conductivity of a solution of an electrolyte with this cation and anion will be:
 
@@ -214,7 +196,7 @@ Molar ionic conductivities of a divalent cation and anion are $57$ and $73\ \tex
 
 **Solution.** The cation and the anion are both divalent, so the electrolyte is of the type $\text{M}^{2+}\text{A}^{2-}$ (e.g. $\text{MgSO}_4$), formula unit $1:1$. By Kohlrausch's law $\Lambda_m=\lambda_++\lambda_-=57+73=130\ \text{S cm}^2\text{mol}^{-1}$.
 
-### C-ELC-23 — JEE Main 2024 · 5 Apr Shift 2 · Q41 · MCQ
+### C-ELC-21 — JEE Main 2024 · 5 Apr Shift 2 · Q41 · MCQ
 
 The quantity of silver deposited when one coulomb of charge is passed through $\text{AgNO}_3$ solution is:
 
@@ -224,7 +206,7 @@ The quantity of silver deposited when one coulomb of charge is passed through $\
 
 **Solution.** By Faraday's first law $m=ZQ$, where $Z$ is the electrochemical equivalent, the mass deposited by $1$ C. So the answer is $1$ electrochemical equivalent ($Z_{Ag}=1.118\times10^{-3}$ g/C).
 
-### C-ELC-24 — JEE Main 2024 · 5 Apr Shift 2 · Q42 · MCQ
+### C-ELC-22 — JEE Main 2024 · 5 Apr Shift 2 · Q42 · MCQ
 
 For the electrochemical cell $\text{M}\,|\,\text{M}^{2+}\,\|\,\text{X}^{2-}\,|\,\text{X}$, $E^\circ_{\text{M}^{2+}/\text{M}}=0.46$ V and $E^\circ_{\text{X}/\text{X}^{2-}}=0.34$ V. Which is correct?
 
@@ -234,7 +216,7 @@ For the electrochemical cell $\text{M}\,|\,\text{M}^{2+}\,\|\,\text{X}^{2-}\,|\,
 
 **Solution.** For $\text{M}+\text{X}\to\text{M}^{2+}+\text{X}^{2-}$, X is reduced (cathode) and M is oxidised (anode): $E^\circ_{cell}=0.34-0.46=-0.12$ V $<0$, so the forward reaction is non-spontaneous and the reverse, $\text{M}^{2+}+\text{X}^{2-}\to\text{M}+\text{X}$, is spontaneous. (Options with $\pm0.80$ V come from adding the two potentials, which is wrong.)
 
-### C-ELC-25 — JEE Main 2024 · 6 Apr Shift 2 · Q33 · MCQ
+### C-ELC-23 — JEE Main 2024 · 6 Apr Shift 2 · Q33 · MCQ
 
 Match the reaction with the type of redox reaction: (A) $\text{N}_2+\text{O}_2\to2\text{NO}$; (B) $2\text{Pb(NO}_3)_2\to2\text{PbO}+4\text{NO}_2+\text{O}_2$; (C) $2\text{Na}+2\text{H}_2\text{O}\to2\text{NaOH}+\text{H}_2$; (D) $2\text{NO}_2+2\text{OH}^-\to\text{NO}_2^-+\text{NO}_3^-+\text{H}_2\text{O}$. (I) decomposition, (II) displacement, (III) disproportionation, (IV) combination.
 
@@ -244,7 +226,7 @@ Match the reaction with the type of redox reaction: (A) $\text{N}_2+\text{O}_2\t
 
 **Solution.** A: two elements combine: combination (IV). B: one compound splits into several: decomposition (I). C: Na displaces H from water: displacement (II). D: $\text{N}(+4)$ goes to $+3$ and $+5$: disproportionation (III).
 
-### C-ELC-26 — JEE Main 2024 · 6 Apr Shift 2 · Q38 · MCQ
+### C-ELC-24 — JEE Main 2024 · 6 Apr Shift 2 · Q38 · MCQ
 
 How can an electrochemical (galvanic) cell be converted into an electrolytic cell?
 
@@ -254,7 +236,7 @@ How can an electrochemical (galvanic) cell be converted into an electrolytic cel
 
 **Solution.** In the Daniell-type cell, an opposing external potential smaller than $E_{cell}$ just reduces the current. Once it exceeds $E_{cell}$, current flows in the reverse direction and the non-spontaneous reaction is driven: the cell works as an electrolytic cell.
 
-### C-ELC-27 — JEE Main 2024 · 8 Apr Shift 1 · Q38 · MCQ
+### C-ELC-25 — JEE Main 2024 · 8 Apr Shift 1 · Q38 · MCQ
 
 Thiosulphate reacts differently with iodine and bromine: $2\text{S}_2\text{O}_3^{2-}+\text{I}_2\to\text{S}_4\text{O}_6^{2-}+2\text{I}^-$ and $\text{S}_2\text{O}_3^{2-}+5\text{Br}_2+5\text{H}_2\text{O}\to2\text{SO}_4^{2-}+4\text{Br}^-+10\text{H}^+$. Which statement justifies this dual behaviour?
 
@@ -264,7 +246,7 @@ Thiosulphate reacts differently with iodine and bromine: $2\text{S}_2\text{O}_3^
 
 **Solution.** $E^\circ(\text{Br}_2/\text{Br}^-)=1.09$ V exceeds $E^\circ(\text{I}_2/\text{I}^-)=0.54$ V, so $\text{Br}_2$ oxidises S from $+2$ to the higher state $+6$, while the weaker oxidant $\text{I}_2$ only takes it to the average $+2.5$ of tetrathionate.
 
-### C-ELC-28 — JEE Main 2024 · 8 Apr Shift 2 · Q40 · MCQ
+### C-ELC-26 — JEE Main 2024 · 8 Apr Shift 2 · Q40 · MCQ
 
 The emf of the cell $\text{Tl}\,|\,\text{Tl}^+(0.001\text{ M})\,\|\,\text{Cu}^{2+}(0.01\text{ M})\,|\,\text{Cu}$ is $0.83$ V at $298$ K. It could be increased by:
 
@@ -274,7 +256,7 @@ The emf of the cell $\text{Tl}\,|\,\text{Tl}^+(0.001\text{ M})\,\|\,\text{Cu}^{2
 
 **Solution.** Cell reaction: $2\text{Tl}+\text{Cu}^{2+}\to2\text{Tl}^++\text{Cu}$. $E=E^\circ-\dfrac{0.059}{2}\log\dfrac{[\text{Tl}^+]^2}{[\text{Cu}^{2+}]}$. $E$ rises when $[\text{Cu}^{2+}]$ (reactant) increases or $[\text{Tl}^+]$ (product) decreases; only option (2) does this alone.
 
-### C-ELC-29 — JEE Main 2024 · 9 Apr Shift 1 · Q40 · MCQ
+### C-ELC-27 — JEE Main 2024 · 9 Apr Shift 1 · Q40 · MCQ
 
 The molar conductivities of electrolytes A and B are plotted against $c^{1/2}$: A falls from $130$ ($c^{1/2}=0.2$) to $55$ ($0.4$) and B from $150$ to $120$. Electrolytes A and B respectively are:
 
@@ -284,7 +266,7 @@ The molar conductivities of electrolytes A and B are plotted against $c^{1/2}$: 
 
 **Solution.** A strong electrolyte shows a gentle, nearly linear fall of $\Lambda_m$ with $\sqrt c$ (Debye–Hückel–Onsager). A weak electrolyte shows a sharp fall because the degree of dissociation drops quickly on concentration. A falls steeply: weak; B falls gently: strong.
 
-### C-ELC-30 — JEE Main 2024 · 9 Apr Shift 1 · Q56 · Numerical
+### C-ELC-28 — JEE Main 2024 · 9 Apr Shift 1 · Q56 · Numerical
 
 Given $E^\circ$: $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=1.33$ V; $\text{Fe}^{3+}/\text{Fe}=-0.04$ V; $\text{Ni}^{2+}/\text{Ni}=-0.25$ V; $\text{Ag}^+/\text{Ag}=0.80$ V; $\text{Au}^{3+}/\text{Au}=1.40$ V. The number of metals that will be oxidised by $\text{Cr}_2\text{O}_7^{2-}$ in aqueous solution is ______.
 
@@ -292,7 +274,7 @@ Given $E^\circ$: $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=1.33$ V; $\text{Fe}^
 
 **Solution.** A metal is oxidised if its reduction potential is below $1.33$ V, so that $E^\circ_{cell}>0$. Fe, Ni and Ag qualify. Au ($1.40$ V) is higher and is not oxidised. Count $=3$.
 
-### C-ELC-31 — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
+### C-ELC-29 — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
 
 In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to $\text{Cr}^{3+}$. The current (in amperes) flowing for $48.25$ minutes to produce $1$ mole of $\text{Cr}^{3+}$ is ______. ($1\ \text{F}=96500\ \text{C mol}^{-1}$)
 

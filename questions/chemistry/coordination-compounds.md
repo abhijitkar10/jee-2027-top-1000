@@ -145,17 +145,7 @@ Match List I (complex ion) with List II (electronic configuration): A. $[\text{C
 
 **Solution.** $\text{H}_2\text{O}$ is a weak-field ligand. $\text{Cr}^{3+}$ $d^3$: $t_{2g}^3$. $\text{Fe}^{3+}$ $d^5$ (high spin): $t_{2g}^3e_g^2$. $\text{Ni}^{2+}$ $d^8$: $t_{2g}^6e_g^2$. $\text{V}^{3+}$ $d^2$: $t_{2g}^2$.
 
-### C-COO-15 — JEE Main 2024 · 1 Feb Shift 1 · Q44 · MCQ
-
-Which of the following complexes is homoleptic?
-
-(1) $[\text{Ni(CN)}_4]^{2-}$  (2) $[\text{Ni(NH}_3)_2\text{Cl}_2]$  (3) $[\text{Fe(NH}_3)_4\text{Cl}_2]^+$  (4) $[\text{Co(NH}_3)_4\text{Cl}_2]^+$
-
-**Answer: (1)** · key ✔
-
-**Solution.** A homoleptic complex has only one kind of ligand. Only $[\text{Ni(CN)}_4]^{2-}$ has $\text{CN}^-$ alone; the others contain both $\text{NH}_3$ and $\text{Cl}^-$.
-
-### C-COO-16 — JEE Main 2024 · 1 Feb Shift 1 · Q45 · MCQ
+### C-COO-15 — JEE Main 2024 · 1 Feb Shift 1 · Q45 · MCQ
 
 Statement I: A solution of $[\text{Ni(H}_2\text{O)}_6]^{2+}$ is green in colour.
 Statement II: A solution of $[\text{Ni(CN)}_4]^{2-}$ is colourless.
@@ -166,7 +156,7 @@ Statement II: A solution of $[\text{Ni(CN)}_4]^{2-}$ is colourless.
 
 **Solution.** $[\text{Ni(H}_2\text{O)}_6]^{2+}$ ($d^8$, octahedral, two unpaired electrons) absorbs red light and appears green. $[\text{Ni(CN)}_4]^{2-}$ is square planar with strong-field $\text{CN}^-$ and is diamagnetic; its $d$–$d$ transitions lie in the UV, so the solution is taken as colourless (this is the NCERT/NTA answer).
 
-### C-COO-17 — JEE Main 2024 · 1 Feb Shift 2 · Q47 · MCQ
+### C-COO-16 — JEE Main 2024 · 1 Feb Shift 2 · Q47 · MCQ
 
 Statement I: Dimethylglyoxime forms a six-membered covalent chelate with $\text{NiCl}_2$ in the presence of $\text{NH}_4\text{OH}$.
 Statement II: The Prussian blue precipitate contains iron in both $+2$ and $+3$ oxidation states.
@@ -177,7 +167,7 @@ Statement II: The Prussian blue precipitate contains iron in both $+2$ and $+3$ 
 
 **Solution.** In the red $[\text{Ni(dmg)}_2]$ precipitate, each dmg forms a **five**-membered chelate ring with Ni (the six-membered rings are the O–H···O hydrogen bonds). So I is false. Prussian blue, $\text{Fe}_4[\text{Fe(CN)}_6]_3$, has $\text{Fe}^{3+}$ and $\text{Fe}^{2+}$: II is true.
 
-### C-COO-18 — JEE Main 2024 · 1 Feb Shift 2 · Q48 · MCQ
+### C-COO-17 — JEE Main 2024 · 1 Feb Shift 2 · Q48 · MCQ
 
 $[\text{Co(NH}_3)_6]^{3+}$ and $[\text{CoF}_6]^{3-}$ are respectively known as:
 
@@ -187,7 +177,7 @@ $[\text{Co(NH}_3)_6]^{3+}$ and $[\text{CoF}_6]^{3-}$ are respectively known as:
 
 **Solution.** $\text{NH}_3$ is a strong-field ligand: $t_{2g}^6$, diamagnetic, $d^2sp^3$ (spin-paired/low spin, inner orbital). $\text{F}^-$ is weak-field: $t_{2g}^4e_g^2$, four unpaired electrons, $sp^3d^2$ (spin-free/high spin, outer orbital).
 
-### C-COO-19 — JEE Main 2024 · 4 Apr Shift 1 · Q44 · MCQ
+### C-COO-18 — JEE Main 2024 · 4 Apr Shift 1 · Q44 · MCQ
 
 The number of complexes with an even number of unpaired $d$ electrons among $[\text{V(H}_2\text{O)}_6]^{3+}$, $[\text{Cr(H}_2\text{O)}_6]^{2+}$, $[\text{Fe(H}_2\text{O)}_6]^{3+}$, $[\text{Ni(H}_2\text{O)}_6]^{3+}$, $[\text{Cu(H}_2\text{O)}_6]^{2+}$ is:
 
@@ -197,7 +187,7 @@ The number of complexes with an even number of unpaired $d$ electrons among $[\t
 
 **Solution.** $\text{H}_2\text{O}$ is weak-field, so high-spin. $\text{V}^{3+}$ ($d^2$): $2$ unpaired (even). $\text{Cr}^{2+}$ ($d^4$): $4$ (even). $\text{Fe}^{3+}$ ($d^5$): $5$. $\text{Ni}^{3+}$ ($d^7$): $3$. $\text{Cu}^{2+}$ ($d^9$): $1$. Count $=2$.
 
-### C-COO-20 — JEE Main 2024 · 4 Apr Shift 1 · Q45 · MCQ
+### C-COO-19 — JEE Main 2024 · 4 Apr Shift 1 · Q45 · MCQ
 
 The correct order of ligands in decreasing field strength is:
 
@@ -207,7 +197,7 @@ The correct order of ligands in decreasing field strength is:
 
 **Solution.** Spectrochemical series (weak to strong): $\text{I}^-<\text{Br}^-<\text{S}^{2-}<\text{SCN}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NCS}^-<\text{EDTA}^{4-}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) reads strong to weak.
 
-### C-COO-21 — JEE Main 2024 · 4 Apr Shift 2 · Q46 · MCQ
+### C-COO-20 — JEE Main 2024 · 4 Apr Shift 2 · Q46 · MCQ
 
 If an iron(III) complex of formula $[\text{Fe(NH}_3)_x(\text{CN})_y]^{-}$ has no electron in its $e_g$ orbitals, then $x+y$ is:
 
@@ -217,7 +207,7 @@ If an iron(III) complex of formula $[\text{Fe(NH}_3)_x(\text{CN})_y]^{-}$ has no
 
 **Solution.** An octahedral complex has $6$ ligands: $x+y=6$. For $\text{Fe}^{3+}$ ($d^5$) to have no $e_g$ electron, it is low spin, $t_{2g}^5e_g^0$. (Charge: $3-y=-1\Rightarrow y=4$, $x=2$.)
 
-### C-COO-22 — JEE Main 2024 · 4 Apr Shift 2 · Q47 · MCQ
+### C-COO-21 — JEE Main 2024 · 4 Apr Shift 2 · Q47 · MCQ
 
 The number of unpaired $d$-electrons in $[\text{Co(H}_2\text{O)}_6]^{3+}$ is:
 
@@ -227,7 +217,7 @@ The number of unpaired $d$-electrons in $[\text{Co(H}_2\text{O)}_6]^{3+}$ is:
 
 **Solution.** $\text{Co}^{3+}$ is $d^6$. The $+3$ charge gives a large splitting $\Delta_o$ (about $18{,}000\ \text{cm}^{-1}$), larger than the pairing energy, so the ion is low spin (experimentally $[\text{Co(H}_2\text{O)}_6]^{3+}$ is diamagnetic): $t_{2g}^6e_g^0$: $0$ unpaired electrons and a diamagnetic complex. (Contrast with $[\text{CoF}_6]^{3-}$, which is high spin.)
 
-### C-COO-23 — JEE Main 2024 · 5 Apr Shift 1 · Q45 · MCQ
+### C-COO-22 — JEE Main 2024 · 5 Apr Shift 1 · Q45 · MCQ
 
 Which complex will exhibit the least paramagnetic behaviour? ($Z$: Cr $24$, Mn $25$, Fe $26$, Co $27$)
 
@@ -237,7 +227,7 @@ Which complex will exhibit the least paramagnetic behaviour? ($Z$: Cr $24$, Mn $
 
 **Solution.** With the weak-field ligand $\text{H}_2\text{O}$ (high spin): $\text{Cr}^{2+}$ ($d^4$) has $4$ unpaired electrons, $\text{Fe}^{2+}$ ($d^6$) $4$, $\text{Co}^{2+}$ ($d^7$) $3$, $\text{Mn}^{2+}$ ($d^5$) $5$. $\text{Co}^{2+}$ has the fewest.
 
-### C-COO-24 — JEE Main 2024 · 5 Apr Shift 1 · Q46 · MCQ
+### C-COO-23 — JEE Main 2024 · 5 Apr Shift 1 · Q46 · MCQ
 
 The correct order of ligands in increasing field strength is:
 
@@ -247,7 +237,7 @@ The correct order of ligands in increasing field strength is:
 
 **Solution.** Spectrochemical series: $\text{I}^-<\text{Br}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) is in the right order.
 
-### C-COO-25 — JEE Main 2024 · 5 Apr Shift 2 · Q45 · MCQ
+### C-COO-24 — JEE Main 2024 · 5 Apr Shift 2 · Q45 · MCQ
 
 The number of complexes among $\text{TiCl}_4$, $[\text{MnO}_4]^-$, $[\text{FeO}_4]^{2-}$, $[\text{FeCl}_4]^-$, $[\text{CoCl}_4]^{2-}$ with no electrons in the $t_2$ orbitals is:
 
@@ -257,7 +247,7 @@ The number of complexes among $\text{TiCl}_4$, $[\text{MnO}_4]^-$, $[\text{FeO}_
 
 **Solution.** In a tetrahedral field the $e$ set lies below $t_2$. $\text{TiCl}_4$ ($\text{Ti}^{4+}$, $d^0$) and $[\text{MnO}_4]^-$ ($\text{Mn}^{7+}$, $d^0$): none. $[\text{FeO}_4]^{2-}$ ($\text{Fe}^{6+}$, $d^2$): $e^2t_2^0$. $[\text{FeCl}_4]^-$ ($d^5$, high spin): $e^2t_2^3$, and $[\text{CoCl}_4]^{2-}$ ($d^7$): $e^4t_2^3$ both have $t_2$ electrons. Count $=3$.
 
-### C-COO-26 — JEE Main 2024 · 5 Apr Shift 2 · Q46 · MCQ
+### C-COO-25 — JEE Main 2024 · 5 Apr Shift 2 · Q46 · MCQ
 
 The metal atom in a complex $\text{MABXL}$ (A, B, X, L unidentate) uses $sp^3$ hybridisation. The number of geometrical isomers is:
 
@@ -267,7 +257,7 @@ The metal atom in a complex $\text{MABXL}$ (A, B, X, L unidentate) uses $sp^3$ h
 
 **Solution.** $sp^3$ means a tetrahedral complex. A tetrahedral $\text{MABXL}$ (four different ligands) shows no geometrical isomerism, since all four positions are equivalent by rotation; it exhibits optical isomerism instead. So $0$.
 
-### C-COO-27 — JEE Main 2024 · 6 Apr Shift 1 · Q45 · MCQ
+### C-COO-26 — JEE Main 2024 · 6 Apr Shift 1 · Q45 · MCQ
 
 For the complexes (A) $[\text{CoCl(NH}_3)_5]^{2+}$, (B) $[\text{Co(CN)}_6]^{3-}$, (C) $[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$, (D) $[\text{Cu(H}_2\text{O)}_4]^{2+}$, the correct order in terms of wavenumber of light absorbed is:
 
@@ -277,7 +267,7 @@ For the complexes (A) $[\text{CoCl(NH}_3)_5]^{2+}$, (B) $[\text{Co(CN)}_6]^{3-}$
 
 **Solution.** The wavenumber absorbed is proportional to $\Delta$. $[\text{Co(CN)}_6]^{3-}$ (strong-field $\text{CN}^-$, $\text{Co}^{3+}$) has the largest $\Delta$. Among the $\text{Co}^{3+}$ pentammines $\text{H}_2\text{O}>\text{Cl}^-$, so C $>$ A. The $3d^9$ $[\text{Cu(H}_2\text{O)}_4]^{2+}$ with weak-field $\text{H}_2\text{O}$ (and a first-row $+2$ ion) has the smallest $\Delta$. Order: D < A < C < B.
 
-### C-COO-28 — JEE Main 2024 · 6 Apr Shift 2 · Q40 · MCQ
+### C-COO-27 — JEE Main 2024 · 6 Apr Shift 2 · Q40 · MCQ
 
 The correct IUPAC name of $[\text{PtBr}_2(\text{PMe}_3)_2]$ is:
 
@@ -287,7 +277,7 @@ The correct IUPAC name of $[\text{PtBr}_2(\text{PMe}_3)_2]$ is:
 
 **Solution.** Ligands are named alphabetically (bromo before trimethylphosphine, ignoring multipliers). The prefix "di" is used for simple ligands (bromo) and "bis" for ligands with substituent prefixes (trimethylphosphine). Pt is $+2$ ($2\times(-1)+0$). Name: dibromobis(trimethylphosphine)platinum(II).
 
-### C-COO-29 — JEE Main 2024 · 6 Apr Shift 2 · Q42 · MCQ
+### C-COO-28 — JEE Main 2024 · 6 Apr Shift 2 · Q42 · MCQ
 
 Match the complex with its electronic configuration: (A) $\text{TiCl}_4$; (B) $[\text{FeO}_4]^{2-}$; (C) $[\text{FeCl}_4]^-$; (D) $[\text{CoCl}_4]^{2-}$; (I) $e^2,t_2^0$; (II) $e^4,t_2^3$; (III) $e^0,t_2^0$; (IV) $e^2,t_2^3$.
 
@@ -297,7 +287,7 @@ Match the complex with its electronic configuration: (A) $\text{TiCl}_4$; (B) $[
 
 **Solution.** All are tetrahedral ($e$ below $t_2$). $\text{Ti}^{4+}$ ($d^0$): $e^0t_2^0$. $\text{Fe}^{6+}$ ($d^2$): $e^2t_2^0$. $\text{Fe}^{3+}$ ($d^5$, high spin): $e^2t_2^3$. $\text{Co}^{2+}$ ($d^7$): $e^4t_2^3$.
 
-### C-COO-30 — JEE Main 2024 · 8 Apr Shift 1 · Q35 · MCQ
+### C-COO-29 — JEE Main 2024 · 8 Apr Shift 1 · Q35 · MCQ
 
 Statement I: $\text{N(CH}_3)_3$ and $\text{P(CH}_3)_3$ can act as ligands to form transition metal complexes.
 Statement II: As N and P are from the same group, the nature of bonding of $\text{N(CH}_3)_3$ and $\text{P(CH}_3)_3$ with transition metals is always the same.
@@ -308,7 +298,7 @@ Statement II: As N and P are from the same group, the nature of bonding of $\tex
 
 **Solution.** Both have a lone pair and act as $\sigma$-donor ligands (I true). $\text{P(CH}_3)_3$ also accepts electron density from the metal into vacant $3d$ (or $\sigma^*$) orbitals of P ($\pi$-back bonding), which N cannot do, so the bonding is not the same: II false.
 
-### C-COO-31 — JEE Main 2024 · 8 Apr Shift 1 · Q44 · MCQ
+### C-COO-30 — JEE Main 2024 · 8 Apr Shift 1 · Q44 · MCQ
 
 The number of complexes with an even number of electrons in the $t_{2g}$ orbitals among $[\text{Fe(H}_2\text{O)}_6]^{2+}$, $[\text{Co(H}_2\text{O)}_6]^{2+}$, $[\text{Co(H}_2\text{O)}_6]^{3+}$, $[\text{Cu(H}_2\text{O)}_6]^{2+}$, $[\text{Cr(H}_2\text{O)}_6]^{2+}$ is:
 
@@ -318,7 +308,7 @@ The number of complexes with an even number of electrons in the $t_{2g}$ orbital
 
 **Solution.** $\text{Fe}^{2+}$ ($d^6$, high spin) $t_{2g}^4e_g^2$: $4$ (even). $\text{Co}^{2+}$ ($d^7$, high spin) $t_{2g}^5e_g^2$: $5$ (odd). $\text{Co}^{3+}$ ($d^6$, low spin with $\text{H}_2\text{O}$) $t_{2g}^6$: $6$ (even). $\text{Cu}^{2+}$ ($d^9$) $t_{2g}^6e_g^3$: $6$ (even). $\text{Cr}^{2+}$ ($d^4$) $t_{2g}^3e_g^1$: $3$ (odd). Count $=3$.
 
-### C-COO-32 — JEE Main 2024 · 8 Apr Shift 1 · Q45 · Numerical
+### C-COO-31 — JEE Main 2024 · 8 Apr Shift 1 · Q45 · Numerical
 
 An octahedral complex with formula $\text{CoCl}_3\cdot n\text{NH}_3$ upon reaction with excess $\text{AgNO}_3$ solution gives $2$ moles of AgCl. The oxidation state of Co in the complex is $x$. The value of $x+n$ is ______.
 
@@ -326,7 +316,7 @@ An octahedral complex with formula $\text{CoCl}_3\cdot n\text{NH}_3$ upon reacti
 
 **Solution.** Two $\text{Cl}^-$ per formula unit are ionisable (outside the sphere), so the complex is $[\text{Co(NH}_3)_5\text{Cl}]\text{Cl}_2$ (octahedral with $5+1=6$ ligands). $n=5$ and Co is $+3$ ($x=3$). $x+n=8$.
 
-### C-COO-33 — JEE Main 2024 · 8 Apr Shift 2 · Q58 · Numerical
+### C-COO-32 — JEE Main 2024 · 8 Apr Shift 2 · Q58 · Numerical
 
 The total number of unpaired electrons in the complex ions $[\text{Co(NH}_3)_6]^{3+}$ and $[\text{NiCl}_4]^{2-}$ is ______.
 
@@ -334,7 +324,7 @@ The total number of unpaired electrons in the complex ions $[\text{Co(NH}_3)_6]^
 
 **Solution.** $[\text{Co(NH}_3)_6]^{3+}$: $\text{Co}^{3+}$ ($d^6$) with strong-field $\text{NH}_3$, low spin $t_{2g}^6$: $0$ unpaired. $[\text{NiCl}_4]^{2-}$: $\text{Ni}^{2+}$ ($d^8$), tetrahedral ($sp^3$) with weak-field $\text{Cl}^-$: $e^4t_2^4$, $2$ unpaired. Total $=2$.
 
-### C-COO-34 — JEE Main 2024 · 9 Apr Shift 1 · Q46 · MCQ
+### C-COO-33 — JEE Main 2024 · 9 Apr Shift 1 · Q46 · MCQ
 
 Assertion A: The total number of geometrical isomers shown by the $[\text{Co(en)}_2\text{Cl}_2]^+$ complex ion is three.
 Reason R: The $[\text{Co(en)}_2\text{Cl}_2]^+$ complex ion has an octahedral geometry.
@@ -345,7 +335,7 @@ Reason R: The $[\text{Co(en)}_2\text{Cl}_2]^+$ complex ion has an octahedral geo
 
 **Solution.** $[\text{M(AA)}_2\text{X}_2]$ has two geometrical isomers, cis and trans (the cis form is optically active, giving $3$ stereoisomers in total but $2$ geometrical isomers). So A is wrong and R is right.
 
-### C-COO-35 — JEE Main 2024 · 9 Apr Shift 1 · Q59 · Numerical
+### C-COO-34 — JEE Main 2024 · 9 Apr Shift 1 · Q59 · Numerical
 
 The number of ambidentate ligands among $\text{NO}_2^-$, $\text{SCN}^-$, $\text{C}_2\text{O}_4^{2-}$, $\text{NH}_3$, $\text{CN}^-$, $\text{SO}_4^{2-}$, $\text{H}_2\text{O}$ is ______.
 
@@ -353,7 +343,7 @@ The number of ambidentate ligands among $\text{NO}_2^-$, $\text{SCN}^-$, $\text{
 
 **Solution.** Ambidentate ligands can bind through either of two different donor atoms: $\text{NO}_2^-$ (N or O), $\text{SCN}^-$ (S or N) and $\text{CN}^-$ (C or N). $\text{C}_2\text{O}_4^{2-}$ is bidentate (chelating), $\text{SO}_4^{2-}$ can bridge but is not classed as ambidentate, and $\text{NH}_3$, $\text{H}_2\text{O}$ are simple unidentate. Count $=3$.
 
-### C-COO-36 — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
+### C-COO-35 — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
 
 The correct order of the wavelength maxima of the absorption band in the UV–visible region for the complexes $[\text{Co(CN)}_6]^{3-}$, $[\text{Co(NH}_3)_6]^{3+}$, $[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$ and $[\text{Co(NH}_3)_5\text{Cl}]^{2+}$ is:
 

@@ -64,15 +64,7 @@ Reason (R): Covalent and ionic radii in a particular oxidation state increase do
 
 **Solution.** Both statements are true. Radii do increase down a group (R), but that does not explain the small increase from As to Bi: it is due to the poor shielding by the intervening filled $d$ (and $f$) orbitals, which raises $Z_{\text{eff}}$. So R is not the correct explanation.
 
-### C-PER-07 — JEE Main 2024 · 30 Jan Shift 1 · Q52 · Numerical
-
-If the IUPAC name of an element is "Unununnium", the element belongs to the $n$th group of the periodic table. The value of $n$ is ______.
-
-**Answer: 11** · key ✔
-
-**Solution.** IUPAC systematic names use the roots $0=$nil, $1=$un. "Un-un-un-ium" $=111$ (roentgenium, Rg), a member of group 11 (Cu, Ag, Au, Rg).
-
-### C-PER-08 — JEE Main 2024 · 30 Jan Shift 2 · Q31 · MCQ
+### C-PER-07 — JEE Main 2024 · 30 Jan Shift 2 · Q31 · MCQ
 
 Statement I: Along the period, the chemical reactivity of the elements gradually increases from group 1 to group 18.
 Statement II: The nature of oxides formed by group 1 elements is basic while that of group 17 elements is acidic.
@@ -83,7 +75,7 @@ Statement II: The nature of oxides formed by group 1 elements is basic while tha
 
 **Solution.** Reactivity is highest for the alkali metals and halogens and lowest at the noble gases and in the middle of the period, so I is false. Group 1 oxides are strongly basic and group 17 oxides ($\text{Cl}_2\text{O}_7$ etc.) are acidic, so II is true.
 
-### C-PER-09 — JEE Main 2024 · 31 Jan Shift 1 · Q31 · MCQ
+### C-PER-08 — JEE Main 2024 · 31 Jan Shift 1 · Q31 · MCQ
 
 The correct sequence of electron gain enthalpy of the elements A. Ar  B. Br  C. F  D. S is
 
@@ -93,7 +85,7 @@ The correct sequence of electron gain enthalpy of the elements A. Ar  B. Br  C. 
 
 **Solution.** Electron gain enthalpies ($\Delta_{eg}H$, kJ/mol): Ar $+96$ (noble gas, positive), S $-200$, Br $-325$, F $-328$. Ordering as signed values from largest to smallest gives Ar $>$ S $>$ Br $>$ F, i.e. A > D > B > C.
 
-### C-PER-10 — JEE Main 2024 · 1 Feb Shift 1 · Q32 · MCQ
+### C-PER-09 — JEE Main 2024 · 1 Feb Shift 1 · Q32 · MCQ
 
 In case of isoelectronic species the size of $\text{F}^-$, Ne and $\text{Na}^+$ is affected by:
 
@@ -103,7 +95,7 @@ In case of isoelectronic species the size of $\text{F}^-$, Ne and $\text{Na}^+$ 
 
 **Solution.** All three have $10$ electrons and the same $n=2$ shell, so the only thing that changes is the nuclear charge ($9,10,11$). A larger $Z$ pulls the same electron cloud in more strongly, so radius falls: $\text{F}^->\text{Ne}>\text{Na}^+$.
 
-### C-PER-11 — JEE Main 2024 · 1 Feb Shift 1 · Q52 · Numerical
+### C-PER-10 — JEE Main 2024 · 1 Feb Shift 1 · Q52 · Numerical
 
 The lowest oxidation number of an atom in a compound $\text{A}_2\text{B}$ is $-2$. The number of electrons in its valence shell is ______.
 
@@ -111,7 +103,7 @@ The lowest oxidation number of an atom in a compound $\text{A}_2\text{B}$ is $-2
 
 **Solution.** In $\text{A}_2\text{B}$, B carries the negative oxidation state $-2$, so it needs $2$ electrons to complete an octet: it has $8-2=6$ valence electrons (group 16, e.g. $\text{Na}_2\text{O}$, $\text{H}_2\text{S}$).
 
-### C-PER-12 — JEE Main 2024 · 1 Feb Shift 2 · Q32 · MCQ
+### C-PER-11 — JEE Main 2024 · 1 Feb Shift 2 · Q32 · MCQ
 
 Statement I: Both metals and non-metals exist in the p- and d-block elements.
 Statement II: Non-metals have higher ionisation enthalpy and higher electronegativity than metals.
@@ -122,7 +114,7 @@ Statement II: Non-metals have higher ionisation enthalpy and higher electronegat
 
 **Solution.** The p-block has both metals and non-metals, but every d-block element is a metal, so I is false. II is generally true: small non-metal atoms hold their electrons more tightly.
 
-### C-PER-13 — JEE Main 2024 · 4 Apr Shift 1 · Q31 · Numerical
+### C-PER-12 — JEE Main 2024 · 4 Apr Shift 1 · Q31 · Numerical
 
 The number of elements from B, C, N, S, O, F, P, Al, Si that CANNOT form compounds with valencies matching their group valencies is ______.
 
@@ -130,7 +122,7 @@ The number of elements from B, C, N, S, O, F, P, Al, Si that CANNOT form compoun
 
 **Solution.** Second-period elements have no $d$ orbitals and cannot expand their octet. $\text{N}$ (group valency $5$), $\text{O}$ ($6$) and $\text{F}$ ($7$) cannot reach their group valency; B, C, Al, Si, P and S can ($\text{BF}_3$, $\text{CO}_2$, $\text{AlCl}_3$, $\text{SiO}_2$, $\text{PCl}_5$, $\text{SF}_6$). Count $=3$.
 
-### C-PER-14 — JEE Main 2024 · 4 Apr Shift 1 · Q32 · MCQ
+### C-PER-13 — JEE Main 2024 · 4 Apr Shift 1 · Q32 · MCQ
 
 The correct order of first ionisation enthalpy of (A) O, (B) N, (C) Be, (D) F, (E) B is:
 
@@ -140,7 +132,7 @@ The correct order of first ionisation enthalpy of (A) O, (B) N, (C) Be, (D) F, (
 
 **Solution.** Values (kJ/mol): B $801$, Be $899$, O $1314$, N $1402$, F $1681$. Be is above B (filled $2s$), and N is above O (half-filled $2p$). Order: B < Be < O < N < F, i.e. E < C < A < B < D.
 
-### C-PER-15 — JEE Main 2024 · 4 Apr Shift 2 · Q32 · MCQ
+### C-PER-14 — JEE Main 2024 · 4 Apr Shift 2 · Q32 · MCQ
 
 The correct order of first ionisation enthalpy is:
 
@@ -150,7 +142,7 @@ The correct order of first ionisation enthalpy is:
 
 **Solution.** In group 13 the first IE does not fall smoothly. $\text{B}$ ($801$) is highest, $\text{Al}$ is $577$, $\text{Ga}$ is $579$ (poor shielding by the $3d^{10}$ electrons) and $\text{Tl}$ is $589$ (poor shielding by $4f^{14}5d^{10}$). So $\text{B}>\text{Tl}>\text{Ga}>\text{Al}$; among the given options, $\text{Tl}>\text{Ga}>\text{Al}$.
 
-### C-PER-16 — JEE Main 2024 · 4 Apr Shift 2 · Q33 · MCQ
+### C-PER-15 — JEE Main 2024 · 4 Apr Shift 2 · Q33 · MCQ
 
 Statement I: The order of first ionisation enthalpy of Li, Na, F, Cl is $\text{Na}<\text{Li}<\text{Cl}<\text{F}$.
 Statement II: The order of negative electron gain enthalpy of Li, Na, F, Cl is $\text{Na}<\text{Li}<\text{F}<\text{Cl}$.
@@ -161,7 +153,7 @@ Statement II: The order of negative electron gain enthalpy of Li, Na, F, Cl is $
 
 **Solution.** First IE (kJ/mol): Na $496$ < Li $520$ < Cl $1251$ < F $1681$. Electron gain enthalpy (kJ/mol): Na $-53$, Li $-60$, F $-328$, Cl $-349$; F is less negative than Cl because of its small size and inter-electronic repulsion. Both statements are true.
 
-### C-PER-17 — JEE Main 2024 · 5 Apr Shift 1 · Q34 · MCQ
+### C-PER-16 — JEE Main 2024 · 5 Apr Shift 1 · Q34 · MCQ
 
 Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text{Mg}^{2+}$: (A) All are isoelectronic. (B) All have the same nuclear charge. (C) $\text{O}^{2-}$ has the largest ionic radius. (D) $\text{Mg}^{2+}$ has the smallest ionic radius.
 
@@ -171,7 +163,7 @@ Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text
 
 **Solution.** Each has $10$ electrons (A true) but nuclear charges $8,9,11,12$ (B false). For an isoelectronic series, radius falls as $Z$ rises: $\text{O}^{2-}>\text{F}^->\text{Na}^+>\text{Mg}^{2+}$, so C and D are true.
 
-### C-PER-18 — JEE Main 2024 · 5 Apr Shift 2 · Q32 · MCQ
+### C-PER-17 — JEE Main 2024 · 5 Apr Shift 2 · Q32 · MCQ
 
 Statement I: The metallic radius of Na is $1.86\ \text{Å}$ and the ionic radius of $\text{Na}^+$ is smaller than $1.86\ \text{Å}$.
 Statement II: Ions are always smaller in size than the corresponding elements.
@@ -182,7 +174,7 @@ Statement II: Ions are always smaller in size than the corresponding elements.
 
 **Solution.** A cation is smaller than its atom ($\text{Na}^+$ is $1.02\ \text{Å}$) because it loses the outer shell, so I is true. An anion is larger than its atom ($\text{Cl}^-$ $1.81$ vs Cl $0.99\ \text{Å}$), so II is false.
 
-### C-PER-19 — JEE Main 2024 · 8 Apr Shift 1 · Q32 · MCQ
+### C-PER-18 — JEE Main 2024 · 8 Apr Shift 1 · Q32 · MCQ
 
 Match the elements with their properties in their respective groups: A. Cl, S; B. Ge, As; C. Fr, Ra; D. F, O; (I) highest electronegativity; (II) largest atomic size; (III) show properties of both metals and non-metals; (IV) highest negative electron gain enthalpy.
 
@@ -192,7 +184,7 @@ Match the elements with their properties in their respective groups: A. Cl, S; B
 
 **Solution.** Cl (group 17) and S (group 16) have the most negative electron gain enthalpies in their groups (IV). Ge and As are metalloids (III). Fr (group 1) and Ra (group 2) are the largest atoms in their groups (II). F and O are the most electronegative in their groups (I).
 
-### C-PER-20 — JEE Main 2024 · 9 Apr Shift 1 · Q32 · MCQ
+### C-PER-19 — JEE Main 2024 · 9 Apr Shift 1 · Q32 · MCQ
 
 Statement I: The oxidation state of an element in a compound is the charge acquired by its atom on the basis of electron gain enthalpy considerations from other atoms in the molecule.
 Statement II: $p\pi$–$p\pi$ bond formation is more prevalent in second-period elements than in other periods.

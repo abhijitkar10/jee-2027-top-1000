@@ -20,3 +20,11 @@ Two identical plates P and Q, radiating as perfect black bodies, are at fixed te
 
 **Solution.** Initially $W_0=\sigma(T_P^4-T_Q^4)$. With four plates there are three gaps in series and, in steady state, the same power flows through each: $W_S=\sigma(T_1^4-T_2^4)=\sigma(T_2^4-T_3^4)=\sigma(T_3^4-T_4^4)$. Adding: $3W_S=\sigma(T_P^4-T_Q^4)=W_0$, so $W_0/W_S=3$.
 
+### P-HET-03 — JEE Main 2023 · 24 Jan Shift 1 · Q24 · Numerical
+
+A hole is drilled in a metal sheet. At $27^\circ$C the diameter of the hole is $5$ cm. When the sheet is heated to $177^\circ$C, the change in the diameter of the hole is $d\times10^{-3}$ cm. $d=$ ______ (coefficient of linear expansion $1.6\times10^{-5}\,/^\circ$C).
+
+**Answer: 12** · key ✔
+
+**Solution.** A hole expands exactly as if it were filled with the same metal. $\Delta d=d\,\alpha\,\Delta T=5\times1.6\times10^{-5}\times150=1.2\times10^{-2}$ cm $=12\times10^{-3}$ cm.
+

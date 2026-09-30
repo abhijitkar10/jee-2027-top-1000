@@ -58,17 +58,7 @@ A power transmission line feeds input power at $2.3$ kV to a step-down transform
 
 **Solution.** $P_{in}=2300\times5=11500$ W. $P_{out}=0.9\times11500=10350$ W. $I_{out}=\dfrac{10350}{230}=45$ A.
 
-### P-ACC-07 — JEE Main 2024 · 31 Jan Shift 2 · Q14 · MCQ
-
-An AC voltage $V=20\sin200\pi t$ is applied to a series LCR circuit which drives a current $I=10\sin\!\left(200\pi t+\dfrac\pi3\right)$. The average power dissipated is
-
-(1) 21.6 W  (2) 200 W  (3) 173.2 W  (4) 50 W
-
-**Answer: (4)** · key ✔
-
-**Solution.** $P_{av}=\tfrac12V_0I_0\cos\phi=\tfrac12(20)(10)\cos\dfrac\pi3=100\times\tfrac12=50$ W.
-
-### P-ACC-08 — JEE Main 2024 · 1 Feb Shift 1 · Q14 · MCQ
+### P-ACC-07 — JEE Main 2024 · 1 Feb Shift 1 · Q14 · MCQ
 
 A parallel plate capacitor has capacitance $C=200$ pF. It is connected to a $230$ V ac supply with an angular frequency of $300\ \text{rad s}^{-1}$. The rms values of the conduction current in the circuit and the displacement current in the capacitor respectively are
 
@@ -78,7 +68,7 @@ A parallel plate capacitor has capacitance $C=200$ pF. It is connected to a $230
 
 **Solution.** $I_{rms}=\dfrac{V_{rms}}{X_C}=V_{rms}\,\omega C=230\times300\times200\times10^{-12}=13.8\ \mu\text{A}$. By continuity of current, the displacement current between the plates has the same value, $13.8\ \mu$A.
 
-### P-ACC-09 — JEE Main 2024 · 1 Feb Shift 1 · Q15 · MCQ
+### P-ACC-08 — JEE Main 2024 · 1 Feb Shift 1 · Q15 · MCQ
 
 In a series LCR circuit the capacitance is changed from $C$ to $4C$. To keep the resonance frequency unchanged, the new inductance should be
 
@@ -88,7 +78,7 @@ In a series LCR circuit the capacitance is changed from $C$ to $4C$. To keep the
 
 **Solution.** Resonance frequency $f=\dfrac1{2\pi\sqrt{LC}}$ is fixed, so $LC$ is constant: $L'(4C)=LC\Rightarrow L'=\tfrac L4$. This is a reduction by $L-\tfrac L4=\tfrac34L$.
 
-### P-ACC-10 — JEE Main 2024 · 4 Apr Shift 1 · Q15 · MCQ
+### P-ACC-09 — JEE Main 2024 · 4 Apr Shift 1 · Q15 · MCQ
 
 In an ac circuit the instantaneous current is zero when the instantaneous voltage is maximum. The source may be connected to: A. pure inductor  B. pure capacitor  C. pure resistor  D. a combination of an inductor and a capacitor.
 
@@ -98,7 +88,7 @@ In an ac circuit the instantaneous current is zero when the instantaneous voltag
 
 **Solution.** This needs a $90^\circ$ phase difference between $V$ and $I$. A pure $L$ or pure $C$ gives exactly $\pm90^\circ$, and an ideal series $L$–$C$ combination (no resistance) also gives $\pm90^\circ$. A pure resistor gives $0^\circ$. So A, B and D.
 
-### P-ACC-11 — JEE Main 2024 · 4 Apr Shift 1 · Q28 · Numerical
+### P-ACC-10 — JEE Main 2024 · 4 Apr Shift 1 · Q28 · Numerical
 
 An alternating current at any instant is $i=\left[6+\sqrt{56}\sin(100\pi t+\pi/3)\right]$ A. The r.m.s. value of the current is ______ A.
 
@@ -106,7 +96,7 @@ An alternating current at any instant is $i=\left[6+\sqrt{56}\sin(100\pi t+\pi/3
 
 **Solution.** For $i=I_0+I_1\sin(\omega t+\phi)$: $i_{rms}^2=I_0^2+\dfrac{I_1^2}{2}=36+\dfrac{56}{2}=64$, so $i_{rms}=8$ A.
 
-### P-ACC-12 — JEE Main 2024 · 5 Apr Shift 1 · Q16 · MCQ
+### P-ACC-11 — JEE Main 2024 · 5 Apr Shift 1 · Q16 · MCQ
 
 An alternating voltage of amplitude $40$ V and frequency $4$ kHz is applied directly across a $12\ \mu\text{F}$ capacitor. The maximum displacement current between the plates is nearly:
 
@@ -116,7 +106,7 @@ An alternating voltage of amplitude $40$ V and frequency $4$ kHz is applied dire
 
 **Solution.** The displacement current equals the conduction current in the circuit: $I_0=\omega CV_0=2\pi(4000)(12\times10^{-6})(40)=12.06$ A $\approx12$ A.
 
-### P-ACC-13 — JEE Main 2024 · 5 Apr Shift 1 · Q28 · Numerical
+### P-ACC-12 — JEE Main 2024 · 5 Apr Shift 1 · Q28 · Numerical
 
 A series LCR circuit has $L=1$ H, $R=300\ \Omega$, $C=20\ \mu\text{F}$, driven by $V=50\sqrt2\sin(100t)$ V. The r.m.s. potential difference across the capacitor is ______ V.
 
@@ -124,7 +114,7 @@ A series LCR circuit has $L=1$ H, $R=300\ \Omega$, $C=20\ \mu\text{F}$, driven b
 
 **Solution.** $X_L=100\times1=100\ \Omega$, $X_C=\dfrac{1}{100\times20\times10^{-6}}=500\ \Omega$. $Z=\sqrt{300^2+400^2}=500\ \Omega$. $I_{rms}=\dfrac{50}{500}=0.1$ A, so $V_C=0.1\times500=50$ V.
 
-### P-ACC-14 — JEE Main 2024 · 5 Apr Shift 2 · Q14 · MCQ
+### P-ACC-13 — JEE Main 2024 · 5 Apr Shift 2 · Q14 · MCQ
 
 A series LCR circuit is subjected to an ac signal of $200$ V, $50$ Hz. If the voltage across the inductor ($L=10$ mH) is $31.4$ V, the current in this circuit is:
 
@@ -134,7 +124,7 @@ A series LCR circuit is subjected to an ac signal of $200$ V, $50$ Hz. If the vo
 
 **Solution.** $X_L=2\pi fL=2\pi(50)(0.01)=3.14\ \Omega$. $I=\dfrac{V_L}{X_L}=\dfrac{31.4}{3.14}=10$ A.
 
-### P-ACC-15 — JEE Main 2024 · 6 Apr Shift 1 · Q14 · MCQ
+### P-ACC-14 — JEE Main 2024 · 6 Apr Shift 1 · Q14 · MCQ
 
 Statement I: In an LCR series circuit, the current is maximum at resonance.
 Statement II: The current in a purely resistive circuit can never be less than that in a series LCR circuit connected to the same voltage source.
@@ -145,7 +135,7 @@ Statement II: The current in a purely resistive circuit can never be less than t
 
 **Solution.** At resonance $Z=R$ (its minimum), so $I=V/R$ is maximum: I true. For any $\omega$, $Z=\sqrt{R^2+(X_L-X_C)^2}\ge R$, so the LCR current never exceeds the purely resistive current $V/R$: II true.
 
-### P-ACC-16 — JEE Main 2024 · 6 Apr Shift 1 · Q28 · Numerical
+### P-ACC-15 — JEE Main 2024 · 6 Apr Shift 1 · Q28 · Numerical
 
 A dc voltage of $100$ V applied to an inductor gives a dc current of $5$ A. When an ac voltage of $200$ V peak is connected to the inductor, its inductive reactance is $20\sqrt3\ \Omega$. The power dissipated in the circuit is ______ W.
 
@@ -153,17 +143,7 @@ A dc voltage of $100$ V applied to an inductor gives a dc current of $5$ A. When
 
 **Solution.** The dc resistance is $R=\dfrac{100}{5}=20\ \Omega$. $Z=\sqrt{20^2+(20\sqrt3)^2}=40\ \Omega$. $I_{rms}=\dfrac{200/\sqrt2}{40}=\dfrac{5}{\sqrt2}$ A, so $P=I_{rms}^2R=12.5\times20=250$ W.
 
-### P-ACC-17 — JEE Main 2024 · 8 Apr Shift 1 · Q14 · MCQ
-
-An LCR circuit is at resonance for a capacitor $C$, inductance $L$ and resistance $R$. The value of the resistance is now halved keeping all other parameters the same. The current amplitude at resonance will now be:
-
-(1) zero  (2) same  (3) halved  (4) double
-
-**Answer: (4)** · key ✔
-
-**Solution.** At resonance $Z=R$, so $I_0=\dfrac{V_0}{R}$. Halving $R$ doubles the current amplitude.
-
-### P-ACC-18 — JEE Main 2024 · 8 Apr Shift 2 · Q14 · MCQ
+### P-ACC-16 — JEE Main 2024 · 8 Apr Shift 2 · Q14 · MCQ
 
 A coil of negligible resistance is connected in series with a $90\ \Omega$ resistor across a $120$ V, $60$ Hz supply. A voltmeter reads $36$ V across the resistance. The inductance of the coil is:
 
@@ -173,7 +153,7 @@ A coil of negligible resistance is connected in series with a $90\ \Omega$ resis
 
 **Solution.** $I=\dfrac{36}{90}=0.4$ A. $Z=\dfrac{120}{0.4}=300\ \Omega$. $X_L=\sqrt{Z^2-R^2}=\sqrt{300^2-90^2}=286\ \Omega$. $L=\dfrac{X_L}{2\pi f}=\dfrac{286}{2\pi\times60}=0.76$ H.
 
-### P-ACC-19 — JEE Main 2024 · 8 Apr Shift 2 · Q28 · Numerical
+### P-ACC-17 — JEE Main 2024 · 8 Apr Shift 2 · Q28 · Numerical
 
 An alternating emf $E=110\sqrt2\sin100t$ volt is applied to a $2\ \mu$F capacitor. The r.m.s. value of the current in the circuit is ______ mA.
 
@@ -181,7 +161,7 @@ An alternating emf $E=110\sqrt2\sin100t$ volt is applied to a $2\ \mu$F capacito
 
 **Solution.** $V_{rms}=110$ V, $\omega=100$ rad/s. $X_C=\dfrac{1}{100\times2\times10^{-6}}=5000\ \Omega$. $I_{rms}=\dfrac{110}{5000}=0.022$ A $=22$ mA.
 
-### P-ACC-20 — JEE Main 2024 · 9 Apr Shift 1 · Q10 · MCQ
+### P-ACC-18 — JEE Main 2024 · 9 Apr Shift 1 · Q10 · MCQ
 
 A bulb and a capacitor are connected in series across an ac supply. A dielectric is then placed between the plates of the capacitor. The glow of the bulb:
 
@@ -191,7 +171,7 @@ A bulb and a capacitor are connected in series across an ac supply. A dielectric
 
 **Solution.** A dielectric increases $C=K C_0$, so $X_C=\dfrac1{\omega C}$ falls. The circuit impedance decreases, the current rises, and the bulb glows brighter.
 
-### P-ACC-21 — JEE Main 2024 · 9 Apr Shift 1 · Q28 · Numerical
+### P-ACC-19 — JEE Main 2024 · 9 Apr Shift 1 · Q28 · Numerical
 
 A coil connected across a $20$ V dc supply draws a current of $5$ A. Connected across a $20$ V, $50$ Hz ac supply, it draws $4$ A. The self-inductance of the coil is ______ mH. (Take $\pi=3$)
 
