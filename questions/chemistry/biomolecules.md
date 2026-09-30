@@ -101,3 +101,13 @@ The number of tripeptides formed by three different amino acids, each used once,
 
 **Solution.** Different sequences of three distinct residues are different tripeptides: $3!=6$.
 
+### C-BIO-11 — JEE Main 2024 · 4 Apr Shift 2 · Q50 · MCQ
+
+Match List I with List II: (A) $\alpha$-glucose and $\alpha$-galactose; (B) $\alpha$-glucose and $\beta$-glucose; (C) $\alpha$-glucose and $\alpha$-fructose; (D) $\alpha$-glucose and $\alpha$-ribose; (I) functional isomers; (II) homologous; (III) anomers; (IV) epimers.
+
+(1) A-IV, B-III, C-I, D-II  (2) A-III, B-IV, C-I, D-II  (3) A-IV, B-III, C-II, D-I  (4) A-III, B-IV, C-II, D-I
+
+**Answer: (1)** · key ✔
+
+**Solution.** Glucose and galactose differ only at C-4: epimers (IV). $\alpha$ and $\beta$ glucose differ at the anomeric C-1: anomers (III). Glucose (aldose) and fructose (ketose), both $\text{C}_6\text{H}_{12}\text{O}_6$, are functional isomers (I). Glucose ($\text{C}_6$) and ribose ($\text{C}_5$) differ by a $\text{CHOH}$ unit: homologous-type relationship (II) as per the key.
+

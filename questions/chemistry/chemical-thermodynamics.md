@@ -70,3 +70,11 @@ For $\text{C}_2\text{H}_4+\text{H}_2\to\text{C}_2\text{H}_6$, the bond energies 
 
 **Solution.** Bonds broken: $\text{C=C}$ ($615$) + $\text{H-H}$ ($435$) $=1050$. Bonds formed: $\text{C-C}$ ($347$) + $2\,\text{C-H}$ ($828$) $=1175$. $\Delta H=1050-1175=-125$ kJ mol$^{-1}$; the value asked is $125$ kJ (exothermic).
 
+### C-CTH-09 — JEE Main 2024 · 4 Apr Shift 2 · Q53 · Numerical
+
+Three moles of an ideal gas are compressed isothermally from $60$ L to $20$ L using a constant external pressure of $5$ atm. The heat exchange $Q$ for the compression is $-$ ______ L atm.
+
+**Answer: 200** · key ✔
+
+**Solution.** $w=-p_{ext}\Delta V=-5(20-60)=+200$ L atm. Isothermal ideal gas: $\Delta U=0$, so $q=-w=-200$ L atm (heat is released).
+

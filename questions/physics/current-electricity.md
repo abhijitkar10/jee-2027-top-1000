@@ -176,3 +176,21 @@ In an ammeter, $5\%$ of the main current passes through the galvanometer of resi
 
 **Solution.** $I_g=0.05I$, shunt current $0.95I$: $0.05\,G=0.95\,S\Rightarrow S=G/19$. Ammeter resistance $=\dfrac{GS}{G+S}=\dfrac{G\cdot G/19}{20G/19}=\dfrac{G}{20}$.
 
+### P-CUR-19 — JEE Main 2024 · 4 Apr Shift 2 · Q12 · MCQ
+
+An electric bulb rated $50\ \text{W}$–$200\ \text{V}$ is connected across a $100$ V supply. The power dissipated by the bulb is:
+
+(1) 25 W  (2) 12.5 W  (3) 50 W  (4) 100 W
+
+**Answer: (2)** · key ✔
+
+**Solution.** $R=\dfrac{V^2}{P}=\dfrac{200^2}{50}=800\ \Omega$. At $100$ V: $P=\dfrac{100^2}{800}=12.5$ W (power scales as $V^2$).
+
+### P-CUR-20 — JEE Main 2024 · 4 Apr Shift 2 · Q26 · Numerical
+
+Two wires A and B are made of the same material and have the same mass. Wire B has radius $4.0$ mm and resistance $2\ \Omega$. Wire A has radius $2.0$ mm. The resistance of wire A is ______ $\Omega$.
+
+**Answer: 32** · key ✔
+
+**Solution.** Same material and mass means the same volume: $l\propto1/r^2$. $R=\rho\dfrac lA\propto\dfrac{1}{r^4}$. $\dfrac{R_A}{R_B}=\left(\dfrac{4}{2}\right)^4=16\Rightarrow R_A=32\ \Omega$.
+

@@ -51,3 +51,11 @@ Statement II: The reaction between benzaldehyde and ethanal will NOT give a cros
 
 **Solution.** I is true: the $\alpha$-H is removed to give the enolate nucleophile. II is false: benzaldehyde has no $\alpha$-H and cannot self-condense, but ethanal's enolate attacks it to give a cross-aldol (Claisen–Schmidt) product, cinnamaldehyde after dehydration.
 
+### C-ALD-06 — JEE Main 2024 · 4 Apr Shift 2 · Q60 · Numerical
+
+Vanillin (obtained from vanilla beans) has a total of oxygen atoms and $\pi$ electrons equal to ______.
+
+**Answer: 11** · key ✔
+
+**Solution.** Vanillin is $4$-hydroxy-$3$-methoxybenzaldehyde, $\text{C}_8\text{H}_8\text{O}_3$. Oxygen atoms: $3$. $\pi$ electrons: benzene ring $6$ + $\text{C=O}$ of $\text{CHO}$ $2$ $=8$. Total $=11$.
+

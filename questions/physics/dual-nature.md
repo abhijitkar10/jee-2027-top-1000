@@ -92,3 +92,14 @@ Monochromatic light of frequency $6\times10^{14}$ Hz is produced by a laser of p
 
 **Solution.** $N=\dfrac{P}{h\nu}=\dfrac{2\times10^{-3}}{6.63\times10^{-34}\times6\times10^{14}}\approx5\times10^{15}\ \text{s}^{-1}$.
 
+### P-DUL-10 — JEE Main 2024 · 4 Apr Shift 2 · Q17 · MCQ
+
+Assertion A: The number of photons increases with an increase in the frequency of light.
+Reason R: The maximum kinetic energy of emitted electrons increases with the frequency of the incident radiation.
+
+(1) Both correct, R explains A  (2) Both correct, R does not explain A  (3) A is not correct but R is correct  (4) A is correct but R is not correct
+
+**Answer: (3)** · key ✔
+
+**Solution.** For a fixed intensity, the photon number per second is $I/(h\nu)$, which *decreases* as $\nu$ rises; A is false. R is Einstein's equation $K_{max}=h\nu-\phi$, which is true.
+

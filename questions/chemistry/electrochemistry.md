@@ -208,3 +208,23 @@ The calomel electrode belongs to which category?
 
 **Solution.** Calomel is $\text{Hg}\,|\,\text{Hg}_2\text{Cl}_2(s)\,|\,\text{Cl}^-$: a metal in contact with its sparingly soluble salt and the common anion.
 
+### C-ELC-23 — JEE Main 2024 · 4 Apr Shift 2 · Q42 · MCQ
+
+For a strong electrolyte, a plot of molar conductivity against $c^{1/2}$ is a straight line with negative slope. The correct unit of the slope is:
+
+(1) $\text{S cm}^2\text{mol}^{-3/2}\text{L}^{-1/2}$  (2) $\text{S cm}^2\text{mol}^{-3/2}\text{L}^{1/2}$  (3) $\text{S cm}^2\text{mol}^{-3/2}\text{L}$  (4) $\text{S cm}^2\text{mol}^{-1}\text{L}^{1/2}$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Debye–Hückel–Onsager: $\Lambda_m=\Lambda_m^\circ-A\sqrt c$. The unit of $A$ is $\dfrac{\text{S cm}^2\text{mol}^{-1}}{(\text{mol L}^{-1})^{1/2}}=\text{S cm}^2\text{mol}^{-3/2}\text{L}^{1/2}$.
+
+### C-ELC-24 — JEE Main 2024 · 4 Apr Shift 2 · Q43 · MCQ
+
+A hydrogen–oxygen fuel cell: A. has been used in spaceships; B. has an efficiency of $40\%$ to produce electricity; C. uses aluminium as catalyst; D. is eco-friendly; E. is actually a type of galvanic cell only.
+
+(1) A, B, D, E only  (2) A, D, E only  (3) A, B, D only  (4) A, B, C only
+
+**Answer: (2)** · key ✔
+
+**Solution.** The $\text{H}_2$–$\text{O}_2$ cell was used in Apollo spacecraft (A), gives only water (D), and is a galvanic cell with continuously supplied reactants (E). Its efficiency is about $60$–$70\%$ (not $40\%$, so B is rejected), and the catalysts used are Pt/Pd, not Al (C is false).
+

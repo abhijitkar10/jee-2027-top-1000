@@ -140,3 +140,11 @@ The coordinates of a particle in the $x$–$y$ plane are $x=2+4t$, $y=3t+8t^2$. 
 
 **Solution.** $a_x=0$, $a_y=16$ (constant), so the acceleration is uniform. Eliminating $t=(x-2)/4$: $y=\tfrac34(x-2)+\tfrac12(x-2)^2$, a parabola. The initial velocity $(4,3)$ is not parallel to $a$, so the path is not straight.
 
+### P-KIN-16 — JEE Main 2024 · 4 Apr Shift 2 · Q21 · Numerical
+
+A bus moving at $72$ km/h is brought to a halt within $4$ s after applying the brakes (uniform retardation). The distance travelled during this time is ______ m.
+
+**Answer: 40** · key ✔
+
+**Solution.** $u=72\ \text{km/h}=20$ m/s, final speed $0$: $s=\dfrac{u+0}{2}t=10\times4=40$ m.
+

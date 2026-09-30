@@ -107,3 +107,13 @@ An electron is projected with uniform velocity along the axis inside a current-c
 
 **Solution.** Inside a long solenoid the field is uniform and parallel to the axis. The electron's velocity is parallel to $\vec B$, so $\vec F=q\vec v\times\vec B=0$ and it keeps moving uniformly.
 
+### P-MAG-13 — JEE Main 2024 · 4 Apr Shift 2 · Q13 · MCQ
+
+The magnetic moment of a bar magnet is $0.5\ \text{A m}^2$. It is suspended in a uniform magnetic field of $8\times10^{-2}$ T. The work done in rotating it from its most stable to its most unstable position is:
+
+(1) $8\times10^{-2}$ J  (2) $4\times10^{-2}$ J  (3) zero  (4) $16\times10^{-2}$ J
+
+**Answer: (1)** · key ✔
+
+**Solution.** $U=-mB\cos\theta$, from $\theta=0$ to $\pi$: $W=2mB=2\times0.5\times8\times10^{-2}=8\times10^{-2}$ J.
+

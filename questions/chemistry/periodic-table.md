@@ -140,3 +140,24 @@ The correct order of first ionisation enthalpy of (A) O, (B) N, (C) Be, (D) F, (
 
 **Solution.** Values (kJ/mol): B $801$, Be $899$, O $1314$, N $1402$, F $1681$. Be is above B (filled $2s$), and N is above O (half-filled $2p$). Order: B < Be < O < N < F, i.e. E < C < A < B < D.
 
+### C-PER-15 — JEE Main 2024 · 4 Apr Shift 2 · Q32 · MCQ
+
+The correct order of first ionisation enthalpy is:
+
+(1) $\text{Al}>\text{Ga}>\text{Tl}$  (2) $\text{Ga}>\text{Al}>\text{B}$  (3) $\text{Tl}>\text{Ga}>\text{Al}$  (4) $\text{B}>\text{Al}>\text{Ga}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** In group 13 the first IE does not fall smoothly. $\text{B}$ ($801$) is highest, $\text{Al}$ is $577$, $\text{Ga}$ is $579$ (poor shielding by the $3d^{10}$ electrons) and $\text{Tl}$ is $589$ (poor shielding by $4f^{14}5d^{10}$). So $\text{B}>\text{Tl}>\text{Ga}>\text{Al}$; among the given options, $\text{Tl}>\text{Ga}>\text{Al}$.
+
+### C-PER-16 — JEE Main 2024 · 4 Apr Shift 2 · Q33 · MCQ
+
+Statement I: The order of first ionisation enthalpy of Li, Na, F, Cl is $\text{Na}<\text{Li}<\text{Cl}<\text{F}$.
+Statement II: The order of negative electron gain enthalpy of Li, Na, F, Cl is $\text{Na}<\text{Li}<\text{F}<\text{Cl}$.
+
+(1) I true, II false  (2) I false, II true  (3) Both false  (4) Both true
+
+**Answer: (4)** · key ✔
+
+**Solution.** First IE (kJ/mol): Na $496$ < Li $520$ < Cl $1251$ < F $1681$. Electron gain enthalpy (kJ/mol): Na $-53$, Li $-60$, F $-328$, Cl $-349$; F is less negative than Cl because of its small size and inter-electronic repulsion. Both statements are true.
+

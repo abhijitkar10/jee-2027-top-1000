@@ -84,3 +84,11 @@ The mass of ethylene glycol (antifreeze) to be added to $18.6$ kg of water to pr
 
 **Solution.** $\Delta T_f=K_fm\Rightarrow m=\dfrac{24}{1.86}=12.9$ mol kg$^{-1}$. Moles $=12.9\times18.6=240$ mol; mass $=240\times62=14880$ g $\approx15$ kg.
 
+### C-SOL-10 — JEE Main 2024 · 4 Apr Shift 2 · Q55 · Numerical
+
+$2.7$ kg of each of water and acetic acid are mixed. The freezing point of the solution will be $-x^\circ$C (acetic acid neither dimerises nor dissociates). $x=$ ______ (nearest integer). ($K_f$ of water $=1.86$, molar masses $18$ and $60$ g mol$^{-1}$)
+
+**Answer: 31** · key ✔
+
+**Solution.** Treat acetic acid as the solute in water: $n=\dfrac{2700}{60}=45$ mol in $2.7$ kg, so $m=16.67$ mol kg$^{-1}$. $\Delta T_f=1.86\times16.67=31$ K. Freezing point $=0-31=-31^\circ$C, $x=31$.
+

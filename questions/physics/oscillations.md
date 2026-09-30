@@ -50,3 +50,21 @@ A mass $m$ suspended from a spring oscillates at frequency $f_1$; with mass $9m$
 
 **Solution.** $f=\dfrac1{2\pi}\sqrt{k/m}\propto m^{-1/2}\Rightarrow\dfrac{f_1}{f_2}=\sqrt{\dfrac{9m}{m}}=3$.
 
+### P-SHM-07 — JEE Main 2024 · 4 Apr Shift 2 · Q10 · MCQ
+
+In simple harmonic motion the total mechanical energy of a block of mass $m$ on a spring $k$ is $E$. If the mass is doubled, the new energy for the same amplitude is:
+
+(1) $E$  (2) $E/\sqrt2$  (3) $2E$  (4) $E\sqrt2$
+
+**Answer: (1)** · key ✔
+
+**Solution.** $E=\tfrac12kA^2$ depends only on the spring constant and the amplitude, not on the mass. (The period changes, but not the energy.)
+
+### P-SHM-08 — JEE Main 2024 · 4 Apr Shift 2 · Q24 · Numerical
+
+The displacement of a particle in SHM is $x=10\sin(\omega t+\tfrac\pi3)$ m. The time period is $3.14$ s. The velocity of the particle at $t=0$ is ______ m/s.
+
+**Answer: 10** · key ✔
+
+**Solution.** $\omega=\dfrac{2\pi}{T}=\dfrac{2\pi}{3.14}=2$ rad/s. $v=\dfrac{dx}{dt}=10\omega\cos(\omega t+\tfrac\pi3)$; at $t=0$: $10\times2\times\cos60^\circ=10$ m/s.
+

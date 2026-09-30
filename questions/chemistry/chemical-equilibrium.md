@@ -54,3 +54,13 @@ For a certain reaction at $300$ K, $K=10$. Then $\Delta G^\circ=-$ ______ $\time
 
 **Solution.** $\Delta G^\circ=-2.303RT\log K=-2.303\times8.314\times300\times1=-5744$ J $=-5.74$ kJ $=-57\times10^{-1}$ kJ mol$^{-1}$.
 
+### C-CEQ-07 — JEE Main 2024 · 4 Apr Shift 2 · Q36 · MCQ
+
+For $\text{SO}_3(g)\rightleftharpoons\text{SO}_2(g)+\tfrac12\text{O}_2(g)$, $K_c=4.9\times10^{-2}$. The value of $K_c$ for $2\text{SO}_2(g)+\text{O}_2(g)\rightleftharpoons2\text{SO}_3(g)$ is:
+
+(1) 4.9  (2) 49  (3) 41.6  (4) 416
+
+**Answer: (4)** · key ✔
+
+**Solution.** Reversing inverts $K$; doubling the equation squares it: $K'=\dfrac{1}{K^2}=\dfrac{1}{(4.9\times10^{-2})^2}=\dfrac{1}{2.401\times10^{-3}}\approx416$.
+

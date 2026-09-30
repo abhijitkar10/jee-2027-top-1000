@@ -162,3 +162,22 @@ A soap bubble is blown to a diameter of $7$ cm. $36960$ erg of work is done in b
 
 **Solution.** A bubble has two surfaces: $W=2T\cdot4\pi\left(r_2^2-r_1^2\right)$. With $r_1=3.5$: $36960=2(40)(4)\dfrac{22}{7}(r_2^2-12.25)\Rightarrow r_2^2-12.25=36.75$, so $r_2^2=49$ and $r_2=7$ cm.
 
+### P-POM-19 — JEE Main 2024 · 4 Apr Shift 2 · Q7 · MCQ
+
+Statement I: The contact angle between a solid and a liquid is a property of the material of the solid and of the liquid.
+Statement II: The rise of a liquid in a capillary tube does not depend on the inner radius of the tube.
+
+(1) I true, II false  (2) I false, II true  (3) Both false  (4) Both true
+
+**Answer: (1)** · key ✔
+
+**Solution.** The contact angle depends on the solid–liquid pair. The capillary rise is $h=\dfrac{2T\cos\theta}{r\rho g}$, so it is inversely proportional to the radius: II is false.
+
+### P-POM-20 — JEE Main 2024 · 4 Apr Shift 2 · Q23 · Numerical
+
+Mercury is filled in a tube of radius $2$ cm up to a height of $30$ cm. The force exerted by the mercury on the bottom of the tube is ______ N. (Atmospheric pressure $=10^5\ \text{N m}^{-2}$, $\rho_{Hg}=1.36\times10^4\ \text{kg m}^{-3}$, $g=10$, $\pi=\tfrac{22}7$)
+
+**Answer: 177** · key ✔
+
+**Solution.** Pressure at the bottom $=P_0+\rho gh=10^5+1.36\times10^4\times10\times0.3=1.408\times10^5$ Pa. Area $=\pi(0.02)^2=1.257\times10^{-3}\ \text{m}^2$. $F=1.408\times10^5\times1.257\times10^{-3}\approx177$ N.
+

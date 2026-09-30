@@ -162,3 +162,13 @@ The strongest reducing agent among the following is:
 
 **Solution.** Down group 15 the $\text{E-H}$ bond weakens and hydrides become less stable, so the reducing power rises: $\text{NH}_3<\text{PH}_3<\text{AsH}_3<\text{SbH}_3<\text{BiH}_3$.
 
+### C-PBL-16 — JEE Main 2024 · 4 Apr Shift 2 · Q44 · MCQ
+
+When $\text{MnO}_2$ and conc. $\text{H}_2\text{SO}_4$ are added to a salt A, a greenish-yellow gas is liberated. Salt A is:
+
+(1) $\text{CaI}_2$  (2) $\text{NaBr}$  (3) $\text{KNO}_3$  (4) $\text{NH}_4\text{Cl}$
+
+**Answer: (4)** · key ✔
+
+**Solution.** The greenish-yellow gas is $\text{Cl}_2$: $\text{MnO}_2+4\text{HCl}\to\text{MnCl}_2+\text{Cl}_2+2\text{H}_2\text{O}$, where HCl comes from a chloride with conc. $\text{H}_2\text{SO}_4$. Iodide would give violet $\text{I}_2$, bromide brown $\text{Br}_2$, nitrate brown $\text{NO}_2$.
+

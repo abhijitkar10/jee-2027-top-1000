@@ -104,3 +104,13 @@ Wavelengths $\lambda_1=450$ nm and $\lambda_2=650$ nm are used in Young's double
 
 **Solution.** Bright fringes coincide when $n\lambda_2=m\lambda_1$: $650n=450m\Rightarrow13n=9m$. The smallest integers are $n=9$, $m=13$.
 
+### P-WOP-12 — JEE Main 2024 · 4 Apr Shift 2 · Q16 · MCQ
+
+The width of one of the two slits in Young's double-slit experiment is $4$ times that of the other. The ratio of the maximum to the minimum intensity in the interference pattern is:
+
+(1) 1 : 1  (2) 4 : 1  (3) 9 : 1  (4) 16 : 1
+
+**Answer: (3)** · key ✔
+
+**Solution.** Intensity $\propto$ width: $I_1:I_2=4:1$, amplitudes $2:1$. $\dfrac{I_{max}}{I_{min}}=\dfrac{(2+1)^2}{(2-1)^2}=9:1$.
+

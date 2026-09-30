@@ -123,3 +123,13 @@ A uniformly charged wall gives a uniform electric field of $2\times10^4\ \text{N
 
 **Solution.** $\sin\theta=\dfrac{10}{20}=\tfrac12\Rightarrow\theta=30^\circ$. Equilibrium: $qE=mg\tan\theta$, so $q=\dfrac{2\times10^{-3}\times10\times\frac1{\sqrt3}}{2\times10^4}=\dfrac{1}{\sqrt3}\times10^{-6}$ C. $x=3$.
 
+### P-ELS-14 — JEE Main 2024 · 4 Apr Shift 2 · Q11 · MCQ
+
+A charge $q$ is placed at the centre of one of the faces of a cube. The flux linked with the cube is:
+
+(1) $\dfrac{q}{2\epsilon_0}$  (2) $\dfrac{q}{8\epsilon_0}$  (3) zero  (4) $\dfrac{q}{4\epsilon_0}$
+
+**Answer: (1)** · key ✔
+
+**Solution.** Place an identical cube on the other side of that face so the charge sits at the centre of a combined closed surface: total flux $q/\epsilon_0$ is shared equally by the two cubes, so each gets $\dfrac{q}{2\epsilon_0}$.
+

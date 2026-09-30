@@ -78,3 +78,11 @@ A coil of $200$ turns and area $0.20\ \text{m}^2$ rotates at half a revolution p
 
 **Solution.** $\varepsilon_{max}=NAB\omega$ with $\omega=2\pi(0.5)=\pi$ rad/s: $200\times0.20\times0.01\times\pi=0.4\pi=\dfrac{2\pi}{5}$ V. $\beta=5$.
 
+### P-EMI-10 — JEE Main 2024 · 4 Apr Shift 2 · Q28 · Numerical
+
+A rod of length $60$ cm rotates at $20\ \text{rad s}^{-1}$ about its perpendicular bisector in a uniform magnetic field of $0.5$ T parallel to the axis of rotation. The potential difference between the two ends of the rod is ______ V.
+
+**Answer: 0** · key ✔
+
+**Solution.** Each half of the rod gets the same motional emf $\tfrac12B\omega(L/2)^2$ with its high-potential end at the same side (the centre or the tip). Between the two ends the potentials are equal, so the p.d. is $0$.
+

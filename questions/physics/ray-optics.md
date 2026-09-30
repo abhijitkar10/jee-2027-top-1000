@@ -76,3 +76,11 @@ The effective power of a combination of $5$ identical convex lenses kept in cont
 
 **Solution.** Powers add for lenses in contact: $5P=25\Rightarrow P=5$ D, so $f=\dfrac{1}{5}\text{ m}=20$ cm.
 
+### P-RAY-09 — JEE Main 2024 · 4 Apr Shift 2 · Q29 · Numerical
+
+A ray is incident on a glass slab of thickness $4\sqrt3$ cm and refractive index $\sqrt2$, at an angle equal to the critical angle for glass–air. The lateral displacement of the ray is ______ cm. ($\sin15^\circ=0.25$)
+
+**Answer: 2** · key ✔
+
+**Solution.** $\sin i_c=\tfrac1{\sqrt2}\Rightarrow i=45^\circ$. Snell: $\sin r=\dfrac{\sin45^\circ}{\sqrt2}=\tfrac12\Rightarrow r=30^\circ$. Lateral shift $d=\dfrac{t\sin(i-r)}{\cos r}=\dfrac{4\sqrt3\times0.25}{\sqrt3/2}=2$ cm.
+

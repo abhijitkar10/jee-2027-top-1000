@@ -48,3 +48,11 @@ $X$ g of ethylamine is treated with $\text{NaNO}_2/\text{HCl}$ followed by water
 
 **Solution.** $\text{C}_2\text{H}_5\text{NH}_2+\text{HNO}_2\to\text{C}_2\text{H}_5\text{OH}+\text{N}_2+\text{H}_2\text{O}$. $2.24$ L $=0.1$ mol $\text{N}_2$ requires $0.1$ mol amine: $0.1\times45=4.5$ g $=45\times10^{-1}$ g.
 
+### C-AMN-06 — JEE Main 2024 · 4 Apr Shift 2 · Q59 · Numerical
+
+From $6.55$ g of aniline the maximum amount of acetanilide that can be prepared is ______ $\times10^{-1}$ g.
+
+**Answer: 95** · key ✔
+
+**Solution.** $\text{C}_6\text{H}_5\text{NH}_2$ ($93$ g/mol): $n=\dfrac{6.55}{93}=0.0704$ mol. Acetanilide $\text{C}_6\text{H}_5\text{NHCOCH}_3$ ($135$ g/mol): $0.0704\times135=9.5$ g $=95\times10^{-1}$ g.
+

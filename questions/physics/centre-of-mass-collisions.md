@@ -40,3 +40,11 @@ Identical spheres each of mass $2M$ are placed at the corners of a right-angled 
 
 **Solution.** The three equal masses are at $(0,0)$, $(4,0)$ and $(0,4)$. $\vec r_{cm}=\dfrac{(0+4+0,\ 0+0+4)}3=\left(\tfrac43,\tfrac43\right)$, with magnitude $\dfrac{4\sqrt2}3$. So $x=3$.
 
+### P-COM-05 — JEE Main 2024 · 4 Apr Shift 2 · Q22 · Numerical
+
+Two particles of masses $m_1=3$ kg and $m_2=2$ kg are placed at some distance. $m_1$ is moved $2$ cm towards the centre of mass. To keep the centre of mass at its original position, $m_2$ should move towards the centre of mass by ______ cm.
+
+**Answer: 3** · key ✔
+
+**Solution.** The centre of mass is unchanged if the moments about it stay balanced: $m_1\Delta_1=m_2\Delta_2\Rightarrow3\times2=2\times\Delta_2$, so $\Delta_2=3$ cm.
+

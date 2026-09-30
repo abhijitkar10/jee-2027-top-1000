@@ -66,3 +66,11 @@ The number of different chain isomers for $\text{C}_7\text{H}_{16}$ is ______.
 
 **Solution.** Heptane, 2-methylhexane, 3-methylhexane, 2,2-, 2,3-, 2,4-, 3,3-dimethylpentane, 3-ethylpentane and 2,2,3-trimethylbutane: $9$ isomers.
 
+### C-ISO-08 — JEE Main 2024 · 4 Apr Shift 2 · Q54 · Numerical
+
+The total number of $\sigma$ and $\pi$ bonds in 2-oxohex-4-ynoic acid is ______.
+
+**Answer: 18** · key ✔
+
+**Solution.** Structure: $\text{HOOC-CO-CH}_2\text{-C}\equiv\text{C-CH}_3$. $\sigma$ bonds: $14$ ($5$ C–C, $6$ C–H, $2$ C–O/O–H... counting: C–C $5$, C–H $5$, O–H $1$, C–O $1$, C=O $2$ σ). $\pi$ bonds: $2$ (two C=O) $+2$ (C≡C) $=4$. Total $14+4=18$.
+

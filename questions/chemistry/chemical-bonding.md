@@ -165,3 +165,31 @@ The number of species with one unpaired electron among $\text{O}_2$, $\text{O}_2
 
 **Solution.** $\text{O}_2$: $2$ unpaired. $\text{O}_2^-$ (superoxide): $1$. NO: $1$ (odd electron in $\pi^*$). $\text{CN}^-$: $0$. $\text{O}_2^{2-}$ (peroxide): $0$. Count $=2$.
 
+### C-BND-19 — JEE Main 2024 · 4 Apr Shift 2 · Q34 · MCQ
+
+Correct statements about hydrogen bonding: A. It exists when H is covalently bonded to a highly electronegative atom. B. Intermolecular H-bonding is present in o-nitrophenol. C. Intramolecular H-bonding is present in HF. D. The magnitude of H-bonding depends on the physical state of the compound. E. H-bonding has a powerful effect on the structure and properties of compounds.
+
+(1) A, B, D only  (2) A, D, E only  (3) A only  (4) A, B, C only
+
+**Answer: (2)** · key ✔
+
+**Solution.** A, D, E are true. B is false ($o$-nitrophenol has *intra*molecular H-bonding). C is false (HF is *inter*molecular, zig-zag chains).
+
+### C-BND-20 — JEE Main 2024 · 4 Apr Shift 2 · Q35 · MCQ
+
+The number of species with pyramidal geometry around the central atom among $\text{S}_2\text{O}_3^{2-}$, $\text{SO}_4^{2-}$, $\text{SO}_3^{2-}$, $\text{S}_2\text{O}_7^{2-}$ is:
+
+(1) 4  (2) 3  (3) 2  (4) 1
+
+**Answer: (4)** · key ✔
+
+**Solution.** $\text{SO}_3^{2-}$ ($3$ bond pairs + $1$ lone pair) is pyramidal. $\text{S}_2\text{O}_3^{2-}$, $\text{SO}_4^{2-}$ and $\text{S}_2\text{O}_7^{2-}$ have tetrahedral S atoms. Count $=1$.
+
+### C-BND-21 — JEE Main 2024 · 4 Apr Shift 2 · Q52 · Numerical
+
+The number of species with a non-zero dipole moment among $\text{BeCl}_2$, $\text{BCl}_3$, $\text{NF}_3$, $\text{XeF}_4$, $\text{CCl}_4$, $\text{H}_2\text{O}$, $\text{H}_2\text{S}$, HBr, $\text{CO}_2$, $\text{H}_2$, HCl is ______.
+
+**Answer: 5** · key ✔
+
+**Solution.** Symmetric ($\mu=0$): $\text{BeCl}_2$ (linear), $\text{BCl}_3$, $\text{XeF}_4$ (square planar), $\text{CCl}_4$, $\text{CO}_2$, $\text{H}_2$. Polar: $\text{NF}_3$, $\text{H}_2\text{O}$, $\text{H}_2\text{S}$, HBr, HCl. Count $=5$.
+

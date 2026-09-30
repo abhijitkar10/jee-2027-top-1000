@@ -98,3 +98,11 @@ In a first-order sequence $A+B\underset{3}{\overset{1}{\rightleftharpoons}}C\xri
 
 **Solution.** Taking $\ln$ of $k=Ae^{-E_a/RT}$ for each step, $E_a=E_{a1}+E_{a2}-E_{a3}$. So $400=300+200-E_{a3}\Rightarrow E_{a3}=100$ kJ mol$^{-1}$.
 
+### C-KIN-12 — JEE Main 2024 · 4 Apr Shift 2 · Q56 · Numerical
+
+For $\text{A}+\text{B}\to\text{C}$, rate $=k[\text{A}]^{1/2}[\text{B}]^{1/2}$ with $1$ M of each initially and $k=4.6\times10^{-2}\ \text{s}^{-1}$. The time taken for A to become $0.1$ M is ______ s (nearest integer).
+
+**Answer: 50** · key ✔
+
+**Solution.** A and B are consumed in equal amounts and start equal, so $[\text{A}]=[\text{B}]$ throughout: rate $=k[\text{A}]$, first order overall. $t=\dfrac{2.303}{k}\log\dfrac{1}{0.1}=\dfrac{2.303}{4.6\times10^{-2}}\approx50$ s.
+

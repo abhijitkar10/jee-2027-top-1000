@@ -82,3 +82,13 @@ A diatomic gas ($\gamma=1.4$) does $200$ J of work when expanded isobarically. T
 
 **Solution.** Isobaric: $W=nR\Delta T$, $Q=nC_p\Delta T=\dfrac{\gamma}{\gamma-1}W=\dfrac{1.4}{0.4}\times200=700$ J.
 
+### P-THD-09 — JEE Main 2024 · 4 Apr Shift 2 · Q8 · MCQ
+
+A sample of gas ($\mu=1$ mol, $\gamma=3/2$) at temperature $T$ is expanded adiabatically to double its volume. The work done by the gas is:
+
+(1) $RT[1-2\sqrt2]$  (2) $RT[\sqrt2-2]$  (3) $RT[2-\sqrt2]$  (4) $RT[2\sqrt2-1]$
+
+**Answer: (3)** · key ✔
+
+**Solution.** $TV^{\gamma-1}=$ const: $T_2=T\left(\tfrac12\right)^{1/2}=\dfrac T{\sqrt2}$. $W=\dfrac{R(T_1-T_2)}{\gamma-1}=2R\left(T-\dfrac T{\sqrt2}\right)=RT(2-\sqrt2)$.
+

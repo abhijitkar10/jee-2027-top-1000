@@ -171,3 +171,21 @@ $\text{MnO}_2+\text{KOH}+\text{O}_2\to A+\text{H}_2\text{O}$. Product A in neutr
 
 **Solution.** $A=\text{K}_2\text{MnO}_4$. In acid: $3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$. $\text{MnO}_4^-$ ($d^0$): $\mu=0$. $\text{MnO}_2$ ($\text{Mn}^{4+}$, $d^3$): $\mu=\sqrt{3\times5}=3.87\approx4$ BM. Sum $\approx4$.
 
+### C-DFB-17 — JEE Main 2024 · 4 Apr Shift 2 · Q45 · MCQ
+
+A first-row transition metal in its $+2$ oxidation state has a spin-only magnetic moment of $3.86$ BM. The atomic number of the metal is:
+
+(1) 26  (2) 25  (3) 23  (4) 22
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\mu=\sqrt{n(n+2)}=3.87\Rightarrow n=3$ unpaired electrons, so $M^{2+}$ is $d^3$. $Z=18+3+2=23$ (vanadium: $\text{V}^{2+}=3d^3$).
+
+### C-DFB-18 — JEE Main 2024 · 4 Apr Shift 2 · Q57 · Numerical
+
+A first-row transition metal with the highest enthalpy of atomisation reacts with oxygen at high temperature to form oxides $M_2O_n$ ($n=3,4,5$). The spin-only magnetic moment of the amphoteric oxide among these is ______ BM (nearest integer).
+
+**Answer: 0** · key ✔
+
+**Solution.** Vanadium has the highest enthalpy of atomisation in the 3d series ($\approx515$ kJ/mol); its oxides are $\text{V}_2\text{O}_3$ (basic), $\text{V}_2\text{O}_4$ and $\text{V}_2\text{O}_5$ (amphoteric). In $\text{V}_2\text{O}_5$ vanadium is $\text{V}^{5+}$ ($d^0$), so $\mu=0$.
+

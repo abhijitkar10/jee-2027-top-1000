@@ -93,3 +93,13 @@ Match List I (reactants) with List II (products): (A) phenol, Zn/$\Delta$; (B) p
 
 **Solution.** Zn dust reduces phenol to benzene (III). Reimer–Tiemann ($\text{CHCl}_3$/NaOH) gives salicylaldehyde (I). Kolbe's reaction ($\text{CO}_2$/NaOH) gives salicylic acid (II). Conc. $\text{HNO}_3$ nitrates fully to picric acid (IV).
 
+### C-ALC-09 — JEE Main 2024 · 4 Apr Shift 2 · Q38 · MCQ
+
+The common name of benzene-1,2-diol is:
+
+(1) catechol  (2) o-cresol  (3) quinol  (4) resorcinol
+
+**Answer: (1)** · key ✔
+
+**Solution.** $1,2$-Dihydroxybenzene is catechol (pyrocatechol). Resorcinol is the $1,3$-isomer and quinol (hydroquinone) is the $1,4$-isomer; $o$-cresol is $2$-methylphenol.
+

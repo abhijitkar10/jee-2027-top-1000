@@ -185,3 +185,21 @@ Which nuclear fragment set corresponds to fission of $^{235}_{92}\text{U}$ by a 
 
 **Solution.** Conserve $A$ and $Z$ ($235+1=236$, $Z=92$). (2): $144+89+3=236$, $56+36=92$ ✓. (1) gives $237$, (3) is wrong since Xe has $Z=54$, and (4) has $Z=92$ but $A=252$.
 
+### P-ATN-21 — JEE Main 2024 · 4 Apr Shift 2 · Q18 · MCQ
+
+According to Bohr's theory, the angular momentum of an electron in the $4$th orbit of hydrogen is:
+
+(1) $\dfrac h\pi$  (2) $\dfrac{h}{2\pi}$  (3) $8\dfrac h\pi$  (4) $2\dfrac h\pi$
+
+**Answer: (4)** · key ✔
+
+**Solution.** $L=\dfrac{nh}{2\pi}=\dfrac{4h}{2\pi}=\dfrac{2h}{\pi}$.
+
+### P-ATN-22 — JEE Main 2024 · 4 Apr Shift 2 · Q30 · Numerical
+
+The disintegration energy $Q$ for $^{235}\text{U}\to{}^{140}\text{Ce}+{}^{94}\text{Zr}+n$ is ______ MeV. (Masses: U $235.0439$ u, Ce $139.9054$ u, Zr $93.9063$ u, $n$ $1.0086$ u; $c^2=931$ MeV/u)
+
+**Answer: 208** · key ✔
+
+**Solution.** Mass defect $=235.0439-(139.9054+93.9063+1.0086)=235.0439-234.8203=0.2236$ u. $Q=0.2236\times931\approx208$ MeV.
+

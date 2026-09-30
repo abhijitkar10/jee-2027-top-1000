@@ -207,3 +207,23 @@ The correct order of ligands in decreasing field strength is:
 
 **Solution.** Spectrochemical series (weak to strong): $\text{I}^-<\text{Br}^-<\text{S}^{2-}<\text{SCN}^-<\text{Cl}^-<\text{F}^-<\text{OH}^-<\text{H}_2\text{O}<\text{NCS}^-<\text{EDTA}^{4-}<\text{NH}_3<\text{en}<\text{CN}^-<\text{CO}$. Only (2) reads strong to weak.
 
+### C-COO-21 — JEE Main 2024 · 4 Apr Shift 2 · Q46 · MCQ
+
+If an iron(III) complex of formula $[\text{Fe(NH}_3)_x(\text{CN})_y]^{-}$ has no electron in its $e_g$ orbitals, then $x+y$ is:
+
+(1) 4  (2) 5  (3) 6  (4) 3
+
+**Answer: (3)** · key ✔
+
+**Solution.** An octahedral complex has $6$ ligands: $x+y=6$. For $\text{Fe}^{3+}$ ($d^5$) to have no $e_g$ electron, it is low spin, $t_{2g}^5e_g^0$. (Charge: $3-y=-1\Rightarrow y=4$, $x=2$.)
+
+### C-COO-22 — JEE Main 2024 · 4 Apr Shift 2 · Q47 · MCQ
+
+The number of unpaired $d$-electrons in $[\text{Co(H}_2\text{O)}_6]^{3+}$ is:
+
+(1) 2  (2) 1  (3) 0  (4) 4
+
+**Answer: (3)** · key ✔
+
+**Solution.** $\text{Co}^{3+}$ is $d^6$. Its large crystal-field splitting (higher oxidation state, $4d$-like effective charge) makes $\text{H}_2\text{O}$ act as a strong-field ligand here, giving $t_{2g}^6e_g^0$: $0$ unpaired electrons and a diamagnetic complex. (Contrast with $[\text{CoF}_6]^{3-}$, which is high spin.)
+

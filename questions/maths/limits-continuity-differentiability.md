@@ -120,3 +120,23 @@ Let $f(x)=\begin{cases}\dfrac{1-\cos2x}{x^2}, & x<0\\ \alpha, & x=0\\ \dfrac{\be
 
 **Solution.** Left limit: $\dfrac{2\sin^2x}{x^2}\to2$. Right limit: $\dfrac{\beta\sqrt2\,|\sin(x/2)|}{x}\to\dfrac{\beta\sqrt2}{2}=\dfrac\beta{\sqrt2}$ as $x\to0^+$. Equating: $\alpha=2$, $\beta=2\sqrt2$. $\alpha^2+\beta^2=4+8=12$.
 
+### M-LCD-13 — JEE Main 2024 · 4 Apr Shift 2 · Q68 · MCQ
+
+Let $f(x)=\displaystyle\int_0^x\left(t+\sin(1-e^t)\right)dt$. Then $\displaystyle\lim_{x\to0}\frac{f(x)}{x^3}$ is:
+
+(1) $-\tfrac16$  (2) $\tfrac23$  (3) $-\tfrac23$  (4) $\tfrac16$
+
+**Answer: (1)** · key ✔
+
+**Solution.** By L'Hôpital: $\lim\dfrac{x+\sin(1-e^x)}{3x^2}$. With $u=1-e^x=-x-\tfrac{x^2}{2}-\tfrac{x^3}{6}$ and $\sin u=u-\tfrac{u^3}{6}=-x-\tfrac{x^2}2-\tfrac{x^3}6+\tfrac{x^3}{6}+\dots$, we get $x+\sin u=-\tfrac{x^2}{2}+O(x^4)$. Limit $=\dfrac{-1/2}{3}=-\dfrac16$.
+
+### M-LCD-14 — JEE Main 2024 · 4 Apr Shift 2 · Q73 · MCQ
+
+If $f(x)=\begin{cases}\dfrac{72^x-9^x-8^x+1}{\sqrt2-\sqrt{1+\cos x}}, & x\ne0\\ a\ln2\ln3, & x=0\end{cases}$ is continuous at $x=0$, then $a^2$ is:
+
+(1) 968  (2) 1152  (3) 746  (4) 1250
+
+**Answer: (2)** · key ✔
+
+**Solution.** Numerator $=(9^x-1)(8^x-1)\approx(x\ln9)(x\ln8)=6\ln2\ln3\,x^2$. Denominator: $\sqrt{1+\cos x}=\sqrt{2-x^2/2}\approx\sqrt2\left(1-\tfrac{x^2}{8}\right)$, so $\sqrt2-\sqrt{1+\cos x}\approx\dfrac{\sqrt2x^2}{8}$. Limit $=\dfrac{6\cdot8}{\sqrt2}\ln2\ln3=24\sqrt2\ln2\ln3$. So $a=24\sqrt2$ and $a^2=1152$.
+

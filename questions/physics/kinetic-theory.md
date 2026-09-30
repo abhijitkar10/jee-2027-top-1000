@@ -82,3 +82,13 @@ If the r.m.s. velocity of hydrogen molecules at a given temperature and pressure
 
 **Solution.** $v_{rms}=\sqrt{3RT/M}\propto M^{-1/2}$. $M_{\text{O}_2}/M_{\text{H}_2}=16\Rightarrow v_{\text{O}_2}=2/4=0.5$ km/s.
 
+### P-KTG-09 — JEE Main 2024 · 4 Apr Shift 2 · Q9 · MCQ
+
+The translational degrees of freedom ($f_t$) and rotational degrees of freedom ($f_r$) of a $\text{CH}_4$ molecule are:
+
+(1) $f_t=2$, $f_r=2$  (2) $f_t=3$, $f_r=3$  (3) $f_t=3$, $f_r=2$  (4) $f_t=2$, $f_r=3$
+
+**Answer: (2)** · key ✔
+
+**Solution.** Methane is a non-linear polyatomic molecule: $3$ translational and $3$ rotational degrees of freedom (plus vibrational modes at high temperature).
+

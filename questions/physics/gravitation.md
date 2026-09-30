@@ -103,3 +103,23 @@ A light planet revolves around a massive star in a circular orbit of radius $R$ 
 
 **Solution.** $\dfrac{mv^2}{R}\propto R^{-3/2}\Rightarrow v^2\propto R^{-1/2}$. $T=\dfrac{2\pi R}{v}\Rightarrow T^2\propto\dfrac{R^2}{v^2}\propto R^{5/2}$.
 
+### P-GRV-11 — JEE Main 2024 · 4 Apr Shift 2 · Q5 · MCQ
+
+A $90$ kg body is placed at a distance $2R$ from the surface of the earth ($R$ = radius of earth, $g=10\ \text{m s}^{-2}$). The gravitational pull on it is:
+
+(1) 100 N  (2) 300 N  (3) 225 N  (4) 120 N
+
+**Answer: (1)** · key ✔
+
+**Solution.** The distance from the centre is $3R$, so $g'=g\left(\dfrac{R}{3R}\right)^2=\dfrac g9$. $F=\dfrac{90\times10}{9}=100$ N.
+
+### P-GRV-12 — JEE Main 2024 · 4 Apr Shift 2 · Q6 · MCQ
+
+The correct formula for the height of a satellite above the earth's surface (period $T$, earth radius $R$) is:
+
+(1) $\left(\dfrac{T^2R^2}{4\pi^2g}\right)^{1/3}-R$  (2) $\left(\dfrac{T^2R^2g}{4\pi^2}\right)^{1/3}-R$  (3) $\left(\dfrac{T^2R^2g}{4\pi^2}\right)^{-1/3}+R$  (4) $\left(\dfrac{T^2R^2g}{4\pi}\right)^{1/2}-R$
+
+**Answer: (2)** · key ✔
+
+**Solution.** With $GM=gR^2$, Kepler's third law gives $T^2=\dfrac{4\pi^2r^3}{gR^2}\Rightarrow r=\left(\dfrac{gR^2T^2}{4\pi^2}\right)^{1/3}$. Height $h=r-R$.
+

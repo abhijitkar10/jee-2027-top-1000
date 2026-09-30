@@ -28,3 +28,11 @@ Two identical capacitors have the same capacitance $C$. One of them is charged t
 
 **Solution.** Loss of energy $=\dfrac{C_1C_2}{2(C_1+C_2)}(V_1-V_2)^2=\dfrac{C\cdot C}{2\cdot2C}(V)^2=\dfrac{CV^2}4$.
 
+### P-CAP-04 — JEE Main 2024 · 4 Apr Shift 2 · Q25 · Numerical
+
+A $12.5$ pF parallel plate capacitor is charged to $12.0$ V, the battery is disconnected and a dielectric slab ($\epsilon_r=6$) is inserted. The change in the potential energy is ______ $\times10^{-12}$ J (magnitude).
+
+**Answer: 750** · key ✔
+
+**Solution.** $U_i=\tfrac12CV^2=\tfrac12(12.5\times10^{-12})(144)=900\times10^{-12}$ J. With the battery off, $Q$ is fixed and $C\to6C$, so $U_f=U_i/6=150\times10^{-12}$ J. The change is $-750\times10^{-12}$ J: the energy decreases by $750\times10^{-12}$ J.
+
