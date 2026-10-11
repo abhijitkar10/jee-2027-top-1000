@@ -304,3 +304,111 @@ The heating of $\text{NH}_4\text{NO}_2$ at $60$–$70^\circ$C and $\text{NH}_4\t
 
 **Solution.** $\text{NH}_4\text{NO}_2\xrightarrow{60\text{–}70^\circ\text{C}}\text{N}_2+2\text{H}_2\text{O}$ (a comproportionation of $-3$ and $+3$ nitrogen), and $\text{NH}_4\text{NO}_3\xrightarrow{200\text{–}250^\circ\text{C}}\text{N}_2\text{O}+2\text{H}_2\text{O}$. (Above $\sim300^\circ$C $\text{NH}_4\text{NO}_3$ can decompose explosively to $\text{N}_2$, $\text{O}_2$ and water.)
 
+### § — JEE Main 2026 · 23 Jan Shift 1 · G13-14 set Q1 · MCQ
+
+The correct statements from the following are:
+A. The ionic radii of the trivalent cations of group 13 elements decrease down the group.
+B. The electronegativity of group 13 elements decreases down the group.
+C. Among the group 13 elements, boron has the highest first ionisation enthalpy.
+D. The trichlorides and triiodides of group 13 elements are covalent in nature.
+
+(1) C and D only  (2) A and D only  (3) A and C only  (4) B and D only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A is false: ionic radii increase down the group. B is false: electronegativity is not a regular decrease (Ga is more electronegative than Al; it rises from In to Tl). C is true (B is the smallest). D is true (high charge density of $M^{3+}$ and polarisable halides give covalent halides). So C and D.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · G13-14 set Q2 · MCQ
+
+Consider the following reactions:
+$\text{Na}_2\text{B}_4\text{O}_7\xrightarrow{\Delta}2X+Y$
+$\text{CuSO}_4+Y\xrightarrow{\text{non-luminous flame}}Z+\text{SO}_3$
+$2Z+2X+\text{Carbon}\xrightarrow{\text{luminous flame}}2Q+\text{Na}_2\text{B}_4\text{O}_7+\text{CO}$
+The oxidation states of Cu in $Z$ and $Q$ respectively are:
+
+(1) +1 and +1  (2) +2 and +2  (3) +1 and +2  (4) +2 and +1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** This is the borax-bead test. Borax gives $X=\text{NaBO}_2$ and $Y=\text{B}_2\text{O}_3$. In the oxidising (non-luminous) flame $\text{CuSO}_4+\text{B}_2\text{O}_3\to Z=\text{Cu(BO}_2)_2$ ($\text{Cu}^{2+}$, blue bead). In the reducing (luminous) flame with carbon, $2\text{Cu(BO}_2)_2+2\text{NaBO}_2+\text{C}\to2\text{CuBO}_2+\text{Na}_2\text{B}_4\text{O}_7+\text{CO}$, so $Q=\text{CuBO}_2$ ($\text{Cu}^+$). Oxidation states: $+2$ and $+1$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · G13-14 set Q3 · MCQ
+
+Given below are two statements:
+**Statement I:** Elements X and Y are the most and the least electronegative elements, respectively, among N, As, Sb and P. The nature of the oxides $\text{X}_2\text{O}_3$ and $\text{Y}_2\text{O}_3$ is acidic and amphoteric, respectively.
+**Statement II:** $\text{BCl}_3$ is covalent in nature and gets hydrolysed in water. It produces $[\text{B(OH)}_4]^-$ and $[\text{B(H}_2\text{O)}_6]^{3+}$ in aqueous medium.
+
+(1) Both Statement I and Statement II are false  (2) Both Statement I and Statement II are true  (3) Statement I is true but Statement II is false  (4) Statement I is false but Statement II is true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** I is true: $X=\text{N}$, $Y=\text{Sb}$; $\text{N}_2\text{O}_3$ is acidic and $\text{Sb}_2\text{O}_3$ is amphoteric. II is false: $\text{BCl}_3$ is covalent and hydrolyses to $\text{B(OH)}_3$ ($\text{H}_3\text{BO}_3$) and $\text{HCl}$; $[\text{B(H}_2\text{O)}_6]^{3+}$ is not formed.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · G13-14 set Q4 · MCQ
+
+It is noticed that $\text{Pb}^{2+}$ is more stable than $\text{Pb}^{4+}$ but $\text{Sn}^{2+}$ is less stable than $\text{Sn}^{4+}$. Observe the following reactions: $\text{PbO}_2+\text{Pb}\to2\text{PbO};\ \Delta_rG^\circ(1)$ and $\text{SnO}_2+\text{Sn}\to2\text{SnO};\ \Delta_rG^\circ(2)$. Identify the correct set from the following:
+
+(1) $\Delta_rG^\circ(1)<0;\ \Delta_rG^\circ(2)<0$  (2) $\Delta_rG^\circ(1)>0;\ \Delta_rG^\circ(2)>0$  (3) $\Delta_rG^\circ(1)<0;\ \Delta_rG^\circ(2)>0$  (4) $\Delta_rG^\circ(1)>0;\ \Delta_rG^\circ(2)<0$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Inert-pair effect: $\text{Pb}^{2+}$ is the stable state, so $\text{PbO}_2+\text{Pb}\to2\text{PbO}$ is spontaneous ($\Delta_rG^\circ(1)<0$). For tin $\text{Sn}^{4+}$ is the stable state, so $\text{SnO}_2+\text{Sn}\to2\text{SnO}$ is non-spontaneous ($\Delta_rG^\circ(2)>0$).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q5 · MCQ
+
+Consider the following reactions: $\text{PbCl}_2+\text{K}_2\text{CrO}_4\to A+2\text{KCl}$ (hot solution); $A+\text{NaOH}\rightleftharpoons B+\text{Na}_2\text{CrO}_4$; $\text{PbSO}_4+4\text{CH}_3\text{COONH}_4\to(\text{NH}_4)_2\text{SO}_4+X$. In the above reactions, $A$, $B$ and $X$ are respectively:
+
+(1) $\text{Na}_2[\text{Pb(OH)}_2]$, $\text{PbCrO}_4$ and $(\text{NH}_4)_2[\text{Pb(CH}_3\text{COO)}_4]$  (2) $\text{Na}_2[\text{Pb(OH)}_2]$, $\text{PbCrO}_4$ and $[\text{Pb(NH}_3)_4]\text{SO}_4$  (3) $\text{PbCrO}_4$, $\text{Na}_2[\text{Pb(OH)}_4]$ and $(\text{NH}_4)_2[\text{Pb(CH}_3\text{COO)}_4]$  (4) $\text{PbCrO}_4$, $\text{Na}_2[\text{Pb(OH)}_4]$ and $[\text{Pb(NH}_3)_4]\text{SO}_4$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Lead chromate precipitates: $A=\text{PbCrO}_4$ (yellow). It dissolves in NaOH as the plumbate: $B=\text{Na}_2[\text{Pb(OH)}_4]$. $\text{PbSO}_4$ dissolves in ammonium acetate through the acetato complex: $X=(\text{NH}_4)_2[\text{Pb(CH}_3\text{COO)}_4]$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q6 · MCQ
+
+Given below are two statements:
+**Statement I:** The number of pairs among $[\text{SiO}_2,\text{CO}_2]$, $[\text{SnO},\text{SnO}_2]$, $[\text{PbO},\text{PbO}_2]$ and $[\text{GeO},\text{GeO}_2]$ which contain oxides that are both amphoteric is 2.
+**Statement II:** $\text{BF}_3$ is an electron-deficient molecule, can act as a Lewis acid, forms an adduct with $\text{NH}_3$ and has a trigonal planar geometry.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are true  (3) Both Statement I and Statement II are false  (4) Statement I is false but Statement II is true
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\text{SiO}_2$ and $\text{CO}_2$ are acidic; $\text{SnO}/\text{SnO}_2$ and $\text{PbO}/\text{PbO}_2$ are both amphoteric pairs; per the key the count is two, so I is true. II is true: $\text{BF}_3$ has only 6 electrons around B, accepts a lone pair from $\text{NH}_3$ ($\text{F}_3\text{B}\leftarrow\text{NH}_3$) and is trigonal planar ($sp^2$).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · G15-18 set Q1 · MCQ
+
+Given below are two statements:
+**Statement I:** The increasing order of boiling points of the hydrogen halides is $\text{HCl}<\text{HBr}<\text{HI}<\text{HF}$.
+**Statement II:** The increasing order of melting points of the hydrogen halides is $\text{HCl}<\text{HBr}<\text{HF}<\text{HI}$.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are true  (3) Both Statement I and Statement II are false  (4) Statement I is false but Statement II is true
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Boiling points: $\text{HF}$ is highest because of hydrogen bonding; the rest rise with size/van der Waals forces, giving $\text{HCl}<\text{HBr}<\text{HI}<\text{HF}$ (I true). Melting points: $\text{HCl}\,(-114^\circ\text{C})<\text{HBr}\,(-87)<\text{HF}\,(-84)<\text{HI}\,(-51)$ (II true).
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · G15-18 set Q2 · MCQ
+
+A p-block element E and hydrogen form a binary cation $(\text{EH}_x)^+$, while $\text{EH}_3$ on treatment with $\text{K}_2\text{HgI}_4$ in alkaline medium gives a precipitate of basic mercury(II) amido-iodide. Given below are first ionisation enthalpy values ($\text{kJ mol}^{-1}$) for the first element of each of groups 13, 14, 15 and 16. Identify the correct first ionisation enthalpy value for element E.
+
+(1) 1312  (2) 1402  (3) 1086  (4) 801
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The brown precipitate of basic mercury(II) amido-iodide with Nessler's reagent ($\text{K}_2\text{HgI}_4$ + KOH) is the test for ammonia, so $\text{E}=\text{N}$ (cation $\text{NH}_4^+$). The first ionisation enthalpy of nitrogen is $1402\ \text{kJ mol}^{-1}$ (B: 801, C: 1086, O: 1314).
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · G15-18 set Q3 · MCQ
+
+Regarding the hydrides of group 15 elements $\text{EH}_3$ ($\text{E}=\text{N,P,As,Sb}$), select the correct statement from the following:
+A. The stability of hydrides decreases down the group.
+B. The basicity of hydrides decreases down the group.
+C. The reducing character increases down the group.
+D. The boiling point increases down the group.
+
+(1) B and C only  (2) A, B, C and D  (3) A and D only  (4) A, B and C only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Going down the group the $\text{E–H}$ bond weakens, so thermal stability falls (A), basicity falls (B) and reducing power rises (C). The boiling point does not increase regularly: $\text{NH}_3$ (hydrogen bonded, $-33^\circ$C) boils higher than $\text{PH}_3$ ($-88^\circ$C), so D is false.
+

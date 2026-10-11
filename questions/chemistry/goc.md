@@ -130,3 +130,115 @@ The shape of a carbocation is:
 
 **Solution.** The positively charged carbon of a carbocation ($\text{R}_3\text{C}^+$) has three bond pairs and no lone pair: it is $sp^2$ hybridised with a vacant $p$ orbital, giving a trigonal planar shape.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · GOC set Q3 · MCQ
+
+Given below are two statements:
+
+Statement I: Compound (X), shown below, dissolves in $\mathrm{NaHCO_3}$ solution and has two chiral carbon atoms.
+Statement II: Compound (Y), shown below, has two carbons with $sp^3$ hybridisation, one carbon with $sp^2$ and one carbon with $sp$ hybridisation.
+
+![Figure](../../figures/j26_che_general-organic-chemistry/q3-1.png)
+
+![Figure](../../figures/j26_che_general-organic-chemistry/q3-2.png)
+
+(1) Both Statement I and Statement II are false  (2) Statement I is false but Statement II is true  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** (X) is a carboxylic acid ($-\mathrm{COOH}$), which is acidic enough ($\mathrm{p}K_a\approx4$) to react with $\mathrm{NaHCO_3}$ and dissolve; the ring carbon bearing $-\mathrm{COOH}$ and the ring carbon bearing the aroyl group are both stereocentres (two chiral carbons) – I true. (Y) is ethylketene, $\mathrm{CH_3CH_2CH{=}C{=}O}$: $\mathrm{CH_3}$ and $\mathrm{CH_2}$ are $sp^3$, $=\mathrm{CH}-$ is $sp^2$ and the central ketene carbon is $sp$ – II true.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · GOC set Q5 · MCQ
+
+The cyclic cations having the same number of hyperconjugation structures (the same number of $\alpha$-hydrogens) are:
+
+Choose the correct answer:
+
+![Figure](../../figures/j26_che_general-organic-chemistry/q5-1.png)
+
+(1) A, C and D only  (2) A and B only  (3) A and C only  (4) B and C only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Count the $\alpha$-H on the carbons adjacent to $\mathrm{C^+}$. A: $\mathrm{CH_3}$ (3) + ring CH bearing ethyl (1) + ring $\mathrm{CH_2}$ (2) = 6. B: $\mathrm{CH_3}$ (3) + two ring $\mathrm{CH_2}$ (2+2) = 7. C: ethyl $\mathrm{CH_2}$ (2) + two ring $\mathrm{CH_2}$ (2+2) = 6. D: ethyl $\mathrm{CH_2}$ (2) + ring CH bearing ethyl (1) + ring $\mathrm{CH_2}$ (2) = 5. So A and C match.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · GOC set Q7 · MCQ
+
+Find out the statements which are NOT true.
+
+A. Resonating structures with more covalent bonds and lesser charge separation are more stable.
+B. In the electromeric effect, an unsaturated system shows the $+E$ effect with a nucleophile and the $-E$ effect with an electrophile.
+C. The inductive effect is responsible for the high melting point, boiling point and dipole moment of polar compounds.
+D. The greater the number of alkyl groups attached to the doubly bonded carbon atoms, the higher is the heat of hydrogenation.
+E. The stability of a carbanion increases with an increase in the $s$-character of the carbon carrying the negative charge.
+
+(1) B and D only  (2) A, C and D only  (3) B, D and E only  (4) A, D and E only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A true. B false – it is reversed: with an electrophile the $\pi$ pair shifts towards the attacking species ($+E$), with a nucleophile it shifts away ($-E$). C true. D false – more alkyl groups on the double bond make the alkene more stable (hyperconjugation), so its heat of hydrogenation is *lower*. E true ($sp>sp^2>sp^3$). Not true: B and D.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · GOC set Q13 · MCQ
+
+Given below are two statements:
+
+Statement I: $(\mathrm{CH_3})_3\overset{+}{\mathrm{C}}$ is more stable than $\overset{+}{\mathrm{C}}\mathrm{H_3}$ as nine hyperconjugation interactions are possible in $(\mathrm{CH_3})_3\overset{+}{\mathrm{C}}$.
+Statement II: $\overset{+}{\mathrm{C}}\mathrm{H_3}$ is less stable than $(\mathrm{CH_3})_3\overset{+}{\mathrm{C}}$ as only three hyperconjugation interactions are possible in $\overset{+}{\mathrm{C}}\mathrm{H_3}$.
+
+(1) Statement I is false but Statement II is true  (2) Statement I is true but Statement II is false  (3) Both Statement I and Statement II are true  (4) Both Statement I and Statement II are false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $(\mathrm{CH_3})_3\mathrm{C^+}$ has three methyl groups, each with 3 $\alpha$-H, giving 9 hyperconjugative structures – I true. In $\mathrm{CH_3^+}$ the three H are attached directly to the cationic carbon, so there is no $\alpha$-C–H bond at all and *zero* hyperconjugation (not three) – II false.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · GOC set Q16 · MCQ
+
+From the following, the least stable (resonance) structure is:
+
+
+
+**(1)** ![Option 1](../../figures/j26_che_general-organic-chemistry/q16-1.png)
+
+**(2)** ![Option 2](../../figures/j26_che_general-organic-chemistry/q16-2.png)
+
+**(3)** ![Option 3](../../figures/j26_che_general-organic-chemistry/q16-3.png)
+
+**(4)** ![Option 4](../../figures/j26_che_general-organic-chemistry/q16-4.png)
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Compare the charge-separated structures of nitro-butadiene. In (4) the carbon carrying the positive charge is bonded directly to the $\mathrm{N^+}$ of the nitro group, so two like charges sit on adjacent atoms and an electron-deficient carbon is attached to an electron-poor nitrogen: strong destabilisation. In (1) and (3) the charges on adjacent atoms are opposite, and (2) is a normal conjugation contributor with the negative charge on oxygen. Hence (4) is the least stable.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · GOC set Q17 · MCQ
+
+The CORRECT order of stability for the following carbanions is: $\mathrm{CH_2{=}CH^-}$, $\mathrm{CH_3-\overset{-}{C}H_2}$, $\mathrm{CH{\equiv}C^-}$
+
+(1) $\mathrm{CH_2{=}CH^->CH{\equiv}C^->CH_3\overset{-}{C}H_2}$  (2) $\mathrm{CH{\equiv}C^->CH_2{=}CH^->CH_3\overset{-}{C}H_2}$  (3) $\mathrm{CH{\equiv}C^->CH_3\overset{-}{C}H_2>CH_2{=}CH^-}$  (4) $\mathrm{CH_3\overset{-}{C}H_2>CH_2{=}CH^->CH{\equiv}C^-}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A carbanion is stabilised by the $s$-character of the orbital holding the lone pair (the electrons are held closer to the nucleus): $sp$ (50%) $>sp^2$ (33%) $>sp^3$ (25%). So $\mathrm{HC{\equiv}C^->H_2C{=}CH^->CH_3CH_2^-}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · GOC set Q19 · MCQ
+
+Arrange the following carbanions in decreasing order of stability.
+
+![Figure](../../figures/j26_che_general-organic-chemistry/q19-1.png)
+
+(1) I > IV > II > V > III  (2) I > II > IV > V > III  (3) IV > I > II > V > III  (4) IV > II > I > III > V
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Electron-withdrawing substituents stabilise the benzylic carbanion and electron-donating ones destabilise it. $p$-CHO is strongly electron-withdrawing ($-M,-I$): most stable (IV). $p$-Br is $-I$ (weakly $+M$): more stable than unsubstituted (II). $p$-$\mathrm{CH_3}$ is $+I$/hyperconjugating and $p$-$\mathrm{OCH_3}$ is a strong $+M$ donor: least stable. Order: IV > I > II > V > III.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · GOC set Q20 · MCQ
+
+Arrange the following alkenes in decreasing order of stability.
+
+![Figure](../../figures/j26_che_general-organic-chemistry/q20-1.png)
+
+(1) III > II > I > IV  (2) I > III > IV > II  (3) III > I > II > IV  (4) I > III > II > IV
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Stability rises with the number of alkyl groups on the double bond (hyperconjugation): I is tetrasubstituted, III trisubstituted, II and IV are disubstituted. Of II and IV, the *trans* isomer (II, alkyl groups on opposite sides) is more stable than the *cis* isomer (IV, steric strain). Order: I > III > II > IV.
+

@@ -353,3 +353,206 @@ The correct order of the wavelength maxima of the absorption band in the UV–vi
 
 **Solution.** $\lambda_{max}\propto1/\Delta_o$. Field strength: $\text{CN}^->\text{NH}_3>\text{H}_2\text{O}>\text{Cl}^-$, so $\Delta_o$ decreases from $[\text{Co(CN)}_6]^{3-}$ to $[\text{Co(NH}_3)_6]^{3+}$ to $[\text{Co(NH}_3)_5\text{H}_2\text{O}]^{3+}$ to $[\text{Co(NH}_3)_5\text{Cl}]^{2+}$ and the absorbed wavelength increases in that order.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Given below are two statements:
+**Statement I:** The Crystal Field Stabilization Energy (CFSE) of $[\text{Cr(H}_2\text{O)}_6]^{2+}$ is greater than that of $[\text{Mn(H}_2\text{O)}_6]^{2+}$.
+**Statement II:** Potassium ferricyanide has a greater spin-only magnetic moment than sodium ferrocyanide.
+
+(1) Both Statement I and Statement II are true  (2) Both Statement I and Statement II are false  (3) Statement I is true but Statement II is false  (4) Statement I is false but Statement II is true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** With the weak-field ligand $\text{H}_2\text{O}$: $\text{Cr}^{2+}$ ($d^4$, $t_{2g}^3e_g^1$) has CFSE $=-0.6\Delta_o$, while $\text{Mn}^{2+}$ ($d^5$, $t_{2g}^3e_g^2$) has CFSE $=0$, so I is true. $\text{K}_3[\text{Fe(CN)}_6]$ (Fe$^{3+}$, low spin $d^5$, 1 unpaired electron, $\sqrt3$ BM) has a larger moment than $\text{Na}_4[\text{Fe(CN)}_6]$ (Fe$^{2+}$, low spin $d^6$, 0 BM), so II is true.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · Numerical
+
+Identify the metal ions among $\text{Co}^{2+}$, $\text{Ni}^{2+}$, $\text{Fe}^{2+}$, $\text{V}^{3+}$ and $\text{Ti}^{2+}$ having a spin-only magnetic moment value of more than $3.0$ BM. The sum of the number of unpaired electrons present in the high spin octahedral complexes formed by those metal ions is ______.
+
+**Answer: 7** · key (compiled)
+
+**Solution.** Unpaired electrons: $\text{Co}^{2+}(d^7)$ 3 ($3.87$ BM), $\text{Ni}^{2+}(d^8)$ 2 ($2.83$), $\text{Fe}^{2+}(d^6)$ 4 ($4.90$), $\text{V}^{3+}(d^2)$ 2, $\text{Ti}^{2+}(d^2)$ 2. Only $\text{Co}^{2+}$ and $\text{Fe}^{2+}$ exceed $3.0$ BM: $3+4=7$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+
+Given below are two statements:
+**Statement I:** $[\text{CoBr}_4]^{2-}$ ion will absorb light of lower energy than the $[\text{CoCl}_4]^{2-}$ ion.
+**Statement II:** In the $[\text{CoI}_4]^{2-}$ ion, the energy separation between the two sets of d-orbitals is more than in the $[\text{CoCl}_4]^{2-}$ ion.
+
+(1) Both Statement I and Statement II are false  (2) Both Statement I and Statement II are true  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Field strength: $\text{I}^-<\text{Br}^-<\text{Cl}^-$. $\text{Br}^-$ gives a smaller splitting than $\text{Cl}^-$, so $[\text{CoBr}_4]^{2-}$ absorbs lower-energy light (I true). $\text{I}^-$ gives an even smaller splitting than $\text{Cl}^-$, so II is false.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q4 · MCQ
+
+The statements that are incorrect about the nickel(II) complex of dimethylglyoxime are:
+A. It is red in colour.
+B. It has a high solubility in water at $\text{pH}=9$.
+C. The Ni ion has two unpaired d-electrons.
+D. The $\text{N–Ni–N}$ bond angle is almost close to $90^\circ$.
+E. The complex contains four five-membered metallacycles (metal-containing rings).
+
+(1) C and D only  (2) C and E only  (3) B, C and E only  (4) A, D and B only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $[\text{Ni(dmgH)}_2]$ is a bright red, square planar, diamagnetic complex ($\text{Ni}^{2+}$, $d^8$, no unpaired electrons) that precipitates from ammoniacal solution, so it is insoluble (B false) and C is false. A is true; D is true (square planar). It has two five-membered chelate (metallacycle) rings, not four, so E is false. Incorrect: B, C and E.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q5 · Numerical
+
+The crystal field splitting energy of the $[\text{Co(oxalate)}_3]^{3-}$ complex is $n'$ times that of the $[\text{Cr(oxalate)}_3]^{3-}$ complex. Here $n'$ is ______. (Assume $\Delta_0\gg P$)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** The question compares the stabilisation energies. $\text{Co}^{3+}$ ($d^6$, low spin, $t_{2g}^6$): CFSE $=-2.4\Delta_o$. $\text{Cr}^{3+}$ ($d^3$, $t_{2g}^3$): CFSE $=-1.2\Delta_o$. Ratio $=\dfrac{2.4}{1.2}=2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q6 · MCQ
+
+The correct increasing order of the spin-only magnetic moment values of the complex ions $[\text{MnBr}_4]^{2-}$ (A), $[\text{Cu(H}_2\text{O)}_6]^{2+}$ (B), $[\text{Ni(CN)}_4]^{2-}$ (C) and $[\text{Ni(H}_2\text{O)}_6]^{2+}$ (D) is:
+
+(1) $C=D<B<A$  (2) $C<B<D<A$  (3) $A=B<D<C$  (4) $A=B<C<D$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A: tetrahedral high-spin $\text{Mn}^{2+}$ ($d^5$), 5 unpaired, $5.92$ BM. B: $\text{Cu}^{2+}$ ($d^9$), 1 unpaired, $1.73$ BM. C: square planar $\text{Ni}^{2+}$ with strong-field CN$^-$, 0 unpaired, $0$. D: octahedral $\text{Ni}^{2+}$ ($d^8$), 2 unpaired, $2.83$ BM. Order: $C<B<D<A$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q7 · Numerical
+
+The number of isoelectronic species among $\text{Sc}^{3+}$, $\text{Cr}^{2+}$, $\text{Mn}^{3+}$, $\text{Co}^{3+}$ and $\text{Fe}^{3+}$ is $n'$. If $n'$ moles of AgCl are formed during the reaction of the complex of formula $\text{CoCl}_3(\text{en})_2\text{NH}_3$ with excess $\text{AgNO}_3$ solution, then the number of electrons present in the $t_{2g}$ orbitals of the complex is ______.
+
+**Answer: 6** · key (compiled)
+
+**Solution.** d-electron counts: $\text{Sc}^{3+}$ $d^0$, $\text{Cr}^{2+}$ $d^4$, $\text{Mn}^{3+}$ $d^4$, $\text{Co}^{3+}$ $d^6$, $\text{Fe}^{3+}$ $d^5$, so the isoelectronic pair is $\text{Cr}^{2+},\text{Mn}^{3+}$ and $n'=2$. Two moles of AgCl means $2$ ionisable chlorides: $[\text{Co(en)}_2(\text{NH}_3)\text{Cl}]\text{Cl}_2$, with $\text{Co}^{3+}$ ($d^6$) low spin, $t_{2g}^6e_g^0$. Electrons in $t_{2g}=6$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q8 · MCQ
+
+The wavelength of light absorbed for the following complexes is in the order: $[\text{Co(NH}_3)_6]^{3+}$ (I); $[\text{Co(H}_2\text{O)}_6]^{3+}$ (II); $[\text{Co(CN)}_6]^{3-}$ (III); $[\text{Co(NH}_3)_5(\text{H}_2\text{O})]^{3+}$ (IV); $[\text{CoF}_6]^{3-}$ (V).
+
+(1) III < I < IV < V < II  (2) III < I < IV < II < V  (3) III < I < II < IV < V  (4) III < IV < I < II < V
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The stronger the field, the larger $\Delta_o$ and the shorter the wavelength absorbed ($\lambda\propto1/\Delta_o$). Field strength: $\text{CN}^->\text{NH}_3>\text{H}_2\text{O}>\text{F}^-$. So $\Delta_o$: III $>$ I $>$ IV $>$ II $>$ V, and the wavelength order is III < I < IV < II < V.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q9 · Numerical
+
+A chromium complex with formula $\text{CrCl}_3\cdot6\text{H}_2\text{O}$ has a spin-only magnetic moment value of $3.87$ BM and its solution conductivity corresponds to a $1:2$ electrolyte. $2.75$ g of the complex was initially passed through a cation exchanger. The solution obtained after the process was reacted with excess $\text{AgNO}_3$. The amount of AgCl formed in the above process is ______ g. (Nearest integer) [Given molar mass in g mol$^{-1}$: Cr 52; Cl 35.5; Ag 108; O 16; H 1]
+
+**Answer: 3** · key (compiled)
+
+**Solution.** $3.87$ BM means 3 unpaired electrons ($\text{Cr}^{3+}$, $d^3$). A $1:2$ electrolyte is $[\text{Cr(H}_2\text{O)}_5\text{Cl}]\text{Cl}_2\cdot\text{H}_2\text{O}$. $M=52+106.5+108=266.5$ g/mol, so $\dfrac{2.75}{266.5}=0.0103$ mol. The cation $[\text{Cr(H}_2\text{O)}_5\text{Cl}]^{2+}$ is retained; the eluate contains $2$ Cl$^-$ per formula unit: $0.0206$ mol Cl$^-$ gives AgCl $=0.0206\times143.5=2.96\approx3$ g.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q10 · MCQ
+
+$[\text{Ni(PPh}_3)_2\text{Cl}_2]$ is a paramagnetic complex. Identify the INCORRECT statements about this complex.
+A. The complex exhibits geometrical isomerism.
+B. The complex is white in colour.
+C. The calculated spin-only magnetic moment of the complex is $2.84$ BM.
+D. The calculated CFSE (crystal field stabilisation energy) of Ni in this complex is $-0.8\Delta_o$.
+E. The geometrical arrangement of ligands in this complex is similar to that in $\text{Ni(CO)}_4$.
+
+(1) C, D and E only  (2) C and D only  (3) A, B and D only  (4) A and B only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The paramagnetic $\text{Ni}^{2+}$ ($d^8$) complex is tetrahedral ($sp^3$) with 2 unpaired electrons. A is incorrect (a tetrahedral $\text{MA}_2\text{B}_2$ complex has no geometrical isomers). B is incorrect (it is coloured, dark green/blue). C is correct ($\approx2.83$ BM). D is incorrect: the CFSE of a tetrahedral $d^8$ ion is $-0.8\Delta_t$, not $\Delta_o$. E is correct ($\text{Ni(CO)}_4$ is tetrahedral). Incorrect: A, B, D.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q11 · MCQ
+
+Consider the transition metal ions $\text{Mn}^{3+}$, $\text{Cr}^{3+}$, $\text{Fe}^{3+}$ and $\text{Co}^{3+}$, all forming low-spin octahedral complexes. The correct decreasing order of the number of unpaired electrons in their respective d-orbitals of the complexes is:
+
+(1) $\text{Mn}^{3+}>\text{Fe}^{3+}>\text{Co}^{3+}>\text{Cr}^{3+}$  (2) $\text{Cr}^{3+}>\text{Mn}^{3+}>\text{Fe}^{3+}>\text{Co}^{3+}$  (3) $\text{Fe}^{3+}>\text{Co}^{3+}>\text{Mn}^{3+}>\text{Cr}^{3+}$  (4) $\text{Cr}^{3+}>\text{Fe}^{3+}>\text{Co}^{3+}>\text{Mn}^{3+}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Low-spin octahedral: $\text{Cr}^{3+}$ $d^3$ ($t_{2g}^3$): 3 unpaired; $\text{Mn}^{3+}$ $d^4$ ($t_{2g}^4$): 2; $\text{Fe}^{3+}$ $d^5$ ($t_{2g}^5$): 1; $\text{Co}^{3+}$ $d^6$ ($t_{2g}^6$): 0. Order: $\text{Cr}^{3+}>\text{Mn}^{3+}>\text{Fe}^{3+}>\text{Co}^{3+}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q12 · MCQ
+
+Identify the CORRECT set of details from the following:
+A. $[\text{Co(NH}_3)_6]^{3+}$: inner orbital complex; $d^2sp^3$ hybridised
+B. $[\text{MnCl}_6]^{3-}$: outer orbital complex; $sp^3d^2$ hybridised
+C. $[\text{CoF}_6]^{3-}$: outer orbital complex; $d^2sp^3$ hybridised
+D. $[\text{FeF}_6]^{3-}$: outer orbital complex; $sp^3d^2$ hybridised
+E. $[\text{Ni(CN)}_4]^{2-}$: inner orbital complex; $sp^3$ hybridised
+
+(1) A, C and E only  (2) A, B and D only  (3) C and D only  (4) A, B, C, D and E
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A ✓ (strong-field NH$_3$ pairs the $3d$ electrons of $\text{Co}^{3+}$). B ✓ and D ✓ (weak-field Cl$^-$/F$^-$: no pairing, outer $4d$ orbitals used). C is wrong: $[\text{CoF}_6]^{3-}$ is outer-orbital but $sp^3d^2$ (not $d^2sp^3$). E is wrong: $[\text{Ni(CN)}_4]^{2-}$ is square planar $dsp^2$. Correct: A, B, D.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q13 · Numerical
+
+The total number of unpaired electrons present in the central metal atoms/ions of $[\text{Ni(CO)}_4]$, $[\text{NiCl}_4]^{2-}$, $[\text{PtCl}_2(\text{NH}_3)_2]$, $[\text{Ni(CN)}_4]^{2-}$ and $[\text{Pt(CN)}_4]^{2-}$ is ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** $\text{Ni(CO)}_4$: $\text{Ni}(0)$ $d^{10}$, 0. $[\text{NiCl}_4]^{2-}$: tetrahedral $\text{Ni}^{2+}$ $d^8$, 2. $[\text{PtCl}_2(\text{NH}_3)_2]$: $\text{Pt}^{2+}$ square planar, 0. $[\text{Ni(CN)}_4]^{2-}$: square planar, 0. $[\text{Pt(CN)}_4]^{2-}$: 0. Total $=2$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q14 · MCQ
+
+Given below are two statements:
+**Statement I:** Among $[\text{Cu(NH}_3)_4]^{2+}$, $[\text{Ni(en)}_3]^{2+}$, $[\text{Ni(NH}_3)_6]^{2+}$ and $[\text{Mn(H}_2\text{O)}_6]^{2+}$, $[\text{Mn(H}_2\text{O)}_6]^{2+}$ has the maximum number of unpaired electrons.
+**Statement II:** The number of pairs among $\{[\text{NiCl}_4]^{2-},[\text{Ni(CO)}_4]\}$, $\{[\text{NiCl}_4]^{2-},[\text{Ni(CN)}_4]^{2-}\}$ and $\{[\text{Ni(CO)}_4],[\text{Ni(CN)}_4]^{2-}\}$ that contain only diamagnetic species is two.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are false  (3) Both Statement I and Statement II are true  (4) Statement I is false but Statement II is true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** I is true: $\text{Cu}^{2+}$ 1, $\text{Ni}^{2+}$ (octahedral) 2 each, $\text{Mn}^{2+}$ ($d^5$, high spin) 5. II is false: $[\text{NiCl}_4]^{2-}$ is paramagnetic (2 unpaired), while $\text{Ni(CO)}_4$ and $[\text{Ni(CN)}_4]^{2-}$ are diamagnetic; so only the third pair is entirely diamagnetic (one pair).
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q15 · MCQ
+
+The correct statement among the following is:
+
+(1) $\text{Ni(CO)}_4$ and $[\text{Ni(CN)}_4]^{2-}$ are diamagnetic and $[\text{NiCl}_4]^{2-}$ is paramagnetic  (2) $\text{Ni(CO)}_4$ and $[\text{NiCl}_4]^{2-}$ are diamagnetic and $[\text{Ni(CN)}_4]^{2-}$ is paramagnetic  (3) $[\text{Ni(CN)}_4]^{2-}$ and $[\text{NiCl}_4]^{2-}$ are diamagnetic and $\text{Ni(CO)}_4$ is paramagnetic  (4) $\text{Ni(CO)}_4$ is diamagnetic and $[\text{NiCl}_4]^{2-}$ and $[\text{Ni(CN)}_4]^{2-}$ are paramagnetic
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\text{Ni(CO)}_4$: Ni(0) $3d^{10}$, tetrahedral $sp^3$, diamagnetic. $[\text{Ni(CN)}_4]^{2-}$: strong-field CN$^-$ pairs the $d^8$ electrons, square planar $dsp^2$, diamagnetic. $[\text{NiCl}_4]^{2-}$: weak-field Cl$^-$, tetrahedral $sp^3$ with 2 unpaired electrons, paramagnetic.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q16 · Numerical
+
+$X$ is the number of geometrical isomers exhibited by $[\text{Pt(NH}_3)(\text{H}_2\text{O})\text{BrCl}]$. $Y$ is the number of optically inactive isomer(s) exhibited by $[\text{CrCl}_2(\text{ox})_2]^{3-}$. $Z$ is the number of geometrical isomers exhibited by $[\text{Co(NH}_3)_3(\text{NO}_2)_3]$. The value of $X+Y+Z$ is ______.
+
+**Answer: 6** · key (compiled)
+
+**Solution.** Square planar $[\text{Mabcd}]$ has $X=3$ geometrical isomers. For $[\text{CrCl}_2(\text{ox})_2]^{3-}$ the cis isomer is chiral (an optically active pair) while the trans isomer is optically inactive, so $Y=1$. $[\text{Co(NH}_3)_3(\text{NO}_2)_3]$ ($\text{MA}_3\text{B}_3$) has fac and mer isomers, $Z=2$. $X+Y+Z=3+1+2=6$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q17 · MCQ
+
+Given below are two statements:
+**Statement I:** The hybridisation, shape and spin-only magnetic moment of $\text{K}_3[\text{Co(CO}_3)_3]$ are $sp^3d^2$, octahedral and $4.9$ BM respectively.
+**Statement II:** The geometry, hybridisation and spin-only magnetic moment values (BM) of the ions $[\text{Ni(CN)}_4]^{2-}$, $[\text{MnBr}_4]^{2-}$ and $[\text{CoF}_6]^{3-}$ respectively are square planar, tetrahedral, octahedral; $dsp^2$, $sp^3$, $sp^3d^2$ and $0$, $5.9$, $4.9$.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are false  (3) Both Statement I and Statement II are true  (4) Statement I is false but Statement II is true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Following the key: in $[\text{Co(CO}_3)_3]^{3-}$ the weakly-binding carbonate leaves $\text{Co}^{3+}$ ($d^6$) high spin with 4 unpaired electrons ($\sqrt{24}\approx4.9$ BM, $sp^3d^2$, octahedral). In II: $[\text{Ni(CN)}_4]^{2-}$ is $dsp^2$ square planar, 0 BM; $[\text{MnBr}_4]^{2-}$ is $sp^3$ tetrahedral with 5 unpaired electrons, $5.9$ BM; $[\text{CoF}_6]^{3-}$ is $sp^3d^2$ octahedral, $4.9$ BM. Both are true.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q18 · MCQ
+
+Given below are two statements:
+**Statement I:** The number of paramagnetic species among $[\text{CoF}_6]^{3-}$, $[\text{TiF}_6]^{3-}$, $\text{V}_2\text{O}_5$ and $[\text{Fe(CN)}_6]^{3-}$ is 3.
+**Statement II:** $\text{K}_4[\text{Fe(CN)}_6]<\text{K}_3[\text{Fe(CN)}_6]<[\text{Fe(H}_2\text{O)}_6]\text{SO}_4\cdot\text{H}_2\text{O}<[\text{Fe(H}_2\text{O)}_6]\text{Cl}_3$ is the correct order in terms of the number of unpaired electron(s) present in the complexes.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Statement I is true but Statement II is false
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** I: $[\text{CoF}_6]^{3-}$ (4 unpaired), $[\text{TiF}_6]^{3-}$ ($\text{Ti}^{3+}$ $d^1$, 1), $[\text{Fe(CN)}_6]^{3-}$ (low spin $d^5$, 1) are paramagnetic; $\text{V}_2\text{O}_5$ ($\text{V}^{5+}$, $d^0$) is diamagnetic: 3 ✓. II: unpaired electrons $0$ (low-spin $\text{Fe}^{2+}$) $<1$ (low-spin $\text{Fe}^{3+}$) $<4$ (high-spin $\text{Fe}^{2+}$, $\text{H}_2\text{O}$) $<5$ (high-spin $\text{Fe}^{3+}$) ✓.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q19 · MCQ
+
+A mixture X is made by dissolving $0.4$ mol of $[\text{Co(NH}_3)_5\text{SO}_4]\text{Br}$ and $0.4$ mol of $[\text{Co(NH}_3)_5\text{Br}]\text{SO}_4$ in water to make $4$ L of solution. $2$ L of mixture X is allowed to react with excess $\text{AgNO}_3$, forming precipitate Y. The remaining $2$ L of mixture X reacts with excess $\text{BaCl}_2$ to form precipitate Z. Which of the following statements is CORRECT?
+
+(1) $0.1$ mol of Y is formed  (2) $0.2$ mol of Z is formed  (3) $0.4$ mol of Z is formed  (4) Y is $\text{BaSO}_4$ and Z is AgBr
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Each $2$ L portion contains $0.2$ mol of each complex. With $\text{AgNO}_3$, only the free $\text{Br}^-$ of $[\text{Co(NH}_3)_5\text{SO}_4]\text{Br}$ precipitates: Y $=$ AgBr, $0.2$ mol. With $\text{BaCl}_2$, only the free $\text{SO}_4^{2-}$ of $[\text{Co(NH}_3)_5\text{Br}]\text{SO}_4$ precipitates: Z $=$ $\text{BaSO}_4$, $0.2$ mol.
+

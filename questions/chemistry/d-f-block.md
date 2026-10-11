@@ -258,3 +258,130 @@ One of the products from the reaction of permanganate ion with iodide ion in neu
 
 **Solution.** In neutral (or weakly alkaline) medium permanganate is reduced to $\text{MnO}_2$ and oxidises iodide all the way to iodate: $2\text{MnO}_4^-+\text{I}^-+\text{H}_2\text{O}\to2\text{MnO}_2+\text{IO}_3^-+2\text{OH}^-$. (In acid, $\text{I}_2$ forms.)
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Statements about Mn and $\mathrm{Mn_2O_7}$ — identify the correct ones.
+
+A. Mn forms the oxide $\mathrm{Mn_2O_7}$, in which Mn is in its highest oxidation state.
+B. Oxygen stabilises Mn in higher oxidation states by forming multiple bonds with Mn.
+C. $\mathrm{Mn_2O_7}$ is an ionic oxide.
+D. The structure of $\mathrm{Mn_2O_7}$ consists of one bridged oxygen.
+
+(1) A, B and D only  (2) A, B and C only  (3) A, B, C and D  (4) A, C and D only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In $\mathrm{Mn_2O_7}$, Mn is $+7$ (its group number) – A true. The high oxidation states are stabilised by $p\pi$–$d\pi$ multiple bonding with O (and F) – B true. $\mathrm{Mn_2O_7}$ is a covalent, acidic oxide (a green oil) – C false. Structure: $\mathrm{O_3Mn–O–MnO_3}$, two tetrahedra sharing one bridging O – D true. So A, B, D.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · MCQ
+
+A mixture of common salt and $\mathrm{K_2Cr_2O_7}$ (equal amounts) is heated with conc. $\mathrm{H_2SO_4}$ in a test tube and a gas evolves. Formula of the gas and oxidation state of the central metal atom in it are, respectively:
+
+(1) $\mathrm{Cr_2O_2Cl_2}$ and $+3$  (2) $\mathrm{CrO_2Cl_2}$ and $+5$  (3) $\mathrm{CrO_2Cl_2}$ and $+6$  (4) $\mathrm{Cr_2O_2Cl_2}$ and $+6$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Chromyl chloride test: $\mathrm{K_2Cr_2O_7 + 4NaCl + 6H_2SO_4 \to 2KHSO_4 + 4NaHSO_4 + 2CrO_2Cl_2\uparrow + 3H_2O}$. The red vapour is $\mathrm{CrO_2Cl_2}$ with Cr in $+6$ (no change in oxidation state; $x + 2(-2) + 2(-1) = 0 \Rightarrow x = +6$).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+Consider the following statements about manganate and permanganate ions. Identify the correct statements.
+
+A. The geometry of both manganate and permanganate ions is tetrahedral.
+B. The oxidation states of Mn in manganate and permanganate are $+7$ and $+6$, respectively.
+C. Oxidation of a Mn(II) salt by peroxodisulphate gives the manganate ion as the final product.
+D. Manganate ion is paramagnetic and permanganate ion is diamagnetic.
+E. Acidified permanganate ion reduces oxalate, nitrite and iodide ions.
+
+(1) A, C and D only  (2) A and D only  (3) A, D and E only  (4) A, B and C only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A true (both $\mathrm{MnO_4^{2-}}$, $\mathrm{MnO_4^-}$ are tetrahedral). B false (manganate is $+6$, permanganate $+7$). C false: $\mathrm{Mn^{2+} + S_2O_8^{2-}\to MnO_4^-}$ (permanganate). D true: $\mathrm{MnO_4^{2-}}$ is $d^1$ (paramagnetic), $\mathrm{MnO_4^-}$ is $d^0$ (diamagnetic). E false: permanganate is an oxidising agent – it *oxidises* oxalate, nitrite and iodide. So A and D only.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+"X" is an oxoanion of the lightest element of group 7 of the periodic table. The metal is in the $+6$ oxidation state in "X". The colour of the potassium salt of X is
+
+(1) purple  (2) orange  (3) yellow  (4) green
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Lightest group-7 element is Mn. Oxoanion with Mn(+6) is manganate, $\mathrm{MnO_4^{2-}}$; $\mathrm{K_2MnO_4}$ is dark green (permanganate is purple, dichromate orange, chromate yellow).
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Statement I: The first ionisation enthalpy of Cr is lower than that of Mn.
+Statement II: The second and third ionisation enthalpies of Cr are higher than those of Mn.
+
+(1) Both Statement I and Statement II are true  (2) Both Statement I and Statement II are false  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Cr is $[\mathrm{Ar}]3d^54s^1$, Mn is $[\mathrm{Ar}]3d^54s^2$. $\mathrm{IE_1}$: Cr (6.77 eV) < Mn (7.43 eV) – Statement I true (Mn loses an electron from a filled $4s^2$, Cr from a half-filled-stability-assisted $4s^1$). $\mathrm{IE_2}$: Cr (1592 kJ/mol) > Mn (1509) because $\mathrm{Cr^+}$ is a stable $3d^5$; but $\mathrm{IE_3}$: Cr (2987) < Mn (3248) because $\mathrm{Mn^{2+}}$ is $3d^5$. So "second and third are higher" is false – Statement II false.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · Numerical
+
+Among the following oxides of 3d elements, the number of mixed oxides is ______.
+
+$\mathrm{Ti_2O_3,\ V_2O_4,\ Cr_2O_3,\ Mn_3O_4,\ Fe_3O_4,\ Fe_2O_3,\ Co_3O_4}$
+
+**Answer: 3** · key (compiled)
+
+**Solution.** A mixed oxide contains the same metal in two different oxidation states: $\mathrm{Mn_3O_4 = MnO\cdot Mn_2O_3}$, $\mathrm{Fe_3O_4 = FeO\cdot Fe_2O_3}$, $\mathrm{Co_3O_4 = CoO\cdot Co_2O_3}$. The others ($\mathrm{Ti_2O_3}$, $\mathrm{V_2O_4}$, $\mathrm{Cr_2O_3}$, $\mathrm{Fe_2O_3}$) have a single oxidation state. Number $=3$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+A first-row transition metal M does not liberate $\mathrm{H_2}$ gas from dilute HCl. 1 mol of an aqueous solution of $\mathrm{MSO_4}$ is treated with excess aqueous KCN and then $\mathrm{H_2S}$ gas is passed through the solution. The amount of MS (metal sulphide) formed is ______ mol.
+
+(1) 0  (2) 3  (3) 1  (4) 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** M is Cu ($E^\circ_{\mathrm{Cu^{2+}/Cu}} = +0.34$ V, so it does not displace H$_2$ from dilute HCl). $\mathrm{Cu^{2+}}$ with excess KCN: $2\mathrm{Cu^{2+}} + 4\mathrm{CN^-}\to 2\mathrm{CuCN} + (\mathrm{CN})_2$, then CuCN dissolves in excess KCN to give the very stable $\mathrm{[Cu(CN)_4]^{3-}}$, whose free $\mathrm{Cu^+}$ concentration is too small for $\mathrm{H_2S}$ to precipitate any sulphide. Amount of MS $=0$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · MCQ
+
+The oxidation state of chromium in the final product formed in the reaction between KI and acidified $\mathrm{K_2Cr_2O_7}$ solution is:
+
+(1) $+6$  (2) $+3$  (3) $+4$  (4) $+2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\mathrm{Cr_2O_7^{2-} + 14H^+ + 6I^- \to 2Cr^{3+} + 3I_2 + 7H_2O}$. Cr goes from $+6$ to $+3$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q9 · MCQ
+
+$\mathrm{MnO_4^{2-}}$ in acidic medium disproportionates to:
+
+(1) $\mathrm{MnO_4^-}$ and $\mathrm{MnO_2}$  (2) $\mathrm{MnO_2}$ and $\mathrm{Mn_2O_7}$  (3) $\mathrm{Mn_2O_7}$ and $\mathrm{MnO}$  (4) $\mathrm{MnO_2}$ and $\mathrm{MnO}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Manganate ($+6$) is stable only in strongly alkaline solution. In acid: $3\mathrm{MnO_4^{2-}} + 4\mathrm{H^+} \to 2\mathrm{MnO_4^-} + \mathrm{MnO_2} + 2\mathrm{H_2O}$ – Mn goes $+6\to+7$ (permanganate) and $+6\to+4$ ($\mathrm{MnO_2}$).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · Numerical
+
+Consider the reactions:
+
+$\mathrm{NaCl + K_2Cr_2O_7 + H_2SO_4 \to A + KHSO_4 + NaHSO_4 + H_2O}$
+$\mathrm{A + NaOH \to B + NaCl + H_2O}$
+$\mathrm{B + H_2SO_4 + H_2O_2 \to C + Na_2SO_4 + H_2O}$
+
+In the product C, $X$ is the number of $\mathrm{O_2^{2-}}$ units, $Y$ is the total number of oxygen atoms present and $Z$ is the oxidation state of Cr. The value of $X+Y+Z$ is ______.
+
+**Answer: 13** · key (compiled)
+
+**Solution.** A = $\mathrm{CrO_2Cl_2}$ (chromyl chloride); B = $\mathrm{Na_2CrO_4}$ (sodium chromate); C = $\mathrm{CrO_5}$ = $\mathrm{CrO(O_2)_2}$ (blue peroxide). In $\mathrm{CrO_5}$ (one oxo O and two peroxo $\mathrm{O_2^{2-}}$ groups): $X=2$, $Y=5$, and $x + (-2) + 2(-2) = 0 \Rightarrow Z=+6$. $X+Y+Z = 2+5+6 = 13$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
+
+Statement I: The number of pairs, from the following, in which both the ions are coloured in aqueous solution is 3. $[\mathrm{Sc^{3+}, Ti^{3+}}]$, $[\mathrm{Mn^{2+}, Cr^{2+}}]$, $[\mathrm{Cu^{2+}, Zn^{2+}}]$ and $[\mathrm{Ni^{2+}, Ti^{4+}}]$.
+Statement II: $\mathrm{Th^{4+}}$ is the strongest reducing agent among $\mathrm{Th^{4+}, Ce^{4+}, Gd^{3+}}$ and $\mathrm{Eu^{2+}}$.
+
+(1) Both Statement I and Statement II are false  (2) Both Statement I and Statement II are true  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Statement I: $\mathrm{Sc^{3+}}$ ($d^0$), $\mathrm{Zn^{2+}}$ ($d^{10}$) and $\mathrm{Ti^{4+}}$ ($d^0$) are colourless, so only $[\mathrm{Mn^{2+}, Cr^{2+}}]$ has both ions coloured: the number of pairs is 1, not 3 – false. Statement II: $\mathrm{Th^{4+}}$ has the noble-gas configuration (cannot be oxidised further); $\mathrm{Eu^{2+}}$ ($4f^7$) readily goes to $\mathrm{Eu^{3+}}$ and is the strongest reducing agent – false. Both false.
+

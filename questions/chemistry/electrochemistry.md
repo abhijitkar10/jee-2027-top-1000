@@ -282,3 +282,193 @@ In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced
 
 **Solution.** $\text{Cr}^{6+}\to\text{Cr}^{3+}$ needs $3$ electrons per Cr, so $1$ mol of $\text{Cr}^{3+}$ needs $3\text{ F}=289500$ C. $t=48.25\times60=2895$ s. $I=\dfrac{289500}{2895}=100$ A.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+For a closed-circuit Daniell cell, which of the following plots is the accurate one at a given temperature?
+
+
+
+**(1)** ![Option 1](../../figures/j26_che_electrochemistry/q1-1.png)
+
+**(2)** ![Option 2](../../figures/j26_che_electrochemistry/q1-2.png)
+
+**(3)** ![Option 3](../../figures/j26_che_electrochemistry/q1-3.png)
+
+**(4)** ![Option 4](../../figures/j26_che_electrochemistry/q1-4.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $E^\circ_{\text{cell}}$ is the emf under standard conditions (all concentrations 1 M); at a fixed temperature it is a constant of the cell reaction ($E^\circ = \frac{RT}{nF}\ln K$) and does not change as the cell runs. (The actual emf $E$ falls with time as $Q$ rises, but $E^\circ$ does not.) So the plot of $E^\circ_{\text{cell}}$ against time is a horizontal line – option (1).
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · Numerical
+
+$\mathrm{MX}$ is a sparingly soluble salt: $\mathrm{MX(s)\rightleftharpoons M^+(aq)+X^-(aq)}$, $K_{sp}=10^{-10}$ at 298 K. If the standard reduction potential for $\mathrm{M^+(aq)+e^-\to M(s)}$ is $E^\ominus_{\mathrm{M^+/M}}=0.79$ V, the standard reduction potential of the metal/metal-insoluble-salt electrode $\mathrm{X^-/MX(s)/M}$ is ______ mV (nearest integer).
+
+[Given: $\frac{2.303RT}{F}=0.059$ V]
+
+**Answer: 200** · key (compiled)
+
+**Solution.** The electrode reaction $\mathrm{MX(s)+e^-\to M(s)+X^-}$ is the sum of $\mathrm{MX(s)\to M^+ + X^-}$ and $\mathrm{M^+ + e^-\to M}$. With $[\mathrm{X^-}]=1$ M, $[\mathrm{M^+}]=K_{sp}$, so $E^\ominus_{\mathrm{X^-/MX/M}}=E^\ominus_{\mathrm{M^+/M}}+0.059\log K_{sp}=0.79+0.059(-10)=0.20$ V $=200$ mV.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+
+In the electrochemical cell $\mathrm{Ag(s)\,|\,AgCl(s)\,|\,FeCl_2(aq),FeCl_3(aq)\,|\,Pt(s)}$ at 298 K, the cell potential $E_{\text{cell}}$ will increase when:
+
+A. Concentration of $\mathrm{Fe^{2+}}$ is increased.
+B. Concentration of $\mathrm{Fe^{3+}}$ is decreased.
+C. Concentration of $\mathrm{Fe^{2+}}$ is decreased.
+D. Concentration of $\mathrm{Fe^{3+}}$ is increased.
+E. Concentration of $\mathrm{Cl^-}$ is increased.
+
+(1) B only  (2) A and E only  (3) C, D and E only  (4) A and B only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Cell reaction: $\mathrm{Ag + Cl^- + Fe^{3+}\to AgCl + Fe^{2+}}$, so $Q=\dfrac{[\mathrm{Fe^{2+}}]}{[\mathrm{Fe^{3+}}][\mathrm{Cl^-}]}$ and $E=E^\circ-\frac{0.059}{1}\log Q$. $E$ rises when $Q$ falls: decrease $[\mathrm{Fe^{2+}}]$ (C), increase $[\mathrm{Fe^{3+}}]$ (D), increase $[\mathrm{Cl^-}]$ (E).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · Numerical
+
+For a strong electrolyte, $\Lambda_m$ increases slowly with dilution and can be represented by $\Lambda_m=\Lambda_m^\circ-Ac^{1/2}$. Molar conductivity values of solutions of the strong electrolyte AB at $18^\circ$C are:
+
+| $c$ (mol L$^{-1}$) | 0.04 | 0.09 | 0.16 | 0.25 |
+|---|---|---|---|---|
+| $\Lambda_m$ (S cm$^2$ mol$^{-1}$) | 96.1 | 95.7 | 95.3 | 94.9 |
+
+The value of the constant $A$ based on the above data, in S cm$^2$ mol$^{-1}$/(mol L$^{-1}$)$^{1/2}$, is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** $\Lambda_m$ is linear in $\sqrt c$ with slope $-A$. $\sqrt c = 0.2, 0.3, 0.4, 0.5$ and $\Lambda_m$ falls by $0.4$ for every $0.1$ increase in $\sqrt c$, so slope $=\dfrac{94.9-96.1}{0.5-0.2}=-4$ and $A=4$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q6 · Numerical
+
+The molar conductivity of a weak acid HQ of concentration 0.18 M was found to be $\tfrac1{30}$ of the molar conductivity of another weak acid HZ of concentration 0.02 M. If $\lambda^\circ_{\mathrm{Q^-}}$ happened to be equal to $\lambda^\circ_{\mathrm{Z^-}}$, the difference of the $\mathrm{p}K_a$ values of the two weak acids, $\mathrm{p}K_a(\mathrm{HQ})-\mathrm{p}K_a(\mathrm{HZ})$, is ______ (nearest integer).
+
+[Given: degree of dissociation $\alpha\ll1$ for both weak acids; $\lambda^\circ$: limiting molar conductivity of ions]
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Same $\Lambda^\circ$ for both acids, so $\Lambda_m=\alpha\Lambda^\circ$ gives $\alpha_Q=\alpha_Z/30$. For a weak acid ($\alpha\ll1$) $K_a=\alpha^2C$: $\dfrac{K_a(\mathrm{HZ})}{K_a(\mathrm{HQ})}=\dfrac{\alpha_Z^2(0.02)}{(\alpha_Z/30)^2(0.18)}=\dfrac{0.02\times900}{0.18}=100$. Hence $\mathrm{p}K_a(\mathrm{HQ})-\mathrm{p}K_a(\mathrm{HZ})=\log100=2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q7 · MCQ
+
+Consider the following reduction processes:
+
+$\mathrm{Al^{3+}+3e^-\to Al(s)},\ E^0=-1.66$ V; $\mathrm{Fe^{3+}+e^-\to Fe^{2+}},\ E^0=+0.77$ V; $\mathrm{Co^{3+}+e^-\to Co^{2+}},\ E^0=+1.81$ V; $\mathrm{Cr^{3+}+3e^-\to Cr(s)},\ E^\circ=-0.74$ V
+
+The tendency to act as a reducing agent decreases in the order:
+
+(1) $\mathrm{Al>Cr>Fe^{2+}>Co^{2+}}$  (2) $\mathrm{Cr>Fe^{2+}>Al>Co^{2+}}$  (3) $\mathrm{Al>Fe^{2+}>Cr>Co^{2+}}$  (4) $\mathrm{Al>Cr>Co^{2+}>Fe^{2+}}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The reducing agents here are Al, Cr, $\mathrm{Fe^{2+}}$ and $\mathrm{Co^{2+}}$ (the reduced forms). The more negative the reduction potential of the couple, the stronger the reduced form is as a reducing agent: $-1.66<-0.74<+0.77<+1.81$, i.e. $\mathrm{Al>Cr>Fe^{2+}>Co^{2+}}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q8 · Numerical
+
+Consider the electrochemical cell: $\mathrm{Pt\,|\,O_2(g)(1\ bar)\,|\,HCl(aq)\,\|\,M^{2+}(aq,1.0\ M)\,|\,M(s)}$. The pH above which oxygen gas would start to evolve at the anode is ______ (nearest integer).
+
+[Given: standard reduction potentials $E^o_{\mathrm{M^{2+}/M}}=0.994$ V, $E^o_{\mathrm{O_2/H_2O}}=1.23$ V; $\frac{2.303RT}{F}=0.059$ V]
+
+**Answer: 4** · key (compiled)
+
+**Solution.** Cathode: $E=0.994$ V. Anode couple $\mathrm{O_2+4H^++4e^-\to2H_2O}$: $E=1.23-\frac{0.059}{4}\log\frac{1}{[\mathrm{H^+}]^4}=1.23-0.059\,\mathrm{pH}$. Oxygen is evolved at the anode (the cell works spontaneously) once $E_{\text{cathode}}>E_{\text{anode}}$: $0.994>1.23-0.059\,\mathrm{pH}\Rightarrow\mathrm{pH}>\dfrac{0.236}{0.059}=4$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q9 · Numerical
+
+Consider the following electrochemical cell at 298 K: $\mathrm{Pt\,|\,HSnO_2^-(aq)\,|\,Sn(OH)_6^{2-}(aq),OH^-(aq)\,|\,Bi_2O_3(s)\,|\,Bi(s)}$. If the reaction quotient at a given time is $10^6$, then the cell EMF ($E_{\text{cell}}$) is ______ $\times10^{-1}$ V (nearest integer).
+
+Given the standard half-cell reduction potentials $E^\circ_{\mathrm{Bi_2O_3/Bi,OH^-}}=-0.44$ V and $E^\circ_{\mathrm{Sn(OH)_6^{2-}/HSnO_2^-,OH^-}}=-0.90$ V. [Take $\frac{2.303RT}{F}=0.059$ V]
+
+**Answer: 4** · key (compiled)
+
+**Solution.** Cathode (reduction): $\mathrm{Bi_2O_3+3H_2O+6e^-\to2Bi+6OH^-}$, $E^\circ=-0.44$ V. Anode (oxidation): $\mathrm{HSnO_2^-+H_2O+OH^-\to Sn(OH)_6^{2-}+2e^-}$ taken $\times3$, so the overall reaction transfers $n=6$ electrons. $E^\circ_{\text{cell}}=-0.44-(-0.90)=0.46$ V. $E=0.46-\dfrac{0.059}{6}\log10^6=0.46-0.059=0.401$ V $=4.01\times10^{-1}$ V, so the answer is 4.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q10 · MCQ
+
+Consider the above electrochemical cell where a metal electrode (M) is undergoing redox reaction by forming $\mathrm{M^+}$ ($\mathrm{M\to M^++e^-}$). The cation $\mathrm{M^+}$ is present in two different concentrations $c_1$ and $c_2$ as shown above. Which of the following statements is correct for generating a positive cell potential?
+
+![Figure](../../figures/j26_che_electrochemistry/q10-1.png)
+
+(1) If $c_1$ is present at the cathode, then $c_1<c_2$.  (2) If $c_1$ is present at the anode, then $c_1>c_2$.  (3) If $c_1$ is present at the cathode, then $c_1>c_2$.  (4) If $c_1$ is present at the anode, then $c_1=c_2$.
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Identical electrodes, so $E^\circ_{\text{cell}}=0$ and $E_{\text{cell}}=-\dfrac{0.059}{1}\log\dfrac{c_{\text{anode}}}{c_{\text{cathode}}}$. $E>0$ needs $c_{\text{cathode}}>c_{\text{anode}}$ (the cation is reduced in the more concentrated half-cell; the dilute half-cell dissolves metal). So if $c_1$ is at the cathode, $c_1>c_2$ – option (3).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q11 · Numerical
+
+The pH and conductance of a weak acid (HX) were found to be 5 and $4\times10^{-5}$ S, respectively. The conductance was measured under standard conditions using a cell whose electrode plates of surface area $1\ \text{cm}^2$ were 15 cm apart. The value of the limiting molar conductivity is ______ $\mathrm{S\,m^2\,mol^{-1}}$ (nearest integer). (Given: degree of dissociation $\alpha\ll1$)
+
+**Answer: 6** · key (compiled)
+
+**Solution.** Cell constant $l/A=15\ \text{cm}^{-1}$, so $\kappa=G\,(l/A)=4\times10^{-5}\times15=6\times10^{-4}\ \text{S cm}^{-1}$. $[\mathrm{H^+}]=C\alpha=10^{-5}$ M. For $\alpha\ll1$: $\Lambda_m^\circ\approx\dfrac{\Lambda_m}{\alpha}=\dfrac{1000\,\kappa}{C\alpha}=\dfrac{1000\times6\times10^{-4}}{10^{-5}}=6\times10^{4}\ \text{S cm}^2\text{mol}^{-1}=6\ \text{S m}^2\text{mol}^{-1}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q12 · Numerical
+
+Consider the following redox reaction taking place in acidic medium: $\mathrm{BH_4^-(aq)+ClO_3^-(aq)\to H_2BO_3^-(aq)+Cl^-(aq)}$. If the Nernst equation for the above balanced reaction is $E_{\text{cell}}=E^\circ_{\text{cell}}-\dfrac{RT}{nF}\ln Q$, then the value of $n$ is ______ (nearest integer).
+
+**Answer: 24** · key (compiled)
+
+**Solution.** B stays at $+3$ in both $\mathrm{BH_4^-}$ and $\mathrm{H_2BO_3^-}$; the four H change from $-1$ to $+1$: $4\times2=8$ electrons lost per $\mathrm{BH_4^-}$. $\mathrm{Cl}$: $+5\to-1$ gains 6 electrons per $\mathrm{ClO_3^-}$. LCM of 8 and 6 is 24: $3\,\mathrm{BH_4^-}+4\,\mathrm{ClO_3^-}\to\ldots$, so $n=24$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q13 · Numerical
+
+Electricity is passed through an acidic solution of $\mathrm{Cu^{2+}}$ till all the $\mathrm{Cu^{2+}}$ is exhausted, leading to the deposition of 300 mg of Cu metal. However, a current of 600 mA is continued to pass through the same solution for another 28 minutes, the total volume of the solution being fixed at 200 mL. The total volume of oxygen evolved at STP during the entire process is ______ mL (nearest integer).
+
+[Given: $\mathrm{Cu^{2+}+2e^-\to Cu}$, $E^o_{\text{red}}=+0.34$ V; $\mathrm{O_2+4H^++4e^-\to2H_2O}$, $E^o_{\text{red}}=+1.23$ V; molar mass Cu $=63.54$, $\mathrm{O_2}=32$ g mol$^{-1}$; $F=96500$ C mol$^{-1}$; molar volume at STP $=22.4$ L]
+
+**Answer: 111** · key (compiled)
+
+**Solution.** Anode reaction throughout: $2\mathrm{H_2O}\to\mathrm{O_2}+4\mathrm{H^+}+4e^-$. Phase 1 (Cu deposition): $n_{e^-}=2\times\dfrac{0.300}{63.54}=9.44\times10^{-3}$ mol. Phase 2 (water electrolysis): $n_{e^-}=\dfrac{0.6\times28\times60}{96500}=1.045\times10^{-2}$ mol. Total $n_{e^-}=1.989\times10^{-2}$ mol, so $n_{\mathrm{O_2}}=\dfrac{1.989\times10^{-2}}{4}=4.97\times10^{-3}$ mol and $V=4.97\times10^{-3}\times22400\approx111$ mL.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Redox set Q1 · MCQ
+
+One mole of $\mathrm{Cl_2(g)}$ was passed into 2 L of cold 2 M KOH solution. After the reaction, the concentrations of $\mathrm{Cl^-}$, $\mathrm{ClO^-}$ and $\mathrm{OH^-}$ are respectively (assume the volume remains constant):
+
+(1) 0.5 M, 0.5 M, 1 M  (2) 0.75 M, 0.75 M, 1 M  (3) 0.5 M, 0.5 M, 0.5 M  (4) 1 M, 1 M, 1 M
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Cold dilute alkali: $\mathrm{Cl_2+2OH^-\to Cl^-+ClO^-+H_2O}$ (disproportionation). $\mathrm{OH^-}$ available $=2\ \text{L}\times2\ \text{M}=4$ mol; 1 mol $\mathrm{Cl_2}$ uses 2 mol and gives 1 mol $\mathrm{Cl^-}$ and 1 mol $\mathrm{ClO^-}$. In 2 L: $[\mathrm{Cl^-}]=[\mathrm{ClO^-}]=0.5$ M and $[\mathrm{OH^-}]=\dfrac{4-2}{2}=1$ M.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Redox set Q2 · MCQ
+
+Identify the correct statements:
+
+A. Hydrated salts can be used as primary standard.
+B. A primary standard should not undergo any reaction with air.
+C. Reactions of a primary standard with another substance should be instantaneous and stoichiometric.
+D. A primary standard should not be soluble in water.
+E. A primary standard should have low relative molar mass.
+
+(1) A, B, C and E only  (2) A, B and E only  (3) A, B and C only  (4) D and E only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A true (oxalic acid dihydrate and Mohr's salt are common primary standards, since they have a fixed composition). B true (must be stable in air: non-hygroscopic, not oxidised or carbonated). C true (reaction must be instantaneous and stoichiometric). D false (it must be soluble to make a standard solution). E false (a *high* molar mass is wanted, so that weighing errors are small). So A, B and C.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Redox set Q3 · Numerical
+
+$200\ \text{cc}$ of $x\times10^{-3}$ M potassium dichromate is required to oxidise 750 cc of 0.6 M Mohr's salt solution in acidic medium. Here $x=$ ______.
+
+**Answer: 375** · key (compiled)
+
+**Solution.** $\mathrm{Cr_2O_7^{2-}+14H^++6Fe^{2+}\to2Cr^{3+}+6Fe^{3+}+7H_2O}$. Moles of $\mathrm{Fe^{2+}}=0.6\times0.750=0.45$ mol, which needs $\dfrac{0.45}{6}=0.075$ mol dichromate. Molarity $=\dfrac{0.075}{0.200}=0.375\ \text{M}=375\times10^{-3}$ M, so $x=375$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Redox set Q4 · Numerical
+
+500 mL of 1.2 M KI solution is mixed with 500 mL of 0.2 M $\mathrm{KMnO_4}$ solution in basic medium. The liberated iodine was titrated with standard 0.1 M $\mathrm{Na_2S_2O_3}$ solution in the presence of starch indicator till the blue colour disappeared. The volume (in L) of $\mathrm{Na_2S_2O_3}$ consumed is ______ (nearest integer).
+
+**Answer: 3** · key (compiled)
+
+**Solution.** In basic medium $\mathrm{MnO_4^-+2H_2O+3e^-\to MnO_2+4OH^-}$ ($n$-factor 3), and $\mathrm{I^-}$ is oxidised to $\mathrm{I_2}$. $\mathrm{KMnO_4}$: $0.5\times0.2=0.1$ mol $=0.3$ eq, which is limiting against $0.6$ mol KI. So 0.3 mol of electrons go to $\mathrm{I^-}$, giving $0.15$ mol $\mathrm{I_2}$. $\mathrm{I_2+2S_2O_3^{2-}\to2I^-+S_4O_6^{2-}}$ needs $0.3$ mol thiosulphate, $V=\dfrac{0.3}{0.1}=3$ L.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Redox set Q5 · Numerical
+
+X and Y are the numbers of electrons involved, respectively, during the oxidation of $\mathrm{I^-}$ to $\mathrm{I_2}$ and of $\mathrm{S^{2-}}$ to S by acidified $\mathrm{K_2Cr_2O_7}$. The value of $X+Y$ is ______.
+
+**Answer: 12** · key (compiled)
+
+**Solution.** One dichromate takes 6 electrons ($\mathrm{Cr}^{+6}\to2\mathrm{Cr}^{+3}$). $\mathrm{Cr_2O_7^{2-}+14H^++6I^-\to2Cr^{3+}+3I_2+7H_2O}$ ($X=6$) and $\mathrm{Cr_2O_7^{2-}+14H^++3S^{2-}\to2Cr^{3+}+3S+7H_2O}$ ($Y=6$). $X+Y=12$.
+

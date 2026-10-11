@@ -332,3 +332,146 @@ Regarding the MO energy levels of homonuclear diatomic molecules, the INCORRECT 
 
 **Solution.** (A) is true ($\text{Ne}_2$: $8$ bonding, $8$ antibonding). (B) is false: the HOMO of $\text{F}_2$ is the degenerate antibonding $\pi^*_{2p}$ pair, not a $\sigma$ orbital. (C) is false: removing an antibonding electron from $\text{O}_2$ (B.O. $2$) gives $\text{O}_2^+$ (B.O. $2.5$), which has a *larger* bond energy. (D) is true: $\text{Li}_2$ has a weak single bond between large $2s$ orbitals ($267$ pm), while $\text{B}_2$ is $159$ pm.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Given below are two statements:
+**Statement I:** The correct order in terms of bond dissociation enthalpy is $\text{Cl}_2>\text{Br}_2>\text{F}_2>\text{I}_2$.
+**Statement II:** The correct trend in the covalent character of the metal halides is $\text{SnCl}_4>\text{SnCl}_2$, $\text{PbCl}_4>\text{PbCl}_2$ and $\text{UF}_4>\text{UF}_6$.
+
+(1) Statement I is false but Statement II is true  (2) Both Statement I and Statement II are false  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** I is true: $\text{F}_2$ has an unusually weak bond (lone-pair repulsion between the small F atoms), so $\text{Cl}_2>\text{Br}_2>\text{F}_2>\text{I}_2$. In II, the first two pairs are right (higher oxidation state, more polarising cation, more covalent) but $\text{UF}_6$ (U in $+6$) is more covalent than $\text{UF}_4$, so the third pair is wrong. II is false.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · MCQ
+
+The correct increasing order of $\text{C–H}$ (A), $\text{C–O}$ (B), $\text{C=O}$ (C) and $\text{C}\equiv\text{N}$ (D) bonds in terms of covalent bond length is:
+
+(1) $D<C<A<B$  (2) $A<D<C<B$  (3) $D<C<B<A$  (4) $A<B<C<D$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Typical lengths: $\text{C–H}\approx1.09$ Å, $\text{C}\equiv\text{N}\approx1.16$ Å, $\text{C=O}\approx1.23$ Å, $\text{C–O}\approx1.43$ Å. So $A<D<C<B$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+
+Identify the molecule (X) with the maximum number of lone pairs of electrons (obtained using the Lewis dot structure) among $\text{HNO}_3$, $\text{H}_2\text{SO}_4$, $\text{NF}_3$ and $\text{O}_3$. Choose the correct bond angle made by the central atom of the molecule (X).
+
+(1) $116^\circ$  (2) $102^\circ$  (3) $107^\circ$  (4) $120^\circ$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Lone pairs in the Lewis structures: $\text{HNO}_3$ 7, $\text{H}_2\text{SO}_4$ 8, $\text{O}_3$ 6, $\text{NF}_3$ 10 (three on each F and one on N). X is $\text{NF}_3$; its $\text{F–N–F}$ angle ($\approx102^\circ$) is smaller than that of $\text{NH}_3$ ($107^\circ$).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
+
+Match List-I with List-II according to shape.
+| List-I | List-II |
+|---|---|
+| A. $\text{XeO}_3$ | I. $\text{BrF}_5$ |
+| B. $\text{XeF}_2$ | II. $\text{NH}_3$ |
+| C. $\text{XeO}_2\text{F}_2$ | III. $[\text{I}_3]^-$ |
+| D. $\text{XeOF}_4$ | IV. $\text{SF}_4$ |
+
+(1) A-II, B-III, C-I, D-IV  (2) A-II, B-I, C-III, D-IV  (3) A-II, B-III, C-IV, D-I  (4) A-III, B-II, C-IV, D-I
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\text{XeO}_3$ is pyramidal (like $\text{NH}_3$); $\text{XeF}_2$ is linear (like $\text{I}_3^-$); $\text{XeO}_2\text{F}_2$ is see-saw (like $\text{SF}_4$); $\text{XeOF}_4$ is square pyramidal (like $\text{BrF}_5$). So A-II, B-III, C-IV, D-I.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+
+The pair of species among the following having the same bond order as well as paramagnetic character will be:
+
+(1) $\text{O}_2^-,\ \text{N}_2^+$  (2) $\text{O}_2^+,\ \text{N}_2^{2-}$  (3) $\text{O}_2^-,\ \text{N}_2^-$  (4) $\text{O}_2^+,\ \text{N}_2^-$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Bond orders (all from MO theory): $\text{O}_2^-$ 1.5 (para), $\text{O}_2^+$ 2.5 (para), $\text{N}_2^+$ 2.5 (para), $\text{N}_2^-$ 2.5 (para), $\text{N}_2^{2-}$ 2 (para). Only $\text{O}_2^+$ and $\text{N}_2^-$ share both bond order (2.5) and paramagnetism.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+
+Among $\text{H}_2\text{S}$, $\text{H}_2\text{O}$, $\text{NF}_3$, $\text{NH}_3$ and $\text{CHCl}_3$, identify the molecule (X) with the lowest dipole moment value. The number of lone pairs of electrons present on the central atom of the molecule (X) is:
+
+(1) 0  (2) 3  (3) 2  (4) 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Approximate dipole moments: $\text{NF}_3$ 0.24 D (the lone-pair moment opposes the $\text{N–F}$ bond moments), $\text{H}_2\text{S}$ 0.97 D, $\text{CHCl}_3$ 1.04 D, $\text{NH}_3$ 1.47 D, $\text{H}_2\text{O}$ 1.85 D. X is $\text{NF}_3$, whose central N has $1$ lone pair.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+Two p-block elements X and Y form fluorides of the type $\text{EF}_3$. The fluoride $\text{XF}_3$ is a Lewis acid and $\text{YF}_3$ is a Lewis base. The hybridizations of the central atoms of $\text{XF}_3$ and $\text{YF}_3$ respectively are:
+
+(1) $sp^2$ and $sp^3$  (2) Both $sp^2$  (3) $sp^3$ and $sp^2$  (4) Both $sp^3$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\text{XF}_3=\text{BF}_3$ (electron-deficient Lewis acid): three bond pairs, no lone pair, $sp^2$. $\text{YF}_3=\text{NF}_3$ (a lone pair on N makes it a Lewis base): three bond pairs plus one lone pair, $sp^3$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q8 · MCQ
+
+The formal charges on the atoms marked as (1) to (4) in the Lewis representation of the $\text{HNO}_3$ molecule respectively are:
+
+![Figure](../../figures/j26_che_chemical-bonding-and-molecular-structure/q8-1.png)
+
+(1) $0,0,-1,+1$  (2) $0,-1,0,+1$  (3) $+1,0,0,-1$  (4) $0,+1,0,-1$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Formal charge $=V-L-\tfrac12B$. O(1) (–OH, 2 lone pairs, 2 bonds): $6-4-2=0$. N(2) (4 bonds): $5-0-4=+1$. O(3) (N=O, 2 lone pairs): $6-4-2=0$. O(4) (single bond, 3 lone pairs): $6-6-1=-1$. So $0,+1,0,-1$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · MCQ
+
+Given below are two statements:
+**Statement I:** The number of species among $\text{SF}_4$, $\text{NH}_4^+$, $[\text{NiCl}_4]^{2-}$, $\text{XeF}_4$, $[\text{PtCl}_4]^{2-}$, $\text{SeF}_4$ and $[\text{Ni(CN)}_4]^{2-}$ that have tetrahedral geometry is 3.
+**Statement II:** In the set $[\text{NO}_2,\ \text{BeH}_2,\ \text{BF}_3,\ \text{AlCl}_3]$, all the molecules have an incomplete octet around the central atom.
+
+(1) Statement I is true but Statement II is false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are true  (4) Both Statement I and Statement II are false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** I is false: $\text{SF}_4$ and $\text{SeF}_4$ are see-saw, $\text{XeF}_4$, $[\text{PtCl}_4]^{2-}$ and $[\text{Ni(CN)}_4]^{2-}$ are square planar; only $\text{NH}_4^+$ and $[\text{NiCl}_4]^{2-}$ are tetrahedral (2). II is true: $\text{NO}_2$ (7 electrons on N), $\text{BeH}_2$ (4), $\text{BF}_3$ (6) and $\text{AlCl}_3$ (6) all have fewer than 8 electrons around the central atom.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
+
+Given below are two statements:
+**Statement I:** The number of species among $\text{BF}_4^-$, $\text{SiF}_4$, $\text{XeF}_4$ and $\text{SF}_4$ that have unequal $\text{E–F}$ bond lengths is two (E is the central atom).
+**Statement II:** Among $\text{O}_2^-$, $\text{O}_2^{2-}$, $\text{F}_2$, $\text{O}_2^+$, $\text{O}_2^-$ has the highest bond order.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is true but Statement II is false  (3) Statement I is false but Statement II is true  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** I is false: $\text{BF}_4^-$, $\text{SiF}_4$ (tetrahedral) and $\text{XeF}_4$ (square planar) have equal bonds; only $\text{SF}_4$ (see-saw: axial vs equatorial) has unequal bonds, so the number is one. II is false: bond orders are $\text{O}_2^+$ 2.5, $\text{O}_2^-$ 1.5, $\text{O}_2^{2-}$ 1, $\text{F}_2$ 1; $\text{O}_2^+$ is highest.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q12 · MCQ
+
+Among the following, the CORRECT combinations are:
+A. $\text{IF}_3\to$ T-shaped ($sp^3d$)
+B. $\text{IF}_5\to$ square pyramidal ($sp^3d^2$)
+C. $\text{IF}_7\to$ pentagonal bipyramidal ($sp^3d^3$)
+D. $\text{ClO}_4^-\to$ square planar ($sp^2d$)
+
+(1) B, C and D only  (2) A and B only  (3) A, B and C only  (4) A, B, C and D
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\text{IF}_3$ (3 bp + 2 lp) is T-shaped, $sp^3d$ ✓; $\text{IF}_5$ (5 bp + 1 lp) is square pyramidal, $sp^3d^2$ ✓; $\text{IF}_7$ (7 bp) is pentagonal bipyramidal, $sp^3d^3$ ✓; $\text{ClO}_4^-$ is tetrahedral ($sp^3$), so D is wrong.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q13 · MCQ
+
+Given below are statements about some molecules/ions. Identify the CORRECT statements.
+A. The dipole moment of $\text{NF}_3$ is higher than that of $\text{NH}_3$.
+B. The dipole moment of $\text{BeH}_2$ is zero.
+C. The bond orders of $\text{O}_2^{2-}$ and $\text{F}_2$ are the same.
+D. The formal charge on the central oxygen atom of ozone is $-1$.
+E. In $\text{NO}_2$, all three atoms satisfy the octet rule, hence it is very stable.
+
+(1) A, C and D only  (2) B, C and D only  (3) B and C only  (4) A, B, C, D and E
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A is wrong ($\text{NH}_3$ 1.47 D, $\text{NF}_3$ 0.23 D). B is right (linear, bond dipoles cancel). C is right (both have bond order 1). D is wrong: the central O of ozone carries $+1$. E is wrong: $\text{NO}_2$ has an odd electron on N (7 electrons), so it is not an octet species. Hence B and C.
+
