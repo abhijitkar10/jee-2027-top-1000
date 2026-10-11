@@ -224,3 +224,51 @@ A $1$ m long metal rod $AB$ completes the circuit as shown in the figure. The ar
 
 **Solution.** $\varepsilon=Blv=0.10\times1\times1.5=0.15$ V, $I=\dfrac{0.15}{2}=0.075$ A. At constant speed the applied force balances the magnetic force: $F=BIl=0.10\times0.075\times1=7.5\times10^{-3}$ N.
 
+### § — JEE Main 2025 · Jan session · EMI set Q2 · Numerical
+
+In the given circuit the sliding contact is pulled outwards such that the electric current in the circuit changes at the rate of 8 A/s. At an instant when $R$ is 12 $\Omega$, the value of the current in the circuit will be ______ A.
+
+![Figure](../../figures/j25_phy_emi/q2-1.png)
+
+**Answer: 3** · key (compiled)
+
+**Solution.** Pulling the slider outwards increases $R$, so the current decreases at 8 A/s and the inductor's induced emf $L\left|\dfrac{dI}{dt}\right|$ acts in the same sense as the 12 V battery: $12+3\times8=IR=I\times12\Rightarrow I=3$ A.
+
+### § — JEE Main 2025 · Jan session · EMI set Q4 · Numerical
+
+A conducting bar moves on two conducting rails as shown in the figure. A constant magnetic field $B$ exists into the page. The bar starts to move from the vertex with a constant velocity. If the induced EMF is $E\propto t^n$, then the value of $n$ is ______.
+
+![Figure](../../figures/j25_phy_emi/q4-1.png)
+
+**Answer: 1** · key (compiled)
+
+**Solution.** Starting from the vertex, the length of the bar between the rails grows linearly with time, $\ell=2vt\tan\theta\propto t$. The motional emf $B\ell v\propto t$, so $n=1$.
+
+### § — JEE Main 2025 · Jan session · EMI set Q6 · MCQ
+
+Regarding self-inductance:
+
+A. The self-inductance of a coil depends on its geometry.
+B. Self-inductance does not depend on the permeability of the medium.
+C. Self-induced e.m.f. opposes any change in the current in a circuit.
+D. Self-inductance is the electromagnetic analogue of mass in mechanics.
+E. Work needs to be done against self-induced e.m.f. in establishing the current.
+
+Choose the correct answer from the options given below:
+
+(1) A, B, C, E only  (2) B, C, D, E only  (3) A, C, D, E only  (4) A, B, C, D only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A is true ($L$ depends on the geometry, number of turns and the medium). B is false ($L\propto\mu$). C is true (Lenz's law). D is true ($L$ plays the role of inertia for the current). E is true (the energy $\tfrac12LI^2$ is stored by doing work against the back-emf). Hence A, C, D, E only.
+
+### § — JEE Main 2025 · Apr session · EMI set Q1 · Numerical
+
+A conductor wire $ABCDE$ with each arm 10 cm in length is placed in a magnetic field of $\dfrac1{\sqrt2}$ tesla, perpendicular to its plane. When the conductor is pulled towards the right with a constant velocity of 10 cm/s, the induced emf between points $A$ and $E$ is ______ mV.
+
+![Figure](../../figures/a25_phy_emi/q1-1.png)
+
+**Answer: 10** · key (compiled)
+
+**Solution.** Only the component of the wire perpendicular to $\vec v$ contributes. $AB$ and $DE$ are parallel to $\vec v$ and give nothing; $BC$ and $CD$ (10 cm each, at $45^\circ$ to $\vec v$) each have a perpendicular extent $10\sin45^\circ$ cm, so $\ell_{eff}=10\sqrt2$ cm. $\varepsilon=B\ell_{eff}v=\dfrac1{\sqrt2}\times0.1\sqrt2\times0.1=0.01$ V $=10$ mV.
+

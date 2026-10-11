@@ -247,3 +247,79 @@ Match List-I with List-II.
 
 **Solution.** Radio waves come from rapidly accelerated electrons (IV); microwaves are produced by a magnetron valve (I); infrared arises from changes in the vibrational modes of atoms/molecules (II); X-rays arise from inner-shell electron transitions (III).
 
+### § — JEE Main 2025 · Jan session · EMW set Q1 · MCQ
+
+A plane electromagnetic wave of frequency 20 MHz travels in free space along the $+x$ direction. At a particular point in space and time, the electric field vector of the wave is $E_y=9.3\ \text{V m}^{-1}$. Then the magnetic field vector of the wave at that point is:
+
+(1) $B_z=6.2\times10^{-8}$ T  (2) $B_z=3.1\times10^{-8}$ T  (3) $B_z=1.55\times10^{-8}$ T  (4) $B_z=9.3\times10^{-8}$ T
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $B=\dfrac Ec=\dfrac{9.3}{3\times10^8}=3.1\times10^{-8}$ T. For propagation along $+x$ with $\vec E$ along $y$, $\hat E\times\hat B=\hat x$ requires $\vec B$ along $+z$.
+
+### § — JEE Main 2025 · Jan session · EMW set Q2 · MCQ
+
+Assertion (A): Electromagnetic waves carry energy but not momentum. Reason (R): The mass of a photon is zero. Choose the most appropriate answer.
+
+(1) Both (A) and (R) are true and (R) is the correct explanation of (A)  (2) Both (A) and (R) are true but (R) is not the correct explanation of (A)  (3) (A) is false but (R) is true  (4) (A) is true but (R) is false
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** EM waves carry both energy and momentum ($p=U/c$), so (A) is false. A photon is massless, so (R) is true.
+
+### § — JEE Main 2025 · Jan session · EMW set Q3 · MCQ
+
+A plane electromagnetic wave propagates along the $+x$ direction in free space. The components of the electric field $\vec E$ and magnetic field $\vec B$ vectors associated with the wave in the Cartesian frame are:
+
+(1) $E_x,B_y$  (2) $E_y,B_z$  (3) $E_z,B_y$  (4) $E_y,B_x$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The wave is transverse: $\vec E$, $\vec B$ and the direction $x$ are mutually perpendicular, so neither field has an $x$-component. Of the options, only $(E_y,B_z)$ satisfies $\vec E\times\vec B\parallel+\hat x$ ($\hat y\times\hat z=\hat x$).
+
+### § — JEE Main 2025 · Jan session · EMW set Q4 · Numerical
+
+A parallel plate capacitor of area $A=16\ \text{cm}^2$ and plate separation 10 cm is charged by a DC current. Consider a hypothetical plane surface of area $A_0=3.2\ \text{cm}^2$ inside the capacitor and parallel to the plates. At an instant, the current through the circuit is 6 A. At the same instant, the displacement current through $A_0$ is ______ mA.
+
+**Answer: 1200** · key (compiled)
+
+**Solution.** Between the plates the displacement current density equals the conduction current density in the wires, $\dfrac IA$ (uniform field). Through $A_0$: $I_d=6\times\dfrac{3.2}{16}=1.2$ A $=1200$ mA.
+
+### § — JEE Main 2025 · Jan session · EMW set Q6 · MCQ
+
+Due to the presence of an em-wave whose electric component is given by $E=100\sin(\omega t-kx)\ \text{N C}^{-1}$, a cylinder of length 200 cm holds a certain amount of em-energy inside it. If another cylinder of the same length but half the diameter holds the same amount of em-energy, the magnitude of the electric field of the corresponding em-wave should be modified as:
+
+(1) $400\sin(\omega t-kx)$ N C$^{-1}$  (2) $200\sin(\omega t-kx)$ N C$^{-1}$  (3) $50\sin(\omega t-kx)$ N C$^{-1}$  (4) $25\sin(\omega t-kx)$ N C$^{-1}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Energy $=\tfrac12\varepsilon_0E^2\times\text{Volume}$. Half the diameter means a quarter of the cross-section and volume. For the same energy $E^2$ must be four times as large, so $E$ doubles: $200\sin(\omega t-kx)$.
+
+### § — JEE Main 2025 · Apr session · EMW set Q1 · Numerical
+
+If an optical medium possesses a relative permeability of $\dfrac{10}\pi$ and a relative permittivity of $\dfrac1{0.0885}$, then the velocity of light in vacuum is greater than that in this medium by ______ times. ($\mu_0=4\pi\times10^{-7}$ H/m, $\varepsilon_0=8.85\times10^{-12}$ F/m, $c=3\times10^8$ m/s)
+
+**Answer: 6** · key (compiled)
+
+**Solution.** $\dfrac cv=\sqrt{\mu_r\varepsilon_r}=\sqrt{\dfrac{10}{\pi}\cdot\dfrac1{0.0885}}=\sqrt{35.97}\approx6$.
+
+### § — JEE Main 2025 · Apr session · EMW set Q2 · MCQ
+
+Two plane polarised light waves combine at a certain point whose electric field components are $E_1=E_0\sin\omega t$ and $E_2=E_0\sin\left(\omega t+\dfrac\pi3\right)$. Find the amplitude of the resultant wave.
+
+(1) $0.9E_0$  (2) $E_0$  (3) $1.7E_0$  (4) $3.4E_0$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $E_R=\sqrt{E_0^2+E_0^2+2E_0^2\cos60^\circ}=\sqrt3\,E_0=1.7E_0$.
+
+### § — JEE Main 2025 · Apr session · EMW set Q3 · MCQ
+
+The unit of $\sqrt{\dfrac{2I}{\varepsilon_0c}}$ is: ($I$ = intensity of an electromagnetic wave, $c$ = speed of light)
+
+(1) V m  (2) N C  (3) N m  (4) N C$^{-1}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $I=\tfrac12\varepsilon_0cE_0^2$, so $\sqrt{\dfrac{2I}{\varepsilon_0c}}=E_0$, the electric field amplitude, with unit N C$^{-1}$ (= V m$^{-1}$).
+

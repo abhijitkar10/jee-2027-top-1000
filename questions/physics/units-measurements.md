@@ -203,3 +203,91 @@ In an experiment the values of two spring constants were measured as $k_1=(10\pm
 
 **Solution.** For a parallel combination $k_{eq}=k_1+k_2=30$ N/m and the absolute errors add: $\Delta k_{eq}=0.2+0.3=0.5$ N/m. Percentage error $=\dfrac{0.5}{30}\times100=1.67\%$.
 
+### § — JEE Main 2025 · Jan session · Units set Q1 · MCQ
+
+Which one of the following is the correct dimensional formula for the capacitance $F$? ($M$, $L$, $T$ and $C$ stand for the units of mass, length, time and charge.)
+
+(1) $[F]=[C^2M^{-1}L^{-2}T^2]$  (2) $[F]=[C^2M^{-2}L^2T^2]$  (3) $[F]=[CM^{-2}L^{-2}T^{-2}]$  (4) $[F]=[CM^{-1}L^{-2}T^2]$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Energy $U=\dfrac{Q^2}{2C}$, so $[C]=\dfrac{[Q]^2}{[U]}=\dfrac{C^2}{ML^2T^{-2}}=[C^2M^{-1}L^{-2}T^2]$.
+
+### § — JEE Main 2025 · Jan session · Units set Q4 · Numerical
+
+In a measurement, it is asked to find the modulus of elasticity per unit torque applied on the system. The measured quantity has the dimension of $[M^aL^bT^c]$. If $b=-3$, the value of $c$ is ______.
+
+**Answer: 0** · key (compiled)
+
+**Solution.** $[\text{modulus}]=ML^{-1}T^{-2}$ and $[\text{torque}]=ML^2T^{-2}$. Their ratio is $L^{-3}$, i.e. $[M^0L^{-3}T^0]$: $a=0$, $b=-3$, $c=0$.
+
+### § — JEE Main 2025 · Jan session · Units set Q5 · MCQ
+
+The pair of physical quantities not having the same dimensions is:
+
+(1) Pressure and Young's modulus  (2) Surface tension and impulse  (3) Torque and energy  (4) Angular momentum and Planck's constant
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Pressure and Young's modulus: $ML^{-1}T^{-2}$. Torque and energy: $ML^2T^{-2}$. Angular momentum and Planck's constant: $ML^2T^{-1}$. Surface tension is $MT^{-2}$ but impulse is $MLT^{-1}$, so they differ.
+
+### § — JEE Main 2025 · Jan session · Units set Q7 · MCQ
+
+If $B$ is the magnetic field and $\mu_0$ is the permeability of free space, then the dimensions of $(B/\mu_0)$ are:
+
+(1) $ML^2T^{-2}A^{-1}$  (2) $MT^{-2}A^{-1}$  (3) $L^{-1}A$  (4) $LT^{-2}A^{-1}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $B=\mu_0nI$, so $\dfrac B{\mu_0}=nI$ has dimension (turns per metre)$\times$(current) $=L^{-1}A$.
+
+### § — JEE Main 2025 · Jan session · Units set Q10 · MCQ
+
+The expression below shows the variation of velocity $v$ with time $t$: $v=At^2+\dfrac{Bt}{C+t}$. The dimension of $ABC$ is:
+
+(1) $[M^0L^1T^{-3}]$  (2) $[M^0L^2T^{-2}]$  (3) $[M^0L^1T^{-2}]$  (4) $[M^0L^2T^{-3}]$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $C$ is added to $t$, so $[C]=T$. $[A]=\dfrac{LT^{-1}}{T^2}=LT^{-3}$. In $\dfrac{Bt}{C+t}$ the fraction $\dfrac t{C+t}$ is dimensionless, so $[B]=LT^{-1}$. Then $[ABC]=LT^{-3}\cdot LT^{-1}\cdot T=L^2T^{-3}$.
+
+### § — JEE Main 2025 · Apr session · Units set Q1 · MCQ
+
+If $\mu_0$ and $\varepsilon_0$ are the permeability and permittivity of free space respectively, then the dimension of $\dfrac1{\mu_0\varepsilon_0}$ is:
+
+(1) $L/T^2$  (2) $L^2/T^2$  (3) $T^2/L$  (4) $T^2/L^2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\dfrac1{\mu_0\varepsilon_0}=c^2$, whose dimension is $\dfrac{L^2}{T^2}$.
+
+### § — JEE Main 2025 · Apr session · Units set Q2 · MCQ
+
+A person measures the mass of 3 different particles as 435.42 g, 226.3 g and 0.125 g. According to the rules for arithmetic operations with significant figures, the sum of the masses of the 3 particles will be:
+
+(1) 661.845 g  (2) 662 g  (3) 661.8 g  (4) 661.84 g
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The exact sum is 661.845 g. In addition the result keeps as many decimal places as the least precise term, 226.3 g (one decimal place). Rounded: 661.8 g.
+
+### § — JEE Main 2025 · Apr session · Units set Q3 · MCQ
+
+If $\varepsilon_0$ denotes the permittivity of free space and $\Phi_E$ is the flux of the electric field through the area bounded by the closed surface, then the dimension of $\left(\varepsilon_0\dfrac{d\Phi_E}{dt}\right)$ is that of:
+
+(1) Electric field  (2) Electric potential  (3) Electric charge  (4) Electric current
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\varepsilon_0\Phi_E$ has the dimension of charge (Gauss's law), so $\varepsilon_0\dfrac{d\Phi_E}{dt}$ has charge per time: electric current (it is the displacement current).
+
+### § — JEE Main 2025 · Apr session · Units set Q13 · MCQ
+
+The dimension of $\sqrt{\dfrac{\mu_0}{\varepsilon_0}}$ is equal to that of: ($\mu_0$ = vacuum permeability and $\varepsilon_0$ = vacuum permittivity)
+
+(1) Voltage  (2) Capacitance  (3) Inductance  (4) Resistance
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\sqrt{\mu_0/\varepsilon_0}\approx377\ \Omega$ is the impedance of free space, so it has the dimension of resistance. (Check: $\dfrac{\mu_0}{\varepsilon_0}=\mu_0^2c^2$ and $\mu_0c$ has dimension of ohm.)
+

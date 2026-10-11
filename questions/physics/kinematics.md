@@ -327,3 +327,95 @@ A boy throws a ball into the air at $45^\circ$ from the horizontal to land it on
 
 **Solution.** The vertical component of the launch velocity is $v_{0y}=g\times2=20$ m/s. At $t=3$ s: $H=v_{0y}t-\tfrac12gt^2=60-45=15$ m.
 
+### § — JEE Main 2025 · Jan session · 1D set Q1 · MCQ
+
+The motion of an airplane is represented by the velocity–time graph shown below. The distance covered by the airplane in the first 30.5 s is ______ km.
+
+![Figure](../../figures/j25_phy_k1/q1-1.png)
+
+(1) 12  (2) 3  (3) 6  (4) 9
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** From the graph the speed rises uniformly from 200 m/s to 400 m/s in 2 s and then stays at 400 m/s. Distance $=\dfrac{200+400}2\times2+400\times(30.5-2)=600+11400=12000$ m $=12$ km.
+
+### § — JEE Main 2025 · Jan session · 1D set Q2 · MCQ
+
+The velocity–time graph of an object moving along a straight line is shown in the figure. What is the distance covered by the object between $t=0$ and $t=4$ s?
+
+![Figure](../../figures/j25_phy_k1/q2-1.png)
+
+(1) 30 m  (2) 11 m  (3) 10 m  (4) 13 m
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Distance = area under the $v$–$t$ graph. From 0 to 2 s the velocity rises uniformly to 10 m/s: $\tfrac12\times2\times10=10$ m; from 2 s to 4 s it is constant at 10 m/s: $20$ m. Total $=30$ m.
+
+### § — JEE Main 2025 · Jan session · 1D set Q4 · Numerical
+
+The maximum speed of a boat in still water is 27 km/h. This boat is now moving downstream in a river flowing at 9 km/h. A man in the boat throws a ball vertically upwards with speed 10 m/s. The range of the ball as observed by an observer at rest on the river bank is ______ cm. (Take $g=10\ \text{m/s}^2$.)
+
+**Answer: 2000** · key (compiled)
+
+**Solution.** Boat speed relative to the bank downstream $=27+9=36$ km/h $=10$ m/s, and the ball shares this horizontal velocity. Time of flight $=\dfrac{2\times10}{10}=2$ s. Range $=10\times2=20$ m $=2000$ cm.
+
+### § — JEE Main 2025 · Jan session · 2D set Q3 · MCQ
+
+Two projectiles are fired with the same initial speed from the same point on the ground at angles of $(45^\circ-\alpha)$ and $(45^\circ+\alpha)$ with the horizontal. The ratio of their maximum heights is:
+
+(1) $\dfrac{1-\tan\alpha}{1+\tan\alpha}$  (2) $\dfrac{1-\sin2\alpha}{1+\sin2\alpha}$  (3) $\dfrac{1+\sin2\alpha}{1-\sin2\alpha}$  (4) $\dfrac{1+\sin\alpha}{1-\sin\alpha}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $H=\dfrac{u^2\sin^2\theta}{2g}$. $\sin^2(45^\circ-\alpha)=\dfrac{1-\cos(90^\circ-2\alpha)}2=\dfrac{1-\sin2\alpha}2$ and $\sin^2(45^\circ+\alpha)=\dfrac{1+\sin2\alpha}2$, so $\dfrac{H_1}{H_2}=\dfrac{1-\sin2\alpha}{1+\sin2\alpha}$.
+
+### § — JEE Main 2025 · Jan session · 2D set Q4 · MCQ
+
+The position vector of a moving body at any instant of time is given as $\vec r=\left(5t^2\hat i-5t\hat j\right)$ m. The magnitude and direction of the velocity at $t=2$ s is:
+
+(1) $5\sqrt{15}$ m/s, making an angle $\tan^{-1}4$ with the $-Y$ axis  (2) $5\sqrt{15}$ m/s, making an angle $\tan^{-1}4$ with the $+X$ axis  (3) $5\sqrt{17}$ m/s, making an angle $\tan^{-1}4$ with the $+X$ axis  (4) $5\sqrt{17}$ m/s, making an angle $\tan^{-1}4$ with the $-Y$ axis
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\vec v=\dfrac{d\vec r}{dt}=(10t\hat i-5\hat j)$, so at $t=2$ s $\vec v=20\hat i-5\hat j$ with $|\vec v|=\sqrt{400+25}=5\sqrt{17}$ m/s. It points down-right: the angle with the $-Y$ axis satisfies $\tan\theta=\dfrac{20}{5}=4$.
+
+### § — JEE Main 2025 · Apr session · 2D set Q2 · MCQ
+
+A particle is projected with velocity $u$ so that its horizontal range is three times the maximum height attained by it. The horizontal range of the projectile is given as $\dfrac{nu^2}{25g}$, where the value of $n$ is: (Given $g$ is the acceleration due to gravity.)
+
+(1) 6  (2) 18  (3) 12  (4) 24
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $R=\dfrac{2u^2\sin\theta\cos\theta}g$ and $H=\dfrac{u^2\sin^2\theta}{2g}$. $R=3H\Rightarrow2\sin\theta\cos\theta=\dfrac32\sin^2\theta\Rightarrow\tan\theta=\dfrac43$, so $\sin\theta=\dfrac45$, $\cos\theta=\dfrac35$. $R=\dfrac{2u^2}g\cdot\dfrac{12}{25}=\dfrac{24u^2}{25g}$, i.e. $n=24$.
+
+### § — JEE Main 2025 · Apr session · 2D set Q3 · MCQ
+
+Two projectiles are fired from the ground with the same initial speeds from the same point at angles $(45^\circ+\alpha)$ and $(45^\circ-\alpha)$ with the horizontal. The ratio of their times of flight is:
+
+(1) 1  (2) $\dfrac{1-\tan\alpha}{1+\tan\alpha}$  (3) $\dfrac{1+\sin2\alpha}{1-\sin2\alpha}$  (4) $\dfrac{1+\tan\alpha}{1-\tan\alpha}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $T=\dfrac{2u\sin\theta}g$. $\dfrac{T_1}{T_2}=\dfrac{\sin(45^\circ+\alpha)}{\sin(45^\circ-\alpha)}=\dfrac{\cos\alpha+\sin\alpha}{\cos\alpha-\sin\alpha}=\dfrac{1+\tan\alpha}{1-\tan\alpha}$.
+
+### § — JEE Main 2025 · Apr session · 2D set Q4 · MCQ
+
+Two balls with the same mass and initial velocity are projected at different angles in such a way that the maximum height reached by the first ball is 8 times that of the second ball. $T_1$ and $T_2$ are the total flying times of the first and second ball respectively; the ratio of $T_1$ and $T_2$ is:
+
+(1) $2\sqrt2:1$  (2) 2 : 1  (3) $\sqrt2:1$  (4) 4 : 1
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $H\propto\sin^2\theta$ and $T\propto\sin\theta$ for the same speed. $\dfrac{H_1}{H_2}=8\Rightarrow\dfrac{\sin\theta_1}{\sin\theta_2}=\sqrt8=2\sqrt2$, so $T_1:T_2=2\sqrt2:1$.
+
+### § — JEE Main 2025 · Apr session · 2D set Q5 · MCQ
+
+A river is flowing from west to east with a speed of 9 km h$^{-1}$. If a boat capable of moving at a maximum speed of 27 km h$^{-1}$ in still water crosses the river in half a minute, while moving with maximum speed at an angle of $150^\circ$ to the direction of river flow, then the width of the river is:
+
+(1) 300 m  (2) 112.5 m  (3) 75 m  (4) $112.5\times\sqrt3$ m
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The component of the boat's velocity across the river is $27\sin150^\circ=13.5$ km/h $=3.75$ m/s (the river flow only carries it downstream). Width $=3.75\times30=112.5$ m.
+

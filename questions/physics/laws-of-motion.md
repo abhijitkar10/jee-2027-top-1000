@@ -300,3 +300,73 @@ A spring of force constant $15$ N/m is cut into two pieces. If the ratio of thei
 
 **Solution.** For a given spring $kL=\text{constant}$. The smaller piece is $\tfrac14$ of the total length, so $k_1=4\times15=60$ N/m.
 
+### § — JEE Main 2025 · Jan session · LOM set Q1 · MCQ
+
+A massless spring gets elongated by an amount $x_1$ under a tension of 5 N. Its elongation is $x_2$ under a tension of 7 N. For an elongation of $(5x_1-2x_2)$, the tension in the spring will be:
+
+(1) 39 N  (2) 15 N  (3) 11 N  (4) 20 N
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $T=kx$ is linear, so $T(5x_1-2x_2)=5\cdot5-2\cdot7=11$ N.
+
+### § — JEE Main 2025 · Jan session · LOM set Q2 · Numerical
+
+A string of length $L$ is fixed at one end and carries a mass $M$ at the other end. The mass makes $\left(\dfrac3\pi\right)$ rotations per second about the vertical axis passing through the end of the string, as shown (conical pendulum). The tension in the string is ______ $ML$.
+
+![Figure](../../figures/j25_phy_lom/q2-1.png)
+
+**Answer: 36** · key (compiled)
+
+**Solution.** $\omega=2\pi f=2\pi\cdot\dfrac3\pi=6$ rad/s. The horizontal component of tension supplies the centripetal force: $T\sin\theta=M\omega^2R=M\omega^2L\sin\theta$, so $T=M\omega^2L=36\,ML$.
+
+### § — JEE Main 2025 · Jan session · LOM set Q3 · MCQ
+
+A car of mass $m$ moves on a banked road having radius $r$ and banking angle $\theta$. To avoid slipping from the banked road, the maximum permissible speed of the car is $v_0$. The coefficient of friction $\mu$ between the wheels of the car and the banked road is:
+
+(1) $\mu=\dfrac{v_0^2+rg\tan\theta}{rg+v_0^2\tan\theta}$  (2) $\mu=\dfrac{v_0^2-rg\tan\theta}{rg-v_0^2\tan\theta}$  (3) $\mu=\dfrac{v_0^2-rg\tan\theta}{rg+v_0^2\tan\theta}$  (4) $\mu=\dfrac{v_0^2+rg\tan\theta}{rg-v_0^2\tan\theta}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At maximum speed friction acts down the slope: $v_0^2=rg\,\dfrac{\tan\theta+\mu}{1-\mu\tan\theta}$. Solving for $\mu$: $v_0^2-\mu v_0^2\tan\theta=rg\tan\theta+rg\mu\Rightarrow\mu=\dfrac{v_0^2-rg\tan\theta}{rg+v_0^2\tan\theta}$.
+
+### § — JEE Main 2025 · Apr session · LOM set Q1 · MCQ
+
+An object of mass 500 g moves along the $x$-axis with speed $v=4\sqrt x$ m/s. The force acting on the object is:
+
+(1) 8 N  (2) 5 N  (3) 6 N  (4) 4 N
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $a=v\dfrac{dv}{dx}=\dfrac12\dfrac{d(v^2)}{dx}=\dfrac12\dfrac{d(16x)}{dx}=8\ \text{m/s}^2$ (constant). $F=ma=0.5\times8=4$ N.
+
+### § — JEE Main 2025 · Apr session · LOM set Q2 · MCQ
+
+A body of mass 1 kg is suspended with the help of two strings making angles as shown in the figure ($60^\circ$ and $30^\circ$ with the horizontal ceiling). The magnitudes of tensions $T_1$ and $T_2$, respectively, are (in N): (take $g=10$ m/s$^2$)
+
+![Figure](../../figures/a25_phy_lom/q2-1.png)
+
+(1) $5,\ 5\sqrt3$  (2) $5\sqrt3,\ 5$  (3) $5\sqrt3,\ 5\sqrt3$  (4) 5, 5
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Horizontal balance: $T_1\cos60^\circ=T_2\cos30^\circ\Rightarrow T_1=\sqrt3\,T_2$. Vertical: $T_1\sin60^\circ+T_2\sin30^\circ=10\Rightarrow\dfrac32T_2+\dfrac12T_2=10$, so $T_2=5$ N and $T_1=5\sqrt3$ N.
+
+### § — JEE Main 2025 · Apr session · LOM set Q4 · Numerical
+
+The length of a light string is 1.4 m when the tension on it is 5 N. If the tension increases to 7 N, the length of the string is 1.56 m. The original (unstretched) length of the string is ______ m.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** With $T=k(L-L_0)$: $5=k(1.4-L_0)$ and $7=k(1.56-L_0)$. Subtracting, $2=0.16k\Rightarrow k=12.5$ N/m. Then $1.4-L_0=0.4$, so $L_0=1.0$ m.
+
+### § — JEE Main 2025 · Apr session · LOM set Q5 · MCQ
+
+A cubic block of mass $m$ is sliding down an inclined plane at $60^\circ$ with an acceleration of $\dfrac g2$. The value of the coefficient of kinetic friction is:
+
+(1) $\sqrt3-1$  (2) $\dfrac{\sqrt3}2$  (3) $\dfrac{\sqrt2}3$  (4) $1-\dfrac{\sqrt3}2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $a=g\sin\theta-\mu g\cos\theta=\dfrac g2\Rightarrow\dfrac{\sqrt3}2-\dfrac\mu2=\dfrac12\Rightarrow\mu=\sqrt3-1$.
+

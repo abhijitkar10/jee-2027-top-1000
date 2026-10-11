@@ -229,3 +229,59 @@ A series LCR circuit is connected to a $220$ V, $50$ Hz a.c. source as shown in 
 
 **Solution.** Net reactance $X=150-70=80\ \Omega$ and $Z=\sqrt{60^2+80^2}=100\ \Omega$, so $\cos\phi=\dfrac{R}{Z}=0.6=\dfrac{6}{10}$ and $\alpha=6$.
 
+### § — JEE Main 2025 · Jan session · AC set Q1 · MCQ
+
+A series LCR circuit is connected to an alternating source of emf $E$. The current amplitude at resonant frequency is $I_0$. If the value of resistance $R$ becomes twice its initial value, then the amplitude of current at resonance will be:
+
+(1) $2I_0$  (2) $I_0$  (3) $\dfrac{I_0}2$  (4) $\dfrac{I_0}{\sqrt2}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At resonance $Z=R$, so $I_0=\dfrac{E_0}R$. Doubling $R$ halves the amplitude: $\dfrac{I_0}2$.
+
+### § — JEE Main 2025 · Jan session · AC set Q2 · Numerical
+
+In a series LCR circuit, a resistor of 300 $\Omega$, a capacitor of 25 nF and an inductor of 100 mH are used. For maximum current in the circuit, the angular frequency of the ac source is ______ $\times10^4$ radians s$^{-1}$.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** The current is maximum at resonance: $\omega=\dfrac1{\sqrt{LC}}=\dfrac1{\sqrt{0.1\times25\times10^{-9}}}=\dfrac1{5\times10^{-5}}=2\times10^4\ \text{rad/s}$. (The resistance does not affect the resonant frequency.)
+
+### § — JEE Main 2025 · Jan session · AC set Q3 · MCQ
+
+An alternating current is given by $I=I_A\sin\omega t+I_B\cos\omega t$. The r.m.s. current will be:
+
+(1) $\dfrac{|I_A+I_B|}{\sqrt2}$  (2) $\sqrt{\dfrac{I_A^2+I_B^2}2}$  (3) $\sqrt{I_A^2+I_B^2}$  (4) $\dfrac{\sqrt{I_A^2+I_B^2}}2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Combine into a single sinusoid: $I=I_0\sin(\omega t+\phi)$ with $I_0=\sqrt{I_A^2+I_B^2}$. Hence $I_{rms}=\dfrac{I_0}{\sqrt2}=\sqrt{\dfrac{I_A^2+I_B^2}2}$.
+
+### § — JEE Main 2025 · Apr session · AC set Q1 · MCQ
+
+An electric bulb rated 100 W – 220 V is connected to an ac source of rms voltage 220 V. The peak value of the current through the bulb is:
+
+(1) 0.64 A  (2) 0.45 A  (3) 2.2 A  (4) 0.32 A
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $I_{rms}=\dfrac PV=\dfrac{100}{220}=0.4545$ A, so $I_0=\sqrt2\,I_{rms}=0.64$ A.
+
+### § — JEE Main 2025 · Apr session · AC set Q3 · MCQ
+
+An ac current is represented as $i=5\sqrt2+10\cos\left(650\pi t+\dfrac\pi6\right)$ A. The r.m.s. value of the current is:
+
+(1) 50 A  (2) 100 A  (3) 10 A  (4) $5\sqrt2$ A
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For a constant (dc) part plus a sinusoid, $I_{rms}^2=I_{dc}^2+\dfrac{I_0^2}2=(5\sqrt2)^2+\dfrac{10^2}2=50+50=100$, so $I_{rms}=10$ A.
+
+### § — JEE Main 2025 · Apr session · AC set Q4 · Numerical
+
+An inductor of reactance 100 $\Omega$, a capacitor of reactance 50 $\Omega$ and a resistor of resistance 50 $\Omega$ are connected in series with an AC source of 10 V, 50 Hz. The average power dissipated by the circuit is ______ W.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $Z=\sqrt{R^2+(X_L-X_C)^2}=\sqrt{50^2+50^2}=50\sqrt2\ \Omega$ and $I_{rms}=\dfrac{10}{50\sqrt2}$ A (10 V taken as the rms value). $P=I_{rms}^2R=\dfrac{100}{5000}\times50=1$ W.
+

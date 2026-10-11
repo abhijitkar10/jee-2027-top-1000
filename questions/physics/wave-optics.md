@@ -273,3 +273,135 @@ An unpolarised light is incident at the interface of two dielectric media having
 
 **Solution.** Perpendicular reflected and refracted rays means incidence at the Brewster angle: $\tan i=\dfrac{n_2}{n_1}=\dfrac{2\sqrt3}{2}=\sqrt3\Rightarrow i=60^\circ$.
 
+### § — JEE Main 2025 · Jan session · WOpt set Q1 · MCQ
+
+Given below are two statements. Assertion (A): In Young's double slit experiment, the fringes produced by red light are closer as compared to those produced by blue light. Reason (R): The fringe width is directly proportional to the wavelength of light. In the light of the above statements, choose the correct answer.
+
+(1) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)  (2) (A) is true but (R) is false  (3) Both (A) and (R) are true and (R) is the correct explanation of (A)  (4) (A) is false but (R) is true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\beta=\dfrac{\lambda D}d\propto\lambda$, so (R) is true. Red light has the longer wavelength, so its fringes are wider, not closer: (A) is false.
+
+### § — JEE Main 2025 · Jan session · WOpt set Q3 · Numerical
+
+The ratio of the power of a light source $S_1$ to that of the light source $S_2$ is 2. $S_1$ emits $2\times10^{15}$ photons per second at 600 nm. If the wavelength of the source $S_2$ is 300 nm, then the number of photons per second emitted by $S_2$ is ______ $\times10^{14}$.
+
+**Answer: 5** · key (compiled)
+
+**Solution.** Power $P=n\dfrac{hc}\lambda$, so $n\propto P\lambda$. $\dfrac{n_2}{n_1}=\dfrac{P_2}{P_1}\cdot\dfrac{\lambda_2}{\lambda_1}=\dfrac12\cdot\dfrac12=\dfrac14$, giving $n_2=5\times10^{14}$.
+
+### § — JEE Main 2025 · Jan session · WOpt set Q5 · MCQ
+
+The width of one of the two slits in Young's double slit experiment is $d$ while that of the other slit is $xd$. If the ratio of the maximum to the minimum intensity in the interference pattern on the screen is 9 : 4, what is the value of $x$? (Assume that the field strength varies according to the slit width.)
+
+(1) 4  (2) 5  (3) 3  (4) 2
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Field amplitudes are proportional to slit widths, $a_1:a_2=1:x$. $\dfrac{I_{max}}{I_{min}}=\left(\dfrac{a_1+a_2}{a_1-a_2}\right)^2=\dfrac94\Rightarrow\dfrac{x+1}{x-1}=\dfrac32\Rightarrow x=5$.
+
+### § — JEE Main 2025 · Jan session · WOpt set Q6 · MCQ
+
+Young's double slit interference experiment is performed using light consisting of 480 nm and 600 nm wavelengths. The least number of bright fringes of 480 nm light that are required for the first coincidence with the bright fringes formed by 600 nm light is:
+
+(1) 5  (2) 4  (3) 6  (4) 8
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Coincidence needs $n_1\lambda_1=n_2\lambda_2$, i.e. $\dfrac{n_1}{n_2}=\dfrac{600}{480}=\dfrac54$. The smallest integers are $n_1=5$ (of 480 nm) and $n_2=4$ (of 600 nm).
+
+### § — JEE Main 2025 · Jan session · WOpt set Q7 · MCQ
+
+A Young's double slit apparatus is immersed in a liquid of refractive index 1.44. The slit separation is 1.5 mm. The slits are illuminated by a parallel beam of light whose wavelength in air is 690 nm. The fringe width on a screen placed behind the plane of the slits at a distance of 0.72 m will be:
+
+(1) 0.23 mm  (2) 0.33 mm  (3) 0.63 mm  (4) 0.46 mm
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In the liquid $\lambda'=\dfrac{690}{1.44}=479$ nm. $\beta=\dfrac{\lambda'D}d=\dfrac{479\times10^{-9}\times0.72}{1.5\times10^{-3}}=2.3\times10^{-4}$ m $=0.23$ mm.
+
+### § — JEE Main 2025 · Jan session · WOpt set Q8 · Numerical
+
+A double slit interference experiment performed with light of wavelength 600 nm forms an interference fringe pattern on a screen with the 10th bright fringe having its centre at a distance of 10 mm from the central maximum. The distance of the centre of the same 10th bright fringe from the central maximum when the source of light is replaced by another source of wavelength 660 nm would be ______ mm.
+
+**Answer: 11** · key (compiled)
+
+**Solution.** $y_n=\dfrac{n\lambda D}d\propto\lambda$, so $y=10\times\dfrac{660}{600}=11$ mm.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q1 · MCQ
+
+A monochromatic light of frequency $5\times10^{14}$ Hz travelling through air is incident on a medium of refractive index 2. The wavelength of the refracted light will be:
+
+(1) 300 nm  (2) 600 nm  (3) 400 nm  (4) 500 nm
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Frequency does not change on refraction. $\lambda_{air}=\dfrac{3\times10^8}{5\times10^{14}}=600$ nm and $\lambda_{medium}=\dfrac{\lambda_{air}}\mu=300$ nm.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q2 · MCQ
+
+Two monochromatic light beams have intensities in the ratio 1 : 9. An interference pattern is obtained by these beams. The ratio of the intensities of maxima to minima is:
+
+(1) 8 : 1  (2) 9 : 1  (3) 3 : 1  (4) 4 : 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Amplitudes are in the ratio $1:3$. $\dfrac{I_{max}}{I_{min}}=\dfrac{(3+1)^2}{(3-1)^2}=\dfrac{16}4=4:1$.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q3 · MCQ
+
+In Young's double slit experiment the source is white light. One of the slits is covered by a red filter and the other by a green filter. In this case:
+
+(1) There shall be an interference pattern for red distinct from that for green.  (2) There shall be no interference fringes.  (3) There shall be alternate interference fringes of red and green.  (4) There shall be an interference pattern where each fringe's pattern centre is green and outer edges are red.
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Sustained interference needs coherent sources, i.e. waves of the same frequency with a constant phase difference. Red and green waves have different frequencies, so no stable fringes form; the screen is just uniformly illuminated.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q4 · MCQ
+
+A light wave is propagating with plane wave fronts of the type $x+y+z=$ constant. The angle made by the direction of wave propagation with the $x$-axis is:
+
+(1) $\cos^{-1}\!\left(\dfrac1{\sqrt3}\right)$  (2) $\cos^{-1}\!\left(\dfrac23\right)$  (3) $\cos^{-1}\!\left(\dfrac13\right)$  (4) $\cos^{-1}\!\left(\sqrt{\dfrac23}\right)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The wave travels along the normal to its wavefronts, here $\hat n=\dfrac{\hat i+\hat j+\hat k}{\sqrt3}$. Hence $\cos\theta=\hat n\cdot\hat i=\dfrac1{\sqrt3}$.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q5 · Numerical
+
+Two coherent monochromatic light beams of intensities $4I$ and $9I$ are superimposed. The difference between the maximum and minimum intensities in the resulting interference pattern is $xI$. The value of $x$ is ______.
+
+**Answer: 24** · key (compiled)
+
+**Solution.** $I_{max}=(\sqrt{9I}+\sqrt{4I})^2=25I$ and $I_{min}=(\sqrt{9I}-\sqrt{4I})^2=I$. The difference is $24I$, so $x=24$.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q6 · Numerical
+
+If the measured angular separation between the second minimum to the left of the central maximum and the third minimum to the right of the central maximum is $30^\circ$ in a single slit diffraction pattern recorded using 628 nm light, then the width of the slit is ______ $\mu$m.
+
+**Answer: 6** · key (compiled)
+
+**Solution.** Minima at $a\sin\theta=n\lambda$; for small angles $\theta_n=\dfrac{n\lambda}a$. The total separation is $(2+3)\dfrac\lambda a=\dfrac\pi6$, so $a=\dfrac{30\lambda}{\pi}=\dfrac{30\times0.628}{3.14}=6\ \mu$m.
+
+### § — JEE Main 2025 · Apr session · WOpt set Q8 · MCQ
+
+In a Young's double slit experiment, the slits are separated by 0.2 mm. If the slit separation is increased to 0.4 mm, the percentage change of the fringe width is:
+
+(1) 0%  (2) 100%  (3) 50%  (4) 25%
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\beta\propto\dfrac1d$. Doubling $d$ halves $\beta$, a change of $50\%$ (a decrease).
+
+### § — JEE Main 2025 · Apr session · WOpt set Q10 · MCQ
+
+Two polarisers $P_1$ and $P_2$ are placed in such a way that the intensity of the transmitted light will be zero. A third polariser $P_3$ is inserted between $P_1$ and $P_2$ at a particular angle between $P_2$ and $P_3$. The transmitted intensity of the light passing through all three polarisers is maximum. The angle between the polarisers $P_2$ and $P_3$ is:
+
+(1) $\dfrac\pi4$  (2) $\dfrac\pi6$  (3) $\dfrac\pi8$  (4) $\dfrac\pi3$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Zero transmission means $P_1\perp P_2$. If $P_3$ makes angle $\theta$ with $P_1$, then $I=I_1\cos^2\theta\cos^2(90^\circ-\theta)=\dfrac{I_1}4\sin^22\theta$, maximum at $\theta=45^\circ$. So $P_3$ is $\dfrac\pi4$ from $P_2$ too.
+

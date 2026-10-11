@@ -229,3 +229,159 @@ The ratio of the de Broglie wavelength of a deuteron with kinetic energy $E$ to 
 
 **Solution.** $\lambda=\dfrac{h}{\sqrt{2mE_k}}$. Deuteron ($m=2m_p$, $E$): $\lambda_d=\dfrac{h}{\sqrt{4m_pE}}$. Alpha ($m=4m_p$, $2E$): $\lambda_\alpha=\dfrac{h}{\sqrt{16m_pE}}$. Ratio $\dfrac{\lambda_d}{\lambda_\alpha}=\sqrt{\dfrac{16}{4}}=2$, so $n=2$.
 
+### § — JEE Main 2025 · Jan session · Dual set Q1 · MCQ
+
+A sub-atomic particle of mass $10^{-30}$ kg is moving with a velocity of $2.21\times10^6$ m/s. Under the matter-wave consideration, the particle will behave closely like ______. ($h=6.63\times10^{-34}$ J s)
+
+(1) Visible radiation  (2) Gamma rays  (3) Infra-red radiation  (4) X-rays
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\lambda=\dfrac h{mv}=\dfrac{6.63\times10^{-34}}{10^{-30}\times2.21\times10^6}=3\times10^{-10}$ m $=3$ Å, which lies in the X-ray range.
+
+### § — JEE Main 2025 · Jan session · Dual set Q2 · MCQ
+
+The energy $E$ and momentum $p$ of a moving body of mass $m$ are related by some equation. Given that $c$ is the speed of light, identify the correct equation.
+
+(1) $E^2=pc^2+m^2c^2$  (2) $E^2=p^2c^2+m^2c^2$  (3) $E^2=pc^2+m^2c^4$  (4) $E^2=p^2c^2+m^2c^4$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The relativistic energy–momentum relation is $E^2=p^2c^2+m^2c^4$.
+
+### § — JEE Main 2025 · Jan session · Dual set Q3 · MCQ
+
+In the photoelectric effect an EM wave is incident on a metal surface and electrons are ejected. If the work function of the metal is 2.14 eV and the stopping potential is 2 V, what is the wavelength of the EM wave? (Given $hc=1242$ eV nm.)
+
+(1) 300 nm  (2) 400 nm  (3) 600 nm  (4) 200 nm
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $E=\phi+eV_0=2.14+2=4.14$ eV, so $\lambda=\dfrac{1242}{4.14}=300$ nm.
+
+### § — JEE Main 2025 · Jan session · Dual set Q5 · MCQ
+
+An electron in the ground state of the hydrogen atom has an orbital radius of $5.3\times10^{-11}$ m, while that for the electron in the third excited state is $8.48\times10^{-10}$ m. The ratio of the de Broglie wavelengths of the electron in the excited state to that in the ground state is:
+
+(1) 3  (2) 16  (3) 9  (4) 4
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Bohr quantisation gives $n\lambda=2\pi r$, so $\lambda=\dfrac{2\pi r}n$. $\dfrac{\lambda_4}{\lambda_1}=\dfrac{r_4/4}{r_1/1}=\dfrac{16}4=4$ (the radius ratio is $\dfrac{8.48\times10^{-10}}{5.3\times10^{-11}}=16$).
+
+### § — JEE Main 2025 · Jan session · Dual set Q6 · MCQ
+
+An electron of mass $m$ with an initial velocity $\vec v=v_0\hat i$ ($v_0>0$) enters an electric field $\vec E=-E_0\hat k$. If the initial de Broglie wavelength is $\lambda_0$, the value after time $t$ would be:
+
+(1) $\dfrac{\lambda_0}{\sqrt{1+\frac{e^2E_0^2t^2}{m^2v_0^2}}}$  (2) $\lambda_0\sqrt{1+\frac{e^2E_0^2t^2}{m^2v_0^2}}$  (3) $\dfrac{\lambda_0}{\sqrt{1-\frac{e^2E_0^2t^2}{m^2v_0^2}}}$  (4) $\lambda_0$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The force $eE_0$ acts along $z$, so $p_z=eE_0t$ while $p_x=mv_0$. $p^2=m^2v_0^2+e^2E_0^2t^2$ and $\lambda=\dfrac hp=\dfrac{\lambda_0}{\sqrt{1+\frac{e^2E_0^2t^2}{m^2v_0^2}}}$.
+
+### § — JEE Main 2025 · Jan session · Dual set Q7 · MCQ
+
+A proton of mass $m_p$ has the same energy as that of a photon of wavelength $\lambda$. If the proton is moving at non-relativistic speed, then the ratio of its de Broglie wavelength to the wavelength of the photon is:
+
+(1) $\dfrac1c\sqrt{\dfrac E{m_p}}$  (2) $\dfrac1c\sqrt{\dfrac{2E}{m_p}}$  (3) $\dfrac1{2c}\sqrt{\dfrac E{m_p}}$  (4) $\dfrac1c\sqrt{\dfrac E{2m_p}}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Photon: $\lambda=\dfrac{hc}E$. Proton: $\lambda_p=\dfrac h{\sqrt{2m_pE}}$. $\dfrac{\lambda_p}\lambda=\dfrac{E}{c\sqrt{2m_pE}}=\dfrac1c\sqrt{\dfrac E{2m_p}}$.
+
+### § — JEE Main 2025 · Jan session · Dual set Q8 · MCQ
+
+If $\lambda$ and $K$ are the de Broglie wavelength and kinetic energy respectively of a particle with constant mass, the correct graphical representation of $\dfrac1K$ versus $\lambda$ for the particle will be:
+
+
+
+**(1)** ![Option 1](../../figures/j25_phy_dual/q8-1.png)
+
+**(2)** ![Option 2](../../figures/j25_phy_dual/q8-2.png)
+
+**(3)** ![Option 3](../../figures/j25_phy_dual/q8-3.png)
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $K=\dfrac{h^2}{2m\lambda^2}$, so $\dfrac1K=\dfrac{2m}{h^2}\lambda^2$, a parabola through the origin that rises with $\lambda$. This is graph (2).
+
+### § — JEE Main 2025 · Jan session · Dual set Q9 · MCQ
+
+The work functions of caesium (Cs) and lithium (Li) are 1.9 eV and 2.5 eV respectively. If we incident light of wavelength 550 nm on these two metal surfaces, then the photoelectric effect is possible for:
+
+(1) Both Cs and Li  (2) Neither Cs nor Li  (3) Cs only  (4) Li only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The photon energy is $E=\dfrac{1242}{550}=2.26$ eV. This exceeds 1.9 eV (Cs) but not 2.5 eV (Li), so Cs only.
+
+### § — JEE Main 2025 · Jan session · Dual set Q10 · MCQ
+
+A light source of wavelength $\lambda$ illuminates a metal surface and electrons are ejected with maximum kinetic energy of 2 eV. If the same surface is illuminated by light of wavelength $\dfrac\lambda2$, then the maximum kinetic energy of the ejected electrons will be (the work function of the metal is 1 eV):
+
+(1) 3 eV  (2) 2 eV  (3) 6 eV  (4) 5 eV
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The first photon has $E_1=2+1=3$ eV. Halving the wavelength doubles the photon energy: $E_2=6$ eV, so $K_{max}=6-1=5$ eV.
+
+### § — JEE Main 2025 · Jan session · Dual set Q12 · MCQ
+
+In an experiment with the photoelectric effect, the stopping potential:
+
+(1) increases with increase in the intensity of the incident light  (2) decreases with increase in the intensity of the incident light  (3) increases with increase in the wavelength of the incident light  (4) is $\left(\dfrac1e\right)$ times the maximum kinetic energy of the emitted photoelectrons
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $eV_0=K_{max}=h\nu-\phi$: it depends on the frequency, not on the intensity, and it decreases as the wavelength increases. The correct statement is $V_0=\dfrac{K_{max}}e$.
+
+### § — JEE Main 2025 · Apr session · Dual set Q1 · MCQ
+
+An electron of mass $m$ with an initial velocity $\vec v=v_0\hat i$ ($v_0>0$) enters a magnetic field $\vec B=B_0\hat j$. If the initial de Broglie wavelength at $t=0$ is $\lambda_0$, then its value after time $t$ would be:
+
+(1) $\dfrac{\lambda_0}{\sqrt{1-\frac{e^2B_0^2t^2}{m^2}}}$  (2) $\dfrac{\lambda_0}{\sqrt{1+\frac{e^2B_0^2t^2}{m^2}}}$  (3) $\lambda_0\sqrt{1+\frac{e^2B_0^2t^2}{m^2}}$  (4) $\lambda_0$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The magnetic force is always perpendicular to the velocity and does no work, so the speed (and hence the momentum magnitude and the de Broglie wavelength) remains $\lambda_0$.
+
+### § — JEE Main 2025 · Apr session · Dual set Q2 · MCQ
+
+A photo-emissive substance is illuminated with radiation of wavelength $\lambda_i$ so that it releases electrons with de Broglie wavelength $\lambda_e$. The longest wavelength of radiation that can emit a photoelectron is $\lambda_0$. The expression for the de Broglie wavelength is: ($m$: mass of the electron, $h$: Planck's constant, $c$: speed of light)
+
+(1) $\lambda_e=\sqrt{\dfrac h{2mc\left(\frac1{\lambda_i}-\frac1{\lambda_0}\right)}}$  (2) $\lambda_e=\sqrt{\dfrac{h\lambda_0}{2mc}}$  (3) $\lambda_e=\dfrac h{\sqrt{2mc\left(\frac1{\lambda_i}-\frac1{\lambda_0}\right)}}$  (4) $\lambda_e=\sqrt{\dfrac{h\lambda_i}{2mc}}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $K_{max}=hc\left(\dfrac1{\lambda_i}-\dfrac1{\lambda_0}\right)$ and $\lambda_e=\dfrac h{\sqrt{2mK_{max}}}=\sqrt{\dfrac{h}{2mc\left(\frac1{\lambda_i}-\frac1{\lambda_0}\right)}}$, which is option (1).
+
+### § — JEE Main 2025 · Apr session · Dual set Q3 · MCQ
+
+A monochromatic light is incident on a metallic plate having work function $\phi$. An electron, emitted normally to the plate from a point $A$ with maximum kinetic energy, enters a constant magnetic field perpendicular to the initial velocity of the electron. The electron passes through a curve and hits back the plate at a point $B$. The distance between $A$ and $B$ is: (the magnetic field exists throughout the path of the electron)
+
+(1) $\sqrt{2m\left(\frac{hc}\lambda-\phi\right)}/eB$  (2) $\sqrt{m\left(\frac{hc}\lambda-\phi\right)}/eB$  (3) $\sqrt{8m\left(\frac{hc}\lambda-\phi\right)}/eB$  (4) $2\sqrt{m\left(\frac{hc}\lambda-\phi\right)}/eB$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $K_{max}=\dfrac{hc}\lambda-\phi$, so $p=\sqrt{2mK_{max}}$ and the radius is $r=\dfrac p{eB}$. The electron leaves normally, describes a semicircle and returns to the plate at distance $AB=2r=\dfrac{2\sqrt{2mK_{max}}}{eB}=\dfrac{\sqrt{8m\left(\frac{hc}\lambda-\phi\right)}}{eB}$.
+
+### § — JEE Main 2025 · Apr session · Dual set Q4 · MCQ
+
+The radiation pressure exerted by a 450 W light source on a perfectly reflecting surface placed 2 m away from it is:
+
+(1) $1.5\times10^{-8}$ Pa  (2) 0  (3) $6\times10^{-8}$ Pa  (4) $3\times10^{-8}$ Pa
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Intensity $I=\dfrac{P}{4\pi r^2}=\dfrac{450}{4\pi(4)}=8.95$ W/m$^2$. For a perfect reflector the pressure is $\dfrac{2I}c=\dfrac{2\times8.95}{3\times10^8}=6\times10^{-8}$ Pa.
+
+### § — JEE Main 2025 · Apr session · Dual set Q7 · MCQ
+
+A small mirror of mass $m$ is suspended by a massless thread of length $l$. Then the small angle through which the thread will be deflected when a short pulse of laser of energy $E$ falls normal on the mirror ($c$ = speed of light in vacuum, $g$ = acceleration due to gravity) is:
+
+(1) $\theta=\dfrac{3E}{4mc\sqrt{gl}}$  (2) $\theta=\dfrac E{mc\sqrt{gl}}$  (3) $\theta=\dfrac E{2mc\sqrt{gl}}$  (4) $\theta=\dfrac{2E}{mc\sqrt{gl}}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A perfectly reflecting mirror receives momentum $\dfrac{2E}c$, so $v=\dfrac{2E}{mc}$. The swing then follows energy conservation, $\tfrac12mv^2=mgl(1-\cos\theta)\approx\tfrac12mgl\theta^2$, so $\theta=\dfrac v{\sqrt{gl}}=\dfrac{2E}{mc\sqrt{gl}}$.
+

@@ -408,3 +408,148 @@ Given below are two statements:
 
 **Solution.** I is false: binding energy per nucleon rises to a maximum near $^{56}$Fe and then decreases for heavier nuclei. II is true: nuclear reactions (fusion of light nuclei, fission of heavy nuclei, decay) proceed towards greater binding energy per nucleon.
 
+### § — JEE Main 2025 · Jan session · Atom set Q1 · MCQ
+
+The frequency of revolution of the electron in Bohr's orbit varies with $n$, the principal quantum number, as:
+
+(1) $\dfrac1{n^4}$  (2) $\dfrac1{n^2}$  (3) $\dfrac1n$  (4) $\dfrac1{n^3}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $v\propto\dfrac1n$ and $r\propto n^2$, so $f=\dfrac v{2\pi r}\propto\dfrac1{n^3}$.
+
+### § — JEE Main 2025 · Jan session · Atom set Q3 · MCQ
+
+The number of spectral lines emitted by atomic hydrogen that is in the 4th energy level is:
+
+(1) 3  (2) 1  (3) 6  (4) 0
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For a single atom/transition chain, the number of possible lines from level $n=4$ is $\dfrac{n(n-1)}2=\dfrac{4\cdot3}2=6$.
+
+### § — JEE Main 2025 · Jan session · Atom set Q4 · MCQ
+
+During the transition of an electron from state $A$ to state $C$ of a Bohr atom, the wavelength of the emitted radiation is 2000 Å, and it becomes 6000 Å when the electron jumps from state $B$ to state $C$. Then the wavelength of the radiation emitted during the transition of the electron from state $A$ to state $B$ is:
+
+(1) 4000 Å  (2) 2000 Å  (3) 3000 Å  (4) 6000 Å
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $E_{AB}=E_{AC}-E_{BC}$, so $\dfrac1{\lambda_{AB}}=\dfrac1{2000}-\dfrac1{6000}=\dfrac1{3000}$ Å$^{-1}$, i.e. $\lambda_{AB}=3000$ Å.
+
+### § — JEE Main 2025 · Apr session · Atom set Q1 · MCQ
+
+Given below are two statements. Assertion A: The Bohr model is applicable to hydrogen and hydrogen-like atoms only. Reason R: The formulation of the Bohr model does not include the repulsive force between electrons. In the light of the above statements, choose the correct answer.
+
+(1) Both A and R are true but R is NOT the correct explanation of A.  (2) A is false but R is true.  (3) Both A and R are true and R is the correct explanation of A.  (4) A is true but R is false.
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The model treats one electron moving in the nuclear field and has no term for electron–electron repulsion, so it cannot handle atoms with more than one electron. Both statements are true and R explains A.
+
+### § — JEE Main 2025 · Apr session · Atom set Q2 · MCQ
+
+Considering the Bohr model of hydrogen-like atoms, the ratio of the radii of the 5th orbit of the electron in Li$^{2+}$ and He$^+$ is:
+
+(1) $\dfrac32$  (2) $\dfrac49$  (3) $\dfrac94$  (4) $\dfrac23$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $r_n\propto\dfrac{n^2}Z$. For the same $n$: $\dfrac{r_{Li^{2+}}}{r_{He^+}}=\dfrac{Z_{He}}{Z_{Li}}=\dfrac23$.
+
+### § — JEE Main 2025 · Apr session · Atom set Q3 · MCQ
+
+Considering Bohr's atomic model for the hydrogen atom:
+
+(A) The energy of H atom in the ground state is the same as the energy of He$^+$ ion in its first excited state.
+(B) The energy of H atom in the ground state is the same as that of Li$^{++}$ ion in its second excited state.
+(C) The energy of H atom in its ground state is the same as that of He$^+$ for its ground state.
+(D) The energy of He$^+$ ion in its first excited state is the same as that of Li$^{++}$ ion in its ground state.
+
+Choose the correct answer:
+
+(1) (B), (D) only  (2) (A), (B) only  (3) (A), (D) only  (4) (A), (C) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $E_n=-13.6\dfrac{Z^2}{n^2}$ eV. H ground: $-13.6$. He$^+$, $n=2$: $-13.6\cdot\dfrac44=-13.6$ (A true). Li$^{2+}$, $n=3$: $-13.6\cdot\dfrac99=-13.6$ (B true). He$^+$ ground: $-54.4$ (C false). Li$^{2+}$ ground: $-122.4$, unequal to He$^+$ first excited (D false). So (A), (B) only.
+
+### § — JEE Main 2025 · Apr session · Atom set Q5 · Numerical
+
+An electron in the hydrogen atom initially in the fourth excited state makes a transition to the $n$th energy state by emitting a photon of energy 2.86 eV. The integer value of $n$ will be ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** The fourth excited state is $n=5$: $E_5=-\dfrac{13.6}{25}=-0.544$ eV. After emission $E_n=-0.544-2.86=-3.4$ eV $=-\dfrac{13.6}{4}$, so $n=2$.
+
+### § — JEE Main 2025 · Apr session · Atom set Q6 · MCQ
+
+In a hydrogen-like ion, the energy difference between the 2nd excited state and the ground state is 108.8 eV. The atomic number of the ion is:
+
+(1) 4  (2) 2  (3) 1  (4) 3
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The 2nd excited state is $n=3$. $\Delta E=13.6Z^2\left(1-\dfrac19\right)=12.09Z^2=108.8\Rightarrow Z^2=9$, so $Z=3$.
+
+### § — JEE Main 2025 · Jan session · Nuc set Q1 · MCQ
+
+Choose the correct nuclear process from the options below. [p: proton, n: neutron, e$^-$: electron, e$^+$: positron, $\nu$: neutrino, $\bar\nu$: antineutrino]
+
+(1) $n\to p+e^++\bar\nu$  (2) $n\to p+e^++\nu$  (3) $n\to p+e^-+\nu$  (4) $n\to p+e^-+\bar\nu$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Neutron decay is $\beta^-$ decay: $n\to p+e^-+\bar\nu$ (charge and lepton number are conserved: the antineutrino has lepton number $-1$ against the electron's $+1$).
+
+### § — JEE Main 2025 · Jan session · Nuc set Q2 · MCQ
+
+Assertion (A): The binding energy per nucleon is found to be practically independent of the mass number $A$ for nuclei with mass numbers between 30 and 170. Reason (R): Nuclear force is long range. Choose the correct answer.
+
+(1) (A) is true but (R) is false  (2) (A) is false but (R) is true  (3) Both (A) and (R) are true and (R) is the correct explanation of (A)  (4) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Binding energy per nucleon is roughly constant ($\approx8$ MeV) in this range: (A) is true. It is constant because the nuclear force is short range and saturated, so each nucleon interacts only with its neighbours; (R) is false.
+
+### § — JEE Main 2025 · Jan session · Nuc set Q3 · MCQ
+
+A radioactive nucleus $n_2$ has 3 times the decay constant of another radioactive nucleus $n_1$. If the initial numbers of both nuclei are the same, what is the ratio of the number of nuclei of $n_2$ to the number of $n_1$ after one half-life of $n_1$?
+
+(1) 1/8  (2) 8  (3) 4  (4) 1/4
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** After $t=T_{1/2}(n_1)=\dfrac{\ln2}{\lambda_1}$: $N_1=\dfrac{N_0}2$, and $N_2=N_0e^{-3\lambda_1t}=N_0e^{-3\ln2}=\dfrac{N_0}8$. Ratio $N_2:N_1=\dfrac18\cdot2=\dfrac14$.
+
+### § — JEE Main 2025 · Apr session · Nuc set Q1 · MCQ
+
+Assertion (A): The density of the copper ($^{64}_{29}$Cu) nucleus is greater than that of the carbon ($^{12}_6$C) nucleus. Reason (R): The nucleus of mass number $A$ has a radius proportional to $A^{1/3}$. Choose the most appropriate answer.
+
+(1) (A) is correct but (R) is not correct  (2) (A) is not correct but (R) is correct  (3) Both (A) and (R) are correct and (R) is the correct explanation of (A)  (4) Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** With $R=R_0A^{1/3}$, the volume is proportional to $A$, so the density $\dfrac{Am_p}{\frac43\pi R_0^3A}$ is the same for all nuclei. (A) is false, (R) is true.
+
+### § — JEE Main 2025 · Apr session · Nuc set Q2 · MCQ
+
+For a nucleus of mass number $A$ and radius $R$, the mass density of the nucleus can be represented as:
+
+(1) $A^3$  (2) $A^{1/3}$  (3) $A^{5/3}$  (4) independent of $A$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $R=R_0A^{1/3}$ gives volume $\propto A$, while mass $\propto A$, so the density is independent of $A$ ($\approx2.3\times10^{17}$ kg/m$^3$).
+
+### § — JEE Main 2025 · Apr session · Nuc set Q3 · MCQ
+
+The energy released when two deuterons ($^2_1$H) fuse to form a helium nucleus ($^4_2$He) is: (Given: binding energy per nucleon of $^2_1$H $=1.1$ MeV and of $^4_2$He $=7.0$ MeV)
+
+(1) 8.1 MeV  (2) 5.9 MeV  (3) 23.6 MeV  (4) 26.8 MeV
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Energy released = (binding energy of product) − (binding energy of reactants) $=4\times7.0-2\times(2\times1.1)=28-4.4=23.6$ MeV.
+

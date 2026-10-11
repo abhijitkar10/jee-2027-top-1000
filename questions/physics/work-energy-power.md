@@ -200,3 +200,103 @@ The potential energy $V$ versus distance $x$ is given by the graph. Rank the var
 
 **Solution.** $|F|=\left|\dfrac{dV}{dx}\right|$ = magnitude of the slope. From the graph A(1,0), B(1.5,1), C(2,4), D(4,4), E(6,3): $|F_{AB}|=2$, $|F_{BC}|=6$, $|F_{CD}|=0$, $|F_{DE}|=\tfrac12$. Ranking: $F_{BC}>F_{AB}>F_{DE}>F_{CD}$.
 
+### § — JEE Main 2025 · Jan session · WEP set Q1 · MCQ
+
+A force $\vec F=2\hat i+b\hat j+\hat k$ is applied on a particle and it undergoes a displacement $\hat i-2\hat j-\hat k$. What will be the value of $b$ if the work done on the particle is zero?
+
+(1) 0  (2) $\dfrac12$  (3) 2  (4) $\dfrac13$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $W=\vec F\cdot\vec d=2-2b-1=0\Rightarrow b=\dfrac12$.
+
+### § — JEE Main 2025 · Jan session · WEP set Q3 · MCQ
+
+A force $F=\alpha+\beta x^2$ acts on an object in the $x$-direction. The work done by the force is 5 J when the object is displaced by 1 m. If the constant $\alpha=1$ N, then $\beta$ will be:
+
+(1) 15 N/m$^2$  (2) 12 N/m$^2$  (3) 8 N/m$^2$  (4) 10 N/m$^2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $W=\int_0^1(\alpha+\beta x^2)dx=\alpha+\dfrac\beta3=1+\dfrac\beta3=5\Rightarrow\beta=12$ N/m$^2$.
+
+### § — JEE Main 2025 · Jan session · WEP set Q4 · MCQ
+
+A ball having kinetic energy $KE$ is projected at an angle of $60^\circ$ from the horizontal. What will be the kinetic energy of the ball at the highest point of its flight?
+
+(1) $\dfrac{KE}8$  (2) $\dfrac{KE}2$  (3) $\dfrac{KE}{16}$  (4) $\dfrac{KE}4$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** At the top only the horizontal velocity $u\cos60^\circ=\dfrac u2$ remains, so $KE'=\tfrac12m\left(\dfrac u2\right)^2=\dfrac{KE}4$.
+
+### § — JEE Main 2025 · Jan session · WEP set Q7 · MCQ
+
+A body of mass 4 kg is placed on a plane at a point $P$ having coordinates (3, 4) m. Under the action of the force $\vec F=(2\hat i+3\hat j)$ N, it moves to a new point $Q$ having coordinates (6, 10) m in 4 s. The average power and the instantaneous power at the end of 4 s are in the ratio of:
+
+(1) 13 : 6  (2) 4 : 3  (3) 1 : 2  (4) 6 : 13
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Displacement $=(3,6)$ m, $W=2\cdot3+3\cdot6=24$ J, so $P_{avg}=\dfrac{24}4=6$ W. Acceleration $=\left(\tfrac12,\tfrac34\right)$ m/s$^2$ so at $t=4$ s $\vec v=(2,3)$ m/s and $P_{inst}=\vec F\cdot\vec v=4+9=13$ W. Ratio $=6:13$.
+
+### § — JEE Main 2025 · Jan session · WEP set Q8 · MCQ
+
+A sand dropper drops sand of mass $m(t)$ on a conveyor belt at a rate proportional to the square root of the speed ($v$) of the belt, i.e. $\dfrac{dm}{dt}\propto\sqrt v$. If $P$ is the power delivered to run the belt at constant speed, then which of the following relationships is true?
+
+(1) $P\propto\sqrt v$  (2) $P\propto v$  (3) $P^2\propto v^5$  (4) $P^2\propto v^3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The belt must supply momentum to the sand: $F=v\dfrac{dm}{dt}\propto v^{3/2}$, so $P=Fv\propto v^{5/2}$ and $P^2\propto v^5$.
+
+### § — JEE Main 2025 · Jan session · WEP set Q11 · MCQ
+
+A body of mass $m$ connected to a massless and unstretchable string goes in a vertical circle of radius $R$ under gravity $g$. The other end of the string is fixed at the centre of the circle. If the velocity at the top of the circular path is $n\sqrt{gR}$, where $n\ge1$, then the ratio of the kinetic energy of the body at the bottom to that at the top of the circle is:
+
+(1) $\dfrac{n^2}{n^2+4}$  (2) $\dfrac{n^2+4}{n^2}$  (3) $\dfrac{n+4}n$  (4) $\dfrac n{n+4}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $KE_{top}=\tfrac12mn^2gR$. Energy conservation gives $KE_{bottom}=KE_{top}+2mgR=\tfrac12mgR(n^2+4)$. The ratio is $\dfrac{n^2+4}{n^2}$.
+
+### § — JEE Main 2025 · Apr session · WEP set Q1 · MCQ
+
+Which one of the following forces cannot be expressed in terms of potential energy?
+
+(1) Coulomb's force  (2) Gravitational force  (3) Frictional force  (4) Restoring force
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Only conservative forces (work independent of path) have an associated potential energy. Coulomb, gravitational and spring restoring forces are conservative; friction is non-conservative.
+
+### § — JEE Main 2025 · Apr session · WEP set Q2 · MCQ
+
+A particle is released from height $S$ above the surface of the earth. At a certain height its kinetic energy is three times its potential energy. The height from the surface of the earth and the speed of the particle at that instant are respectively:
+
+(1) $\dfrac S2,\ \sqrt{\dfrac{3gS}2}$  (2) $\dfrac S2,\ \dfrac{3gS}2$  (3) $\dfrac S4,\ \dfrac{3gS}2$  (4) $\dfrac S4,\ \sqrt{\dfrac{3gS}2}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Total energy $=mgS=KE+PE=4PE=4mgh\Rightarrow h=\dfrac S4$. Then $KE=\tfrac34mgS=\tfrac12mv^2\Rightarrow v=\sqrt{\dfrac{3gS}2}$.
+
+### § — JEE Main 2025 · Apr session · WEP set Q3 · MCQ
+
+A block of mass 1 kg, moving along $x$ with $v_i=10$ m/s, enters a rough region ranging from $x=0.1$ m to $x=1.9$ m. The retarding force acting on the block in this range is $F_r=-kx$ N, with $k=10$ N/m. Then the final speed of the block as it crosses the rough region is:
+
+(1) 10 m/s  (2) 4 m/s  (3) 6 m/s  (4) 8 m/s
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Work done by the retarding force $=-\int_{0.1}^{1.9}kx\,dx=-5\left(1.9^2-0.1^2\right)=-18$ J. $\tfrac12(1)v^2=\tfrac12(1)(100)-18=32\Rightarrow v=8$ m/s.
+
+### § — JEE Main 2025 · Apr session · WEP set Q4 · MCQ
+
+An object of mass 1000 g experiences a time dependent force $\vec F=(2t\hat i+3t^2\hat j)$ N. The power generated by the force at time $t$ is:
+
+(1) $(2t^2+3t^3)$ W  (2) $(2t^2+18t^3)$ W  (3) $(3t^3+5t^5)$ W  (4) $(2t^3+3t^5)$ W
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** With $m=1$ kg, $\vec a=\vec F$, so $\vec v=\int\vec F\,dt=t^2\hat i+t^3\hat j$ (starting from rest). $P=\vec F\cdot\vec v=2t\cdot t^2+3t^2\cdot t^3=2t^3+3t^5$ W.
+

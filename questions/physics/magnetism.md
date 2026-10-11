@@ -298,3 +298,159 @@ Given below are two statements: one is labelled as Assertion (A) and the other a
 
 **Solution.** (A) correctly describes domain formation in a ferromagnet (exchange interaction aligns neighbouring atomic moments). (R) is also a true statement: above the Curie temperature thermal agitation destroys the domains and the material becomes paramagnetic. But the destruction of domains at high temperature is not the reason they form spontaneously at low temperature, so (R) does not explain (A).
 
+### § — JEE Main 2025 · Jan session · Mag set Q1 · Numerical
+
+The magnetic field inside a 200-turn solenoid of radius 10 cm is $2.9\times10^{-4}$ tesla. If the solenoid carries a current of 0.29 A, then the length of the solenoid is ______ $\pi$ cm.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** $B=\mu_0nI\Rightarrow n=\dfrac B{\mu_0I}=\dfrac{2.9\times10^{-4}}{4\pi\times10^{-7}\times0.29}=\dfrac{2500}{\pi}$ turns/m. Length $=\dfrac Nn=\dfrac{200\pi}{2500}$ m $=0.08\pi$ m $=8\pi$ cm.
+
+### § — JEE Main 2025 · Jan session · Mag set Q2 · Numerical
+
+A current of 5 A exists in a square loop of side $\dfrac1{\sqrt2}$ m. Then the magnitude of the magnetic field $B$ at the centre of the square loop will be $p\times10^{-6}$ T, where the value of $p$ is ______. [Take $\mu_0=4\pi\times10^{-7}\ \text{T m A}^{-1}$]
+
+**Answer: 8** · key (compiled)
+
+**Solution.** Each side (at perpendicular distance $a/2$ from the centre, subtending $\pm45^\circ$) gives $\dfrac{\mu_0I}{4\pi(a/2)}\left(\sin45^\circ+\sin45^\circ\right)=\dfrac{\sqrt2\,\mu_0I}{2\pi a}$; four sides give $B=\dfrac{2\sqrt2\,\mu_0I}{\pi a}=\dfrac{2\sqrt2\times4\pi\times10^{-7}\times5}{\pi\times\frac1{\sqrt2}}=8\times10^{-6}$ T. So $p=8$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q4 · MCQ
+
+An infinite wire has a circular bend of radius $a$ and carries a current $I$ as shown in the figure. The magnitude of the magnetic field at the origin $O$ of the arc is given by:
+
+![Figure](../../figures/j25_phy_magnetism/q4-1.png)
+
+(1) $\dfrac{\mu_0}{4\pi}\dfrac Ia\left[\dfrac\pi2+1\right]$  (2) $\dfrac{\mu_0}{4\pi}\dfrac Ia\left[\dfrac{3\pi}2+2\right]$  (3) $\dfrac{\mu_0}{2\pi}\dfrac Ia\left[\dfrac\pi2+2\right]$  (4) $\dfrac{\mu_0}{4\pi}\dfrac Ia\left[\dfrac{3\pi}2+1\right]$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The upper straight part lies along a line through $O$ and contributes nothing. The lower straight part is a semi-infinite wire starting at the foot of the perpendicular from $O$ (distance $a$): $B_1=\dfrac{\mu_0I}{4\pi a}$. The arc subtends $270^\circ$ at $O$: $B_2=\dfrac34\cdot\dfrac{\mu_0I}{2a}=\dfrac{\mu_0I}{4\pi a}\cdot\dfrac{3\pi}2$. The current circulates clockwise on the arc and flows leftwards in the lower wire, so both fields point into the page and add: $B=\dfrac{\mu_0I}{4\pi a}\left[\dfrac{3\pi}2+1\right]$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q5 · MCQ
+
+Consider a long straight wire of circular cross-section (radius $a$) carrying a steady current $I$. The current is uniformly distributed across this cross-section. The distances from the centre of the wire's cross-section at which the magnetic field [inside the wire, outside the wire] is half of the maximum possible magnetic field anywhere due to the wire, will be:
+
+(1) $[a/4,\ 3a/2]$  (2) $[a/4,\ 2a]$  (3) $[a/2,\ 2a]$  (4) $[a/2,\ 3a]$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Inside ($r<a$): $B=\dfrac{\mu_0Ir}{2\pi a^2}\propto r$. Outside: $B=\dfrac{\mu_0I}{2\pi r}\propto\dfrac1r$. The maximum is at the surface, $B_{max}=\dfrac{\mu_0I}{2\pi a}$. Inside, $B=\dfrac{B_{max}}2$ at $r=\dfrac a2$; outside, $\dfrac{\mu_0I}{2\pi r}=\dfrac12\cdot\dfrac{\mu_0I}{2\pi a}$ gives $r=2a$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q6 · MCQ
+
+An electron projected perpendicular to a uniform magnetic field $B$ moves in a circle. If Bohr's quantization is applicable, then the radius of the electronic orbit in the first excited state is:
+
+(1) $\sqrt{\dfrac h{\pi eB}}$  (2) $\sqrt{\dfrac{2h}{\pi eB}}$  (3) $\sqrt{\dfrac h{2\pi eB}}$  (4) $\sqrt{\dfrac{4h}{\pi eB}}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The magnetic force supplies the centripetal force: $evB=\dfrac{mv^2}r\Rightarrow mv=eBr$. Bohr's quantization $mvr=\dfrac{nh}{2\pi}$ then gives $eBr^2=\dfrac{nh}{2\pi}$, i.e. $r=\sqrt{\dfrac{nh}{2\pi eB}}$. The first excited state is $n=2$: $r=\sqrt{\dfrac h{\pi eB}}$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q7 · Numerical
+
+A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of $2\times10^5\ \text{m s}^{-1}$. When the electric field is switched off, the proton moves along a circular path of radius 2 cm. The magnitude of the electric field is $x\times10^4$ N/C. The value of $x$ is ______. (Take the mass of the proton $=1.6\times10^{-27}$ kg.)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Undeflected motion needs $qE=qvB$, i.e. $E=vB$. With only $B$ present, $r=\dfrac{mv}{qB}\Rightarrow B=\dfrac{mv}{qr}=\dfrac{1.6\times10^{-27}\times2\times10^5}{1.6\times10^{-19}\times0.02}=0.1$ T. Hence $E=vB=2\times10^5\times0.1=2\times10^4$ N/C and $x=2$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q9 · Numerical
+
+Two long parallel wires $X$ and $Y$, separated by a distance of 6 cm, carry currents of 5 A and 4 A respectively, in opposite directions as shown in the figure. The magnitude of the resultant magnetic field at point $P$ at a distance of 4 cm from wire $Y$ is $x\times10^{-5}$ T. The value of $x$ is ______. Take the permeability of free space as $\mu_0=4\pi\times10^{-7}$ SI units.
+
+![Figure](../../figures/j25_phy_magnetism/q9-1.png)
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $P$ lies outside the pair, 4 cm from $Y$ and 10 cm from $X$. $B_Y=\dfrac{\mu_0\cdot4}{2\pi(0.04)}=2\times10^{-5}$ T and $B_X=\dfrac{\mu_0\cdot5}{2\pi(0.10)}=1\times10^{-5}$ T. The currents are opposite and $P$ is on the same side of both wires, so the two fields are opposite in direction: $B=2\times10^{-5}-1\times10^{-5}=1\times10^{-5}$ T, i.e. $x=1$.
+
+### § — JEE Main 2025 · Jan session · Mag set Q11 · Numerical
+
+A tightly wound long solenoid carries a current of 1.5 A. An electron is executing uniform circular motion inside the solenoid with a time period of 75 ns. The number of turns per metre in the solenoid is ______. [Take $m_e=9\times10^{-31}$ kg, $|q_e|=1.6\times10^{-19}$ C, $\mu_0=4\pi\times10^{-7}\ \text{N/A}^2$, 1 ns $=10^{-9}$ s]
+
+**Answer: 250** · key (compiled)
+
+**Solution.** Cyclotron period $T=\dfrac{2\pi m}{eB}\Rightarrow B=\dfrac{2\pi m}{eT}=\dfrac{2\pi\times9\times10^{-31}}{1.6\times10^{-19}\times75\times10^{-9}}=4.71\times10^{-4}$ T. Inside a long solenoid $B=\mu_0nI$, so $n=\dfrac{4.71\times10^{-4}}{4\pi\times10^{-7}\times1.5}=250$ turns per metre.
+
+### § — JEE Main 2025 · Apr session · Mag set Q1 · Numerical
+
+A 4.0 cm long straight wire carrying a current of 8 A is placed perpendicular to a uniform magnetic field of strength 0.15 T. The magnetic force on the wire is ______ mN.
+
+**Answer: 48** · key (compiled)
+
+**Solution.** $F=BIL\sin90^\circ=0.15\times8\times0.04=0.048$ N $=48$ mN.
+
+### § — JEE Main 2025 · Apr session · Mag set Q2 · MCQ
+
+Let $B_1$ be the magnitude of the magnetic field at the centre of a circular coil of radius $R$ carrying current $I$. Let $B_2$ be the magnitude of the magnetic field at an axial distance $x$ from the centre. For $x:R=3:4$, $\dfrac{B_2}{B_1}$ is:
+
+(1) 4 : 5  (2) 16 : 25  (3) 64 : 125  (4) 25 : 16
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $B_1=\dfrac{\mu_0I}{2R}$ and $B_2=\dfrac{\mu_0IR^2}{2(R^2+x^2)^{3/2}}$, so $\dfrac{B_2}{B_1}=\dfrac{R^3}{(R^2+x^2)^{3/2}}=\left(1+\dfrac9{16}\right)^{-3/2}=\left(\dfrac{16}{25}\right)^{3/2}=\dfrac{64}{125}$.
+
+### § — JEE Main 2025 · Apr session · Mag set Q3 · Numerical
+
+A loop $ABCDA$, carrying current $I=12$ A, is placed in a plane and consists of two semi-circular segments of radii $R_1=6\pi$ m and $R_2=4\pi$ m. The magnitude of the resultant magnetic field at the centre $O$ is $k\times10^{-7}$ T. The value of $k$ is ______. (Given $\mu_0=4\pi\times10^{-7}\ \text{T m A}^{-1}$)
+
+![Figure](../../figures/a25_phy_magnetism/q3-1.png)
+
+**Answer: 1** · key (compiled)
+
+**Solution.** The straight segments $AB$ and $CD$ lie on lines through $O$ and contribute nothing. The two semicircles carry the current in opposite senses about $O$, so $B=\dfrac{\mu_0I}{4R_2}-\dfrac{\mu_0I}{4R_1}=\dfrac{\mu_0I}4\left(\dfrac1{4\pi}-\dfrac1{6\pi}\right)=\dfrac{4\pi\times10^{-7}\times12}4\cdot\dfrac1{12\pi}=1\times10^{-7}$ T. So $k=1$.
+
+### § — JEE Main 2025 · Apr session · Mag set Q8 · MCQ
+
+A magnetic dipole experiences a torque of $80\sqrt3$ N m when placed in a uniform magnetic field in such a way that the dipole moment makes an angle of $60^\circ$ with the magnetic field. The potential energy of the dipole is:
+
+(1) 80 J  (2) $-40\sqrt3$ J  (3) $-60$ J  (4) $-80$ J
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\tau=MB\sin60^\circ=80\sqrt3\Rightarrow MB=160$ J. Then $U=-MB\cos60^\circ=-80$ J.
+
+### § — JEE Main 2025 · Apr session · Mag set Q9 · MCQ
+
+The figure shows a current-carrying square loop $ABCD$ of edge length $a$ lying in a plane. If the resistance of the $ABC$ part is $r$ and that of the $ADC$ part is $2r$, then the magnitude of the resultant magnetic field at the centre of the square loop is:
+
+![Figure](../../figures/a25_phy_magnetism/q9-1.png)
+
+(1) $\dfrac{3\pi\mu_0I}{\sqrt2\,a}$  (2) $\dfrac{\mu_0I}{2\pi a}$  (3) $\dfrac{\sqrt2\,\mu_0I}{3\pi a}$  (4) $\dfrac{2\mu_0I}{3\pi a}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The current divides between the two parallel paths inversely as their resistances: $i_1=\dfrac{2I}3$ through $ABC$ (resistance $r$) and $i_2=\dfrac I3$ through $ADC$ (resistance $2r$). A side of length $a$ carrying $i$ gives at the centre $\dfrac{\mu_0i}{4\pi(a/2)}\cdot2\sin45^\circ=\dfrac{\sqrt2\mu_0i}{2\pi a}$, so each path (two sides) gives $\dfrac{\sqrt2\mu_0i}{\pi a}$, the two paths being in opposite senses about the centre. $B=\dfrac{\sqrt2\mu_0}{\pi a}(i_1-i_2)=\dfrac{\sqrt2\mu_0I}{3\pi a}$.
+
+### § — JEE Main 2025 · Apr session · Mag set Q10 · MCQ
+
+Uniform magnetic fields of different strengths ($B_1$ and $B_2$), both normal to the plane of the paper, exist as shown in the figure. A charged particle of mass $m$ and charge $q$, at the interface at an instant, moves into region 2 with velocity $v$ and returns to the interface. It continues to move into region 1 and finally reaches the interface. What is the displacement of the particle during this movement along the interface? (Consider the velocity of the particle to be normal to the magnetic field and $B_2>B_1$.)
+
+![Figure](../../figures/a25_phy_magnetism/q10-1.png)
+
+(1) $\dfrac{mv}{qB_1}\left(1-\dfrac{B_2}{B_1}\right)\times2$  (2) $\dfrac{mv}{qB_1}\left(1-\dfrac{B_1}{B_2}\right)$  (3) $\dfrac{mv}{qB_1}\left(1-\dfrac{B_2}{B_1}\right)$  (4) $\dfrac{mv}{qB_1}\left(1-\dfrac{B_1}{B_2}\right)\times2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** In region 2 the particle completes a semicircle of radius $r_2=\dfrac{mv}{qB_2}$, shifting along the interface by $2r_2$. In region 1 it completes a semicircle of radius $r_1=\dfrac{mv}{qB_1}$ (larger, since $B_1<B_2$), shifting by $2r_1$ in the opposite direction. Net displacement $=2r_1-2r_2=\dfrac{2mv}{qB_1}\left(1-\dfrac{B_1}{B_2}\right)$.
+
+### § — JEE Main 2025 · Apr session · MagMat set Q2 · MCQ
+
+The relationship between the magnetic susceptibility ($\chi$) and the magnetic permeability ($\mu$) is given by: ($\mu_0$ is the permeability of free space and $\mu_r$ is the relative permeability)
+
+(1) $\chi=\dfrac{\mu}{\mu_0}-1$  (2) $\chi=\dfrac{\mu_r}{\mu_0}+1$  (3) $\chi=\mu_r+1$  (4) $\chi=1-\dfrac{\mu}{\mu_0}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\mu_r=\dfrac\mu{\mu_0}=1+\chi$, so $\chi=\dfrac\mu{\mu_0}-1$.
+
+### § — JEE Main 2025 · Apr session · MagMat set Q4 · MCQ
+
+The percentage increase in the magnetic field ($B$) when the space within a current-carrying solenoid is filled with magnesium (magnetic susceptibility $\chi_{Mg}=1.2\times10^{-5}$) is:
+
+(1) $\dfrac65\times10^{-3}\%$  (2) $\dfrac56\times10^{-5}\%$  (3) $\dfrac56\times10^{-4}\%$  (4) $\dfrac53\times10^{-5}\%$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $B=\mu_0\mu_rnI=\mu_0(1+\chi)nI$, so relative to the empty solenoid $B$ increases by the fraction $\chi$: $\dfrac{\Delta B}B=1.2\times10^{-5}=1.2\times10^{-3}\%=\dfrac65\times10^{-3}\%$.
+

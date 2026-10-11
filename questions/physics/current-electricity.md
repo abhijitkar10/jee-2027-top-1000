@@ -458,3 +458,160 @@ Two resistors of $100\ \Omega$ each are connected in series with a $9$ V battery
 
 **Solution.** The voltmeter in parallel with one resistor gives $\dfrac{100\times400}{500}=80\ \Omega$. The total resistance is $100+80=180\ \Omega$, so $I=\dfrac{9}{180}=0.05$ A and the reading is $0.05\times80=4$ V.
 
+### § — JEE Main 2025 · Jan session · Cur set Q2 · MCQ
+
+The difference of temperature in a material can convert heat energy into electrical energy. To harvest the heat energy, the material should have:
+
+(1) high thermal conductivity and high electrical conductivity  (2) low thermal conductivity and low electrical conductivity  (3) high thermal conductivity and low electrical conductivity  (4) low thermal conductivity and high electrical conductivity
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** This is the thermoelectric (Seebeck) effect. To maintain a temperature difference across the material its thermal conductivity must be low (otherwise heat simply flows through and the gradient disappears), and to deliver the generated current with little Joule loss its electrical conductivity must be high.
+
+### § — JEE Main 2025 · Jan session · Cur set Q3 · MCQ
+
+Find the equivalent resistance between the two ends of the following circuit.
+
+![Figure](../../figures/j25_phy_current/q3-1.png)
+
+(1) $\dfrac r9$  (2) $\dfrac r3$  (3) $r$  (4) $\dfrac r6$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Trace the wires in the figure. The top wire joins the left terminal to the junction between the 2nd and 3rd resistors; the bottom wire joins the junction between the 1st and 2nd resistors to the right terminal. Hence the left ends of all three resistors are at the left node and the right ends at the right node: the three $\dfrac r3$ resistors are in parallel and $R_{eq}=\dfrac{r/3}{3}=\dfrac r9$.
+
+### § — JEE Main 2025 · Jan session · Cur set Q5 · Numerical
+
+A wire of resistance 9 $\Omega$ is bent to form an equilateral triangle. Then the equivalent resistance across any two vertices will be ______ ohm.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Each side has $3\ \Omega$. Between two vertices one side ($3\ \Omega$) is in parallel with the other two sides in series ($6\ \Omega$): $\dfrac{3\times6}{3+6}=2\ \Omega$.
+
+### § — JEE Main 2025 · Jan session · Cur set Q6 · MCQ
+
+A wire of resistance $R$ is bent into an equilateral triangle and an identical wire is bent into a square. The ratio of the resistance between the two end points of an edge of the triangle to that of the square is:
+
+(1) $\dfrac89$  (2) $\dfrac{27}{32}$  (3) $\dfrac{32}{27}$  (4) $\dfrac98$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Triangle: each side is $\dfrac R3$; across one side $\dfrac R3\parallel\dfrac{2R}3=\dfrac{2R}9$. Square: each side is $\dfrac R4$; across one side $\dfrac R4\parallel\dfrac{3R}4=\dfrac{3R}{16}$. Ratio $=\dfrac{2/9}{3/16}=\dfrac{32}{27}$.
+
+### § — JEE Main 2025 · Jan session · Cur set Q7 · MCQ
+
+Given below are two statements:
+
+Statement I: The equivalent emf of two non-ideal batteries connected in parallel is smaller than either of the two emfs.
+Statement II: The equivalent internal resistance of two non-ideal batteries connected in parallel is smaller than the internal resistance of either of the two batteries.
+
+In the light of the above statements, choose the correct answer from the options given below.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are true  (4) Statement I is true but Statement II is false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For two cells in parallel $\varepsilon_{eq}=\dfrac{\varepsilon_1/r_1+\varepsilon_2/r_2}{1/r_1+1/r_2}$, a weighted average that lies between $\varepsilon_1$ and $\varepsilon_2$, so Statement I is false. Also $\dfrac1{r_{eq}}=\dfrac1{r_1}+\dfrac1{r_2}$ gives $r_{eq}<r_1$ and $r_{eq}<r_2$, so Statement II is true.
+
+### § — JEE Main 2025 · Jan session · Cur set Q9 · Numerical
+
+The value of current $I$ in the electrical circuit given below, when the potential at $A$ is equal to the potential at $B$, will be ______ A.
+
+![Figure](../../figures/j25_phy_current/q9-1.png)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** $V_A=V_B$ means the bridge is balanced and no current flows through the 30 $\Omega$ resistor: $\dfrac{10}{20}=\dfrac R{40}\Rightarrow R=20\ \Omega$. The upper branch is $10+20=30\ \Omega$ and the lower branch is $20+40=60\ \Omega$, in parallel $=20\ \Omega$. So $I=\dfrac{40}{20}=2$ A.
+
+### § — JEE Main 2025 · Jan session · Cur set Q10 · MCQ
+
+The sliding contact of a potentiometer is in the middle of the potentiometer wire having resistance $R_p=1\ \Omega$ as shown in the figure. An external resistance of $R_e=2\ \Omega$ is connected via the sliding contact. The electric current in the circuit is:
+
+![Figure](../../figures/j25_phy_current/q10-1.png)
+
+(1) 0.9 A  (2) 1.35 A  (3) 0.3 A  (4) 1.0 A
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The 0.9 V battery is connected across the whole wire. The slider divides the wire into two halves of $0.5\ \Omega$. $R_e$ is connected between one end of the wire and the slider, i.e. across one half: $0.5\ \Omega\parallel2\ \Omega=\dfrac{0.5\times2}{2.5}=0.4\ \Omega$, in series with the other half ($0.5\ \Omega$). $R_{total}=0.9\ \Omega$ and $I=\dfrac{0.9}{0.9}=1.0$ A.
+
+### § — JEE Main 2025 · Jan session · Cur set Q11 · MCQ
+
+A galvanometer having a coil of resistance 30 $\Omega$ needs 20 mA of current for full-scale deflection. If a maximum current of 3 A is to be measured using this galvanometer, the resistance of the shunt to be added to the galvanometer should be $\dfrac{30}X\ \Omega$, where $X$ is:
+
+(1) 596  (2) 149  (3) 298  (4) 447
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $S=\dfrac{I_gG}{I-I_g}=\dfrac{0.02\times30}{3-0.02}=\dfrac{0.6}{2.98}=\dfrac{30}{149}\ \Omega$, so $X=149$.
+
+### § — JEE Main 2025 · Apr session · Cur set Q1 · MCQ
+
+Current passing through a wire as a function of time is given as $I(t)=0.02t+0.01$ A. The charge that will flow through the wire from $t=1$ s to $t=2$ s is:
+
+(1) 0.06 C  (2) 0.02 C  (3) 0.07 C  (4) 0.04 C
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $q=\int_1^2(0.02t+0.01)\,dt=0.01\left[t^2\right]_1^2+0.01(2-1)=0.03+0.01=0.04$ C.
+
+### § — JEE Main 2025 · Apr session · Cur set Q2 · MCQ
+
+A motor operating on 100 V draws a current of 1 A. If the efficiency of the motor is 91.6%, then the loss of power in units of cal/s is:
+
+(1) 4  (2) 8.4  (3) 2  (4) 6.2
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Input power $=100\times1=100$ W. Loss $=(1-0.916)\times100=8.4$ W $=\dfrac{8.4}{4.2}=2$ cal/s (taking 1 cal $=4.2$ J).
+
+### § — JEE Main 2025 · Apr session · Cur set Q5 · Numerical
+
+Two cells of emf 1 V and 2 V and internal resistances 2 $\Omega$ and 1 $\Omega$ respectively are connected in series with an external resistance of 6 $\Omega$. The total current in the circuit is $I_1$. Now the same two cells in parallel configuration are connected to the same external resistance. In this case the total current drawn is $I_2$. The value of $\left(\dfrac{I_1}{I_2}\right)$ is $\dfrac x3$. The value of $x$ is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** Series: $I_1=\dfrac{1+2}{2+1+6}=\dfrac13$ A. Parallel: $\varepsilon_{eq}=\dfrac{\frac12+\frac21}{\frac12+\frac11}=\dfrac53$ V and $r_{eq}=\dfrac{2\times1}{2+1}=\dfrac23\ \Omega$, so $I_2=\dfrac{5/3}{6+2/3}=\dfrac14$ A. $\dfrac{I_1}{I_2}=\dfrac43=\dfrac x3\Rightarrow x=4$.
+
+### § — JEE Main 2025 · Apr session · Cur set Q6 · MCQ
+
+The battery of a mobile phone is rated as 4.2 V, 5800 mAh. How much energy is stored in it when fully charged?
+
+(1) 43.8 kJ  (2) 48.7 kJ  (3) 87.7 kJ  (4) 24.4 kJ
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $E=VQ=4.2\ \text V\times\left(5.8\ \text{A h}\times3600\ \text{s/h}\right)=4.2\times20880\approx87\,700$ J $=87.7$ kJ.
+
+### § — JEE Main 2025 · Apr session · Cur set Q7 · MCQ
+
+There are $n$ identical electric bulbs, each designed to draw a power $p$ independently from the mains supply. They are now joined in series across the mains supply. The total power drawn by the combination is:
+
+(1) $np$  (2) $\dfrac p{n^2}$  (3) $\dfrac pn$  (4) $p$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For each bulb $p=\dfrac{V^2}{R}$. In series the resistance is $nR$ across the same mains, so $P=\dfrac{V^2}{nR}=\dfrac pn$.
+
+### § — JEE Main 2025 · Apr session · Cur set Q8 · MCQ
+
+A wire of resistance $R$ is bent into a triangular pyramid as shown in the figure, with each segment having the same length. The resistance between points $A$ and $B$ is $R/n$. The value of $n$ is:
+
+![Figure](../../figures/a25_phy_current/q8-1.png)
+
+(1) 16  (2) 14  (3) 10  (4) 12
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The wire has six equal edges of resistance $\dfrac R6$ each. For current entering at $A$ and leaving at $B$, the other two vertices $C$ and $D$ are at the same potential by symmetry, so the edge $CD$ carries no current. The paths between $A$ and $B$ are then in parallel: the direct edge $AB$ ($\dfrac R6$), and the routes $A\!-\!C\!-\!B$ and $A\!-\!D\!-\!B$ ($\dfrac R3$ each). $\dfrac1{R_{AB}}=\dfrac6R+\dfrac3R+\dfrac3R=\dfrac{12}R$, so $R_{AB}=\dfrac R{12}$ and $n=12$.
+
+### § — JEE Main 2025 · Apr session · Cur set Q9 · Numerical
+
+In the figure shown below, a resistance of 150.4 $\Omega$ is connected in series to an ammeter $A$ of resistance 240 $\Omega$. A shunt resistance of 10 $\Omega$ is connected in parallel with the ammeter. The reading of the ammeter is ______ mA.
+
+![Figure](../../figures/a25_phy_current/q9-1.png)
+
+**Answer: 5** · key (compiled)
+
+**Solution.** Ammeter $\parallel$ shunt: $\dfrac{240\times10}{250}=9.6\ \Omega$. Total resistance $=150.4+9.6=160\ \Omega$, so the line current is $\dfrac{20}{160}=0.125$ A. It divides inversely with resistance: the ammeter branch carries $0.125\times\dfrac{10}{250}=5\times10^{-3}$ A $=5$ mA.
+
