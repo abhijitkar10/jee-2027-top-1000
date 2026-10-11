@@ -27,3 +27,85 @@ Which of the following statements are correct?
 
 **Solution.** (A) true: $\text{LiCl}$ and $\text{MgCl}_2$ have appreciable covalent character (diagonal relationship), so they dissolve in ethanol. (B) false: $\text{Li}$ and $\text{Mg}$ form only the normal oxides; superoxides ($\text{MO}_2$) are formed by $\text{K}$, $\text{Rb}$, $\text{Cs}$. (C) true: the small $\text{Li}^+$ and $\text{F}^-$ give a very high lattice energy, so $\text{LiF}$ is the least soluble alkali fluoride. (D) false: $\text{Li}_2\text{O}$ is much less soluble/reactive in water than $\text{Na}_2\text{O}$, $\text{K}_2\text{O}$, etc. Hence (A) and (C).
 
+### § — JEE Main 2023 · 24 Jan Shift 1 · sBlock set Q2 · MCQ
+
+Match List I with List II.
+
+| List I | List II |
+|---|---|
+| A. Chlorophyll | I. Na$_2$CO$_3$ |
+| B. Soda ash | II. CaSO$_4$ |
+| C. Dentistry, ornamental work | III. Mg$^{2+}$ |
+| D. Used in white washing | IV. Ca(OH)$_2$ |
+
+(1) A–III, B–I, C–II, D–IV  (2) A–II, B–I, C–III, D–IV  (3) A–III, B–IV, C–I, D–II  (4) A–II, B–III, C–IV, D–I
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Chlorophyll contains Mg$^{2+}$ (III); soda ash is Na$_2$CO$_3$ (I); plaster of Paris/CaSO$_4$ is used in dentistry and ornamental work (II); slaked lime Ca(OH)$_2$ is used in white washing (IV).
+
+### § — JEE Main 2023 · 25 Jan Shift 1 · sBlock set Q4 · MCQ
+
+Compound A reacts with NH$_4$Cl and forms a compound B. Compound B reacts with H$_2$O and excess of CO$_2$ to form compound C, which on passing through, or reaction with, saturated NaCl solution forms sodium hydrogen carbonate. Compounds A, B and C are respectively:
+
+(1) CaCl$_2$, NH$_3$, NH$_4$HCO$_3$  (2) CaCl$_2$, NH$_4^+$, (NH$_4$)$_2$CO$_3$  (3) Ca(OH)$_2$, NH$_3$, NH$_4$HCO$_3$  (4) Ca(OH)$_2$, NH$_4^+$, (NH$_4$)$_2$CO$_3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** This is the Solvay process. Ca(OH)$_2$ + 2NH$_4$Cl → 2NH$_3$ + CaCl$_2$ + 2H$_2$O (A = Ca(OH)$_2$, B = NH$_3$); NH$_3$ + H$_2$O + CO$_2$ → NH$_4$HCO$_3$ (C); NH$_4$HCO$_3$ + NaCl → NaHCO$_3$↓ + NH$_4$Cl.
+
+### § — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q8 · MCQ
+
+The correct order of hydration enthalpies is:
+
+(A) K$^+$  (B) Rb$^+$  (C) Mg$^{2+}$  (D) Cs$^+$  (E) Ca$^{2+}$
+
+Choose the correct answer from the options given below:
+
+(1) C > A > E > B > D  (2) E > C > A > B > D  (3) C > E > A > D > B  (4) C > E > A > B > D
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Hydration enthalpy increases with ionic charge and with decreasing ionic size. The divalent ions come first: Mg$^{2+}$ > Ca$^{2+}$ (C > E). Among the alkali ions K$^+$ > Rb$^+$ > Cs$^+$ (A > B > D). The order is C > E > A > B > D.
+
+### § — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q9 · MCQ
+
+The magnetic behaviour of Li$_2$O, Na$_2$O$_2$ and KO$_2$, respectively, are:
+
+(1) diamagnetic, paramagnetic and diamagnetic  (2) paramagnetic, paramagnetic and diamagnetic  (3) paramagnetic, diamagnetic and paramagnetic  (4) diamagnetic, diamagnetic and paramagnetic
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Li$_2$O contains O$^{2-}$ (all electrons paired: diamagnetic). Na$_2$O$_2$ contains the peroxide ion O$_2^{2-}$ (paired: diamagnetic). KO$_2$ contains the superoxide ion O$_2^-$ with one unpaired electron (paramagnetic).
+
+### § — JEE Main 2023 · 29 Jan Shift 2 · sBlock set Q10 · Numerical
+
+On heating, LiNO$_3$ gives how many compounds among the following? Li$_2$O, N$_2$, O$_2$, LiNO$_2$, NO$_2$
+
+**Answer: 3** · key (compiled)
+
+**Solution.** Lithium nitrate decomposes like the nitrates of the less electropositive metals: $4\text{LiNO}_3\xrightarrow{\Delta}2\text{Li}_2\text{O}+4\text{NO}_2+\text{O}_2$. Three of the listed compounds are produced: Li$_2$O, NO$_2$ and O$_2$.
+
+### § — JEE Main 2023 · 31 Jan Shift 2 · sBlock set Q15 · Numerical
+
+The number of alkali metal(s), from Li, K, Cs and Rb, having ionisation enthalpy greater than 400 kJ mol$^{-1}$ and forming stable superoxide is ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** K, Rb and Cs form stable superoxides (large cations stabilise the large O$_2^-$ ion). The first ionisation enthalpies are K 419, Rb 403 and Cs 376 kJ mol$^{-1}$, so only K and Rb exceed 400 kJ mol$^{-1}$: 2 metals.
+
+### § — JEE Main 2023 · 1 Feb Shift 1 · sBlock set Q16 · MCQ
+
+Choose the correct statement(s):
+
+A. Beryllium oxide is purely alkaline in nature.
+B. Beryllium carbonate is kept in the atmosphere of CO$_2$.
+C. Beryllium sulphate is readily soluble in water.
+D. Beryllium shows anomalous behaviour.
+
+(1) A, B and C only  (2) B, C and D only  (3) A and B only  (4) A only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** BeO is amphoteric, not purely alkaline (A false). BeCO$_3$ is thermally unstable and is stored under CO$_2$ (B true). BeSO$_4$ dissolves readily because of the high hydration enthalpy of the small Be$^{2+}$ ion (C true). Be is anomalous because of its small size, high ionisation energy and high polarising power (D true).
+

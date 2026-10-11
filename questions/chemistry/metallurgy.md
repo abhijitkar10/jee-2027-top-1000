@@ -41,3 +41,67 @@ Match List I (ore) with List II (composition).
 
 **Solution.** Sphalerite (zinc blende) is $\text{ZnS}$ → (IV); calamine is $\text{ZnCO}_3$ → (III); galena is $\text{PbS}$ → (II); siderite is $\text{FeCO}_3$ → (I). So (A)-(IV), (B)-(III), (C)-(II), (D)-(I).
 
+### § — JEE Main 2023 · 24 Jan Shift 1 · Metal set Q1 · MCQ
+
+Match List I with List II.
+
+| List I | List II |
+|---|---|
+| A. Reverberatory furnace | I. Pig iron |
+| B. Electrolytic cell | II. Aluminium |
+| C. Blast furnace | III. Silicon |
+| D. Zone refining furnace | IV. Copper |
+
+(1) A–IV, B–II, C–I, D–III  (2) A–I, B–IV, C–II, D–III  (3) A–I, B–II, C–III, D–IV  (4) A–III, B–IV, C–I, D–II
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The reverberatory furnace is used for roasting/smelting copper ores (IV). Aluminium is obtained by electrolysis (II). The blast furnace gives pig iron (I). Zone refining is used for ultra-pure semiconductors such as silicon (III).
+
+### § — JEE Main 2023 · 25 Jan Shift 1 · Metal set Q3 · MCQ
+
+Which one of the following reactions does not occur during the extraction of copper?
+
+(1) 2Cu$_2$S + 3O$_2$ → 2Cu$_2$O + 2SO$_2$  (2) 2FeS + 3O$_2$ → 2FeO + 2SO$_2$  (3) CaO + SiO$_2$ → CaSiO$_3$  (4) FeO + SiO$_2$ → FeSiO$_3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** During the extraction of copper from copper pyrites, FeS is oxidised to FeO and Cu$_2$S to Cu$_2$O, and silica is added so that FeO is removed as the slag FeSiO$_3$. Calcium is not involved, so CaSiO$_3$ is not formed.
+
+### § — JEE Main 2023 · 25 Jan Shift 2 · Metal set Q4 · MCQ
+
+Given below are two statements:
+
+Statement I: In the froth flotation method, a rotating paddle agitates the mixture to drive air out of it.
+Statement II: Iron pyrites are generally avoided for extraction of iron due to environmental reasons.
+
+In the light of the above statements, choose the correct answer from the options given below.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** In froth flotation the rotating paddle draws air in and stirs the pulp, so Statement I (drives air out) is false. Iron pyrites contain sulphur, which would give SO$_2$ pollution, so it is avoided as an iron ore: Statement II is true.
+
+### § — JEE Main 2023 · 31 Jan Shift 1 · Metal set Q9 · MCQ
+
+The methods NOT involved in the concentration of ore are:
+
+(A) Liquation  (B) Leaching  (C) Electrolysis  (D) Hydraulic washing  (E) Froth flotation
+
+(1) B, D and C only  (2) C, D and E only  (3) A and C only  (4) B, D and E only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Hydraulic washing, froth flotation and leaching (e.g. of bauxite) are concentration methods. Liquation (refining by melting) and electrolysis (refining/extraction) are not: A and C.
+
+### § — JEE Main 2023 · 31 Jan Shift 2 · Metal set Q10 · MCQ
+
+Which one of the following statements is incorrect?
+
+(1) Boron and indium can be purified by the zone refining method.  (2) Van Arkel method is used to purify tungsten.  (3) Cast iron is obtained by melting pig iron with scrap iron and coke using a hot air blast.  (4) The malleable iron is prepared from cast iron by oxidising impurities in a reverberatory furnace.
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The van Arkel method purifies metals such as Ti, Zr and Hf (via the volatile iodides), not tungsten, so (2) is incorrect.
+

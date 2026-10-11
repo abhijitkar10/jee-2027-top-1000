@@ -17,3 +17,73 @@ The number of choices for $\Delta\in\{\wedge,\vee,\Rightarrow,\Leftrightarrow\}$
 - $\Delta=\Leftrightarrow$: $(p\Leftrightarrow\sim q)$ and $(\sim p\Leftrightarrow q)$ are both equivalent to $\sim(p\Leftrightarrow q)$, so the statement is $(p\Leftrightarrow q)\Rightarrow\sim(p\Leftrightarrow q)$, false when $p=q$.
 Two choices ($\vee$ and $\Rightarrow$).
 
+### § — JEE Main 2023 · 24 Jan Shift 2 · Logic set Q2 · MCQ
+
+Let $p$ and $q$ be two statements. Then $\sim\big(p\wedge(p\Rightarrow\sim q)\big)$ is equivalent to:
+
+(1) $p\vee(p\wedge(\sim q))$  (2) $p\vee((\sim p)\wedge q)$  (3) $(\sim p)\vee q$  (4) $p\vee(p\wedge q)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $p\Rightarrow\sim q\equiv\sim p\vee\sim q$. So $p\wedge(\sim p\vee\sim q)\equiv p\wedge\sim q$, whose negation is $\sim p\vee q$.
+
+### § — JEE Main 2023 · 25 Jan Shift 1 · Logic set Q3 · MCQ
+
+The statement $(p\wedge(\sim q))\Rightarrow(p\Rightarrow(\sim q))$ is:
+
+(1) equivalent to $(\sim p)\vee(\sim q)$  (2) a tautology  (3) equivalent to $p\vee q$  (4) a contradiction
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The antecedent $p\wedge\sim q$ is true only when $p$ is true and $q$ is false; then $p\Rightarrow\sim q$ is $T\Rightarrow T=T$. Whenever the antecedent is false the implication is true. So the statement is true in every case: a tautology.
+
+### § — JEE Main 2023 · 29 Jan Shift 1 · Logic set Q5 · MCQ
+
+If $p$, $q$ and $r$ are three propositions, then which of the following combinations of truth values of $p$, $q$ and $r$ makes the logical expression $\{(p\vee q)\wedge((\sim p)\vee r)\}\to((\sim q)\vee r)$ false?
+
+(1) $p=T,q=F,r=T$  (2) $p=T,q=T,r=F$  (3) $p=F,q=T,r=F$  (4) $p=T,q=F,r=F$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** An implication is false only when the antecedent is true and the consequent is false. $(\sim q)\vee r$ false needs $q=T$, $r=F$. Then $p\vee q=T$ and $(\sim p)\vee r=\sim p$ must be true, so $p=F$. The combination is $p=F$, $q=T$, $r=F$.
+
+### § — JEE Main 2023 · 30 Jan Shift 2 · Logic set Q8 · MCQ
+
+Consider the following statements: $P$: I have fever; $Q$: I will not take medicine; $R$: I will take rest. The statement "If I have fever, then I will take medicine and I will take rest" is equivalent to:
+
+(1) $((\sim P)\vee\sim Q)\wedge((\sim P)\vee R)$  (2) $((\sim P)\vee\sim Q)\wedge((\sim P)\vee\sim R)$  (3) $(P\vee Q)\wedge((\sim P)\vee R)$  (4) $(P\vee\sim Q)\wedge(P\vee\sim R)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** "I will take medicine" is $\sim Q$, so the statement is $P\Rightarrow(\sim Q\wedge R)\equiv\sim P\vee(\sim Q\wedge R)\equiv(\sim P\vee\sim Q)\wedge(\sim P\vee R)$ by distributivity.
+
+### § — JEE Main 2023 · 31 Jan Shift 1 · Logic set Q9 · MCQ
+
+Among the statements: (S1) $((p\vee q)\Rightarrow r)\Leftrightarrow(p\Rightarrow r)$ and (S2) $((p\vee q)\Rightarrow r)\Leftrightarrow((p\Rightarrow r)\vee(q\Rightarrow r))$:
+
+(1) Only (S1) is a tautology  (2) Neither (S1) nor (S2) is a tautology  (3) Only (S2) is a tautology  (4) Both (S1) and (S2) are tautologies
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $(p\vee q)\Rightarrow r\equiv(p\Rightarrow r)\wedge(q\Rightarrow r)$. (S1) fails for $p=F,q=T,r=F$: the left side is $F$ and $p\Rightarrow r$ is $T$. (S2) fails for $p=T,q=F,r=F$: the left side is $F$, while $(p\Rightarrow r)\vee(q\Rightarrow r)=F\vee T=T$. Neither is a tautology.
+
+### § — JEE Main 2023 · 1 Feb Shift 1 · Logic set Q11 · MCQ
+
+The negation of the expression $q\vee((\sim q)\wedge p)$ is equivalent to:
+
+(1) $(\sim p)\wedge(\sim q)$  (2) $p\wedge(\sim q)$  (3) $(\sim p)\vee(\sim q)$  (4) $(\sim p)\vee q$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $q\vee(\sim q\wedge p)\equiv(q\vee\sim q)\wedge(q\vee p)\equiv p\vee q$. Its negation (De Morgan) is $\sim p\wedge\sim q$.
+
+### § — JEE Main 2023 · 1 Feb Shift 2 · Logic set Q12 · MCQ
+
+Which of the following statements is a tautology?
+
+(1) $p\to(p\wedge(p\to q))$  (2) $(p\wedge q)\to(\sim(p)\to q)$  (3) $(p\wedge(p\to q))\to\sim q$  (4) $p\vee(p\wedge q)$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** In (2), if $p\wedge q$ is true then $q$ is true and so $\sim p\to q$ is true; if $p\wedge q$ is false the implication is true. It is always true. The others fail: (1) $p=T,q=F$ gives $T\to F$; (3) $p=T,q=T$ gives $T\to F$; (4) is false for $p=F$.
+
