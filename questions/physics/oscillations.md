@@ -193,3 +193,53 @@ A cylindrical block of mass $M$ and area of cross-section $A$ is floating in a l
 
 **Solution.** For a downward displacement $x$ the extra buoyant force is $\rho Agx$ (restoring), so $M\ddot x=-\rho Agx$, $\omega^2=\dfrac{\rho Ag}{M}$ and $T=2\pi\sqrt{\dfrac{M}{\rho Ag}}$.
 
+### § — JEE Main 2025 · Jan session · SHM set Q2 · MCQ
+
+Two bodies $A$ and $B$ of equal mass are suspended from two massless springs of spring constants $k_1$ and $k_2$ respectively. If the bodies oscillate vertically such that their amplitudes are equal, the ratio of the maximum velocity of $A$ to the maximum velocity of $B$ is:
+
+(1) $\dfrac{k_1}{k_2}$  (2) $\sqrt{\dfrac{k_1}{k_2}}$  (3) $\sqrt{\dfrac{k_2}{k_1}}$  (4) $\dfrac{k_2}{k_1}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $v_{max}=A\omega=A\sqrt{\dfrac km}$. For equal $A$ and $m$: $\dfrac{v_A}{v_B}=\sqrt{\dfrac{k_1}{k_2}}$.
+
+### § — JEE Main 2025 · Jan session · SHM set Q5 · MCQ
+
+A light hollow cube of side length 10 cm and mass 10 g is floating in water. It is pushed down and released to execute simple harmonic oscillations. The time period of oscillations is $y\pi\times10^{-2}$ s, where the value of $y$ is (acceleration due to gravity $g=10$ m/s$^2$, density of water $=10^3$ kg/m$^3$):
+
+(1) 6  (2) 2  (3) 4  (4) 1
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Displacing the cube down by $x$ increases the buoyant force by $\rho A g\,x$, so $m\ddot x=-\rho Ag\,x$ and $T=2\pi\sqrt{\dfrac m{\rho Ag}}=2\pi\sqrt{\dfrac{0.01}{10^3\times0.01\times10}}=2\pi\times10^{-2}$ s. So $y=2$.
+
+### § — JEE Main 2025 · Apr session · SHM set Q1 · MCQ
+
+A particle is subjected to two simple harmonic motions: $x_1=\sqrt7\sin5t$ cm and $x_2=2\sqrt7\sin\left(5t+\dfrac\pi3\right)$ cm, where $x$ is displacement and $t$ is time in seconds. The maximum acceleration of the particle is $x\times10^{-2}\ \text{m s}^{-2}$. The value of $x$ is:
+
+(1) 175  (2) $25\sqrt7$  (3) $5\sqrt7$  (4) 125
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The resultant amplitude is $A=\sqrt{A_1^2+A_2^2+2A_1A_2\cos\dfrac\pi3}=\sqrt{7+28+14}=7$ cm. Maximum acceleration $=\omega^2A=25\times7=175\ \text{cm/s}^2=175\times10^{-2}\ \text{m/s}^2$, so $x=175$.
+
+### § — JEE Main 2025 · Apr session · SHM set Q2 · MCQ
+
+Two simple pendulums having lengths $l_1$ and $l_2$ with negligible string mass undergo angular displacements $\theta_1$ and $\theta_2$ from their mean positions respectively. If the angular accelerations of both pendulums are the same, then which expression is correct?
+
+(1) $\theta_1l_2^2=\theta_2l_1^2$  (2) $\theta_1l_1=\theta_2l_2$  (3) $\theta_1l_1^2=\theta_2l_2^2$  (4) $\theta_1l_2=\theta_2l_1$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For small angles $\alpha=-\dfrac gl\,\theta$. Equal angular accelerations give $\dfrac{\theta_1}{l_1}=\dfrac{\theta_2}{l_2}$, i.e. $\theta_1l_2=\theta_2l_1$.
+
+### § — JEE Main 2025 · Apr session · SHM set Q3 · MCQ
+
+The amplitude and phase of a wave that is formed by the superposition of two harmonic travelling waves, $y_1(x,t)=4\sin(kx-\omega t)$ and $y_2(x,t)=2\sin\left(kx-\omega t+\dfrac{2\pi}3\right)$, are: (take the angular frequency of the initial waves to be the same, $\omega$)
+
+(1) $\left[6,\ \dfrac{2\pi}3\right]$  (2) $\left[6,\ \dfrac\pi3\right]$  (3) $\left[\sqrt3,\ \dfrac\pi6\right]$  (4) $\left[2\sqrt3,\ \dfrac\pi6\right]$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $A=\sqrt{4^2+2^2+2\cdot4\cdot2\cos\dfrac{2\pi}3}=\sqrt{20-8}=2\sqrt3$. Phase of the resultant: $\tan\phi=\dfrac{2\sin\frac{2\pi}3}{4+2\cos\frac{2\pi}3}=\dfrac{\sqrt3}{3}\Rightarrow\phi=\dfrac\pi6$.
+

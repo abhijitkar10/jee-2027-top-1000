@@ -220,3 +220,186 @@ The densities of water at $4^\circ$C and $20^\circ$C are $1000\ \text{kg/m}^3$ a
 
 **Solution.** Heat absorbed $Q=mc\Delta T=4\times4200\times16=268800$ J. Volume change $\Delta V=\dfrac{4}{998}-\dfrac{4}{1000}\approx8\times10^{-6}\ \text{m}^3$, so the expansion work against the atmosphere is $W=P\Delta V\approx0.8$ J. $\Delta U=Q-W=268799.2$ J.
 
+### § — JEE Main 2025 · Jan session · Thermo set Q2 · MCQ
+
+An ideal gas goes from an initial state to a final state. During the process, the pressure of the gas increases linearly with temperature (a straight line through the origin of the $P$–$T$ graph).
+
+A. The work done by the gas during the process is zero.
+B. The heat added to the gas is different from the change in its internal energy.
+C. The volume of the gas is increased.
+D. The internal energy of the gas is increased.
+E. The process is isochoric (constant volume process).
+
+Choose the correct answer from the options given below:
+
+(1) E only  (2) A, B, C, D only  (3) A, D, E only  (4) A, C only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $P\propto T$ gives $V=\dfrac{nRT}{P}=$ constant: the process is isochoric (E true). Hence $W=P\Delta V=0$ (A true), $Q=\Delta U$ so B is false, the volume does not change (C false), and since $T$ rises $\Delta U>0$ (D true). Correct: A, D, E only.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q4 · Numerical
+
+A container of fixed volume contains a gas at $27^\circ$C. To double the pressure of the gas, the temperature of the gas should be raised to ______ $^\circ$C.
+
+**Answer: 327** · key (compiled)
+
+**Solution.** At constant volume $P\propto T$ (kelvin). $T_2=2\times300=600$ K $=327^\circ$C.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q5 · MCQ
+
+For a diatomic gas, if $\gamma_1=\dfrac{C_p}{C_v}$ for rigid molecules and $\gamma_2=\dfrac{C_p}{C_v}$ for another diatomic gas whose molecules also have vibrational modes, then which one of the following options is correct? ($C_p$ and $C_v$ are the specific heats of the gas at constant pressure and volume.)
+
+(1) $\gamma_2=\gamma_1$  (2) $2\gamma_2=\gamma_1$  (3) $\gamma_2<\gamma_1$  (4) $\gamma_2>\gamma_1$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\gamma=1+\dfrac2f$. Rigid diatomic: $f=5$, $\gamma_1=\dfrac75$. A vibrational mode adds 2 degrees of freedom (kinetic + potential), so $f=7$ and $\gamma_2=\dfrac97<\dfrac75$. Hence $\gamma_2<\gamma_1$.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q6 · MCQ
+
+Using the given $P$–$V$ diagram, the work done by an ideal gas along the path $ABCD$ is:
+
+![Figure](../../figures/j25_phy_thermodynamics/q6-1.png)
+
+(1) $3P_0V_0$  (2) $-4P_0V_0$  (3) $-3P_0V_0$  (4) $4P_0V_0$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Work is the signed area under the path. $A\to B$ (isobaric expansion at $P_0$ from $2V_0$ to $3V_0$): $+P_0V_0$. $B\to C$ (isochoric): $0$. $C\to D$ (isobaric compression at $2P_0$ from $3V_0$ to $V_0$): $-2P_0\cdot2V_0=-4P_0V_0$. Total $=P_0V_0-4P_0V_0=-3P_0V_0$.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q7 · Numerical
+
+The temperature of 1 mole of an ideal monoatomic gas is increased by $50^\circ$C at constant pressure. The total heat added and the change in internal energy are $E_1$ and $E_2$ respectively. If $\dfrac{E_1}{E_2}=\dfrac x9$, then the value of $x$ is ______.
+
+**Answer: 15** · key (compiled)
+
+**Solution.** $E_1=C_p\Delta T=\tfrac52R\,\Delta T$ and $E_2=C_v\Delta T=\tfrac32R\,\Delta T$, so $\dfrac{E_1}{E_2}=\dfrac53=\dfrac{15}{9}$ and $x=15$.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q8 · MCQ
+
+The magnitude of heat exchanged by a system for the given cyclic process $ABCA$ (as shown in the figure) is (in SI units):
+
+![Figure](../../figures/j25_phy_thermodynamics/q8-1.png)
+
+(1) $5\pi$  (2) $40\pi$  (3) $10\pi$  (4) zero
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** For a complete cycle $\Delta U=0$, so $|Q|=|W|=$ area enclosed on the $P$–$V$ diagram. The cycle $ABCA$ is the upper half of a circle (centre at $V=300$ cc, $P=300$ kPa; radius 100 cc by 100 kPa) closed by the horizontal diameter $CA$. Area $=\tfrac12\pi(100\ \text{cc})(100\ \text{kPa})=\tfrac12\pi(10^{-4}\ \text{m}^3)(10^{5}\ \text{Pa})=5\pi$ J.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q9 · Numerical
+
+An ideal gas initially at $0^\circ$C is compressed suddenly to one fourth of its volume. If the ratio of the specific heat at constant pressure to that at constant volume is $\dfrac32$, the change in temperature due to the thermodynamic process is ______ K.
+
+**Answer: 273** · key (compiled)
+
+**Solution.** Sudden compression is adiabatic: $TV^{\gamma-1}=$ constant. $T_2=T_1\left(\dfrac{V_1}{V_2}\right)^{\gamma-1}=273\times4^{1/2}=546$ K, so $\Delta T=546-273=273$ K.
+
+### § — JEE Main 2025 · Jan session · Thermo set Q14 · MCQ
+
+A Carnot engine $E$ is working between two temperatures 473 K and 273 K. In a new system two engines work in series: engine $E_1$ works between 473 K and 373 K, and engine $E_2$ works between 373 K and 273 K. If $\eta_{12}$, $\eta_1$ and $\eta_2$ are the efficiencies of the engines $E$, $E_1$ and $E_2$ respectively, then:
+
+(1) $\eta_{12}=\eta_1\eta_2$  (2) $\eta_{12}\ge\eta_1+\eta_2$  (3) $\eta_{12}=\eta_1+\eta_2$  (4) $\eta_{12}<\eta_1+\eta_2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\eta_{12}=1-\dfrac{273}{473}=0.423$, $\eta_1=1-\dfrac{373}{473}=0.211$, $\eta_2=1-\dfrac{273}{373}=0.268$. So $\eta_1+\eta_2=0.479>\eta_{12}$ (while $\eta_1\eta_2=0.057$ is far smaller). Hence $\eta_{12}<\eta_1+\eta_2$.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q1 · MCQ
+
+Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| (A) Isobaric | (I) $\Delta Q=\Delta W$ |
+| (B) Isochoric | (II) $\Delta Q=\Delta U$ |
+| (C) Adiabatic | (III) $\Delta Q=$ zero |
+| (D) Isothermal | (IV) $\Delta Q=\Delta U+P\Delta V$ |
+
+($\Delta Q$ = heat supplied, $\Delta W$ = work done by the system, $\Delta U$ = change in internal energy, $P$ = pressure of the system, $\Delta V$ = change in volume of the system.)
+
+Choose the correct answer from the options given below:
+
+(1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)  (2) (A)-(IV), (B)-(I), (C)-(III), (D)-(II)  (3) (A)-(IV), (B)-(II), (C)-(III), (D)-(I)  (4) (A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** First law: $\Delta Q=\Delta U+\Delta W$. Isobaric: $\Delta W=P\Delta V$, so $\Delta Q=\Delta U+P\Delta V$ (IV). Isochoric: $\Delta W=0$, so $\Delta Q=\Delta U$ (II). Adiabatic: $\Delta Q=0$ (III). Isothermal (ideal gas): $\Delta U=0$, so $\Delta Q=\Delta W$ (I). So A-IV, B-II, C-III, D-I.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q2 · MCQ
+
+There are two vessels filled with an ideal gas, where the volume of one is double the volume of the other. The large vessel contains the gas at 8 kPa and 1000 K while the smaller vessel contains the gas at 7 kPa and 500 K. If the vessels are connected to each other by a thin tube allowing the gas to flow, and the temperature of both vessels is maintained at 600 K, then at steady state the pressure in the vessels will be (in kPa):
+
+(1) 4.4  (2) 6  (3) 24  (4) 18
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The total number of moles is conserved: $\dfrac{8\cdot2V}{R\,(1000)}+\dfrac{7\cdot V}{R\,(500)}=\dfrac{P'\cdot3V}{R\,(600)}$, i.e. $0.016+0.014=\dfrac{P'}{200}$, so $P'=6$ kPa.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q3 · Numerical
+
+The internal energy of air in a room of size $4\ \text{m}\times4\ \text{m}\times3\ \text{m}$ at 1 atmospheric pressure will be ______ $\times10^6$ J. (Consider air as diatomic molecules.)
+
+**Answer: 12** · key (compiled)
+
+**Solution.** For a diatomic gas $U=\dfrac52nRT=\dfrac52PV=\dfrac52\times1.01\times10^5\ \text{Pa}\times48\ \text{m}^3\approx1.2\times10^7$ J $=12\times10^6$ J.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q6 · MCQ
+
+Identify the characteristics of an adiabatic process in a monoatomic gas.
+
+(A) Internal energy is constant.
+(B) Work done in the process is equal to the change in internal energy.
+(C) The product of temperature and volume is a constant.
+(D) The product of pressure and volume is a constant.
+(E) The work done to change the temperature from $T_1$ to $T_2$ is proportional to $(T_2-T_1)$.
+
+Choose the correct answer from the options given below:
+
+(1) (A), (C), (D) only  (2) (A), (C), (E) only  (3) (B), (E) only  (4) (B), (D) only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Adiabatic means $Q=0$, so $W=-\Delta U$: the work equals the change in internal energy in magnitude (B true) and $U$ is not constant (A false). For a monoatomic gas $TV^{2/3}$ and $PV^{5/3}$ are constant, so (C) and (D) are false. $|W|=|\Delta U|=nC_v|T_2-T_1|$ is proportional to $(T_2-T_1)$ (E true). Correct: (B), (E) only.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q8 · MCQ
+
+The pressure of an ideal gas contained in a closed vessel is increased by 0.4% when heated by $1^\circ$C. Its initial temperature must be:
+
+(1) $25^\circ$C  (2) 2500 K  (3) 250 K  (4) $250^\circ$C
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At constant volume $\dfrac{\Delta P}{P}=\dfrac{\Delta T}{T}$, so $T=\dfrac{\Delta T}{\Delta P/P}=\dfrac{1\ \text K}{0.004}=250$ K.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q9 · Numerical
+
+An ideal gas has undergone the cyclic process shown in the figure. The work done by the gas in the entire cycle is ______ $\times10^{-1}$ J. (Take $\pi=3.14$.)
+
+![Figure](../../figures/a25_phy_thermodynamics/q9-1.png)
+
+**Answer: 314** · key (compiled)
+
+**Solution.** The work in a cycle equals the area enclosed by the loop on the $P$–$V$ diagram. The loop is a circle whose "radii" are 100 kPa (along $P$) and 100 cm$^3$ (along $V$): area $=\pi(100\times10^3\ \text{Pa})(100\times10^{-6}\ \text{m}^3)=10\pi=31.4$ J $=314\times10^{-1}$ J.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q11 · MCQ
+
+A monoatomic gas having $\gamma=\dfrac53$ is stored in a thermally insulated container and the gas is suddenly compressed to $\left(\dfrac18\right)^{\text{th}}$ of its initial volume. The ratio of the final pressure and the initial pressure is: ($\gamma$ is the ratio of specific heats of the gas at constant pressure and at constant volume)
+
+(1) 16  (2) 40  (3) 32  (4) 28
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Sudden compression in an insulated container is adiabatic: $PV^\gamma=$ constant. $\dfrac{P_2}{P_1}=\left(\dfrac{V_1}{V_2}\right)^{5/3}=8^{5/3}=2^5=32$.
+
+### § — JEE Main 2025 · Apr session · Thermo set Q12 · MCQ
+
+An ideal gas exists in a state with pressure $P_0$ and volume $V_0$. It is isothermally expanded to 4 times its initial volume, then isobarically compressed to its original volume. Finally the system is heated isochorically to bring it back to its initial state. The amount of heat exchanged in this process is:
+
+(1) $P_0V_0(2\ln2-0.75)$  (2) $P_0V_0(\ln2-0.75)$  (3) $P_0V_0(\ln2-0.25)$  (4) $P_0V_0(2\ln2-0.25)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Over the whole cycle $\Delta U=0$, so $Q=W$. Isothermal expansion to $4V_0$: $W_1=P_0V_0\ln4=2P_0V_0\ln2$, and the pressure falls to $\dfrac{P_0}4$. Isobaric compression at $\dfrac{P_0}4$ from $4V_0$ to $V_0$: $W_2=\dfrac{P_0}4(V_0-4V_0)=-0.75P_0V_0$. Isochoric heating: $W_3=0$. Net $Q=W=P_0V_0(2\ln2-0.75)$.
+

@@ -174,3 +174,83 @@ Two strings $A$ and $B$ of linear densities $\mu_A=2\times10^{-4}$ kg/m and $\mu
 
 **Solution.** Wave speed $v=\sqrt{T/\mu}$, so $t=L\sqrt{\mu/T}$. $\dfrac{t_1}{t_2}=\dfrac{L_A}{L_B}\sqrt{\dfrac{\mu_A}{\mu_B}}=\dfrac{2.5}{1.5}\times\dfrac{1}{\sqrt2}=1.18$.
 
+### § — JEE Main 2025 · Jan session · Waves set Q1 · MCQ
+
+The equation of a transverse wave travelling along a string is $y(x,t)=4.0\sin\left[20\times10^{-3}x+600t\right]$ mm, where $x$ is in mm and $t$ is in seconds. The velocity of the wave is:
+
+(1) $-60$ m/s  (2) $-30$ m/s  (3) $+30$ m/s  (4) $+60$ m/s
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Here $k=20\times10^{-3}\ \text{mm}^{-1}$ and $\omega=600\ \text{s}^{-1}$, so $|v|=\dfrac\omega k=\dfrac{600}{0.02}=3\times10^4\ \text{mm/s}=30$ m/s. The argument is $kx+\omega t$, so the wave travels in the negative $x$-direction: $v=-30$ m/s.
+
+### § — JEE Main 2025 · Jan session · Waves set Q2 · MCQ
+
+A closed organ tube and an open organ tube are filled by two different gases having the same bulk modulus but different densities $\rho_1$ and $\rho_2$ respectively. The frequency of the 9th harmonic of the closed tube is identical to that of the 4th harmonic of the open tube. If the length of the closed tube is 10 cm and the density ratio of the gases is $\rho_1:\rho_2=1:16$, then the length of the open tube is:
+
+(1) $\dfrac{15}7$ cm  (2) $\dfrac{20}7$ cm  (3) $\dfrac{15}9$ cm  (4) $\dfrac{20}9$ cm
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Speed of sound $v=\sqrt{B/\rho}$, so $\dfrac{v_1}{v_2}=\sqrt{\dfrac{\rho_2}{\rho_1}}=4$. Closed tube, 9th harmonic: $f=\dfrac{9v_1}{4L_1}$. Open tube, 4th harmonic: $f=\dfrac{4v_2}{2L_2}$. Equating, $L_2=\dfrac{2v_2\cdot4L_1}{9v_1}=\dfrac{8\times10}{9\times4}=\dfrac{20}9$ cm.
+
+### § — JEE Main 2025 · Apr session · Waves set Q2 · MCQ
+
+Two strings with circular cross-section and made of the same material are stretched to have the same amount of tension. A transverse wave is then made to pass through both strings. The velocity of the wave in the first string, having radius of cross-section $R$, is $v_1$, and that in the other string, having radius of cross-section $R/2$, is $v_2$. Then $\dfrac{v_2}{v_1}=$
+
+(1) $\sqrt2$  (2) 2  (3) 8  (4) 4
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $v=\sqrt{T/\mu}$ with $\mu=\rho\pi r^2$. For the same tension and material, $v\propto\dfrac1r$. Hence $\dfrac{v_2}{v_1}=\dfrac{R}{R/2}=2$.
+
+### § — JEE Main 2025 · Apr session · Waves set Q3 · MCQ
+
+A sinusoidal wave of wavelength 7.5 cm travels a distance of 1.2 cm along the $x$-direction in 0.3 s. The crest $P$ is at $x=0$ at $t=0$ s and the maximum displacement of the wave is 2 cm. Which equation correctly represents this wave?
+
+(1) $y=2\cos(0.83x-3.35t)$ cm  (2) $y=2\sin(0.83x-3.5t)$ cm  (3) $y=2\cos(3.35x-0.83t)$ cm  (4) $y=2\cos(0.13x-0.5t)$ cm
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Wave speed $v=\dfrac{1.2}{0.3}=4$ cm/s. $k=\dfrac{2\pi}\lambda=\dfrac{2\pi}{7.5}=0.84\approx0.83\ \text{cm}^{-1}$ and $\omega=kv=0.84\times4\approx3.35\ \text{s}^{-1}$. A crest at $x=0$, $t=0$ means $y=A\cos(kx-\omega t)$ for a wave travelling in $+x$. So $y=2\cos(0.83x-3.35t)$ cm.
+
+### § — JEE Main 2025 · Apr session · Waves set Q4 · MCQ
+
+The displacement of a wave is expressed as $x(t)=5\cos\left(628t+\dfrac\pi2\right)$ m. The wavelength of the wave when its velocity is 300 m/s is:
+
+(1) 5 m  (2) 3 m  (3) 0.5 m  (4) 0.33 m
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\omega=628\ \text{s}^{-1}\Rightarrow f=\dfrac{628}{2\pi}=100$ Hz. $\lambda=\dfrac vf=\dfrac{300}{100}=3$ m.
+
+### § — JEE Main 2025 · Apr session · Waves set Q5 · MCQ
+
+In the resonance experiment, two air columns (closed at one end) of 100 cm and 120 cm length give 15 beats per second when each one is sounding in its fundamental mode. The velocity of sound in the air column is:
+
+(1) 335 m/s  (2) 370 m/s  (3) 340 m/s  (4) 360 m/s
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Fundamental of a closed column $f=\dfrac v{4L}$. Beat frequency $=\dfrac v4\left(\dfrac1{1.0}-\dfrac1{1.2}\right)=\dfrac v4\cdot\dfrac16=\dfrac v{24}=15\Rightarrow v=360$ m/s.
+
+### § — JEE Main 2025 · Apr session · Waves set Q6 · MCQ
+
+In an experiment with a closed organ pipe, it is filled with water up to $\left(\dfrac15\right)$th of its volume. The frequency of the fundamental note will change by:
+
+(1) 25%  (2) 20%  (3) $-20\%$  (4) $-25\%$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The air column shortens from $L$ to $\dfrac45L$. For a closed pipe $f=\dfrac v{4L}\propto\dfrac1L$, so $f'=\dfrac54f$: the frequency increases by 25%.
+
+### § — JEE Main 2025 · Apr session · Waves set Q8 · MCQ
+
+Two harmonic waves moving in the same direction superimpose to form a wave $x=a\cos(1.5t)\cos(50.5t)$, where $t$ is in seconds. Find the period with which they beat (close to the nearest integer).
+
+(1) 6 s  (2) 4 s  (3) 1 s  (4) 2 s
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\cos(1.5t)\cos(50.5t)=\tfrac12[\cos(52t)+\cos(49t)]$, so the component angular frequencies are 52 and 49 rad/s. Beat angular frequency $=52-49=3$ rad/s, so the beat period is $\dfrac{2\pi}{3}\approx2.1\approx2$ s.
+

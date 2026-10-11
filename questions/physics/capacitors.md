@@ -128,3 +128,116 @@ A parallel plate capacitor has capacitance $C$ when there is vacuum between the 
 
 **Solution.** The system is two capacitors in series: vacuum region of thickness $\tfrac{2d}{3}$, $C_1=\tfrac32C$, and the dielectric region of thickness $\tfrac d3$, $C_2=3KC$. $\dfrac1{C_{new}}=\dfrac{2}{3C}+\dfrac1{3KC}=\dfrac{2K+1}{3KC}\Rightarrow C_{new}=\dfrac{3KC}{2K+1}$.
 
+### § — JEE Main 2025 · Jan session · Cap set Q2 · Numerical
+
+At steady state the charge on the capacitor, as shown in the circuit below, is ______ $\mu$C.
+
+![Figure](../../figures/j25_phy_capacitance/q2-1.png)
+
+**Answer: 16** · key (compiled)
+
+**Solution.** At steady state no current flows through the capacitor branch. The 10 $\Omega$ and 15 $\Omega$ resistors are in series with the 5 V battery: $I=\dfrac5{10+15}=0.2$ A. The capacitor is connected across the 10 $\Omega$ resistor only, so $V=0.2\times10=2$ V and $Q=CV=8\ \mu\text{F}\times2\ \text V=16\ \mu$C.
+
+### § — JEE Main 2025 · Jan session · Cap set Q3 · MCQ
+
+A parallel-plate capacitor of capacitance 40 $\mu$F is connected to a 100 V power supply. Now the intermediate space between the plates is filled with a dielectric material of dielectric constant $K=2$. Due to the introduction of the dielectric material, the extra charge and the change in the electrostatic energy in the capacitor, respectively, are:
+
+(1) 4 mC and 0.2 J  (2) 8 mC and 2.0 J  (3) 2 mC and 0.4 J  (4) 2 mC and 0.2 J
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The supply stays connected, so $V=100$ V is fixed and $C'=KC=80\ \mu$F. Extra charge $\Delta Q=(C'-C)V=40\times10^{-6}\times100=4$ mC. Change in energy $\Delta U=\tfrac12(C'-C)V^2=\tfrac12\times40\times10^{-6}\times10^4=0.2$ J.
+
+### § — JEE Main 2025 · Jan session · Cap set Q7 · MCQ
+
+Identify the valid statements relevant to the given circuit at the instant when the key is closed.
+
+A. There will be no current through resistor $R$.
+B. There will be maximum current in the connecting wires.
+C. Potential difference between the capacitor plates $A$ and $B$ is minimum.
+D. Charge on the capacitor plates is minimum.
+
+Choose the correct answer from the options given below:
+
+![Figure](../../figures/j25_phy_capacitance/q7-1.png)
+
+(1) A, C only  (2) A, B, D only  (3) C, D only  (4) B, C, D only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Just after the key is closed the uncharged capacitor behaves like a short circuit: its charge $q=0$ and $V_C=0$ are both at their minimum, so the full 5 V is across $R$ and the current $I=5/R$ is at its maximum. Hence B, C and D are correct; A is false.
+
+### § — JEE Main 2025 · Jan session · Cap set Q8 · MCQ
+
+A parallel-plate capacitor was made with two rectangular plates, each of length $l=3$ cm and breadth $b=1$ cm. The distance between the plates is $3\ \mu$m. Which of the following are ways to increase the capacitance by a factor of 10?
+
+A. $l=30$ cm, $b=1$ cm, $d=1\ \mu$m
+B. $l=3$ cm, $b=1$ cm, $d=30\ \mu$m
+C. $l=6$ cm, $b=5$ cm, $d=3\ \mu$m
+D. $l=1$ cm, $b=1$ cm, $d=10\ \mu$m
+E. $l=5$ cm, $b=2$ cm, $d=1\ \mu$m
+
+Choose the correct answer from the options given below:
+
+(1) A only  (2) C only  (3) B and D only  (4) C and E only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $C=\dfrac{\varepsilon_0lb}{d}\propto\dfrac{lb}{d}$. Original: $\dfrac{3\times1}{3}=1$. A: $\dfrac{30\times1}{1}=30$; B: $\dfrac3{30}=0.1$; C: $\dfrac{6\times5}3=10$ ✓; D: $\dfrac1{10}=0.1$; E: $\dfrac{5\times2}1=10$ ✓. So C and E.
+
+### § — JEE Main 2025 · Jan session · Cap set Q10 · MCQ
+
+A capacitor $C_1=6\ \mu$F is charged to a potential difference of $V_0=5$ V using a 5 V battery. The battery is removed and another capacitor $C_2=12\ \mu$F is inserted in its place. When the switch $S$ is closed, charge flows between the capacitors until equilibrium is reached. What are the charges ($q_1$ and $q_2$) on the capacitors $C_1$ and $C_2$ when equilibrium is reached?
+
+![Figure](../../figures/j25_phy_capacitance/q10-1.png)
+
+(1) $q_1=10\ \mu$C, $q_2=20\ \mu$C  (2) $q_1=30\ \mu$C, $q_2=15\ \mu$C  (3) $q_1=20\ \mu$C, $q_2=10\ \mu$C  (4) $q_1=15\ \mu$C, $q_2=30\ \mu$C
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Initially only $C_1$ is charged: $Q=C_1V_0=30\ \mu$C. At equilibrium the two capacitors (in parallel) share a common potential $V=\dfrac Q{C_1+C_2}=\dfrac{30}{18}=\dfrac53$ V. Then $q_1=C_1V=10\ \mu$C and $q_2=C_2V=20\ \mu$C.
+
+### § — JEE Main 2025 · Apr session · Cap set Q2 · MCQ
+
+A parallel-plate capacitor is filled equally (half) with two dielectrics of dielectric constants $\varepsilon_1$ and $\varepsilon_2$, as shown in the figures. The distance between the plates is $d$ and the area of each plate is $A$. If the capacitances in the first and second configurations are $C_1$ and $C_2$ respectively, then $\dfrac{C_1}{C_2}$ is:
+
+![Figure](../../figures/a25_phy_capacitance/q2-1.png)
+
+![Figure](../../figures/a25_phy_capacitance/q2-2.png)
+
+(1) $\dfrac{\varepsilon_1\varepsilon_2^2}{(\varepsilon_1+\varepsilon_2)^2}$  (2) $\dfrac{4\varepsilon_1\varepsilon_2}{(\varepsilon_1+\varepsilon_2)^2}$  (3) $\dfrac{\varepsilon_1\varepsilon_2}{\varepsilon_1+\varepsilon_2}$  (4) $\dfrac{\varepsilon_0(\varepsilon_1+\varepsilon_2)}2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** First configuration: two layers of thickness $d/2$ in series, $C_1=\dfrac{\varepsilon_0A}{\frac d{2\varepsilon_1}+\frac d{2\varepsilon_2}}=\dfrac{2\varepsilon_0A}{d}\cdot\dfrac{\varepsilon_1\varepsilon_2}{\varepsilon_1+\varepsilon_2}$. Second configuration: two halves of area $A/2$ in parallel, $C_2=\dfrac{\varepsilon_0A}{2d}(\varepsilon_1+\varepsilon_2)$. Hence $\dfrac{C_1}{C_2}=\dfrac{4\varepsilon_1\varepsilon_2}{(\varepsilon_1+\varepsilon_2)^2}$.
+
+### § — JEE Main 2025 · Apr session · Cap set Q4 · MCQ
+
+Three parallel plate capacitors $C_1$, $C_2$ and $C_3$, each of capacitance $5\ \mu$F, are connected as shown in the figure. The effective capacitance between points $A$ and $B$, when the space between the plates of $C_1$ is filled with a dielectric medium of dielectric constant 4, is:
+
+![Figure](../../figures/a25_phy_capacitance/q4-1.png)
+
+(1) 22.5 $\mu$F  (2) 7.5 $\mu$F  (3) 9 $\mu$F  (4) 30 $\mu$F
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** With the dielectric, $C_1'=4\times5=20\ \mu$F. $C_1'$ and $C_2$ are in series: $\dfrac{20\times5}{20+5}=4\ \mu$F. This branch is in parallel with $C_3=5\ \mu$F (connected directly between $A$ and $B$): $C_{AB}=4+5=9\ \mu$F.
+
+### § — JEE Main 2025 · Apr session · Cap set Q5 · Numerical
+
+The space between the plates of a parallel-plate capacitor of plate area 4 cm$^2$ and separation $d=1.77$ mm is filled with uniform dielectric materials of dielectric constants 3 and 5 (each of thickness $d/2$), as shown in the figure. Another capacitor of capacitance 7.5 pF is connected in parallel with it. The effective capacitance of this combination is ______ pF. (Given $\varepsilon_0=8.85\times10^{-12}$ F/m)
+
+![Figure](../../figures/a25_phy_capacitance/q5-1.png)
+
+**Answer: 15** · key (compiled)
+
+**Solution.** $\dfrac{\varepsilon_0A}{d}=\dfrac{8.85\times10^{-12}\times4\times10^{-4}}{1.77\times10^{-3}}=2$ pF. The two layers are in series: $C_a=\dfrac{5\varepsilon_0A}{d/2}=20$ pF and $C_b=\dfrac{3\varepsilon_0A}{d/2}=12$ pF, so $C_{series}=\dfrac{20\times12}{32}=7.5$ pF. Adding the parallel capacitor: $7.5+7.5=15$ pF.
+
+### § — JEE Main 2025 · Apr session · Cap set Q6 · Numerical
+
+A parallel-plate capacitor has charge $5\times10^{-6}$ C. A dielectric slab is inserted between the plates and almost fills the space between the plates. If the induced charge on one face of the slab is $4\times10^{-6}$ C, then the dielectric constant of the slab is ______.
+
+**Answer: 5** · key (compiled)
+
+**Solution.** The free charge $Q$ on the plates is unchanged, and the induced (bound) charge on a face of the slab is $Q_i=Q\left(1-\dfrac1K\right)$. So $4=5\left(1-\dfrac1K\right)\Rightarrow\dfrac1K=\dfrac15\Rightarrow K=5$.
+

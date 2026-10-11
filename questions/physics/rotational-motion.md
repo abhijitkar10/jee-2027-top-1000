@@ -322,3 +322,171 @@ Two masses of $400$ g and $350$ g are suspended from the ends of a light string 
 
 **Solution.** $a=\dfrac{2s}{t^2}=\dfrac{2\times0.81}{81}=0.02\ \text{m/s}^2$. For the masses and pulley: $(m_1-m_2)g-(m_1+m_2)a=\dfrac{Ia}{R^2}$, i.e. $0.05\times9.8-0.75\times0.02=50\,I\Rightarrow0.475=50I\Rightarrow I=9.5\times10^{-3}\ \text{kg m}^2$.
 
+### § — JEE Main 2025 · Jan session · Rot set Q1 · MCQ
+
+The torque due to the force $(2\hat i+\hat j+2\hat k)$ about the origin, acting on a particle whose position vector is $(\hat i+\hat j+\hat k)$, would be:
+
+(1) $\hat i-\hat k$  (2) $\hat i+\hat k$  (3) $\hat j+\hat k$  (4) $\hat i-\hat j+\hat k$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec\tau=\vec r\times\vec F=\begin{vmatrix}\hat i&\hat j&\hat k\\1&1&1\\2&1&2\end{vmatrix}=\hat i(2-1)-\hat j(2-2)+\hat k(1-2)=\hat i-\hat k$.
+
+### § — JEE Main 2025 · Jan session · Rot set Q3 · MCQ
+
+A uniform circular disc of radius $R$ and mass $M$ is rotating about an axis perpendicular to its plane and passing through its centre. A small circular part of radius $R/2$ is removed from the original disc as shown in the figure. Find the moment of inertia of the remaining part of the original disc about the axis.
+
+![Figure](../../figures/j25_phy_rotational-motion/q3-1.png)
+
+(1) $\dfrac7{32}MR^2$  (2) $\dfrac9{32}MR^2$  (3) $\dfrac{17}{32}MR^2$  (4) $\dfrac{13}{32}MR^2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The removed disc (radius $R/2$, centre at $R/2$ from the axis) has mass $\dfrac M4$ (mass $\propto$ area). By subtraction and the parallel-axis theorem: $I=\tfrac12MR^2-\left[\tfrac12\cdot\tfrac M4\left(\tfrac R2\right)^2+\tfrac M4\left(\tfrac R2\right)^2\right]=\tfrac12MR^2-\tfrac3{32}MR^2=\tfrac{13}{32}MR^2$.
+
+### § — JEE Main 2025 · Jan session · Rot set Q5 · Numerical
+
+Two iron solid discs of negligible (equal) thickness have radii $R_1$ and $R_2$ and moments of inertia $I_1$ and $I_2$ respectively. For $R_2=2R_1$, the ratio $I_1:I_2$ would be $1/x$, where $x=$ ______.
+
+**Answer: 16** · key (compiled)
+
+**Solution.** Same material and thickness give mass $m\propto R^2$, and $I=\tfrac12mR^2\propto R^4$. So $\dfrac{I_1}{I_2}=\left(\dfrac{R_1}{R_2}\right)^4=\dfrac1{16}$ and $x=16$.
+
+### § — JEE Main 2025 · Jan session · Rot set Q7 · MCQ
+
+An object of mass $m$ is projected from the origin in a vertical $xy$-plane at an angle $45^\circ$ with the $x$-axis with an initial velocity $v_0$. The magnitude and direction of the angular momentum of the object with respect to the origin, when it reaches the maximum height, will be [$g$ is the acceleration due to gravity]:
+
+(1) $\dfrac{mv_0^3}{2\sqrt2\,g}$ along negative $z$-axis  (2) $\dfrac{mv_0^3}{4\sqrt2\,g}$ along positive $z$-axis  (3) $\dfrac{mv_0^3}{4\sqrt2\,g}$ along negative $z$-axis  (4) $\dfrac{mv_0^3}{2\sqrt2\,g}$ along positive $z$-axis
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At the highest point the velocity is horizontal, $v=v_0\cos45^\circ=\dfrac{v_0}{\sqrt2}$, and the height is $H=\dfrac{v_0^2\sin^245^\circ}{2g}=\dfrac{v_0^2}{4g}$. $\vec L=\vec r\times m\vec v=m(x\hat i+H\hat j)\times v\hat i=-mvH\,\hat k$, so $|L|=m\cdot\dfrac{v_0}{\sqrt2}\cdot\dfrac{v_0^2}{4g}=\dfrac{mv_0^3}{4\sqrt2\,g}$, directed along the negative $z$-axis (the particle moves clockwise about the origin).
+
+### § — JEE Main 2025 · Jan session · Rot set Q10 · MCQ
+
+A circular disk of radius $R$ metres and mass $M$ kg is rotating about the axis perpendicular to the disk. An external torque is applied to the disk such that $\theta(t)=5t^2-8t$, where $\theta(t)$ is the angular position of the disc as a function of time $t$. How much power is delivered by the applied torque when $t=2$ s?
+
+(1) $72MR^2$  (2) $8MR^2$  (3) $108MR^2$  (4) $60MR^2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\omega=\dfrac{d\theta}{dt}=10t-8$ and $\alpha=10$ rad/s$^2$. With $I=\tfrac12MR^2$, $\tau=I\alpha=5MR^2$. At $t=2$ s, $\omega=12$ rad/s, so $P=\tau\omega=5MR^2\times12=60MR^2$.
+
+### § — JEE Main 2025 · Jan session · Rot set Q12 · MCQ
+
+Three equal masses $m$ are kept at the vertices $A$, $B$, $C$ of an equilateral triangle of side $a$ in free space (figure). At $t=0$ they are given initial velocities $\vec V_A=V_0\widehat{AC}$, $\vec V_B=V_0\widehat{BA}$ and $\vec V_C=V_0\widehat{CB}$, where $\widehat{AC}$, $\widehat{CB}$, $\widehat{BA}$ are unit vectors along the edges. If the three masses interact gravitationally, then the magnitude of the net angular momentum of the system at the point of collision is:
+
+![Figure](../../figures/j25_phy_rotational-motion/q12-1.png)
+
+(1) $3amV_0$  (2) $\dfrac32amV_0$  (3) $\dfrac{\sqrt3}2amV_0$  (4) $\dfrac12amV_0$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The gravitational forces are internal, so the angular momentum about the centroid is conserved and equals its initial value. Each velocity $V_0$ lies along an edge, at perpendicular distance equal to the inradius $\dfrac a{2\sqrt3}$ from the centroid, and all three have the same sense (A→C, C→B, B→A). $L=3\,mV_0\cdot\dfrac a{2\sqrt3}=\dfrac{\sqrt3}2\,amV_0$. At the instant of collision all three coincide at the centroid, and this total is what the system carries.
+
+### § — JEE Main 2025 · Jan session · Rot set Q13 · MCQ
+
+A solid sphere of mass $m$ and radius $r$ is allowed to roll without slipping from the highest point of an inclined plane of length $L$ making an angle $30^\circ$ with the horizontal. The speed of the particle at the bottom of the plane is $v_1$. If the angle of inclination is increased to $45^\circ$ while keeping $L$ constant, then the new speed of the sphere at the bottom of the plane is $v_2$. The ratio $v_1^2:v_2^2$ is:
+
+(1) $1:\sqrt2$  (2) $1:\sqrt3$  (3) $1:3$  (4) $1:2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Energy conservation for rolling: $mgL\sin\theta=\tfrac12mv^2\left(1+\tfrac25\right)\Rightarrow v^2=\tfrac{10}7gL\sin\theta\propto\sin\theta$. So $v_1^2:v_2^2=\sin30^\circ:\sin45^\circ=\tfrac12:\tfrac1{\sqrt2}=1:\sqrt2$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q1 · MCQ
+
+The moment of inertia of a circular ring of mass $M$ and diameter $r$ about a tangential axis lying in the plane of the ring is:
+
+(1) $\tfrac12Mr^2$  (2) $\tfrac38Mr^2$  (3) $\tfrac32Mr^2$  (4) $2Mr^2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The radius is $R=\dfrac r2$. About a diameter $I=\tfrac12MR^2$; the tangent in the plane is parallel to a diameter at distance $R$, so $I=\tfrac12MR^2+MR^2=\tfrac32MR^2=\tfrac32M\dfrac{r^2}4=\tfrac38Mr^2$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q2 · Numerical
+
+A wheel of radius 0.2 m rotates freely about its centre when a string wrapped over its rim is pulled by a force of 10 N as shown in the figure. The established torque produces an angular acceleration of 2 rad/s$^2$. The moment of inertia of the wheel is ______ kg m$^2$. (Acceleration due to gravity $=10$ m/s$^2$)
+
+![Figure](../../figures/a25_phy_rotational-motion/q2-1.png)
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $\tau=FR=10\times0.2=2$ N m, so $I=\dfrac\tau\alpha=\dfrac2{2}=1$ kg m$^2$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q4 · MCQ
+
+The moment of inertia of a rod of mass $M$ and length $L$ about an axis passing through its centre and normal to its length is $\alpha$. Now the rod is cut into two equal parts and these parts are joined symmetrically to form a cross shape. The moment of inertia of the cross about an axis passing through its centre and normal to the plane containing the cross is:
+
+(1) $\alpha$  (2) $\alpha/4$  (3) $\alpha/8$  (4) $\alpha/2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\alpha=\dfrac{ML^2}{12}$. Each half has mass $\dfrac M2$ and length $\dfrac L2$; about the normal through its own centre (which is the common centre of the cross) $I=\dfrac1{12}\cdot\dfrac M2\left(\dfrac L2\right)^2=\dfrac{ML^2}{96}=\dfrac\alpha8$. The two halves add: $I=2\cdot\dfrac\alpha8=\dfrac\alpha4$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q5 · Numerical
+
+$A$, $B$ and $C$ are a disc, a solid sphere and a spherical shell respectively, with the same radii and masses, placed as shown in the figure. The moment of inertia of the given system about $PQ$ is $\dfrac x{15}I$, where $I$ is the moment of inertia of the disc about its diameter. The value of $x$ is ______.
+
+![Figure](../../figures/a25_phy_rotational-motion/q5-1.png)
+
+**Answer: 199** · key (compiled)
+
+**Solution.** With $I=\tfrac14MR^2$. The axis $PQ$ passes through the centre of $A$ (along a diameter of the disc) and touches $B$ and $C$, so it is at distance $R$ from their centres. $I_A=\tfrac14MR^2$; $I_B=\tfrac25MR^2+MR^2=\tfrac75MR^2$; $I_C=\tfrac23MR^2+MR^2=\tfrac53MR^2$. Total $=MR^2\left(\tfrac14+\tfrac75+\tfrac53\right)=\tfrac{199}{60}MR^2=\tfrac{199}{15}\cdot\tfrac{MR^2}4=\tfrac{199}{15}I$. So $x=199$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q7 · MCQ
+
+A square lamina $OABC$ of side 10 cm is pivoted at $O$. Forces act on the lamina as shown in the figure. If the lamina remains stationary, then the magnitude of $F$ is:
+
+![Figure](../../figures/a25_phy_rotational-motion/q7-1.png)
+
+(1) 20 N  (2) 0 (zero)  (3) 10 N  (4) $10\sqrt2$ N
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Rotational equilibrium about the pivot $O$ ($\ell=10$ cm, anticlockwise positive). Forces whose lines of action pass through $O$ (the rightward 10 N at $A$ and the upward 10 N at $C$) give no torque. At $B$ the upward 10 N gives $+10\ell$ and the rightward 10 N gives $-10\ell$ (cancel). The downward 10 N at $A$ gives $-10\ell$ and $F$ (acting leftward at height $\ell$) gives $+F\ell$. Hence $F\ell-10\ell=0\Rightarrow F=10$ N.
+
+### § — JEE Main 2025 · Apr session · Rot set Q8 · MCQ
+
+A force of 49 N acts tangentially at the highest point of a solid sphere of mass 20 kg, kept on a rough horizontal plane. If the sphere rolls without slipping, then the acceleration of the centre of the sphere is:
+
+![Figure](../../figures/a25_phy_rotational-motion/q8-1.png)
+
+(1) 3.5 m/s$^2$  (2) 0.35 m/s$^2$  (3) 2.5 m/s$^2$  (4) 0.25 m/s$^2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Take torques about the point of contact (instantaneous axis): $F\cdot2R=I_P\alpha$ with $I_P=\tfrac25mR^2+mR^2=\tfrac75mR^2$ and $\alpha=\dfrac aR$. So $a=\dfrac{10F}{7m}=\dfrac{10\times49}{7\times20}=3.5\ \text{m/s}^2$.
+
+### § — JEE Main 2025 · Apr session · Rot set Q9 · MCQ
+
+A cord of negligible mass is wound around the rim of a wheel supported by spokes of negligible mass. The mass of the wheel is 10 kg and its radius is 10 cm, and it can rotate freely without any friction. Initially the wheel is at rest. If a steady pull of 20 N is applied on the cord, the angular velocity of the wheel, after the cord is unwound by 1 m, would be:
+
+![Figure](../../figures/a25_phy_rotational-motion/q9-1.png)
+
+(1) 20 rad/s  (2) 30 rad/s  (3) 10 rad/s  (4) 0 rad/s
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** With massless spokes all the mass sits on the rim, so $I=mR^2=10\times0.1^2=0.1$ kg m$^2$. Work done by the pull $=F\cdot s=20\times1=20$ J $=\tfrac12I\omega^2$, so $\omega^2=\dfrac{2\times20}{0.1}=400$ and $\omega=20$ rad/s.
+
+### § — JEE Main 2025 · Apr session · Rot set Q14 · MCQ
+
+A wheel is rolling on a plane surface. The speed of a particle on the highest point of the rim is 8 m/s. The speed of a particle on the rim of the wheel at the same level as the centre of the wheel will be:
+
+(1) $4\sqrt2$ m/s  (2) 8 m/s  (3) 4 m/s  (4) $8\sqrt2$ m/s
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** For pure rolling the top point moves at $2v_{cm}$, so $v_{cm}=\omega R=4$ m/s. A rim point level with the centre has velocity $v_{cm}$ (forward) plus $\omega R$ (vertical): speed $=\sqrt{4^2+4^2}=4\sqrt2$ m/s.
+
+### § — JEE Main 2025 · Apr session · Rot set Q15 · Numerical
+
+$M$ and $R$ are the mass and radius of a disc. A small disc of radius $R/3$ is removed from the bigger disc as shown in the figure. The moment of inertia of the remaining part of the bigger disc about an axis $AB$ passing through the centre $O$ and perpendicular to the plane of the disc is $\dfrac4x MR^2$. The value of $x$ is ______.
+
+![Figure](../../figures/a25_phy_rotational-motion/q15-1.png)
+
+**Answer: 9** · key (compiled)
+
+**Solution.** The removed disc has mass $\dfrac M9$ (area ratio $\tfrac19$) and its centre $O'$ is $\dfrac{2R}3$ from $O$ (it touches the rim). $I=\tfrac12MR^2-\left[\tfrac12\cdot\tfrac M9\left(\tfrac R3\right)^2+\tfrac M9\left(\tfrac{2R}3\right)^2\right]=\tfrac12MR^2-\tfrac{MR^2}{162}-\tfrac{4MR^2}{81}=\tfrac12MR^2-\tfrac1{18}MR^2=\tfrac49MR^2$. So $x=9$.
+

@@ -368,3 +368,181 @@ Two wires $A$ and $B$ made of different materials, of lengths $6.0$ cm and $5.4$
 
 **Solution.** $Y=\dfrac{FL}{A\,\Delta L}$ with the same $F$ and $\Delta L$: $\dfrac{Y_A}{Y_B}=\dfrac{L_A/A_A}{L_B/A_B}=\dfrac{6.0/3.0}{5.4/4.5}=\dfrac{2}{1.2}=\dfrac53$, so $x=5$.
 
+### § — JEE Main 2025 · Jan session · Solids set Q3 · MCQ
+
+The fractional compression $\left(\dfrac{\Delta V}V\right)$ of water at a depth of 2.5 km below sea level is ______ %. Given: the bulk modulus of water $=2\times10^9\ \text{N m}^{-2}$, density of water $=10^3\ \text{kg m}^{-3}$, acceleration due to gravity $g=10\ \text{m s}^{-2}$.
+
+(1) 1.25  (2) 1.0  (3) 1.75  (4) 1.5
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Extra pressure at depth $h$: $P=\rho gh=10^3\times10\times2500=2.5\times10^7$ Pa. Bulk modulus $B=\dfrac{P}{\Delta V/V}\Rightarrow\dfrac{\Delta V}V=\dfrac{2.5\times10^7}{2\times10^9}=1.25\times10^{-2}=1.25\%$.
+
+### § — JEE Main 2025 · Apr session · Solids set Q1 · MCQ
+
+Two wires $A$ and $B$ are made of the same material, with ratio of lengths $\dfrac{L_A}{L_B}=\dfrac13$ and ratio of diameters $\dfrac{d_A}{d_B}=2$. If both wires are stretched using the same force, what would be the ratio of their respective elongations?
+
+(1) 1 : 6  (2) 1 : 12  (3) 3 : 4  (4) 1 : 3
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\Delta l=\dfrac{FL}{AY}\propto\dfrac{L}{d^2}$ for the same $F$ and $Y$. $\dfrac{\Delta l_A}{\Delta l_B}=\dfrac{L_A}{L_B}\left(\dfrac{d_B}{d_A}\right)^2=\dfrac13\cdot\dfrac14=\dfrac1{12}$.
+
+### § — JEE Main 2025 · Apr session · Solids set Q2 · MCQ
+
+A 3 m long wire of radius 3 mm shows an extension of 0.1 mm when loaded vertically by a mass of 50 kg in an experiment to determine Young's modulus. The value of Young's modulus of the wire as per this experiment is $P\times10^{11}\ \text{N m}^{-2}$, where the value of $P$ is: (take $g=3\pi\ \text{m/s}^2$)
+
+(1) 5  (2) 10  (3) 25  (4) 2.5
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $Y=\dfrac{FL}{A\,\Delta l}=\dfrac{(50\times3\pi)(3)}{\pi(3\times10^{-3})^2(10^{-4})}=\dfrac{450}{9\times10^{-10}}=5\times10^{11}\ \text{N m}^{-2}$, so $P=5$.
+
+### § — JEE Main 2025 · Apr session · Solids set Q5 · MCQ
+
+A cylindrical rod of length 1 m and radius 4 cm is mounted vertically. It is subjected to a shear force of $10^5$ N at the top. Considering infinitesimally small displacement of the upper edge, the angular displacement $\theta$ of the rod axis from its original position would be: (shear modulus $G=10^{10}\ \text{N/m}^2$)
+
+(1) $\dfrac1{160\pi}$  (2) $\dfrac1{4\pi}$  (3) $\dfrac1{40\pi}$  (4) $\dfrac1{2\pi}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Shear strain (angle) $\theta=\dfrac{F}{AG}$ with $A=\pi r^2=\pi(0.04)^2=1.6\times10^{-3}\pi\ \text{m}^2$. $\theta=\dfrac{10^5}{1.6\times10^{-3}\pi\times10^{10}}=\dfrac1{160\pi}$ rad.
+
+### § — JEE Main 2025 · Apr session · Solids set Q6 · Numerical
+
+A steel wire of length 2 m and Young's modulus $2.0\times10^{11}\ \text{N m}^{-2}$ is stretched by a force. If the Poisson ratio and the transverse strain for the wire are 0.2 and $10^{-3}$ respectively, then the elastic potential energy density of the wire is ______ $\times10^{5}$ (in SI units).
+
+**Answer: 25** · key (compiled)
+
+**Solution.** Poisson ratio $=\dfrac{\text{transverse strain}}{\text{longitudinal strain}}$, so the longitudinal strain is $\dfrac{10^{-3}}{0.2}=5\times10^{-3}$. Energy density $u=\tfrac12Y\varepsilon^2=\tfrac12(2\times10^{11})(5\times10^{-3})^2=2.5\times10^{6}=25\times10^5\ \text{J/m}^3$.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q1 · MCQ
+
+A tube of length $L$ is shown in the figure. The radius of cross-section at point (1) is 2 cm and at point (2) is 1 cm. If the velocity of water entering at point (1) is 2 m/s, then the velocity of water leaving point (2) will be:
+
+![Figure](../../figures/j25_phy_fluids/q1-1.png)
+
+(1) 4 m/s  (2) 2 m/s  (3) 6 m/s  (4) 8 m/s
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Equation of continuity: $A_1v_1=A_2v_2\Rightarrow v_2=v_1\left(\dfrac{r_1}{r_2}\right)^2=2\times4=8$ m/s.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q2 · Numerical
+
+Two soap bubbles of radii 2 cm and 4 cm respectively are in contact with each other. The radius of curvature of the common surface, in cm, is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** The excess pressure inside a soap bubble is $\dfrac{4T}{r}$. The common film separates the two interiors, so its excess pressure is the difference: $\dfrac{4T}{r}=\dfrac{4T}{r_1}-\dfrac{4T}{r_2}\Rightarrow r=\dfrac{r_1r_2}{r_2-r_1}=\dfrac{2\times4}{4-2}=4$ cm.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q8 · Numerical
+
+An air bubble of radius 1.0 mm is observed at a depth of 20 cm below the free surface of a liquid having surface tension 0.095 J/m$^2$ and density $10^3$ kg/m$^3$. The difference between the pressure inside the bubble and the atmospheric pressure is ______ N/m$^2$. (Take $g=10$ m/s$^2$)
+
+**Answer: 2190** · key (compiled)
+
+**Solution.** An air bubble in a liquid has a single surface: $P_{in}-P_0=\rho gh+\dfrac{2T}{r}=10^3\times10\times0.2+\dfrac{2\times0.095}{10^{-3}}=2000+190=2190\ \text{N/m}^2$.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q9 · MCQ
+
+The amount of work done to break a big water drop of radius $R$ into 27 small drops of equal radius is 10 J. The work done required to break the same big drop into 64 small drops of equal radius will be:
+
+(1) 15 J  (2) 5 J  (3) 20 J  (4) 10 J
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Splitting into $n$ drops of radius $R/n^{1/3}$ requires $W=T\,\Delta A=4\pi R^2T\left(n^{1/3}-1\right)$. $\dfrac{W_{64}}{W_{27}}=\dfrac{4-1}{3-1}=\dfrac32$, so $W_{64}=15$ J.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q11 · MCQ
+
+A small rigid spherical ball of mass $M$ is dropped in a long vertical tube containing glycerine. The velocity of the ball becomes constant after some time. If the density of glycerine is half of the density of the ball, then the viscous force acting on the ball will be (consider $g$ as the acceleration due to gravity):
+
+(1) $2Mg$  (2) $Mg$  (3) $\tfrac32Mg$  (4) $\dfrac{Mg}2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** At terminal velocity the net force is zero: weight $=$ buoyancy $+$ viscous force. Buoyancy $=\rho_{gly}Vg=\tfrac12\rho_{ball}Vg=\dfrac{Mg}2$, so $F_{viscous}=Mg-\dfrac{Mg}2=\dfrac{Mg}2$.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q13 · MCQ
+
+Consider the following statements:
+
+A. Surface tension arises due to extra energy of the molecules at the interior as compared to the molecules at the surface, of a liquid.
+B. As the temperature of a liquid rises, the coefficient of viscosity increases.
+C. As the temperature of a gas increases, the coefficient of viscosity increases.
+D. The onset of turbulence is determined by Reynolds' number.
+E. In a steady flow two streamlines never intersect.
+
+Choose the correct answer from the options given below:
+
+(1) C, D, E only  (2) A, D, E only  (3) B, C, D only  (4) A, B, C only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A is false: surface molecules have extra energy compared with interior molecules (the statement is reversed). B is false: the viscosity of a liquid decreases as temperature rises. C is true: gas viscosity increases with temperature (more momentum transport between layers). D (Reynolds number decides laminar-to-turbulent transition) and E (streamlines cannot cross) are true. Hence C, D, E only.
+
+### § — JEE Main 2025 · Jan session · Fluids set Q14 · Numerical
+
+A thin transparent film with refractive index 1.4 is held on a circular ring of radius 1.8 cm. The fluid in the film evaporates such that the transmission through the film at wavelength 560 nm goes to a minimum every 12 seconds. Assuming that the film is flat on its two sides, the rate of evaporation is ______ $\pi\times10^{-13}\ \text{m}^3/\text{s}$.
+
+**Answer: 54** · key (compiled)
+
+**Solution.** Successive transmission minima occur when the optical path $2nt$ changes by one wavelength, i.e. when the thickness changes by $\Delta t=\dfrac{\lambda}{2n}=\dfrac{560\ \text{nm}}{2\times1.4}=200$ nm. Rate of volume loss $=\pi r^2\,\dfrac{\Delta t}{\Delta\tau}=\pi(1.8\times10^{-2})^2\times\dfrac{2\times10^{-7}}{12}=5.4\pi\times10^{-12}=54\,\pi\times10^{-13}\ \text{m}^3/\text{s}$.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q2 · MCQ
+
+Two cylindrical vessels of equal cross-sectional area $2\ \text{m}^2$ contain water up to heights 10 m and 6 m respectively. If the vessels are connected at their bottom, then the work done by the force of gravity is: (density of water $=10^3$ kg/m$^3$ and $g=10$ m/s$^2$)
+
+(1) $1\times10^5$ J  (2) $4\times10^4$ J  (3) $6\times10^4$ J  (4) $8\times10^4$ J
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Water levels equalise at $\dfrac{10+6}2=8$ m. A column of height $h$ has potential energy $\tfrac12\rho Agh^2$. $U_i=\tfrac12(10^3)(2)(10)(10^2+6^2)=1.36\times10^6$ J and $U_f=\tfrac12(10^3)(2)(10)(2\times8^2)=1.28\times10^6$ J. Work done by gravity $=U_i-U_f=8\times10^4$ J.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q3 · Numerical
+
+A vessel with square cross-section and height 6 m is vertically partitioned. A small window of area 100 cm$^2$ with a hinged door is fitted at a depth of 3 m in the partition wall. One part of the vessel is filled completely with water and the other side is filled with a liquid of density $1.5\times10^3$ kg/m$^3$. What force must one apply on the hinged door so that it does not get opened? (Acceleration due to gravity $=10$ m/s$^2$) Answer in newtons.
+
+**Answer: 150** · key (compiled)
+
+**Solution.** Both liquids fill their compartments completely, so the window is at depth 3 m on both sides. The net pressure difference across it is $(\rho_2-\rho_1)gh=(1.5\times10^3-10^3)\times10\times3=1.5\times10^4$ Pa, so the net force is $\Delta P\cdot A=1.5\times10^4\times10^{-2}=150$ N, directed from the denser liquid towards the water; this is the force that must be applied to hold the door.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q4 · MCQ
+
+Consider a completely full cylindrical water tank of height 1.6 m and cross-sectional area $0.5\ \text{m}^2$. It has a small hole in its side at a height of 90 cm from the bottom. Assume the cross-sectional area of the hole to be negligibly small compared to that of the tank. If a load of 50 kg is applied on the top surface of the water in the tank, then the velocity of the water coming out at the instant when the hole is opened is: ($g=10$ m/s$^2$)
+
+(1) 3 m/s  (2) 5 m/s  (3) 2 m/s  (4) 4 m/s
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Height of water above the hole: $h=1.6-0.9=0.7$ m. The load adds a pressure $\dfrac{mg}{A}=\dfrac{50\times10}{0.5}=1000$ Pa. Bernoulli's equation (negligible speed at the top): $v=\sqrt{2\left(gh+\dfrac{\Delta P}\rho\right)}=\sqrt{2(7+1)}=4$ m/s.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q5 · MCQ
+
+Two water drops, each of radius $r$, coalesce to form a bigger drop. If $T$ is the surface tension, the surface energy released in this process is:
+
+(1) $4\pi r^2T\left[2-2^{2/3}\right]$  (2) $4\pi r^2T\left[2-2^{1/3}\right]$  (3) $4\pi r^2T\left[1+\sqrt2\right]$  (4) $4\pi r^2T\left[\sqrt2-1\right]$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Volume is conserved: $R^3=2r^3\Rightarrow R=2^{1/3}r$. Energy released $=T\left(2\cdot4\pi r^2-4\pi R^2\right)=4\pi r^2T\left(2-2^{2/3}\right)$.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q6 · Numerical
+
+The excess pressure inside soap bubble $A$ in air is half the excess pressure inside another soap bubble $B$ in air. If the volume of bubble $A$ is $n$ times the volume of bubble $B$, then the value of $n$ is ______.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** The excess pressure in a soap bubble is $\dfrac{4T}{r}\propto\dfrac1r$, so $r_A=2r_B$ and $\dfrac{V_A}{V_B}=\left(\dfrac{r_A}{r_B}\right)^3=8$.
+
+### § — JEE Main 2025 · Apr session · Fluids set Q8 · MCQ
+
+A solid steel ball of diameter 3.6 mm acquired a terminal velocity of $2.45\times10^{-2}$ m/s while falling under gravity through an oil of density 925 kg m$^{-3}$. Take the density of steel as 7825 kg m$^{-3}$ and $g$ as 9.8 m/s$^2$. The viscosity of the oil in SI units is:
+
+(1) 2.18  (2) 2.38  (3) 1.68  (4) 1.99
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Terminal velocity $v_t=\dfrac{2r^2(\rho-\sigma)g}{9\eta}$, so $\eta=\dfrac{2(1.8\times10^{-3})^2(7825-925)(9.8)}{9\times2.45\times10^{-2}}=\dfrac{0.4382}{0.2205}\approx1.99$ Pa s.
+

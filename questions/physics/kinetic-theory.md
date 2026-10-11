@@ -195,3 +195,60 @@ A cylindrical tube $AB$ of length $l$, closed at both ends, contains $1$ mol of 
 
 **Solution.** For a gas element of thickness $dx$ at distance $x$ from the axis, the pressure difference supplies the centripetal force: $dP=\rho\omega^2x\,dx$ with $\rho=\dfrac{PM}{RT}$. Then $\dfrac{dP}{P}=\dfrac{M\omega^2}{RT}x\,dx\Rightarrow\ln\dfrac{P_B}{P_A}=\dfrac{M\omega^2l^2}{2RT}$, so $P_B=P_A\,e^{M\omega^2l^2/2RT}$.
 
+### § — JEE Main 2025 · Jan session · KTG set Q2 · MCQ
+
+The ratio of vapour densities of two gases at the same temperature is $\dfrac4{25}$; then the ratio of their r.m.s. velocities will be:
+
+(1) $\dfrac{25}4$  (2) $\dfrac25$  (3) $\dfrac52$  (4) $\dfrac4{25}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Vapour density is proportional to molar mass $M$, and $v_{rms}=\sqrt{\dfrac{3RT}{M}}\propto\dfrac1{\sqrt M}$. So $\dfrac{v_1}{v_2}=\sqrt{\dfrac{M_2}{M_1}}=\sqrt{\dfrac{25}{4}}=\dfrac52$.
+
+### § — JEE Main 2025 · Apr session · KTG set Q1 · MCQ
+
+The mean free path and the average speed of oxygen molecules at 300 K and 1 atm are $3\times10^{-7}$ m and 600 m/s respectively. Find the frequency of its collisions.
+
+(1) $2\times10^{10}$/s  (2) $9\times10^5$/s  (3) $2\times10^9$/s  (4) $5\times10^8$/s
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Collision frequency $=\dfrac{\text{average speed}}{\text{mean free path}}=\dfrac{600}{3\times10^{-7}}=2\times10^9\ \text{s}^{-1}$.
+
+### § — JEE Main 2025 · Apr session · KTG set Q2 · MCQ
+
+Helium and argon are put in a flask at the same room temperature (300 K). The ratio of the average kinetic energies (per molecule) of helium and argon is: (Given: molar mass of helium $=4$ g/mol, molar mass of argon $=40$ g/mol)
+
+(1) 1 : 10  (2) 10 : 1  (3) 1 : $\sqrt{10}$  (4) 1 : 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The average translational kinetic energy per molecule is $\tfrac32k_BT$, independent of the gas. At the same temperature the ratio is 1 : 1 (the molar masses are a distraction).
+
+### § — JEE Main 2025 · Apr session · KTG set Q3 · Numerical
+
+$\gamma_A$ is the specific heat ratio of a monoatomic gas $A$ having 3 translational degrees of freedom. $\gamma_B$ is the specific heat ratio of a polyatomic gas $B$ having 3 translational and 3 rotational degrees of freedom and 1 vibrational mode. If $\dfrac{\gamma_A}{\gamma_B}=\left(1+\dfrac1n\right)$, then the value of $n$ is ______.
+
+**Answer: 3** · key (compiled)
+
+**Solution.** $\gamma=1+\dfrac2f$. Gas $A$: $f=3$, $\gamma_A=\dfrac53$. Gas $B$: a vibrational mode counts as 2 degrees of freedom (kinetic + potential), so $f=3+3+2=8$ and $\gamma_B=\dfrac54$. $\dfrac{\gamma_A}{\gamma_B}=\dfrac43=1+\dfrac13$, hence $n=3$.
+
+### § — JEE Main 2025 · Apr session · KTG set Q4 · MCQ
+
+Match List-I with List-II.
+
+| List-I | List-II |
+|---|---|
+| A. Triatomic rigid gas | I. $\dfrac{C_P}{C_V}=\dfrac53$ |
+| B. Diatomic non-rigid gas | II. $\dfrac{C_P}{C_V}=\dfrac75$ |
+| C. Monoatomic gas | III. $\dfrac{C_P}{C_V}=\dfrac43$ |
+| D. Diatomic rigid gas | IV. $\dfrac{C_P}{C_V}=\dfrac97$ |
+
+Choose the correct answer from the options given below:
+
+(1) A-III, B-IV, C-I, D-II  (2) A-III, B-II, C-IV, D-I  (3) A-II, B-IV, C-I, D-III  (4) A-IV, B-II, C-III, D-I
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\gamma=1+\dfrac2f$. Triatomic rigid (non-linear): $f=6$, $\gamma=\dfrac43$ (III). Diatomic non-rigid (vibrating): $f=7$, $\gamma=\dfrac97$ (IV). Monoatomic: $f=3$, $\gamma=\dfrac53$ (I). Diatomic rigid: $f=5$, $\gamma=\dfrac75$ (II). So A-III, B-IV, C-I, D-II.
+

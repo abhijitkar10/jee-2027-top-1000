@@ -97,3 +97,69 @@ A brass wire of length $2$ m and radius $1$ mm at $27^\circ$C is held taut betwe
 
 **Solution.** The thermal tension is $YA\alpha\,\Delta T$, proportional to the temperature drop below $27^\circ$C. Initially $\Delta T_1=70^\circ$C; for $1.4T$, $\Delta T_2=1.4\times70=98^\circ$C, so the temperature is $27-98=-71^\circ$C.
 
+### § — JEE Main 2025 · Jan session · Heat set Q2 · MCQ
+
+An amount of ice of mass $10^{-3}$ kg and temperature $-10^\circ$C is transformed to vapour of temperature $110^\circ$C by applying heat. The total amount of heat required for this conversion is: (Take specific heat of ice $=2100\ \text{J kg}^{-1}\text{K}^{-1}$, specific heat of water $=4180\ \text{J kg}^{-1}\text{K}^{-1}$, specific heat of steam $=1920\ \text{J kg}^{-1}\text{K}^{-1}$, latent heat of ice $=3.35\times10^5\ \text{J kg}^{-1}$ and latent heat of steam $=2.25\times10^6\ \text{J kg}^{-1}$)
+
+(1) 3043 J  (2) 3024 J  (3) 3003 J  (4) 3022 J
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Five stages: $Q=m\left[c_{ice}(10)+L_f+c_w(100)+L_v+c_s(10)\right]=10^{-3}\left[21000+3.35\times10^5+4.18\times10^5+2.25\times10^6+19200\right]=10^{-3}\times3.0432\times10^6\approx3043$ J.
+
+### § — JEE Main 2025 · Jan session · Heat set Q4 · Numerical
+
+Three conductors of the same length having thermal conductivities $k_1$, $k_2$ and $k_3$ are connected as shown in the figure. The areas of cross-section of the 1st and 2nd conductors are the same, and for the 3rd conductor it is double that of the 1st conductor. The temperatures are given in the figure. In steady state, the value of $\theta$ is ______ $^\circ$C. (Given: $k_1=60$, $k_2=120$, $k_3=135\ \text{J s}^{-1}\text{m}^{-1}\text{K}^{-1}$)
+
+![Figure](../../figures/j25_phy_thermal/q4-1.png)
+
+**Answer: 40** · key (compiled)
+
+**Solution.** Conductors 1 and 2 (each of area $A$) carry heat in parallel from the $100^\circ$C end to the junction at $\theta$; conductor 3 (area $2A$) carries it from $\theta$ to $0^\circ$C. In steady state $(k_1+k_2)A\dfrac{100-\theta}{L}=k_3(2A)\dfrac{\theta-0}{L}\Rightarrow180(100-\theta)=270\,\theta\Rightarrow\theta=40^\circ$C.
+
+### § — JEE Main 2025 · Jan session · Heat set Q5 · MCQ
+
+Two spherical bodies of the same material, having radii 0.2 m and 0.8 m, are placed in the same atmosphere. The temperature of the smaller body is 800 K and the temperature of the bigger body is 400 K. If the energy radiated from the smaller body is $E$, the energy radiated from the bigger body is (assume the effect of the surrounding temperature to be negligible):
+
+(1) 16 E  (2) E  (3) 64 E  (4) 256 E
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Radiated power $\propto AT^4\propto r^2T^4$. $\dfrac{E_{big}}{E_{small}}=\left(\dfrac{0.8}{0.2}\right)^2\left(\dfrac{400}{800}\right)^4=16\times\dfrac1{16}=1$, so the bigger body radiates $E$.
+
+### § — JEE Main 2025 · Jan session · Heat set Q6 · MCQ
+
+A cup of coffee cools from $90^\circ$C to $80^\circ$C in $t$ minutes when the room temperature is $20^\circ$C. The time taken by a similar cup of coffee to cool from $80^\circ$C to $60^\circ$C at the same room temperature is:
+
+(1) $\dfrac{13}{10}t$  (2) $\dfrac{10}{13}t$  (3) $\dfrac5{13}t$  (4) $\dfrac{13}5t$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Newton's law of cooling (average-temperature form): $\dfrac{\Delta T}{\Delta t}=k\,(T_{avg}-T_0)$. First: $\dfrac{10}{t}=k(85-20)=65k$. Second: $\dfrac{20}{t'}=k(70-20)=50k$. Dividing, $\dfrac{t'}{t}=\dfrac{20}{10}\cdot\dfrac{65}{50}=\dfrac{13}5$.
+
+### § — JEE Main 2025 · Apr session · Heat set Q1 · MCQ
+
+Consider a rectangular sheet of solid material of length $\ell=9$ cm and width $d=4$ cm. The coefficient of linear expansion is $\alpha=3.1\times10^{-5}\ \text{K}^{-1}$ at room temperature and one atmospheric pressure. The mass of the sheet is $m=0.1$ kg and the specific heat capacity is $C_v=900\ \text{J kg}^{-1}\text{K}^{-1}$. If the amount of heat supplied to the material is $8.1\times10^2$ J, then the change in area of the rectangular sheet is:
+
+(1) $2.0\times10^{-6}\ \text{m}^2$  (2) $3.0\times10^{-7}\ \text{m}^2$  (3) $6.0\times10^{-7}\ \text{m}^2$  (4) $4.0\times10^{-7}\ \text{m}^2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\Delta T=\dfrac{Q}{mC}=\dfrac{810}{0.1\times900}=9$ K. Areal expansion: $\Delta A=A\,(2\alpha)\,\Delta T=(36\times10^{-4})(2\times3.1\times10^{-5})(9)=2.0\times10^{-6}\ \text{m}^2$.
+
+### § — JEE Main 2025 · Apr session · Heat set Q3 · Numerical
+
+A wire of length 10 cm and diameter 0.5 mm is used in a bulb. The temperature of the wire is $1727^\circ$C and the power radiated by the wire is 94.2 W. Its emissivity is $\dfrac x8$, where $x=$ ______. (Given $\sigma=6.0\times10^{-8}\ \text{W m}^{-2}\text{K}^{-4}$, $\pi=3.14$, and assume that the emissivity of the wire material is the same at all wavelengths.)
+
+**Answer: 5** · key (compiled)
+
+**Solution.** $T=1727+273=2000$ K. Radiating area $A=\pi dL=3.14\times0.5\times10^{-3}\times0.1=1.57\times10^{-4}\ \text{m}^2$. From $P=e\sigma AT^4$: $e=\dfrac{94.2}{(6\times10^{-8})(1.57\times10^{-4})(2000)^4}=\dfrac{94.2}{150.7}=0.625=\dfrac58$. So $x=5$.
+
+### § — JEE Main 2025 · Apr session · Heat set Q4 · Numerical
+
+Two cylindrical rods $A$ and $B$ of different materials are joined in a straight line. The ratios of their lengths, radii and thermal conductivities are $\dfrac{L_A}{L_B}=\dfrac12$, $\dfrac{r_A}{r_B}=2$ and $\dfrac{K_A}{K_B}=\dfrac12$. The free ends of rods $A$ and $B$ are maintained at 400 K and 200 K respectively. The temperature of the rods' interface is ______ K when equilibrium is established.
+
+**Answer: 360** · key (compiled)
+
+**Solution.** In steady state the heat current through both rods is equal: $\dfrac{K_AA_A(400-T)}{L_A}=\dfrac{K_BA_B(T-200)}{L_B}$. The ratio $\dfrac{K_AA_AL_B}{K_BA_BL_A}=\dfrac12\cdot4\cdot2=4$, so $4(400-T)=T-200\Rightarrow5T=1800\Rightarrow T=360$ K.
+

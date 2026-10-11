@@ -247,3 +247,69 @@ Three masses $200$ kg, $300$ kg and $400$ kg are placed at the vertices of an eq
 
 **Solution.** $U=-G\dfrac{m_1m_2+m_2m_3+m_1m_3}{r}$ with $\sum m_im_j=200\cdot300+300\cdot400+200\cdot400=260000$. $W=U_f-U_i=260000\,G\left(\dfrac1{20}-\dfrac1{25}\right)=260000\times6.7\times10^{-11}\times0.01=1.74\times10^{-7}$ J.
 
+### § — JEE Main 2025 · Jan session · Grav set Q1 · MCQ
+
+The Earth has a mass 8 times and a radius 2 times that of a planet. If the escape velocity from the Earth is 11.2 km/s, the escape velocity (in km/s) from the planet will be:
+
+(1) 2.8  (2) 11.2  (3) 5.6  (4) 8.4
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. For the planet $M_p=\dfrac M8$ and $R_p=\dfrac R2$: $v_p=v_e\sqrt{\dfrac{1/8}{1/2}}=\dfrac{v_e}2=5.6$ km/s.
+
+### § — JEE Main 2025 · Jan session · Grav set Q3 · MCQ
+
+A satellite is launched into a circular orbit of radius $R$ around the Earth. A second satellite is launched into an orbit of radius $1.03R$. The time period of revolution of the second satellite is larger than the first one approximately by:
+
+(1) 9%  (2) 3%  (3) 4.5%  (4) 2.5%
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Kepler's third law: $T\propto r^{3/2}$. $\dfrac{T_2}{T_1}=(1.03)^{3/2}\approx1+\dfrac32(0.03)=1.045$, i.e. about 4.5% larger.
+
+### § — JEE Main 2025 · Jan session · Grav set Q5 · Numerical
+
+Two planets $A$ and $B$ are orbiting a common star in circular orbits of radii $R_A$ and $R_B$ respectively, with $R_B=2R_A$. Planet $B$ is $4\sqrt2$ times more massive than planet $A$. The ratio $\left(\dfrac{L_B}{L_A}\right)$ of the angular momentum ($L_B$) of planet $B$ to that of planet $A$ ($L_A$) is closest to the integer ______.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** For a circular orbit $v=\sqrt{\dfrac{GM_s}r}$, so $L=mvr=m\sqrt{GM_s\,r}$. $\dfrac{L_B}{L_A}=\dfrac{m_B}{m_A}\sqrt{\dfrac{R_B}{R_A}}=4\sqrt2\cdot\sqrt2=8$.
+
+### § — JEE Main 2025 · Jan session · Grav set Q6 · MCQ
+
+A small point mass $m$ is placed at a distance $2R$ from the centre $O$ of a big uniform solid sphere of mass $M$ and radius $R$. The gravitational force on $m$ due to $M$ is $F_1$. A spherical part of radius $R/3$ is removed from the big sphere as shown in the figure, and the gravitational force on $m$ due to the remaining part of $M$ is found to be $F_2$. The value of the ratio $F_1:F_2$ is:
+
+![Figure](../../figures/j25_phy_gravitation/q6-1.png)
+
+(1) 12 : 11  (2) 11 : 10  (3) 12 : 9  (4) 16 : 9
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $F_1=\dfrac{GMm}{(2R)^2}=\dfrac{GMm}{4R^2}$. The removed sphere (touching the surface on the side of $m$) has mass $\dfrac M{27}$ and its centre is at distance $2R-\dfrac{2R}3=\dfrac{4R}3$ from $m$: $F_{rem}=\dfrac{G(M/27)m}{(4R/3)^2}=\dfrac{GMm}{48R^2}$. $F_2=F_1-F_{rem}=\dfrac{GMm}{R^2}\left(\dfrac14-\dfrac1{48}\right)=\dfrac{11}{48}\dfrac{GMm}{R^2}$. $F_1:F_2=\dfrac14:\dfrac{11}{48}=12:11$.
+
+### § — JEE Main 2025 · Jan session · Grav set Q7 · Numerical
+
+A satellite of mass $\dfrac M2$ is revolving around the Earth in a circular orbit at a height of $\dfrac R3$ from the Earth's surface. The angular momentum of the satellite is $M\sqrt{\dfrac{GMR}{x}}$. The value of $x$ is ______, where $M$ and $R$ are the mass and radius of the Earth respectively ($G$ is the gravitational constant).
+
+**Answer: 3** · key (compiled)
+
+**Solution.** Orbit radius $r=R+\dfrac R3=\dfrac{4R}3$. $L=m\sqrt{GMr}=\dfrac M2\sqrt{\dfrac{4GMR}3}=M\sqrt{\dfrac{GMR}{3}}$, so $x=3$.
+
+### § — JEE Main 2025 · Apr session · Grav set Q2 · Numerical
+
+Three identical spheres of mass $m$ are placed at the vertices of an equilateral triangle of side $a$. When released, they interact only through the gravitational force and collide after a time $T=4$ s. If the sides of the triangle are increased to $2a$ and the masses of the spheres are also made $2m$, then they will collide after ______ seconds.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** The motion depends only on $G$, $m$ and $a$; by dimensional analysis (or from $\ddot r\sim\dfrac{Gm}{a^2}$ acting over a distance $\sim a$) the collision time scales as $T\propto\sqrt{\dfrac{a^3}{Gm}}$. With $a\to2a$ and $m\to2m$: $T'=T\sqrt{\dfrac{2^3}{2}}=2T=8$ s.
+
+### § — JEE Main 2025 · Apr session · Grav set Q5 · MCQ
+
+An object is kept at rest at a distance of $3R$ above the Earth's surface, where $R$ is the Earth's radius. The minimum speed with which it must be projected so that it does not return to the Earth is: (Assume $M$ = mass of the Earth, $G$ = universal gravitational constant)
+
+(1) $\sqrt{\dfrac{GM}{2R}}$  (2) $\sqrt{\dfrac{GM}R}$  (3) $\sqrt{\dfrac{3GM}R}$  (4) $\sqrt{\dfrac{2GM}R}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The object is at distance $r=R+3R=4R$ from the centre. Not returning means reaching infinity with zero speed at best: $\tfrac12v^2=\dfrac{GM}{4R}\Rightarrow v=\sqrt{\dfrac{GM}{2R}}$ (the escape speed at $r=4R$).
+

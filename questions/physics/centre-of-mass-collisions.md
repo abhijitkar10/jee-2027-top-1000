@@ -100,3 +100,71 @@ A body of mass $14$ kg initially at rest explodes and breaks into three fragment
 
 **Solution.** The masses are $4$, $4$ and $6$ kg. The two equal fragments have momenta $72$ kg m/s along perpendicular directions, with resultant $72\sqrt2$. Total momentum is zero, so $6v=72\sqrt2\Rightarrow v=12\sqrt2$ m/s.
 
+### § — JEE Main 2025 · Jan session · COM set Q1 · MCQ
+
+The centre of mass of a thin rectangular plate (figure) with sides of length $a$ and $b$, whose mass per unit area $\sigma$ varies as $\sigma=\dfrac{\sigma_0x}{ab}$ (where $\sigma_0$ is a constant), would be ______.
+
+![Figure](../../figures/j25_phy_center-of-mass/q1-1.png)
+
+(1) $\left(\dfrac23a,\ \dfrac b2\right)$  (2) $\left(\dfrac a2,\ \dfrac b2\right)$  (3) $\left(\dfrac13a,\ \dfrac b2\right)$  (4) $\left(\dfrac23a,\ \dfrac23b\right)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The density depends on $x$ only, so $y_{cm}=\dfrac b2$ by symmetry. $x_{cm}=\dfrac{\int_0^a x\,\sigma\,b\,dx}{\int_0^a\sigma\,b\,dx}=\dfrac{\int_0^ax^2dx}{\int_0^ax\,dx}=\dfrac{a^3/3}{a^2/2}=\dfrac{2a}3$.
+
+### § — JEE Main 2025 · Jan session · COM set Q2 · MCQ
+
+Consider a circular disc of radius 20 cm with its centre located at the origin. A circular hole of radius 5 cm is cut from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of the centre of mass of the residual (remaining) disc from the origin will be:
+
+(1) 2.0 cm  (2) 1.5 cm  (3) 1.0 cm  (4) 0.5 cm
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Mass $\propto$ area, so the hole has $\dfrac1{16}$ of the original mass $M$, with its centre at $20-5=15$ cm from the origin. $x_{cm}=\dfrac{M\cdot0-\frac M{16}\cdot15}{M-\frac M{16}}=-\dfrac{15}{15}=-1$ cm. The centre of mass of the remaining disc is 1.0 cm from the origin, on the side opposite to the hole.
+
+### § — JEE Main 2025 · Jan session · COM set Q4 · MCQ
+
+As shown below, bob $A$ of a pendulum having a massless string of length $R$ is released from $60^\circ$ to the vertical. It hits another bob $B$ of half the mass that is at rest on a frictionless table at the centre. Assuming an elastic collision, the magnitude of the velocity of bob $A$ after the collision will be (take $g$ as the acceleration due to gravity):
+
+![Figure](../../figures/j25_phy_center-of-mass/q4-1.png)
+
+(1) $\dfrac43\sqrt{Rg}$  (2) $\dfrac23\sqrt{Rg}$  (3) $\sqrt{Rg}$  (4) $\dfrac13\sqrt{Rg}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Speed of $A$ just before impact: $\tfrac12mv^2=mgR(1-\cos60^\circ)\Rightarrow v=\sqrt{gR}$. Elastic collision of $m$ (moving) with $\dfrac m2$ (at rest): $v_A'=\dfrac{m-m/2}{m+m/2}\,v=\dfrac v3=\dfrac13\sqrt{Rg}$.
+
+### § — JEE Main 2025 · Jan session · COM set Q6 · MCQ
+
+A balloon and its contents having mass $M$ are moving up with an acceleration $a$. The mass that must be released from the contents so that the balloon starts moving up with an acceleration $3a$ will be (take $g$ as the acceleration due to gravity):
+
+(1) $\dfrac{2Ma}{3a+g}$  (2) $\dfrac{3Ma}{2a-g}$  (3) $\dfrac{3Ma}{2a+g}$  (4) $\dfrac{2Ma}{3a-g}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The buoyant (upward) force $F$ stays the same. Initially $F-Mg=Ma\Rightarrow F=M(g+a)$. After releasing mass $\Delta m$: $F-(M-\Delta m)g=(M-\Delta m)3a\Rightarrow F=(M-\Delta m)(g+3a)$. Equating, $M-\Delta m=\dfrac{M(g+a)}{g+3a}$, so $\Delta m=M\dfrac{2a}{g+3a}=\dfrac{2Ma}{3a+g}$.
+
+### § — JEE Main 2025 · Apr session · COM set Q1 · MCQ
+
+A rod of length $5L$ is bent at a right angle keeping one side of length $2L$ (the other side is then $3L$), as shown in the figure. The position of the centre of mass of the system is: (consider $L=10$ cm)
+
+![Figure](../../figures/a25_phy_center-of-mass/q1-1.png)
+
+(1) $2\hat i+3\hat j$  (2) $3\hat i+7\hat j$  (3) $5\hat i+8\hat j$  (4) $4\hat i+9\hat j$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Take the corner as the origin, the side $2L$ along $x$ and the side $3L$ along $y$ (uniform linear density $\lambda$). $x_{cm}=\dfrac{(2L\lambda)(L)+(3L\lambda)(0)}{5L\lambda}=\dfrac{2L}5=4$ cm and $y_{cm}=\dfrac{(3L\lambda)(1.5L)}{5L\lambda}=0.9L=9$ cm. So $\vec r_{cm}=4\hat i+9\hat j$ (in cm).
+
+### § — JEE Main 2025 · Apr session · COM set Q2 · MCQ
+
+Consider two blocks $A$ and $B$ of masses $m_1=10$ kg and $m_2=5$ kg placed on a frictionless table. Block $A$ moves with a constant speed $v=3$ m/s towards block $B$, which is kept at rest. A spring of spring constant $k=3000$ N/m is attached to block $B$ as shown in the figure. After the collision, suppose the blocks $A$ and $B$, along with the spring in constant compression, move together. The compression in the spring is (neglect the mass of the spring):
+
+![Figure](../../figures/a25_phy_center-of-mass/q2-1.png)
+
+(1) 0.2 m  (2) 0.4 m  (3) 0.1 m  (4) 0.3 m
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Momentum conservation: $10\times3=(10+5)v'\Rightarrow v'=2$ m/s. Energy conservation (no friction): $\tfrac12(10)(3)^2=\tfrac12(15)(2)^2+\tfrac12kx^2\Rightarrow45=30+1500x^2\Rightarrow x^2=0.01$, so $x=0.1$ m.
+
