@@ -679,3 +679,68 @@ In the light of the above statements, choose the correct answer.
 
 **Solution.** The strong acid HCl is neutralised first (conductance falls sharply as fast H$^+$ is removed), up to 2.0 mL of NaOH (point B). Then CH$_3$COOH is neutralised between 2.0 and 5.0 mL (point C = end point), after which conductance rises with excess NaOH. HCl: $\dfrac{2.0\times0.1}{40}=0.005$ M. CH$_3$COOH: $\dfrac{3.0\times0.1}{40}=0.0075$ M. So (2).
 
+### § — JEE Main 2025 · Jan session · Redox set Q1 · MCQ
+
+Match List-I (redox reaction) with List-II (type of redox reaction).
+
+| List-I | List-II |
+|---|---|
+| A. CH$_4$(g) + 2O$_2$(g) → CO$_2$(g) + 2H$_2$O(l) | I. Disproportionation reaction |
+| B. 2NaH(s) → 2Na(s) + H$_2$(g) | II. Combination reaction |
+| C. V$_2$O$_5$(s) + 5Ca(s) → 2V(s) + 5CaO(s) | III. Decomposition reaction |
+| D. 2H$_2$O$_2$(aq) → 2H$_2$O(l) + O$_2$(g) | IV. Displacement reaction |
+
+(1) A-II, B-III, C-I, D-IV  (2) A-III, B-IV, C-I, D-II  (3) A-IV, B-I, C-II, D-III  (4) A-II, B-III, C-IV, D-I
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A: methane combines with oxygen (combination, II). B: NaH breaks down into its elements (decomposition, III). C: Ca displaces V from its oxide (displacement, IV). D: H$_2$O$_2$ is both oxidised (to O$_2$) and reduced (to H$_2$O): disproportionation (I).
+
+### § — JEE Main 2025 · Jan session · Redox set Q2 · MCQ
+
+The species which does not undergo disproportionation reaction is:
+
+(1) ClO$_3^-$  (2) ClO$^-$  (3) ClO$_2^-$  (4) ClO$_4^-$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Disproportionation needs an element in an intermediate oxidation state. In ClO$_4^-$ chlorine is already at its highest state ($+7$) and can only be reduced, so it does not disproportionate. ClO$^-$ ($+1$), ClO$_2^-$ ($+3$) and ClO$_3^-$ ($+5$) all do.
+
+### § — JEE Main 2025 · Jan session · Redox set Q3 · MCQ
+
+Given below are two statements: Statement I: In the oxalic acid vs KMnO$_4$ (in the presence of dil. H$_2$SO$_4$) titration the solution needs to be heated initially to 60 °C, but no heating is required in the ferrous ammonium sulphate (FAS) vs KMnO$_4$ titration (in the presence of dil. H$_2$SO$_4$). Statement II: In the oxalic acid vs KMnO$_4$ titration, the initial formation of MnSO$_4$ takes place at high temperature, which then acts as a catalyst for further reaction. In the case of FAS vs KMnO$_4$, heating oxidises Fe$^{2+}$ into Fe$^{3+}$ by oxygen of air and error may be introduced in the experiment.
+
+(1) Both Statement I and Statement II are false  (2) Both Statement I and Statement II are true  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The permanganate–oxalate reaction is slow at room temperature; warming to about 60 °C starts it, and the Mn$^{2+}$ formed then catalyses it (autocatalysis). Fe$^{2+}$ reacts rapidly with MnO$_4^-$ in the cold, and heating would let air oxidise Fe$^{2+}$. Both statements are true.
+
+### § — JEE Main 2025 · Jan session · Redox set Q4 · MCQ
+
+0.1 M solution of KI reacts with excess of H$_2$SO$_4$ and KIO$_3$ solutions according to the equation 5I$^-$ + IO$_3^-$ + 6H$^+$ → 3I$_2$ + 3H$_2$O. Identify the correct statements: (A) 200 mL of KI solution reacts with 0.004 mol of KIO$_3$; (B) 200 mL of KI solution reacts with 0.006 mol of H$_2$SO$_4$; (C) 0.5 L of KI solution produced 0.005 mol of I$_2$; (D) Equivalent weight of KIO$_3$ is equal to (molecular weight/5).
+
+(1) (A) and (D) only  (2) (C) and (D) only  (3) (B) only  (4) (A) and (B) only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** 200 mL of 0.1 M KI is 0.02 mol I$^-$, which needs $\tfrac15\times0.02=0.004$ mol IO$_3^-$ (A true) and $\tfrac65\times0.02=0.024$ mol H$^+$ $=0.012$ mol H$_2$SO$_4$ (B false). 0.5 L has 0.05 mol I$^-$, producing $\tfrac35\times0.05=0.03$ mol I$_2$ (C false). IO$_3^-$ gains 5 electrons (I: $+5\to0$), so its equivalent weight is $M/5$ (D true).
+
+### § — JEE Main 2025 · Jan session · Redox set Q5 · Numerical
+
+Some CO$_2$ gas was kept in a sealed container at a pressure of 1 atm and at 273 K. This entire amount of CO$_2$ gas was later passed through an aqueous solution of Ca(OH)$_2$. The excess unreacted Ca(OH)$_2$ was later neutralised with 0.1 M of 40 mL HCl. If the volume of the sealed container of CO$_2$ was $x$, then $x$ is ______ cm$^3$ (nearest integer). [Given: the entire amount of CO$_2$(g) reacted with exactly half the initial amount of Ca(OH)$_2$ present in the aqueous solution.]
+
+**Answer: 45** · key (compiled)
+
+**Solution.** Let $n$ mol of CO$_2$ react with $n$ mol Ca(OH)$_2$ (CO$_2$ + Ca(OH)$_2$ → CaCO$_3$ + H$_2$O); this is half of the initial amount, so $n$ mol of Ca(OH)$_2$ is left. HCl used $=0.1\times0.040=4$ mmol neutralises $2$ mmol Ca(OH)$_2$, so $n=2$ mmol. At 1 atm and 273 K, $V=0.002\times22400$ cm$^3\approx45$ cm$^3$.
+
+### § — JEE Main 2025 · Apr session · Redox set Q1 · MCQ
+
+Compounds that should not be used as primary standards in titrimetric analysis are: A. Na$_2$Cr$_2$O$_7$  B. Oxalic acid  C. NaOH  D. FeSO$_4$·6H$_2$O  E. Sodium tetraborate
+
+(1) B and D only  (2) D and E only  (3) C, D and E only  (4) A, C and D only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A primary standard must be pure, stable, non-hygroscopic and of known composition. Na$_2$Cr$_2$O$_7$ is hygroscopic (K$_2$Cr$_2$O$_7$ is the one used), NaOH absorbs water and CO$_2$, and the ferrous salt is oxidised by air and has uncertain hydration. Oxalic acid and sodium tetraborate are accepted primary standards. So A, C and D should not be used.
+

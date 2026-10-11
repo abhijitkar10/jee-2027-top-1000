@@ -176,3 +176,69 @@ E. When 2 moles of $\mathrm{NO_2}$ change into the equilibrium mixture, $\Delta 
 
 **Solution.** From the graph, pure $\mathrm{N_2O_4}$ (A) is the reference, the minimum of $G$ (the equilibrium mixture, E) lies $0.84$ kJ mol$^{-1}$ below it, and pure $\mathrm{NO_2}$ (B) lies $5.40$ kJ mol$^{-1}$ above it. So $\Delta G^\ominus=G_{\mathrm{B}}-G_{\mathrm A}=+5.40$ kJ mol$^{-1}$ (A false). A positive $\Delta G^\ominus$ only means $K<1$ – a mixture still forms (B false) – and no reaction goes to completion (C false). $\mathrm{N_2O_4}\to$ equilibrium mixture: $\Delta G=-0.84$ (D true). $2\,\mathrm{NO_2}\to$ equilibrium mixture: $\Delta G=-(5.40+0.84)=-6.24$ kJ mol$^{-1}$ (E true).
 
+### § — JEE Main 2025 · Jan session · Eq set Q1 · MCQ
+
+Consider the reaction X$_2$Y(g) ⇌ X$_2$(g) + $\tfrac12$Y$_2$(g). The equation representing the correct relationship between the degree of dissociation ($x$) of X$_2$Y(g) and its equilibrium constant $K_p$ is ______. Assume $x$ to be very very small.
+
+(1) $x=\sqrt[3]{\dfrac{2K_p}P}$  (2) $x=\sqrt[3]{\dfrac{2K_p^2}P}$  (3) $x=\sqrt[3]{\dfrac{K_p}P}$  (4) $x=\sqrt{\dfrac{K_p}{2P}}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For 1 mol of X$_2$Y: $1-x$, $x$, $\tfrac x2$ mol at equilibrium, total $1+\tfrac x2\approx1$. $K_p=\dfrac{(xP)\,(xP/2)^{1/2}}{P(1-x)}\approx\dfrac{x^{3/2}P^{1/2}}{\sqrt2}$. Hence $x^3=\dfrac{2K_p^2}{P}$.
+
+### § — JEE Main 2025 · Jan session · Eq set Q2 · MCQ
+
+A vessel at 1000 K contains CO$_2$ with a pressure of 0.5 atm. Some of the CO$_2$ is converted into CO on addition of graphite. If the total pressure at equilibrium is 0.8 atm, then $K_p$ is:
+
+(1) 1.8 atm  (2) 0.3 atm  (3) 3 atm  (4) 0.18 atm
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** CO$_2$ + C(s) ⇌ 2CO. If the CO$_2$ pressure falls by $y$, CO is $2y$ and the total is $0.5+y=0.8\Rightarrow y=0.3$. $p_{CO_2}=0.2$ atm and $p_{CO}=0.6$ atm. $K_p=\dfrac{0.6^2}{0.2}=1.8$ atm.
+
+### § — JEE Main 2025 · Jan session · Eq set Q3 · Numerical
+
+37.8 g of N$_2$O$_5$ was taken in a 1 L reaction vessel and allowed to undergo the reaction 2N$_2$O$_5$(g) ⇌ 2N$_2$O$_4$(g) + O$_2$(g) at 500 K. The total pressure at equilibrium was found to be 18.65 bar. Then $K_p=$ ______ $\times10^{-2}$ [nearest integer]. Assume N$_2$O$_5$ behaves ideally. Given: $R=0.082$ bar L mol$^{-1}$ K$^{-1}$.
+
+**Answer: 962** · key (compiled)
+
+**Solution.** Initial moles $=\dfrac{37.8}{108}=0.35$, so $P_0=0.35\times0.082\times500=14.35$ bar. If N$_2$O$_5$ falls by $2z$: N$_2$O$_4$ $=2z$ and O$_2$ $=z$, total $=14.35+z=18.65\Rightarrow z=4.3$. $p(N_2O_5)=5.75$, $p(N_2O_4)=8.6$, $p(O_2)=4.3$ bar. $K_p=\dfrac{8.6^2\times4.3}{5.75^2}=9.62=962\times10^{-2}$.
+
+### § — JEE Main 2025 · Jan session · Eq set Q5 · MCQ
+
+At temperature $T$, the compound AB$_2$(g) dissociates as AB$_2$(g) ⇌ AB(g) + $\tfrac12$B$_2$(g) with degree of dissociation $x$ (small compared to unity). The correct expression for $x$ in terms of $K_p$ and $p$ is:
+
+(1) $\sqrt[4]{\dfrac{2K_p}p}$  (2) $\sqrt[3]{\dfrac{2K_p}p}$  (3) $\sqrt[3]{\dfrac{2K_p^2}p}$  (4) $\sqrt{K_p}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Same stoichiometry as the previous problem: $K_p\approx\dfrac{(xp)(xp/2)^{1/2}}{p}=\dfrac{x^{3/2}p^{1/2}}{\sqrt2}$, so $x^3=\dfrac{2K_p^2}{p}$.
+
+### § — JEE Main 2025 · Jan session · Eq set Q6 · MCQ
+
+Consider the equilibrium CO(g) + 3H$_2$(g) ⇌ CH$_4$(g) + H$_2$O(g). If the pressure applied over the system increases by two-fold at constant temperature then: (A) concentration of reactants and products increases; (B) equilibrium will shift in the forward direction; (C) equilibrium constant increases since the concentration of products increases; (D) equilibrium constant remains unchanged as concentrations of reactants and products remain the same.
+
+(1) (A), (B) and (C) only  (2) (A) and (B) only  (3) (A), (B) and (D) only  (4) (B) and (C) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Compressing the gas mixture raises all concentrations (A). The forward reaction decreases the number of moles (4 → 2), so by Le Chatelier the equilibrium shifts forward (B). $K$ depends only on temperature, so it is unchanged (D true, C false). The correct set is (A), (B) and (D); statement (D)'s reason is loosely worded in the paper, but the key is (3).
+
+### § — JEE Main 2025 · Apr session · Eq set Q3 · Numerical
+
+For CO(g) + 2H$_2$(g) ⇌ CH$_3$OH(g), 0.1 mol of CO along with a catalyst is present in a 2 dm$^3$ flask maintained at 500 K. Hydrogen is introduced into the flask until the pressure is 5 bar and 0.04 mol of CH$_3$OH is formed. The $K_p^\circ$ is ______ $\times10^{-3}$ (nearest integer). Given $R=0.08$ dm$^3$ bar K$^{-1}$ mol$^{-1}$. Assume only methanol is formed and the system follows ideal gas behaviour.
+
+**Answer: 74** · key (compiled)
+
+**Solution.** Total moles $=\dfrac{PV}{RT}=\dfrac{5\times2}{0.08\times500}=0.25$. CO $=0.1-0.04=0.06$, CH$_3$OH $=0.04$, H$_2$ $=0.25-0.06-0.04=0.15$ mol. With $\dfrac{RT}V=20$ bar per mol: $p_{CO}=1.2$, $p_{H_2}=3.0$, $p_{CH_3OH}=0.8$ bar. $K_p=\dfrac{0.8}{1.2\times3.0^2}=0.0741=74\times10^{-3}$.
+
+### § — JEE Main 2025 · Apr session · Eq set Q4 · MCQ
+
+Consider the gas-phase equilibrium A(g) ⇌ B(g) + C(g) at constant temperature. If $p$ is the total pressure, $K_p$ the equilibrium constant and $\alpha$ the degree of dissociation, which of the following is true at equilibrium?
+
+(1) If $p$ is extremely high compared to $K_p$, $\alpha\approx1$  (2) When $p$ increases, $\alpha$ decreases  (3) If $K_p$ is extremely high compared to $p$, $\alpha$ becomes much less than unity  (4) When $p$ increases, $\alpha$ increases
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $K_p=\dfrac{\alpha^2p}{1-\alpha^2}\Rightarrow\alpha=\sqrt{\dfrac{K_p}{K_p+p}}$. Raising $p$ decreases $\alpha$ (2). For $p\gg K_p$, $\alpha\to0$ (not 1), and for $K_p\gg p$, $\alpha\to1$.
+

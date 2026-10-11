@@ -285,3 +285,173 @@ The hydrogen spectrum consists of several spectral lines in the Lyman series ($L
 
 **Solution.** $L_1$ ($2\to1$): $E\propto1-\dfrac14=\dfrac34$. $B_1$ ($3\to2$): $E\propto\dfrac14-\dfrac19=\dfrac5{36}$. $x=\dfrac{3/4}{5/36}=\dfrac{27}5=5.4=54\times10^{-1}$.
 
+### § — JEE Main 2025 · Jan session · Atom set Q1 · MCQ
+
+The radius of the first excited state of the helium ion is given in terms of $a_0$, the radius of the first stationary state of the hydrogen atom, as:
+
+(1) $r=4a_0$  (2) $r=2a_0$  (3) $r=\tfrac{a_0}2$  (4) $r=\tfrac{a_0}4$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $r_n=a_0\dfrac{n^2}Z$. For He$^+$ ($Z=2$) in the first excited state ($n=2$): $r=a_0\cdot\dfrac42=2a_0$.
+
+### § — JEE Main 2025 · Jan session · Atom set Q2 · MCQ
+
+In a multielectron atom, which of the following orbitals described by three quantum numbers will have the same energy in the absence of electric and magnetic fields?
+
+A. $n=1,l=0,m_l=0$  B. $n=2,l=0,m_l=0$  C. $n=2,l=1,m_l=1$  D. $n=3,l=2,m_l=1$  E. $n=3,l=2,m_l=0$
+
+(1) B and C only  (2) A and B only  (3) C and D only  (4) D and E only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** In a multielectron atom the energy depends on $n$ and $l$ (not on $m_l$). Orbitals with the same $n$ and $l$ are degenerate: D ($3d$, $m_l=1$) and E ($3d$, $m_l=0$).
+
+### § — JEE Main 2025 · Jan session · Atom set Q3 · MCQ
+
+Given below are two statements about X-ray spectra of elements: Statement I: A plot of $\sqrt\nu$ ($\nu$ = frequency of X-rays emitted) vs atomic mass is a straight line. Statement II: A plot of $\nu$ ($\nu$ = frequency of X-rays emitted) vs atomic number is a straight line.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Statement I is true but Statement II is false
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Moseley's law: $\sqrt\nu=a(Z-b)$, so the straight line is $\sqrt\nu$ against atomic number, not atomic mass (Statement I false), and $\nu$ against $Z$ is a parabola, not a line (Statement II false).
+
+### § — JEE Main 2025 · Jan session · Atom set Q4 · MCQ
+
+Given below are two statements: Statement I: The radii of isoelectronic species increase in the order Mg$^{2+}$ < Na$^+$ < F$^-$ < O$^{2-}$. Statement II: The magnitude of electron gain enthalpy of halogens decreases in the order Cl > F > Br > I.
+
+(1) Statement I is incorrect but Statement II is correct  (2) Statement I is correct but Statement II is incorrect  (3) Both Statement I and Statement II are incorrect  (4) Both Statement I and Statement II are correct
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Isoelectronic ions: the greater the nuclear charge the smaller the radius, so Mg$^{2+}$ < Na$^+$ < F$^-$ < O$^{2-}$ (true). Electron gain enthalpy magnitude: Cl (349) > F (328) > Br (325) > I (295) kJ mol$^{-1}$ (true; fluorine is lower than chlorine because of its small size and strong inter-electronic repulsion).
+
+### § — JEE Main 2025 · Jan session · Atom set Q6 · MCQ
+
+Heat treatment of muscular pain involves radiation of wavelength of about 900 nm. Which spectral line of the H atom is suitable for this? Given: Rydberg constant $R_H=10^5$ cm$^{-1}$, $h=6.6\times10^{-34}$ J s, $c=3\times10^8$ m/s.
+
+(1) Balmer series, $\infty\to2$  (2) Lyman series, $\infty\to1$  (3) Paschen series, $\infty\to3$  (4) Paschen series, $5\to3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\dfrac1\lambda=\dfrac1{900\times10^{-7}\ \text{cm}}=1.11\times10^4$ cm$^{-1}=R_H\left(\dfrac1{n_1^2}-\dfrac1{n_2^2}\right)$, i.e. $\dfrac19$ in units of $R_H$ ($1.11\times10^4/10^5=0.111$). That is the Paschen series limit, $\infty\to3$ ($\tfrac1{3^2}-0$).
+
+### § — JEE Main 2025 · Jan session · Atom set Q7 · MCQ
+
+If $a_0$ is the Bohr radius of the hydrogen atom, what is the de Broglie wavelength ($\lambda$) of the electron present in the second orbit of the hydrogen atom? [$n$: any integer]
+
+(1) $\dfrac{8\pi a_0}n$  (2) $\dfrac{2a_0}{n\pi}$  (3) $\dfrac{4n}{\pi a_0}$  (4) $\dfrac{4\pi a_0}n$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The orbit circumference is a whole number of wavelengths: $2\pi r=n\lambda$. For the second orbit $r=4a_0$, so $2\pi(4a_0)=n\lambda$ and $\lambda=\dfrac{8\pi a_0}n$.
+
+### § — JEE Main 2025 · Jan session · Atom set Q8 · MCQ
+
+Given below are two statements: Statement I: It is impossible to specify simultaneously with arbitrary precision both the linear momentum and the position of a particle. Statement II: If the uncertainty in the measurement of position and the uncertainty in the measurement of momentum are equal for an electron, then the uncertainty in the measurement of velocity is $\ge\sqrt{\dfrac h\pi}\times\dfrac1{2m}$.
+
+(1) Statement I is false but Statement II is true  (2) Both Statement I and Statement II are false  (3) Both Statement I and Statement II are true  (4) Statement I is true but Statement II is false
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Statement I is Heisenberg's uncertainty principle. For Statement II, $\Delta x=\Delta p$ and $\Delta x\Delta p\ge\dfrac h{4\pi}$ give $\Delta p\ge\sqrt{\dfrac h{4\pi}}=\dfrac12\sqrt{\dfrac h\pi}$, so $\Delta v\ge\dfrac1{2m}\sqrt{\dfrac h\pi}$: true.
+
+### § — JEE Main 2025 · Jan session · Atom set Q9 · MCQ
+
+Given below are two statements: Statement I: For a given shell, the total number of allowed orbitals is given by $n^2$. Statement II: For any subshell, the spatial orientation of the orbitals is given by $-l$ to $+l$ values including zero.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is true but Statement II is false  (3) Both Statement I and Statement II are true  (4) Statement I is false but Statement II is true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** In shell $n$ the number of orbitals is $\sum_{l=0}^{n-1}(2l+1)=n^2$, and each subshell has $2l+1$ orientations ($m_l=-l,\dots,0,\dots,+l$). Both are true.
+
+### § — JEE Main 2025 · Jan session · Atom set Q10 · MCQ
+
+For the hydrogen atom, the orbital(s) with the lowest energy is/are: (A) 4s (B) 3p$_x$ (C) 3d$_{x^2-y^2}$ (D) 3d$_{z^2}$ (E) 4p$_z$
+
+(1) (B), (C) and (D) only  (2) (A) and (E) only  (3) (A) only  (4) (B) only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In a one-electron atom the energy depends only on $n$. The lowest is $n=3$: 3p$_x$, 3d$_{x^2-y^2}$ and 3d$_{z^2}$.
+
+### § — JEE Main 2025 · Jan session · Atom set Q11 · MCQ
+
+Given below are two statements: Statement I: A spectral line will be observed for a $2p_x\to2p_y$ transition. Statement II: $2p_x$ and $2p_y$ are degenerate orbitals.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Statement I is true but Statement II is false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $2p_x$ and $2p_y$ have the same energy (degenerate), so a transition between them involves no energy change and gives no spectral line: Statement I false, Statement II true.
+
+### § — JEE Main 2025 · Jan session · Atom set Q12 · MCQ
+
+Which of the following is/are not correct with respect to the energy of atomic orbitals of the hydrogen atom? (A) 1s < 2p < 3d < 4s (B) 1s < 2s = 2p < 3s = 3p (C) 1s < 2s < 2p < 3s < 3p (D) 1s < 2s < 4s < 3d
+
+(1) (A) and (C) only  (2) (B) and (D) only  (3) (C) and (D) only  (4) (A) and (B) only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** In hydrogen, $E$ depends only on $n$: 1s < 2s = 2p < 3s = 3p = 3d < 4s. (A) and (B) are correct. (C) is wrong because 2s = 2p (not 2s < 2p) and 3s = 3p; (D) is wrong because 3d (n = 3) lies below 4s (n = 4).
+
+### § — JEE Main 2025 · Apr session · Atom set Q1 · MCQ
+
+According to Bohr's model of the hydrogen atom, which of the following statements is incorrect?
+
+(1) Radius of the 3rd orbit is nine times larger than that of the 1st orbit.  (2) Radius of the 8th orbit is four times larger than that of the 4th orbit.  (3) Radius of the 6th orbit is three times larger than that of the 4th orbit.  (4) Radius of the 4th orbit is four times larger than that of the 2nd orbit.
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $r\propto n^2$. $\dfrac{r_3}{r_1}=9$ ✓; $\dfrac{r_8}{r_4}=\dfrac{64}{16}=4$ ✓; $\dfrac{r_6}{r_4}=\dfrac{36}{16}=2.25$ ✗; $\dfrac{r_4}{r_2}=\dfrac{16}4=4$ ✓. Statement (3) is incorrect.
+
+### § — JEE Main 2025 · Apr session · Atom set Q2 · MCQ
+
+For an electron in '2s' and '2p' orbitals, the orbital angular momentum values, respectively, are:
+
+(1) $\sqrt2\dfrac h{2\pi}$ and 0  (2) $\dfrac h{2\pi}$ and $\sqrt2\dfrac h{2\pi}$  (3) 0 and $\sqrt6\dfrac h{2\pi}$  (4) 0 and $\sqrt2\dfrac h{2\pi}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $L=\sqrt{l(l+1)}\dfrac h{2\pi}$. For 2s, $l=0$: $L=0$. For 2p, $l=1$: $L=\sqrt2\dfrac h{2\pi}$.
+
+### § — JEE Main 2025 · Apr session · Atom set Q3 · Numerical
+
+The energy of an electron in the first Bohr orbit of the H atom is $-13.6$ eV. The magnitude of the energy of the electron in the first excited state of Be$^{3+}$ is ______ eV. (nearest integer value)
+
+**Answer: 54** · key (compiled)
+
+**Solution.** $E_n=-13.6\dfrac{Z^2}{n^2}$. For Be$^{3+}$ ($Z=4$) in the first excited state ($n=2$): $13.6\times\dfrac{16}4=54.4\approx54$ eV.
+
+### § — JEE Main 2025 · Apr session · Atom set Q5 · MCQ
+
+Which of the following postulates of Bohr's model of the hydrogen atom is not in agreement with the quantum mechanical model of an atom?
+
+(1) An atom in a stationary state does not emit electromagnetic radiation as long as it stays in the same state.  (2) An atom can take only certain distinct energies E$_1$, E$_2$, E$_3$, etc. These allowed states of constant energy are called the stationary states of the atom.  (3) When an electron makes a transition from a higher energy stationary state to a lower energy stationary state, it emits a photon of light.  (4) The electron in a H atom's stationary state moves in a circle around the nucleus.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Quantisation of energy, stationary states and photon emission on transitions survive in quantum mechanics. The definite circular path of the electron conflicts with the uncertainty principle: an orbital only gives a probability distribution. So (4).
+
+### § — JEE Main 2025 · Apr session · Atom set Q6 · MCQ
+
+Which one of the following about an electron occupying the 1s orbital in a hydrogen atom is incorrect? (Bohr's radius is represented by $a_0$)
+
+(1) The probability density of finding the electron is maximum at the nucleus.  (2) The electron can be found at a distance $2a_0$ from the nucleus.  (3) The 1s orbital is spherically symmetrical.  (4) The total energy of the electron is maximum when it is at a distance $a_0$ from the nucleus.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The 1s probability density $|\psi|^2$ is maximum at the nucleus (1 true), the electron has a non-zero probability at $2a_0$ (2 true), and 1s is spherical (3 true). The total energy of the 1s electron is a fixed value ($-13.6$ eV) and does not depend on distance, so (4) is incorrect.
+
+### § — JEE Main 2025 · Apr session · Atom set Q7 · MCQ
+
+Consider the ground state of the chromium atom ($Z=24$). How many electrons are there with azimuthal quantum number $l=1$ and $l=2$ respectively?
+
+(1) 12 and 4  (2) 16 and 4  (3) 12 and 5  (4) 16 and 5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Cr: $1s^22s^22p^63s^23p^63d^54s^1$. $l=1$ (p electrons): $2p^6+3p^6=12$; $l=2$ (d electrons): $3d^5=5$.
+

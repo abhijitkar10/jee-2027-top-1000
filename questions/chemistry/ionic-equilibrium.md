@@ -147,3 +147,141 @@ Consider two Group IV metal ions $\mathrm{X^{2+}}$ and $\mathrm{Y^{2+}}$. A solu
 
 **Solution.** YS precipitates when $[\mathrm{Y^{2+}}][\mathrm{S^{2-}}]\ge K_{sp}$: $[\mathrm{S^{2-}}]\ge\dfrac{4\times10^{-16}}{0.01}=4\times10^{-14}$ M. For saturated $\mathrm{H_2S}$, $[\mathrm{S^{2-}}]=\dfrac{K_{a1}K_{a2}[\mathrm{H_2S}]}{[\mathrm{H^+}]^2}=\dfrac{10^{-22}}{[\mathrm{H^+}]^2}$. So $[\mathrm{H^+}]^2\le\dfrac{10^{-22}}{4\times10^{-14}}=2.5\times10^{-9}$, $[\mathrm{H^+}]\le5\times10^{-5}$ M, i.e. $\mathrm{pH}\ge4.3\approx4$.
 
+### § — JEE Main 2025 · Jan session · Ion set Q1 · Numerical
+
+The total number of non-bonded electrons present in the NO$_2^-$ ion based on Lewis theory is ______.
+
+**Answer: 12** · key (compiled)
+
+**Solution.** NO$_2^-$ has $5+2\times6+1=18$ valence electrons. In the Lewis structure O=N–O$^-$ there are 3 bonding pairs (6 electrons: one double and one single N–O bond), so the non-bonded electrons are $18-6=12$ (one lone pair on N, two on the doubly bonded O and three on the singly bonded O$^-$).
+
+### § — JEE Main 2025 · Jan session · Ion set Q2 · MCQ
+
+A weak acid HA has degree of dissociation $x$. Which option gives the correct expression of (pH $-$ p$K_a$)?
+
+(1) 0  (2) $\log(1+2x)$  (3) $\log\left(\dfrac{1-x}x\right)$  (4) $\log\left(\dfrac x{1-x}\right)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Henderson–Hasselbalch: pH $=$ p$K_a+\log\dfrac{[A^-]}{[HA]}$ with $[A^-]=Cx$ and $[HA]=C(1-x)$. So pH $-$ p$K_a=\log\dfrac x{1-x}$.
+
+### § — JEE Main 2025 · Jan session · Ion set Q3 · Numerical
+
+If a 1 mM solution of ethylamine produces pH = 9, then the ionisation constant ($K_b$) of ethylamine is $10^{-x}$. The value of $x$ is ______ (nearest integer). [The degree of ionisation of ethylamine can be neglected with respect to unity.]
+
+**Answer: 7** · key (compiled)
+
+**Solution.** pOH $=5\Rightarrow[OH^-]=10^{-5}$ M. $K_b=\dfrac{[OH^-]^2}{C}=\dfrac{10^{-10}}{10^{-3}}=10^{-7}$, so $x=7$.
+
+### § — JEE Main 2025 · Jan session · Ion set Q4 · MCQ
+
+The pH of water is 7 at 25 °C. If water is heated to 80 °C, its pH will:
+
+(1) Decrease  (2) H$^+$ concentration increases, OH$^-$ concentration decreases  (3) Remain the same  (4) Increase
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Ionisation of water is endothermic, so $K_w$ increases with temperature. $[H^+]=[OH^-]=\sqrt{K_w}$ both increase, the water stays neutral, and the pH decreases (it is below 7 at 80 °C).
+
+### § — JEE Main 2025 · Jan session · Ion set Q5 · MCQ
+
+The molar solubility ($s$) of zirconium phosphate with molecular formula (Zr$^{4+}$)$_3$(PO$_4^{3-}$)$_4$ is given by the relation:
+
+(1) $\left(\dfrac{K_{sp}}{9612}\right)^{1/3}$  (2) $\left(\dfrac{K_{sp}}{6912}\right)^{1/7}$  (3) $\left(\dfrac{K_{sp}}{8435}\right)^{1/7}$  (4) $\left(\dfrac{K_{sp}}{5348}\right)^{1/6}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The salt gives $3s$ of Zr$^{4+}$ and $4s$ of PO$_4^{3-}$ per mole dissolved: $K_{sp}=(3s)^3(4s)^4=27\times256\,s^7=6912\,s^7$, so $s=\left(\dfrac{K_{sp}}{6912}\right)^{1/7}$.
+
+### § — JEE Main 2025 · Jan session · Ion set Q6 · MCQ
+
+Which of the following happens when NH$_4$OH is added gradually to a solution containing 1 M A$^{2+}$ and 1 M B$^{3+}$ ions? Given: $K_{sp}$[A(OH)$_2$] $=9\times10^{-10}$ and $K_{sp}$[B(OH)$_3$] $=27\times10^{-18}$ at 298 K.
+
+(1) Both A(OH)$_2$ and B(OH)$_3$ do not show precipitation with NH$_4$OH  (2) A(OH)$_2$ will precipitate before B(OH)$_3$  (3) B(OH)$_3$ will precipitate before A(OH)$_2$  (4) A(OH)$_2$ and B(OH)$_3$ will precipitate together
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For 1 M cations, A(OH)$_2$ needs $[OH^-]=\sqrt{9\times10^{-10}}=3\times10^{-5}$ M, while B(OH)$_3$ needs $[OH^-]=\sqrt[3]{27\times10^{-18}}=3\times10^{-6}$ M. The lower requirement is met first, so B(OH)$_3$ precipitates first.
+
+### § — JEE Main 2025 · Jan session · Ion set Q7 · MCQ
+
+$K_{sp}$ for Cr(OH)$_3$ is $1.6\times10^{-30}$. What is the molar solubility of this salt in water?
+
+(1) $\dfrac{1.8\times10^{-30}}{27}$  (2) $\sqrt[5]{1.8\times10^{-30}}$  (3) $\sqrt[4]{\dfrac{1.6\times10^{-30}}{27}}$  (4) $\sqrt[2]{1.6\times10^{-30}}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Cr(OH)$_3$ ⇌ Cr$^{3+}$ + 3OH$^-$: $K_{sp}=s(3s)^3=27s^4$, so $s=\sqrt[4]{\dfrac{K_{sp}}{27}}$.
+
+### § — JEE Main 2025 · Jan session · Ion set Q8 · MCQ
+
+Arrange the following in increasing order of solubility product: Ca(OH)$_2$, AgBr, PbS, HgS.
+
+(1) HgS < AgBr < PbS < Ca(OH)$_2$  (2) Ca(OH)$_2$ < AgBr < HgS < PbS  (3) PbS < HgS < Ca(OH)$_2$ < AgBr  (4) HgS < PbS < AgBr < Ca(OH)$_2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Typical values: HgS $\sim10^{-52}$, PbS $\sim10^{-28}$, AgBr $\sim5\times10^{-13}$, Ca(OH)$_2$ $\sim5\times10^{-6}$. The sulphides are far less soluble than the hydroxide/halide, and HgS is the least soluble.
+
+### § — JEE Main 2025 · Apr session · Ion set Q1 · Numerical
+
+$x$ mg of Mg(OH)$_2$ (molar mass 58) is required to be dissolved in 1.0 L of water to produce a pH of 10.0 at 298 K. The value of $x$ is ______ mg. (Nearest integer) (Mg(OH)$_2$ is assumed to dissociate completely in H$_2$O.)
+
+**Answer: 3** · key (compiled)
+
+**Solution.** pH 10 means pOH 4 and $[OH^-]=10^{-4}$ M. Each Mg(OH)$_2$ gives 2OH$^-$, so $[Mg(OH)_2]=5\times10^{-5}$ M $=5\times10^{-5}\times58$ g/L $=2.9$ mg $\approx3$ mg.
+
+### § — JEE Main 2025 · Apr session · Ion set Q2 · MCQ
+
+An aqueous solution of HCl with pH 1.0 is diluted by adding an equal volume of water (ignoring the dissociation of water). The pH of the HCl solution would: (Given $\log2=0.30$)
+
+(1) reduce to 0.5  (2) increase to 1.3  (3) remain same  (4) increase to 2
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Diluting to twice the volume halves $[H^+]$: $0.1\to0.05$ M, so pH $=1+\log2=1.30$.
+
+### § — JEE Main 2025 · Apr session · Ion set Q3 · Numerical
+
+The equilibrium constant for the decomposition of H$_2$O(g), H$_2$O(g) ⇌ H$_2$(g) + $\tfrac12$O$_2$(g) ($\Delta G^\circ=92.34$ kJ mol$^{-1}$), is $8.0\times10^{-3}$ at 2300 K and the total pressure at equilibrium is 1 bar. Under this condition, the degree of dissociation ($\alpha$) of water is ______ $\times10^{-2}$ (nearest integer value). [Assume $\alpha$ is negligible with respect to 1.]
+
+**Answer: 5** · key (compiled)
+
+**Solution.** For 1 mol H$_2$O: H$_2$ $=\alpha$, O$_2$ $=\alpha/2$, total $\approx1$, so $K_p=\alpha\cdot\left(\dfrac\alpha2\right)^{1/2}P^{1/2}=\dfrac{\alpha^{3/2}}{\sqrt2}$ (at $P=1$). $\alpha^{3/2}=8\times10^{-3}\times1.414=0.0113$, so $\alpha=0.0113^{2/3}=0.0503\approx5\times10^{-2}$.
+
+### § — JEE Main 2025 · Apr session · Ion set Q4 · MCQ
+
+10 mL of 2 M NaOH solution is added to 20 mL of 1 M HCl solution kept in a beaker. Now 10 mL of this mixture is poured into a volumetric flask of 100 mL containing 2 moles of HCl and made up to the mark with distilled water. The solution in this flask is:
+
+(1) 0.2 M NaCl solution  (2) 20 M HCl solution  (3) 10 M HCl solution  (4) Neutral solution
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** NaOH (20 mmol) exactly neutralises HCl (20 mmol), leaving a neutral NaCl solution, so the 10 mL poured out adds no acid. The flask therefore holds essentially 2 mol HCl in 0.100 L, i.e. 20 M HCl (the NaCl is a negligible 0.067 mmol/mL spectator).
+
+### § — JEE Main 2025 · Apr session · Ion set Q5 · Numerical
+
+The pH of a 0.01 M weak acid HX ($K_a=4\times10^{-10}$) is found to be 5. Now the acid solution is diluted with excess of water so that the pH of the solution changes to 6. The new concentration of the diluted weak acid is given as $x\times10^{-4}$ M. The value of $x$ is ______ (nearest integer).
+
+**Answer: 25** · key (compiled)
+
+**Solution.** For a weak acid $[H^+]=\sqrt{K_aC}$. At pH 6, $10^{-6}=\sqrt{4\times10^{-10}\,C'}\Rightarrow C'=\dfrac{10^{-12}}{4\times10^{-10}}=2.5\times10^{-3}$ M $=25\times10^{-4}$ M.
+
+### § — JEE Main 2025 · Apr session · Ion set Q6 · Numerical
+
+A one-litre buffer solution was prepared by adding 0.10 mol each of NH$_3$ and NH$_4$Cl in deionised water. The change in pH on addition of 0.05 mol of HCl to the above solution is ______ $\times10^{-2}$ (nearest integer). (Given p$K_b$ of NH$_3=4.745$ and $\log_{10}3=0.477$)
+
+**Answer: 48** · key (compiled)
+
+**Solution.** Initially pOH $=$ p$K_b=4.745$ (equal NH$_3$ and NH$_4^+$). After 0.05 mol HCl: NH$_3$ $=0.05$, NH$_4^+$ $=0.15$: pOH $=4.745+\log\dfrac{0.15}{0.05}=4.745+0.477=5.222$. The pH falls by 0.477, i.e. $48\times10^{-2}$.
+
+### § — JEE Main 2025 · Apr session · Ion set Q7 · MCQ
+
+If equal volumes of AB$_2$ and XY (both salts) aqueous solutions are mixed, which of the following combinations will give a precipitate of AY$_2$ at 300 K? (Given $K_{sp}$ of AY$_2$ at 300 K $=5.2\times10^{-7}$)
+
+(1) $3.6\times10^{-3}$ M AB$_2$, $5.0\times10^{-4}$ M XY  (2) $2.0\times10^{-4}$ M AB$_2$, $0.8\times10^{-3}$ M XY  (3) $2.0\times10^{-2}$ M AB$_2$, $2.0\times10^{-2}$ M XY  (4) $1.5\times10^{-4}$ M AB$_2$, $1.5\times10^{-3}$ M XY
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Mixing equal volumes halves each concentration. Precipitation needs the ionic product $[A][Y]^2>5.2\times10^{-7}$. (3): $(10^{-2})(10^{-2})^2=10^{-6}$, which exceeds $K_{sp}$. The others give $1.1\times10^{-10}$, $1.6\times10^{-11}$ and $4\times10^{-11}$, far below it.
+

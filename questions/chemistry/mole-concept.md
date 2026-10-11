@@ -209,3 +209,233 @@ In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
 **Solution.** KOH absorbs $\mathrm{CO_2}$: $V(\mathrm{CO_2})=224-64=160$ mL; the remaining 64 mL is unused $\mathrm{O_2}$, so $\mathrm{O_2}$ consumed $=264-64=200$ mL (water condenses). For $\mathrm{C_xH_y}$: $x=\dfrac{160}{80}=2$ and $x+\dfrac y4=\dfrac{200}{80}=2.5\Rightarrow y=2$. The hydrocarbon is $\mathrm{C_2H_2}$.
 
+### § — JEE Main 2025 · Jan session · Mole set Q1 · Numerical
+
+20 mL of 2 M NaOH solution is added to 400 mL of 0.5 M NaOH solution. The final concentration of the solution is ______ $\times10^{-2}$ M. (Nearest integer)
+
+**Answer: 57** · key (compiled)
+
+**Solution.** Moles $=0.020\times2+0.400\times0.5=0.24$ mol in 0.420 L: $M=0.5714=57.14\times10^{-2}$ M, so the answer is 57.
+
+### § — JEE Main 2025 · Jan session · Mole set Q2 · Numerical
+
+The hydrocarbon (X) with molar mass 80 g mol$^{-1}$ and 90% carbon has ______ degree of unsaturation.
+
+**Answer: 3** · key (compiled)
+
+**Solution.** Carbon $=0.9\times80=72$ g, i.e. 6 C atoms; hydrogen $=8$ g, i.e. 8 H atoms: C$_6$H$_8$. Degree of unsaturation $=\dfrac{2\cdot6+2-8}2=3$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q3 · MCQ
+
+The elemental composition of a compound is 54.2% C, 9.2% H and 36.6% O. If the molar mass of the compound is 132 g mol$^{-1}$, the molecular formula of the compound is: [Given: relative atomic mass of C : H : O = 12 : 1 : 16]
+
+(1) C$_4$H$_9$O$_3$  (2) C$_6$H$_{12}$O$_6$  (3) C$_4$H$_8$O$_2$  (4) C$_6$H$_{12}$O$_3$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Mole ratio $C:H:O=\dfrac{54.2}{12}:\dfrac{9.2}1:\dfrac{36.6}{16}=4.52:9.2:2.29\approx2:4:1$, so the empirical formula is C$_2$H$_4$O (mass 44). $\dfrac{132}{44}=3$, giving C$_6$H$_{12}$O$_3$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q4 · MCQ
+
+$2.8\times10^{-3}$ mol of CO$_2$ is left after removing $10^{21}$ molecules from its '$x$' mg sample. The mass of CO$_2$ taken initially is: Given $N_A=6.02\times10^{23}$ mol$^{-1}$.
+
+(1) 98.3 mg  (2) 48.2 mg  (3) 196.2 mg  (4) 150.4 mg
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Moles removed $=\dfrac{10^{21}}{6.02\times10^{23}}=1.66\times10^{-3}$. Initial moles $=(2.8+1.66)\times10^{-3}=4.46\times10^{-3}$, and the mass is $4.46\times10^{-3}\times44=196.2$ mg.
+
+### § — JEE Main 2025 · Jan session · Mole set Q5 · Numerical
+
+0.01 mole of an organic compound (X) containing 10% hydrogen, on complete combustion produced 0.9 g H$_2$O. The molar mass of (X) is ______ g mol$^{-1}$.
+
+**Answer: 100** · key (compiled)
+
+**Solution.** 0.9 g H$_2$O is 0.05 mol, containing 0.1 mol (0.1 g) of H. This hydrogen comes from 0.01 mol of (X) and is 10% of its mass, so 0.01 mol has mass 1 g and $M=100$ g mol$^{-1}$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q6 · Numerical
+
+When 81.0 g of aluminium is allowed to react with 128.0 g of oxygen gas, the mass of aluminium oxide produced in grams is ______ (nearest integer). Molar mass of Al is 27.0 and of O is 16.0 g mol$^{-1}$.
+
+**Answer: 153** · key (compiled)
+
+**Solution.** 4Al + 3O$_2$ → 2Al$_2$O$_3$. Al: 3 mol; O$_2$: 4 mol. 3 mol Al needs only 2.25 mol O$_2$, so Al is limiting: Al$_2$O$_3$ $=1.5$ mol $\times102=153$ g.
+
+### § — JEE Main 2025 · Jan session · Mole set Q7 · Numerical
+
+$X$ g of benzoic acid on reaction with aq. NaHCO$_3$ released CO$_2$ that occupied 11.2 L volume at STP. $X$ is ______ g.
+
+**Answer: 61** · key (compiled)
+
+**Solution.** C$_6$H$_5$COOH + NaHCO$_3$ → C$_6$H$_5$COONa + H$_2$O + CO$_2$. 11.2 L at STP is 0.5 mol CO$_2$, which needs 0.5 mol benzoic acid: $0.5\times122=61$ g.
+
+### § — JEE Main 2025 · Jan session · Mole set Q8 · MCQ
+
+The density of 3 M NaCl solution is 1.25 g/mL. The molality of the solution is:
+
+(1) 1.79 m  (2) 2.79 m  (3) 2 m  (4) 3 m
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** 1 L of solution weighs 1250 g and contains $3\times58.5=175.5$ g NaCl, so the solvent is $1250-175.5=1074.5$ g $=1.0745$ kg. $m=\dfrac3{1.0745}=2.79$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q9 · Numerical
+
+The molarity of a 70% (mass/mass) aqueous solution of a monobasic acid (X) is ______ $\times10^{-1}$ M (nearest integer). [Density of the solution is 1.25 g mL$^{-1}$; molar mass of the acid is 70 g mol$^{-1}$]
+
+**Answer: 125** · key (compiled)
+
+**Solution.** $M=\dfrac{\%\times d\times10}{M_w}=\dfrac{70\times1.25\times10}{70}=12.5$ M $=125\times10^{-1}$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q10 · MCQ
+
+Concentrated nitric acid is labelled as 75% by mass. The volume in mL of the solution which contains 30 g of nitric acid is ______. (Density of the solution: 1.25 g/mL.)
+
+(1) 40  (2) 32  (3) 45  (4) 55
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** 30 g of HNO$_3$ is in $\dfrac{30}{0.75}=40$ g of solution, whose volume is $\dfrac{40}{1.25}=32$ mL.
+
+### § — JEE Main 2025 · Jan session · Mole set Q11 · Numerical
+
+Consider the following reaction occurring in the blast furnace: Fe$_3$O$_4$(s) + 4CO(g) → 3Fe(l) + 4CO$_2$(g). '$x$' kg of iron is produced when $2.32\times10^3$ kg Fe$_3$O$_4$ and $2.8\times10^2$ kg CO are brought together in the furnace. The value of '$x$' is ______ (nearest integer). Molar masses: Fe$_3$O$_4$ 232, CO 28, Fe 56 g mol$^{-1}$.
+
+**Answer: 420** · key (compiled)
+
+**Solution.** Fe$_3$O$_4$: $\dfrac{2.32\times10^6}{232}=10^4$ mol; CO: $\dfrac{2.8\times10^5}{28}=10^4$ mol. CO is limiting (4 mol per mol Fe$_3$O$_4$): Fe$_3$O$_4$ used $=2500$ mol, so Fe $=3\times2500=7500$ mol $=7500\times56$ g $=420$ kg.
+
+### § — JEE Main 2025 · Jan session · Mole set Q12 · Numerical
+
+Quantitative analysis of an organic compound (X) shows the following % composition: C 14.5%, Cl 64.46%, H 1.8%. The empirical formula mass of the compound (X) is ______ $\times10^{-1}$. (Given molar mass in g mol$^{-1}$ of C: 12, H: 1, O: 16, Cl: 35.5)
+
+**Answer: 1655** · key (compiled)
+
+**Solution.** The remainder is oxygen: $100-14.5-64.46-1.8=19.24\%$. Mole ratios: C $\dfrac{14.5}{12}=1.21$, Cl $\dfrac{64.46}{35.5}=1.82$, H $1.8$, O $\dfrac{19.24}{16}=1.20$. Dividing by 1.2: $1:1.5:1.5:1$, i.e. C$_2$Cl$_3$H$_3$O$_2$. Mass $=24+106.5+3+32=165.5=1655\times10^{-1}$.
+
+### § — JEE Main 2025 · Jan session · Mole set Q13 · MCQ
+
+Choose the correct statements.
+
+(A) Weight of a substance is the amount of matter present in it.
+(B) Mass is the force exerted by gravity on an object.
+(C) Volume is the amount of space occupied by a substance.
+(D) Temperatures below 0 °C are possible in the Celsius scale, but in the Kelvin scale negative temperature is not possible.
+(E) Precision refers to the closeness of various measurements for the same quantity.
+
+(1) (A), (D) and (E) only  (2) (C), (D) and (E) only  (3) (A), (B) and (C) only  (4) (B), (C) and (D) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Mass (not weight) is the amount of matter, and weight is the force exerted by gravity, so (A) and (B) are wrong. (C), (D) and (E) are standard definitions and are true.
+
+### § — JEE Main 2025 · Apr session · Mole set Q1 · Numerical
+
+The amount of calcium oxide produced on heating 150 kg limestone (75% pure) is ______ kg. (Nearest integer) Given: molar mass (in g mol$^{-1}$) of Ca 40, O 16, C 12.
+
+**Answer: 63** · key (compiled)
+
+**Solution.** Pure CaCO$_3$ $=0.75\times150=112.5$ kg. CaCO$_3$ → CaO + CO$_2$: CaO $=\dfrac{56}{100}\times112.5=63$ kg.
+
+### § — JEE Main 2025 · Apr session · Mole set Q2 · Numerical
+
+20 mL of sodium iodide solution gave 4.74 g silver iodide when treated with excess of silver nitrate solution. The molarity of the sodium iodide solution is ______ M. (Nearest integer) (Na = 23, I = 127, Ag = 108, N = 14, O = 16 g mol$^{-1}$)
+
+**Answer: 1** · key (compiled)
+
+**Solution.** AgI: $M=235$, so moles $=\dfrac{4.74}{235}=0.0202$ mol $=$ moles of NaI. $M=\dfrac{0.0202}{0.020}=1.01\approx1$ M.
+
+### § — JEE Main 2025 · Apr session · Mole set Q3 · Numerical
+
+0.1 mol of the antiviral compound (P) shown in the figure will weigh ______ $\times10^{-1}$ g. (Given: molar mass in g mol$^{-1}$ H 1, C 12, N 14, O 16, F 19, I 127.)
+
+![Figure](../../figures/a25_che_mol/q3-1.png)
+
+**Answer: 372** · key (compiled)
+
+**Solution.** Counting atoms in the structure: the iodouracil ring gives C$_4$H$_2$IN$_2$O$_2$ (two ring H: one on N and one on C), and the fluorinated deoxy-sugar gives C$_5$H$_8$FO$_3$. The formula is C$_9$H$_{10}$FIN$_2$O$_5$: $108+10+19+127+28+80=372$ g mol$^{-1}$. 0.1 mol weighs 37.2 g $=372\times10^{-1}$ g.
+
+### § — JEE Main 2025 · Apr session · Mole set Q4 · MCQ
+
+Among $10^{-9}$ g (each) of the following elements, which one will have the highest number of atoms? Elements: Pb, Po, Pr and Pt.
+
+(1) Po  (2) Pr  (3) Pb  (4) Pt
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For equal masses, the number of atoms is inversely proportional to the atomic mass. Atomic masses: Pb 207, Po 209, Pr 141, Pt 195. Pr has the smallest, so it has the most atoms.
+
+### § — JEE Main 2025 · Apr session · Mole set Q5 · Numerical
+
+Fortification of food with iron is done using FeSO$_4$·7H$_2$O. The mass in grams of FeSO$_4$·7H$_2$O required to achieve 12 ppm of iron in 150 kg of wheat is ______ (nearest integer). [Molar mass of Fe, S and O respectively are 56, 32 and 16 g mol$^{-1}$]
+
+**Answer: 9** · key (compiled)
+
+**Solution.** 12 ppm of 150 kg $=12\times10^{-6}\times150\times10^3$ g $=1.8$ g Fe. FeSO$_4$·7H$_2$O ($M=278$) contains 56 g Fe per 278 g: $\dfrac{1.8\times278}{56}=8.9\approx9$ g.
+
+### § — JEE Main 2025 · Apr session · Mole set Q6 · MCQ
+
+For the reaction CaCO$_3$(s) + 2HCl(aq) → CaCl$_2$(aq) + CO$_2$(g) + H$_2$O(l), what mass of CaCl$_2$ will be formed if 250 mL of 0.76 M HCl reacts with 1000 g of CaCO$_3$? (Molar mass of Ca, C, O, H and Cl are 40, 12, 16, 1 and 35.5 g mol$^{-1}$)
+
+(1) 3.908 g  (2) 2.636 g  (3) 10.545 g  (4) 5.272 g
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** HCl $=0.25\times0.76=0.19$ mol is limiting (1000 g CaCO$_3$ is in huge excess). CaCl$_2$ $=\dfrac{0.19}2=0.095$ mol $\times111=10.545$ g.
+
+### § — JEE Main 2025 · Apr session · Mole set Q7 · Numerical
+
+2-Bromopentane (151 g) is reacted with alcoholic KOH to give the major product P (yield 80%), which is then reacted with Br$_2$ to give Q (yield 100%). The mass of product Q obtained is ______ g. (Given molar mass in g mol$^{-1}$: H 1, C 12, O 16, Br 80)
+
+![Figure](../../figures/a25_che_mol/q7-1.png)
+
+**Answer: 184** · key (compiled)
+
+**Solution.** 151 g of 2-bromopentane (C$_5$H$_{11}$Br, $M=151$) is 1 mol. The major product (Zaitsev) is pent-2-ene: $0.8$ mol. Addition of Br$_2$ gives 2,3-dibromopentane (C$_5$H$_{10}$Br$_2$, $M=230$): $0.8\times230=184$ g.
+
+### § — JEE Main 2025 · Apr session · Mole set Q8 · MCQ
+
+The mass of magnesium required to produce 220 mL of hydrogen gas at STP on reaction with excess dil. HCl is: (Molar mass of Mg is 24 g mol$^{-1}$.)
+
+(1) 235.7 g  (2) 0.24 mg  (3) 236 mg  (4) 2.444 g
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Mg + 2HCl → MgCl$_2$ + H$_2$. $n(H_2)=\dfrac{0.220}{22.4}=9.82\times10^{-3}$ mol $=n(Mg)$. Mass $=9.82\times10^{-3}\times24=0.2357$ g $\approx236$ mg.
+
+### § — JEE Main 2025 · Apr session · Mole set Q9 · Numerical
+
+An organic compound weighing 500 mg produced 220 mg of CO$_2$ on complete combustion. The percentage composition of carbon in the compound is ______ %. (nearest integer) (Given molar mass in g mol$^{-1}$ of C: 12, O: 16)
+
+**Answer: 12** · key (compiled)
+
+**Solution.** Carbon in 220 mg CO$_2$: $\dfrac{12}{44}\times220=60$ mg. Percentage $=\dfrac{60}{500}\times100=12\%$.
+
+### § — JEE Main 2025 · Apr session · Mole set Q10 · Numerical
+
+Butane reacts with oxygen to give carbon dioxide and water: C$_4$H$_{10}$(g) + $\tfrac{13}2$O$_2$(g) → 4CO$_2$(g) + 5H$_2$O(l). If 174.0 kg of butane is mixed with 320.0 kg of O$_2$, the volume of water formed in litres is ______. (nearest integer) [Molar mass of C, H, O: 12, 1, 16; density of water 1 g mL$^{-1}$]
+
+**Answer: 138** · key (compiled)
+
+**Solution.** Butane $=\dfrac{174000}{58}=3000$ mol; O$_2$ $=\dfrac{320000}{32}=10000$ mol. Butane would need $3000\times6.5=19500$ mol O$_2$, so O$_2$ is limiting: butane consumed $=\dfrac{10000}{6.5}=1538.5$ mol and water formed $=5\times1538.5=7692$ mol $=138.5$ kg $\approx138$ L.
+
+### § — JEE Main 2025 · Apr session · Mole set Q11 · MCQ
+
+On combustion, 0.210 g of an organic compound containing C, H and O gave 0.127 g H$_2$O and 0.307 g CO$_2$. The percentages of hydrogen and oxygen in the given organic compound respectively are:
+
+(1) 53.41, 39.6  (2) 6.72, 53.41  (3) 7.55, 43.85  (4) 6.72, 39.87
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** H $=\dfrac2{18}\times0.127=0.01411$ g $\Rightarrow6.72\%$. C $=\dfrac{12}{44}\times0.307=0.0837$ g $\Rightarrow39.87\%$. O $=100-6.72-39.87=53.41\%$.
+
+### § — JEE Main 2025 · Apr session · Mole set Q12 · MCQ
+
+On complete combustion, 1.0 g of an organic compound (X) gave 1.46 g of CO$_2$ and 0.567 g of H$_2$O. The empirical formula mass of compound (X) is ______ g. (Given molar mass in g mol$^{-1}$: C 12, H 1, O 16)
+
+(1) 30  (2) 45  (3) 60  (4) 15
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** C $=\dfrac{12}{44}\times1.46=0.398$ g ($0.0332$ mol); H $=\dfrac2{18}\times0.567=0.063$ g ($0.063$ mol); O $=1-0.398-0.063=0.539$ g ($0.0337$ mol). Ratio C : H : O $\approx1:1.9:1$, so the empirical formula is CH$_2$O with mass 30 g.
+
