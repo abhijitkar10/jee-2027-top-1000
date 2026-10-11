@@ -104,3 +104,75 @@ For the hypothetical reactions $\text{X}\rightleftharpoons\text{Y}$ ($K_1=1.0$),
 
 **Solution.** Adding reactions multiplies the constants: $K=K_1K_2K_3=1.0\times2.0\times4.0=8.0$.
 
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+
+Consider the general reaction $x\,\mathrm{A(g)}\rightleftharpoons y\,\mathrm{B(g)}$ at 400 K. The values of $K_p$ and $K_c$ are studied under the same condition of temperature but with variation in $x$ and $y$. (i) $K_p=85.87$ and $K_c=2.586$ (appropriate units); (ii) $K_p=0.862$ and $K_c=28.62$ (appropriate units). The values of $x$ and $y$ in (i) and (ii) respectively are:
+
+(1) (i) 1, 3; (ii) 2, 1  (2) (i) 4, 1; (ii) 4, 1  (3) (i) 3, 1; (ii) 3, 1  (4) (i) 1, 2; (ii) 2, 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $K_p=K_c(RT)^{\Delta n_g}$ with $\Delta n_g=y-x$ and $RT=0.0821\times400=32.84$. (i) $K_p/K_c=85.87/2.586=33.2\approx32.84^{1}$, so $\Delta n_g=+1$: $y-x=1$. (ii) $K_p/K_c=0.862/28.62=0.0301\approx32.84^{-1}$, so $\Delta n_g=-1$: $y-x=-1$. Only option (4) [(i) $x=1,y=2$; (ii) $x=2,y=1$] satisfies both.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+For the gas-phase equilibrium $\mathrm{NH_3(g)\rightleftharpoons\tfrac12N_2(g)+\tfrac32H_2(g)}$ at constant temperature, if the total pressure is $\sqrt3$ atm and the pressure equilibrium constant $K_p$ is 9 atm, then the degree of dissociation is $(x\times10^{-2})^{-1/2}$. The value of $x$ is ______ (nearest integer).
+
+**Answer: 125** · key (compiled)
+
+**Solution.** Start with 1 mol $\mathrm{NH_3}$: at equilibrium $\mathrm{NH_3}=1-\alpha$, $\mathrm{N_2}=\alpha/2$, $\mathrm{H_2}=3\alpha/2$, total $=1+\alpha$. $K_p=\dfrac{p_{N_2}^{1/2}p_{H_2}^{3/2}}{p_{NH_3}}=\dfrac{(\alpha/2)^{1/2}(3\alpha/2)^{3/2}}{(1-\alpha)(1+\alpha)}\,P=\dfrac{3\sqrt3}{4}\dfrac{\alpha^2}{1-\alpha^2}P$. With $P=\sqrt3$: $9=\dfrac94\dfrac{\alpha^2}{1-\alpha^2}\Rightarrow\alpha^2=\dfrac45$, $\alpha=\dfrac{2}{\sqrt5}=(1.25)^{-1/2}$. So $x\times10^{-2}=1.25$ and $x=125$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+Observe the equilibrium $\mathrm{A(g)\rightleftharpoons B(g)}$ in a 1 L flask. At $T$ (K) the equilibrium concentrations of A and B are 0.5 M and 0.375 M respectively. 0.1 mol of A is added into the flask and heated to $T$ (K) to establish equilibrium again. The new equilibrium concentrations (in M) of A and B are, respectively:
+
+(1) 0.53, 0.4  (2) 0.742, 0.557  (3) 0.557, 0.418  (4) 0.367, 0.275
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $K_c=\dfrac{0.375}{0.5}=0.75$. After adding A: $[\mathrm A]=0.6$, $[\mathrm B]=0.375$, $Q=0.625<K_c$, so the reaction goes forward by $x$: $\dfrac{0.375+x}{0.6-x}=0.75\Rightarrow1.75x=0.075\Rightarrow x=0.0429$. $[\mathrm A]=0.557$ M, $[\mathrm B]=0.418$ M.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+Consider the gaseous equilibrium $\mathrm{P_2(g)+Q_2(g)\rightleftharpoons2PQ(g)}$ in a closed container of volume $V$ at $T$ (K). 2 moles each of $\mathrm{P_2}$, $\mathrm{Q_2}$ and $\mathrm{PQ}$ are present at equilibrium. Now one mole each of $\mathrm{P_2}$ and $\mathrm{Q_2}$ are added to the equilibrium keeping the temperature at $T$ (K). The number of moles of $\mathrm{P_2,Q_2}$ and $\mathrm{PQ}$ at the new equilibrium are, respectively:
+
+(1) 1.66, 1.66, 1.66  (2) 2.56, 1.62, 2.24  (3) 2.67, 2.67, 2.67  (4) 1.21, 2.24, 1.56
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $K=\dfrac{[\mathrm{PQ}]^2}{[\mathrm{P_2}][\mathrm{Q_2}]}=\dfrac{2^2}{2\times2}=1$ ($\Delta n_g=0$, so volume cancels). After the addition the composition is (3, 3, 2): $Q=4/9<1$, so the reaction goes forward by $x$: $\dfrac{(2+2x)^2}{(3-x)^2}=1\Rightarrow2+2x=3-x\Rightarrow x=\tfrac13$. $\mathrm{P_2}=\mathrm{Q_2}=3-\tfrac13=2.67$ and $\mathrm{PQ}=2+\tfrac23=2.67$ mol.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q5 · Numerical
+
+Dissociation of a gas $\mathrm{A_2}$ takes place according to $\mathrm{A_2(g)\rightleftharpoons2A(g)}$. At equilibrium, the total pressure is 1 bar at 300 K. The standard Gibbs energies of formation are: $\mathrm{A_2}$: $-100.00$ kJ mol$^{-1}$; A: $-50.832$ kJ mol$^{-1}$. The degree of dissociation of $\mathrm{A_2(g)}$ is given by $(x\times10^{-2})^{1/2}$ where $x=$ ______ (nearest integer). [Given: $R=8$ J mol$^{-1}$ K$^{-1}$, $\log2=0.3010$, $\log3=0.48$. Assume the degree of dissociation is not negligible.]
+
+**Answer: 33** · key (compiled)
+
+**Solution.** $\Delta G^\circ=2(-50.832)-(-100.00)=-1.664$ kJ mol$^{-1}$. $\Delta G^\circ=-RT\ln K_p$: $-1664=-8\times300\ln K_p\Rightarrow\ln K_p=0.693$, $K_p=2$. For 1 mol $\mathrm{A_2}$: $K_p=\dfrac{(2\alpha)^2}{(1-\alpha)(1+\alpha)}P=\dfrac{4\alpha^2}{1-\alpha^2}=2\Rightarrow\alpha^2=\dfrac13$. So $x\times10^{-2}=\dfrac13$, $x\approx33$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q6 · Numerical
+
+$\mathrm{X_2(g)}$ and $\mathrm{Y_2(g)}$ are added to a 1 L flask and the system attains the equilibrium $\mathrm{X_2(g)+Y_2(g)\rightleftharpoons2Z(g)}$ at $T$ (K), with the numbers of moles of $\mathrm{X_2}$, $\mathrm{Y_2}$ and $\mathrm Z$ being 3, 3 and 9 mol respectively (equilibrium moles). Under this condition of equilibrium, 10 mol of $\mathrm{Z(g)}$ is added to the flask and the temperature is maintained at $T$ (K). The number of moles of $\mathrm{Z(g)}$ in the flask when the new equilibrium is established is ______ (nearest integer).
+
+**Answer: 15** · key (compiled)
+
+**Solution.** $K_c=\dfrac{9^2}{3\times3}=9$. After adding 10 mol Z: $[\mathrm{X_2}]=[\mathrm{Y_2}]=3$, $[\mathrm Z]=19$; $Q=361/9>K_c$, so the reaction goes backward by $y$ (mol of $\mathrm{X_2}$ formed): $\dfrac{(19-2y)^2}{(3+y)^2}=9\Rightarrow19-2y=3(3+y)\Rightarrow y=2$. $n(\mathrm Z)=19-4=15$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q7 · MCQ
+
+For the reaction $\mathrm{N_2O_4\rightleftharpoons2NO_2}$, the graph is plotted as shown below. Identify the correct statements.
+
+A. The standard free energy change for the reaction is $-5.40$ kJ mol$^{-1}$.
+B. As $\Delta G^\ominus$ in the graph is positive, $\mathrm{N_2O_4}$ will not dissociate into $\mathrm{NO_2}$ at all.
+C. The reverse reaction will go to completion.
+D. When 1 mole of $\mathrm{N_2O_4}$ changes into the equilibrium mixture, the value of $\Delta G^\ominus=-0.84$ kJ mol$^{-1}$.
+E. When 2 moles of $\mathrm{NO_2}$ change into the equilibrium mixture, $\Delta G^\ominus$ for the equilibrium mixture is $-6.24$ kJ mol$^{-1}$.
+
+![Figure](../../figures/j26_che_chemical-equilibrium/q7-1.png)
+
+(1) D and E only  (2) A and D only  (3) B and C only  (4) C and E only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** From the graph, pure $\mathrm{N_2O_4}$ (A) is the reference, the minimum of $G$ (the equilibrium mixture, E) lies $0.84$ kJ mol$^{-1}$ below it, and pure $\mathrm{NO_2}$ (B) lies $5.40$ kJ mol$^{-1}$ above it. So $\Delta G^\ominus=G_{\mathrm{B}}-G_{\mathrm A}=+5.40$ kJ mol$^{-1}$ (A false). A positive $\Delta G^\ominus$ only means $K<1$ – a mixture still forms (B false) – and no reaction goes to completion (C false). $\mathrm{N_2O_4}\to$ equilibrium mixture: $\Delta G=-0.84$ (D true). $2\,\mathrm{NO_2}\to$ equilibrium mixture: $\Delta G=-(5.40+0.84)=-6.24$ kJ mol$^{-1}$ (E true).
+

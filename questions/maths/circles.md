@@ -76,3 +76,91 @@ Let $z_1=1+2i$, $z_2=3i$ and $S=\{(x,y)\in\mathbb R^2:|x+iy-z_1|=2|x+iy-z_2|\}$.
 
 **Solution.** $(x-1)^2+(y-2)^2=4\left[x^2+(y-3)^2\right]\Rightarrow3x^2+3y^2+2x-20y+31=0\Rightarrow x^2+y^2+\tfrac23x-\tfrac{20}3y+\tfrac{31}3=0$. Centre $\left(-\tfrac13,\tfrac{10}3\right)$; $r^2=\tfrac19+\tfrac{100}9-\tfrac{31}3=\tfrac89$, so $r=\tfrac{2\sqrt2}3$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+If P is a point on the circle $x^2+y^2=4$, Q is a point on the straight line $5x+y+2=0$ and $x-y+1=0$ is the perpendicular bisector of PQ, then 13 times the sum of the abscissae of all such points P is ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** $Q$ is the reflection of $P(p,q)$ in the line $y=x+1$, which maps $(p,q)\to(q-1,\,p+1)$. $Q$ on $5x+y+2=0$: $5(q-1)+(p+1)+2=0\Rightarrow p=2-5q$. $P$ on the circle: $(2-5q)^2+q^2=4\Rightarrow26q^2-20q=0\Rightarrow q=0$ or $\tfrac{10}{13}$, giving $p=2$ or $-\tfrac{24}{13}$. Sum of abscissae $=2-\tfrac{24}{13}=\tfrac2{13}$, so $13\times$ sum $=2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+
+Let the circle $x^2+y^2=4$ intersect the $x$-axis at the points $A(a,0)$, $a>0$ and $B(b,0)$. Let $P(2\cos\alpha,2\sin\alpha)$, $0<\alpha<\dfrac\pi2$ and $Q(2\cos\beta,2\sin\beta)$ be two points such that $(\alpha-\beta)=\dfrac\pi2$. Then the point of intersection of $AQ$ and $BP$ lies on:
+
+(1) $x^2+y^2-4y-4=0$  (2) $x^2+y^2-4x-4y=0$  (3) $x^2+y^2-4x-4=0$  (4) $x^2+y^2-4x-4y-4=0$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $A=(2,0)$, $B=(-2,0)$ and $Q=(2\cos(\alpha-\tfrac\pi2),2\sin(\alpha-\tfrac\pi2))=(2\sin\alpha,-2\cos\alpha)$. Slope of $BP=\dfrac{\sin\alpha}{1+\cos\alpha}=\tan\tfrac\alpha2=t$; slope of $AQ=\dfrac{\cos\alpha}{1-\sin\alpha}=\tan\left(\tfrac\pi4+\tfrac\alpha2\right)=\dfrac{1+t}{1-t}$. For the intersection $R(h,k)$: $t=\dfrac k{h+2}$ and $\dfrac k{h-2}=\dfrac{h+2+k}{h+2-k}$. Cross-multiplying: $k(h+2-k)=(h-2)(h+2+k)\Rightarrow h^2+k^2-4k-4=0$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q3 · MCQ
+
+Let the set of all values of $r$ for which the circles $(x+1)^2+(y+4)^2=r^2$ and $x^2+y^2-4x-2y-4=0$ intersect at two distinct points be the interval $(\alpha,\beta)$. Then $\alpha\beta$ is equal to:
+
+(1) 21  (2) 24  (3) 20  (4) 25
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Centres $(-1,-4)$ with radius $r$, and $(2,1)$ with radius $3$ (since $(x-2)^2+(y-1)^2=9$). The distance between the centres is $\sqrt{9+25}=\sqrt{34}$. Two intersection points need $|r-3|<\sqrt{34}<r+3$, so $\sqrt{34}-3<r<\sqrt{34}+3$. $\alpha\beta=34-9=25$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q4 · MCQ
+
+If the points of intersection of the ellipses $x^2+2y^2-6x-12y+23=0$ and $4x^2+2y^2-20x-12y+35=0$ lie on a circle of radius $r$ and centre $(a,b)$, then the value of $ab+18r^2$ is:
+
+(1) 52  (2) 53  (3) 51  (4) 55
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Every curve through the common points is $S_1+\lambda S_2=0$; it is a circle when the $x^2$ and $y^2$ coefficients match: $1+4\lambda=2+2\lambda\Rightarrow\lambda=\tfrac12$. This gives $3x^2+3y^2-16x-18y+\tfrac{81}2=0$, i.e. $x^2+y^2-\tfrac{16}3x-6y+\tfrac{27}2=0$. Centre $(a,b)=\left(\tfrac83,3\right)$ and $r^2=\tfrac{64}9+9-\tfrac{27}2=\tfrac{47}{18}$. $ab+18r^2=8+47=55$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
+
+Let $\vec c$ and $\vec d$ be vectors such that $|\vec c+\vec d|=\sqrt{29}$ and $\vec c\times(2\hat i+3\hat j+4\hat k)=(2\hat i+3\hat j+4\hat k)\times\vec d$. If $\lambda_1,\lambda_2$ ($\lambda_1>\lambda_2$) are the possible values of $(\vec c+\vec d)\cdot(-7\hat i+2\hat j+3\hat k)$, then the equation $K^2x^2+\left(K^2-5K+\lambda_1\right)xy+\left(3K+\dfrac{\lambda_2}2\right)y^2-8x+12y+\lambda_2=0$ represents a circle, for $K$ equal to:
+
+(1) 1  (2) 4  (3) $-1$  (4) 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Let $\vec a=2\hat i+3\hat j+4\hat k$ ($|\vec a|^2=29$). The condition gives $\vec c\times\vec a+\vec d\times\vec a=\vec 0$, so $(\vec c+\vec d)\times\vec a=\vec0$: $\vec c+\vec d=t\vec a$ and $|t|\sqrt{29}=\sqrt{29}\Rightarrow t=\pm1$. $(\vec c+\vec d)\cdot(-7,2,3)=\pm(-14+6+12)=\pm4$, so $\lambda_1=4$, $\lambda_2=-4$. The conic is $K^2x^2+(K^2-5K+4)xy+(3K-2)y^2-8x+12y-4=0$. A circle needs equal $x^2,y^2$ coefficients, $K^2=3K-2\Rightarrow K=1,2$, and no $xy$ term, $K^2-5K+4=0\Rightarrow K=1,4$. So $K=1$ (giving $x^2+y^2-8x+12y-4=0$, a real circle).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+
+Let PQ and MN be two straight lines touching the circle $x^2+y^2-4x-6y-3=0$ at the points A and B respectively. Let O be the centre of the circle and $\angle AOB=\pi/3$. Then the locus of the point of intersection of the lines PQ and MN is:
+
+(1) $x^2+y^2-12x-18y-25=0$  (2) $3(x^2+y^2)-18x-12y+25=0$  (3) $3(x^2+y^2)-12x-18y-25=0$  (4) $x^2+y^2-18x-12y-25=0$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The circle is $(x-2)^2+(y-3)^2=16$: centre $O(2,3)$, $r=4$. Tangents at $A$ and $B$ meet at $T$ with $OT\cos\tfrac{\angle AOB}2=r$, so $OT=\dfrac{4}{\cos30^\circ}=\dfrac8{\sqrt3}$. The locus of $T$ is the circle $(x-2)^2+(y-3)^2=\tfrac{64}3$, i.e. $3(x^2+y^2)-12x-18y-25=0$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · MCQ
+
+Let $y=x$ be the equation of a chord of the circle $C_1$ (in the closed half-plane $x\ge0$) of diameter 10 passing through the origin. Let $C_2$ be another circle described on the given chord as its diameter. If the equation of the chord of the circle $C_2$, which passes through the point $(2,3)$ and is farthest from the centre of $C_2$, is $x+ay+b=0$, then $a-b$ is equal to:
+
+(1) $-2$  (2) 10  (3) $-6$  (4) 6
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $C_1$ has radius 5, passes through the origin and lies in $x\ge0$, so it touches the $y$-axis there: centre $(5,0)$. The chord $y=x$ meets $(x-5)^2+y^2=25$ at $(0,0)$ and $(5,5)$. $C_2$ has this chord as diameter: centre $\left(\tfrac52,\tfrac52\right)$, equation $x^2+y^2-5x-5y=0$. The point $(2,3)$ is inside $C_2$ (value $-12$). The chord through an interior point that is farthest from the centre is the one perpendicular to the line joining the centre to the point: that direction is $\left(2-\tfrac52,3-\tfrac52\right)=\left(-\tfrac12,\tfrac12\right)\propto(-1,1)$, so the chord is $-(x-2)+(y-3)=0\Rightarrow x-y+1=0$. Thus $a=-1$, $b=1$ and $a-b=-2$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
+
+Let $S=\left\{z\in\mathbb C:\left|\dfrac{z-6i}{z-2i}\right|=1\ \text{and}\ \left|\dfrac{z-8+2i}{z+2i}\right|=\dfrac35\right\}$. Then $\sum_{z\in S}|z|^2$ is equal to:
+
+(1) 385  (2) 398  (3) 413  (4) 423
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The first condition says $z$ is equidistant from $6i$ and $2i$: the line $y=4$. For the second, with $z=x+iy$: $25\left[(x-8)^2+(y+2)^2\right]=9\left[x^2+(y+2)^2\right]\Rightarrow x^2-25x+100+(y+2)^2=0$. Putting $y=4$: $x^2-25x+136=0\Rightarrow x=17$ or $8$. So $S=\{17+4i,\ 8+4i\}$ and $\sum|z|^2=(289+16)+(64+16)=385$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q9 · MCQ
+
+Let a circle of radius 4 pass through the origin O, the points $A(-\sqrt3a,0)$ and $B(0,-\sqrt2b)$, where $a$ and $b$ are real parameters and $ab\ne0$. Then the locus of the centroid of $\triangle OAB$ is a circle of radius:
+
+(1) $\dfrac73$  (2) $\dfrac83$  (3) $\dfrac{11}3$  (4) $\dfrac53$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Let the centre be $C(h,k)$; since the circle passes through $O$ with radius 4, $h^2+k^2=16$. The centre lies on the perpendicular bisectors of $OA$ and $OB$: $h=-\dfrac{\sqrt3a}2$ and $k=-\dfrac{\sqrt2b}2$. The centroid is $G=\left(\dfrac{-\sqrt3a}3,\dfrac{-\sqrt2b}3\right)=\left(\dfrac{2h}3,\dfrac{2k}3\right)$, so $|OG|=\tfrac23\cdot4=\tfrac83$: the locus is a circle of radius $\tfrac83$ (centred at the origin).
+

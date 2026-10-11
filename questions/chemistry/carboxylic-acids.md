@@ -30,3 +30,18 @@ The correct sequence of acidic strength (decreasing) of $\text{CH}_3\text{CH}_2\
 
 **Solution.** Alkyl groups are electron-donating ($+I$): they destabilise the carboxylate and reduce acidity. The $+I$ effect grows with chain length, so $pK_a$: HCOOH $3.75$, $\text{CH}_3\text{COOH}$ $4.76$, $\text{CH}_3\text{CH}_2\text{COOH}$ $4.87$. The higher homologues have almost equal strength; the key follows the textbook order HCOOH > CH$_3$COOH > CH$_3$CH$_2$COOH > CH$_3$CH$_2$CH$_2$COOH, i.e. option (3).
 
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
+
+The correct order of acidic strength of the major products formed in the given reactions is:
+
+A. $\mathrm{PhNH_2}\xrightarrow{(1)\ \mathrm{NaNO_2+HCl}\,(<5^\circ\mathrm C);\ (2)\ \mathrm{CuCN};\ (3)\ \mathrm{H_3O^+/\Delta}}$ [A]
+B. $\mathrm{CH_3CH_2CHO}\xrightarrow[\Delta]{[\mathrm{Ag(NH_3)_2}]^+,\,\mathrm{OH^-}}$ [B]
+C. $\mathrm{CH_4+O_2}\xrightarrow{(i)\ \ (ii)\ \mathrm{Na_2Cr_2O_7/H^+}}$ [C]
+D. $\mathrm{PhCH_2MgBr+CO_2}\xrightarrow[\mathrm{H_3O^+}]{\text{dry ether}}$ [D]
+
+(1) A > D > B > C  (2) C > A > D > B  (3) C > B > A > D  (4) A > D > C > B
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A = benzoic acid (Sandmeyer cyanation then hydrolysis; $\mathrm{p}K_a=4.2$). B = propanoic acid (Tollens' oxidation; $\mathrm{p}K_a=4.87$). C = methanoic acid (methane $\to$ HCHO $\to$ HCOOH; $\mathrm{p}K_a=3.75$). D = phenylacetic acid (Grignard + $\mathrm{CO_2}$; $\mathrm{p}K_a=4.31$). Acid strength rises as $\mathrm{p}K_a$ falls: HCOOH (C) > $\mathrm{PhCOOH}$ (A) > $\mathrm{PhCH_2COOH}$ (D) > $\mathrm{CH_3CH_2COOH}$ (B): C > A > D > B.
+

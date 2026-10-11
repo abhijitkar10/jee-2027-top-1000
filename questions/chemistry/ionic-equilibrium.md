@@ -95,3 +95,55 @@ The dissociation constant of acetic acid is $x\times10^{-5}$. When $25$ mL of $0
 
 **Solution.** After mixing (volume doubled): $[\text{salt}]=0.1$ M and $[\text{acid}]=0.01$ M. Henderson: $\text{pH}=\text{p}K_a+\log\dfrac{0.1}{0.01}=\text{p}K_a+1=5\Rightarrow\text{p}K_a=4$, so $K_a=10^{-4}=10\times10^{-5}$, $x=10$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+The first and second ionisation constants of $\mathrm{H_2X}$ are $2.5\times10^{-8}$ and $1.0\times10^{-13}$ respectively. The concentration of $\mathrm{X^{2-}}$ in $0.1\ \mathrm M\ \mathrm{H_2X}$ solution is ______ $\times10^{-15}$ M. (Nearest integer)
+
+**Answer: 100** · key (compiled)
+
+**Solution.** First ionisation dominates: $[\mathrm{H^+}]=[\mathrm{HX^-}]=\sqrt{K_{a1}C}=\sqrt{2.5\times10^{-8}\times0.1}=5\times10^{-5}$ M. Then $K_{a2}=\dfrac{[\mathrm{H^+}][\mathrm{X^{2-}}]}{[\mathrm{HX^-}]}$ with $[\mathrm{H^+}]\approx[\mathrm{HX^-}]$ gives $[\mathrm{X^{2-}}]\approx K_{a2}=1.0\times10^{-13}$ M $=100\times10^{-15}$ M.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+$x$ mg of pure HCl was used to make an aqueous solution. 25.0 mL of 0.1 M $\mathrm{Ba(OH)_2}$ solution is used when the HCl solution was titrated against it. The numerical value of $x$ is ______ $\times10^{-1}$. (Nearest integer) Given: molar mass of HCl and $\mathrm{Ba(OH)_2}$ are $36.5$ and $171.0$ g mol$^{-1}$ respectively.
+
+**Answer: 1825** · key (compiled)
+
+**Solution.** $\mathrm{Ba(OH)_2+2HCl\to BaCl_2+2H_2O}$. $n(\mathrm{Ba(OH)_2})=0.1\times0.025=2.5\times10^{-3}$ mol, so $n(\mathrm{HCl})=5\times10^{-3}$ mol, which is $5\times10^{-3}\times36.5=0.1825$ g $=182.5$ mg $=1825\times10^{-1}$ mg. So $x=1825$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q3 · MCQ
+
+Which of the following mixtures gives a buffer solution with $\mathrm{pH}=9.25$? Given: $\mathrm{p}K_b(\mathrm{NH_4OH})=4.75$.
+
+(1) 0.2 M $\mathrm{NH_4OH}$ (0.5 L) + 0.1 M HCl (0.5 L)  (2) 0.2 M $\mathrm{NH_4OH}$ (0.4 L) + 0.1 M HCl (1 L)  (3) 0.4 M $\mathrm{NH_4OH}$ (1 L) + 0.1 M HCl (1 L)  (4) 0.5 M $\mathrm{NH_4OH}$ (0.2 L) + 0.2 M HCl (0.5 L)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\mathrm{pOH}=\mathrm{p}K_b+\log\dfrac{[\text{salt}]}{[\text{base}]}$, and $\mathrm{pH}=9.25\Rightarrow\mathrm{pOH}=4.75=\mathrm{p}K_b$, so $[\text{salt}]=[\text{base}]$ (half-neutralised). (1): 100 mmol base + 50 mmol HCl leaves 50 mmol base and makes 50 mmol salt – equal. (2): 80 mmol base, 100 mmol HCl – excess acid, no buffer. (3): 400 mmol base, 100 mmol HCl gives 300 : 100 – not equal. (4): 100 mmol each – only salt. So (1).
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q4 · MCQ
+
+Consider a weak base B of $\mathrm{p}K_b=5.699$. $x$ mL of 0.02 M HCl and $y$ mL of 0.02 M weak base B are mixed to make 100 mL of a buffer of pH 9 at $25^\circ$C. The values of $x$ and $y$ respectively are: [Given: $\log2=0.3010$, $\log3=0.4771$, $\log5=0.699$]
+
+(1) $x=85.7$, $y=14.3$  (2) $x=14.3$, $y=85.7$  (3) $x=11.1$, $y=88.9$  (4) $x=42.7$, $y=57.3$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\mathrm{pOH}=14-9=5=\mathrm{p}K_b+\log\dfrac{[\mathrm{BH^+}]}{[\mathrm B]}\Rightarrow\log\dfrac{[\mathrm{BH^+}]}{[\mathrm B]}=-0.699\Rightarrow\dfrac{[\mathrm{BH^+}]}{[\mathrm B]}=\dfrac15$. HCl converts $x$ (in units of 0.02 mmol/mL) of B into $\mathrm{BH^+}$, leaving $y-x$ of B: $\dfrac{x}{y-x}=\dfrac15\Rightarrow y=6x$. With $x+y=100$: $x=\dfrac{100}{7}=14.3$ mL and $y=85.7$ mL.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q5 · Numerical
+
+Consider the dissociation equilibrium of the weak acid $\mathrm{HA\rightleftharpoons H^+(aq)+A^-(aq)}$. If the $\mathrm{p}K_a$ of the acid is 4, then the pH of a 10 mM HA solution is ______ (nearest integer). [Given: the degree of dissociation can be neglected with respect to unity.]
+
+**Answer: 3** · key (compiled)
+
+**Solution.** $K_a=10^{-4}$, $C=10\ \mathrm{mM}=10^{-2}$ M. With $\alpha\ll1$: $[\mathrm{H^+}]=\sqrt{K_aC}=\sqrt{10^{-6}}=10^{-3}$ M, so $\mathrm{pH}=3$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q6 · Numerical
+
+Consider two Group IV metal ions $\mathrm{X^{2+}}$ and $\mathrm{Y^{2+}}$. A solution containing 0.01 M $\mathrm{X^{2+}}$ and 0.01 M $\mathrm{Y^{2+}}$ is saturated with $\mathrm{H_2S}$. The pH at which the metal sulphide YS will form as a precipitate is ______ (nearest integer). (Given: $K_{sp}(\mathrm{XS})=1\times10^{-22}$ at $25^\circ$C, $K_{sp}(\mathrm{YS})=4\times10^{-16}$ at $25^\circ$C, $[\mathrm{H_2S}]=0.1$ M in solution, $K_{a1}\times K_{a2}(\mathrm{H_2S})=1.0\times10^{-21}$, $\log2=0.30$, $\log3=0.48$, $\log5=0.70$)
+
+**Answer: 4** · key (compiled)
+
+**Solution.** YS precipitates when $[\mathrm{Y^{2+}}][\mathrm{S^{2-}}]\ge K_{sp}$: $[\mathrm{S^{2-}}]\ge\dfrac{4\times10^{-16}}{0.01}=4\times10^{-14}$ M. For saturated $\mathrm{H_2S}$, $[\mathrm{S^{2-}}]=\dfrac{K_{a1}K_{a2}[\mathrm{H_2S}]}{[\mathrm{H^+}]^2}=\dfrac{10^{-22}}{[\mathrm{H^+}]^2}$. So $[\mathrm{H^+}]^2\le\dfrac{10^{-22}}{4\times10^{-14}}=2.5\times10^{-9}$, $[\mathrm{H^+}]\le5\times10^{-5}$ M, i.e. $\mathrm{pH}\ge4.3\approx4$.
+

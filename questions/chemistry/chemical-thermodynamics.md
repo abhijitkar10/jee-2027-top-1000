@@ -153,3 +153,147 @@ Considering ideal gas behaviour, the expansion work done (in kJ) when $144$ g of
 
 **Solution.** $144$ g $=8$ mol $\text{H}_2\text{O}$: $2\text{H}_2\text{O}(l)\to2\text{H}_2(g)+\text{O}_2(g)$ gives $8$ mol $\text{H}_2$ and $4$ mol $\text{O}_2$, $\Delta n_g=12$. At constant $P$ the gas does work $P\Delta V=\Delta n_gRT=12\times8.3\times300=29.88$ kJ against the surroundings; in the IUPAC convention (work done *on* the system) $w=-29.88$ kJ.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Consider the following data: $\Delta_fH^\ominus(\text{methane, g})=-X$ kJ mol$^{-1}$; enthalpy of sublimation of graphite $=Y$ kJ mol$^{-1}$; dissociation enthalpy of $\mathrm{H_2}=Z$ kJ mol$^{-1}$. The bond enthalpy of the C–H bond is given by:
+
+(1) $\dfrac{-X+Y+Z}{4}$  (2) $\dfrac{X+Y+4Z}{2}$  (3) $\dfrac{X+Y+2Z}{4}$  (4) $X+Y+Z$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\mathrm{C(s)+2H_2(g)\to CH_4(g)}$: $\Delta_fH=\Sigma$(bonds broken) $-\Sigma$(bonds formed) $\Rightarrow-X=Y+2Z-4\varepsilon_{\mathrm{C-H}}$, so $\varepsilon_{\mathrm{C-H}}=\dfrac{X+Y+2Z}{4}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+A cup of water at $5^\circ$C (system) is placed in a microwave oven and the oven is turned on for one minute, during which the water begins to boil. Which of the following options is true?
+
+(1) $q=+$ve, $w=0$, $\Delta U=-$ve  (2) $q=+$ve, $w=-$ve, $\Delta U=-$ve  (3) $q=-$ve, $w=-$ve, $\Delta U=-$ve  (4) $q=+$ve, $w=-$ve, $\Delta U=+$ve
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The water absorbs energy from the microwaves, so $q>0$. On heating it expands (and vaporises) against the atmosphere, so the system does work on the surroundings: $w<0$ (IUPAC sign). The temperature rises, so $\Delta U>0$ (indeed $\Delta U=q+w$ with $q>|w|$).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+The plot of $\log_{10}K$ vs $\dfrac1T$ gives a straight line. The intercept and slope respectively are (where $K$ is the equilibrium constant):
+
+(1) $\dfrac{\Delta S^\circ}{2.303R},\ -\dfrac{\Delta H^\circ}{2.303R}$  (2) $-\dfrac{\Delta S^\circ R}{2.303},\ \dfrac{\Delta H^\circ R}{2.303}$  (3) $\dfrac{2.303R}{\Delta H^\circ},\ \dfrac{2.303R}{\Delta S^\circ}$  (4) $-\dfrac{\Delta H^\circ}{2.303R},\ \dfrac{\Delta S^\circ}{2.303R}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $-RT\ln K=\Delta G^\circ=\Delta H^\circ-T\Delta S^\circ$, so $\log_{10}K=\dfrac{\Delta S^\circ}{2.303R}-\dfrac{\Delta H^\circ}{2.303R}\cdot\dfrac1T$. This is $y=c+mx$ with intercept $\dfrac{\Delta S^\circ}{2.303R}$ and slope $-\dfrac{\Delta H^\circ}{2.303R}$ (van 't Hoff plot).
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+The heats of atomisation of methane and ethane are $x$ kJ mol$^{-1}$ and $y$ kJ mol$^{-1}$ respectively. The longest wavelength ($\lambda$) of light capable of breaking the C–C bond can be expressed in SI units as:
+
+(1) $\dfrac{N_Ahc}{250(4y-6x)}$  (2) $\dfrac{hc}{1000}\left(\dfrac{y-6x}{4}\right)^{-1}$  (3) $\dfrac{N_Ahc}{250(y-6x)}$  (4) $N_Ahc\left(y-\dfrac{6x}{4}\right)^{-1}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Methane has 4 C–H bonds, so $\varepsilon_{\mathrm{CH}}=x/4$. Ethane has 1 C–C and 6 C–H bonds: $y=\varepsilon_{\mathrm{CC}}+6\cdot\dfrac x4\Rightarrow\varepsilon_{\mathrm{CC}}=\dfrac{4y-6x}{4}$ kJ mol$^{-1}$. Energy per bond $=\dfrac{\varepsilon_{\mathrm{CC}}\times1000}{N_A}=\dfrac{hc}{\lambda}$, so $\lambda=\dfrac{N_Ahc}{1000}\cdot\dfrac{4}{4y-6x}=\dfrac{N_Ahc}{250(4y-6x)}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · Numerical
+
+If the enthalpy of sublimation of Li is 155 kJ mol$^{-1}$, the enthalpy of dissociation of $\mathrm{F_2}$ is 150 kJ mol$^{-1}$, the ionisation enthalpy of Li is 520 kJ mol$^{-1}$, the electron gain enthalpy of F is $-313$ kJ mol$^{-1}$ and the standard enthalpy of formation of LiF is $-594$ kJ mol$^{-1}$, the magnitude of the lattice enthalpy of LiF is ______ kJ mol$^{-1}$. (Nearest integer)
+
+**Answer: 1031** · key (compiled)
+
+**Solution.** Born–Haber cycle: $\Delta_fH=\Delta_{sub}H(\mathrm{Li})+\tfrac12\Delta_{diss}H(\mathrm{F_2})+\mathrm{IE}(\mathrm{Li})+\Delta_{eg}H(\mathrm F)+\Delta_{lattice}H$. $-594=155+75+520-313+\Delta_{lattice}H=437+\Delta_{lattice}H\Rightarrow\Delta_{lattice}H=-1031$ kJ mol$^{-1}$. Magnitude $=1031$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
+
+Match List-I with List-II.
+
+| List-I: thermodynamic process | List-II: magnitude (kJ) |
+|---|---|
+| A. Work done in reversible isothermal expansion of 2 mol ideal gas from 2 dm³ to 20 dm³ at 300 K | I. 4 |
+| B. Work done in irreversible isothermal expansion of 1 mol ideal gas from 1 m³ to 3 m³ at 300 K against constant pressure 3 kPa | II. 11.5 |
+| C. Change in internal energy for adiabatic expansion of 1 mol ideal gas, $\lvert\Delta T\rvert=320$ K, $C_V=\tfrac32R$ | III. 6 |
+| D. Change in enthalpy at constant pressure of 1 mol ideal gas, $\lvert\Delta T\rvert=337$ K, $C_p=\tfrac52R$ | IV. 7 |
+
+(1) A-II, B-III, C-I, D-IV  (2) A-III, B-II, C-IV, D-I  (3) A-II, B-I, C-III, D-IV  (4) A-I, B-II, C-III, D-IV
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A: $w=nRT\ln\dfrac{V_2}{V_1}=2\times8.314\times300\times2.303=11.5$ kJ (II). B: $w=p_{ex}\Delta V=3000\times2=6000$ J $=6$ kJ (III). C: $\Delta U=nC_V\Delta T=1.5\times8.314\times320=3.99\approx4$ kJ (I). D: $\Delta H=nC_p\Delta T=2.5\times8.314\times337=7.0$ kJ (IV). So A-II, B-III, C-I, D-IV.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q7 · MCQ
+
+Which of the following graphs between pressure $p$ and volume $V$ represents the maximum work done?
+
+
+
+**(1)** ![Option 1](../../figures/j26_che_thermodynamics-c/q7-1.png)
+
+**(2)** ![Option 2](../../figures/j26_che_thermodynamics-c/q7-2.png)
+
+**(3)** ![Option 3](../../figures/j26_che_thermodynamics-c/q7-3.png)
+
+**(4)** ![Option 4](../../figures/j26_che_thermodynamics-c/q7-4.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Work is the area under the $p$–$V$ curve. (1) is a single expansion from 22.4 L to 44.8 L with the whole area under the curve counted as work done. (2) and (4) are cyclic processes, whose net work is only the small enclosed area. (3) is a constant-volume (vertical) path, with $w=0$. Hence (1).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · Numerical
+
+Use the following data:
+
+| Substance | $\Delta_fH^\ominus$ (500 K) / kJ mol$^{-1}$ | $S^\ominus$ (500 K) / J K$^{-1}$ mol$^{-1}$ |
+|---|---|---|
+| $\mathrm{AB(g)}$ | 32 | 222 |
+| $\mathrm{A_2(g)}$ | 6 | 146 |
+| $\mathrm{B_2(g)}$ | $x$ | 280 |
+
+One mole each of $\mathrm{A_2(g)}$ and $\mathrm{B_2(g)}$ are taken in a 1 L closed flask and allowed to establish the equilibrium $\mathrm{A_2(g)+B_2(g)\rightleftharpoons2AB(g)}$ at 500 K. The value of $x$ (in kJ mol$^{-1}$) is ______ (nearest integer). (Given: $\log K=2.2$, $R=8.3$ J K$^{-1}$ mol$^{-1}$)
+
+**Answer: 70** · key (compiled)
+
+**Solution.** $\Delta S^\circ=2(222)-(146+280)=18$ J K$^{-1}$ mol$^{-1}$; $\Delta H^\circ=2(32)-(6+x)=58-x$ kJ mol$^{-1}$. $\Delta G^\circ=-2.303RT\log K=-2.303\times8.3\times500\times2.2=-21.0$ kJ mol$^{-1}$. $\Delta G^\circ=\Delta H^\circ-T\Delta S^\circ$: $-21.03=58-x-500\times0.018=49-x\Rightarrow x=70.03\approx70$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+$20.0\ \mathrm{dm^3}$ of an ideal gas X at 600 K and 0.5 MPa undergoes isothermal reversible expansion until the pressure of the gas is 0.2 MPa. Which of the following options is correct? (Given: $\log2=0.3010$ and $\log5=0.6989$)
+
+(1) $w=-9.1$ kJ, $\Delta U=0$, $\Delta H=0$, $q=9.1$ kJ  (2) $w=+4.1$ kJ, $\Delta U=0$, $\Delta H=0$; $q=-4.1$ kJ  (3) $w=9.1$ J, $\Delta U=9.1$ J, $\Delta H=0$; $q=0$  (4) $w=-3.9$ kJ, $\Delta U=0$, $\Delta H=0$; $q=3.9$ kJ
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Isothermal ideal gas: $\Delta U=\Delta H=0$ and $q=-w$. $w=-p_1V_1\ln\dfrac{p_1}{p_2}=-(0.5\times10^6)(20\times10^{-3})\ln2.5=-10^4\times2.303\log2.5=-10^4\times2.303\times0.3979=-9.1$ kJ. So $q=+9.1$ kJ.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+Match List-I with List-II.
+
+| List-I: isothermal process for an ideal gas system | List-II: work done ($V_f>V_i$) |
+|---|---|
+| A. Reversible expansion | I. $w=0$ |
+| B. Free expansion | II. $w=-nRT\ln\dfrac{V_f}{V_i}$ |
+| C. Irreversible expansion | III. $w=-p_{ex}(V_f-V_i)$ |
+| D. Irreversible compression | IV. $w=-p_{ex}(V_i-V_f)$ |
+
+(1) A-I, B-III, C-II, D-IV  (2) A-II, B-I, C-III, D-IV  (3) A-IV, B-I, C-III, D-II  (4) A-IV, B-II, C-III, D-I
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Reversible isothermal expansion: $w=-nRT\ln(V_f/V_i)$ (II). Free expansion (against zero external pressure): $w=0$ (I). Irreversible expansion against constant $p_{ex}$: $w=-p_{ex}(V_f-V_i)$ (III). Irreversible compression against constant $p_{ex}$: the formula is written as in IV, $w=-p_{ex}(V_i-V_f)$ (IV). So A-II, B-I, C-III, D-IV.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q11 · MCQ
+
+$\mathrm{A\to D}$ is an endothermic reaction occurring in three (elementary) steps: (i) $\mathrm{A\to B}$, $\Delta H_i=+$ve; (ii) $\mathrm{B\to C}$, $\Delta H_{ii}=-$ve; (iii) $\mathrm{C\to D}$, $\Delta H_{iii}=-$ve. Which of the following graphs between potential energy ($y$-axis) and reaction coordinate ($x$-axis) correctly represents the reaction profile of $\mathrm{A\to D}$?
+
+
+
+**(1)** ![Option 1](../../figures/j26_che_thermodynamics-c/q11-1.png)
+
+**(2)** ![Option 2](../../figures/j26_che_thermodynamics-c/q11-2.png)
+
+**(3)** ![Option 3](../../figures/j26_che_thermodynamics-c/q11-3.png)
+
+**(4)** ![Option 4](../../figures/j26_che_thermodynamics-c/q11-4.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Three elementary steps give three energy barriers and two intermediates (B and C). The energy order must be $E_A<E_D<E_C<E_B$: B above A (step i endothermic), C below B and D below C (steps ii and iii exothermic), yet D above A because the overall reaction is endothermic. Only graph (1) has this ordering. In (2) D lies above C, in (3) C lies above B, and in (4) B lies below A.
+

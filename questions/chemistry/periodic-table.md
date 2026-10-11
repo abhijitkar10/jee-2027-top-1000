@@ -195,3 +195,143 @@ Statement II: $p\pi$–$p\pi$ bond formation is more prevalent in second-period 
 
 **Solution.** Oxidation state is defined by electronegativity (the hypothetical charge if bonding electrons are assigned to the more electronegative atom), not by electron gain enthalpy: I is incorrect. Second-period atoms are small, giving effective sideways $p$–$p$ overlap ($\text{C=C}$, $\text{N}\equiv\text{N}$, $\text{O=O}$), so II is correct.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Given below are two statements:
+
+Statement I: The correct order in terms of atomic/ionic radii is $\mathrm{Al>Mg>Mg^{2+}>Al^{3+}}$.
+Statement II: The correct order in terms of the magnitude of electron gain enthalpy is $\mathrm{Cl>Br>S>O}$.
+
+(1) Both Statement I and Statement II are false  (2) Both Statement I and Statement II are true  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** I false: in the third period the atom on the left is larger, so $\mathrm{Mg}$ (160 pm) $>\mathrm{Al}$ (143 pm) $>\mathrm{Mg^{2+}}$ (72 pm) $>\mathrm{Al^{3+}}$ (54 pm). II true: $|\Delta_{eg}H|$ (kJ mol$^{-1}$) is Cl 349 > Br 325 > S 200 > O 141 (O is anomalously low because of its small size and electron–electron repulsion).
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+The correct trend in the first ionisation enthalpies of the elements in the 3rd period of the periodic table is:
+
+(1) Si < S < Al < P < Cl  (2) Al < S < P < Si < Cl  (3) Al < Si < S < P < Cl  (4) S < Si < Al < P < Cl
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** First ionisation enthalpies (kJ mol$^{-1}$): Al 578 < Si 786 < S 1000 < P 1012 < Cl 1251. Ionisation enthalpy rises across the period, with the usual dip at S because P has a stable half-filled $3p^3$ subshell.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+Consider the elements N, P, O, S, Cl and F. The numbers of valence electrons present in the elements with the most and the least metallic character from the above list are respectively:
+
+(1) 7 and 5  (2) 5 and 7  (3) 5 and 6  (4) 6 and 7
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Metallic character increases down a group and decreases across a period to the right. P (group 15, period 3) is the most metallic of the list, with 5 valence electrons; F (top right, group 17, period 2) is the least metallic, with 7 valence electrons.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+The correct order of C, N, O and F in terms of second ionisation potential is:
+
+(1) C < N < F < O  (2) C < O < N < F  (3) C < F < N < O  (4) F < N < C < O
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\mathrm{IE_2}$ (kJ mol$^{-1}$): C 2353 < N 2856 < F 3374 < O 3388. Removing the second electron from $\mathrm{O^+}$ ($2p^3$, half-filled) is hard, which makes O the highest, and $\mathrm{F^+}$ ($2p^4$) is just below it.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+
+Choose the INCORRECT statement:
+
+(1) $\mathrm{CO_2}$ is the most acidic oxide among the dioxides of group 14 elements.  (2) Carbon exhibits negative oxidation states along with $+4$ and $+2$.  (3) Carbon cannot exceed its covalency of four.  (4) Among the isotopes of carbon, ${}^{13}\mathrm C$ is a radioactive isotope.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** (1) true (acidic character falls down the group). (2) true ($-4$ in $\mathrm{CH_4}$, etc.). (3) true (no $d$-orbitals in the second period). (4) incorrect: ${}^{13}\mathrm C$ is stable; the radioactive isotope of carbon is ${}^{14}\mathrm C$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+
+Given below are two statements:
+
+Statement I: $\mathrm{C<O<N<F}$ is the correct order in terms of first ionisation enthalpy values.
+Statement II: $\mathrm{S>Se>Te>Po>O}$ is the correct order in terms of the magnitude of electron gain enthalpy values.
+
+(1) Statement I is true but Statement II is false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Both Statement I and Statement II are true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I true: $\mathrm{IE_1}$ = C 1086, O 1314, N 1402, F 1681 kJ mol$^{-1}$ (N is above O because of its half-filled $2p^3$). II true: $|\Delta_{eg}H|$ = S 200, Se 195, Te 190, Po 174, O 141 kJ mol$^{-1}$ (oxygen is the exception in the group).
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+Given below are two statements:
+
+Statement I: The halogen that makes the longest bond with hydrogen in HX has the smallest covalent radius in its group.
+Statement II: A group 15 element's hydride $\mathrm{EH_3}$ has the lowest boiling point among the corresponding hydrides of the other group 15 elements. The maximum covalency of that element E is 4.
+
+(1) Both Statement I and Statement II are true  (2) Both Statement I and Statement II are false  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** I false: the longest H–X bond is H–I, and iodine has the *largest* covalent radius. II: the lowest boiling point in the group-15 hydrides belongs to $\mathrm{PH_3}$ ($\mathrm{NH_3}$ is raised by hydrogen bonding, and boiling points then rise from $\mathrm{PH_3}$ to $\mathrm{BiH_3}$), and the maximum covalency of P is 6 (as in $\mathrm{PF_6^-}$), not 4: false. Both false.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · MCQ
+
+Elements X and Y belong to Group 15. The difference between the electronegativity values of 'X' and phosphorus is higher than that between phosphorus and 'Y'. 'X' and 'Y' are respectively:
+
+(1) N and As  (2) As and Sb  (3) Bi and N  (4) As and Bi
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Pauling electronegativities: N 3.04, P 2.19, As 2.18, Sb 2.05, Bi 2.02. For N and As: $|3.04-2.19|=0.85>|2.19-2.18|=0.01$ ✓. For the other options the first difference is smaller than the second (As, Sb: 0.01 < 0.14; Bi, N: 0.17 < 0.85; As, Bi: 0.01 < 0.17). So X = N and Y = As.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q9 · MCQ
+
+Given below are two statements:
+
+Statement I: The second ionisation enthalpy of Na is larger than the corresponding ionisation enthalpy of Mg.
+Statement II: The ionic radius of $\mathrm{O^{2-}}$ is larger than that of $\mathrm{F^-}$.
+
+(1) Statement I is false but Statement II is true  (2) Both Statement I and Statement II are false  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I true: removing the second electron from Na means breaking the stable $2p^6$ core of $\mathrm{Na^+}$ (4562 kJ mol$^{-1}$), whereas $\mathrm{Mg^+}\to\mathrm{Mg^{2+}}$ removes a $3s$ electron (1451 kJ mol$^{-1}$). II true: $\mathrm{O^{2-}}$ and $\mathrm{F^-}$ are isoelectronic, and the lower nuclear charge of $\mathrm{O^{2-}}$ gives it the larger radius (140 vs 133 pm).
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · MCQ
+
+Which of the following represents the correct trend for the mentioned property?
+
+A. $\mathrm{F>P>S>B}$ – first ionisation energy
+B. $\mathrm{Cl>F>S>P}$ – electron affinity
+C. $\mathrm{K>Al>Mg>B}$ – metallic character
+D. $\mathrm{K_2O>Na_2O>MgO>Al_2O_3}$ – basic character
+
+(1) B and C only  (2) A, B and D only  (3) A and B only  (4) A, B, C and D
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A correct ($\mathrm{IE_1}$: F 1681, P 1012, S 1000, B 801). B correct (Cl 349, F 328, S 200, P 72 kJ mol$^{-1}$). C incorrect: Mg is more metallic than Al, so the order is K > Mg > Al > B. D correct (basicity falls from the alkali-metal oxide to the amphoteric $\mathrm{Al_2O_3}$). So A, B and D.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
+
+In period 4 of the periodic table, the elements with the highest and the lowest atomic radii are respectively:
+
+(1) Rb and Br  (2) K and Se  (3) K and Br  (4) Na and Cl
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Atomic radius falls from left to right across a period as the nuclear charge increases. In period 4, K (extreme left) has the largest radius and Br (halogen, at the right) the smallest (Rb and Na are in other periods).
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q12 · MCQ
+
+Given below are two statements:
+
+Statement I: $\mathrm{K>Mg>Al>B}$ is the correct order in terms of metallic character.
+Statement II: Atomic radius is always greater than the ionic radius for any element.
+
+(1) Both Statement I and Statement II are true  (2) Both Statement I and Statement II are false  (3) Statement I is false but Statement II is true  (4) Statement I is true but Statement II is false
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I true: metallic character falls across a period (Mg > Al) and rises down a group (K > Mg; Al > B). II false: only cations are smaller than the parent atom; anions are larger (e.g. $\mathrm{Cl^-}>\mathrm{Cl}$).
+

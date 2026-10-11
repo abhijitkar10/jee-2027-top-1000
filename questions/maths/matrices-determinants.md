@@ -116,3 +116,151 @@ Let $P=\begin{pmatrix}2&0&0\\0&2&0\\0&0&3\end{pmatrix}$. The number of $3\times3
 
 **Solution.** An integer matrix with $Q^TQ=I$ has orthonormal integer columns, so each column is $\pm e_i$: $Q$ is a signed permutation matrix. $PQ=QP$ means $Q$ preserves the eigenspaces of $P$ ($\text{span}\{e_1,e_2\}$ for $2$ and $\text{span}\{e_3\}$ for $3$), so $Q=\text{diag}(B,\pm1)$ with $B$ a $2\times2$ signed permutation matrix. There are $2!\cdot2^2=8$ such $B$ and $2$ signs for the last entry: $8\times2=16$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Matrices set Q1 · MCQ
+
+For the matrices $A=\begin{bmatrix}3&-4\\1&-1\end{bmatrix}$ and $B=\begin{bmatrix}-29&49\\-13&18\end{bmatrix}$, if $(A^{15}+B)\begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}0\\0\end{bmatrix}$, then among the following which one is true?
+
+(1) $x=5,\ y=7$  (2) $x=18,\ y=11$  (3) $x=11,\ y=2$  (4) $x=16,\ y=3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\operatorname{tr}A=2$, $\det A=1$, so $(A-I)^2=0$. With $N=A-I=\begin{bmatrix}2&-4\\1&-2\end{bmatrix}$, $N^2=0$ and $A^n=I+nN=\begin{bmatrix}2n+1&-4n\\n&1-2n\end{bmatrix}$. $A^{15}=\begin{bmatrix}31&-60\\15&-29\end{bmatrix}$ and $A^{15}+B=\begin{bmatrix}2&-11\\2&-11\end{bmatrix}$. The system reduces to $2x-11y=0$, i.e. $x=\tfrac{11y}2$: $y=2$, $x=11$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Matrices set Q2 · Numerical
+
+Let $|A|=6$, where $A$ is a $3\times3$ matrix. If $\left|\operatorname{adj}\big(3\operatorname{adj}(A^2\cdot\operatorname{adj}(2A))\big)\right|=2^m\cdot3^n$, $m,n\in\mathbb N$, then $m+n$ is equal to ______.
+
+**Answer: 62** · key (compiled)
+
+**Solution.** For a $3\times3$ matrix $M$: $|\operatorname{adj}M|=|M|^2$ and $|kM|=k^3|M|$. $|2A|=8\cdot6=48$, so $|\operatorname{adj}(2A)|=48^2$. Let $P=A^2\operatorname{adj}(2A)$: $|P|=36\cdot48^2=2^{10}\cdot3^4$. $|3\operatorname{adj}P|=27|P|^2$, and $|\operatorname{adj}(3\operatorname{adj}P)|=|3\operatorname{adj}P|^2=3^6|P|^4=3^6\cdot2^{40}\cdot3^{16}=2^{40}\cdot3^{22}$. $m+n=62$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · Matrices set Q3 · Numerical
+
+Let $A=\begin{bmatrix}3&-4\\1&-1\end{bmatrix}$ and $B$ be two matrices such that $A^{100}=100B+I$. Then the sum of all the elements of $B^{100}$ is ______.
+
+**Answer: 0** · key (compiled)
+
+**Solution.** With $N=A-I$, $N^2=0$ and $A^{100}=I+100N$. So $100B+I=I+100N$ gives $B=N$, and $B^{100}=N^{100}=0$. The sum of all elements is $0$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Matrices set Q4 · MCQ
+
+Let $f(x)=\int\dfrac{7x^{10}+9x^8}{(1+x^2+2x^9)^2}dx$, $x>0$, $\lim_{x\to0}f(x)=0$ and $f(1)=\dfrac14$. If $A=\begin{bmatrix}0&0&1\\\tfrac14&f'(1)&1\\\alpha^2&4&1\end{bmatrix}$ and $B=\operatorname{adj}(\operatorname{adj}A)$ be such that $|B|=81$, then $\alpha^2$ is equal to:
+
+(1) 2  (2) 1  (3) 3  (4) 4
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Divide numerator and denominator by $x^{18}$ and put $t=x^{-9}+x^{-7}+2$, $dt=-(9x^{-10}+7x^{-8})dx$: $f(x)=\dfrac1t+C=\dfrac{x^9}{1+x^2+2x^9}+C$; $\lim_{x\to0}f=0$ gives $C=0$ (and $f(1)=\tfrac14$ ✓). $f'(x)=\dfrac{9x^8(1+x^2+2x^9)-x^9(2x+18x^8)}{(1+x^2+2x^9)^2}$, so $f'(1)=\dfrac{36-20}{16}=1$. Expanding along the first row, $|A|=1\cdot\left(\tfrac14\cdot4-1\cdot\alpha^2\right)=1-\alpha^2$. For $3\times3$, $|\operatorname{adj}(\operatorname{adj}A)|=|A|^{(n-1)^2}=|A|^4=81\Rightarrow|A|=\pm3$, so $1-\alpha^2=-3$ (the value $+3$ would give $\alpha^2=-2$): $\alpha^2=4$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Matrices set Q5 · MCQ
+
+Let $P=[p_{ij}]$ and $Q=[q_{ij}]$ be two square matrices of order 3 such that $q_{ij}=2^{(i+j-1)}p_{ij}$ and $\det(Q)=2^{10}$. Then the value of $\det(\operatorname{adj}(\operatorname{adj}P))$ is:
+
+(1) 81  (2) 16  (3) 124  (4) 32
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $q_{ij}=2^i\cdot2^{j-1}p_{ij}$, so $Q=\operatorname{diag}(2,4,8)\,P\,\operatorname{diag}(1,2,4)$ and $\det Q=(2\cdot4\cdot8)(1\cdot2\cdot4)\det P=512\det P=2^{10}\Rightarrow\det P=2$. For order 3, $\det(\operatorname{adj}(\operatorname{adj}P))=(\det P)^{(3-1)^2}=2^4=16$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Matrices set Q6 · MCQ
+
+If $X=\begin{bmatrix}x\\y\\z\end{bmatrix}$ is a solution of the system of equations $AX=B$, where $\operatorname{adj}A=\begin{bmatrix}4&2&2\\-5&0&5\\1&-2&3\end{bmatrix}$ and $B=\begin{bmatrix}4\\0\\2\end{bmatrix}$, then $|x+y+z|$ is equal to:
+
+(1) 2  (2) $\dfrac32$  (3) 1  (4) 3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $|\operatorname{adj}A|=4(0+10)-2(-15-5)+2(10-0)=100=|A|^2$, so $|A|=\pm10$. $X=A^{-1}B=\dfrac{(\operatorname{adj}A)B}{|A|}$ and $(\operatorname{adj}A)B=\begin{bmatrix}16+4\\-20+10\\4+6\end{bmatrix}=\begin{bmatrix}20\\-10\\10\end{bmatrix}$. So $x+y+z=\dfrac{20}{|A|}$ and $|x+y+z|=\dfrac{20}{10}=2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Matrices set Q7 · MCQ
+
+If $A=\begin{bmatrix}2&3\\3&5\end{bmatrix}$, then the determinant of the matrix $(A^{2025}-3A^{2024}+A^{2023})$ is:
+
+(1) 12  (2) 28  (3) 24  (4) 16
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $A^{2025}-3A^{2024}+A^{2023}=A^{2023}(A^2-3A+I)$ and $|A|=1$. $A^2=\begin{bmatrix}13&21\\21&34\end{bmatrix}$, so $A^2-3A+I=\begin{bmatrix}8&12\\12&20\end{bmatrix}$ with determinant $160-144=16$. The required determinant is $|A|^{2023}\cdot16=16$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Matrices set Q8 · Numerical
+
+Let $A$ be a $3\times3$ matrix such that $A+A^T=O$. If $A\begin{bmatrix}1\\-1\\0\end{bmatrix}=\begin{bmatrix}3\\3\\2\end{bmatrix}$, $A^2\begin{bmatrix}1\\-1\\0\end{bmatrix}=\begin{bmatrix}-3\\19\\-24\end{bmatrix}$ and $\det(\operatorname{adj}(2\operatorname{adj}(A+I)))=(2)^\alpha\cdot(3)^\beta\cdot(11)^\gamma$, where $\alpha,\beta,\gamma$ are non-negative integers, then $\alpha+\beta+\gamma$ is equal to ______.
+
+**Answer: 18** · key (compiled)
+
+**Solution.** Let $A=\begin{bmatrix}0&p&q\\-p&0&r\\-q&-r&0\end{bmatrix}$. $A(1,-1,0)^T=(-p,-p,r-q)^T=(3,3,2)^T$ gives $p=-3$, $r-q=2$. $A(3,3,2)^T=(3p+2q,\,-3p+2r,\,-3q-3r)^T=(-3,19,-24)^T$ gives $q=3$, $r=5$. For a $3\times3$ skew-symmetric $A$, $\det(I+A)=1+p^2+q^2+r^2=1+9+9+25=44=2^2\cdot11$. With $M=A+I$: $\det(\operatorname{adj}(2\operatorname{adj}M))=\det(2\operatorname{adj}M)^2=\left(8\cdot44^2\right)^2=2^6\cdot44^4=2^{14}\cdot11^4$. So $\alpha=14$, $\beta=0$, $\gamma=4$ and the sum is 18.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Matrices set Q9 · Numerical
+
+Let $A=\begin{bmatrix}0&2&-3\\-2&0&1\\3&-1&0\end{bmatrix}$ and $B$ be a matrix such that $B(I-A)=I+A$. Then the sum of the diagonal elements of $B^TB$ is equal to ______.
+
+**Answer: 3** · key (compiled)
+
+**Solution.** $A^T=-A$. $B=(I+A)(I-A)^{-1}$, so $B^T=\left((I-A)^{-1}\right)^T(I+A)^T=(I+A)^{-1}(I-A)$. Since $I+A$ and $I-A$ commute, $B^TB=(I+A)^{-1}(I-A)(I+A)(I-A)^{-1}=(I+A)^{-1}(I+A)(I-A)(I-A)^{-1}=I$. The trace of $I_3$ is 3.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Matrices set Q10 · Numerical
+
+For some $\alpha,\beta\in\mathbb R$, let $A=\begin{bmatrix}\alpha&2\\1&2\end{bmatrix}$ and $B=\begin{bmatrix}1&1\\1&\beta\end{bmatrix}$ be such that $A^2-4A+2I=B^2-3B+I=O$. Then $\left(\det\left(\operatorname{adj}\left(A^3-B^3\right)\right)\right)^2$ is equal to ______.
+
+**Answer: 225** · key (compiled)
+
+**Solution.** By Cayley–Hamilton $A^2-(\alpha+2)A+(2\alpha-2)I=O$; comparing with $A^2-4A+2I=O$ gives $\alpha=2$. Similarly $B^2-(1+\beta)B+(\beta-1)I=O$ gives $\beta=2$. $A^2=\begin{bmatrix}6&8\\4&6\end{bmatrix}$, $A^3=\begin{bmatrix}20&28\\14&20\end{bmatrix}$; $B^2=\begin{bmatrix}2&3\\3&5\end{bmatrix}$, $B^3=\begin{bmatrix}5&8\\8&13\end{bmatrix}$. $A^3-B^3=\begin{bmatrix}15&20\\6&7\end{bmatrix}$ with $\det=105-120=-15$. For a $2\times2$ matrix $\det(\operatorname{adj}M)=\det M$, so the answer is $(-15)^2=225$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Matrices set Q11 · MCQ
+
+Let $A,B$ and $C$ be three $2\times2$ matrices with real entries such that $B=(I+A)^{-1}$ and $A+C=I$. If $BC=\begin{bmatrix}1&-5\\-1&2\end{bmatrix}$ and $CB\begin{bmatrix}x_1\\x_2\end{bmatrix}=\begin{bmatrix}12\\-6\end{bmatrix}$, then $x_1+x_2$ is:
+
+(1) 2  (2) $-2$  (3) 0  (4) 4
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $B(I+A)=I=(I+A)B$ gives $B+BA=I=B+AB$, so $A$ and $B$ commute and $BA=AB=I-B$. With $C=I-A$: $BC=B-BA=2B-I$ and $CB=B-AB=2B-I$. So $CB=BC=\begin{bmatrix}1&-5\\-1&2\end{bmatrix}$. Then $x_1-5x_2=12$ and $-x_1+2x_2=-6$; adding gives $-3x_2=6$, $x_2=-2$, $x_1=2$. $x_1+x_2=0$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Matrices set Q12 · Numerical
+
+The number of $3\times2$ matrices $A$, which can be formed using the elements of the set $\{-2,-1,0,1,2\}$ such that the sum of all the diagonal elements of $A^TA$ is 5, is ______.
+
+**Answer: 312** · key (compiled)
+
+**Solution.** $\operatorname{tr}(A^TA)=\sum a_{ij}^2=5$ over the six entries. The squares are $0,1,4$ (with $\pm1$ and $\pm2$ each having 2 choices). Either one entry is $\pm2$ and one is $\pm1$ (rest 0): $6\cdot5\cdot2\cdot2=120$; or five entries are $\pm1$ and one is 0: $6\cdot2^5=192$. Total $=120+192=312$.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · Determinants set Q1 · MCQ
+
+If the system of equations $3x+y+4z=3$, $2x+\alpha y-z=-3$, $x+2y+z=4$ has no solution, then the value of $\alpha$ is equal to:
+
+(1) 19  (2) 4  (3) 13  (4) 23
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** No solution requires $\Delta=0$: $\Delta=3(\alpha+2)-1(2+1)+4(4-\alpha)=19-\alpha=0\Rightarrow\alpha=19$. For $\alpha=19$, $\Delta_x=\begin{vmatrix}3&1&4\\-3&19&-1\\4&2&1\end{vmatrix}=3(21)+1(-1)+4(-82)=-266\ne0$, so the system is inconsistent (no solution), not dependent.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Determinants set Q2 · MCQ
+
+Among the statements: I: If $\begin{vmatrix}1&\cos\alpha&\cos\beta\\\cos\alpha&1&\cos\gamma\\\cos\beta&\cos\gamma&1\end{vmatrix}=\begin{vmatrix}0&\cos\alpha&\cos\beta\\\cos\alpha&0&\cos\gamma\\\cos\beta&\cos\gamma&0\end{vmatrix}$, then $\cos^2\alpha+\cos^2\beta+\cos^2\gamma=\dfrac32$, and II: If $\begin{vmatrix}x^2+x&x+1&x-2\\2x^2+3x-1&3x&3x-3\\x^2+2x+3&2x-1&2x-1\end{vmatrix}=px+q$, then $p^2=196q^2$:
+
+(1) only II is true  (2) both are false  (3) both are true  (4) only I is true
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** I: the left determinant is $1-\sum\cos^2+2\cos\alpha\cos\beta\cos\gamma$ and the right is $2\cos\alpha\cos\beta\cos\gamma$; equality gives $\cos^2\alpha+\cos^2\beta+\cos^2\gamma=1$, not $\tfrac32$, so I is false. II: $R_2\to R_2-2R_1$ gives $(x-1,\,x-2,\,x+1)$ and $R_3\to R_3-R_1$ gives $(x+3,\,x-2,\,x+1)$; then $R_3-R_2=(4,0,0)$. Expanding along that row: $4\begin{vmatrix}x+1&x-2\\x-2&x+1\end{vmatrix}=4\big[(x+1)^2-(x-2)^2\big]=4(6x-3)=24x-12$. So $p=24$, $q=-12$ and $p^2=576=4q^2\ne196q^2$: II is false. Both are false.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Determinants set Q3 · MCQ
+
+Let $n$ be the number obtained on rolling a fair die. If the probability that the system $x-ny+z=6$, $x+(n-2)y+(n+1)z=8$, $(n-1)y+z=1$ has a unique solution is $\dfrac k6$, then the sum of $k$ and all possible values of $n$ is:
+
+(1) 20  (2) 24  (3) 21  (4) 22
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\det\begin{bmatrix}1&-n&1\\1&n-2&n+1\\0&n-1&1\end{bmatrix}=(n-2)-(n^2-1)+n+(n-1)=-(n-1)(n-2)$. A unique solution needs $n\ne1,2$, i.e. $n\in\{3,4,5,6\}$: probability $\tfrac46$, so $k=4$. Sum $=4+(3+4+5+6)=22$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Determinants set Q4 · MCQ
+
+The system of linear equations $x+y+z=6$, $2x+5y+az=36$, $x+2y+3z=b$ has:
+
+(1) a unique solution for $a=8$ and $b=16$  (2) infinitely many solutions for $a=8$ and $b=16$  (3) a unique solution for $a=8$ and $b=14$  (4) infinitely many solutions for $a=8$ and $b=14$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\Delta=\begin{vmatrix}1&1&1\\2&5&a\\1&2&3\end{vmatrix}=(15-2a)-(6-a)+(4-5)=8-a$. For $a=8$, $\Delta=0$, so a unique solution is impossible. Then $R_2-2R_1$: $3y+6z=24\Rightarrow y+2z=8$, and $R_3-R_1$: $y+2z=b-6$. The equations are consistent (infinitely many solutions) iff $b-6=8$, i.e. $b=14$; for $b\ne14$ there is no solution.
+

@@ -158,3 +158,130 @@ For a reaction $\text{A}\xrightarrow{K_1}\text{B}\xrightarrow{K_2}\text{C}$, if 
 
 **Solution.** $\dfrac{d[\text{B}]}{dt}=K_1[\text{A}]-K_2[\text{B}]=0\Rightarrow[\text{B}]=\dfrac{K_1}{K_2}[\text{A}]$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Decomposition of A is a first-order reaction at $T$ (K): $\mathrm{A(g)\to B(g)+C(g)}$. In a closed 1 L vessel, 1 bar of $\mathrm{A(g)}$ is allowed to decompose at $T$ (K). After 100 minutes the total pressure was 1.5 bar. What is the rate constant $k$ of the reaction (in $\mathrm{min^{-1}}$)? ($\log2=0.3$)
+
+(1) $6.9\times10^{-3}$  (2) $6.9\times10^{-4}$  (3) $6.9\times10^{-1}$  (4) $6.9\times10^{-2}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** If $x$ bar of A decomposes, total pressure $=(1-x)+x+x=1+x=1.5$, so $x=0.5$ and $p_{\mathrm A}=0.5$ bar. $k=\dfrac{2.303}{t}\log\dfrac{p_0}{p_{\mathrm A}}=\dfrac{2.303}{100}\log2=\dfrac{2.303\times0.3}{100}=6.9\times10^{-3}\ \mathrm{min^{-1}}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+For the thermal decomposition of the reactant $\mathrm{AB(g)}$, the following plot is constructed. The half-life of the reaction is $x$ min. $x=$ ______ (nearest integer)
+
+![Figure](../../figures/j26_che_chemical-kinetics/q2-1.png)
+
+**Answer: 10** · key (compiled)
+
+**Solution.** $[\mathrm{AB}]$ falls linearly with time (0.6 M at 0 s, 0.55 M at 100 s, 0.5 M at 200 s), the signature of a zero-order reaction, with $k=\dfrac{0.05}{100}=5\times10^{-4}\ \mathrm{M\,s^{-1}}$. For zero order $t_{1/2}=\dfrac{[\mathrm A]_0}{2k}=\dfrac{0.6}{2\times5\times10^{-4}}=600\ \text{s}=10$ min.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · Numerical
+
+Consider the two first-order reactions $\mathrm{A\to B}$ (first reaction) and $\mathrm{C\to D}$ (second reaction). The rate constant for the first reaction at 500 K is double of that at 300 K. At 500 K, 50% of the first reaction becomes complete in 2 hours. The activation energy of the second reaction is half of that of the first reaction. If the rate constant at 500 K of the second reaction is double the rate constant of the first reaction at the same temperature, then the rate constant for the second reaction at 300 K is ______ $\times10^{-1}\ \mathrm{hour^{-1}}$ (nearest integer).
+
+**Answer: 5** · key (compiled)
+
+**Solution.** First reaction at 500 K: $k_1=\dfrac{\ln2}{2}\ \mathrm{h^{-1}}$. Second reaction: $k_2(500)=2k_1=\ln2\ \mathrm{h^{-1}}$. $\ln\dfrac{k_1(500)}{k_1(300)}=\ln2=\dfrac{E_{a1}}{R}\left(\dfrac1{300}-\dfrac1{500}\right)=\dfrac{E_{a1}}{750R}$, so $E_{a1}/R=750\ln2$ and $E_{a2}/R=375\ln2$. Then $\ln\dfrac{k_2(500)}{k_2(300)}=\dfrac{375\ln2}{750}=\tfrac12\ln2$, i.e. $k_2(500)/k_2(300)=\sqrt2$ and $k_2(300)=\dfrac{\ln2}{\sqrt2}=0.49\ \mathrm{h^{-1}}=4.9\times10^{-1}\approx5\times10^{-1}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
+
+The half-life of $^{65}\mathrm{Zn}$ is 245 days. After $x$ days, 75% of the original activity remained. The value of $x$ in days is ______ (nearest integer). (Given: $\log3=0.4771$ and $\log2=0.3010$)
+
+**Answer: 102** · key (compiled)
+
+**Solution.** $A=A_0(\tfrac12)^{t/t_{1/2}}$: $0.75=(\tfrac12)^{x/245}\Rightarrow x=245\dfrac{\log(4/3)}{\log2}=245\times\dfrac{0.6020-0.4771}{0.3010}=245\times0.415=101.7\approx102$ days.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Correct statements regarding the Arrhenius equation $k=Ae^{-E_a/RT}$ among the following are:
+
+A. The factor $e^{-E_a/RT}$ corresponds to the fraction of molecules having kinetic energy less than $E_a$.
+B. At a given temperature, the lower the $E_a$, the faster is the reaction.
+C. An increase in temperature by about $10^\circ$C doubles the rate of the reaction.
+D. A plot of $\log k$ vs $\dfrac1T$ gives a straight line with slope $=-\dfrac{E_a}{R}$.
+
+(1) B and D only  (2) A and B only  (3) B and C only  (4) A and C only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A false: $e^{-E_a/RT}$ is the fraction of molecules with energy *equal to or greater than* $E_a$. B true. C true (the usual rule of thumb: $k$ roughly doubles per $10^\circ$C). D false: $\log k=\log A-\dfrac{E_a}{2.303RT}$, so the slope is $-\dfrac{E_a}{2.303R}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · Numerical
+
+Consider $\mathrm{A\to B}$ ($k_1$) and $\mathrm{C\to D}$ ($k_2$) as two reactions. The rate constant $k_1$ of $\mathrm{A\to B}$ is $\log_{10}k=14.34-\dfrac{1.5\times10^4}{T/\mathrm K}$, and the activation energy of $\mathrm{C\to D}$ ($E_{a2}$) is $\tfrac15$th of that of $\mathrm{A\to B}$ ($E_{a1}$). The value of $E_{a2}$ is ______ kJ mol$^{-1}$ (nearest integer).
+
+**Answer: 57** · key (compiled)
+
+**Solution.** $\log k=\log A-\dfrac{E_a}{2.303RT}$, so $\dfrac{E_{a1}}{2.303R}=1.5\times10^4$ K and $E_{a1}=2.303\times8.314\times1.5\times10^4=2.87\times10^5$ J mol$^{-1}=287$ kJ mol$^{-1}$. $E_{a2}=\dfrac{287}{5}=57.4\approx57$ kJ mol$^{-1}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+For a first-order reaction $\mathrm{A\to}$ product, three sets of experiments were performed under similar experimental conditions: Run 1: 100 mL of 10 M solution of reactant A; Run 2: 200 mL of 10 M solution of reactant A; Run 3: 100 mL of 10 M solution of reactant A + 100 mL of $\mathrm{H_2O}$ added. The correct variation of the rate of reaction is:
+
+(1) Run 1 < Run 2 < Run 3  (2) Run 3 < Run 1 < Run 2  (3) Run 3 < Run 1 = Run 2  (4) Run 1 = Run 2 = Run 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For a first-order reaction, rate $=k[\mathrm A]$ depends on *concentration*, not on amount. Run 1: 10 M; Run 2: still 10 M (a larger volume of the same solution); Run 3: dilution to $\dfrac{1\text{ mol}}{0.2\text{ L}}=5$ M. So rate$_3<$ rate$_1=$ rate$_2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q8 · Numerical
+
+The temperature at which the rate constants of the two gaseous reactions below become equal is ______ K (nearest integer). $\mathrm{X\to Y}$: $k_1=10^{6}e^{-30000/T}$; $\mathrm{P\to Q}$: $k_2=10^{4}e^{-24000/T}$. (Given: $\ln10=2.303$)
+
+**Answer: 1303** · key (compiled)
+
+**Solution.** $k_1=k_2$: $10^6e^{-30000/T}=10^4e^{-24000/T}\Rightarrow100=e^{6000/T}\Rightarrow\ln100=\dfrac{6000}{T}$. $T=\dfrac{6000}{2\times2.303}=\dfrac{6000}{4.606}=1302.7\approx1303$ K.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q9 · MCQ
+
+The concentration vs time plot given above is for a dissociation reaction $\mathrm{A\to}n\mathrm{B}$. Based on the data of the initial phase of the reaction (initial 10 min), the value of $n$ is ______.
+
+![Figure](../../figures/j26_che_chemical-kinetics/q9-1.png)
+
+(1) 3  (2) 2  (3) 4  (4) 5
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** From the graph, in the first 10 min $[\mathrm A]$ falls from 0.05 M to 0.04 M ($\Delta[\mathrm A]=0.01$ M) while $[\mathrm B]$ rises from 0 to 0.03 M. Since $\Delta[\mathrm B]=n\,\Delta[\mathrm A]$, $n=\dfrac{0.03}{0.01}=3$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q10 · MCQ
+
+Observe the following reactions at $T$ (K). I. $\mathrm A\to$ products. II. $\mathrm{5Br^-(aq)+BrO_3^-(aq)+6H^+(aq)\to3Br_2(aq)+3H_2O(l)}$. Both reactions are started at 10.00 am. The rates of these reactions at 10.10 am are the same. The value of $-\dfrac{\Delta[\mathrm{Br^-}]}{\Delta t}$ at 10.10 am is $2\times10^{-4}$ mol L$^{-1}$ min$^{-1}$. The concentration of A at 10.10 am is $10^{-2}$ mol L$^{-1}$. What is the first-order rate constant (in $\mathrm{min^{-1}}$) of reaction I?
+
+(1) $10^{-2}$  (2) $10^{-3}$  (3) $2\times10^{-3}$  (4) $4\times10^{-3}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Rate of reaction II $=-\dfrac15\dfrac{\Delta[\mathrm{Br^-}]}{\Delta t}=\dfrac{2\times10^{-4}}{5}=4\times10^{-5}$ mol L$^{-1}$ min$^{-1}$. Reaction I is first order: rate $=k[\mathrm A]$, so $k=\dfrac{4\times10^{-5}}{10^{-2}}=4\times10^{-3}\ \mathrm{min^{-1}}$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q11 · Numerical
+
+The pre-exponential factors of two different reactions of the same order are identical. Let the activation energy of the first reaction exceed that of the second by $20$ kJ mol$^{-1}$. If $k_1$ and $k_2$ are the rate constants of the first and second reaction respectively at 300 K, then $\ln\dfrac{k_2}{k_1}$ will be ______ (nearest integer). [$R=8.3$ J K$^{-1}$ mol$^{-1}$]
+
+**Answer: 8** · key (compiled)
+
+**Solution.** $\dfrac{k_2}{k_1}=\dfrac{Ae^{-E_{a2}/RT}}{Ae^{-E_{a1}/RT}}=e^{(E_{a1}-E_{a2})/RT}$, so $\ln\dfrac{k_2}{k_1}=\dfrac{20000}{8.3\times300}=8.03\approx8$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q12 · MCQ
+
+An organic compound undergoes first-order decomposition. The times taken for its decomposition to $\left(\tfrac18\right)^{\text{th}}$ and $\left(\tfrac1{10}\right)^{\text{th}}$ of its initial concentration are $t_{1/8}$ and $t_{1/10}$ respectively. What is the value of $\dfrac{t_{1/8}}{t_{1/10}}\times10$? ($\log2=0.3$)
+
+(1) 3  (2) 9  (3) 0.9  (4) 30
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** First order: $t=\dfrac1k\ln\dfrac{[\mathrm A]_0}{[\mathrm A]}$. $\dfrac{t_{1/8}}{t_{1/10}}=\dfrac{\ln8}{\ln10}=\dfrac{3\log2}{\log10}=3\times0.3=0.9$, so $0.9\times10=9$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q13 · MCQ
+
+At $27^\circ$C, in the presence of a catalyst, the activation energy of a reaction is lowered by $10$ kJ mol$^{-1}$. The logarithm of the ratio $\dfrac{k(\text{catalysed})}{k(\text{uncatalysed})}$ is ... (Consider that the frequency factor for both reactions is the same.)
+
+(1) 1.741  (2) 17.41  (3) 3.482  (4) 0.1741
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=e^{\Delta E_a/RT}$, so $\log\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=\dfrac{\Delta E_a}{2.303RT}=\dfrac{10000}{2.303\times8.314\times300}=1.741$.
+

@@ -106,3 +106,23 @@ Match the group reagents (List I) with the metal ions they precipitate (List II)
 
 **Solution.** Group II (dilute HCl + $\text{H}_2\text{S}$): $\text{Cu}^{2+}$ (S→1). Group III ($\text{NH}_4\text{OH}$ with $\text{NH}_4\text{Cl}$, which suppresses $[\text{OH}^-]$): $\text{Al}^{3+}$ as $\text{Al(OH)}_3$ (R→2). Group IV ($\text{H}_2\text{S}$ in basic medium): $\text{Mn}^{2+}$ as MnS (P→3). Group V ($(\text{NH}_4)_2\text{CO}_3$): $\text{Ba}^{2+}$ as $\text{BaCO}_3$ (Q→4). $\text{Mg}^{2+}$ is in group VI.
 
+### § — JEE Main 2026 · 24 Jan Shift 2 · Salt set Q3 · MCQ
+
+In the group analysis of cations, $\mathrm{Ba^{2+}}$ and $\mathrm{Ca^{2+}}$ are precipitated respectively as:
+
+(1) sulphide and sulphide  (2) chromate and sulphide  (3) carbonate and carbonate  (4) hydroxide and carbonate
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Barium and calcium form the group V cations of the analysis; they are precipitated by $\mathrm{(NH_4)_2CO_3}$ in the presence of $\mathrm{NH_4Cl}$ and $\mathrm{NH_4OH}$ as white $\mathrm{BaCO_3}$ and $\mathrm{CaCO_3}$ – carbonate and carbonate.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Salt set Q4 · MCQ
+
+Consider three metal chlorides x, y and z, where x is water soluble at room temperature, y is sparingly soluble in water at room temperature and z is soluble in hot water. x, y and z are respectively:
+
+(1) $\mathrm{CuCl_2}$, AgCl and $\mathrm{PbCl_2}$  (2) $\mathrm{AlCl_3}$, $\mathrm{PbCl_2}$ and $\mathrm{BaCl_2}$  (3) $\mathrm{MgCl_2}$, AgCl and $\mathrm{AlCl_3}$  (4) AgCl, $\mathrm{Hg_2Cl_2}$ and $\mathrm{PbCl_2}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\mathrm{CuCl_2}$ is freely soluble in water; AgCl is only sparingly soluble at room temperature (soluble in ammonia); $\mathrm{PbCl_2}$ is sparingly soluble in cold water but dissolves in hot water (it crystallises on cooling). Option (1).
+

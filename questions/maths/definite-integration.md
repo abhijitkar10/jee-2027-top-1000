@@ -126,3 +126,129 @@ If $\displaystyle\int_0^{\pi/3}\cos^4x\,dx=a\pi+b\sqrt3$ with $a,b$ rational, th
 
 **Solution.** $\cos^4x=\dfrac{3+4\cos2x+\cos4x}{8}$. Integrating: $\left[\tfrac{3x}8+\tfrac{\sin2x}4+\tfrac{\sin4x}{32}\right]_0^{\pi/3}=\dfrac\pi8+\dfrac{\sqrt3}8-\dfrac{\sqrt3}{64}=\dfrac\pi8+\dfrac{7\sqrt3}{64}$. So $a=\tfrac18$, $b=\tfrac7{64}$ and $9a+8b=\tfrac98+\tfrac78=2$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+If $\int_0^14\cot^{-1}\left(1-2x+4x^2\right)dx=a\tan^{-1}(2)-b\log_e(5)$, where $a,b\in\mathbb N$, then $(2a+b)$ is equal to ______.
+
+**Answer: 9** · key (compiled)
+
+**Solution.** $\cot^{-1}(1-2x+4x^2)=\tan^{-1}\dfrac1{1+2x(2x-1)}=\tan^{-1}(2x)-\tan^{-1}(2x-1)$. $\int_0^1\tan^{-1}(2x)dx=\left[x\tan^{-1}2x-\tfrac14\ln(1+4x^2)\right]_0^1=\tan^{-1}2-\tfrac14\ln5$. $\int_0^1\tan^{-1}(2x-1)dx=\tfrac12\int_{-1}^1\tan^{-1}s\,ds=0$ (odd function). So $4\int=4\tan^{-1}2-\ln5$: $a=4$, $b=1$ and $2a+b=9$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+The value of the integral $\int_{\pi/24}^{5\pi/24}\dfrac{dx}{1+\sqrt[3]{\tan2x}}$ is:
+
+(1) $\dfrac\pi3$  (2) $\dfrac\pi{12}$  (3) $\dfrac\pi{18}$  (4) $\dfrac\pi6$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The limits add to $\tfrac{6\pi}{24}=\tfrac\pi4$; apply $x\to\tfrac\pi4-x$ (King's rule), under which $\tan2x\to\cot2x$. Then $I=\int\dfrac{dx}{1+\sqrt[3]{\cot2x}}=\int\dfrac{\sqrt[3]{\tan2x}}{1+\sqrt[3]{\tan2x}}dx$. Adding: $2I=\int_{\pi/24}^{5\pi/24}dx=\dfrac{4\pi}{24}=\dfrac\pi6$, so $I=\dfrac\pi{12}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+Let $[\cdot]$ denote the greatest integer function. Then $\int_{-\pi/2}^{\pi/2}\left(\dfrac{12(3+[x])}{3+[\sin x]+[\cos x]}\right)dx$ is equal to:
+
+(1) $13\pi+1$  (2) $12\pi+5$  (3) $11\pi+2$  (4) $15\pi+4$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Split at $x=-1,0,1$. On $\left[-\tfrac\pi2,-1\right)$: $[x]=-2$, $[\sin x]=-1$, $[\cos x]=0$, integrand $\dfrac{12(1)}{2}=6$, length $\tfrac\pi2-1$. On $[-1,0)$: $[x]=-1$, $[\sin x]=-1$, $[\cos x]=0$: $\dfrac{12\cdot2}{2}=12$, length 1. On $(0,1)$: $[x]=0$, $[\sin x]=0$, $[\cos x]=0$: $\dfrac{36}3=12$, length 1. On $\left[1,\tfrac\pi2\right]$: $[x]=1$, $[\sin x]=0$, $[\cos x]=0$: $\dfrac{48}3=16$, length $\tfrac\pi2-1$. Total $=6\left(\tfrac\pi2-1\right)+12+12+16\left(\tfrac\pi2-1\right)=11\pi+2$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
+
+If $f(x)$ satisfies the relation $f(x)=e^x+\int_0^1\left(y+xe^x\right)f(y)\,dy$, then $e+f(0)$ is equal to ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Let $A=\int_0^1yf(y)dy$ and $B=\int_0^1f(y)dy$; then $f(x)=e^x+A+Bxe^x$. $B=\int_0^1(e^y+A+Bye^y)dy=(e-1)+A+B\int_0^1ye^ydy=(e-1)+A+B$ (since $\int_0^1ye^ydy=1$), so $A=1-e$ and $B$ drops out. Hence $f(0)=1+A=2-e$ and $e+f(0)=2$. (The value of $B$ itself is not needed.)
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Let $f(x)=[x]^2-[x+3]-3$, $x\in\mathbb R$, where $[\ ]$ is the greatest integer function. Then:
+
+(1) $\int_0^2f(x)dx=-6$  (2) $f(x)<0$ only for $x\in[-1,3)$  (3) $f(x)>0$ only for $x\in[4,\infty)$  (4) $f(x)=0$ for finitely many values of $x$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For $x\in[n,n+1)$: $f=n^2-(n+3)-3=n^2-n-6=(n-3)(n+2)$. $f<0$ iff $-2<n<3$, i.e. $n=-1,0,1,2$, i.e. $x\in[-1,3)$ – (2) true. (1) is false: $f=-6$ on $[0,1)$ and on $[1,2)$, so $\int_0^2f=-12$. (3) is false: $f>0$ also for $n\le-3$ ($x<-2$). (4) is false: $f=0$ on the whole intervals $[3,4)$ and $[-2,-1)$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · Numerical
+
+Let $[\cdot]$ be the greatest integer function. If $\alpha=\int_0^{64}\left(x^{1/3}-[x^{1/3}]\right)dx$, then $\dfrac1\pi\int_0^{\alpha\pi}\left(\dfrac{\sin^2\theta}{\sin^6\theta+\cos^6\theta}\right)d\theta$ is equal to ______.
+
+**Answer: 36** · key (compiled)
+
+**Solution.** With $x=u^3$: $\alpha=\int_0^4\{u\}\,3u^2du=\sum_{k=0}^3\int_k^{k+1}3u^2(u-k)du=\tfrac34+\tfrac{17}4+\tfrac{43}4+\tfrac{81}4=36$. The integrand $\dfrac{\sin^2\theta}{\sin^6\theta+\cos^6\theta}$ has period $\pi$, so the integral is $36\,J$ with $J=\int_0^\pi\dfrac{\sin^2\theta}{1-\tfrac34\sin^22\theta}d\theta$. Writing $\sin^2\theta=\tfrac{1-\cos2\theta}2$, the $\cos2\theta$ part integrates to 0 over a period, so $J=\tfrac12\int_0^\pi\dfrac{d\theta}{1-\tfrac34\sin^22\theta}=\tfrac12\cdot2\int_0^{\pi/2}\dfrac{d\varphi}{1-\tfrac34\sin^2\varphi}\cdot$ with $\int_0^{\pi/2}\dfrac{d\varphi}{1-k\sin^2\varphi}=\dfrac\pi{2\sqrt{1-k}}=\pi$, giving $J=\pi$. The required value is $\dfrac1\pi\cdot36\pi=36$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+The value of $\int_{-\pi/2}^{\pi/2}\left(\dfrac1{[x]+4}\right)dx$, where $[\cdot]$ denotes the greatest integer function, is:
+
+(1) $\dfrac1{60}(21\pi-1)$  (2) $\dfrac7{60}(\pi-3)$  (3) $\dfrac7{60}(3\pi-1)$  (4) $\dfrac1{60}(\pi-7)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $[x]=-2$ on $\left[-\tfrac\pi2,-1\right)$ (length $\tfrac\pi2-1$), $-1$ on $[-1,0)$, $0$ on $[0,1)$ and $1$ on $\left[1,\tfrac\pi2\right]$ (length $\tfrac\pi2-1$). The integral is $\dfrac12\left(\tfrac\pi2-1\right)+\dfrac13+\dfrac14+\dfrac15\left(\tfrac\pi2-1\right)=\dfrac7{10}\left(\tfrac\pi2-1\right)+\dfrac7{12}=\dfrac{7\pi}{20}-\dfrac7{60}=\dfrac7{60}(3\pi-1)$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · Numerical
+
+The number of elements in the set $S=\left\{x:x\in[0,100]\text{ and }\int_0^xt^2\sin(x-t)\,dt=x^2\right\}$ is ______.
+
+**Answer: 16** · key (compiled)
+
+**Solution.** The integral is the convolution of $t^2$ and $\sin t$. Its Laplace transform is $\dfrac2{s^3}\cdot\dfrac1{s^2+1}=2\left[\dfrac1{s^3}-\dfrac1s+\dfrac s{s^2+1}\right]$, so $\int_0^xt^2\sin(x-t)dt=x^2-2+2\cos x$. Setting this equal to $x^2$ gives $\cos x=1$, i.e. $x=2k\pi$. In $[0,100]$: $2k\pi\le100\Rightarrow k\le15.9$, so $k=0,1,\dots,15$: 16 elements.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q9 · MCQ
+
+The value of $\int_{-\pi/6}^{\pi/6}\left(\dfrac{\pi+4x^{11}}{1-\sin\left(|x|+\frac\pi6\right)}\right)dx$ is equal to:
+
+(1) $8\pi$  (2) $6\pi$  (3) $2\pi$  (4) $4\pi$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The denominator is even and $4x^{11}$ is odd, so that part integrates to 0. The rest is $2\pi\int_0^{\pi/6}\dfrac{dx}{1-\sin(x+\pi/6)}$. With $u=x+\tfrac\pi6$ the limits become $\tfrac\pi6$ to $\tfrac\pi3$ and $\dfrac1{1-\sin u}=\sec^2u+\sec u\tan u$, so the integral is $[\tan u+\sec u]_{\pi/6}^{\pi/3}=(\sqrt3+2)-\left(\tfrac1{\sqrt3}+\tfrac2{\sqrt3}\right)=2$. The value is $2\pi\cdot2=4\pi$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · Numerical
+
+$6\int_0^\pi|(\sin3x+\sin2x+\sin x)|\,dx$ is equal to ______.
+
+**Answer: 17** · key (compiled)
+
+**Solution.** $\sin3x+\sin x=2\sin2x\cos x$, so the integrand is $g=\sin2x(2\cos x+1)$. Its sign on $[0,\pi]$: $+$ on $\left[0,\tfrac\pi2\right]$, $-$ on $\left[\tfrac\pi2,\tfrac{2\pi}3\right]$, $+$ on $\left[\tfrac{2\pi}3,\pi\right]$. With $G=-\tfrac{\cos3x}3-\tfrac{\cos2x}2-\cos x$: $G(0)=-\tfrac{11}6$, $G\left(\tfrac\pi2\right)=\tfrac12$, $G\left(\tfrac{2\pi}3\right)=\tfrac5{12}$, $G(\pi)=\tfrac56$. $\int|g|=\left(\tfrac12+\tfrac{11}6\right)-\left(\tfrac5{12}-\tfrac12\right)+\left(\tfrac56-\tfrac5{12}\right)=\tfrac73+\tfrac1{12}+\tfrac5{12}=\tfrac{17}6$. Times 6: 17.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
+
+Let $f$ be a polynomial function such that $f\left(x^2+1\right)=x^4+5x^2+2$, for all $x\in\mathbb R$. Then $\int_0^3f(x)dx$ is equal to:
+
+(1) $\dfrac53$  (2) $\dfrac{41}3$  (3) $\dfrac{27}2$  (4) $\dfrac{33}2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Put $u=x^2+1$: $f(u)=(u-1)^2+5(u-1)+2=u^2+3u-2$. $\int_0^3(x^2+3x-2)dx=9+\dfrac{27}2-6=\dfrac{33}2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q12 · MCQ
+
+If $\int\left(\dfrac{1-5\cos^2x}{\sin^5x\cos^2x}\right)dx=f(x)+C$, where $C$ is the constant of integration, then $f\left(\dfrac\pi6\right)-f\left(\dfrac\pi4\right)$ is equal to:
+
+(1) $\dfrac1{\sqrt3}(26+\sqrt3)$  (2) $\dfrac1{\sqrt3}(26-\sqrt3)$  (3) $\dfrac4{\sqrt3}(8-\sqrt6)$  (4) $\dfrac2{\sqrt3}(4+\sqrt6)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Differentiate $\dfrac1{\sin^4x\cos x}$: $-4\sin^{-5}x+\sin^{-3}x\cos^{-2}x=\dfrac{-4\cos^2x+\sin^2x}{\sin^5x\cos^2x}=\dfrac{1-5\cos^2x}{\sin^5x\cos^2x}$. So $f(x)=\dfrac1{\sin^4x\cos x}$. $f\left(\tfrac\pi6\right)=\dfrac1{\tfrac1{16}\cdot\tfrac{\sqrt3}2}=\dfrac{32}{\sqrt3}$ and $f\left(\tfrac\pi4\right)=\dfrac1{\tfrac14\cdot\tfrac1{\sqrt2}}=4\sqrt2$. The difference is $\dfrac{32}{\sqrt3}-4\sqrt2=\dfrac{32-4\sqrt6}{\sqrt3}=\dfrac4{\sqrt3}\left(8-\sqrt6\right)$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q13 · Numerical
+
+The value of $\sum_{r=1}^{20}\left(\left|\sqrt{\pi\left(\int_0^rx|\sin\pi x|\,dx\right)}\right|\right)$ is ______.
+
+**Answer: 210** · key (compiled)
+
+**Solution.** For an integer $r$, split into unit intervals: $\int_k^{k+1}x|\sin\pi x|dx=\int_0^1(k+s)\sin\pi s\,ds=\dfrac{2k}\pi+\dfrac1\pi=\dfrac{2k+1}\pi$ (using $\int_0^1\sin\pi s\,ds=\tfrac2\pi$ and $\int_0^1s\sin\pi s\,ds=\tfrac1\pi$). Summing $k=0,\dots,r-1$ gives $\dfrac{r^2}\pi$. So $\sqrt{\pi\cdot\dfrac{r^2}\pi}=r$ and $\sum_{r=1}^{20}r=210$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q14 · Numerical
+
+Let a differentiable function $f$ satisfy the equation $\int_0^{36}f\left(\dfrac{tx}{36}\right)dt=4\alpha f(x)$. If $y=f(x)$ is a standard parabola passing through the points $(2,1)$ and $(-4,\beta)$, then $\beta^\alpha$ is equal to ______.
+
+**Answer: 64** · key (compiled)
+
+**Solution.** With $u=\dfrac{tx}{36}$, $dt=\dfrac{36}x\,du$: $\dfrac{36}x\int_0^xf(u)du=4\alpha f(x)\Rightarrow9\int_0^xf=\alpha xf(x)$. Differentiating: $9f=\alpha f+\alpha xf'$, so $\dfrac{f'}f=\dfrac{9-\alpha}{\alpha x}$ and $f=Cx^{(9-\alpha)/\alpha}$. A standard parabola $y=Cx^2$ needs $\dfrac{9-\alpha}\alpha=2\Rightarrow\alpha=3$. Through $(2,1)$: $C=\tfrac14$, so $\beta=f(-4)=\tfrac{16}4=4$. $\beta^\alpha=4^3=64$.
+

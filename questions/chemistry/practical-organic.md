@@ -176,3 +176,23 @@ In the Dumas method for estimation of nitrogen, 0.50 g of an organic compound ga
 
 **Solution.** Pressure of dry $\mathrm N_2=715-15=700$ mm. Volume at STP: $V_0=\dfrac{700\times70\times273}{760\times300}=58.7$ mL. Mass of $\mathrm N_2=\dfrac{58.7}{22400}\times28=0.0734$ g, so $\%\mathrm N=\dfrac{0.0734}{0.50}\times100=14.7\approx15$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Practical set Q1 · MCQ
+
+By usual analysis, 1.00 g of compound (X) gave 1.79 g of magnesium pyrophosphate. The percentage of phosphorus in compound (X) is: (nearest integer) (Given molar mass in g mol$^{-1}$: O = 16, Mg = 24, P = 31)
+
+(1) 30  (2) 50  (3) 40  (4) 20
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** In the quantitative estimation, phosphorus is converted into $\mathrm{Mg_2P_2O_7}$ ($M=2\times24+2\times31+7\times16=222$). $\%\mathrm P=\dfrac{62}{222}\times\dfrac{1.79}{1.00}\times100=50\%$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · Practical set Q2 · MCQ
+
+A student was given 0.314 g of an organic compound and asked to estimate sulphur. During the experiment the student obtained 0.4813 g of barium sulphate. The percentage of sulphur present in the compound is: (Given molar mass in g mol$^{-1}$: S 32, $\mathrm{BaSO_4}$ 233)
+
+(1) 48.24%  (2) 63.15%  (3) 21.05%  (4) 42.10%
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\%\mathrm S=\dfrac{32}{233}\times\dfrac{0.4813}{0.314}\times100=21.05\%$.
+

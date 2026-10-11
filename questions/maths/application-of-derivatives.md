@@ -116,3 +116,67 @@ Let $f(x)=x^5+2e^{x/4}$ and $g$ be such that $(g\circ f)(x)=x$. Then $8g'(2)$ is
 
 **Solution.** $g=f^{-1}$, so $g'(2)=\dfrac1{f'(g(2))}$. $f(0)=0+2=2\Rightarrow g(2)=0$. $f'(x)=5x^4+\tfrac12e^{x/4}$, $f'(0)=\tfrac12$. So $g'(2)=2$ and $8g'(2)=16$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Differentiation set Q1 · MCQ
+
+Let $f(x)=x^3+x^2f'(1)+2xf''(2)+f'''(3)$, $x\in\mathbb R$. Then the value of $f'(5)$ is:
+
+(1) $\dfrac{117}5$  (2) $\dfrac{657}5$  (3) $\dfrac25$  (4) $\dfrac{62}5$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Let $a=f'(1)$, $b=f''(2)$, $c=f'''(3)$, so $f(x)=x^3+ax^2+2bx+c$, $f'=3x^2+2ax+2b$, $f''=6x+2a$, $f'''=6$. Then $a=f'(1)=3+2a+2b\Rightarrow a=-3-2b$; $b=f''(2)=12+2a$. Substituting: $b=12-6-4b\Rightarrow b=\tfrac65$ and $a=-\tfrac{27}5$. $f'(5)=75+10a+2b=75-54+\tfrac{12}5=\dfrac{117}5$.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Let $f:\mathbb R\to\mathbb R$ be a twice differentiable function such that $f''(x)>0$ for all $x\in\mathbb R$ and $f'(a-1)=0$, where $a$ is a real number. Let $g(x)=f\left(\tan^2x-2\tan x+a\right)$, $0<x<\dfrac\pi2$. Consider the following two statements: (I) $g$ is increasing in $\left(0,\dfrac\pi4\right)$. (II) $g$ is decreasing in $\left(\dfrac\pi4,\dfrac\pi2\right)$. Then,
+
+(1) Neither (I) nor (II) is True  (2) Only (I) is True  (3) Both (I) and (II) are True  (4) Only (II) is True
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $f''>0$ makes $f'$ strictly increasing, and $f'(a-1)=0$, so $f'>0$ for $x>a-1$: $f$ is increasing on $[a-1,\infty)$. Let $u(x)=\tan^2x-2\tan x+a=(\tan x-1)^2+(a-1)\ge a-1$, so $g=f(u)$ is increasing in $u$. On $\left(0,\tfrac\pi4\right)$, $\tan x$ rises towards 1 so $(\tan x-1)^2$ *decreases*, hence $g$ decreases: (I) is false. On $\left(\tfrac\pi4,\tfrac\pi2\right)$, $\tan x>1$ and increasing, so $u$ and $g$ *increase*: (II) is false. Neither is true.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · Numerical
+
+Let $f$ be a differentiable function satisfying $f(x)=1-2x+\int_0^xe^{(x-t)}f(t)\,dt$, $x\in\mathbb R$ and let $g(x)=\int_0^x(f(t)+2)^{15}(t-4)^6(t+12)^{17}dt$, $x\in\mathbb R$. If $p$ and $q$ are respectively the points of local minima and local maxima of $g$, then the value of $|p+q|$ is equal to ______.
+
+**Answer: 9** · key (compiled)
+
+**Solution.** Write $f(x)=1-2x+e^x\int_0^xe^{-t}f(t)dt$ and differentiate: $f'(x)=-2+\left(f(x)-1+2x\right)+f(x)$, i.e. $f'-2f=2x-3$. Trying $f=1-x$ satisfies it, and $f(0)=1$ fixes the constant (the homogeneous part $Ce^{2x}$ has $C=0$). So $f(x)=1-x$ and $f(t)+2=3-t$. $g'(x)=(3-x)^{15}(x-4)^6(x+12)^{17}$. The factors $(x-4)^6$ (even power) do not change sign. $g'<0$ for $x<-12$, $>0$ on $(-12,3)$, $<0$ for $x>3$: local minimum at $p=-12$, local maximum at $q=3$. $|p+q|=9$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+
+Consider the following three statements for the function $f:(0,\infty)\to\mathbb R$ defined by $f(x)=|\log_ex|-|x-1|$: (I) $f$ is differentiable at all $x>0$. (II) $f$ is increasing in $(0,1)$. (III) $f$ is decreasing in $(1,\infty)$. Then:
+
+(1) All (I), (II) and (III) are TRUE.  (2) Only (II) and (III) are TRUE.  (3) Only (I) is TRUE.  (4) Only (I) and (III) are TRUE.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For $0<x<1$: $f=-\ln x-(1-x)$, $f'=-\dfrac1x+1<0$. For $x>1$: $f=\ln x-(x-1)$, $f'=\dfrac1x-1<0$. At $x=1$ both one-sided derivatives are $0$, so the kinks of $|\ln x|$ and $|x-1|$ cancel: $f$ is differentiable at 1 (I true). On $(0,1)$ $f$ is *decreasing*, so (II) is false; on $(1,\infty)$ it is decreasing, so (III) is true.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q4 · MCQ
+
+Let $f(x)=x^{2025}-x^{2000}$, $x\in[0,1]$ and the minimum value of the function $f(x)$ in the interval $[0,1]$ be $(80)^{80}(n)^{-81}$. Then $n$ is equal to:
+
+(1) $-40$  (2) $-41$  (3) $-80$  (4) $-81$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $f'(x)=2025x^{2024}-2000x^{1999}=x^{1999}\left(2025x^{25}-2000\right)=0\Rightarrow x^{25}=\dfrac{80}{81}$ (the minimum, as $f(0)=f(1)=0$). With $s=x^{25}$: $f=x^{2000}(x^{25}-1)=s^{80}(s-1)=\left(\tfrac{80}{81}\right)^{80}\left(-\tfrac1{81}\right)=-\dfrac{80^{80}}{81^{81}}$. Matching $(80)^{80}n^{-81}$: $n^{-81}=-81^{-81}$, so $n=-81$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · Numerical
+
+Let $f:\mathbb R\to\mathbb R$ be a twice differentiable function such that the quadratic equation $f(x)m^2-2f'(x)m+f''(x)=0$ in $m$ has two equal roots for every $x\in\mathbb R$. If $f(0)=1$, $f'(0)=2$, and $(\alpha,\beta)$ is the largest interval in which the function $f(\log_ex-x)$ is increasing, then $\alpha+\beta$ is equal to ______.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** Equal roots: $4f'^2-4ff''=0\Rightarrow\dfrac{f''}{f'}=\dfrac{f'}f\Rightarrow f'=kf$ and $f=Ae^{kx}$. $f(0)=1$ gives $A=1$ and $f'(0)=2$ gives $k=2$, so $f(x)=e^{2x}$. Then $f(\ln x-x)=e^{2\ln x-2x}=x^2e^{-2x}$ (for $x>0$), with derivative $2xe^{-2x}(1-x)$. It is positive for $0<x<1$: the largest interval of increase is $(0,1)$, so $\alpha+\beta=1$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q6 · Numerical
+
+Let $(2\alpha,\alpha)$ be the largest interval in which the function $f(t)=\dfrac{|t+1|}{t^2}$, $t<0$, is strictly decreasing. Then the local maximum value of the function $g(x)=2\log_e(x-2)+\alpha x^2+4x-\alpha$, $x>2$, is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** For $-1<t<0$: $f=\dfrac{t+1}{t^2}$, $f'=-\dfrac{t+2}{t^3}>0$ (increasing). For $t<-1$: $f=-\dfrac{t+1}{t^2}$, $f'=\dfrac{t+2}{t^3}$, which is negative on $(-2,-1)$ and positive for $t<-2$. So the largest interval of decrease is $(-2,-1)=(2\alpha,\alpha)$ and $\alpha=-1$. $g(x)=2\ln(x-2)-x^2+4x+1$, $g'(x)=\dfrac2{x-2}-2(x-2)=0\Rightarrow(x-2)^2=1\Rightarrow x=3$, and $g''<0$ there, so it is the local maximum: $g(3)=0-9+12+1=4$.
+

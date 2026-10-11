@@ -157,3 +157,138 @@ The number of essential amino acids among arginine, phenylalanine, aspartic acid
 
 **Solution.** Amino acids that the body cannot synthesise (essential, as listed in NCERT): arginine, phenylalanine, histidine and valine. Aspartic acid, cysteine and proline are non-essential. Count $=4$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+The correct statements are:
+
+A. The activation energy for enzyme-catalysed hydrolysis of sucrose is lower than that of acid-catalysed hydrolysis.
+B. During denaturation, the secondary and tertiary structures of a protein are destroyed but the primary structure remains intact.
+C. Nucleotides are joined together by glycosidic linkage between $\mathrm{C_1}$ and $\mathrm{C_4}$ carbons of the pentose sugar.
+D. The quaternary structure of proteins represents the overall folding of the polypeptide chain.
+
+(1) A and B only  (2) A, B and D only  (3) B and C only  (4) A, C and D only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A true (an enzyme lowers $E_a$ more than an acid does: about 2 vs 6 kcal mol$^{-1}$ for sucrose). B true (denaturation breaks H-bonds etc., so 2° and 3° structures are lost, while the peptide-bond sequence, i.e. the primary structure, is intact). C false: nucleotides are linked through *phosphodiester* bonds between the 3′ and 5′ carbons of the sugars. D false: overall folding of a chain is the *tertiary* structure; quaternary structure is the assembly of several polypeptide subunits.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+From the given cyclic structures (A to D), those which will NOT react with Tollens' reagent are:
+
+![Figure](../../figures/j26_che_biomolecules/q2-1.png)
+
+(1) A and B  (2) A and D  (3) B and D  (4) B and C
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Tollens' reagent oxidises the free aldehyde group, which a cyclic hemiacetal can regenerate by ring opening in solution. A and D have a free anomeric –OH (hemiacetal), so they are reducing and react. B and C have an $\mathrm{OCH_3}$ on the anomeric carbon (acetals/glycosides) which cannot open to a free CHO, so they do not react: B and C.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+The structures of four disaccharides are given below. Among them, the non-reducing sugar is:
+
+
+
+**(1)** ![Option 1](../../figures/j26_che_biomolecules/q3-1.png)
+
+**(2)** ![Option 2](../../figures/j26_che_biomolecules/q3-2.png)
+
+**(3)** ![Option 3](../../figures/j26_che_biomolecules/q3-3.png)
+
+**(4)** ![Option 4](../../figures/j26_che_biomolecules/q3-4.png)
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A disaccharide is non-reducing when *both* anomeric carbons are tied up in the glycosidic link (no free hemiacetal –OH). In (1), (2) and (4) one ring still has a free anomeric OH (maltose-/lactose-type), so they are reducing. Structure (3) is sucrose: $\alpha$-D-glucose C1 is joined to $\beta$-D-fructose C2, so both anomeric carbons are used in the link and there is no free hemiacetal – non-reducing.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+The number of possible tripeptides formed involving alanine (ala), glycine (gly) and valine (val), where no amino acid is used more than once, is:
+
+(1) 3  (2) 8  (3) 6  (4) 4
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Each tripeptide contains all three different amino acids, and the sequence matters (N-terminal to C-terminal), so there are $3!=6$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Match List-I with List-II.
+
+| List-I: reaction of glucose with | List-II: product formed |
+|---|---|
+| A. Hydroxylamine | I. Gluconic acid |
+| B. $\mathrm{Br_2}$ water | II. Glucose pentaacetate |
+| C. Excess acetic anhydride | III. Saccharic acid |
+| D. Concentrated $\mathrm{HNO_3}$ | IV. Glucoxime |
+
+(1) A-III, B-I, C-IV, D-II  (2) A-I, B-III, C-IV, D-II  (3) A-IV, B-III, C-II, D-I  (4) A-IV, B-I, C-II, D-III
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The CHO of glucose forms an oxime with $\mathrm{NH_2OH}$ (IV). Mild oxidation by bromine water converts only CHO to COOH: gluconic acid (I). Excess $\mathrm{(CH_3CO)_2O}$ acetylates all five OH: pentaacetate (II). Strong oxidation by conc. $\mathrm{HNO_3}$ oxidises both CHO and the terminal $\mathrm{CH_2OH}$ to COOH: saccharic acid (III).
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
+
+Given below are two statements:
+
+Statement I: Sucrose is dextrorotatory. However, sucrose upon hydrolysis gives a solution having a mixture of products. This solution shows laevorotation.
+Statement II: Hydrolysis of sucrose gives glucose and fructose. Since the laevorotation of glucose is more than the dextrorotation of fructose, the resulting solution becomes laevorotatory.
+
+(1) Statement I is true but Statement II is false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** I true: sucrose $[\alpha]=+66.5^\circ$, and the equimolar glucose/fructose mixture (invert sugar) is laevorotatory. II false: it is *glucose* that is dextrorotatory ($+52.5^\circ$) and *fructose* that is laevorotatory ($-92.4^\circ$); the laevorotation of fructose exceeds the dextrorotation of glucose, so the mixture is laevorotatory.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+
+Both human DNA and RNA are chiral molecules. The chirality in DNA and RNA arises due to the presence of:
+
+(1) L-sugar component  (2) chiral phosphate unit  (3) base unit  (4) D-sugar component
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The sugar units are D-2-deoxyribose in DNA and D-ribose in RNA; these carry several stereocentres. The phosphate groups and the (planar) bases are achiral.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+
+Identify the correct statements.
+
+A. Arginine and tryptophan are essential amino acids.
+B. Histidine does not contain a heterocyclic ring in its structure.
+C. Proline is a six-membered cyclic amino acid.
+D. Glycine does not have a chiral centre.
+E. Cysteine has the characteristic side chain $\mathrm{MeS{-}CH_2{-}CH_2{-}}$.
+
+(1) A and D only  (2) B and E only  (3) C and E only  (4) C and D only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A true (both are in the NCERT list of essential amino acids). B false (histidine has an imidazole ring). C false (proline's pyrrolidine ring is five-membered). D true ($\mathrm{R=H}$, so the $\alpha$-carbon carries two H). E false ($\mathrm{MeS{-}CH_2CH_2{-}}$ is the side chain of methionine; cysteine has $\mathrm{{-}CH_2SH}$). So A and D.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+In the given pentapeptide, find out an essential amino acid (Y) and the sequence present in the pentapeptide:
+
+![Figure](../../figures/j26_che_biomolecules/q9-1.png)
+
+(1) (Y) Serine; sequence Ser-Asp-Thr-Ala-Gly  (2) (Y) Serine; sequence Thr-Ser-Asp-Ala-Gly  (3) (Y) Threonine; sequence Ser-Thr-Asp-Gly-Ala  (4) (Y) Threonine; sequence Thr-Ser-Asp-Gly-Ala
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Read from the free $\mathrm{NH_2}$ end: side chains $\mathrm{CH(OH)CH_3}$ (threonine), $\mathrm{CH_2OH}$ (serine), $\mathrm{CH_2COOH}$ (aspartic acid), H (glycine), $\mathrm{CH_3}$ (alanine): Thr-Ser-Asp-Gly-Ala. Of these only threonine is an essential amino acid (the body cannot synthesise it).
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+A student is given one compound among the following compounds that gives a positive test with Tollens' reagent. The compound is:
+
+![Figure](../../figures/j26_che_biomolecules/q10-1.png)
+
+(1) D  (2) A  (3) B  (4) C
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Tollens' reagent needs a free CHO (or one that can be freed). A is a cyclic acetal (2-methoxytetrahydrofuran); B is an ether; D is a secondary alcohol; none can give CHO. C (2-hydroxytetrahydrofuran) is a cyclic *hemiacetal*, which is in equilibrium with its open form $\mathrm{HOCH_2CH_2CH_2CHO}$ and so gives the silver mirror.
+

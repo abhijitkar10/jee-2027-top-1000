@@ -138,3 +138,111 @@ Let $\alpha,\beta$ be real numbers such that $\displaystyle\lim_{x\to0}\frac1{x^
 
 **Solution.** $\int_0^x\dfrac{dt}{1-t^2}=x+\dfrac{x^3}3+\cdots$ and $x\cos x=x-\dfrac{x^3}2+\cdots$. The bracket is $\left(\dfrac\alpha2+\beta\right)x+\left(\dfrac\alpha6-\dfrac\beta2\right)x^3+\cdots$. A finite limit needs $\beta=-\dfrac\alpha2$, and then $\dfrac\alpha6+\dfrac\alpha4=\dfrac{5\alpha}{12}=2\Rightarrow\alpha=\dfrac{24}5$, $\beta=-\dfrac{12}5$. $\alpha+\beta=\dfrac{12}{5}=2.4$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Limits set Q1 · Numerical
+
+Let $[\cdot]$ denote the greatest integer function and $f(x)=\lim_{n\to\infty}\dfrac1{n^3}\sum_{k=1}^{n}\left[\dfrac{k^2}{3^x}\right]$. Then $12\sum_{j=1}^\infty f(j)$ is equal to ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Write $\left[\dfrac{k^2}{3^x}\right]=\dfrac{k^2}{3^x}-\{\cdot\}$ with $0\le\{\cdot\}<1$; the fractional parts add up to at most $n$, which vanishes after dividing by $n^3$. So $f(x)=\lim\dfrac1{n^3}\cdot\dfrac{n(n+1)(2n+1)}{6\cdot3^x}=\dfrac1{3\cdot3^x}=\dfrac1{3^{x+1}}$. $\sum_{j=1}^\infty\dfrac1{3^{j+1}}=\dfrac{1/9}{1-1/3}=\dfrac16$, so $12\sum f(j)=2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Limits set Q2 · MCQ
+
+If $\lim_{x\to0}\dfrac{e^{(a-1)x}+2\cos bx+(c-2)e^{-x}}{x\cos x-\log_e(1+x)}=2$, then $a^2+b^2+c^2$ is equal to:
+
+(1) 5  (2) 9  (3) 3  (4) 7
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Denominator: $x\cos x-\ln(1+x)=\left(x-\tfrac{x^3}2\right)-\left(x-\tfrac{x^2}2+\tfrac{x^3}3\right)+\cdots=\dfrac{x^2}2+O(x^3)$. For a finite limit the numerator must be $O(x^2)$: constant term $1+2+(c-2)=0\Rightarrow c=-1$; $x$ term $(a-1)-(c-2)=a+2=0\Rightarrow a=-2$. $x^2$ coefficient: $\dfrac{(a-1)^2}2-b^2+\dfrac{c-2}2=\dfrac92-b^2-\dfrac32=3-b^2$. The limit is $\dfrac{3-b^2}{1/2}=2\Rightarrow b^2=2$. $a^2+b^2+c^2=4+2+1=7$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Limits set Q3 · MCQ
+
+Let $f:\mathbb R\to(0,\infty)$ be a twice differentiable function such that $f(3)=18$, $f'(3)=0$ and $f''(3)=4$. Then $\lim_{x\to1}\left(\log_e\left(\dfrac{f(2+x)}{f(3)}\right)^{\frac{18}{(x-1)^2}}\right)$ is equal to:
+
+(1) 1  (2) 18  (3) 2  (4) 9
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The expression is $\dfrac{18}{(x-1)^2}\ln\dfrac{f(2+x)}{f(3)}$. Put $h=x-1$: $f(3+h)=f(3)+hf'(3)+\dfrac{h^2}2f''(3)+\cdots=18+2h^2+\cdots$, so $\dfrac{f(3+h)}{f(3)}=1+\dfrac{h^2}9+\cdots$ and $\ln(\cdot)\approx\dfrac{h^2}9$. The limit is $\dfrac{18}{h^2}\cdot\dfrac{h^2}9=2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Limits set Q4 · MCQ
+
+The value of $\lim_{x\to0}\dfrac{\log_e\left(\sec(ex)\cdot\sec(e^2x)\cdot\ldots\cdot\sec(e^{10}x)\right)}{e^2-e^{2\cos x}}$ is equal to:
+
+(1) $\dfrac{e^{20}-1}{2(e^2-1)}$  (2) $\dfrac{e^{10}-1}{2(e^2-1)}$  (3) $\dfrac{e^{10}-1}{2e^2(e^2-1)}$  (4) $\dfrac{e^{20}-1}{2e^2(e^2-1)}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Numerator $=\sum_{k=1}^{10}\ln\sec(e^kx)\approx\sum\dfrac{e^{2k}x^2}2=\dfrac{x^2}2\cdot\dfrac{e^2(e^{20}-1)}{e^2-1}$ (using $\ln\sec u\approx\tfrac{u^2}2$). Denominator: $e^2-e^{2\cos x}=e^2\left(1-e^{2(\cos x-1)}\right)\approx e^2\cdot2(1-\cos x)\approx e^2x^2$. The limit is $\dfrac{e^2(e^{20}-1)}{2(e^2-1)\,e^2}=\dfrac{e^{20}-1}{2(e^2-1)}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Continuity set Q1 · MCQ
+
+Let $f(x)=\begin{cases}\dfrac{ax^2+2ax+3}{4x^2+4x-3},&x\ne-\tfrac32,\tfrac12\\ b,&x=-\tfrac32,\tfrac12\end{cases}$ be continuous at $x=-\dfrac32$. If $f\circ f(x)=\dfrac75$, then $x$ is equal to:
+
+(1) 4  (2) 0  (3) 2  (4) 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $4x^2+4x-3=(2x+3)(2x-1)$. For a finite limit at $x=-\tfrac32$ the numerator must vanish there: $\tfrac94a-3a+3=0\Rightarrow a=4$. Then $4x^2+8x+3=(2x+1)(2x+3)$ and $f(x)=\dfrac{2x+1}{2x-1}$ for $x\ne-\tfrac32,\tfrac12$. $f(f(x))=\dfrac{2f+1}{2f-1}=\dfrac{6x+1}{2x+3}=\dfrac75\Rightarrow30x+5=14x+21\Rightarrow x=1$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Continuity set Q2 · MCQ
+
+Let $[t]$ denote the greatest integer less than or equal to $t$. If the function $f(x)=\begin{cases}b^2\sin\left(\dfrac\pi2\left[\dfrac\pi2(\cos x+\sin x)\cos x\right]\right),&x<0\\[2mm]\dfrac{\sin x-\tfrac12\sin2x}{x^3},&x>0\\[2mm]a,&x=0\end{cases}$ is continuous at $x=0$, then $a^2+b^2$ is equal to:
+
+(1) $\dfrac58$  (2) $\dfrac12$  (3) $\dfrac9{16}$  (4) $\dfrac34$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Right limit: $\dfrac{\sin x-\sin x\cos x}{x^3}=\dfrac{\sin x}{x}\cdot\dfrac{1-\cos x}{x^2}\to1\cdot\tfrac12=\tfrac12$, so $a=\tfrac12$. Left limit: for $x\to0^-$, $(\cos x+\sin x)\cos x=\cos^2x+\sin x\cos x$ is slightly *less* than 1, so $\tfrac\pi2(\cdot)$ is slightly less than $\tfrac\pi2\approx1.57$ and its integer part is 1. Then $f(x)=b^2\sin\tfrac\pi2=b^2$, so $b^2=a=\tfrac12$. $a^2+b^2=\tfrac14+\tfrac12=\tfrac34$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Continuity set Q3 · MCQ
+
+Let $[\cdot]$ denote the greatest integer function, and let $f(x)=\min\{\sqrt2x,x^2\}$. Let $S=\{x\in(-2,2):$ the function $g(x)=|x|[x^2]$ is discontinuous at $x\}$. Then $\sum_{x\in S}f(x)$ equals:
+
+(1) $\sqrt6-2\sqrt2$  (2) $1-\sqrt2$  (3) $2-\sqrt2$  (4) $2\sqrt6-3\sqrt2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $[x^2]$ jumps where $x^2$ is a positive integer: $x=\pm1,\pm\sqrt2,\pm\sqrt3$ in $(-2,2)$. At each of these $|x|\ne0$, so $g$ is discontinuous; $S=\{\pm1,\pm\sqrt2,\pm\sqrt3\}$. $f(1)=\min\{\sqrt2,1\}=1$; $f(-1)=-\sqrt2$; $f(\sqrt2)=\min\{2,2\}=2$; $f(-\sqrt2)=-2$; $f(\sqrt3)=\min\{\sqrt6,3\}=\sqrt6$; $f(-\sqrt3)=-\sqrt6$. Sum $=1-\sqrt2+2-2+\sqrt6-\sqrt6=1-\sqrt2$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Continuity set Q4 · MCQ
+
+If $f(x)=\begin{cases}\dfrac{a|x|+x^2-2(\sin|x|)(\cos|x|)}{x},&x\ne0\\ b,&x=0\end{cases}$ is continuous at $x=0$, then $a+b$ is equal to:
+
+(1) 4  (2) 1  (3) 2  (4) 0
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $2\sin|x|\cos|x|=\sin2|x|$. For $x\to0^+$: $f=a+x-\dfrac{\sin2x}x\to a-2$. For $x\to0^-$: $|x|=-x$, so $f=\dfrac{-ax+x^2+\sin2x}x\to-a+2$. Continuity needs $a-2=2-a=b$, so $a=2$ and $b=0$; $a+b=2$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Continuity set Q5 · MCQ
+
+If the function $f(x)=\dfrac{e^x\left(e^{\tan x-x}-1\right)+\log_e(\sec x+\tan x)-x}{\tan x-x}$ is continuous at $x=0$, then the value of $f(0)$ is equal to:
+
+(1) $\dfrac23$  (2) 2  (3) $\dfrac32$  (4) $\dfrac12$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Near 0: $\tan x-x\approx\dfrac{x^3}3$. $e^x\left(e^{\tan x-x}-1\right)\approx(1+x)\dfrac{x^3}3\approx\dfrac{x^3}3$. $\ln(\sec x+\tan x)=x+\dfrac{x^3}6+\cdots$, so $\ln(\sec x+\tan x)-x\approx\dfrac{x^3}6$. Numerator $\approx\dfrac{x^3}3+\dfrac{x^3}6=\dfrac{x^3}2$. $f(0)=\lim\dfrac{x^3/2}{x^3/3}=\dfrac32$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Continuity set Q6 · MCQ
+
+Let $\alpha,\beta\in\mathbb R$ be such that the function $f(x)=\begin{cases}2\alpha(x^2-2)+2\beta x,&x<1\\(\alpha+3)x+(\alpha-\beta),&x\ge1\end{cases}$ is differentiable at all $x\in\mathbb R$. Then $34(\alpha+\beta)$ is equal to:
+
+(1) 36  (2) 24  (3) 84  (4) 48
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Differentiable at $x=1$ requires continuity and equal derivatives. Continuity: $-2\alpha+2\beta=(\alpha+3)+(\alpha-\beta)\Rightarrow4\alpha-3\beta+3=0$. Derivatives: left $4\alpha x+2\beta\to4\alpha+2\beta$; right $\alpha+3$, so $3\alpha+2\beta-3=0$. Solving: $\alpha=\tfrac3{17}$, $\beta=\tfrac{21}{17}$. $34(\alpha+\beta)=34\cdot\tfrac{24}{17}=48$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · LCD set Q1 · MCQ
+
+Let $f(x)=\lim_{\theta\to0}\left(\dfrac{\cos\pi x-x^{\left(\frac2\theta\right)}\sin(x-1)}{1+x^{\left(\frac2\theta\right)}(x-1)}\right)$, $x\in\mathbb R$. Consider the following two statements: (I) $f(x)$ is discontinuous at $x=1$. (II) $f(x)$ is continuous at $x=-1$. Then,
+
+(1) Only (II) is True  (2) Neither (I) nor (II) is True  (3) Both (I) and (II) are True  (4) Only (I) is True
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For $|x|<1$, $x^{2/\theta}\to0$ and $f(x)=\cos\pi x$. For $|x|>1$, $x^{2/\theta}\to\infty$ and dividing through gives $f(x)=\dfrac{-\sin(x-1)}{x-1}$. At $x=1$: $f(1)=\dfrac{\cos\pi-0}{1+0}=-1$; the left limit is $\cos\pi=-1$ and the right limit is $-\dfrac{\sin(x-1)}{x-1}\to-1$, so $f$ is continuous at 1: (I) is false. At $x=-1$: from inside, $\cos(-\pi)=-1$; from outside, $-\dfrac{\sin(-2)}{-2}=-\dfrac{\sin2}2\approx-0.45\ne-1$. The one-sided limits differ, so $f$ is discontinuous at $-1$: (II) is false. Neither is true.
+

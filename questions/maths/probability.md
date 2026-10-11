@@ -140,3 +140,101 @@ Three students $S_1,S_2,S_3$ (solving independently) are given a problem. Events
 
 **Solution.** Let $p_i=P(S_i\text{ solves})$. By independence $P(V)=p_1=\tfrac1{10}$. $P(\text{none})=1-P(U)=\tfrac12=(1-p_1)(1-p_2)(1-p_3)\Rightarrow(1-p_2)(1-p_3)=\dfrac{5}{9}$. Also $P(W)=p_2(1-p_3)=\tfrac1{12}$. Adding: $(1-p_3)\big[(1-p_2)+p_2\big]=\dfrac59+\dfrac1{12}=\dfrac{23}{36}$, so $p_3=\dfrac{13}{36}$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+A random variable $X$ takes the values $0,1,2,3$ with probabilities $\dfrac{2a+1}{30},\ \dfrac{8a-1}{30},\ \dfrac{4a+1}{30},\ b$ respectively, where $a,b\in\mathbb R$. Let $\mu$ and $\sigma$ be the mean and standard deviation of $X$ such that $\sigma^2+\mu^2=2$. Then $\dfrac ab$ is equal to:
+
+(1) 12  (2) 30  (3) 60  (4) 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Total probability $=1$: $\dfrac{14a+1}{30}+b=1\Rightarrow b=\dfrac{29-14a}{30}$. Since $\sigma^2+\mu^2=E(X^2)$, we need $E(X^2)=2$: $\dfrac{8a-1}{30}+4\cdot\dfrac{4a+1}{30}+9b=2\Rightarrow \dfrac{24a+3}{30}+\dfrac{9(29-14a)}{30}=2\Rightarrow 264-102a=60\Rightarrow a=2$. Then $b=\dfrac1{30}$ and $\dfrac ab=60$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+From the first 100 natural numbers, two numbers $a$ and then $b$ are selected at random without replacement. If the probability that $a-b\ge10$ is $\dfrac mn$, $\gcd(m,n)=1$, then $m+n$ is equal to ______.
+
+**Answer: 311** · key (compiled)
+
+**Solution.** Ordered pairs $(a,b)$ with $a\ne b$: $100\cdot99=9900$. For a fixed difference $d=a-b$ ($10\le d\le99$) there are $100-d$ pairs, so the favourable count is $\sum_{d=10}^{99}(100-d)=1+2+\cdots+90=\dfrac{90\cdot91}2=4095$. Probability $=\dfrac{4095}{9900}=\dfrac{91}{220}$, so $m+n=91+220=311$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+The probability distribution of a random variable $X$ is given below:
+
+| $X$ | $4k$ | $\tfrac{30}7k$ | $\tfrac{32}7k$ | $\tfrac{34}7k$ | $\tfrac{36}7k$ | $\tfrac{38}7k$ | $\tfrac{40}7k$ | $6k$ |
+|---|---|---|---|---|---|---|---|---|
+| $P(X)$ | $\tfrac2{15}$ | $\tfrac1{15}$ | $\tfrac2{15}$ | $\tfrac15$ | $\tfrac1{15}$ | $\tfrac2{15}$ | $\tfrac15$ | $\tfrac1{15}$ |
+
+If $E(X)=\dfrac{263}{15}$, then $P(X<20)$ is equal to:
+
+(1) $\dfrac{11}{15}$  (2) $\dfrac35$  (3) $\dfrac{14}{15}$  (4) $\dfrac8{15}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Writing every probability over 105 and multiplying by the values: $E(X)=\dfrac k{105}(56+30+64+102+36+76+120+42)=\dfrac{526k}{105}=\dfrac{263}{15}\Rightarrow k=\dfrac72$. The values are therefore $14,15,16,17,18,19,20,21$. $P(X<20)=P(14)+\dots+P(19)=\dfrac{2+1+2+3+1+2}{15}=\dfrac{11}{15}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
+
+Let $S$ be a set of 5 elements and $P(S)$ denote the power set of $S$. Let $E$ be the event of choosing an ordered pair $(A,B)$ from $P(S)\times P(S)$ such that $A\cap B=\emptyset$. If the probability of the event $E$ is $\dfrac{3^p}{2^q}$, where $p,q\in\mathbb N$, then $p+q$ is equal to ______.
+
+**Answer: 15** · key (compiled)
+
+**Solution.** Total ordered pairs $=2^5\cdot2^5=2^{10}$. For $A\cap B=\emptyset$ each of the 5 elements goes to $A$ only, $B$ only, or neither: $3^5$ ways. $P(E)=\dfrac{3^5}{2^{10}}$, so $p=5$, $q=10$ and $p+q=15$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q5 · MCQ
+
+If a random variable $x$ has the probability distribution
+
+| $x$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|---|
+| $P(x)$ | 0 | $2k$ | $k$ | $3k$ | $2k^2$ | $2k$ | $k^2+k$ | $7k^2$ |
+
+then $P(3<x\le6)$ is equal to:
+
+(1) 0.64  (2) 0.22  (3) 0.33  (4) 0.34
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\sum P=9k+10k^2=1\Rightarrow(10k-1)(k+1)=0\Rightarrow k=\dfrac1{10}$ (probabilities are non-negative). $P(3<x\le6)=P(4)+P(5)+P(6)=2k^2+2k+(k^2+k)=3k^2+3k=0.03+0.30=0.33$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
+
+Two distinct numbers $a$ and $b$ are selected at random from $1,2,3,\dots,50$. The probability that their product $ab$ is divisible by 3 is:
+
+(1) $\dfrac{272}{1225}$  (2) $\dfrac{561}{1225}$  (3) $\dfrac{664}{1225}$  (4) $\dfrac8{25}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The product is divisible by 3 unless neither number is a multiple of 3. There are 16 multiples of 3 and 34 non-multiples in $1..50$. $P(\text{neither})=\dfrac{\binom{34}2}{\binom{50}2}=\dfrac{34\cdot33}{50\cdot49}=\dfrac{561}{1225}$, so $P(3\mid ab)=1-\dfrac{561}{1225}=\dfrac{664}{1225}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+
+Bag A contains 9 white and 8 black balls, while bag B contains 6 white and 4 black balls. One ball is randomly picked from bag B and mixed with the balls in bag A. Then a ball is randomly drawn from bag A. If the probability that the ball drawn is white is $\dfrac pq$, $\gcd(p,q)=1$, then $p+q$ is equal to:
+
+(1) 23  (2) 24  (3) 21  (4) 22
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Condition on the colour moved from B to A (theorem of total probability). If a white ball is moved (prob. $\tfrac6{10}$), A has 10 white out of 18; if a black ball is moved (prob. $\tfrac4{10}$), A has 9 white out of 18. $P(W)=\dfrac6{10}\cdot\dfrac{10}{18}+\dfrac4{10}\cdot\dfrac9{18}=\dfrac{60+36}{180}=\dfrac8{15}$, so $p+q=23$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q8 · MCQ
+
+A bag contains 10 balls out of which $k$ are red and $(10-k)$ are black, where $0\le k\le10$. If three balls are drawn at random without replacement and all of them are found to be black, then the probability that the bag contains 1 red and 9 black balls is:
+
+(1) $\dfrac{14}{55}$  (2) $\dfrac7{55}$  (3) $\dfrac7{110}$  (4) $\dfrac7{11}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** All 11 compositions ($k=0,\dots,10$) are taken as equally likely a priori. With $j=10-k$ black balls, $P(\text{3 black}\mid j)=\dfrac{\binom j3}{\binom{10}3}$. By Bayes' theorem, $P(j=9\mid\text{3 black})=\dfrac{\binom93}{\sum_{j=3}^{10}\binom j3}=\dfrac{84}{\binom{11}4}=\dfrac{84}{330}=\dfrac{14}{55}$ (hockey-stick identity for the sum).
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q9 · MCQ
+
+From a lot containing 10 defective and 90 non-defective bulbs, 8 bulbs are selected one by one with replacement. Then the probability of getting at least 7 defective bulbs is:
+
+(1) $\dfrac{67}{10^8}$  (2) $\dfrac7{10^7}$  (3) $\dfrac{81}{10^8}$  (4) $\dfrac{73}{10^8}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Each draw is defective with probability $p=\dfrac1{10}$ (binomial, $n=8$). $P(X\ge7)=\binom87p^7q+\binom88p^8=8\cdot\dfrac{9}{10^8}+\dfrac1{10^8}=\dfrac{73}{10^8}$.
+
