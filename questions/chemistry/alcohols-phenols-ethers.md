@@ -135,3 +135,131 @@ Which compound reacts readily with dilute NaOH?
 
 **Solution.** Phenol ($pK_a\approx10$) is acidic enough to be deprotonated by NaOH because the phenoxide ion is resonance-stabilised. Alcohols ($pK_a\approx16$–$18$) do not react with dilute NaOH.
 
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+
+The correct sequence of reagents for the above conversion of X to Y is:
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q1-1.png)
+
+(1) (i) NaOH(aq); (ii) Jones reagent; (iii) $\mathrm{H_3O^+}$  (2) (i) $\mathrm{B_2H_6/H_2O_2}$; (ii) NaOEt; (iii) Jones reagent  (3) (i) Jones reagent; (ii) NaOEt; (iii) hot $\mathrm{KMnO_4/KOH}$  (4) (i) NaOEt; (ii) $\mathrm{B_2H_6/H_2O_2}$; (iii) Jones reagent
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** X is $\mathrm{PhCH(Br)CH_3}$ and Y is $\mathrm{PhCH_2COOH}$ – the carboxyl carbon must come from the *terminal* carbon. (i) NaOEt (bulky base, E2) gives styrene $\mathrm{PhCH{=}CH_2}$; (ii) hydroboration–oxidation (anti-Markovnikov) gives $\mathrm{PhCH_2CH_2OH}$; (iii) Jones reagent oxidises the primary alcohol to $\mathrm{PhCH_2COOH}$. Answer (4).
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+Match List-I with List-II.
+
+| List-I: functional group (detection) | List-II: change observed during detection |
+|---|---|
+| A. Unsaturation (Baeyer's test) | I. Red colour appears |
+| B. Alcoholic group (ceric ammonium nitrate test) | II. Silver mirror appears |
+| C. Aldehyde group (Tollens' reagent) | III. Violet colour appears |
+| D. Phenolic group ($\mathrm{FeCl_3}$ test) | IV. Discharge of pink colour |
+
+(1) A-III, B-IV, C-II, D-I  (2) A-IV, B-I, C-II, D-III  (3) A-IV, B-III, C-II, D-I  (4) A-III, B-IV, C-I, D-II
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Baeyer's reagent (cold alkaline $\mathrm{KMnO_4}$, pink/purple) is decolourised by a $\mathrm{C{=}C}$ (A–IV). Ceric ammonium nitrate (yellow) turns red with alcohols (B–I). Tollens' reagent gives a silver mirror with aldehydes (C–II). Phenols give a violet colour with neutral $\mathrm{FeCl_3}$ (D–III).
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+The reactions which produce an alcohol as the product are:
+
+A. $\mathrm{CH_4+O_2\xrightarrow[\Delta]{Mo_2O_3}}$
+B. $\mathrm{2CH_3CH_3+3O_2\xrightarrow[\Delta]{(CH_3COO)_2Mn}}$
+C. $(\mathrm{CH_3})_3\mathrm{CH}\xrightarrow{\mathrm{KMnO_4}}$
+D. $\mathrm{2CH_4+O_2\xrightarrow{Cu/523\ K/100\ atm}}$
+E. $\mathrm{CH_3{-}CH{=}CH{-}CH_3\xrightarrow{KMnO_4/H^+}}$
+
+(1) A, C and E only  (2) A and D only  (3) C and D only  (4) B, D and E only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A gives HCHO (methanal), B gives $\mathrm{CH_3COOH}$, E gives $2\,\mathrm{CH_3COOH}$ (oxidative cleavage). C: $\mathrm{KMnO_4}$ oxidises the tertiary C–H of isobutane to give $(\mathrm{CH_3})_3\mathrm{COH}$ (alcohol). D: $\mathrm{Cu/523\ K/100\ atm}$ oxidises methane to $\mathrm{CH_3OH}$. So C and D.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+From the following, how many compounds contain at least one secondary alcohol?
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q4-1.png)
+
+(1) Three  (2) Five  (3) Four  (4) Two
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A secondary alcohol has the OH on a carbon bonded to two other carbons (and one H). (I) has only primary –CH₂OH groups (its other OH is part of the carbamic acid). (II) butane-1,2-diol has a secondary OH. (III) has two tertiary OH. (IV) the furanose has secondary OH groups (ring and side chain). (V) has a secondary OH (C2) and a tertiary one (C3). (VI) has two tertiary OH and one primary. So II, IV and V: three.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+
+The unsaturated ether on acidic hydrolysis produces carbonyl compounds as shown: $\mathrm{CH_3{-}CH{=}CH{-}O{-}CH{=}CH_2\xrightarrow{H_3O^+}CH_3CH_2CH{=}O+O{=}CH{-}CH_3}$. Based on this, predict the solution/reagent that will help to distinguish P and Q obtained in the following reaction:
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q5-1.png)
+
+(1) Fehling solution  (2) Lucas reagent  (3) 2,4-DNP reagent  (4) Saturated $\mathrm{NaHSO_3}$ solution
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Hydrolysis of the enol ether splits it into two enols, each of which tautomerises to a carbonyl compound: $\mathrm{CH_3CH{=}CH{-}OH\to CH_3CH_2CHO}$ (propanal) and $\mathrm{CH_2{=}C(CH_3){-}OH\to CH_3COCH_3}$ (acetone). Aldehyde vs ketone: Fehling's solution is reduced (red $\mathrm{Cu_2O}$) by propanal but not by acetone. 2,4-DNP and $\mathrm{NaHSO_3}$ react with both; Lucas reagent is for alcohols.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+
+3,3-Dimethyl-2-butanol cannot be prepared by:
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q6-1.png)
+
+(1) B and C only  (2) B and E only  (3) B only  (4) B, C and E only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The target is $(\mathrm{CH_3})_3\mathrm{C{-}CH(OH)CH_3}$. A: $t$-BuCHO + MeMgBr gives it. C: ozonolysis of the alkene gives two molecules of $t$-BuCOCH$_3$, and $\mathrm{NaBH_4}$ reduces it to the target. D: $\mathrm{LiAlH_4}$ reduction of $t$-BuCOCH$_3$ gives it. B cannot: it has an extra carbon (ethyl) and acid-catalysed hydration would in any case rearrange. E cannot: Markovnikov hydration of the alkyne gives the *ketone* $t$-BuCOCH$_3$, not the alcohol. So B and E.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+Given below are two statements:
+
+Statement I: Phenol on treatment with $\mathrm{CHCl_3}$/aq. KOH under refluxing conditions, followed by acidification, produces $p$-hydroxybenzaldehyde as the major product and $o$-hydroxybenzaldehyde as the minor product.
+Statement II: The mixture of $p$-hydroxybenzaldehyde and $o$-hydroxybenzaldehyde can be easily separated by steam distillation.
+
+(1) Statement I is true but Statement II is false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are true  (4) Both Statement I and Statement II are false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** This is the Reimer–Tiemann reaction, in which the *ortho* product (salicylaldehyde) is the major product and *para* the minor, so I is false. $o$-Hydroxybenzaldehyde has intramolecular H-bonding and is steam-volatile, while the $p$-isomer has intermolecular H-bonding and is not, so they are separated by steam distillation – II true.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+Consider the following reaction sequence. Compound (y) develops a characteristic colour with neutral $\mathrm{FeCl_3}$ solution. Identify the INCORRECT statement for the above sequence.
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q9-1.png)
+
+(1) Compound y will dissolve in $\mathrm{NaHCO_3}$ and evolve a gas.  (2) Both compounds x and y will dissolve in NaOH.  (3) Both compounds x and y will burn with a sooty flame.  (4) Compound x is more acidic than compound y.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** x: $\mathrm{C}=0.766\times94/12=6$, $\mathrm H=0.0638\times94=6$, $\mathrm O=(94-72-6)/16=1$ ($M=2\times47=94$): $\mathrm{C_6H_6O}$, phenol. Kolbe–Schmitt reaction gives y = salicylic acid ($o$-hydroxybenzoic acid; violet with $\mathrm{FeCl_3}$). (1) true (–COOH liberates $\mathrm{CO_2}$ from bicarbonate); (2) true; (3) true (aromatic compounds burn with a sooty flame); (4) false – salicylic acid ($\mathrm{p}K_a\approx3$) is much more acidic than phenol ($\mathrm{p}K_a\approx10$).
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+A hydroxy compound (X) with molar mass 122 g mol$^{-1}$ is acetylated with acetic anhydride, using a large excess of the reagent, ensuring complete acetylation of all hydroxyl groups. The product obtained has a molar mass of 290 g mol$^{-1}$. The number of hydroxyl groups present in compound (X) is:
+
+(1) 5  (2) 2  (3) 4  (4) 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Each $\mathrm{R{-}OH\to R{-}OCOCH_3}$ adds $\mathrm{C_2H_2O}$, i.e. $42$ g mol$^{-1}$. Number of OH $=\dfrac{290-122}{42}=4$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q11 · MCQ
+
+Consider the following two reactions A and B. The numerical value of [molar mass of x + molar mass of y] is:
+
+![Figure](../../figures/j26_che_alcohols-phenols-and-ethers/q11-1.png)
+
+(1) 160  (2) 4  (3) 88  (4) 46
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A: $\mathrm{C_6H_5OH+Na\to C_6H_5ONa+\tfrac12H_2}$, so gas x is $\mathrm{H_2}$ ($M=2$). B: $\mathrm{C_6H_5COOH+NaHCO_3\to C_6H_5COONa+H_2O+CO_2}$, so gas y is $\mathrm{CO_2}$ ($M=44$). Sum $=2+44=46$.
+
