@@ -238,3 +238,171 @@ From a lot containing 10 defective and 90 non-defective bulbs, 8 bulbs are selec
 
 **Solution.** Each draw is defective with probability $p=\dfrac1{10}$ (binomial, $n=8$). $P(X\ge7)=\binom87p^7q+\binom88p^8=8\cdot\dfrac{9}{10^8}+\dfrac1{10^8}=\dfrac{73}{10^8}$.
 
+### § — JEE Main 2025 · Jan session · set Q1 · MCQ
+
+Let $A=[a_{ij}]$ be a square matrix of order 2 with entries either 0 or 1. Let $E$ be the event that $A$ is an invertible matrix. Then the probability $P(E)$ is:
+
+(1) $\tfrac3{16}$  (2) $\tfrac58$  (3) $\tfrac38$  (4) $\tfrac18$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** There are $2^4=16$ matrices. $|A|=a_{11}a_{22}-a_{12}a_{21}\ne0$ needs exactly one of the two products to be 1: $a_{11}a_{22}=1$ and $a_{12}a_{21}=0$ (3 ways) or the reverse (3 ways). That is 6 matrices, so $P(E)=\tfrac6{16}=\tfrac38$.
+
+### § — JEE Main 2025 · Jan session · set Q2 · MCQ
+
+Two numbers $k_1$ and $k_2$ are randomly chosen from the set of natural numbers. Then the probability that the value of $i^{k_1}+i^{k_2}$ ($i=\sqrt{-1}$) is non-zero equals:
+
+(1) $\tfrac12$  (2) $\tfrac34$  (3) $\tfrac14$  (4) $\tfrac23$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The powers of $i$ cycle with period 4, so each of $i,-1,-i,1$ is equally likely. The sum is zero exactly when $i^{k_2}=-i^{k_1}$, which has probability $\tfrac14$ (for any $k_1$ one of the four residues of $k_2$ works). Non-zero: $\tfrac34$.
+
+### § — JEE Main 2025 · Jan session · set Q3 · MCQ
+
+Let $S$ be the set of all words that can be formed by arranging all the letters of the word GARDEN. From the set $S$, one word is selected at random. The probability that the selected word will NOT have vowels in alphabetical order is:
+
+(1) $\tfrac12$  (2) $\tfrac14$  (3) $\tfrac23$  (4) $\tfrac13$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The two vowels A and E can appear as A…E or E…A with equal frequency (by symmetry), so half the words have them in alphabetical order. The required probability is $\tfrac12$.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is $\dfrac mn$, where $\gcd(m,n)=1$, then $m+n$ is equal to:
+
+(1) 4  (2) 14  (3) 13  (4) 11
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $P(\text{2nd black})=\dfrac6{10}$ and $P(\text{both black})=\dfrac6{10}\cdot\dfrac59=\dfrac13$. $P(\text{1st black}\mid\text{2nd black})=\dfrac{1/3}{3/5}=\dfrac59$, so $m+n=14$.
+
+### § — JEE Main 2025 · Jan session · set Q5 · MCQ
+
+A coin is tossed three times. Let $X$ denote the number of times a tail follows a head. If $\mu$ and $\sigma^2$ denote the mean and variance of $X$, then the value of $64(\mu+\sigma^2)$ is:
+
+(1) 51  (2) 64  (3) 32  (4) 48
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** "HT" occurs once in HHT, HTH, HTT and THT (4 of the 8 outcomes) and not at all in HHH, THH, TTH, TTT. So $X\in\{0,1\}$ with probability $\tfrac12$ each: $\mu=\tfrac12$, $\sigma^2=\tfrac14$, and $64\cdot\tfrac34=48$.
+
+### § — JEE Main 2025 · Jan session · set Q6 · MCQ
+
+One die has two faces marked 1, two faces marked 2, one face marked 3 and one face marked 4. Another die has one face marked 1, two faces marked 2, two faces marked 3 and one face marked 4. The probability of getting the sum of numbers to be 4 or 5, when both the dice are thrown together, is:
+
+(1) $\tfrac23$  (2) $\tfrac12$  (3) $\tfrac49$  (4) $\tfrac35$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Counting favourable cases out of 36 (weights = number of faces). Sum 4: (1,3): $2\cdot2$, (2,2): $2\cdot2$, (3,1): $1\cdot1$ = 9. Sum 5: (1,4): $2\cdot1$, (2,3): $2\cdot2$, (3,2): $1\cdot2$, (4,1): $1\cdot1$ = 9. Probability $=\dfrac{18}{36}=\dfrac12$.
+
+### § — JEE Main 2025 · Jan session · set Q8 · MCQ
+
+$A$ and $B$ alternately throw a pair of dice. $A$ wins if he throws a sum of 5 before $B$ throws a sum of 8, and $B$ wins if he throws a sum of 8 before $A$ throws a sum of 5. The probability that $A$ wins if $A$ makes the first throw is:
+
+(1) $\tfrac8{17}$  (2) $\tfrac9{19}$  (3) $\tfrac9{17}$  (4) $\tfrac8{19}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $p=P(\text{sum}=5)=\tfrac4{36}=\tfrac19$ and $q=P(\text{sum}=8)=\tfrac5{36}$. $P(A\text{ wins})=\dfrac p{1-(1-p)(1-q)}=\dfrac{1/9}{1-\frac89\cdot\frac{31}{36}}=\dfrac{1/9}{76/324}=\dfrac9{19}$.
+
+### § — JEE Main 2025 · Jan session · set Q9 · MCQ
+
+If $A$ and $B$ are two events such that $P(A\cap B)=0.1$, and $P(A\mid B)$ and $P(B\mid A)$ are the roots of the equation $12x^2-7x+1=0$, then the value of $\dfrac{P(\bar A\cup\bar B)}{P(\bar A\cap\bar B)}$ is:
+
+(1) $\tfrac43$  (2) $\tfrac74$  (3) $\tfrac53$  (4) $\tfrac94$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The roots are $\tfrac13$ and $\tfrac14$, so $\dfrac{0.1}{P(B)}$ and $\dfrac{0.1}{P(A)}$ are $\tfrac13,\tfrac14$: $\{P(A),P(B)\}=\{0.3,0.4\}$. $P(A\cup B)=0.3+0.4-0.1=0.6$. $\dfrac{P(\bar A\cup\bar B)}{P(\bar A\cap\bar B)}=\dfrac{1-P(A\cap B)}{1-P(A\cup B)}=\dfrac{0.9}{0.4}=\dfrac94$.
+
+### § — JEE Main 2025 · Jan session · set Q10 · MCQ
+
+Bag 1 contains 4 white balls and 5 black balls, and Bag 2 contains $n$ white balls and 3 black balls. One ball is drawn randomly from Bag 1 and transferred to Bag 2. A ball is then drawn randomly from Bag 2. If the probability that the ball drawn is white is $\dfrac{29}{45}$, then $n$ is equal to:
+
+(1) 6  (2) 3  (3) 5  (4) 4
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Total probability: $\dfrac49\cdot\dfrac{n+1}{n+4}+\dfrac59\cdot\dfrac n{n+4}=\dfrac{9n+4}{9(n+4)}=\dfrac{29}{45}\Rightarrow5(9n+4)=29(n+4)\Rightarrow16n=96$, so $n=6$.
+
+### § — JEE Main 2025 · Apr session · set Q1 · Numerical
+
+A card from a pack of 52 cards is lost. From the remaining 51 cards, $n$ cards are drawn and are found to be spades. If the probability of the lost card being a spade is $\tfrac{11}{50}$, then $n$ is equal to ______.
+
+**Answer: 2** · key (compiled)
+
+**Solution.** By Bayes' theorem, $P(\text{lost spade}\mid n\text{ spades drawn})=\dfrac{\frac14\binom{12}n}{\frac14\binom{12}n+\frac34\binom{13}n}$. For $n=2$: $\dfrac{66}{66+3\cdot78}=\dfrac{66}{300}=\dfrac{11}{50}$. So $n=2$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · MCQ
+
+If the probability that the random variable $X$ takes the value $x$ is given by $P(X=x)=k(x+1)3^{-x}$, $x=0,1,2,3,\dots$, where $k$ is a constant, then $P(X\ge3)$ is equal to:
+
+(1) $\tfrac7{27}$  (2) $\tfrac49$  (3) $\tfrac8{27}$  (4) $\tfrac19$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\sum_{x\ge0}(x+1)r^x=\dfrac1{(1-r)^2}$ with $r=\tfrac13$ equals $\tfrac94$, so $k=\tfrac49$. $P(X<3)=k\left(1+\tfrac23+\tfrac39\right)=\tfrac49\cdot2=\tfrac89$, hence $P(X\ge3)=\tfrac19$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · MCQ
+
+The probability of forming a 12-person committee from 4 engineers, 2 doctors and 10 professors containing at least 3 engineers and at least 1 doctor is:
+
+(1) $\tfrac{129}{182}$  (2) $\tfrac{103}{182}$  (3) $\tfrac{17}{26}$  (4) $\tfrac{19}{26}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Total ways $\binom{16}{12}=1820$. Favourable (engineers, doctors, professors): (3,1,8): $4\cdot2\cdot45=360$; (3,2,7): $4\cdot1\cdot120=480$; (4,1,7): $1\cdot2\cdot120=240$; (4,2,6): $1\cdot1\cdot210=210$. Sum $=1290$, so the probability is $\dfrac{1290}{1820}=\dfrac{129}{182}$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+Given three identical bags each containing 10 balls, whose colours are as follows: Bag I — Red 3, Blue 2, Green 5; Bag II — Red 4, Blue 3, Green 3; Bag III — Red 5, Blue 1, Green 4. A person chooses a bag at random and takes out a ball. If the ball is Red, the probability that it is from Bag I is $p$, and if the ball is Green, the probability that it is from Bag III is $q$. Then the value of $\left(\dfrac1p+\dfrac1q\right)$ is:
+
+(1) 6  (2) 9  (3) 7  (4) 8
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Red: $p=\dfrac{3}{3+4+5}=\dfrac14$. Green: $q=\dfrac4{5+3+4}=\dfrac13$. $\dfrac1p+\dfrac1q=4+3=7$.
+
+### § — JEE Main 2025 · Apr session · set Q5 · MCQ
+
+A bag contains 19 unbiased coins and one coin with head on both sides. One coin drawn at random is tossed and head turns up. If the probability that the drawn coin was unbiased is $\dfrac mn$, $\gcd(m,n)=1$, then $n^2-m^2$ is equal to:
+
+(1) 80  (2) 60  (3) 72  (4) 64
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $P(\text{unbiased}\mid H)=\dfrac{\frac{19}{20}\cdot\frac12}{\frac{19}{20}\cdot\frac12+\frac1{20}\cdot1}=\dfrac{19}{21}$. So $n^2-m^2=441-361=80$.
+
+### § — JEE Main 2025 · Apr session · set Q6 · MCQ
+
+A box contains 10 pens of which 3 are defective. A sample of 2 pens is drawn at random and let $X$ denote the number of defective pens. Then the variance of $X$ is:
+
+(1) $\tfrac{11}{15}$  (2) $\tfrac{28}{75}$  (3) $\tfrac2{15}$  (4) $\tfrac35$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $P(0)=\dfrac{21}{45}$, $P(1)=\dfrac{21}{45}$, $P(2)=\dfrac3{45}$. $E(X)=\dfrac{27}{45}=\dfrac35$, $E(X^2)=\dfrac{21+12}{45}=\dfrac{11}{15}$. $\text{Var}=\dfrac{11}{15}-\dfrac9{25}=\dfrac{28}{75}$.
+
+### § — JEE Main 2025 · Apr session · set Q7 · MCQ
+
+Let a random variable $X$ take values $0,1,2,3$ with $P(X=0)=P(X=1)=p$, $P(X=2)=P(X=3)$ and $E(X^2)=2E(X)$. Then the value of $8p-1$ is:
+
+(1) 0  (2) 2  (3) 1  (4) 3
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Let $P(X=2)=P(X=3)=q$, with $2p+2q=1$. $E(X)=p+5q$ and $E(X^2)=p+13q$. The condition $p+13q=2p+10q$ gives $p=3q$; then $8q=1$, $q=\tfrac18$, $p=\tfrac38$ and $8p-1=2$.
+
+### § — JEE Main 2025 · Apr session · set Q10 · MCQ
+
+If $A$ and $B$ are two events such that $P(A)=0.7$, $P(B)=0.4$ and $P(A\cap\bar B)=0.5$, where $\bar B$ denotes the complement of $B$, then $P\big(B\mid(A\cup\bar B)\big)$ is equal to:
+
+(1) $\tfrac14$  (2) $\tfrac12$  (3) $\tfrac16$  (4) $\tfrac13$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $P(A\cap B)=0.7-0.5=0.2$. $A\cup\bar B$ is the complement of $\bar A\cap B$, with $P(\bar A\cap B)=0.4-0.2=0.2$, so $P(A\cup\bar B)=0.8$. $B\cap(A\cup\bar B)=A\cap B$. Hence $\dfrac{0.2}{0.8}=\dfrac14$.
+

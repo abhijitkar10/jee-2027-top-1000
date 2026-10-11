@@ -252,3 +252,131 @@ Let a differentiable function $f$ satisfy the equation $\int_0^{36}f\left(\dfrac
 
 **Solution.** With $u=\dfrac{tx}{36}$, $dt=\dfrac{36}x\,du$: $\dfrac{36}x\int_0^xf(u)du=4\alpha f(x)\Rightarrow9\int_0^xf=\alpha xf(x)$. Differentiating: $9f=\alpha f+\alpha xf'$, so $\dfrac{f'}f=\dfrac{9-\alpha}{\alpha x}$ and $f=Cx^{(9-\alpha)/\alpha}$. A standard parabola $y=Cx^2$ needs $\dfrac{9-\alpha}\alpha=2\Rightarrow\alpha=3$. Through $(2,1)$: $C=\tfrac14$, so $\beta=f(-4)=\tfrac{16}4=4$. $\beta^\alpha=4^3=64$.
 
+### § — JEE Main 2025 · Jan session · set Q1 · MCQ
+
+The integral $80\displaystyle\int_0^{\pi/4}\left(\dfrac{\sin\theta+\cos\theta}{9+16\sin2\theta}\right)d\theta$ is equal to:
+
+(1) $3\log_e4$  (2) $4\log_e3$  (3) $6\log_e4$  (4) $2\log_e3$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Put $t=\sin\theta-\cos\theta$, $dt=(\sin\theta+\cos\theta)d\theta$, and $\sin2\theta=1-t^2$, so $9+16\sin2\theta=25-16t^2$; the limits are $t=-1$ to $0$. $\int_{-1}^0\dfrac{dt}{25-16t^2}=\dfrac1{40}\ln\dfrac{5+4t}{5-4t}\Big|_{-1}^0=\dfrac1{40}\ln9$. Multiplying by 80: $2\ln9=4\ln3$.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+Let $f(x)=\displaystyle\int_0^{x^2}\dfrac{t^2-8t+15}{e^t}\,dt$, $x\in\mathbb R$. Then the numbers of local maximum and local minimum points of $f$, respectively, are:
+
+(1) 2 and 3  (2) 2 and 2  (3) 3 and 2  (4) 1 and 3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $f'(x)=2x\,(x^4-8x^2+15)e^{-x^2}=2x(x^2-3)(x^2-5)e^{-x^2}$, with critical points $0,\pm\sqrt3,\pm\sqrt5$. The sign of $f'$ is $-,+,-,+,-,+$ across $x<-\sqrt5$, $(-\sqrt5,-\sqrt3)$, $(-\sqrt3,0)$, $(0,\sqrt3)$, $(\sqrt3,\sqrt5)$, $x>\sqrt5$. Sign changes $-\to+$ (minima) occur at $-\sqrt5,0,\sqrt5$: 3; changes $+\to-$ (maxima) at $\pm\sqrt3$: 2. So 2 maxima and 3 minima.
+
+### § — JEE Main 2025 · Jan session · set Q5 · MCQ
+
+Let for some function $y=f(x)$, $\displaystyle\int_0^xt\,f(t)\,dt=x^2f(x)$, $x>0$ and $f(2)=3$. Then $f(6)$ is equal to:
+
+(1) 1  (2) 3  (3) 6  (4) 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Differentiating: $xf(x)=2xf(x)+x^2f'(x)\Rightarrow xf'=-f$, so $f=\dfrac cx$. $f(2)=3\Rightarrow c=6$ and $f(6)=1$.
+
+### § — JEE Main 2025 · Jan session · set Q6 · MCQ
+
+Let $f$ be a real-valued continuous function defined on the positive real axis such that $g(x)=\displaystyle\int_0^xt\,f(t)\,dt$. If $g(x^3)=x^6+x^7$, then the value of $\sum_{r=1}^{15}f(r^3)$ is:
+
+(1) 270  (2) 340  (3) 320  (4) 310
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Differentiate $g(x^3)=x^6+x^7$: $g'(x^3)\cdot3x^2=6x^5+7x^6$, and $g'(u)=uf(u)$ gives $x^3f(x^3)\cdot3x^2=6x^5+7x^6$, so $f(x^3)=\dfrac{6+7x}3$. $\sum_{r=1}^{15}f(r^3)=\dfrac{6\cdot15+7\cdot120}3=310$.
+
+### § — JEE Main 2025 · Jan session · set Q7 · MCQ
+
+Let $f(x)=\displaystyle\int_0^xt\,(t^2-9t+20)\,dt$, $1\le x\le5$. If the range of $f$ is $[\alpha,\beta]$, then $4(\alpha+\beta)$ equals:
+
+(1) 253  (2) 154  (3) 125  (4) 157
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $f'(x)=x(x-4)(x-5)$: positive on $(0,4)$, negative on $(4,5)$. $f(x)=\dfrac{x^4}4-3x^3+10x^2$, so $f(1)=7.25$, $f(4)=32$ (maximum), $f(5)=31.25$. The range on $[1,5]$ is $[7.25,\,32]$, and $4(\alpha+\beta)=4\times39.25=157$.
+
+### § — JEE Main 2025 · Jan session · set Q8 · MCQ
+
+If $I(m,n)=\displaystyle\int_0^1x^{m-1}(1-x)^{n-1}dx$, $m,n>0$, then $I(9,14)+I(10,13)$ is:
+
+(1) $I(19,27)$  (2) $I(9,1)$  (3) $I(1,13)$  (4) $I(9,13)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $I(m,n)$ is the beta function and $x^{m-1}(1-x)^{n-1}=x^{m}(1-x)^{n-1}+x^{m-1}(1-x)^{n}$, i.e. $I(m,n)=I(m+1,n)+I(m,n+1)$. With $m=9$, $n=13$: $I(9,13)=I(10,13)+I(9,14)$.
+
+### § — JEE Main 2025 · Jan session · set Q9 · MCQ
+
+Let $f(x)=7\tan^8x+7\tan^6x-3\tan^4x-3\tan^2x$, $I_1=\displaystyle\int_0^{\pi/4}f(x)dx$ and $I_2=\displaystyle\int_0^{\pi/4}xf(x)dx$. Then $7I_1+12I_2$ is equal to:
+
+(1) 2  (2) 1  (3) $2\pi$  (4) $\pi$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $f=(7\tan^6x-3\tan^2x)\sec^2x$, so $I_1=[\tan^7x-\tan^3x]_0^{\pi/4}=0$. By parts, $I_2=\left[x(\tan^7x-\tan^3x)\right]_0^{\pi/4}-\int_0^{\pi/4}(\tan^7x-\tan^3x)dx=-\int_0^{\pi/4}\tan^3x(\tan^2x-1)(\tan^2x+1)\,dx=-\int_0^1(t^5-t^3)\,dt=-\left(\tfrac16-\tfrac14\right)=\tfrac1{12}$ (with $t=\tan x$, $dt=\sec^2x\,dx$). So $7I_1+12I_2=1$.
+
+### § — JEE Main 2025 · Jan session · set Q12 · MCQ
+
+If $\displaystyle\int_{-\pi/2}^{\pi/2}\dfrac{96x^2\cos^2x}{1+e^x}dx=\pi(\alpha\pi^2+\beta)$, $\alpha,\beta\in\mathbb Z$, then $(\alpha+\beta)^2$ equals:
+
+(1) 64  (2) 196  (3) 144  (4) 100
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Using $\dfrac1{1+e^x}+\dfrac1{1+e^{-x}}=1$ and the evenness of $x^2\cos^2x$, the integral equals $\int_0^{\pi/2}96x^2\cos^2x\,dx=48\int_0^{\pi/2}x^2(1+\cos2x)\,dx=48\left[\dfrac{\pi^3}{24}-\dfrac\pi4\right]=2\pi^3-12\pi=\pi(2\pi^2-12)$. So $\alpha=2$, $\beta=-12$, $(\alpha+\beta)^2=100$.
+
+### § — JEE Main 2025 · Apr session · set Q1 · MCQ
+
+The integral $\displaystyle\int_0^\pi\dfrac{8x\,dx}{4\cos^2x+\sin^2x}$ is equal to:
+
+(1) $2\pi^2$  (2) $4\pi^2$  (3) $\pi^2$  (4) $\dfrac{3\pi^2}2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The denominator is symmetric under $x\to\pi-x$, so $\int_0^\pi xf=\dfrac\pi2\int_0^\pi f$. $\int_0^\pi\dfrac{dx}{4\cos^2x+\sin^2x}=2\int_0^{\pi/2}\dfrac{\sec^2x\,dx}{4+\tan^2x}=2\cdot\dfrac12\cdot\dfrac\pi2=\dfrac\pi2$. The integral is $8\cdot\dfrac\pi2\cdot\dfrac\pi2=2\pi^2$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · MCQ
+
+The integral $\displaystyle\int_0^\pi\dfrac{(x+3)\sin x}{1+3\cos^2x}dx$ is equal to:
+
+(1) $\dfrac\pi{\sqrt3}(\pi+1)$  (2) $\dfrac\pi{\sqrt3}(\pi+2)$  (3) $\dfrac\pi{3\sqrt3}(\pi+6)$  (4) $\dfrac\pi{2\sqrt3}(\pi+4)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Let $J=\int_0^\pi\dfrac{\sin x}{1+3\cos^2x}dx=\int_{-1}^1\dfrac{du}{1+3u^2}=\dfrac{2}{\sqrt3}\tan^{-1}\sqrt3=\dfrac{2\pi}{3\sqrt3}$. The $x\sin x$ part: $\int_0^\pi xf=\dfrac\pi2J=\dfrac{\pi^2}{3\sqrt3}$ (property $x\to\pi-x$). Total $=\dfrac{\pi^2}{3\sqrt3}+3J=\dfrac{\pi^2}{3\sqrt3}+\dfrac{2\pi}{\sqrt3}=\dfrac\pi{3\sqrt3}(\pi+6)$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · Numerical
+
+Let $[\cdot]$ denote the greatest integer function. If $\displaystyle\int_0^{e^3}\left[\dfrac1{e^{x-1}}\right]dx=\alpha-\log_e2$, then $\alpha^3$ is equal to ______.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** $\left[e^{1-x}\right]$: for $x>1$ the value $e^{1-x}<1$, so the integer part is 0. For $0\le x<1-\ln2$, $e^{1-x}\ge2$ (and $\le e<3$), so it equals 2; for $1-\ln2<x\le1$ it equals 1. The integral is $2(1-\ln2)+1\cdot\ln2=2-\ln2$, so $\alpha=2$ and $\alpha^3=8$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+Let $(a,b)$ be the point of intersection of the curve $x^2=2y$ and the straight line $y-2x-6=0$ in the second quadrant. Then the integral $I=\displaystyle\int_a^b\dfrac{9x^2}{1+5^{x}}dx$ is equal to:
+
+(1) 24  (2) 27  (3) 18  (4) 21
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $x^2=4x+12\Rightarrow x=6$ or $-2$, so the second-quadrant point is $(-2,2)$: $a=-2$, $b=2$. With $\dfrac1{1+5^x}+\dfrac1{1+5^{-x}}=1$: $I=\int_0^29x^2dx=3\cdot8=24$.
+
+### § — JEE Main 2025 · Apr session · set Q9 · MCQ
+
+The integral $\displaystyle\int_{-1}^{3/2}\left|\pi^2x\sin(\pi x)\right|dx$ is equal to:
+
+(1) $3+2\pi$  (2) $4+\pi$  (3) $1+3\pi$  (4) $2+3\pi$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $x\sin\pi x\ge0$ on $[-1,1]$ and $\le0$ on $[1,\tfrac32]$. With $\int x\sin\pi x\,dx=-\dfrac{x\cos\pi x}\pi+\dfrac{\sin\pi x}{\pi^2}$: $\int_{-1}^1=\dfrac2\pi$, and $\int_1^{3/2}=-\dfrac1{\pi^2}-\dfrac1\pi$, whose absolute value is $\dfrac1\pi+\dfrac1{\pi^2}$. Total $=\pi^2\left(\dfrac3\pi+\dfrac1{\pi^2}\right)=3\pi+1$.
+

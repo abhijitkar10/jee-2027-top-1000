@@ -208,3 +208,129 @@ Let $\vec a=2\hat i+\hat j-2\hat k$, $\vec b=\hat i+\hat j$ and $\vec c=\vec a\t
 
 **Solution.** $\vec c=\vec a\times\vec b=(2,-2,1)$, $|\vec c|=3$ and $|\vec a|=3$. $|\vec c\times\vec d|=|\vec c||\vec d|\sin\tfrac\pi4=\tfrac{3|\vec d|}{\sqrt2}=3\Rightarrow|\vec d|=\sqrt2$. Then $|\vec d-\vec a|^2=|\vec d|^2-2\vec a\cdot\vec d+|\vec a|^2=2-2\vec a\cdot\vec d+9=11\Rightarrow\vec a\cdot\vec d=0$.
 
+### § — JEE Main 2025 · Jan session · set Q1 · MCQ
+
+Let $\vec a=3\hat i-\hat j+2\hat k$, $\vec b=\vec a\times(\hat i-2\hat k)$ and $\vec c=\vec b\times\hat k$. Then the projection of $\vec c-2\hat j$ on $\vec a$ is:
+
+(1) $2\sqrt{14}$  (2) $\sqrt{14}$  (3) $3\sqrt7$  (4) $2\sqrt7$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec b=\vec a\times(\hat i-2\hat k)=(2,8,1)$ and $\vec c=\vec b\times\hat k=(8,-2,0)$, so $\vec c-2\hat j=(8,-4,0)$. Projection on $\vec a$: $\dfrac{(8,-4,0)\cdot(3,-1,2)}{\sqrt{14}}=\dfrac{28}{\sqrt{14}}=2\sqrt{14}$.
+
+### § — JEE Main 2025 · Jan session · set Q2 · MCQ
+
+If the components of $\vec a=\alpha\hat i+\beta\hat j+\gamma\hat k$ along and perpendicular to $\vec b=3\hat i+\hat j-\hat k$ respectively are $\dfrac{16}{11}(3\hat i+\hat j-\hat k)$ and $\dfrac1{11}(-4\hat i-5\hat j-17\hat k)$, then $\alpha^2+\beta^2+\gamma^2$ is equal to:
+
+(1) 26  (2) 18  (3) 23  (4) 16
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec a$ is the sum of its components: $\dfrac1{11}(48-4,\ 16-5,\ -16-17)=(4,1,-3)$. $\alpha^2+\beta^2+\gamma^2=16+1+9=26$.
+
+### § — JEE Main 2025 · Jan session · set Q3 · MCQ
+
+Let $\vec a$ and $\vec b$ be two unit vectors such that the angle between them is $\tfrac\pi3$. If $\lambda\vec a+2\vec b$ and $3\vec a-\lambda\vec b$ are perpendicular to each other, then the number of values of $\lambda$ in $[-1,3]$ is:
+
+(1) 2  (2) 1  (3) 0  (4) 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** With $\vec a\cdot\vec b=\tfrac12$: $(\lambda\vec a+2\vec b)\cdot(3\vec a-\lambda\vec b)=3\lambda-\tfrac{\lambda^2}2+3-2\lambda=0\Rightarrow\lambda^2-2\lambda-6=0$, so $\lambda=1\pm\sqrt7\approx3.65,\,-1.65$. Neither lies in $[-1,3]$: 0 values.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+Let the arc $AC$ of a circle subtend a right angle at the centre $O$. If the point $B$ on the arc $AC$ divides the arc such that $\dfrac{\text{length of arc }AB}{\text{length of arc }BC}=\dfrac15$, and $\vec{OC}=\alpha\vec{OA}+\beta\vec{OB}$, then $\alpha+\sqrt2(\sqrt3-1)\beta$ is equal to:
+
+(1) $2\sqrt3$  (2) $2-\sqrt3$  (3) $5\sqrt3$  (4) $2+\sqrt3$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\angle AOB=15^\circ$ and $\angle BOC=75^\circ$. With unit radius, $\vec{OA}=(1,0)$, $\vec{OB}=(\cos15^\circ,\sin15^\circ)$, $\vec{OC}=(0,1)$: $\beta=\dfrac1{\sin15^\circ}=\sqrt6+\sqrt2$ and $\alpha=-\beta\cos15^\circ=-\cot15^\circ=-(2+\sqrt3)$. Then $\sqrt2(\sqrt3-1)(\sqrt6+\sqrt2)=\sqrt2(\sqrt3-1)\cdot\sqrt2(\sqrt3+1)=4$, so the value is $-2-\sqrt3+4=2-\sqrt3$.
+
+### § — JEE Main 2025 · Jan session · set Q5 · MCQ
+
+Let $\vec a=\hat i+2\hat j+3\hat k$, $\vec b=3\hat i+\hat j-\hat k$ and $\vec c$ be three vectors such that $\vec c$ is coplanar with $\vec a$ and $\vec b$. If the vector $\vec c$ is perpendicular to $\vec b$ and $\vec a\cdot\vec c=5$, then $|\vec c|$ is equal to:
+
+(1) $\sqrt{\tfrac{11}6}$  (2) $\tfrac1{3\sqrt2}$  (3) 16  (4) 18
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A vector in the plane perpendicular to $\vec b$ is $\vec c=s\left(\vec a-\dfrac{\vec a\cdot\vec b}{|\vec b|^2}\vec b\right)=s\left(\vec a-\tfrac2{11}\vec b\right)=\dfrac s{11}(5,20,35)$. $\vec a\cdot\vec c=\dfrac{150s}{11}=5\Rightarrow s=\dfrac{11}{30}$, so $\vec c=\left(\tfrac16,\tfrac23,\tfrac76\right)$ and $|\vec c|^2=\dfrac{1+16+49}{36}=\dfrac{11}6$.
+
+### § — JEE Main 2025 · Apr session · set Q1 · MCQ
+
+Let $ABCD$ be a tetrahedron such that the edges $AB$, $AC$ and $AD$ are mutually perpendicular. Let the areas of the triangles $ABC$, $ACD$ and $ADB$ be 5, 6 and 7 square units respectively. Then the area (in square units) of $\triangle BCD$ is equal to:
+
+(1) $\sqrt{340}$  (2) 12  (3) $\sqrt{110}$  (4) $7\sqrt3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Put $AB=x$, $AC=y$, $AD=z$ along the axes. The face areas are $\tfrac12xy$, $\tfrac12yz$, $\tfrac12zx$, and the area of the opposite face is the vector magnitude $\tfrac12|\vec{BC}\times\vec{BD}|=\tfrac12\sqrt{x^2y^2+y^2z^2+z^2x^2}=\sqrt{5^2+6^2+7^2}=\sqrt{110}$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · MCQ
+
+Let the angle $\theta$, $0<\theta<\tfrac\pi2$, between two unit vectors $\hat a$ and $\hat b$ be $\sin^{-1}\!\left(\dfrac{\sqrt{65}}9\right)$. If the vector $\vec c=3\hat a+6\hat b+9(\hat a\times\hat b)$, then the value of $9(\vec c\cdot\hat a)-3(\vec c\cdot\hat b)$ is:
+
+(1) 31  (2) 27  (3) 29  (4) 24
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\cos\theta=\sqrt{1-\tfrac{65}{81}}=\tfrac49$. $\vec c\cdot\hat a=3+6\cos\theta$ and $\vec c\cdot\hat b=3\cos\theta+6$ (the cross product is perpendicular to both). $9(3+6\cos\theta)-3(3\cos\theta+6)=9+45\cos\theta=9+20=29$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · Numerical
+
+Let the three sides of a triangle $ABC$ be given by the vectors $2\hat i-\hat j+\hat k$, $\hat i-3\hat j-5\hat k$ and $3\hat i-4\hat j-4\hat k$. Let $G$ be the centroid of the triangle $ABC$. Then $6\left(|\vec{AG}|^2+|\vec{BG}|^2+|\vec{CG}|^2\right)$ is equal to ______.
+
+**Answer: 164** · key (compiled)
+
+**Solution.** For any triangle $AG^2+BG^2+CG^2=\tfrac13(a^2+b^2+c^2)$. The squared side lengths are $6$, $35$ and $41$ (total 82), so $6\cdot\tfrac{82}3=164$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+Let $\vec a$ and $\vec b$ be vectors of the same magnitude such that $\dfrac{|\vec a+\vec b|+|\vec a-\vec b|}{|\vec a+\vec b|-|\vec a-\vec b|}=\sqrt2+1$. Then $\dfrac{|\vec a+\vec b|^2}{|\vec a|^2}$ is:
+
+(1) $2+4\sqrt2$  (2) $1+\sqrt2$  (3) $2+\sqrt2$  (4) $4+2\sqrt2$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** With $|\vec a|=|\vec b|=1$ and angle $\theta$: $|\vec a+\vec b|=2\cos\tfrac\theta2$ and $|\vec a-\vec b|=2\sin\tfrac\theta2$. $\dfrac{1+t}{1-t}=\sqrt2+1$ with $t=\tan\tfrac\theta2$ gives $t=\sqrt2-1=\tan22.5^\circ$, so $\theta=45^\circ$ and $\dfrac{|\vec a+\vec b|^2}{|\vec a|^2}=2+2\cos45^\circ=2+\sqrt2$.
+
+### § — JEE Main 2025 · Apr session · set Q5 · MCQ
+
+If $\vec a$ is a non-zero vector such that its projections on the vectors $2\hat i-\hat j+2\hat k$, $\hat i+2\hat j-2\hat k$ and $\hat k$ are equal, then a unit vector along $\vec a$ is:
+
+(1) $\dfrac1{\sqrt{155}}(-7\hat i+9\hat j+5\hat k)$  (2) $\dfrac1{\sqrt{155}}(-7\hat i+9\hat j-5\hat k)$  (3) $\dfrac1{\sqrt{155}}(7\hat i+9\hat j+5\hat k)$  (4) $\dfrac1{\sqrt{155}}(7\hat i+9\hat j-5\hat k)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The first two vectors have length 3 and $\hat k$ is a unit vector, so with $\vec a=(x,y,z)$: $\dfrac{2x-y+2z}3=\dfrac{x+2y-2z}3=z$. The first equality gives $x-3y+4z=0$; the second gives $2x-y-z=0$, i.e. $z=2x-y$. Substituting: $9x=7y$, so $(x,y,z)\propto(7,9,5)$ and $|\vec a|=\sqrt{155}$.
+
+### § — JEE Main 2025 · Apr session · set Q8 · Numerical
+
+Let $\vec a=\hat i+2\hat j+\hat k$, $\vec b=3\hat i-3\hat j+3\hat k$, $\vec c=2\hat i-\hat j+2\hat k$ and $\vec d$ be a vector such that $\vec b\times\vec d=\vec c\times\vec d$ and $\vec a\cdot\vec d=4$. Then $|\vec a\times\vec d|^2$ is equal to ______.
+
+**Answer: 128** · key (compiled)
+
+**Solution.** $(\vec b-\vec c)\times\vec d=\vec0$, so $\vec d\parallel\vec b-\vec c=(1,-2,1)$: $\vec d=t(1,-2,1)$. $\vec a\cdot\vec d=t(1-4+1)=-2t=4\Rightarrow t=-2$, $\vec d=(-2,4,-2)$, $|\vec d|^2=24$. $|\vec a\times\vec d|^2=|\vec a|^2|\vec d|^2-(\vec a\cdot\vec d)^2=6\cdot24-16=128$.
+
+### § — JEE Main 2025 · Apr session · set Q9 · MCQ
+
+Consider two vectors $\vec u=3\hat i-\hat j$ and $\vec v=2\hat i+\hat j-\lambda\hat k$, $\lambda>0$. The angle between them is given by $\cos^{-1}\!\left(\dfrac{\sqrt5}{2\sqrt7}\right)$. Let $\vec v=\vec v_1+\vec v_2$, where $\vec v_1$ is parallel to $\vec u$ and $\vec v_2$ is perpendicular to $\vec u$. Then the value $|\vec v_1|^2+|\vec v_2|^2$ is equal to:
+
+(1) $\tfrac{23}2$  (2) 14  (3) $\tfrac{25}2$  (4) 10
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\vec u\cdot\vec v=5$, $|\vec u|=\sqrt{10}$ and $|\vec v|=\sqrt{5+\lambda^2}$: $\dfrac5{\sqrt{10}\sqrt{5+\lambda^2}}=\dfrac{\sqrt5}{2\sqrt7}\Rightarrow5+\lambda^2=14$, $\lambda=3$. Since $\vec v_1\perp\vec v_2$, $|\vec v_1|^2+|\vec v_2|^2=|\vec v|^2=14$.
+
+### § — JEE Main 2025 · Apr session · set Q10 · MCQ
+
+Let $\vec a=\hat i+2\hat j+\hat k$ and $\vec b=2\hat i+\hat j-\hat k$. Let $\hat c$ be a unit vector in the plane of the vectors $\vec a$ and $\vec b$ and perpendicular to $\vec a$. Then such a vector $\hat c$ is:
+
+(1) $\tfrac1{\sqrt5}(\hat j-2\hat k)$  (2) $\tfrac1{\sqrt3}(-\hat i+\hat j-\hat k)$  (3) $\tfrac1{\sqrt3}(\hat i-\hat j+\hat k)$  (4) $\tfrac1{\sqrt2}(-\hat i+\hat k)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A vector in the plane perpendicular to $\vec a$ is $\vec b-\dfrac{\vec a\cdot\vec b}{|\vec a|^2}\vec a=(2,1,-1)-\tfrac12(1,2,1)=\left(\tfrac32,0,-\tfrac32\right)\parallel(1,0,-1)$. The unit vectors along this direction are $\pm\tfrac1{\sqrt2}(\hat i-\hat k)$; option (4) is the negative of one of them.
+
