@@ -141,3 +141,109 @@ A unit-volume cube contains $35\times10^7$ photons of frequency $10^{15}$ Hz. Tr
 
 **Solution.** Energy density $u=N h\nu=35\times10^7\times6\times10^{-34}\times10^{15}=2.1\times10^{-10}\ \text{J m}^{-3}$. In an EM wave the average energy density is $u=\dfrac{B_0^2}{2\mu_0}$ (electric and magnetic parts each contribute $\dfrac{B_0^2}{4\mu_0}$). $B_0=\sqrt{2\mu_0u}=\sqrt{2\times\dfrac{88}7\times10^{-7}\times2.1\times10^{-10}}\approx2.3\times10^{-8}$ T $=23\times10^{-9}$ T.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+An electromagnetic wave of frequency $100$ MHz propagates through a medium of conductivity $\sigma=10$ mho/m. The ratio of the maximum conduction current density to the maximum displacement current density is ______. [Take $\dfrac{1}{4\pi\epsilon_0}=9\times10^9\ \text{N m}^2/\text{C}^2$]
+
+**Answer: 1800** · key (compiled)
+
+**Solution.** $J_{c,max}=\sigma E_0$ and $J_{d,max}=\epsilon_0\omega E_0$, so the ratio is $\dfrac{\sigma}{\epsilon_0\omega}$. With $\epsilon_0\omega=\dfrac{2\pi\times10^8}{4\pi\times9\times10^9}=\dfrac1{180}$, the ratio is $10\times180=1800$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+Match List-I with List-II.
+| List-I (Relation) | List-II (Law) |
+|---|---|
+| A. $\oint\vec E\cdot d\vec l=-\dfrac{d}{dt}\oint\vec B\cdot d\vec a$ | I. Ampere's circuital law |
+| B. $\oint\vec B\cdot d\vec l=\mu_0\left(I+\epsilon_0\dfrac{d\phi_E}{dt}\right)$ | II. Faraday's law of electromagnetic induction |
+| C. $\oint\vec E\cdot d\vec a=\dfrac1{\epsilon_0}\int_V\rho\,dv$ | III. Ampere–Maxwell law |
+| D. $\oint\vec B\cdot d\vec l=\mu_0I$ | IV. Gauss's law of electrostatics |
+
+(1) A-II, B-III, C-I, D-IV  (2) A-II, B-III, C-IV, D-I  (3) A-I, B-IV, C-III, D-II  (4) A-IV, B-I, C-II, D-III
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A is Faraday's law (II); B has the displacement-current term, so it is the Ampere–Maxwell law (III); C is Gauss's law (IV); D is Ampere's circuital law (I).
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · Numerical
+
+The electric field of an electromagnetic wave propagating through free space is given by $E=\sqrt{377}\sin\left(6.27\times10^3t-2.09\times10^{-5}x\right)$ N/C. The average power (intensity) of the electromagnetic wave is $\left(\dfrac1\alpha\right)$ W/m$^2$. The value of $\alpha$ is ______. (Take $\sqrt{\mu_0/\epsilon_0}=377$ in SI units)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** $E_0=\sqrt{377}$ N/C. $I_{avg}=\dfrac{E_0^2}{2Z_0}=\dfrac{377}{2\times377}=\dfrac12$ W/m$^2$, so $\alpha=2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
+
+A plane electromagnetic wave is moving in free space with velocity $c=3\times10^8$ m/s and its electric field is given by $\vec E=54\sin(kz-\omega t)\,\hat j$ V/m, where $\hat j$ is the unit vector along the $y$-axis. The magnetic field vector $\vec B$ of the wave is:
+
+(1) $+1.8\times10^{-7}\sin(kz-\omega t)\,\hat i$ T  (2) $1.4\times10^{-7}\sin(kz-\omega t)\,\hat k$ T  (3) $-1.8\times10^{-7}\sin(kz-\omega t)\,\hat i$ T  (4) $1.4\times10^{-7}\sin(kz-\omega t)\,\hat i$ T
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $B_0=\dfrac{E_0}{c}=\dfrac{54}{3\times10^8}=1.8\times10^{-7}$ T. The wave travels along $+z$ and $\vec E\times\vec B$ must point along $+z$: $\hat j\times\vec B=\hat k$ requires $\vec B$ along $-\hat i$ (since $\hat j\times\hat i=-\hat k$). So $\vec B=-1.8\times10^{-7}\sin(kz-\omega t)\,\hat i$ T.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+A laser beam has an intensity of $4.0\times10^{14}\ \text{W/m}^2$. The amplitude of the magnetic field associated with the beam is ______ T. (Take $\epsilon_0=8.85\times10^{-12}\ \text{C}^2/\text{N m}^2$ and $c=3\times10^8$ m/s)
+
+(1) 18.3  (2) 1.83  (3) 5.5  (4) 2.0
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $I=\tfrac12\epsilon_0cE_0^2$ with $E_0=cB_0$ gives $I=\tfrac12\epsilon_0c^3B_0^2$. $B_0=\sqrt{\dfrac{2I}{\epsilon_0c^3}}=\sqrt{\dfrac{8.0\times10^{14}}{8.85\times10^{-12}\times2.7\times10^{25}}}=\sqrt{3.35}=1.83$ T.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · Numerical
+
+The electric field of a plane electromagnetic wave travelling in an unknown non-magnetic medium is given by $E_y=20\sin\left(3\times10^6x-4.5\times10^{14}t\right)$ V/m (where $x$, $t$ and other values have SI units). The dielectric constant of the medium is ______. (speed of light in free space is $3\times10^8$ m/s)
+
+**Answer: 4** · key (compiled)
+
+**Solution.** $v=\dfrac{\omega}{k}=\dfrac{4.5\times10^{14}}{3\times10^6}=1.5\times10^8$ m/s, so $n=\dfrac cv=2$. For a non-magnetic medium the dielectric constant is $n^2=4$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+
+The ratio of the speeds of electromagnetic waves in vacuum and in a medium having dielectric constant $k=3$ and permeability $\mu=2\mu_0$ is: ($\mu_0$ = permeability of vacuum)
+
+(1) 36 : 1  (2) 3 : 2  (3) 6 : 1  (4) $\sqrt6$ : 1
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $c=\dfrac{1}{\sqrt{\mu_0\epsilon_0}}$ and $v=\dfrac{1}{\sqrt{\mu\epsilon}}=\dfrac{1}{\sqrt{2\mu_0\cdot3\epsilon_0}}=\dfrac{c}{\sqrt6}$. So $c:v=\sqrt6:1$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+
+The electric field in a plane electromagnetic wave is given by $E_y=69\sin\left[0.6\times10^3x-1.8\times10^{11}t\right]$ V/m. The expression for the magnetic field associated with this electromagnetic wave is ______ T.
+
+(1) $B_z=2.3\times10^{-7}\sin\left[0.6\times10^3x-1.8\times10^{11}t\right]$  (2) $B_z=2.3\times10^{-7}\sin\left[0.6\times10^3x+1.8\times10^{11}t\right]$  (3) $B_y=69\sin\left[0.6\times10^3x+1.8\times10^{11}t\right]$  (4) $B_y=2.3\times10^{-7}\sin\left[0.6\times10^3x-1.8\times10^{11}t\right]$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The wave travels along $+x$ (form $kx-\omega t$) with $\vec E$ along $y$, so $\vec B$ is along $z$ ($\hat j\times\hat k=\hat i$), in phase with $E$. $B_0=\dfrac{E_0}{c}=\dfrac{69}{3\times10^8}=2.3\times10^{-7}$ T, so $B_z=2.3\times10^{-7}\sin\left[0.6\times10^3x-1.8\times10^{11}t\right]$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+The electric field of an electromagnetic wave travelling through a medium is given by $\vec E(x,t)=25\sin\left(2.0\times10^{15}t-10^7x\right)\hat n$. The refractive index of the medium is ______. (All given measurements are in SI units)
+
+(1) 1.5  (2) 1.2  (3) 1.7  (4) 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $v=\dfrac{\omega}{k}=\dfrac{2.0\times10^{15}}{10^7}=2\times10^8$ m/s, so $n=\dfrac{c}{v}=\dfrac{3\times10^8}{2\times10^8}=1.5$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+Match List-I with List-II.
+| List-I | List-II |
+|---|---|
+| A. Radio-wave | I. is produced by Magnetron valve |
+| B. Micro-wave | II. due to change in the vibrational modes of atoms |
+| C. Infrared-wave | III. due to inner shell electrons moving from higher to lower energy level |
+| D. X-ray | IV. due to rapid acceleration of electrons |
+
+(1) A-IV, B-II, C-I, D-III  (2) A-IV, B-I, C-II, D-III  (3) A-IV, B-III, C-I, D-II  (4) A-II, B-IV, C-III, D-I
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Radio waves come from rapidly accelerated electrons (IV); microwaves are produced by a magnetron valve (I); infrared arises from changes in the vibrational modes of atoms/molecules (II); X-rays arise from inner-shell electron transitions (III).
+

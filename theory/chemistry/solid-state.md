@@ -1,6 +1,6 @@
 # Solid State — theory
 
-> No verified questions from the sourced papers in this chapter yet (see ../../README.md, *Coverage gaps*).
+> Questions: [../../questions/chemistry/solid-state.md](../../questions/chemistry/solid-state.md)
 
 ## Key ideas
 - Unit cells: SC 1 atom/cell (packing 52%), BCC 2 (68%), FCC 4 (74%); coordination numbers 6, 8, 12. Edge relations: SC $a=2r$, BCC $\sqrt3a=4r$, FCC $\sqrt2a=4r$.

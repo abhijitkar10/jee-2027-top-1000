@@ -193,3 +193,57 @@ An astronaut throws a ball of mass $m$ into a circular orbit about the earth at 
 
 **Solution.** Orbit radius $r=6370+318.5=6688.5=1.05R_e$. Initial energy (at rest on the surface) $=-\dfrac{GMm}{R_e}$. Orbital energy $=-\dfrac{GMm}{2r}=-\dfrac{GMm}{2.1R_e}$. $\Delta E=\dfrac{GMm}{R_e}\left(1-\dfrac1{2.1}\right)=\dfrac{GMm}{R_e}\cdot\dfrac{11}{21}$. So $x=11$.
 
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q1 · MCQ
+
+Given below are two statements:
+**Statement I:** A satellite is moving around the earth in an orbit very close to the earth's surface. The time period of revolution of the satellite depends upon the density of the earth.
+**Statement II:** The time period of revolution of the satellite is $T=2\pi\sqrt{\dfrac{R_e}{g}}$ (for a satellite very close to the earth's surface), where $R_e$ = radius of the earth and $g$ = acceleration due to gravity.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are false
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** With $g=\dfrac{GM}{R_e^2}=\dfrac{4\pi G\rho R_e}{3}$, the period $T=2\pi\sqrt{\dfrac{R_e}{g}}=\sqrt{\dfrac{3\pi}{G\rho}}$, which depends only on the density $\rho$. Both statements are true.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q2 · MCQ
+
+The escape velocity from a spherical planet $A$ is $10$ km/s. The escape velocity from another planet $B$ whose density and radius are $10\%$ of those of planet $A$ is ______ m/s.
+
+(1) 1000  (2) $1000\sqrt2$  (3) $200\sqrt5$  (4) $100\sqrt{10}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $v_e=\sqrt{\dfrac{2GM}{R}}=R\sqrt{\dfrac{8\pi G\rho}{3}}\propto R\sqrt\rho$. So $\dfrac{v_B}{v_A}=0.1\sqrt{0.1}=\dfrac{1}{10\sqrt{10}}$ and $v_B=10^4\times\dfrac{1}{10\sqrt{10}}=\dfrac{1000}{\sqrt{10}}=100\sqrt{10}$ m/s.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q3 · MCQ
+
+The net gravitational force at the centre of a square is found to be $F_1$ when four particles of masses $M,2M,3M$ and $4M$ are placed at the four corners of the square as shown in the figure, and it is $F_2$ when the positions of $3M$ and $4M$ are interchanged. The ratio $\dfrac{F_1}{F_2}$ is $\dfrac{\alpha}{\sqrt5}$. The value of $\alpha$ is ______.
+
+![Figure](../../figures/j26_phy_gravitation/q3-1.png)
+
+(1) $2\sqrt5$  (2) 3  (3) 1  (4) 2
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Let $k=\dfrac{G}{r^2}\cdot\dfrac1{\sqrt2}$ ($r$ = distance from the centre to a corner); resolve each pull along $x,y$. Original: $g_x=k(-4M+3M-M+2M)=0$, $g_y=k(4M+3M-M-2M)=4kM$, so $F_1=4kM$. After swapping $3M\leftrightarrow4M$: $g_x=k(-3M+4M-M+2M)=2kM$, $g_y=k(3M+4M-M-2M)=4kM$, so $F_2=kM\sqrt{4+16}=2\sqrt5\,kM$. Then $\dfrac{F_1}{F_2}=\dfrac{2}{\sqrt5}$ and $\alpha=2$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q4 · MCQ
+
+Initially a satellite of $100$ kg is in a circular orbit of radius $1.5R_E$. This satellite can be moved to a circular orbit of radius $3R_E$ by supplying $\alpha\times10^6$ J of energy. The value of $\alpha$ is ______. (Take the radius of the earth $R_E=6\times10^6$ m and $g=10\ \text{m/s}^2$)
+
+(1) 150  (2) 1000  (3) 500  (4) 100
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Total energy in a circular orbit $E=-\dfrac{GMm}{2r}=-\dfrac{gR_E^2m}{2r}$. $E_1=-\dfrac{gR_Em}{3}$ and $E_2=-\dfrac{gR_Em}{6}$. Energy supplied $=E_2-E_1=\dfrac{gR_Em}{6}=\dfrac{10\times6\times10^6\times100}{6}=10^9\ \text{J}=1000\times10^6$ J, so $\alpha=1000$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q5 · MCQ
+
+Three masses $200$ kg, $300$ kg and $400$ kg are placed at the vertices of an equilateral triangle of side $20$ m. They are rearranged on the vertices of a bigger triangle of side $25$ m with the same centre. The work done in this process is ______ J. (Gravitational constant $G=6.7\times10^{-11}\ \text{N m}^2/\text{kg}^2$)
+
+(1) $2.85\times10^{-7}$  (2) $4.77\times10^{-7}$  (3) $1.74\times10^{-7}$  (4) $9.86\times10^{-6}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $U=-G\dfrac{m_1m_2+m_2m_3+m_1m_3}{r}$ with $\sum m_im_j=200\cdot300+300\cdot400+200\cdot400=260000$. $W=U_f-U_i=260000\,G\left(\dfrac1{20}-\dfrac1{25}\right)=260000\times6.7\times10^{-11}\times0.01=1.74\times10^{-7}$ J.
+

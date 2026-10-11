@@ -209,3 +209,94 @@ An object takes $n$ times the time to slide down a rough $45^\circ$ inclined pla
 
 **Solution.** For a distance $s$ from rest, $t=\sqrt{2s/a}$, so $t\propto a^{-1/2}$. Smooth: $a_1=g\sin45^\circ$; rough: $a_2=g(\sin45^\circ-\mu\cos45^\circ)=g\sin45^\circ(1-\mu)$. $\dfrac{t_2}{t_1}=\sqrt{\dfrac{a_1}{a_2}}=\dfrac1{\sqrt{1-\mu}}=n\Rightarrow\mu=1-\dfrac1{n^2}$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+A large drum of radius $R$ is spinning about its axis with angular velocity $\omega$, as shown in the figure. The minimum value of $\omega$ so that a body of mass $M$ remains stuck to the inner wall of the drum, taking the coefficient of friction between the drum surface and the mass $M$ as $\mu$, is:
+
+![Figure](../../figures/j26_phy_laws-of-motion/q1-1.png)
+
+(1) $\sqrt{\dfrac{\mu g}{R}}$  (2) $\sqrt{\dfrac{g}{2\mu R}}$  (3) $\sqrt{\dfrac{2g}{\mu R}}$  (4) $\sqrt{\dfrac{g}{\mu R}}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** In the drum's frame the wall's normal reaction supplies the centripetal force, $N=M\omega^2R$. Friction must balance the weight: $\mu N\ge Mg\Rightarrow\mu M\omega^2R\ge Mg$, so $\omega_{min}=\sqrt{\dfrac{g}{\mu R}}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+
+A small block of mass $m$ slides down from the top of a frictionless inclined surface, while the inclined plane is moving towards the left with constant acceleration $a_0$. The angle between the inclined plane and the ground is $\theta$ and its base length is $L$. Assuming that initially the small block is at the top of the inclined plane, the time it takes to reach the lowest point of the inclined plane is ______.
+
+![Figure](../../figures/j26_phy_laws-of-motion/q2-1.png)
+
+(1) $\sqrt{\dfrac{2L}{g\sin\theta-a_0\cos\theta}}$  (2) $\sqrt{\dfrac{4L}{g\cos^2\theta-a_0\sin\theta\cos\theta}}$  (3) $\sqrt{\dfrac{2L}{g\sin2\theta-a_0(1+\cos2\theta)}}$  (4) $\sqrt{\dfrac{4L}{g\sin2\theta-a_0(1+\cos2\theta)}}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** In the frame of the incline the pseudo force $ma_0$ acts to the right, and its component up the slope is $ma_0\cos\theta$. Along the slope: $a=g\sin\theta-a_0\cos\theta$. The distance along the slope is $\dfrac{L}{\cos\theta}=\tfrac12at^2$, so $t=\sqrt{\dfrac{2L}{\cos\theta\,(g\sin\theta-a_0\cos\theta)}}=\sqrt{\dfrac{4L}{g\sin2\theta-a_0(1+\cos2\theta)}}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+
+A flexible chain of mass $m$ hangs between two fixed points at the same level. The inclination of the chain with the horizontal at the two points of support is $30^\circ$. Considering the equilibrium of each half of the chain, the tension of the chain at the lowest point is ______.
+
+(1) $\dfrac{\sqrt3}{2}mg$  (2) $mg$  (3) $\dfrac12mg$  (4) $\sqrt3\,mg$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** For one half (weight $\tfrac{mg}{2}$): vertical balance $T_1\sin30^\circ=\tfrac{mg}2\Rightarrow T_1=mg$. Horizontal balance gives the tension at the lowest point $T_0=T_1\cos30^\circ=\dfrac{\sqrt3}{2}mg$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q4 · MCQ
+
+A block is sliding down an inclined plane of slope $\theta$ and at an instant $t=0$ the block is given an upward momentum so that it starts moving up the inclined surface with velocity $u$. The distance $S$ travelled by the block before its velocity becomes zero is ______ ($g$ = gravitational acceleration). *(The paper does not mention friction; the key corresponds to a smooth incline.)*
+
+(1) $\dfrac{2u^2}{\cos\theta}$  (2) $\dfrac{u^2}{2g\sin\theta}$  (3) $\dfrac{u^2}{2g\cos\theta}$  (4) $\dfrac{u^2}{\sqrt2\,g\cos\theta}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** On a smooth incline the retardation is $g\sin\theta$. From $0=u^2-2g\sin\theta\,S$: $S=\dfrac{u^2}{2g\sin\theta}$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
+
+A $4$ kg mass moves under the influence of a force $\vec F=(4t^3\hat i-3t\hat j)$ N, where $t$ is the time in seconds. If the mass starts from the origin at $t=0$, the velocity and position after $t=2$ s will be:
+
+(1) $\vec v=4\hat i-\tfrac32\hat j$, $\vec r=6\hat i-\hat j$  (2) $\vec v=3\hat i+\tfrac32\hat j$, $\vec r=6\hat i+\hat j$  (3) $\vec v=4\hat i-\tfrac32\hat j$, $\vec r=\tfrac85\hat i-\hat j$  (4) $\vec v=4\hat i+\tfrac52\hat j$, $\vec r=\tfrac85\hat i+2\hat j$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\vec a=\dfrac{\vec F}{m}=t^3\hat i-\tfrac34t\hat j$. Integrating from rest: $\vec v=\dfrac{t^4}{4}\hat i-\dfrac{3t^2}{8}\hat j$, so at $t=2$: $\vec v=4\hat i-\tfrac32\hat j$. Integrating again: $\vec r=\dfrac{t^5}{20}\hat i-\dfrac{t^3}{8}\hat j$, so at $t=2$: $\vec r=\dfrac85\hat i-\hat j$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q6 · MCQ
+
+A particle of mass $m$ falls from rest through a resistive medium having a resistive force $F=-kv$, where $v$ is the velocity of the particle and $k$ is a constant. Which of the following graphs represents the velocity ($v$) versus time ($t$)?
+
+
+**(1)** ![Option 1](../../figures/j26_phy_laws-of-motion/q6-1.png)
+
+**(2)** ![Option 2](../../figures/j26_phy_laws-of-motion/q6-2.png)
+
+**(3)** ![Option 3](../../figures/j26_phy_laws-of-motion/q6-3.png)
+
+**(4)** ![Option 4](../../figures/j26_phy_laws-of-motion/q6-4.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $m\dfrac{dv}{dt}=mg-kv$. At $t=0$ the acceleration is $g$ (maximum); as $v$ grows the resistive force grows and the slope decreases until the terminal velocity $v_t=\dfrac{mg}{k}$ is reached asymptotically. So $v(t)=v_t\left(1-e^{-kt/m}\right)$: a curve from the origin with decreasing slope that flattens, option (1).
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · MCQ
+
+A block of mass $5$ kg is moving on an inclined plane that makes an angle of $30^\circ$ with the horizontal. The coefficient of friction between the block and the inclined plane is $\dfrac{\sqrt3}{2}$. The force to be applied on the block so that the block moves down without acceleration is ______ N. ($g=10\ \text{m/s}^2$)
+
+(1) 25  (2) 7.5  (3) 12.5  (4) 15
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Component of weight down the slope $=5\times10\times\tfrac12=25$ N. Normal force $=50\cos30^\circ=25\sqrt3$ N, so friction $=\mu N=\dfrac{\sqrt3}{2}\times25\sqrt3=37.5$ N (up the slope). For zero acceleration with an extra force $F$ down the slope: $25+F=37.5\Rightarrow F=12.5$ N.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
+
+A spring of force constant $15$ N/m is cut into two pieces. If the ratio of their lengths is $1:3$, the force constant of the smaller piece is ______ N/m.
+
+(1) 60  (2) 15  (3) 20  (4) 45
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** For a given spring $kL=\text{constant}$. The smaller piece is $\tfrac14$ of the total length, so $k_1=4\times15=60$ N/m.
+

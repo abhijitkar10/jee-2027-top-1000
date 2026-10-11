@@ -170,3 +170,106 @@ In a single-slit experiment the slit width is found from $\dfrac{bd}D=m\lambda$ 
 
 **Solution.** $b=\dfrac{m\lambda D}{d}=\dfrac{3\times600\times10^{-9}\times1}{5\times10^{-3}}=360\ \mu\text{m}$. $\dfrac{\Delta b}b=\dfrac{\Delta D}D+\dfrac{\Delta d}d=\dfrac{1\ \text{cm}}{100\ \text{cm}}+\dfrac{1\ \text{mm}}{5\ \text{mm}}=0.01+0.2=0.21$. $\Delta b=0.21\times360=75.6\ \mu\text{m}$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Given below are two statements:
+**Statement I:** In Young's double slit experiment, the angular separation of fringes will increase as the screen is moved away from the plane of the slits.
+**Statement II:** In Young's double slit experiment, the angular separation of fringes will increase when the monochromatic source is replaced by another monochromatic source of higher wavelength.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are true  (4) Statement I is true but Statement II is false
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The angular fringe width is $\dfrac{\beta}{D}=\dfrac{\lambda}{d}$, independent of the screen distance $D$ (so I is false) and proportional to $\lambda$ (so II is true).
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · Numerical
+
+In a Young's double slit experiment the two slits are $0.4$ mm apart and the screen is $1$ m from the slits. A thin transparent sheet of thickness $20\ \mu$m is introduced in front of one of the slits, and the central bright fringe shifts by $20$ mm on the screen. The refractive index of the sheet is $\dfrac{\alpha}{10}$, where $\alpha$ is ______.
+
+**Answer: 14** · key (compiled)
+
+**Solution.** Shift $\Delta y=(\mu-1)t\dfrac Dd\Rightarrow20\times10^{-3}=(\mu-1)\times20\times10^{-6}\times\dfrac{1}{0.4\times10^{-3}}=(\mu-1)\times0.05$, so $\mu-1=0.4$, $\mu=1.4=\dfrac{14}{10}$ and $\alpha=14$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · Numerical
+
+In two separate Young's double-slit set-ups, two monochromatic sources of different wavelengths give fringes of equal width. The ratio of the slit separations is $2:1$ and the ratio of the wavelengths is $1:2$. The ratio of the distances between the slits and the respective screens, $D_1/D_2$, is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** Fringe width $\beta=\dfrac{\lambda D}{d}$. Equal widths: $\dfrac{\lambda_1D_1}{d_1}=\dfrac{\lambda_2D_2}{d_2}\Rightarrow\dfrac{D_1}{D_2}=\dfrac{\lambda_2}{\lambda_1}\cdot\dfrac{d_1}{d_2}=2\times2=4$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · Numerical
+
+A beam of light consisting of wavelengths $650$ nm and $550$ nm illuminates Young's double slits of separation $2$ mm, with the fringes formed on a screen $1.2$ m from the slits. The least distance of a point from the central maximum where the bright fringes of both wavelengths coincide is ______ $\times10^{-5}$ m.
+
+**Answer: 429** · key (compiled)
+
+**Solution.** Coincidence needs $n_1\lambda_1=n_2\lambda_2\Rightarrow\dfrac{n_1}{n_2}=\dfrac{550}{650}=\dfrac{11}{13}$, so $n_1=11$. $y=n_1\dfrac{\lambda_1D}{d}=11\times\dfrac{650\times10^{-9}\times1.2}{2\times10^{-3}}=11\times3.9\times10^{-4}=4.29\times10^{-3}\ \text{m}=429\times10^{-5}$ m.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+
+In Young's double slit experiment the intensity produced by each individual slit is $I_0$. The distance between the two slits is $2$ mm, the screen is $10$ m from the slits and the wavelength of light is $6000\ \text{Å}$. The intensity of light on the screen in front of one of the slits is ______.
+
+(1) $\dfrac{I_0}{2}$  (2) $2I_0$  (3) $4I_0$  (4) $I_0$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The point in front of one slit is at $y=\dfrac d2=1$ mm from the axis, so the path difference is $\Delta=\dfrac{dy}{D}=\dfrac{2\times10^{-3}\times10^{-3}}{10}=2\times10^{-7}$ m, i.e. a phase difference $\phi=\dfrac{2\pi\Delta}{\lambda}=\dfrac{2\pi}{3}$. $I=4I_0\cos^2\dfrac\phi2=4I_0\cos^2\dfrac\pi3=I_0$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+
+Which of the following are true for single-slit diffraction?
+A. The width of the central maximum increases with increase in wavelength, keeping the slit width constant.
+B. The width of the central maximum increases with decrease in wavelength, keeping the slit width constant.
+C. The width of the central maximum increases with decrease in slit width at constant wavelength.
+D. The width of the central maximum increases with increase in slit width at constant wavelength.
+E. The brightness of the central maximum increases for decrease in wavelength at constant slit width.
+
+(1) A, C, E only  (2) A, D only  (3) B, D only  (4) B, C only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The central maximum has width $W=\dfrac{2\lambda D}{a}$: it grows with $\lambda$ (A true, B false) and with decreasing slit width $a$ (C true, D false). Less spreading at smaller $\lambda$ concentrates the intensity, so the central maximum is brighter (E true, as per the key).
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+
+When unpolarised light falls at a particular angle on a glass plate (placed in air), the reflected beam is found to be linearly polarised. The angle of the refracted beam with respect to the normal is ______. (Refractive indices of air and glass are $1.00$ and $1.52$; $\tan^{-1}(1.52)=57.7^\circ$.)
+
+(1) $39.6^\circ$  (2) $32.3^\circ$  (3) $36.3^\circ$  (4) $42.6^\circ$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Polarisation of the reflected beam means incidence at the Brewster angle, $\tan i_B=1.52\Rightarrow i_B=57.7^\circ$. Reflected and refracted rays are then perpendicular, so $r=90^\circ-57.7^\circ=32.3^\circ$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+
+In a double slit experiment the distance between the slits is $0.1$ cm and the screen is $50$ cm from the plane of the slits. When one slit is covered with a transparent sheet of thickness $t$ and refractive index $n\ (=1.5)$, the central fringe shifts by $0.2$ cm. The value of $t$ is ______ cm.
+
+(1) $5.0\times10^{-3}$  (2) $6.0\times10^{-3}$  (3) $8\times10^{-4}$  (4) $5.6\times10^{-4}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Shift $=\dfrac{(n-1)tD}{d}\Rightarrow0.2=\dfrac{0.5\,t\times50}{0.1}=250\,t\Rightarrow t=8\times10^{-4}$ cm.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+Given below are two statements:
+**Statement I:** A plane wave after passing through a prism remains a plane wave, but passing through a small pin hole it may become a spherical wave.
+**Statement II:** The curvature of a spherical wave emerging from a slit will increase for increasing slit width.
+
+(1) Both Statement I and Statement II are true  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Statement I is true but Statement II is false
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I is true: refraction at the prism faces keeps the wavefront plane, whereas a pin hole comparable to the wavelength acts as a point source of spherical wavelets (Huygens). II is false: a wider slit means less diffraction and a flatter wavefront, so the curvature decreases.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+An unpolarised light is incident at the interface of two dielectric media having refractive indices $2$ (incident medium) and $2\sqrt3$ respectively. To satisfy the condition that the reflected and refracted rays are perpendicular to each other, the angle of incidence is ______.
+
+(1) $45^\circ$  (2) $60^\circ$  (3) $10^\circ$  (4) $30^\circ$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Perpendicular reflected and refracted rays means incidence at the Brewster angle: $\tan i=\dfrac{n_2}{n_1}=\dfrac{2\sqrt3}{2}=\sqrt3\Rightarrow i=60^\circ$.
+

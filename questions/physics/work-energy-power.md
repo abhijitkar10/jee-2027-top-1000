@@ -142,3 +142,61 @@ A particle of mass $m$ moves on a straight line with its velocity increasing wit
 
 **Solution.** Work–energy theorem: $W=\tfrac12mv^2\big|_{x=d}-0=\tfrac12m\alpha^2d$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+A body of mass $2$ kg is moving along the $x$-direction such that its displacement as a function of time is $x(t)=\alpha t^2+\beta t+\gamma$ m, where $\alpha=1\ \text{m/s}^2$, $\beta=1$ m/s and $\gamma=1$ m. The work done on the body during the time interval $t=2$ s to $t=3$ s is ______ J.
+
+(1) 12  (2) 49  (3) 42  (4) 24
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $v=\dfrac{dx}{dt}=2t+1$: $v(2)=5$ m/s, $v(3)=7$ m/s. By the work–energy theorem $W=\tfrac12m(v_f^2-v_i^2)=\tfrac12\times2\times(49-25)=24$ J.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+A small bob $A$ of mass $m$ is attached to a massless rigid rod of length $1$ m pivoted at point $P$ and kept at an angle of $60^\circ$ with the vertical, as shown in the figure. At a distance of $1$ m below point $P$, an identical bob $B$ is kept at rest on a smooth horizontal surface that extends to a circular track of radius $R$. If bob $B$ just manages to complete the circular path of radius $R$ up to the point $Q$ after being hit elastically by bob $A$, then the radius $R$ is ______ m.
+
+![Figure](../../figures/j26_phy_work-power-energy/q2-1.png)
+
+(1) $\dfrac15$  (2) $\dfrac{2-\sqrt3}{5}$  (3) $\dfrac35$  (4) $\dfrac{2+\sqrt3}{5}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $A$ falls through $h=1-\cos60^\circ=0.5$ m, so $v_A=\sqrt{2gh}=\sqrt{10}$ m/s. In an elastic collision between equal masses the velocities are exchanged: $v_B=\sqrt{10}$ m/s. To just complete the circle $v_B^2=5gR\Rightarrow10=50R\Rightarrow R=\dfrac15$ m.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+
+In vertical circular motion of a particle on a thread of length $r$, if the tension in the thread is zero at an angle of $30^\circ$ (above the horizontal) as shown in the figure, the velocity at the bottom point $A$ of the circular path is ($g$ = gravitational acceleration):
+
+![Figure](../../figures/j26_phy_work-power-energy/q3-1.png)
+
+(1) $\sqrt{\dfrac72gr}$  (2) $\sqrt{5gr}$  (3) $\sqrt{4gr}$  (4) $\sqrt{\dfrac52gr}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The thread makes $60^\circ$ with the upward vertical at that point. With $T=0$: $mg\cos60^\circ=\dfrac{mV^2}{r}\Rightarrow V^2=\dfrac{gr}{2}$. Energy conservation from the bottom: $\tfrac12mu^2=mg(r+r\cos60^\circ)+\tfrac12mV^2\Rightarrow u^2=3gr+\dfrac{gr}{2}=\dfrac{7gr}{2}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q4 · MCQ
+
+Given below are two statements:
+**Statement I:** An object moves from position $\vec r_1$ to position $\vec r_2$ under a conservative force field $\vec F$. The work done by the force is $W=-\int_{\vec r_1}^{\vec r_2}\vec F\cdot d\vec r$.
+**Statement II:** Any object moving from one location to another can follow an infinite number of paths. Therefore, the amount of work done by the object changes with the path it follows for a conservative force.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is false but Statement II is true  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The work done by the force is $W=+\int\vec F\cdot d\vec r$; the expression with a minus sign is the change in potential energy, so Statement I is false. For a conservative force the work depends only on the end points, not on the path, so Statement II is false.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+
+The potential energy $V$ versus distance $x$ is given by the graph. Rank the various regions according to the magnitude of the force $F$ acting on a particle, from high to low.
+
+![Figure](../../figures/j26_phy_work-power-energy/q6-1.png)
+
+(1) $F_{CD}>F_{AB}>F_{BC}>F_{DE}$  (2) $F_{CD}>F_{DE}>F_{AB}>F_{BC}$  (3) $F_{BC}>F_{CD}>F_{DE}>F_{AB}$  (4) $F_{BC}>F_{AB}>F_{DE}>F_{CD}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $|F|=\left|\dfrac{dV}{dx}\right|$ = magnitude of the slope. From the graph A(1,0), B(1.5,1), C(2,4), D(4,4), E(6,3): $|F_{AB}|=2$, $|F_{BC}|=6$, $|F_{CD}|=0$, $|F_{DE}|=\tfrac12$. Ranking: $F_{BC}>F_{AB}>F_{DE}>F_{CD}$.
+

@@ -113,3 +113,93 @@ The dimensional formula of angular impulse is
 
 **Solution.** Angular impulse $=\text{torque}\times\text{time}=[ML^2T^{-2}][T]=[ML^2T^{-1}]$, the same as angular momentum.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Units set Q1 · MCQ
+
+Keeping the significant figures in view, the sum of the physical quantities $52.01$ m, $153.2$ m and $0.123$ m is:
+
+(1) 205.3 m  (2) 205.333 m  (3) 205.33 m  (4) 205 m
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In addition the result keeps the least number of decimal places among the terms ($153.2$ m has one). $52.01+153.2+0.123=205.333$, which rounds to $205.3$ m.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Units set Q3 · MCQ
+
+If $\epsilon$, $E$ and $t$ represent the free space permittivity, the electric field and time respectively, then the unit of $\dfrac{\epsilon E}{t}$ will be:
+
+(1) $\text{A m}^2$  (2) A m  (3) $\text{A/m}^2$  (4) A/m
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\epsilon E$ has the dimensions of electric displacement ($\text{C/m}^2$); dividing by time gives $\dfrac{\text{C}}{\text{m}^2\,\text{s}}=\text{A/m}^2$ (the displacement current density $J_d=\epsilon\,\dfrac{\partial E}{\partial t}$).
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Units set Q4 · MCQ
+
+Match List-I with List-II.
+| List-I | List-II |
+|---|---|
+| A. Spring constant | I. $\text{ML}^2\text{T}^{-2}\text{K}^{-1}$ |
+| B. Thermal conductivity | II. $\text{ML}^0\text{T}^{-2}$ |
+| C. Boltzmann constant | III. $\text{ML}^2\text{T}^{-3}\text{A}^{-2}$ |
+| D. Inductive reactance | IV. $\text{MLT}^{-3}\text{K}^{-1}$ |
+
+(1) A-II, B-IV, C-I, D-III  (2) A-I, B-IV, C-II, D-III  (3) A-II, B-I, C-IV, D-III  (4) A-III, B-II, C-IV, D-I
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $k=\dfrac Fx\Rightarrow\text{ML}^0\text{T}^{-2}$. $K=\dfrac{Q/t}{A\,(dT/dx)}\Rightarrow\text{MLT}^{-3}\text{K}^{-1}$. $k_B=\dfrac{E}{T}\Rightarrow\text{ML}^2\text{T}^{-2}\text{K}^{-1}$. Inductive reactance has the dimensions of resistance, $\text{ML}^2\text{T}^{-3}\text{A}^{-2}$. So A-II, B-IV, C-I, D-III.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Units set Q5 · Numerical
+
+A ball of radius $r$ and density $\rho$ is dropped through a viscous liquid of density $\sigma$ and viscosity $\eta$ and attains its terminal velocity at time $t$, given by $t=A\rho^ar^b\eta^c\sigma^d$, where $A$ is a constant and $a,b,c,d$ are integers. The value of $\dfrac{b+c}{a+d}$ is ______.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $[T]=[ML^{-3}]^a[L]^b[ML^{-1}T^{-1}]^c[ML^{-3}]^d$. Time: $1=-c\Rightarrow c=-1$. Mass: $a+c+d=0\Rightarrow a+d=1$. Length: $-3a+b-c-3d=0\Rightarrow b=3(a+d)+c=2$. So $\dfrac{b+c}{a+d}=\dfrac{2-1}{1}=1$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Units set Q6 · MCQ
+
+Consider a modified Bernoulli equation $\left(P+\dfrac{A}{Bt^2}\right)+\rho g(h+Bt)+\tfrac12\rho V^2=\text{constant}$. If $t$ has the dimension of time, the dimensions of $A$ and $B$ are ______ and ______ respectively.
+
+(1) $[\text{ML}^0\text{T}^{-2}]$ and $[\text{M}^0\text{LT}^{-2}]$  (2) $[\text{ML}^0\text{T}^{-2}]$ and $[\text{M}^0\text{LT}^{-1}]$  (3) $[\text{ML}^0\text{T}^{-1}]$ and $[\text{M}^0\text{LT}]$  (4) $[\text{ML}^0\text{T}^{-1}]$ and $[\text{M}^0\text{LT}^{-1}]$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $Bt$ is added to $h$, so $[Bt]=L\Rightarrow[B]=LT^{-1}$. $\dfrac{A}{Bt^2}$ has the dimensions of pressure, so $[A]=[P][B][T^2]=ML^{-1}T^{-2}\cdot LT^{-1}\cdot T^2=ML^0T^{-1}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Units set Q7 · MCQ
+
+Match List-I with List-II.
+| List-I | List-II |
+|---|---|
+| A. Magnetic induction | I. $\text{M L T}^{-2}\text{A}^{-2}$ |
+| B. Magnetic flux | II. $\text{M L}^2\text{T}^{-2}\text{A}^{-2}$ |
+| C. Magnetic permeability | III. $\text{M L}^0\text{T}^{-2}\text{A}^{-1}$ |
+| D. Self inductance | IV. $\text{M L}^2\text{T}^{-2}\text{A}^{-1}$ |
+
+(1) A-III, B-IV, C-II, D-I  (2) A-III, B-IV, C-I, D-II  (3) A-IV, B-III, C-I, D-II  (4) A-I, B-III, C-IV, D-II
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $B=\dfrac{F}{qv}\Rightarrow\text{MT}^{-2}\text{A}^{-1}$ (III). $\Phi=BA\Rightarrow\text{ML}^2\text{T}^{-2}\text{A}^{-1}$ (IV). $\mu=\dfrac{B}{H}$ with $H=\text{A m}^{-1}$ $\Rightarrow\text{MLT}^{-2}\text{A}^{-2}$ (I). $L=\dfrac{\Phi}{I}\Rightarrow\text{ML}^2\text{T}^{-2}\text{A}^{-2}$ (II).
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Math set Q1 · MCQ
+
+Four persons measure the length of a rod as $20.00$ cm, $19.75$ cm, $17.01$ cm and $18.25$ cm. The relative error in the measurement of the average length of the rod is:
+
+(1) 0.08  (2) 0.06  (3) 0.18  (4) 0.24
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Mean $=\dfrac{20.00+19.75+17.01+18.25}{4}=18.7525$ cm. Absolute deviations: $1.2475,\ 0.9975,\ 1.7425,\ 0.5025$, mean absolute error $=1.1225$ cm. Relative error $=\dfrac{1.1225}{18.7525}\approx0.06$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Math set Q2 · MCQ
+
+In an experiment the values of two spring constants were measured as $k_1=(10\pm0.2)$ N/m and $k_2=(20\pm0.3)$ N/m. If these springs are connected in parallel, the percentage error in the equivalent spring constant is:
+
+(1) 1.33%  (2) 1.67%  (3) 2.67%  (4) 2.33%
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For a parallel combination $k_{eq}=k_1+k_2=30$ N/m and the absolute errors add: $\Delta k_{eq}=0.2+0.3=0.5$ N/m. Percentage error $=\dfrac{0.5}{30}\times100=1.67\%$.
+

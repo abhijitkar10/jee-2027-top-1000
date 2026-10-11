@@ -179,3 +179,176 @@ At the centre of a half ring of radius $R=10$ cm and linear charge density $4\ \
 
 **Solution.** Every element is at distance $R$ from the centre, so $V=\dfrac{kQ}{R}$ with $Q=\lambda\pi R$: $V=k\lambda\pi=9\times10^9\times4\times10^{-9}\times\pi=36\pi$ V.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Consider two identical metallic spheres of radius $R$ each, having charge $Q$ and mass $m$. Their centres have an initial separation of $4R$. Both spheres are given an initial speed $u$ towards each other. The minimum value of $u$ so that they can just touch each other is: (take $k=\dfrac1{4\pi\epsilon_0}$ and assume $kQ^2>Gm^2$, where $G$ is the gravitational constant)
+
+(1) $\sqrt{\dfrac{kQ^2}{2mR}\left(1-\dfrac{Gm^2}{kQ^2}\right)}$  (2) $\sqrt{\dfrac{kQ^2}{4mR}\left(1-\dfrac{Gm^2}{kQ^2}\right)}$  (3) $\sqrt{\dfrac{kQ^2}{2mR}\left(1-\dfrac{Gm^2}{2kQ^2}\right)}$  (4) $\sqrt{\dfrac{kQ^2}{4mR}\left(1+\dfrac{Gm^2}{kQ^2}\right)}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Initial kinetic energy $=2\cdot\tfrac12mu^2=mu^2$; at the touching point (separation $2R$) the speed is zero. The electrostatic PE rises by $kQ^2\left(\tfrac1{2R}-\tfrac1{4R}\right)=\tfrac{kQ^2}{4R}$ while the gravitational PE falls by $\tfrac{Gm^2}{4R}$. So $mu^2=\dfrac{kQ^2-Gm^2}{4R}\Rightarrow u=\sqrt{\dfrac{kQ^2}{4mR}\left(1-\dfrac{Gm^2}{kQ^2}\right)}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+Two point charges $2q$ and $q$ are placed at the vertex $A$ and at the centre of the face $CDEF$ of the cube as shown in the figure. The electric flux passing through the cube is:
+
+![Figure](../../figures/j26_phy_electrostatics/q2-1.png)
+
+(1) $\dfrac{3q}{2\epsilon_0}$  (2) $\dfrac{3q}{4\epsilon_0}$  (3) $\dfrac{q}{\epsilon_0}$  (4) $\dfrac{3q}{\epsilon_0}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A charge at a vertex contributes $\tfrac18$ of its flux through the cube: $\dfrac{2q}{8\epsilon_0}=\dfrac{q}{4\epsilon_0}$. A charge at the centre of a face contributes $\tfrac12$: $\dfrac{q}{2\epsilon_0}$. Total $=\dfrac{3q}{4\epsilon_0}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+Identify the correct statements:
+A. Electrostatic field lines form closed loops.
+B. The electric field lines point radially outward when the charge is greater than zero.
+C. Gauss's law is valid only for an inverse-square force.
+D. The work done in moving a charged particle in a static electric field around a closed path is zero.
+E. The motion of a particle under Coulomb's force must take place in a plane.
+
+(1) A, B, D, E only  (2) A, C, E only  (3) A, B, C, D only  (4) B, C, D, E only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A is false: electrostatic lines start on positive and end on negative charges (the field is conservative). B is true for a point charge. C is true: Gauss's law follows from the $1/r^2$ nature of the force. D is true: $\oint\vec E\cdot d\vec l=0$. E is true: Coulomb force is central, so angular momentum direction is constant and motion is planar. Hence B, C, D, E.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
+
+A point charge $q=1\ \mu\text{C}$ is located at a distance of $2$ cm from one end of a thin insulating wire of length $10$ cm having a charge $Q=24\ \mu\text{C}$ distributed uniformly along its length, as shown in the figure. The force between $q$ and the wire is ______ N. (Use $\dfrac{1}{4\pi\epsilon_0}=9\times10^9\ \text{N m}^2/\text{C}^2$)
+
+![Figure](../../figures/j26_phy_electrostatics/q4-1.png)
+
+**Answer: 90** · key (compiled)
+
+**Solution.** Take an element $dx$ of the wire at distance $x$ from $q$, with charge $\dfrac{Q}{L}dx$. $F=kq\dfrac QL\int_a^{a+L}\dfrac{dx}{x^2}=\dfrac{kqQ}{L}\left(\dfrac1a-\dfrac1{a+L}\right)=\dfrac{kqQ}{a(a+L)}$. With $a=0.02$ m, $a+L=0.12$ m: $F=\dfrac{9\times10^9\times10^{-6}\times24\times10^{-6}}{0.02\times0.12}=90$ N.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Five positive charges each of charge $q$ are placed at the vertices of a regular pentagon as shown in the figure. The electric potential $V$ and the electric field $\vec E$ at the centre $O$ of the pentagon due to these five charges are:
+
+![Figure](../../figures/j26_phy_electrostatics/q5-1.png)
+
+(1) $V=\dfrac{5q}{4\pi\epsilon_0r}$ and $\vec E=\dfrac{5\sqrt3\,q}{8\pi\epsilon_0r^2}\hat r$  (2) $V=\dfrac{5q}{4\pi\epsilon_0r}$ and $\vec E=0$  (3) $V=0$ and $\vec E=0$  (4) $V=\dfrac{5q}{4\pi\epsilon_0r}$ and $\vec E=\dfrac{5q}{4\pi\epsilon_0r^2}\hat r$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Potential is a scalar: each charge is at distance $r$, so $V=5\cdot\dfrac{q}{4\pi\epsilon_0r}$. The five equal field vectors are radial and spaced $72^\circ$ apart, so their vector sum is zero: $\vec E=0$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+
+Three small identical bubbles of water having the same charge on each coalesce to form a bigger bubble. Then the ratio of the potential on one initial bubble to that on the resultant bigger bubble is:
+
+(1) $3^{2/3}:1$  (2) $1:2^{2/3}$  (3) $1:3^{2/3}$  (4) $1:3^{1/3}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Each bubble has charge $q$ and radius $r$: $V_i=\dfrac{kq}{r}$. After coalescing, charge $=3q$ and (volume conserved) $R=3^{1/3}r$, so $V_f=\dfrac{k\cdot3q}{3^{1/3}r}=3^{2/3}V_i$. Ratio $V_i:V_f=1:3^{2/3}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+
+Six point charges are kept $60^\circ$ apart from each other on the circumference of a circle of radius $R$ as shown in the figure. The net electric field at the centre of the circle is ______. ($\epsilon_0$ is the permittivity of free space)
+
+![Figure](../../figures/j26_phy_electrostatics/q7-1.png)
+
+(1) $\dfrac{Q}{4\pi\epsilon_0R^2}(\sqrt3\hat i-\hat j)$  (2) $-\dfrac{5Q}{8\pi\epsilon_0R^2}(\hat i+\sqrt3\hat j)$  (3) $-\left(\dfrac{5Q}{8\pi\epsilon_0R^2}\right)(\hat i-3\hat j)$  (4) $-\dfrac{Q}{4\pi\epsilon_0R^2}(\sqrt3\hat i-\hat j)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Five charges are $+Q$ and the one at $150^\circ$ is $-Q$. Six equal $+Q$ charges would give zero field at the centre. Replacing the $+Q$ at $150^\circ$ by $-Q$ adds $2E_0$ directed *towards* that charge (along $\hat r_{150^\circ}$), with $E_0=\dfrac{Q}{4\pi\epsilon_0R^2}$: $\vec E=2E_0\left(-\tfrac{\sqrt3}{2}\hat i+\tfrac12\hat j\right)=-\dfrac{Q}{4\pi\epsilon_0R^2}(\sqrt3\hat i-\hat j)$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q8 · MCQ
+
+A simple pendulum has a bob of mass $m$ and charge $q$; the string has negligible mass. When a uniform horizontal electric field $\vec E$ is applied, the tension in the string changes. The final tension in the string when the pendulum attains its equilibrium position is ______. ($g$: acceleration due to gravity)
+
+(1) $\sqrt{m^2g^2+q^2E^2}$  (2) $mg+qE$  (3) $mg-qE$  (4) $\sqrt{m^2g^2-q^2E^2}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** At equilibrium the string is along the resultant of $mg$ (down) and $qE$ (horizontal), which are perpendicular. The tension balances their resultant: $T=\sqrt{(mg)^2+(qE)^2}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q9 · MCQ
+
+The electric field in a region is given by $\vec E=Ax\,\hat i+By\,\hat j$ with $A=10\ \text{V/m}^2$ and $B=5\ \text{V/m}^2$. If the electric potential at the point $(10,20)$ is $500$ V, then the electric potential at the origin is ______ V.
+
+(1) 0  (2) 2000  (3) 500  (4) 1000
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\vec E=-\nabla V$ gives $V=-\dfrac{Ax^2}{2}-\dfrac{By^2}{2}+C=-5x^2-2.5y^2+C$. At $(10,20)$: $500=-500-1000+C\Rightarrow C=2000$. At the origin $V=C=2000$ V.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q10 · MCQ
+
+Two short dipoles $A$ (charges $\pm2\ \mu\text{C}$, length $1$ cm) and $B$ (charges $\pm4\ \mu\text{C}$, length $1$ cm) are placed with their centres $80$ cm apart as shown in the figure. The electric field at the point $P$, equidistant from the centres of both dipoles, is ______ N/C.
+
+![Figure](../../figures/j26_phy_electrostatics/q10-1.png)
+
+(1) $\dfrac{9}{16}\sqrt2\times10^4$  (2) $9\sqrt2\times10^4$  (3) $4.5\sqrt2\times10^4$  (4) $\dfrac{9}{16}\sqrt2\times10^5$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $P$ is $40$ cm from each centre. It lies on the *axial* line of $A$: $E_A=\dfrac{2kp_A}{r^3}=\dfrac{2\times9\times10^9\times2\times10^{-8}}{0.4^3}=5625$ N/C, along the dipole direction (horizontal). It lies on the *equatorial* line of $B$: $E_B=\dfrac{kp_B}{r^3}=\dfrac{9\times10^9\times4\times10^{-8}}{0.4^3}=5625$ N/C, antiparallel to $\vec p_B$ (vertical). The two are perpendicular, so $E=5625\sqrt2=\dfrac{9}{16}\sqrt2\times10^4$ N/C.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q11 · MCQ
+
+Two charges $7\ \mu\text{C}$ and $-2\ \mu\text{C}$ are placed at $(-9,0,0)$ cm and $(9,0,0)$ cm respectively in an external field $\vec E=\dfrac{A}{r^2}\hat r$, where $A=9\times10^5\ \text{N C}^{-1}\text{m}^2$. Taking the potential at infinity as $0$, the electrostatic energy of the configuration is ______ J.
+
+(1) 49.3  (2) -90.7  (3) 24.3  (4) 1.4
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The external field has potential $V(r)=\dfrac{A}{r}$. Energy $U=q_1V(r_1)+q_2V(r_2)+\dfrac{kq_1q_2}{r_{12}}$ with $r_1=r_2=0.09$ m, $r_{12}=0.18$ m. $q_1V_1=7\times10^{-6}\times10^{7}=70$ J, $q_2V_2=-2\times10^{-6}\times10^{7}=-20$ J, interaction $=\dfrac{9\times10^9\times7\times10^{-6}\times(-2\times10^{-6})}{0.18}=-0.7$ J. Total $=70-20-0.7=49.3$ J.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q12 · MCQ
+
+A point charge of $10^{-8}$ C is placed at the origin. The work done in moving a point charge $2\ \mu\text{C}$ from point $A(4,4,2)$ m to $B(2,2,1)$ m is ______ J. (in SI units, $\dfrac{1}{4\pi\epsilon_0}=9\times10^9$)
+
+(1) $45\times10^{-6}$  (2) $15\times10^{-6}$  (3) 0  (4) $30\times10^{-6}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $r_A=\sqrt{16+16+4}=6$ m and $r_B=\sqrt{4+4+1}=3$ m. $W=q_2(V_B-V_A)=2\times10^{-6}\times9\times10^9\times10^{-8}\left(\dfrac13-\dfrac16\right)=2\times10^{-6}\times90\times\dfrac16=30\times10^{-6}$ J.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q13 · MCQ
+
+Two point charges of $1$ nC and $2$ nC are placed at two corners of an equilateral triangle of side $3$ cm. The work done in bringing a charge of $3$ nC from infinity to the third corner of the triangle is ______ $\mu$J. ($\dfrac{1}{4\pi\epsilon_0}=9\times10^9\ \text{N m}^2/\text{C}^2$)
+
+(1) 27  (2) 5.4  (3) 2.7  (4) 3.3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Potential at the third corner $=\dfrac{9\times10^9\times1\times10^{-9}}{0.03}+\dfrac{9\times10^9\times2\times10^{-9}}{0.03}=300+600=900$ V. $W=qV=3\times10^{-9}\times900=2.7\ \mu$J.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q14 · MCQ
+
+There are three concentric conducting spherical shells $A$, $B$ and $C$ of radii $a$, $b$ and $c$ respectively ($c>b>a$), carrying charges $q_1$, $q_2$ and $q_3$ respectively. The potentials of the shells $A$, $B$ and $C$ are respectively:
+
+(1) $\dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{a}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{b}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{c}\right)$  (2) $\dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1}{a}+\dfrac{q_2}{b}+\dfrac{q_3}{c}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{b}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{c}\right)$  (3) $\dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1}{a}+\dfrac{q_2}{b}+\dfrac{q_3}{c}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2}{b}+\dfrac{q_3}{c}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{c}\right)$  (4) $\dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2+q_3}{a}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1+q_2}{b}+\dfrac{q_3}{c}\right),\ \dfrac{1}{4\pi\epsilon_0}\left(\dfrac{q_1}{a}+\dfrac{q_2}{b}+\dfrac{q_3}{c}\right)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For a shell of radius $R$: $V=kq/r$ at distance $r\ge R$ and $V=kq/R$ (constant) everywhere inside. Superposing: $V_A=k\left(\dfrac{q_1}{a}+\dfrac{q_2}{b}+\dfrac{q_3}{c}\right)$; $V_B=k\left(\dfrac{q_1+q_2}{b}+\dfrac{q_3}{c}\right)$ (shell $A$ is inside $B$, shell $C$ is outside); $V_C=k\,\dfrac{q_1+q_2+q_3}{c}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q15 · MCQ
+
+Three charges $+2q$, $+3q$ and $-4q$ are situated at $(0,-3a)$, $(2a,0)$ and $(-2a,0)$ respectively in the $xy$ plane. The resultant dipole moment about the origin is ______.
+
+(1) $2qa(7\hat i-3\hat j)$  (2) $2qa(3\hat j-\hat i)$  (3) $2qa(3\hat i-7\hat j)$  (4) $2qa(3\hat j-7\hat i)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec p=\sum q_i\vec r_i=(2q)(-3a\hat j)+(3q)(2a\hat i)+(-4q)(-2a\hat i)=14qa\,\hat i-6qa\,\hat j=2qa(7\hat i-3\hat j)$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q16 · MCQ
+
+The electrostatic potential in a charged spherical region of radius $r$ varies as $V=ar^3+b$, where $a$ and $b$ are constants. The total charge in the sphere of unit radius is $\alpha\times\pi a\epsilon_0$. The value of $\alpha$ is ______. ($\epsilon_0$ is the permittivity of vacuum)
+
+(1) -9  (2) -12  (3) -8  (4) -6
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $E=-\dfrac{dV}{dr}=-3ar^2$. By Gauss's law $Q(r)=\epsilon_0E\cdot4\pi r^2=-12\pi a\epsilon_0r^4$. At $r=1$: $Q=-12\pi a\epsilon_0$, so $\alpha=-12$.
+

@@ -230,3 +230,100 @@ A particle moving in a straight line covers half the distance with a speed of $6
 
 **Solution.** Total distance $d$. First half: time $t_1=\dfrac{d/2}{6}=\dfrac d{12}$. Second half: in two equal intervals $t$ each, $(9+15)t=\dfrac d2\Rightarrow t=\dfrac d{48}$, so time $=2t=\dfrac d{24}$. Total time $=\dfrac d{12}+\dfrac d{24}=\dfrac d8$. Average speed $=\dfrac{d}{d/8}=8$ m/s.
 
+### § — JEE Main 2026 · 28 Jan Shift 2 · 1D set Q1 · MCQ
+
+A particle starts moving from time $t=0$ and its coordinate is given as $x(t)=4t^3-3t$.
+A. The particle returns to its original position (origin) $0.866$ units of time later.
+B. The particle is $1$ unit away from the origin at its turning point.
+C. The acceleration of the particle is non-negative.
+D. The particle is $0.5$ units away from the origin at its turning point.
+E. The particle never turns back as its acceleration is non-negative.
+Choose the correct answer:
+
+(1) A, B, C only  (2) C, E only  (3) A, C only  (4) A, C, D only
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $v=12t^2-3$, $a=24t$. A: $x=0\Rightarrow t(4t^2-3)=0\Rightarrow t=\tfrac{\sqrt3}{2}=0.866$ ✓. B: the turning point is at $v=0\Rightarrow t=0.5$, where $x=4(0.125)-1.5=-1$, i.e. $1$ unit away ✓ (D is false). C: $a=24t\ge0$ for $t\ge0$ ✓. E is false: the particle does turn at $t=0.5$ even though $a\ge0$. So A, B, C.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · 1D set Q2 · MCQ
+
+The velocity–distance ($v$–$x$) graph is shown in the figure. Which graph represents the acceleration versus distance ($a$–$x$) variation of this system?
+
+
+![Figure](../../figures/j26_phy_motion-in-one-dimension/q2-1.png)
+
+**(1)** ![Option 1](../../figures/j26_phy_motion-in-one-dimension/q2-2.png)
+
+**(2)** ![Option 2](../../figures/j26_phy_motion-in-one-dimension/q2-3.png)
+
+**(3)** ![Option 3](../../figures/j26_phy_motion-in-one-dimension/q2-4.png)
+
+**(4)** ![Option 4](../../figures/j26_phy_motion-in-one-dimension/q2-5.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The graph is a straight line with negative slope: $v=v_0-kx$. Then $a=v\dfrac{dv}{dx}=-k(v_0-kx)=-kv_0+k^2x$, a straight line with positive slope and a negative intercept at $x=0$ (zero where $v=0$): option (1).
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · 1D set Q3 · MCQ
+
+A paratrooper jumps from an aeroplane and opens the parachute after $2$ s of free fall, then decelerates at $3\ \text{m/s}^2$. At a height of $10$ m above the ground, while descending with the help of the parachute, the speed of the paratrooper is $5$ m/s. The initial height of the aeroplane is ______ m. ($g=10\ \text{m/s}^2$)
+
+(1) 82.5  (2) 20  (3) 62.5  (4) 92.5
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Free fall for $2$ s: $v_1=20$ m/s, $h_1=\tfrac12\times10\times4=20$ m. Deceleration from $20$ m/s to $5$ m/s: $h_2=\dfrac{20^2-5^2}{2\times3}=62.5$ m. Total height $=20+62.5+10=92.5$ m.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · 1D set Q4 · MCQ
+
+Water drops fall from a tap on to the floor $5$ m below at regular intervals of time; the first drop strikes the floor when the sixth drop begins to fall. The height at which the fourth drop will be from the ground at the instant when the first drop strikes the ground is ______ m. ($g=10\ \text{m/s}^2$)
+
+(1) 4.2  (2) 2.5  (3) 4.0  (4) 3.8
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The first drop takes $t=\sqrt{2\times5/10}=1$ s to fall, and there are $5$ equal intervals, so each is $0.2$ s. The fourth drop has been falling for $1-3(0.2)=0.4$ s: it has fallen $\tfrac12\times10\times0.16=0.8$ m, so it is at $5-0.8=4.2$ m.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · 2D set Q1 · MCQ
+
+A river of width $200$ m is flowing from west to east with a speed of $18$ km/h. A boat, moving with a speed of $36$ km/h in still water, is made to travel one round trip (bank to bank and back). The minimum time taken by the boat for this journey and the displacement along the river bank are ______ and ______ respectively.
+
+(1) 20 s and 100 m  (2) 40 s and 0 m  (3) 40 s and 200 m  (4) 40 s and 100 m
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** River speed $5$ m/s, boat speed $10$ m/s. Minimum time to cross is with the heading perpendicular to the bank: $t=\dfrac{200}{10}=20$ s each way, so $40$ s for the round trip. During each crossing the river carries the boat $5\times20=100$ m downstream, in the same direction both times, so the displacement along the bank is $200$ m.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · 2D set Q2 · MCQ
+
+An object is projected with kinetic energy $K$ from a point $A$ at an angle of $60^\circ$ with the horizontal. The ratio of the difference in kinetic energies at points $B$ and $C$ to that at point $A$ (see figure), in the absence of air friction, is:
+
+![Figure](../../figures/j26_phy_motion-in-two-dimensions/q2-1.png)
+
+(1) 1 : 4  (2) 2 : 3  (3) 3 : 4  (4) 1 : 2
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At the highest point $B$ only the horizontal component remains: $v_B=v\cos60^\circ=\tfrac v2$, so $K_B=\tfrac K4$. At $C$ (same level as $A$) $K_C=K$. Then $\dfrac{K_C-K_B}{K_A}=\dfrac{K-K/4}{K}=\dfrac34$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · 2D set Q3 · MCQ
+
+A projectile is thrown upward at an angle of $60^\circ$ with the horizontal. The speed of the projectile is $20$ m/s when its direction of motion is $45^\circ$ with the horizontal. The initial speed of the projectile is ______ m/s.
+
+(1) $20\sqrt2$  (2) $40$  (3) $40\sqrt2$  (4) $20\sqrt3$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The horizontal velocity is constant: $u\cos60^\circ=20\cos45^\circ\Rightarrow\dfrac u2=10\sqrt2\Rightarrow u=20\sqrt2$ m/s.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · 2D set Q4 · MCQ
+
+A boy throws a ball into the air at $45^\circ$ from the horizontal to land it on the roof of a building of height $H$. If the ball attains its maximum height in $2$ s and lands on the building $3$ s after launch, the value of $H$ is ______ m. ($g=10\ \text{m/s}^2$)
+
+(1) 15  (2) 20  (3) 25  (4) 10
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The vertical component of the launch velocity is $v_{0y}=g\times2=20$ m/s. At $t=3$ s: $H=v_{0y}t-\tfrac12gt^2=60-45=15$ m.
+

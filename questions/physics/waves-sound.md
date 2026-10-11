@@ -98,3 +98,79 @@ Strings $S_1,S_2,S_3$ with linear mass densities $\mu,4\mu,16\mu$ are joined at 
 
 **Solution.** Wave speed $v=\sqrt{T/\mu}$, so $v_2=v_1/2$ and $v_3=v_1/4$; at fixed $\omega$, $k=\omega/v$ becomes $k,2k,4k$ in the three strings. At $P$ the wave goes from a light to a heavy string: the reflected wave is inverted ($\pi$ phase change) and travels backward, $\cos(\omega t+kx+\pi)$ (A true). The transmitted wave has no phase change and wave number $2k$: $\cos(\omega t-2kx)$, so (B) is false. At $Q$ (also light to heavy) the reflected wave travels backward in $S_2$ with wave number $2k$, so (C), with $-kx$, is false. The wave transmitted into $S_3$ has wave number $4k$ (D true).
 
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
+
+The speed of a longitudinal wave in a metallic bar is $400$ m/s. If the density and Young's modulus of the bar material are increased by $0.5\%$ and $1\%$ respectively, the speed of the wave changes approximately to ______ m/s.
+
+(1) 398  (2) 401  (3) 399  (4) 402
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $v=\sqrt{Y/\rho}$, so $\dfrac{\Delta v}{v}\approx\tfrac12(1\%-0.5\%)=0.25\%$. $v'=400\times1.0025\approx401$ m/s.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · Numerical
+
+Two tuning forks $A$ and $B$ are sounded together giving rise to $8$ beats in $2$ s. When fork $B$ is loaded with wax, the beat frequency is reduced to $4$ beats in $2$ s. If the original frequency of tuning fork $A$ is $380$ Hz, then the original frequency of tuning fork $B$ is ______ Hz.
+
+**Answer: 384** · key (compiled)
+
+**Solution.** Initially $|f_A-f_B|=4$ Hz, so $f_B=384$ or $376$ Hz. Loading with wax lowers $f_B$. If $f_B=376$ Hz the beat frequency would increase; if $f_B=384$ Hz it decreases to $2$ beats/s (4 beats in 2 s), as observed. So $f_B=384$ Hz.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+
+A point source is kept at the centre of a spherically enclosed detector. If the volume of the detector is increased by $8$ times, the intensity will:
+
+(1) increase by 64 times  (2) increase by 8 times  (3) decrease by 4 times  (4) decrease by 8 times
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Volume $\propto r^3$, so $r_{new}=2r_{old}$. Intensity $I=\dfrac{P}{4\pi r^2}$ falls by a factor $4$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+The fifth harmonic of a closed organ pipe is found to be in unison with the first harmonic of an open pipe. The ratio of the lengths of the closed pipe to that of the open pipe is $\dfrac5x$. The value of $x$ is ______.
+
+(1) 3  (2) 4  (3) 1  (4) 2
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Closed pipe fifth harmonic: $f=\dfrac{5v}{4L_c}$; open pipe first harmonic: $f=\dfrac{v}{2L_o}$. Equating: $\dfrac{L_c}{L_o}=\dfrac{5}{2}$, so $x=2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+In an open organ pipe, $\nu_3$ and $\nu_6$ are the $3^{rd}$ and $6^{th}$ harmonic frequencies respectively. If $\nu_6-\nu_3=2200$ Hz, the length of the pipe is ______ mm. (Take the velocity of sound in air as $330$ m/s.)
+
+(1) 275  (2) 250  (3) 225  (4) 200
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\nu_n=\dfrac{nv}{2L}$, so $\nu_6-\nu_3=3\cdot\dfrac{330}{2L}=2200\Rightarrow L=\dfrac{990}{4400}=0.225$ m $=225$ mm.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · Numerical
+
+Two loudspeakers ($L_1$ and $L_2$) are placed $10$ m apart, as shown in the figure. Both are fed with an audio signal of the same frequency and constant volume. A voice recorder, initially at point $A$ equidistant from both loudspeakers, is moved by $25$ m along the line $AB$ while monitoring the audio signal. The measured signal undergoes $10$ cycles of minima and maxima during the movement. The frequency of the input signal is ______ Hz. (Speed of sound in air is $324$ m/s and $\sqrt5=2.23$)
+
+![Figure](../../figures/j26_phy_waves-and-sound/q6-1.png)
+
+**Answer: 600** · key (compiled)
+
+**Solution.** At $B$ (25 m from $A$): distance to $L_1$ is $\sqrt{40^2+20^2}=20\sqrt5=44.6$ m and to $L_2$ is $\sqrt{40^2+30^2}=50$ m, a path difference $\Delta x=5.4$ m. Ten cycles means $\Delta x=10\lambda\Rightarrow\lambda=0.54$ m, so $f=\dfrac{324}{0.54}=600$ Hz.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · Numerical
+
+The velocity of sound in air is doubled when the temperature is raised from $0^\circ$C to $\alpha^\circ$C. The value of $\alpha$ is ______.
+
+**Answer: 819** · key (compiled)
+
+**Solution.** $v\propto\sqrt T$, so doubling $v$ needs $T_2=4T_1=4\times273.15=1092.6$ K, i.e. $\alpha=1092.6-273.15\approx819$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+
+Two strings $A$ and $B$ of linear densities $\mu_A=2\times10^{-4}$ kg/m and $\mu_B=4\times10^{-4}$ kg/m and lengths $L_A=2.5$ m and $L_B=1.5$ m respectively are joined. The free ends of $A$ and $B$ are tied to two rigid supports $C$ and $D$ respectively, creating a tension of $500$ N in the wire. Two identical pulses, sent from the $C$ and $D$ ends, take times $t_1$ and $t_2$ respectively to reach the joint. The ratio $t_1/t_2$ is:
+
+(1) 1.90  (2) 1.67  (3) 1.08  (4) 1.18
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Wave speed $v=\sqrt{T/\mu}$, so $t=L\sqrt{\mu/T}$. $\dfrac{t_1}{t_2}=\dfrac{L_A}{L_B}\sqrt{\dfrac{\mu_A}{\mu_B}}=\dfrac{2.5}{1.5}\times\dfrac{1}{\sqrt2}=1.18$.
+

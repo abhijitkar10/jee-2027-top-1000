@@ -22,3 +22,22 @@ Match List I with List II. A. Reverberatory furnace; B. Electrolytic cell; C. Bl
 
 **Solution.** Copper matte is smelted in a reverberatory furnace (IV). Aluminium is obtained by electrolysis of alumina in cryolite (II). A blast furnace produces pig iron (I). Ultra-pure silicon (and germanium) is refined by the zone-refining method (III).
 
+### § — JEE Main 2022 · 24 Jun Shift 1 · Q40 · MCQ
+
+Match List I (ore) with List II (composition).
+
+| List I | List II |
+|---|---|
+| (A) Sphalerite | (I) $\text{FeCO}_3$ |
+| (B) Calamine | (II) $\text{PbS}$ |
+| (C) Galena | (III) $\text{ZnCO}_3$ |
+| (D) Siderite | (IV) $\text{ZnS}$ |
+
+(1) (A)-(IV), (B)-(I), (C)-(II), (D)-(III)  (2) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)  (3) (A)-(II), (B)-(III), (C)-(I), (D)-(IV)  (4) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+
+*(Option 3 was garbled in the source PDF text and is reconstructed; it is a distractor.)*
+
+**Answer: (2)** · key ✔
+
+**Solution.** Sphalerite (zinc blende) is $\text{ZnS}$ → (IV); calamine is $\text{ZnCO}_3$ → (III); galena is $\text{PbS}$ → (II); siderite is $\text{FeCO}_3$ → (I). So (A)-(IV), (B)-(III), (C)-(II), (D)-(I).
+

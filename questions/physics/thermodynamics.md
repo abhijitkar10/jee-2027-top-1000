@@ -132,3 +132,91 @@ $1$ g of a liquid is converted to vapour at $3\times10^5$ Pa pressure. If $10\%$
 
 **Solution.** Work done by the vapour $W=P\Delta V=3\times10^5\times1600\times10^{-6}=480$ J, which is $10\%$ of $Q$. So $Q=4800$ J and $\Delta U=Q-W=4800-480=4320$ J.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+A diatomic gas ($\gamma=1.4$) does $100$ J of work when it is expanded isobarically. The heat given to the gas is ______ J.
+
+**Answer: 350** · key (compiled)
+
+**Solution.** For an isobaric process $W=nR\Delta T=100$ J. For a diatomic gas $C_V=\tfrac52R$, so $\Delta U=\tfrac52nR\Delta T=250$ J. Then $Q=\Delta U+W=250+100=350$ J.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · Numerical
+
+A thermodynamic system is taken through the cyclic process $ABCA$ as shown in the figure. The total work done by the system during the cycle $ABCA$ is ______ J.
+
+![Figure](../../figures/j26_phy_thermodynamics/q2-1.png)
+
+**Answer: 300** · key (compiled)
+
+**Solution.** The cycle is a right triangle with $V$ from $2$ to $5$ m$^3$ and $P$ from $100$ to $300$ Pa, traversed clockwise (positive work). $W=\text{area}=\tfrac12\times(5-2)\times(300-100)=300$ J.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+
+$10$ moles of an ideal gas undergo the process shown in the figure. The heat involved in the process from $P_1$ to $P_2$ is $\alpha$ joule ($P_1=21.7$ Pa, $P_2=30$ Pa, $C_V=21\ \text{J/K mol}$, $R=8.3\ \text{J/mol K}$). The value of $\alpha$ is ______.
+
+![Figure](../../figures/j26_phy_thermodynamics/q3-1.png)
+
+(1) 21  (2) 15  (3) 28  (4) 24
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The step from $P_1$ to $P_2$ is at constant volume ($V=1\ \text{m}^3$), so $W=0$ and $Q=\Delta U=nC_V\Delta T$. With $nR\Delta T=V\Delta P=1\times(30-21.7)=8.3$ J, $\Delta T=\dfrac{8.3}{10\times8.3}=0.1$ K. So $Q=10\times21\times0.1=21$ J.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · Numerical
+
+An insulated cylinder of volume $60\ \text{cm}^3$ is filled with a gas at $27^\circ$C and $2$ atmospheric pressure. The gas is then compressed to a final volume of $20\ \text{cm}^3$ while the temperature is allowed to rise to $77^\circ$C. The final pressure is ______ atmospheric pressure.
+
+**Answer: 7** · key (compiled)
+
+**Solution.** $\dfrac{P_1V_1}{T_1}=\dfrac{P_2V_2}{T_2}\Rightarrow P_2=2\times\dfrac{60}{20}\times\dfrac{350}{300}=7$ atm.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q6 · MCQ
+
+One mole of an ideal diatomic gas expands from volume $V$ to $2V$ isothermally at a temperature of $27^\circ$C and does $W$ joule of work. If the gas undergoes the same magnitude of expansion adiabatically from $27^\circ$C, doing the same amount of work $W$, its final temperature will be (close to) ______ $^\circ$C. ($\log_e2=0.693$)
+
+(1) -30  (2) -189  (3) -117  (4) -56
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Isothermal work $W=RT\ln2=R(300)(0.693)$. Adiabatic work $W=C_V(T_i-T_f)=\tfrac52R(300-T_f)$. Equating: $300-T_f=\dfrac{300\times0.693}{2.5}=83.2\Rightarrow T_f=216.8$ K $=-56^\circ$C.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+
+The internal energy of a monatomic gas is $3nRT$. One mole of helium is kept in a cylinder of internal cross-section $17\ \text{cm}^2$ fitted with a light movable frictionless piston. The gas is heated slowly by supplying $126$ J of heat. If the temperature rises by $4^\circ$C, the piston will move ______ cm. (atmospheric pressure $=10^5$ Pa)
+
+(1) 1.45  (2) 15.5  (3) 1.55  (4) 14.5
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** With the paper's $U=3nRT$: $\Delta U=3\times1\times8.314\times4=99.8$ J. The work done at constant pressure $W=Q-\Delta U=126-99.8=26.2$ J $=P\,A\,d=10^5\times17\times10^{-4}\,d$, so $d=\dfrac{26.2}{170}=0.154$ m $\approx15.5$ cm.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · Numerical
+
+$10$ moles of oxygen are heated at constant volume from $30^\circ$C to $40^\circ$C. The change in the internal energy of the gas is ______ cal. (The molar specific heat of oxygen at constant pressure $C_P=7\ \text{cal/mol}^\circ\text{C}$ and $R=2\ \text{cal/mol}^\circ\text{C}$.)
+
+**Answer: 500** · key (compiled)
+
+**Solution.** $C_V=C_P-R=5$ cal/mol$^\circ$C, so $\Delta U=nC_V\Delta T=10\times5\times10=500$ cal.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+
+In the following $p$–$V$ diagram the equation of state along the curved path is $(V-2)^2=4ap$, where $a$ is a constant. The total work done in the closed path is:
+
+![Figure](../../figures/j26_phy_thermodynamics/q9-1.png)
+
+(1) $+\dfrac{1}{3a}$  (2) $-\dfrac{1}{3a}$  (3) $\dfrac{1}{2a}$  (4) $-\dfrac1a$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Along the curve $A\to B\to C$ ($V$ from $1$ to $3$): $W=\int_1^3\dfrac{(V-2)^2}{4a}dV=\dfrac1{4a}\cdot\dfrac23=\dfrac1{6a}$. Along the straight line $C\to A$ at $p=\dfrac1{4a}$ (the curve's end value): $W=\dfrac1{4a}(1-3)=-\dfrac1{2a}$. Total $=\dfrac1{6a}-\dfrac1{2a}=-\dfrac1{3a}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+
+The densities of water at $4^\circ$C and $20^\circ$C are $1000\ \text{kg/m}^3$ and $998\ \text{kg/m}^3$ respectively. The increase in internal energy of $4$ kg of water when it is heated from $4^\circ$C to $20^\circ$C is ______ J. (specific heat capacity of water $=4200\ \text{J kg}^{-1}\,^\circ\text{C}^{-1}$ and $1$ atmospheric pressure $=10^5$ Pa)
+
+(1) 234699.2  (2) 315826.2  (3) 258700.8  (4) 268799.2
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Heat absorbed $Q=mc\Delta T=4\times4200\times16=268800$ J. Volume change $\Delta V=\dfrac{4}{998}-\dfrac{4}{1000}\approx8\times10^{-6}\ \text{m}^3$, so the expansion work against the atmosphere is $W=P\Delta V\approx0.8$ J. $\Delta U=Q-W=268799.2$ J.
+

@@ -114,3 +114,113 @@ A square loop (side $L$, mass $M$, resistance $R$) moves in the $XY$ plane with 
 
 **Solution.** While entering, $\varepsilon=B_0Lv$, $F=\dfrac{B_0^2L^2v}R$, so $M\dfrac{dv}{dt}=-\dfrac{B_0^2L^2}Rv\Rightarrow v=v_0e^{-Kt}$ and the distance entered is $y=\dfrac{v_0}K(1-e^{-Kt})$. It can enter at most $y_{max}=v_0/K$. (A) $v_0/K=1.5L>L$: it enters completely (false). (B) With the whole loop inside the uniform field the flux is constant, so $F=0$ (true). (C) $v$ decays exponentially and reaches zero only as $t\to\infty$ (false). (D) $v_0/K=3L$: $L=3L(1-e^{-Kt})\Rightarrow e^{-Kt}=\dfrac23\Rightarrow t=\dfrac1K\ln\dfrac32$ (true).
 
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+
+A $20$ m long uniform copper wire held horizontally is allowed to fall under gravity ($g=10\ \text{m/s}^2$) through a uniform horizontal magnetic field of $0.5$ gauss perpendicular to the length of the wire. The induced emf across the wire when it has fallen a vertical distance of $200$ m is ______ mV.
+
+(1) $20\sqrt{10}$  (2) $0.2\sqrt{10}$  (3) $200\sqrt{10}$  (4) $2\sqrt{10}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Speed after falling $200$ m: $v=\sqrt{2gh}=\sqrt{4000}=20\sqrt{10}$ m/s. With $B=0.5\ \text{G}=0.5\times10^{-4}$ T: $\varepsilon=BLv=0.5\times10^{-4}\times20\times20\sqrt{10}=0.02\sqrt{10}$ V $=20\sqrt{10}$ mV.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+A simple pendulum made of a mass of $10$ g and a metallic wire of length $10$ cm is suspended vertically in a uniform magnetic field of $2$ T. The magnetic field is perpendicular to the plane of oscillation of the pendulum. If the pendulum is released from an angle of $60^\circ$ with the vertical, the maximum induced emf between the point of suspension and the bob is ______ mV. (Take $g=10\ \text{m/s}^2$)
+
+**Answer: 100** · key (compiled)
+
+**Solution.** The emf of a rod of length $\ell$ rotating at $\omega$ is $\tfrac12B\omega\ell^2$. It is maximum at the lowest point, where $\tfrac12m\ell^2\omega^2=mg\ell(1-\cos60^\circ)$, so $\omega=\sqrt{g/\ell}=10$ rad/s. Then $\varepsilon_{max}=\tfrac12\times2\times10\times(0.1)^2=0.1$ V $=100$ mV.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q3 · MCQ
+
+The figure shows a circuit containing three resistances ($9\ \Omega$ each) and two inductors ($4$ mH each). The reading of the ammeter at the moment the switch $K$ is turned ON is ______ A.
+
+![Figure](../../figures/j26_phy_electromagnetic-induction/q3-1.png)
+
+(1) 2  (2) 1  (3) zero  (4) 3
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** At the instant of closing, an inductor opposes any sudden change of current, so it carries zero current and acts as an open circuit. The two branches containing inductors are therefore inactive and only the middle $9\ \Omega$ resistor conducts: $I=\dfrac{9\ \text{V}}{9\ \Omega}=1$ A.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q4 · Numerical
+
+A conducting circular loop is rotated about its diameter at a constant angular speed of $100$ rad/s in a magnetic field of $0.5$ T perpendicular to the axis of rotation. When the loop has rotated by $30^\circ$ from the horizontal position, the induced emf is $15.4$ mV. The radius of the loop is ______ mm. (Take $\pi=\tfrac{22}{7}$)
+
+**Answer: 14** · key (compiled)
+
+**Solution.** $\varepsilon=B\omega A\sin\omega t$ with $\sin30^\circ=\tfrac12$: $15.4\times10^{-3}=0.5\times100\times\dfrac{22}{7}r^2\times\dfrac12\Rightarrow r^2=1.96\times10^{-4}\ \text{m}^2$, so $r=0.014$ m $=14$ mm.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q5 · MCQ
+
+Three identical coils $C_1$, $C_2$ and $C_3$ are placed closely so that they share a common axis, $C_2$ being exactly midway. $C_1$ carries current $I$ in the anti-clockwise direction while $C_3$ carries current $I$ in the clockwise direction. An induced current flows through $C_2$ in the clockwise direction when:
+
+(1) $C_1$ moves away from $C_2$ and $C_3$ moves towards $C_2$  (2) $C_1$ and $C_3$ move with equal speeds away from $C_2$  (3) $C_1$ moves towards $C_2$ and $C_3$ moves away from $C_2$  (4) $C_1$ and $C_3$ move with equal speeds towards $C_2$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** At $C_2$ the field of $C_1$ (anti-clockwise) points one way, say $+z$, and that of $C_3$ (clockwise) points $-z$; initially they cancel. A clockwise induced current in $C_2$ produces a field in $-z$, so by Lenz's law the flux through $C_2$ must be increasing along $+z$ or decreasing along $-z$. Moving $C_1$ towards $C_2$ increases the $+z$ flux, and moving $C_3$ away decreases the $-z$ flux: option (3).
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
+
+$XPQY$ is a vertical smooth long loop of total resistance $R$, where $PX$ is parallel to $QY$ and the separation between them is $l$. A constant magnetic field $B$ perpendicular to the plane of the loop exists in the entire space. A rod $CD$ of length $L$ ($L>l$) and mass $m$ is made to slide down from rest under gravity as shown in the figure. The terminal speed acquired by the rod is ______ m/s. ($g$ = acceleration due to gravity)
+
+![Figure](../../figures/j26_phy_electromagnetic-induction/q6-1.png)
+
+(1) $\dfrac{8mgR}{B^2l^2}$  (2) $\dfrac{2mgR}{B^2L^2}$  (3) $\dfrac{mgR}{B^2l^2}$  (4) $\dfrac{2mgR}{B^2l^2}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Only the part of the rod between the rails ($l$) is in the circuit, so $\varepsilon=Blv$, $I=\dfrac{Blv}{R}$ and the magnetic force is $F=BIl=\dfrac{B^2l^2v}{R}$ (upwards). At terminal speed $mg=\dfrac{B^2l^2v}{R}\Rightarrow v=\dfrac{mgR}{B^2l^2}$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · Numerical
+
+The inductance of a coil with $10^4$ turns is $10$ mH and it is connected to a dc source of $10$ V with internal resistance $10\ \Omega$. The energy density in the inductor when the current reaches $\left(\dfrac1e\right)$ of its maximum value is $\alpha\pi\times\dfrac{1}{e^2}\ \text{J/m}^3$. The value of $\alpha$ is ______. ($\mu_0=4\pi\times10^{-7}\ \text{T m/A}$)
+
+**Answer: 20** · key (compiled)
+
+**Solution.** Maximum current $=\dfrac{10}{10}=1$ A, so $I=\tfrac1e$ A. The energy density of the field is $u=\dfrac{B^2}{2\mu_0}=\tfrac12\mu_0n^2I^2$; the paper's intended reading is $n=10^4\ \text{m}^{-1}$. Then $u=\tfrac12\times4\pi\times10^{-7}\times10^{8}\times\dfrac{1}{e^2}=\dfrac{20\pi}{e^2}$, so $\alpha=20$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · MCQ
+
+A long solenoid of length $100$ cm and radius $2$ cm, having $500$ turns per unit length, carries a current $I=10\sin(\omega t)$ A, where $\omega=1000$ rad/s. A circular conducting loop $B$ of radius $1$ cm is slid coaxially through the solenoid at a speed $v=1$ cm/s. The r.m.s. current through the loop when the loop is $10$ cm inside the solenoid is $\dfrac{\alpha}{\sqrt2}\ \mu$A. The value of $\alpha$ is ______. [Resistance of the loop $=10\ \Omega$]
+
+(1) 197  (2) 80  (3) 100  (4) 280
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Inside a long solenoid the field is uniform, so the motion of the loop does not change the flux; the emf comes only from the changing current: $\varepsilon=\pi r^2\mu_0n\dfrac{di}{dt}=\pi r^2\mu_0n\,i_0\omega\cos\omega t$. Peak emf $=\pi(10^{-2})^2\times4\pi\times10^{-7}\times500\times10\times1000=1.97\times10^{-3}$ V, so the peak current is $\dfrac{1.97\times10^{-3}}{10}\approx197\ \mu$A and the r.m.s. value is $\dfrac{197}{\sqrt2}\ \mu$A.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q9 · MCQ
+
+A circular loop of radius $7$ cm is placed in a uniform magnetic field of $0.2$ T directed perpendicular to the plane of the loop. The loop is converted into a square loop in $0.5$ s. The emf induced in the loop is ______ mV.
+
+(1) 13.2  (2) 1.32  (3) 8.25  (4) 6.6
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The perimeter is unchanged: $2\pi(0.07)=0.44$ m, so the square has side $0.11$ m. Initial area $=\dfrac{22}{7}(0.07)^2=1.54\times10^{-2}\ \text{m}^2$, final area $=1.21\times10^{-2}\ \text{m}^2$. $\Delta\Phi=0.2\times(1.54-1.21)\times10^{-2}=6.6\times10^{-4}$ Wb, so $\varepsilon=\dfrac{\Delta\Phi}{\Delta t}=\dfrac{6.6\times10^{-4}}{0.5}=1.32$ mV.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · MCQ
+
+A conducting circular loop of area $1.0\ \text{m}^2$ is placed perpendicular to a magnetic field which varies as $B=\sin(100t)$ tesla. If the resistance of the loop is $100\ \Omega$, the average thermal energy dissipated in the loop in one period is ______ J.
+
+(1) $\pi^2$  (2) $\pi$  (3) $\dfrac{\pi}{2}$  (4) $2\pi$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\varepsilon=-\dfrac{d\phi}{dt}=-100\cos(100t)$ V, so $I=-\cos(100t)$ A and $P_{avg}=\tfrac12I_0^2R=50$ W. Period $T=\dfrac{2\pi}{100}$ s, so the energy per period $=50\times\dfrac{2\pi}{100}=\pi$ J.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q11 · MCQ
+
+A $1$ m long metal rod $AB$ completes the circuit as shown in the figure. The area of the circuit is perpendicular to the magnetic field of $0.10$ T. If the resistance of the total circuit is $2\ \Omega$, the force needed to move the rod towards the right with a constant speed $v$ of $1.5$ m/s is ______ N.
+
+![Figure](../../figures/j26_phy_electromagnetic-induction/q11-1.png)
+
+(1) $5.7\times10^{-2}$  (2) $7.5\times10^{-2}$  (3) $7.5\times10^{-3}$  (4) $5.7\times10^{-3}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\varepsilon=Blv=0.10\times1\times1.5=0.15$ V, $I=\dfrac{0.15}{2}=0.075$ A. At constant speed the applied force balances the magnetic force: $F=BIl=0.10\times0.075\times1=7.5\times10^{-3}$ N.
+

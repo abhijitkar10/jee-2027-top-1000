@@ -248,3 +248,213 @@ Water boils in an electric kettle in $20$ minutes after being switched on. Using
 
 **Solution.** $t=\dfrac{H}{P}=\dfrac{HR}{V^2}\propto R\propto l$ for the same supply and wire. $\dfrac{l'}{l}=\dfrac{15}{20}=\dfrac34$: the length must be decreased to $\tfrac34$ of its initial value.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+Two known resistances $R\ \Omega$ and $2R\ \Omega$ and one unknown resistance $X\ \Omega$ are connected in a circuit as shown in the figure. If the equivalent resistance between points $A$ and $B$ is $X\ \Omega$, then the value of $X$ is ______ $\Omega$.
+
+![Figure](../../figures/j26_phy_current-electricity/q1-1.png)
+
+(1) $(\sqrt3-1)R$  (2) $2(\sqrt3-1)R$  (3) $(\sqrt3+1)R$  (4) $R$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The branch $2R+X$ is in parallel with $R$, so $R_{AB}=\dfrac{R(2R+X)}{3R+X}=X\Rightarrow X(3R+X)=R(2R+X)\Rightarrow X^2+2RX-2R^2=0$, giving $X=R(\sqrt3-1)$ (positive root).
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · MCQ
+
+The total length of the potentiometer wire $AB$ is $50$ cm in the arrangement shown in the figure. If $P$ is the point where the galvanometer shows zero reading, the length $AP$ is ______ cm.
+
+![Figure](../../figures/j26_phy_current-electricity/q2-1.png)
+
+(1) 25  (2) 30  (3) 20  (4) 15
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** At balance no current flows through the galvanometer, so $P$ is at the same potential as the junction of the $6\ \Omega$ and $4\ \Omega$ resistors. That junction is at the fraction $\dfrac{6}{6+4}=0.6$ of the applied potential difference measured from $A$. The wire has a uniform potential gradient, so $AP=0.6\times50=30$ cm.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q3 · MCQ
+
+A battery of emf $E$ and internal resistance $r$ is connected across a resistance $R$. The power consumed in $R$ will be maximum when:
+
+(1) $R=2r$  (2) $R=r/2$  (3) $R=r$  (4) $R=\sqrt2\,r$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $P=\dfrac{E^2R}{(R+r)^2}$ and $\dfrac{dP}{dR}=E^2\dfrac{r-R}{(R+r)^3}=0\Rightarrow R=r$ (maximum power transfer theorem).
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q4 · MCQ
+
+A wire of uniform resistance $\lambda\ \Omega\,\text{m}^{-1}$ is bent into a circle of radius $r$, and another piece of wire of length $2r$ (two radii, $A\!-\!O\!-\!B$) is connected between points $A$ and $B$ as shown in the figure. The equivalent resistance between $A$ and $B$ is:
+
+![Figure](../../figures/j26_phy_current-electricity/q4-1.png)
+
+(1) $\dfrac{3\pi\lambda r}{8}$  (2) $\dfrac{6\pi\lambda r}{3\pi+16}$  (3) $2\pi\lambda r$  (4) $(\pi+1)\,2r\lambda$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\angle AOB=90^\circ$, so there are three parallel paths between $A$ and $B$: the minor arc ($\lambda\cdot\tfrac{\pi r}{2}$), the major arc ($\lambda\cdot\tfrac{3\pi r}{2}$) and the wire $A\!-\!O\!-\!B$ ($2\lambda r$). Then $\dfrac1{R_{AB}}=\dfrac{2}{\pi\lambda r}+\dfrac{2}{3\pi\lambda r}+\dfrac{1}{2\lambda r}=\dfrac{16+3\pi}{6\pi\lambda r}$, so $R_{AB}=\dfrac{6\pi\lambda r}{3\pi+16}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q5 · MCQ
+
+Which one of the following is not a measurable quantity?
+
+(1) Voltage  (2) Resistance  (3) Displacement current  (4) Voltage difference
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Only potential *differences* can be measured (with a voltmeter); the potential at a single point depends on the arbitrary choice of zero, so "voltage" in the absolute sense is not measurable. Resistance (ohmmeter, bridge) and voltage difference are measurable, and the magnetic effect of a displacement current can be measured.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q6 · MCQ
+
+A Wheatstone bridge is initially at room temperature with all four arms equal, $R_1=R_2=R_3=R_4$, and is connected to a $40$ V battery as shown. When $R_3$ is heated its resistance rises by $10\%$. The potential difference $(V_a-V_b)$ after $R_3$ is heated is ______ V.
+
+![Figure](../../figures/j26_phy_current-electricity/q6-1.png)
+
+(1) 1.05  (2) 0.95  (3) 0  (4) 2
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $V_a=40\cdot\dfrac{R_2}{R_1+R_2}=20$ V. After heating, $V_b=40\cdot\dfrac{R_4}{R_3'+R_4}=\dfrac{40}{2.1}=19.05$ V. So $V_a-V_b\approx0.95$ V.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q7 · MCQ
+
+The reading of the ammeter $A$ in steady state in the circuit shown (ammeter resistance negligible) is ______ A.
+
+![Figure](../../figures/j26_phy_current-electricity/q7-1.png)
+
+(1) 1  (2) 1/2  (3) 0  (4) 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In steady state the capacitor branch carries no current. The $4\ \Omega$ resistor in series with the two parallel $8\ \Omega$ resistors ($4\ \Omega$) gives $8\ \Omega$, which (through the ideal ammeter) is in parallel with the left $8\ \Omega$: $4\ \Omega$. With the $1\ \Omega$ in series the total is $5\ \Omega$, so $I=\dfrac{10}{5}=2$ A and the voltage across the parallel part is $8$ V. The ammeter path carries $\dfrac{8}{8}=1$ A.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q8 · MCQ
+
+A moving coil galvanometer of resistance $100\ \Omega$ shows full-scale deflection for a current of $1$ mA. The value of the resistance (in $\Omega$) required to convert this galvanometer into an ammeter showing full-scale deflection for a current of $5$ mA is:
+
+(1) 0.5  (2) 2.5  (3) 10  (4) 25
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The shunt $S$ carries $5-1=4$ mA at the same voltage as the galvanometer: $1\ \text{mA}\times100=4\ \text{mA}\times S\Rightarrow S=25\ \Omega$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q9 · MCQ
+
+A regular hexagon is formed by six wires each of resistance $r\ \Omega$, and its corners are joined to the centre by wires of the same resistance. If current enters at one corner and leaves at the opposite corner, the equivalent resistance between these two opposite corners is:
+
+(1) $\dfrac34 r$  (2) $\dfrac45 r$  (3) $\dfrac35 r$  (4) $\dfrac58 r$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Put the entry corner at $1$ V and the exit corner at $0$. By symmetry the centre is at $\tfrac12$ V, the two corners next to the entry corner share a potential $b$ and those next to the exit corner share $1-b$. KCL at a neighbour of the entry corner: $(1-b)+(1-2b)+(\tfrac12-b)=0\Rightarrow b=\tfrac58$. Current drawn from the entry corner $=\dfrac{2(3/8)+1/2}{r}=\dfrac{5}{4r}$, so $R_{eq}=\dfrac{4r}{5}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q10 · Numerical
+
+In a meter bridge experiment, resistances $2\ \Omega$ and $3\ \Omega$ are connected in the left and right gaps and the null point is obtained at $l$ cm from the left. When an unknown resistance $x\ \Omega$ is connected in parallel with the $3\ \Omega$ resistance, the null point shifts by $10$ cm to the right. The value of $x$ is ______ $\Omega$.
+
+**Answer: 6** · key (compiled)
+
+**Solution.** Initially $\dfrac{2}{3}=\dfrac{l}{100-l}\Rightarrow l=40$ cm. Now the null point is at $50$ cm, so $\dfrac{2}{R'}=1\Rightarrow R'=2\ \Omega$ with $R'=\dfrac{3x}{3+x}$. Thus $3x=6+2x\Rightarrow x=6\ \Omega$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q11 · MCQ
+
+An electric power line having a total resistance of $2\ \Omega$ delivers $1$ kW of power at $250$ V. The percentage efficiency of the transmission line is:
+
+(1) 100  (2) 92.5  (3) 96.9  (4) 86.5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Line current $I=\dfrac{1000}{250}=4$ A, loss $=I^2R=16\times2=32$ W. Efficiency $=\dfrac{\text{delivered}}{\text{delivered}+\text{loss}}=\dfrac{1000}{1032}\times100\approx96.9\%$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q12 · Numerical
+
+A cylindrical conductor of length $2$ m and cross-section $0.2\ \text{mm}^2$ carries a current of $1.6$ A when its ends are connected to a $2$ V battery. The electron concentration is $5\times10^{28}\ \text{m}^{-3}$ and $e=1.6\times10^{-19}$ C. The mobility of electrons in the conductor is $\alpha\times10^{-3}\ \text{m}^2\text{V}^{-1}\text{s}^{-1}$. The value of $\alpha$ is ______.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $R=\dfrac{2}{1.6}=1.25\ \Omega$, $\rho=\dfrac{RA}{L}=\dfrac{1.25\times0.2\times10^{-6}}{2}=1.25\times10^{-7}\ \Omega\,\text{m}$. Mobility $\mu=\dfrac{1}{ne\rho}=\dfrac{1}{5\times10^{28}\times1.6\times10^{-19}\times1.25\times10^{-7}}=10^{-3}\ \text{m}^2\text{V}^{-1}\text{s}^{-1}$, so $\alpha=1$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q13 · MCQ
+
+A meter bridge with two resistances $R_1$ and $R_2$ as shown in the figure was balanced (null point) at $40$ cm from the point $P$. The null point changed to $50$ cm from $P$ when a $16\ \Omega$ resistance is connected in parallel to $R_2$. The values of $R_1$ and $R_2$ are:
+
+![Figure](../../figures/j26_phy_current-electricity/q13-1.png)
+
+(1) $R_2=4\ \Omega,\ R_1=\tfrac43\ \Omega$  (2) $R_2=16\ \Omega,\ R_1=\tfrac{16}{3}\ \Omega$  (3) $R_2=12\ \Omega,\ R_1=\tfrac{12}{3}\ \Omega$  (4) $R_2=8\ \Omega,\ R_1=\tfrac{16}{3}\ \Omega$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** First balance: $\dfrac{R_1}{R_2}=\dfrac{40}{60}=\dfrac23$. Second: $\dfrac{R_1}{R_2\parallel16}=\dfrac{50}{50}=1\Rightarrow R_1=\dfrac{16R_2}{16+R_2}$. Substituting $R_1=\tfrac23R_2$: $\tfrac23=\dfrac{16}{16+R_2}\Rightarrow R_2=8\ \Omega$, $R_1=\tfrac{16}{3}\ \Omega$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q14 · MCQ
+
+To compare the emfs of two cells using a potentiometer, the balancing lengths are $200$ cm and $150$ cm. The least count of the scale is $1$ cm. The percentage error in the ratio of the emfs is:
+
+(1) 1.65  (2) 1.45  (3) 1.75  (4) 1.16
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\dfrac{\varepsilon_1}{\varepsilon_2}=\dfrac{\ell_1}{\ell_2}$, so $\dfrac{\Delta y}{y}=\dfrac{1}{200}+\dfrac{1}{150}=\dfrac{7}{600}$, i.e. $\dfrac{7}{6}\%\approx1.16\%$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q15 · Numerical
+
+The heat generated in $1$ minute between points $A$ and $B$ in the given circuit, when a battery of $9$ V with internal resistance $1\ \Omega$ is connected across these points, is ______ J.
+
+![Figure](../../figures/j26_phy_current-electricity/q15-1.png)
+
+**Answer: 1080** · key (compiled)
+
+**Solution.** The bridge is balanced ($\tfrac12=\tfrac24$), so no current flows in the middle $1\ \Omega$. The upper branch $1+2=3\ \Omega$ in parallel with the lower branch $2+4=6\ \Omega$ gives $R_{AB}=2\ \Omega$. Total resistance $=2+1=3\ \Omega$, $I=3$ A, power in the network $=I^2R_{AB}=9\times2=18$ W, so heat in $60$ s $=18\times60=1080$ J.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q16 · MCQ
+
+Two cells have the same emf $E$ and internal resistance $r$. The current through an external $6\ \Omega$ resistor is the same whether the two cells are connected in parallel or in series. The value of $r$ (in $\Omega$) is:
+
+(1) 6  (2) 3  (3) 4  (4) 9
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Series: $I=\dfrac{2E}{2r+6}$. Parallel: $I=\dfrac{E}{r/2+6}=\dfrac{2E}{r+12}$. Equal currents give $2r+6=r+12\Rightarrow r=6\ \Omega$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q17 · MCQ
+
+In a potentiometer, when the cell in the secondary circuit is shunted with a $4\ \Omega$ resistance, the balance length is $120$ cm; when shunted with $12\ \Omega$, the balance length becomes $180$ cm. The internal resistance of the cell (in $\Omega$) is:
+
+(1) 4  (2) 12  (3) 6  (4) 3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** With shunt $R$ the terminal voltage is $E\dfrac{R}{R+r}$, so $\ell\propto\dfrac{R}{R+r}$. Then $\dfrac{180}{120}=\dfrac{12/(12+r)}{4/(4+r)}=\dfrac{3(4+r)}{12+r}\Rightarrow 18+1.5r=12+3r\Rightarrow r=4\ \Omega$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q18 · Numerical
+
+The equivalent resistance between the points $A$ and $B$ in the circuit shown is $\dfrac{x}{5}\ \Omega$. The value of $x$ is ______.
+
+![Figure](../../figures/j26_phy_current-electricity/q18-1.png)
+
+**Answer: 21** · key (compiled)
+
+**Solution.** Apply $1$ V between $A$ and $B$ ($V_A=1,\ V_B=0$) and let $p,q$ be the potentials of the upper and lower middle nodes. KCL: $\dfrac{1-p}{6}-\dfrac{p}{3}+\dfrac{q-p}{3}=0$ and $\dfrac{1-q}{3}-\dfrac{q}{6}+\dfrac{p-q}{3}=0$, giving $p=\tfrac37,\ q=\tfrac47$. Current from the source $=\dfrac{4/7}{6}+\dfrac{3/7}{3}=\dfrac{5}{21}$ A, so $R_{AB}=\dfrac{21}{5}\ \Omega$ and $x=21$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q19 · MCQ
+
+Two resistors $2\ \Omega$ and $3\ \Omega$ are connected in the gaps of a meter bridge $XY$ as shown in the figure. The null point is obtained with the jockey at some point on the wire $XY$. When an unknown resistor is connected in parallel with the $3\ \Omega$ resistor, the null point shifts by $22.5$ cm toward $Y$. The resistance of the unknown resistor is ______ $\Omega$.
+
+![Figure](../../figures/j26_phy_current-electricity/q19-1.png)
+
+(1) 2  (2) 1  (3) 4  (4) 3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Initially $\dfrac{2}{3}=\dfrac{l}{100-l}\Rightarrow l=40$ cm; after the shift $l=62.5$ cm. So $\dfrac{2}{R'}=\dfrac{62.5}{37.5}=\dfrac53\Rightarrow R'=1.2\ \Omega$. Since $R'=\dfrac{3x}{3+x}$: $3x=3.6+1.2x\Rightarrow x=2\ \Omega$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q20 · MCQ
+
+Two resistors of $100\ \Omega$ each are connected in series with a $9$ V battery. A voltmeter of resistance $400\ \Omega$ is connected to measure the voltage across one of the resistors. The voltmeter reading (in V) is:
+
+(1) 2  (2) 3  (3) 4  (4) 4.5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The voltmeter in parallel with one resistor gives $\dfrac{100\times400}{500}=80\ \Omega$. The total resistance is $100+80=180\ \Omega$, so $I=\dfrac{9}{180}=0.05$ A and the reading is $0.05\times80=4$ V.
+

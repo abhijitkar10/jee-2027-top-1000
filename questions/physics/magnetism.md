@@ -197,3 +197,104 @@ The coercivity of a magnet is $5\times10^3\ \text{A/m}$. The current required in
 
 **Solution.** The reverse field needed is $H=nI=\dfrac{N}{l}I=5\times10^3$. $I=\dfrac{5\times10^3\times0.3}{150}=10$ A.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Effects set Q1 · MCQ
+
+An infinitely long straight wire carrying current $I$ is bent into a planar shape as shown in the diagram (straight parts $AB$ and $DE$ joined by a circular loop). The radius of the circular part is $r$. The magnetic field at the centre $O$ of the circular loop is:
+
+![Figure](../../figures/j26_phy_magnetic-effects-of-current/q1-1.png)
+
+(1) $-\dfrac{\mu_0}{2\pi}\dfrac Ir(\pi-1)\hat i$  (2) $\dfrac{\mu_0}{2\pi}\dfrac Ir(\pi-1)\hat i$  (3) $-\dfrac{\mu_0}{2\pi}\dfrac Ir(\pi+1)\hat i$  (4) $\dfrac{\mu_0}{2\pi}\dfrac Ir(\pi+1)\hat i$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Each of the two semi-infinite straight parts ends at the foot of the perpendicular from $O$ (distance $r$), so each gives $\dfrac{\mu_0I}{4\pi r}$ in $+\hat i$, i.e. $\dfrac{\mu_0I}{2\pi r}\hat i$ together. The circular loop (clockwise as seen from the $+x$ side) gives $\dfrac{\mu_0I}{2r}$ in $-\hat i$. Net $\vec B=\dfrac{\mu_0I}{2\pi r}(1-\pi)\hat i=-\dfrac{\mu_0I}{2\pi r}(\pi-1)\hat i$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · Effects set Q2 · MCQ
+
+A long cylindrical conductor with a large cross-section carries an electric current distributed uniformly over its cross-section. The magnetic field due to this current is:
+A. maximum at either ends of the conductor and minimum at the midpoint
+B. maximum at the axis of the conductor
+C. minimum at the surface of the conductor
+D. minimum at the axis of the conductor
+E. same at all points in the cross-section of the conductor
+
+(1) A, D only  (2) D only  (3) E only  (4) B, C only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Inside the conductor Ampère's law gives $B(r)=\dfrac{\mu_0Ir}{2\pi R^2}\propto r$: zero on the axis and increasing to the maximum $\dfrac{\mu_0I}{2\pi R}$ at the surface. It does not depend on position along the length. So only D is true.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Effects set Q3 · MCQ
+
+Two identical circular loops $P$ and $Q$, each of radius $r$, lie in parallel planes with a common axis, as shown. The currents through $P$ and $Q$ are $I$ and $4I$ respectively, in the clockwise direction as seen from $O$. The net magnetic field at $O$ (midway, a distance $r$ from each loop's centre) is:
+
+![Figure](../../figures/j26_phy_magnetic-effects-of-current/q3-1.png)
+
+(1) $\dfrac{3\mu_0I}{4\sqrt2\,r}$ towards $Q$  (2) $\dfrac{\mu_0I}{4\sqrt2\,r}$ towards $Q$  (3) $\dfrac{3\mu_0I}{4\sqrt2\,r}$ towards $P$  (4) $\dfrac{\mu_0I}{4\sqrt2\,r}$ towards $P$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** On the axis at distance $x=r$ from a loop of radius $r$: $B=\dfrac{\mu_0Ir^2}{2(r^2+r^2)^{3/2}}=\dfrac{\mu_0I}{4\sqrt2\,r}$ per unit current. So $B_P=\dfrac{\mu_0I}{4\sqrt2r}$ and $B_Q=\dfrac{4\mu_0I}{4\sqrt2r}$. A clockwise current as seen from $O$ gives, at $O$, a field pointing away from $O$'s side, i.e. towards $P$ for loop $P$ and towards $Q$ for loop $Q$. The net is the difference, $\dfrac{3\mu_0I}{4\sqrt2\,r}$, towards $Q$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Effects set Q4 · MCQ
+
+The current through a conducting loop in the form of an equilateral triangle of side $4\sqrt3$ cm is $2$ A. The magnetic field at its centroid is $\alpha\times10^{-5}$ T. The value of $\alpha$ is ______. (Given $\mu_0=4\pi\times10^{-7}$ SI units)
+
+(1) $2\sqrt3$  (2) $\dfrac{\sqrt3}{2}$  (3) $3\sqrt3$  (4) $\sqrt3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The distance of the centroid from each side is $r=\dfrac{a}{2\sqrt3}=2\times10^{-2}$ m. One side gives $B_1=\dfrac{\mu_0I}{4\pi r}(\sin60^\circ+\sin60^\circ)=\dfrac{10^{-7}\times2}{2\times10^{-2}}\sqrt3=\sqrt3\times10^{-5}$ T. The three sides add in the same direction: $B=3\sqrt3\times10^{-5}$ T, so $\alpha=3\sqrt3$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Effects set Q5 · MCQ
+
+A current-carrying solenoid is placed vertically and a particle of mass $m$ and charge $Q$ is released from rest. The particle moves along the axis of the solenoid. If $g$ is the acceleration due to gravity, the acceleration $a$ of the charged particle will satisfy:
+
+(1) $a>g$  (2) $0<a<g$  (3) $a=0$  (4) $a=g$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Inside the solenoid $\vec B$ is uniform and parallel to the axis. The particle's velocity is also along the axis, so $\vec F=Q\vec v\times\vec B=0$. Only gravity acts: $a=g$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Effects set Q6 · MCQ
+
+Three long straight parallel wires $P$, $Q$ and $R$ carry currents as shown in the figure ($P$: $3$ A upward, $Q$: $1$ A downward, $R$: $2$ A downward; $PQ=3$ cm, $QR=2$ cm). The force experienced by a $15$ cm length of wire $Q$ is ______. ($\mu_0=4\pi\times10^{-7}\ \text{T m/A}$)
+
+![Figure](../../figures/j26_phy_magnetic-effects-of-current/q6-1.png)
+
+(1) $6\times10^{-6}$ N towards $P$  (2) $6\times10^{-7}$ N towards $P$  (3) $6\times10^{-7}$ N towards $R$  (4) $6\times10^{-6}$ N towards $R$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Force per unit length $\dfrac{\mu_0I_1I_2}{2\pi d}$. From $P$ (opposite currents, repulsion, pushing $Q$ towards $R$): $\dfrac{2\times10^{-7}\times3\times1}{0.03}=2\times10^{-5}$ N/m. From $R$ (parallel currents, attraction towards $R$): $\dfrac{2\times10^{-7}\times1\times2}{0.02}=2\times10^{-5}$ N/m. Total $4\times10^{-5}$ N/m towards $R$, so for $0.15$ m: $6\times10^{-6}$ N towards $R$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Effects set Q7 · MCQ
+
+The magnetic field at the centre of a current-carrying circular loop of radius $R$ is $16\ \mu$T. The magnetic field at a distance $x=\sqrt3R$ on its axis from the centre is ______ $\mu$T.
+
+(1) 4  (2) 2  (3) $2\sqrt2$  (4) 8
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $B(x)=\dfrac{\mu_0IR^2}{2(R^2+x^2)^{3/2}}$. At $x=\sqrt3R$: $(R^2+3R^2)^{3/2}=8R^3$, so $B(\sqrt3R)=\dfrac{\mu_0I}{16R}$, while $B_{centre}=\dfrac{\mu_0I}{2R}$. The ratio is $\tfrac18$, so $B=\dfrac{16}{8}=2\ \mu$T.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Effects set Q8 · Numerical
+
+A short bar magnet placed with its axis at $30^\circ$ to an external field of $800$ gauss experiences a torque of $0.016$ N m. The work done in moving it from the most stable to the most unstable position is $\alpha\times10^{-3}$ J. The value of $\alpha$ is ______.
+
+**Answer: 64** · key (compiled)
+
+**Solution.** $B=800\ \text{G}=0.08$ T. From $\tau=mB\sin\theta$: $0.016=m\times0.08\times0.5\Rightarrow m=0.4\ \text{A m}^2$. Work from $\theta=0^\circ$ to $180^\circ$ is $W=2mB=2\times0.4\times0.08=0.064$ J $=64\times10^{-3}$ J, so $\alpha=64$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Properties set Q1 · MCQ
+
+Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R). Consider a ferromagnetic material.
+**Assertion (A):** The individual atoms in a ferromagnetic material possess a magnetic dipole moment and interact with one another in such a way that they spontaneously align themselves, forming domains.
+**Reason (R):** At high enough temperature, the domain structure of a ferromagnetic material disintegrates. Thus, magnetisation will disappear at a high enough temperature known as the Curie temperature.
+
+(1) (A) is true but (R) is false  (2) Both (A) and (R) are true but (R) is not the correct explanation of (A)  (3) (A) is false but (R) is true  (4) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** (A) correctly describes domain formation in a ferromagnet (exchange interaction aligns neighbouring atomic moments). (R) is also a true statement: above the Curie temperature thermal agitation destroys the domains and the material becomes paramagnetic. But the destruction of domains at high temperature is not the reason they form spontaneously at low temperature, so (R) does not explain (A).
+

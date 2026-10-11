@@ -179,3 +179,53 @@ A coil connected across a $20$ V dc supply draws a current of $5$ A. Connected a
 
 **Solution.** $R=\dfrac{20}{5}=4\ \Omega$. On ac: $Z=\dfrac{20}{4}=5\ \Omega$, so $X_L=\sqrt{25-16}=3\ \Omega$. $L=\dfrac{X_L}{2\pi f}=\dfrac{3}{2\times3\times50}=0.01$ H $=10$ mH.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+A capacitor $C$ is first charged fully to a potential difference $V_0$ and disconnected from the battery. The charged capacitor is then connected across an inductor of inductance $L$. In time $t$, $25\%$ of the initial energy of the capacitor is transferred to the inductor. The value of $t$ is ______ s.
+
+(1) $\dfrac{\pi\sqrt{LC}}{3}$  (2) $\dfrac{\pi\sqrt{LC}}{6}$  (3) $\dfrac{\pi\sqrt{LC}}{2}$  (4) $\pi\sqrt{\dfrac{LC}{2}}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $E_C(t)=E_0\cos^2\omega t$ with $E_0=\tfrac12CV_0^2$ and $\omega=\dfrac1{\sqrt{LC}}$. If $25\%$ has moved to the inductor, $75\%$ remains: $\cos^2\omega t=0.75\Rightarrow\sin\omega t=\tfrac12\Rightarrow\omega t=\dfrac\pi6$, so $t=\dfrac{\pi\sqrt{LC}}{6}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · Numerical
+
+Using a variable-frequency a.c. voltage source $V=5\sin(100t)$ volt, the maximum current measured in the given LCR circuit is $50$ mA. The values of $L$ and $R$ are shown in the figure. The capacitance of the capacitor $C$ used is ______ $\mu$F.
+
+![Figure](../../figures/j26_phy_alternating-current/q2-1.png)
+
+**Answer: 50** · key (compiled)
+
+**Solution.** The current is largest at resonance, where the impedance equals $R=100\ \Omega$ and $I_0=\dfrac{V_0}{R}=\dfrac{5}{100}=50$ mA, consistent with the data. Resonance at $\omega=100$ rad/s with $L=2$ H gives $\omega L=\dfrac1{\omega C}\Rightarrow C=\dfrac{1}{\omega^2L}=\dfrac{1}{10^4\times2}=5\times10^{-5}$ F $=50\ \mu$F.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · Numerical
+
+An inductor stores $16$ J of magnetic field energy and dissipates $32$ W of thermal energy due to its resistance when an a.c. current of $2$ A (rms) and frequency $50$ Hz flows through it. The ratio of inductive reactance to its resistance is ______. ($\pi=3.14$)
+
+**Answer: 314** · key (compiled)
+
+**Solution.** Following the paper's convention $\tfrac12LI_{rms}^2=16\Rightarrow L=8$ H. From $I_{rms}^2R=32$: $R=8\ \Omega$. Then $X_L=2\pi fL=2\times3.14\times50\times8=2512\ \Omega$ and $X_L/R=314$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q4 · MCQ
+
+The current in a circuit varies as $i=i_0\,(t/T)$. The rms current for the period $t=0$ to $t=T$ is:
+
+(1) $i_0$  (2) $\dfrac{i_0}{\sqrt6}$  (3) $\dfrac{i_0}{\sqrt3}$  (4) $\dfrac{i_0}{\sqrt2}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $I_{rms}^2=\dfrac1T\int_0^T i_0^2\dfrac{t^2}{T^2}dt=\dfrac{i_0^2}{T^3}\cdot\dfrac{T^3}{3}=\dfrac{i_0^2}{3}$, so $I_{rms}=\dfrac{i_0}{\sqrt3}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q5 · MCQ
+
+A series LCR circuit is connected to a $220$ V, $50$ Hz a.c. source as shown in the figure, with $X_L=70\ \Omega$, $X_C=150\ \Omega$ and $R=60\ \Omega$. The power factor of the circuit is $\dfrac{\alpha}{10}$. The value of $\alpha$ is:
+
+![Figure](../../figures/j26_phy_alternating-current/q5-1.png)
+
+(1) 10  (2) 4  (3) 6  (4) 8
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Net reactance $X=150-70=80\ \Omega$ and $Z=\sqrt{60^2+80^2}=100\ \Omega$, so $\cos\phi=\dfrac{R}{Z}=0.6=\dfrac{6}{10}$ and $\alpha=6$.
+

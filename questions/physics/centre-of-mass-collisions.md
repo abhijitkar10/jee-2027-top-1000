@@ -68,3 +68,35 @@ A particle of mass $2m$ collides elastically with a particle of mass $m$ initial
 
 **Solution.** When the projectile is heavier ($m_1=2m>m_2=m$) it cannot be scattered backwards, and the maximum deflection satisfies $\sin\theta_{max}=\dfrac{m_2}{m_1}=\dfrac12$, so $\theta_{max}=\dfrac\pi6$.
 
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+
+In a perfectly inelastic collision, two spheres made of the same material, of masses $15$ kg and $25$ kg, moving in opposite directions with speeds of $10$ m/s and $30$ m/s respectively, strike each other and stick together. The rise in temperature (in $^\circ$C), if all the heat produced during the collision is retained by these spheres, is: (specific heat of the sphere material $=31$ cal/kg $^\circ$C and $1$ cal $=4.2$ J)
+
+(1) 1.15  (2) 1.75  (3) 1.44  (4) 1.95
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Momentum: $15(10)-25(30)=40v\Rightarrow v=-15$ m/s. Kinetic energy lost $=\tfrac12(15)(10)^2+\tfrac12(25)(30)^2-\tfrac12(40)(15)^2=12000-4500=7500$ J $=1785.7$ cal. $\Delta T=\dfrac{1785.7}{40\times31}=1.44^\circ$C.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q2 · MCQ
+
+Given below are two statements:
+**Statement I:** For a mechanical system of many particles, the total kinetic energy is the sum of the kinetic energies of all the particles.
+**Statement II:** The total kinetic energy can be the sum of the kinetic energy of the centre of mass with respect to the origin and the kinetic energy of all the particles with respect to the centre of mass as the reference.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are false  (3) Statement I is false but Statement II is true  (4) Both Statement I and Statement II are true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I is true by definition, $K=\sum\tfrac12m_iv_i^2$. II is the König decomposition, $K=\tfrac12Mv_{cm}^2+\sum\tfrac12m_iv_i'^2$, also true.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q3 · MCQ
+
+A body of mass $14$ kg initially at rest explodes and breaks into three fragments of masses in the ratio $2:2:3$. The two pieces of equal masses fly off perpendicular to each other with a speed of $18$ m/s each. The velocity of the heavier fragment is ______ m/s.
+
+(1) 12  (2) $10\sqrt2$  (3) $24\sqrt2$  (4) $12\sqrt2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The masses are $4$, $4$ and $6$ kg. The two equal fragments have momenta $72$ kg m/s along perpendicular directions, with resultant $72\sqrt2$. Total momentum is zero, so $6v=72\sqrt2\Rightarrow v=12\sqrt2$ m/s.
+

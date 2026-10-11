@@ -163,3 +163,69 @@ A proton, an electron and an alpha particle have the same energies. Their de Bro
 
 **Solution.** $\lambda=\dfrac{h}{\sqrt{2mK}}\propto\dfrac1{\sqrt m}$ at equal energy. Masses: $m_e<m_p<m_\alpha$, so $\lambda_e>\lambda_p>\lambda_\alpha$, i.e. $\lambda_\alpha<\lambda_p<\lambda_e$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+
+A particle having electric charge $3\times10^{-19}$ C and mass $6\times10^{-27}$ kg is accelerated by applying an electric potential of $1.21$ V. The wavelength of the matter wave associated with the particle is $\alpha\times10^{-12}$ m. The value of $\alpha$ is ______. (Take Planck's constant $h=6.6\times10^{-34}$ J s)
+
+**Answer: 10** · key (compiled)
+
+**Solution.** $qV=\tfrac12mv^2\Rightarrow v=\sqrt{\dfrac{2qV}{m}}=\sqrt{\dfrac{2\times3\times10^{-19}\times1.21}{6\times10^{-27}}}=1.1\times10^4$ m/s. $\lambda=\dfrac{h}{mv}=\dfrac{6.6\times10^{-34}}{6\times10^{-27}\times1.1\times10^4}=10^{-11}\ \text{m}=10\times10^{-12}$ m, so $\alpha=10$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+The de Broglie wavelength of an oxygen molecule at $27^\circ$C is $x\times10^{-12}$ m. The value of $x$ is ______ (take $h=6.63\times10^{-34}$ J s, $k_B=1.38\times10^{-23}$ J/K, mass of an oxygen molecule $=5.31\times10^{-26}$ kg).
+
+(1) 24  (2) 26  (3) 30  (4) 20
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Using $v_{rms}=\sqrt{\dfrac{3kT}{m}}$: $\lambda=\dfrac{h}{mv}=\dfrac{h}{\sqrt{3mkT}}=\dfrac{6.63\times10^{-34}}{\sqrt{3\times5.31\times10^{-26}\times1.38\times10^{-23}\times300}}=\dfrac{6.63\times10^{-34}}{2.57\times10^{-23}}=25.8\times10^{-12}$ m, so $x\approx26$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+
+The number of photons of equal energy emitted per second by a $6$ mW laser source operating at $663$ nm is ______. (Given $h=6.63\times10^{-34}$ J s and $c=3\times10^8$ m/s)
+
+(1) $2\times10^{16}$  (2) $10\times10^{15}$  (3) $5\times10^{15}$  (4) $5\times10^{16}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Photon energy $E=\dfrac{hc}{\lambda}=\dfrac{6.63\times10^{-34}\times3\times10^8}{663\times10^{-9}}=3\times10^{-19}$ J. Photons per second $=\dfrac{6\times10^{-3}}{3\times10^{-19}}=2\times10^{16}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+
+When light of a given wavelength falls on a metallic surface, the stopping potential for photoelectrons is $3.2$ V. If a second light of twice the wavelength is used, the stopping potential drops to $0.7$ V. The wavelength of the first light is ______ m. ($h=6.63\times10^{-34}$ J s, $e=1.6\times10^{-19}$ C, $c=3\times10^8$ m/s)
+
+(1) $2.5\times10^{-7}$  (2) $2.2\times10^{-8}$  (3) $3.1\times10^{-7}$  (4) $2.9\times10^{-8}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\dfrac{hc}{\lambda}=\phi+3.2e$ and $\dfrac{hc}{2\lambda}=\phi+0.7e$. Subtracting: $\dfrac{hc}{2\lambda}=2.5e\Rightarrow\lambda=\dfrac{hc}{5e}=\dfrac{6.63\times10^{-34}\times3\times10^8}{5\times1.6\times10^{-19}}\approx2.5\times10^{-7}$ m.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+
+Light is incident on a metallic plate having work function $110\times10^{-20}$ J. If the produced photoelectrons have zero kinetic energy, the angular frequency of the incident light is ______ rad/s. ($h=6.63\times10^{-34}$ J s)
+
+(1) $1.04\times10^{13}$  (2) $1.04\times10^{16}$  (3) $1.66\times10^{16}$  (4) $1.66\times10^{15}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Zero kinetic energy means $h\nu=W$: $\nu=\dfrac{110\times10^{-20}}{6.63\times10^{-34}}=1.66\times10^{15}$ Hz. $\omega=2\pi\nu=1.04\times10^{16}$ rad/s.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+
+A light wave described by $E=60\left[\sin(3\times10^{15})t+\sin(12\times10^{15})t\right]$ (in SI units) falls on a metal surface of work function $2.8$ eV. The maximum kinetic energy of the ejected photoelectron is (approximately) ______ eV. ($h=6.6\times10^{-34}$ J s and $e=1.6\times10^{-19}$ C)
+
+(1) 7.8  (2) 6.0  (3) 5.1  (4) 3.8
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The wave contains two angular frequencies; the larger one, $\omega=12\times10^{15}$ rad/s, gives the maximum photon energy: $\hbar\omega=\dfrac{6.6\times10^{-34}\times12\times10^{15}}{2\pi}=1.26\times10^{-18}$ J $=7.9$ eV. $K_{max}=7.9-2.8=5.1$ eV.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · Numerical
+
+The ratio of the de Broglie wavelength of a deuteron with kinetic energy $E$ to that of an alpha particle with kinetic energy $2E$ is $n:1$. The value of $n$ is ______. (Assume mass of proton $=$ mass of neutron)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** $\lambda=\dfrac{h}{\sqrt{2mE_k}}$. Deuteron ($m=2m_p$, $E$): $\lambda_d=\dfrac{h}{\sqrt{4m_pE}}$. Alpha ($m=4m_p$, $2E$): $\lambda_\alpha=\dfrac{h}{\sqrt{16m_pE}}$. Ratio $\dfrac{\lambda_d}{\lambda_\alpha}=\sqrt{\dfrac{16}{4}}=2$, so $n=2$.
+

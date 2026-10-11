@@ -153,3 +153,45 @@ Statement II: The average kinetic energy of gas molecules is directly proportion
 
 **Solution.** $\lambda=\dfrac{1}{\sqrt2\,n\pi d^2}\propto d^{-2}$ (I true). Mean translational KE $=\tfrac32k_BT$ (II true).
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+The r.m.s. speed of oxygen molecules at $47^\circ$C is equal to that of hydrogen molecules kept at ______ $^\circ$C. (Mass of oxygen molecule / mass of hydrogen molecule $=32/2$)
+
+(1) -235  (2) -253  (3) -100  (4) -20
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $v_{rms}=\sqrt{\dfrac{3RT}{M}}$. Equal speeds need $\dfrac{T_{O_2}}{32}=\dfrac{T_{H_2}}{2}$, so $T_{H_2}=\dfrac{320}{16}=20$ K $=-253^\circ$C.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+
+The mean free path of a molecule of diameter $5\times10^{-10}$ m at a temperature of $41^\circ$C and pressure $1.38\times10^5$ Pa is ______ m. (Given $k_B=1.38\times10^{-23}$ J/K)
+
+(1) $10\sqrt2\times10^{-8}$  (2) $2\sqrt2\times10^{-8}$  (3) $2\sqrt2\times10^{-10}$  (4) $2\times10^{-8}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\lambda=\dfrac{k_BT}{\sqrt2\,\pi d^2P}=\dfrac{1.38\times10^{-23}\times314}{\sqrt2\,\pi\,(5\times10^{-10})^2\times1.38\times10^5}=2.83\times10^{-8}\ \text{m}=2\sqrt2\times10^{-8}$ m.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q4 · MCQ
+
+The volume of an ideal gas increases $8$ times and its temperature becomes $\left(\tfrac14\right)^{\text{th}}$ of the initial temperature during a reversible change. If there is no exchange of heat in this process ($\Delta Q=0$), identify the gas from the following options (assuming the gases are ideal):
+
+(1) $\text{O}_2$  (2) $\text{NH}_3$  (3) $\text{CO}_2$  (4) He
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For a reversible adiabatic change $TV^{\gamma-1}=\text{const}$: $T_iV_i^{\gamma-1}=\dfrac{T_i}{4}(8V_i)^{\gamma-1}\Rightarrow8^{\gamma-1}=4\Rightarrow3(\gamma-1)=2\Rightarrow\gamma=\dfrac53$, i.e. a monatomic gas: He.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q5 · MCQ
+
+A cylindrical tube $AB$ of length $l$, closed at both ends, contains $1$ mol of an ideal gas of molecular weight $M$. The tube is rotated in a horizontal plane with constant angular velocity $\omega$ about an axis perpendicular to $AB$ and passing through the end $A$, as shown in the figure. If $P_A$ and $P_B$ are the pressures at $A$ and $B$ respectively, then (take the temperature to be the same at all points in the tube):
+
+![Figure](../../figures/j26_phy_kinetic-theory-of-gases/q5-1.png)
+
+(1) $P_B=P_A$  (2) $P_B=P_A\exp\!\left(M\omega^2l^2/3RT\right)$  (3) $P_B=P_A\exp\!\left(M\omega^2l^2/RT\right)$  (4) $P_B=P_A\exp\!\left(M\omega^2l^2/2RT\right)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For a gas element of thickness $dx$ at distance $x$ from the axis, the pressure difference supplies the centripetal force: $dP=\rho\omega^2x\,dx$ with $\rho=\dfrac{PM}{RT}$. Then $\dfrac{dP}{P}=\dfrac{M\omega^2}{RT}x\,dx\Rightarrow\ln\dfrac{P_B}{P_A}=\dfrac{M\omega^2l^2}{2RT}$, so $P_B=P_A\,e^{M\omega^2l^2/2RT}$.
+

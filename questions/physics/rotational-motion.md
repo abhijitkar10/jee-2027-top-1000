@@ -142,3 +142,183 @@ A string is wrapped around the rim of a wheel of moment of inertia $0.40\ \text{
 
 **Solution.** Torque $\tau=Fr=40\times0.1=4\ \text{N m}$. $\alpha=\dfrac\tau I=\dfrac{4}{0.4}=10\ \text{rad/s}^2$. $\omega=\alpha t=10\times10=100$ rad/s.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+The pulley shown in the figure is made using a thin rim and two rods of length equal to the diameter of the rim. The rim and each rod have a mass $M$. Two blocks of masses $M$ and $m$ are attached to the two ends of a light string passing over the pulley, which is hinged to rotate freely in a vertical plane about its centre. The magnitude of the acceleration of the blocks is ______ (assume no slipping of the string on the pulley).
+
+![Figure](../../figures/j26_phy_rotational-motion/q1-1.png)
+
+(1) $\dfrac{(M-m)g}{\left(\frac{13}{6}\right)M+m}$  (2) $\dfrac{(M-m)g}{\left(\frac83\right)M+m}$  (3) $\dfrac{(M-m)g}{2M+m}$  (4) $\dfrac{(M-m)g}{M+m}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Moment of inertia of the pulley: rim $MR^2$ plus two rods (each of length $2R$) $2\times\dfrac{M(2R)^2}{12}=\dfrac{2MR^2}{3}$, so $I=\dfrac{5}{3}MR^2$. For the blocks and pulley, $(M-m)g=\left(M+m+\dfrac{I}{R^2}\right)a=\left(\dfrac83M+m\right)a$, so $a=\dfrac{(M-m)g}{\frac83M+m}$.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · MCQ
+
+Two cars $A$ and $B$, each of mass $10^3$ kg, are moving on parallel tracks separated by a distance of $10$ m, in the same direction with speeds $72$ km/h and $36$ km/h respectively. The magnitude of the angular momentum of car $A$ with respect to car $B$ is ______ J s.
+
+(1) $2\times10^5$  (2) $10^5$  (3) $3.6\times10^5$  (4) $3\times10^5$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Relative speed $=20-10=10$ m/s (in the same direction). Angular momentum about $B$ $=m\,v_{rel}\,d=10^3\times10\times10=10^5$ J s.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+
+Two small balls of masses $m$ and $2m$ are attached to the two ends of a rigid rod of length $d$ and negligible mass. If the angular momentum of this system about an axis ($A$) through its centre of mass and perpendicular to the rod is $L$, the angular velocity of the system about $A$ is:
+
+(1) $\dfrac{2L}{5md^2}$  (2) $\dfrac43\dfrac{L}{md^2}$  (3) $\dfrac32\dfrac{L}{md^2}$  (4) $\dfrac{2L}{md^2}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The centre of mass is at $\tfrac{2d}{3}$ from $m$ and $\tfrac d3$ from $2m$. $I_{cm}=m\left(\tfrac{2d}{3}\right)^2+2m\left(\tfrac d3\right)^2=\dfrac{4md^2}{9}+\dfrac{2md^2}{9}=\dfrac{2md^2}{3}$. So $\omega=\dfrac{L}{I}=\dfrac{3L}{2md^2}$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q4 · MCQ
+
+The moment of inertia of a square loop made of four uniform solid cylinders, each of radius $R$ and length $L$ ($R<L$), about an axis passing through the mid-points of opposite sides is: (take the mass of the entire loop as $M$)
+
+(1) $\dfrac34MR^2+\dfrac{7}{12}ML^2$  (2) $\dfrac38MR^2+\dfrac16ML^2$  (3) $\dfrac34MR^2+\dfrac16ML^2$  (4) $\dfrac38MR^2+\dfrac{7}{12}ML^2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Each cylinder has mass $M/4$. The two cylinders perpendicular to the axis (axis through their midpoints): each $\tfrac M4\left(\tfrac{R^2}{4}+\tfrac{L^2}{12}\right)$. The two parallel to the axis at distance $\tfrac L2$: each $\tfrac M4\left(\tfrac{R^2}{2}+\tfrac{L^2}{4}\right)$. Total $=\tfrac M2\left(\tfrac{R^2}{4}+\tfrac{L^2}{12}\right)+\tfrac M2\left(\tfrac{R^2}{2}+\tfrac{L^2}{4}\right)=\tfrac38MR^2+\tfrac16ML^2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q5 · MCQ
+
+When the position vector $\vec r=x\hat i+y\hat j+z\hat k$ changes sign as $\vec r\to-\vec r$, which one of the following vectors will not flip under the sign change?
+
+(1) Angular momentum  (2) Velocity  (3) Acceleration  (4) Linear momentum
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Velocity $\vec v=\dfrac{d\vec r}{dt}$, acceleration and linear momentum $m\vec v$ are polar vectors and reverse sign. Angular momentum $\vec L=\vec r\times\vec p$ is an axial vector: $(-\vec r)\times(-\vec p)=\vec r\times\vec p$, so it does not flip.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q6 · Numerical
+
+A flywheel of mass $3$ kg and radius $5$ m is free to rotate about a horizontal axis. A string of negligible mass is wound around the wheel, and its loose end is connected to a $3$ kg mass. The mass is kept at rest initially and then released. The kinetic energy of the wheel when the mass descends by $3$ m is ______ J. ($g=10\ \text{m/s}^2$)
+
+**Answer: 30** · key (compiled)
+
+**Solution.** Treat the wheel as a disc, $I=\tfrac12MR^2$, with $\omega=v/R$. Energy conservation: $mgh=\tfrac12mv^2+\tfrac12I\omega^2=\tfrac12mv^2+\tfrac14Mv^2$, i.e. $90=\tfrac32v^2+\tfrac34v^2=\tfrac94v^2\Rightarrow v^2=40$. Kinetic energy of the wheel $=\tfrac14Mv^2=\tfrac14\times3\times40=30$ J.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q7 · MCQ
+
+A thin uniform rod $X$ of mass $M$ and length $L$ is pivoted at a height $\left(\dfrac L3\right)$ as shown in the figure. The rod is allowed to fall from a vertical position and lie horizontally on the table. The angular velocity of the rod when it hits the table top is ______ ($g$ = gravitational acceleration).
+
+![Figure](../../figures/j26_phy_rotational-motion/q7-1.png)
+
+(1) $\dfrac{3}{\sqrt2}\sqrt{\dfrac gL}$  (2) $\dfrac{1}{\sqrt2}\sqrt{\dfrac gL}$  (3) $\sqrt{\dfrac32\dfrac gL}$  (4) $\sqrt{\dfrac{3g}{L}}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The pivot is $\tfrac L3$ from the lower end, so the centre of mass is $\tfrac L2-\tfrac L3=\tfrac L6$ from the pivot and falls through $\tfrac L6$. $I_{pivot}=\dfrac{ML^2}{12}+M\left(\dfrac L6\right)^2=\dfrac{ML^2}{9}$. Energy: $Mg\dfrac L6=\tfrac12\dfrac{ML^2}{9}\omega^2\Rightarrow\omega^2=\dfrac{3g}{L}$, so $\omega=\sqrt{\dfrac{3g}{L}}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q8 · Numerical
+
+A uniform solid cylinder of length $L$ and radius $R$ has moment of inertia $I_1$ about its axis. A small coaxial cylinder of length $L/2$ and radius $R/3$ carved out of this cylinder has moment of inertia $I_2$ about its axis. The ratio $I_1/I_2$ is ______.
+
+**Answer: 162** · key (compiled)
+
+**Solution.** With density $\rho$: $I_1=\tfrac12(\rho\pi R^2L)R^2=\tfrac12\rho\pi R^4L$. The carved cylinder has mass $\rho\pi\dfrac{R^2}{9}\dfrac L2$ and $I_2=\tfrac12\left(\rho\pi\dfrac{R^2L}{18}\right)\dfrac{R^2}{9}=\dfrac{\rho\pi R^4L}{324}$. Hence $\dfrac{I_1}{I_2}=\dfrac{1/2}{1/324}=162$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q9 · MCQ
+
+A uniform bar of length $12$ cm and mass $20m$ lies on a smooth horizontal table. Two point masses $m$ and $2m$ are moving in opposite directions with the same speed $v$ in the same plane as the bar, as shown in the figure. These masses strike the bar simultaneously and get stuck to it. After the collision the entire system rotates with angular frequency $\omega$. The ratio of $v$ and $\omega$ (in cm) is:
+
+![Figure](../../figures/j26_phy_rotational-motion/q9-1.png)
+
+(1) 66  (2) 33  (3) 32  (4) $2\sqrt{88}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Take the bar's centre as origin: $2m$ strikes $2$ cm on one side and $m$ strikes $4$ cm on the other, moving in opposite directions, so the system's centre of mass stays at the centre ($2m\cdot2=m\cdot4$). Angular momentum about it: $L=m v(4)+2m v(2)=8mv$ (cm units). $I=\dfrac{20m(12)^2}{12}+m(4)^2+2m(2)^2=240m+16m+8m=264m$. $\omega=\dfrac{L}{I}=\dfrac{8mv}{264m}=\dfrac{v}{33}$, so $\dfrac v\omega=33$ cm.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q10 · Numerical
+
+Two masses $m$ and $2m$ are connected by a light string going over a pulley (disc) of mass $30m$ and radius $r=0.1$ m. The pulley is mounted in a vertical plane and is free to rotate about its axis. The $2m$ mass is released from rest and its speed when it has descended through a height of $3.6$ m is ______ m/s. (Assume the string does not slip and $g=10\ \text{m/s}^2$)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** Loss of PE $=(2m-m)gh=mgh$. Gain of KE $=\tfrac12(3m)v^2+\tfrac12\left(\tfrac12\cdot30m\,r^2\right)\dfrac{v^2}{r^2}=\tfrac32mv^2+\tfrac{15}{2}mv^2=9mv^2$. So $v^2=\dfrac{gh}{9}=\dfrac{10\times3.6}{9}=4$ and $v=2$ m/s.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q11 · MCQ
+
+A solid sphere of mass $5$ kg and radius $10$ cm is kept in contact with another solid sphere of mass $10$ kg and radius $20$ cm. The moment of inertia of this pair of spheres about the tangent passing through the point of contact is ______ $\text{kg m}^2$.
+
+(1) 0.72  (2) 0.36  (3) 0.18  (4) 0.63
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** About a tangent each sphere has $I=\tfrac25mr^2+mr^2=\tfrac75mr^2$. Sphere 1: $\tfrac75\times5\times0.1^2=0.07$. Sphere 2: $\tfrac75\times10\times0.2^2=0.56$. Total $=0.63\ \text{kg m}^2$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q12 · Numerical
+
+A circular disc has radius $R_1$ and thickness $T_1$. Another circular disc of the same material has radius $R_2$ and thickness $T_2$. If the moments of inertia of both discs are the same and $\dfrac{R_1}{R_2}=2$, then $\dfrac{T_1}{T_2}=\dfrac1\alpha$. The value of $\alpha$ is ______.
+
+**Answer: 16** · key (compiled)
+
+**Solution.** For a disc of density $\rho$: $I=\tfrac12(\rho\pi R^2T)R^2=\tfrac12\rho\pi R^4T$. Equal $I$ gives $R_1^4T_1=R_2^4T_2$, so $\dfrac{T_1}{T_2}=\left(\dfrac{R_2}{R_1}\right)^4=\dfrac1{16}$ and $\alpha=16$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q13 · Numerical
+
+A uniform circular disc of mass $M$ kg and radius $r$ m is shown in the figure; the shaded regions (two circular holes of radius $r/4$, centres at $\tfrac34r$ from the centre) are cut out from the disc. The moment of inertia of the remainder about the axis $A$ of the disc (through the centre, perpendicular to its plane) is $\dfrac{x}{256}Mr^2$. The value of $x$ is ______.
+
+![Figure](../../figures/j26_phy_rotational-motion/q13-1.png)
+
+**Answer: 109** · key (compiled)
+
+**Solution.** Full disc: $\tfrac12Mr^2=\tfrac{128}{256}Mr^2$. Each hole has mass $\dfrac{M}{16}$ (area ratio $\tfrac1{16}$) and about axis $A$: $\tfrac12m\left(\tfrac r4\right)^2+m\left(\tfrac{3r}4\right)^2=\dfrac{M}{16}\left(\dfrac{r^2}{32}+\dfrac{9r^2}{16}\right)=\dfrac{19}{512}Mr^2$. Two holes remove $\dfrac{19}{256}Mr^2$. Remainder $=\dfrac{128-19}{256}Mr^2=\dfrac{109}{256}Mr^2$, so $x=109$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q14 · MCQ
+
+A uniform rod of mass $m$ and length $l$ is suspended by two identical inextensible light strings as shown in the figure. The tension in one string immediately after the other string is cut is ______ ($g$ = acceleration due to gravity).
+
+![Figure](../../figures/j26_phy_rotational-motion/q14-1.png)
+
+(1) $mg/4$  (2) $mg/2$  (3) $mg/3$  (4) $mg$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** After the string at $B$ is cut the rod rotates about $A$: $\tau=mg\dfrac l2$, $I_A=\dfrac{ml^2}{3}$, so $\alpha=\dfrac{3g}{2l}$. The centre of mass accelerates down with $a_{cm}=\alpha\dfrac l2=\dfrac{3g}{4}$. $mg-T=ma_{cm}\Rightarrow T=\dfrac{mg}{4}$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q15 · Numerical
+
+Two identical thin rods of mass $M$ kg and length $L$ m are connected as shown in the figure (a vertical rod from $P$ to the middle of a horizontal rod). The moment of inertia of the combined rod system about an axis passing through the point $P$ and perpendicular to the plane of the rods is $\dfrac{x}{12}ML^2\ \text{kg m}^2$. The value of $x$ is ______.
+
+![Figure](../../figures/j26_phy_rotational-motion/q15-1.png)
+
+**Answer: 17** · key (compiled)
+
+**Solution.** Vertical rod about its end $P$: $\dfrac{ML^2}{3}$. Horizontal rod (its centre is $L$ from $P$): $\dfrac{ML^2}{12}+ML^2=\dfrac{13ML^2}{12}$. Total $=\dfrac{4+13}{12}ML^2=\dfrac{17}{12}ML^2$, so $x=17$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q16 · MCQ
+
+Two circular discs of radius $10$ cm each are joined at their centres by a rod of length $30$ cm and mass $600$ g, as shown in the figure. If the mass of each disc is $600$ g and the torque applied between the two discs is $43\times10^5$ dyne cm, the angular acceleration of the discs about the given axis $AB$ is ______ $\text{rad/s}^2$.
+
+![Figure](../../figures/j26_phy_rotational-motion/q16-1.png)
+
+(1) 11  (2) 22  (3) 100  (4) 27
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Axis $AB$ is perpendicular to the rod, $10$ cm from the left disc's centre and $20$ cm from the right disc's, and lies in the planes of the discs' diameters. Rod: $\dfrac{600(30)^2}{12}+600(5)^2=60000$ g cm$^2$. Left disc: $\tfrac14(600)(10)^2+600(10)^2=75000$. Right disc: $\tfrac14(600)(10)^2+600(20)^2=255000$. Total $I=390000=39\times10^4$ g cm$^2$. $\alpha=\dfrac{\tau}{I}=\dfrac{43\times10^5}{39\times10^4}\approx11\ \text{rad/s}^2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q17 · Numerical
+
+A solid sphere of radius $10$ cm is rotating about an axis at a distance of $15$ cm from its centre. The radius of gyration about this axis is $\sqrt n$ cm. The value of $n$ is ______.
+
+**Answer: 265** · key (compiled)
+
+**Solution.** $k^2=k_{cm}^2+d^2$ with $k_{cm}^2=\dfrac25R^2=40$ cm$^2$ and $d=15$ cm: $k^2=40+225=265$, so $n=265$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q18 · MCQ
+
+Two masses of $400$ g and $350$ g are suspended from the ends of a light string passing over a heavy pulley of radius $2$ cm. When released from rest the heavier mass is observed to fall $81$ cm in $9$ s. The rotational inertia of the pulley is ______ $\text{kg m}^2$. ($g=9.8\ \text{m/s}^2$)
+
+(1) $4.75\times10^{-3}$  (2) $9.5\times10^{-3}$  (3) $1.86\times10^{-2}$  (4) $8.3\times10^{-3}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $a=\dfrac{2s}{t^2}=\dfrac{2\times0.81}{81}=0.02\ \text{m/s}^2$. For the masses and pulley: $(m_1-m_2)g-(m_1+m_2)a=\dfrac{Ia}{R^2}$, i.e. $0.05\times9.8-0.75\times0.02=50\,I\Rightarrow0.475=50I\Rightarrow I=9.5\times10^{-3}\ \text{kg m}^2$.
+

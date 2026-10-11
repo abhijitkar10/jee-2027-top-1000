@@ -133,3 +133,187 @@ The critical angle of incidence for a pair of optical media is $45^\circ$. The r
 
 **Solution.** Light goes from the denser (first) medium to the rarer (second): $\sin C=\dfrac{n_2}{n_1}=\sin45^\circ=\dfrac1{\sqrt2}$, so $n_1:n_2=\sqrt2:1$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+
+As shown in the diagram, when the incident ray is parallel to the base of the prism, the emergent ray grazes along the second surface. If the refractive index of the material of the prism is $\sqrt2$, the angle $\theta$ of the prism is:
+
+![Figure](../../figures/j26_phy_ray-optics/q1-1.png)
+
+(1) $60^\circ$  (2) $45^\circ$  (3) $90^\circ$  (4) $75^\circ$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The face meeting the base at $45^\circ$ makes $45^\circ$ with the horizontal ray, so the angle of incidence there is $45^\circ$: $\sin45^\circ=\sqrt2\sin r_1\Rightarrow r_1=30^\circ$. At the second face the ray grazes, so $e=90^\circ$ and $\sqrt2\sin r_2=1\Rightarrow r_2=45^\circ$. The apex angle is $A=r_1+r_2=75^\circ$, so $\theta=180^\circ-75^\circ-45^\circ=60^\circ$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+
+A thin prism of angle $5^\circ$ and refractive index $1.72$ is combined with another prism of refractive index $1.9$ to produce dispersion without deviation. The angle of the second prism is:
+
+(1) $6^\circ$  (2) $4.5^\circ$  (3) $4^\circ$  (4) $5^\circ$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Zero net deviation requires $(\mu_1-1)A_1=(\mu_2-1)A_2$ (prisms inverted), so $0.72\times5=0.9\,A_2\Rightarrow A_2=4^\circ$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+
+Light travels from medium $A$ to medium $B$ separated by a plane interface. If the light undergoes total internal reflection during its travel from $A$ to $B$, and the speeds of light in media $A$ and $B$ are $2.4\times10^8$ m/s and $2.7\times10^8$ m/s respectively, the critical angle is:
+
+(1) $\cos^{-1}\!\left(\dfrac89\right)$  (2) $\sin^{-1}\!\left(\dfrac98\right)$  (3) $\cot^{-1}\!\left(\dfrac{3}{\sqrt{13}}\right)$  (4) $\tan^{-1}\!\left(\dfrac{8}{\sqrt{17}}\right)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\sin\theta_c=\dfrac{n_B}{n_A}=\dfrac{v_A}{v_B}=\dfrac{2.4}{2.7}=\dfrac89$. With opposite $8$, hypotenuse $9$, adjacent $\sqrt{81-64}=\sqrt{17}$: $\tan\theta_c=\dfrac{8}{\sqrt{17}}$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
+
+A biconvex lens is formed by joining two thin plano-convex lenses as shown in the figure. The refractive indices and radii of the curved surfaces are given in the figure. When an object is placed on the left side at a distance of $30$ cm from the biconvex lens, the magnification of the image will be:
+
+![Figure](../../figures/j26_phy_ray-optics/q4-1.png)
+
+(1) $-2$  (2) $+2.5$  (3) $-2.5$  (4) $+2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Left half: $\dfrac1{f_1}=(1.5-1)\dfrac1{15}\Rightarrow f_1=30$ cm. Right half: $\dfrac1{f_2}=(1.2-1)\dfrac1{12}\Rightarrow f_2=60$ cm. Combined: $\dfrac1F=\dfrac1{30}+\dfrac1{60}=\dfrac1{20}$, so $F=20$ cm. For $u=-30$ cm: $\dfrac1v=\dfrac1{20}-\dfrac1{30}=\dfrac1{60}\Rightarrow v=60$ cm, so $m=\dfrac vu=-2$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · set Q5 · MCQ
+
+For a transparent prism, if the angle of minimum deviation is equal to its refracting angle, the refractive index $n$ of the prism satisfies:
+
+(1) $1<n<2$  (2) $\sqrt2<n<2\sqrt2$  (3) $\sqrt2<n<2$  (4) $n\geqslant2$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** With $\delta_m=A$: $n=\dfrac{\sin\frac{A+\delta_m}{2}}{\sin\frac A2}=\dfrac{\sin A}{\sin\frac A2}=2\cos\dfrac A2$. For a prism with $0<A<90^\circ$, $\cos\dfrac A2$ lies between $\dfrac1{\sqrt2}$ and $1$, so $\sqrt2<n<2$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q6 · MCQ
+
+The distance between an object and its three-times magnified real image is $40$ cm. The focal length of the mirror used is ______ cm.
+
+(1) $-15/2$  (2) $-15$  (3) $-10$  (4) $-20$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A real magnified image from a concave mirror lies on the same side as the object and farther away: $|v|=3|u|$ and $|v|-|u|=40\Rightarrow|u|=20$ cm, $|v|=60$ cm. $\dfrac1f=\dfrac1u+\dfrac1v=-\dfrac1{20}-\dfrac1{60}=-\dfrac{1}{15}$, so $f=-15$ cm.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · set Q7 · MCQ
+
+Five persons $P_1,P_2,P_3,P_4$ and $P_5$ recorded the object distance $u$ and image distance $v$ (in cm) using the same convex lens of power $+5$ D as $(25,96)$, $(30,62)$, $(35,37)$, $(45,35)$ and $(50,32)$ respectively. Identify the correct statement.
+
+(1) Readings recorded by $P_3$ and $P_2$ are incorrect  (2) Readings recorded by $P_4$ and $P_5$ are incorrect  (3) Readings recorded by all persons are correct  (4) Readings recorded by $P_3$ are incorrect
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $f=\dfrac{100}{5}=20$ cm so $\dfrac1u+\dfrac1v$ should be $0.05\ \text{cm}^{-1}$. $P_1:0.0504$, $P_2:0.0494$, $P_3:0.0556$, $P_4:0.0508$, $P_5:0.0512$. Only $P_3$'s readings deviate appreciably.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q8 · MCQ
+
+In the parallax method for the determination of the focal length of a concave mirror, the object should always be placed:
+
+(1) between the focus $F$ and the centre of curvature $C$ of the mirror ONLY  (2) between the pole $P$ and the focus $F$ of the concave mirror ONLY  (3) beyond the centre of curvature $C$ of the mirror ONLY  (4) at any point beyond the focus $F$ of the mirror
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The no-parallax method needs a *real* image that can be aligned with a pin. A concave mirror forms a real image for any object beyond $F$ ($u>f$); between $P$ and $F$ the image is virtual.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · set Q9 · MCQ
+
+The wavelength of light passing through water is $540$ nm (refractive index $\tfrac43$). The wavelength of the same light passing through a transparent medium of refractive index $\tfrac32$ is ______ nm.
+
+(1) 540  (2) 480  (3) 840  (4) 380
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Frequency is unchanged, so $\lambda\propto\dfrac1n$. Vacuum wavelength $=540\times\dfrac43=720$ nm; in the new medium $\lambda=\dfrac{720}{3/2}=480$ nm.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q10 · MCQ
+
+Consider an equilateral prism of refractive index $\sqrt2$. A ray of light is incident on one surface at a certain angle $i$. If the emergent ray grazes along the other surface, the angle of refraction at the incident surface is close to ______.
+
+(1) $20^\circ$  (2) $15^\circ$  (3) $40^\circ$  (4) $30^\circ$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Grazing emergence means $e=90^\circ$: $\sqrt2\sin r_2=1\Rightarrow r_2=45^\circ$. With $r_1+r_2=A=60^\circ$: $r_1=15^\circ$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · set Q12 · Numerical
+
+A parallel beam of light travelling in air (refractive index $1.0$) is incident on a convex spherical glass surface of radius of curvature $50$ cm. The refractive index of the glass is $1.5$. The rays converge to a point at a distance $x$ cm from the centre of curvature of the spherical surface. The value of $x$ is ______ cm.
+
+**Answer: 100** · key (compiled)
+
+**Solution.** For refraction at a single spherical surface $\dfrac{\mu_2}{v}-\dfrac{\mu_1}{u}=\dfrac{\mu_2-\mu_1}{R}$ with $u=-\infty$: $\dfrac{1.5}{v}=\dfrac{0.5}{50}\Rightarrow v=150$ cm from the pole. The distance from the centre of curvature is $|v-R|=150-50=100$ cm.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q13 · MCQ
+
+A prism of angle $75^\circ$ and refractive index $\sqrt3$ is coated with a thin film of refractive index $1.5$ only at the back (exit) surface. To have total internal reflection at the back exit surface the incident angle must be ($\sin15^\circ=0.25$ and $\sin25^\circ=0.43$):
+
+(1) $15^\circ$  (2) $>25^\circ$  (3) between $15^\circ$ and $20^\circ$  (4) Both (1) and (3)
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** TIR at the prism–film interface needs $\sqrt3\sin r_2\ge1.5\Rightarrow\sin r_2\ge0.866\Rightarrow r_2\ge60^\circ$, so $r_1=75^\circ-r_2\le15^\circ$. Then $\sin i=\sqrt3\sin r_1\le1.73\times0.25=0.43$, i.e. $i\le25^\circ$. Both $15^\circ$ and a value between $15^\circ$ and $20^\circ$ satisfy this.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · set Q14 · Numerical
+
+The sizes of the images of an object formed by a thin lens are equal when the object is placed at two different positions, $8$ cm and $24$ cm from the lens. The focal length of the lens is ______ cm.
+
+**Answer: 16** · key (compiled)
+
+**Solution.** $m=\dfrac{f}{f+u}$. Equal magnitudes with one real and one virtual image: $\dfrac{f}{f-8}=-\dfrac{f}{f-24}\Rightarrow f-8=24-f\Rightarrow f=16$ cm.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q15 · Numerical
+
+A collimated beam of light of diameter $2$ mm is propagating along the $x$-axis. The beam is to be expanded into a collimated beam of diameter $14$ mm using a system of two convex lenses. If the first lens has a focal length of $40$ mm, the focal length of the second lens is ______ mm.
+
+**Answer: 280** · key (compiled)
+
+**Solution.** For a beam expander (two convex lenses with common focus), $\dfrac{d_2}{d_1}=\dfrac{f_2}{f_1}\Rightarrow\dfrac{14}{2}=\dfrac{f_2}{40}\Rightarrow f_2=280$ mm.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · set Q16 · Numerical
+
+In a microscope the objective has focal length $f_o=2$ cm and the eye-piece has focal length $f_e=4$ cm. The tube length is $32$ cm. The magnification produced by this microscope for normal adjustment is ______.
+
+**Answer: 100** · key (compiled)
+
+**Solution.** $M=\dfrac{L}{f_o}\cdot\dfrac{D}{f_e}=\dfrac{32}{2}\times\dfrac{25}{4}=100$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q17 · MCQ
+
+The magnitudes of power of a biconvex lens (refractive index $1.5$) and of a plano-concave lens (refractive index $1.7$) are the same. If the curvature of the plano-concave lens exactly matches that of the back surface of the biconvex lens, the ratio of the radii of curvature of the front and back surfaces of the biconvex lens is ______.
+
+(1) 5 : 12  (2) 12 : 5  (3) 5 : 2  (4) 2 : 5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Biconvex: $P_1=0.5\left(\dfrac1{R_1}+\dfrac1{R_2}\right)$. Plano-concave: $|P_2|=\dfrac{0.7}{R_2}$. Equating: $\dfrac{0.5}{R_1}+\dfrac{0.5}{R_2}=\dfrac{0.7}{R_2}\Rightarrow\dfrac{0.5}{R_1}=\dfrac{0.2}{R_2}\Rightarrow\dfrac{R_1}{R_2}=\dfrac52$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · set Q18 · Numerical
+
+A convex lens of refractive index $1.5$ and focal length $f=18$ cm is immersed in water (refractive index $\tfrac43$). The difference between the focal lengths of the lens in water and in air is $\alpha\times f$. The value of $\alpha$ is ______.
+
+**Answer: 3** · key (compiled)
+
+**Solution.** In air $\dfrac1{f}=0.5\,k$ with $k=\dfrac1{R_1}-\dfrac1{R_2}$. In water $\dfrac1{f_w}=\left(\dfrac{1.5}{4/3}-1\right)k=\dfrac18k$. So $\dfrac{f_w}{f}=\dfrac{0.5}{1/8}=4\Rightarrow f_w=72$ cm. Difference $=72-18=54=3\times18$, so $\alpha=3$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q19 · MCQ
+
+The exit surface of a prism of refractive index $n$ is coated with a material of refractive index $\dfrac n2$. When this prism is set for minimum angle of deviation, it exactly meets the condition of critical angle. The prism angle is ______.
+
+(1) $30^\circ$  (2) $15^\circ$  (3) $45^\circ$  (4) $60^\circ$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** At the prism–coating interface $\sin\theta_c=\dfrac{n/2}{n}=\dfrac12\Rightarrow\theta_c=30^\circ$. At minimum deviation $r_1=r_2=\dfrac A2$, and $r_2=\theta_c$, so $A=60^\circ$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · set Q20 · MCQ
+
+In a microscope of tube length $10$ cm, two convex lenses of focal lengths $2$ cm and $5$ cm are arranged. The total magnification for normal adjustment is $(5)^k$. The value of $k$ is ______.
+
+(1) 3.5  (2) 2  (3) 4  (4) 5
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $M=\dfrac{L}{f_o}\cdot\dfrac{D}{f_e}=\dfrac{10}{2}\times\dfrac{25}{5}=5\times5=25=5^2$, so $k=2$.
+

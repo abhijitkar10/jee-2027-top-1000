@@ -248,3 +248,123 @@ A person in an elevator weighs an object of mass $50$ kg. The height of the elev
 
 **Solution.** $a=\ddot y=-8\left(\dfrac{2\pi}T\right)^2\sin\dfrac{2\pi t}T$ with $\dfrac{2\pi}{T}=\dfrac1{20}$, so the acceleration amplitude is $\dfrac8{400}=0.02\ \text{m s}^{-2}$. Observed weight $=m(g+a)$ varies between $m(g-0.02)$ and $m(g+0.02)$: maximum variation $=2\times50\times0.02=2$ N.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Fluids set Q1 · MCQ
+
+A spherical body of radius $r$ and density $\sigma$ falls freely through a viscous liquid of density $\rho$ and viscosity $\eta$ and attains a terminal velocity $v_0$. The estimated maximum error in the quantity $\eta$ is: (ignore errors associated with $\sigma$, $\rho$ and $g$)
+
+(1) $\dfrac{2\Delta r}{r}+\dfrac{\Delta v_0}{v_0}$  (2) $\dfrac{2\Delta r}{r}-\dfrac{\Delta v_0}{v_0}$  (3) $2\left[\dfrac{\Delta r}{r}-\dfrac{\Delta v_0}{v_0}\right]$  (4) $2\left[\dfrac{\Delta r}{r}+\dfrac{\Delta v_0}{v_0}\right]$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Stokes' law gives $v_0=\dfrac{2r^2(\sigma-\rho)g}{9\eta}$, so $\eta=\dfrac{2r^2(\sigma-\rho)g}{9v_0}\propto\dfrac{r^2}{v_0}$. The maximum fractional error is $\dfrac{\Delta\eta}{\eta}=\dfrac{2\Delta r}{r}+\dfrac{\Delta v_0}{v_0}$.
+
+### § — JEE Main 2026 · 21 Jan Shift 2 · Fluids set Q3 · Numerical
+
+The terminal velocity of a metallic ball of radius $6$ mm in a viscous fluid is $20$ cm/s. The terminal velocity of another ball of the same material and radius $3$ mm in the same fluid will be ______ cm/s.
+
+**Answer: 5** · key (compiled)
+
+**Solution.** $v_t\propto r^2$, so $v_2=20\times\left(\dfrac36\right)^2=5$ cm/s.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Fluids set Q4 · MCQ
+
+A cubical block of density $\rho_b=600\ \text{kg/m}^3$ floats in a liquid of density $\rho_e=900\ \text{kg/m}^3$. If the height of the block is $H=8.0$ cm, the height of the submerged part is ______ cm.
+
+(1) 6.3  (2) 4.3  (3) 5.3  (4) 7.3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Floating: $\rho_e\,h_s=\rho_bH\Rightarrow h_s=\dfrac{600}{900}\times8.0=5.33\approx5.3$ cm.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Fluids set Q5 · Numerical
+
+A soap bubble of surface tension $0.04$ N/m is blown to a diameter of $7$ cm. If $(15000-x)\ \mu$J of work is done in blowing it further to make its diameter $14$ cm, the value of $x$ is ______. ($\pi=22/7$)
+
+**Answer: 11304** · key (compiled)
+
+**Solution.** A soap bubble has two surfaces. $\Delta A=2\times4\pi\left(r_f^2-r_i^2\right)=8\pi(0.07^2-0.035^2)=8\pi\times0.003675$ m$^2$. $W=\sigma\,\Delta A=0.04\times8\times\dfrac{22}{7}\times0.003675=3.696\times10^{-3}$ J $=3696\ \mu$J. So $15000-x=3696\Rightarrow x=11304$.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Fluids set Q6 · MCQ
+
+When a part of a straight capillary tube is placed vertically in a liquid, the liquid rises up to a certain height $h$. If the inner radius of the capillary tube, the density of the liquid and the surface tension of the liquid each decrease by $1\%$, the height of the liquid in the tube will change by ______ %.
+
+(1) +1  (2) -3  (3) -1  (4) +3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $h=\dfrac{2T\cos\theta}{\rho gr}$. With $T,\rho,r$ all multiplied by $0.99$: $h'=h\cdot\dfrac{0.99}{0.99\times0.99}=\dfrac{h}{0.99}\approx1.0101\,h$, a change of about $+1\%$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Fluids set Q7 · MCQ
+
+Given below are two statements:
+**Statement I:** The pressure of a fluid is exerted only on a solid surface in contact, as fluid pressure does not exist everywhere in a still fluid.
+**Statement II:** The excess potential energy of the molecules on the surface of a liquid, compared to the interior, results in surface tension.
+
+(1) Statement I is false but Statement II is true  (2) Statement I is true but Statement II is false  (3) Both Statement I and Statement II are false  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** I is false: in a fluid at rest pressure exists at every point and acts in all directions (Pascal's law). II is true: surface molecules have extra potential energy compared with interior molecules, which is the origin of surface tension.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Fluids set Q8 · MCQ
+
+A small metallic sphere of diameter $2$ mm and density $10.5\ \text{g/cm}^3$ is dropped in glycerine of viscosity $10$ poise and density $1.5\ \text{g/cm}^3$. The terminal velocity attained by the sphere is ______ cm/s. ($\pi=\tfrac{22}{7}$ and $g=10\ \text{m/s}^2$)
+
+(1) 3.0  (2) 1.0  (3) 2.0  (4) 1.5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $v_t=\dfrac{2r^2g(\rho_s-\rho_f)}{9\eta}$ with $r=0.1$ cm, $g=1000$ cm/s$^2$, $\rho_s-\rho_f=9$ g/cm$^3$, $\eta=10$ g cm$^{-1}$s$^{-1}$: $v_t=\dfrac{2\times0.01\times1000\times9}{90}=2.0$ cm/s.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Fluids set Q9 · MCQ
+
+An air bubble of volume $2.9\ \text{cm}^3$ rises from the bottom of a swimming pool $5$ m deep. At the bottom of the pool the water temperature is $17^\circ$C. The volume of the bubble when it reaches the surface, where the water temperature is $27^\circ$C, is ______ cm$^3$. ($g=10\ \text{m/s}^2$, density of water $=10^3\ \text{kg/m}^3$ and $1$ atm pressure is $10^5$ Pa)
+
+(1) 4.5  (2) 2.0  (3) 4.2  (4) 3.0
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $P_1=10^5+10^3\times10\times5=1.5\times10^5$ Pa, $T_1=290$ K; $P_2=10^5$ Pa, $T_2=300$ K. $\dfrac{P_1V_1}{T_1}=\dfrac{P_2V_2}{T_2}\Rightarrow V_2=2.9\times1.5\times\dfrac{300}{290}=4.5\ \text{cm}^3$.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Fluids set Q10 · MCQ
+
+Water flows through a horizontal tube as shown in the figure. The difference in height between the water columns in the vertical tubes is $5$ cm, and the areas of cross-section at $A$ and $B$ are $6\ \text{cm}^2$ and $3\ \text{cm}^2$ respectively. The rate of flow will be ______ $\text{cm}^3/\text{s}$. (take $g=10\ \text{m/s}^2$)
+
+![Figure](../../figures/j26_phy_mechanical-properties-of-fluids/q10-1.png)
+
+(1) $\dfrac{200}{\sqrt3}$  (2) $200\sqrt6$  (3) $100\sqrt3$  (4) $200\sqrt3$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Continuity: $v_B=2v_A$. Bernoulli: $P_A-P_B=\rho g h=\tfrac12\rho(v_B^2-v_A^2)=\tfrac32\rho v_A^2$, so $v_A=\sqrt{\dfrac{2gh}{3}}=\sqrt{\dfrac{2\times1000\times5}{3}}=\dfrac{100}{\sqrt3}$ cm/s. Rate of flow $Q=A_Av_A=6\times\dfrac{100}{\sqrt3}=200\sqrt3\ \text{cm}^3/\text{s}$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Fluids set Q11 · Numerical
+
+Sixty-four rain drops of radius $1$ mm each, falling down with a terminal velocity of $10$ cm/s, coalesce to form a bigger drop. The terminal velocity of the bigger drop is ______ cm/s.
+
+**Answer: 160** · key (compiled)
+
+**Solution.** Volume is conserved: $R=(64)^{1/3}r=4$ mm. $v_t\propto r^2$, so $v=10\times4^2=160$ cm/s.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Solids set Q1 · MCQ
+
+The strain–stress plot for materials $A$, $B$, $C$ and $D$ is shown in the figure. Which material has the largest Young's modulus?
+
+![Figure](../../figures/j26_phy_mechanical-properties-of-solids/q1-1.png)
+
+(1) $D$  (2) $B$  (3) $C$  (4) $A$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Young's modulus $Y=\dfrac{\text{stress}}{\text{strain}}=\dfrac{1}{\text{slope}}$ of a strain–stress plot. The largest $Y$ belongs to the line with the smallest slope, which is $C$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Solids set Q2 · MCQ
+
+Two wires $A$ and $B$ made of different materials, of lengths $6.0$ cm and $5.4$ cm and areas of cross-section $3.0\times10^{-5}\ \text{m}^2$ and $4.5\times10^{-5}\ \text{m}^2$ respectively, are stretched by the same magnitude under a given load. The ratio of the Young's modulus of $A$ to that of $B$ is $x:3$. The value of $x$ is ______.
+
+(1) 2  (2) 1  (3) 4  (4) 5
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $Y=\dfrac{FL}{A\,\Delta L}$ with the same $F$ and $\Delta L$: $\dfrac{Y_A}{Y_B}=\dfrac{L_A/A_A}{L_B/A_B}=\dfrac{6.0/3.0}{5.4/4.5}=\dfrac{2}{1.2}=\dfrac53$, so $x=5$.
+

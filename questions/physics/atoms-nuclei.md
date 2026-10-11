@@ -273,3 +273,138 @@ An electron is in the $n=3$ orbit of a hydrogen-like atom with atomic number $Z$
 
 **Solution.** Bohr: $2\pi r_3=3\lambda\Rightarrow\lambda=\dfrac{2\pi}{3}\cdot\dfrac{9a_0}{Z}=\dfrac{6\pi a_0}{Z}$. For the neutron, $\lambda=\dfrac{h}{\sqrt{2m_Nk_BT}}$. Equate: $2m_Nk_BT=\dfrac{h^2Z^2}{36\pi^2a_0^2}\Rightarrow T=\dfrac{Z^2h^2}{72\pi^2a_0^2m_Nk_B}$. So $\alpha=72$.
 
+### § — JEE Main 2026 · 21 Jan Shift 2 · Atomic set Q1 · MCQ
+
+The energy of an electron in an orbit of the Bohr atom is $-0.04E_0$ eV, where $E_0$ is the ground state energy. If $L$ is the angular momentum of the electron in this orbit and $h$ is Planck's constant, then $\dfrac{2\pi L}{h}$ is ______.
+
+(1) 5  (2) 6  (3) 2  (4) 4
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $E_n=-\dfrac{E_0}{n^2}=-0.04E_0\Rightarrow n^2=25\Rightarrow n=5$. Angular momentum $L=n\dfrac{h}{2\pi}$, so $\dfrac{2\pi L}{h}=n=5$.
+
+### § — JEE Main 2026 · 23 Jan Shift 1 · Atomic set Q2 · MCQ
+
+In the hydrogen atom spectrum ($R\to$ Rydberg's constant):
+A. the maximum wavelength of the radiation of the Lyman series is $\dfrac{4}{3R}$
+B. the Balmer series lies in the visible region of the spectrum
+C. the minimum wavelength of the radiation of the Paschen series is $\dfrac9R$
+D. the minimum wavelength of the Lyman series is $\dfrac{5}{4R}$
+Choose the correct answer:
+
+(1) B, D only  (2) A, B and C only  (3) A, B and D only  (4) A, B only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A: Lyman $n=2\to1$: $\dfrac1\lambda=R\left(1-\tfrac14\right)=\dfrac{3R}4$, $\lambda_{max}=\dfrac{4}{3R}$ ✓. B ✓ (Balmer lines are in the visible). C: Paschen series limit $n=\infty\to3$: $\dfrac1\lambda=\dfrac R9$, $\lambda_{min}=\dfrac9R$ ✓. D ✗: the Lyman series limit is $\dfrac1R$, not $\dfrac{5}{4R}$. So A, B, C.
+
+### § — JEE Main 2026 · 22 Jan Shift 2 · Atomic set Q3 · MCQ
+
+The smallest wavelength of the Lyman series is $91$ nm. The difference between the largest wavelengths of the Paschen and Balmer series is nearly ______ nm.
+
+(1) 1550  (2) 1217  (3) 1875  (4) 1784
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Lyman limit: $\dfrac1R=91$ nm. Balmer largest ($3\to2$): $\lambda_B=\dfrac{36}{5}\times91=655$ nm. Paschen largest ($4\to3$): $\lambda_P=\dfrac{144}{7}\times91=1872$ nm. Difference $\approx1872-655=1217$ nm.
+
+### § — JEE Main 2026 · 21 Jan Shift 1 · Atomic set Q4 · MCQ
+
+If an alpha particle with energy $7.7$ MeV is bombarded on a thin gold foil, the closest distance from the nucleus it can reach is ______ m. (Atomic number of gold $=79$ and $\dfrac{1}{4\pi\epsilon_0}=9\times10^9$ in SI units)
+
+(1) $3.85\times10^{-16}$  (2) $3.85\times10^{-14}$  (3) $2.95\times10^{-16}$  (4) $2.95\times10^{-14}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** At closest approach all the kinetic energy is electrostatic PE: $r_{min}=\dfrac{k(2e)(79e)}{K}=\dfrac{9\times10^9\times2\times79\times(1.6\times10^{-19})^2}{7.7\times10^6\times1.6\times10^{-19}}=2.95\times10^{-14}$ m.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Atomic set Q5 · MCQ
+
+Two electrons are moving in orbits of two hydrogen-like atoms with speeds $3\times10^5$ m/s and $2.5\times10^5$ m/s respectively. If the radii of these orbits are nearly the same, the possible order of energy states (principal quantum numbers) are ______ respectively.
+
+(1) 8 and 10  (2) 9 and 8  (3) 10 and 12  (4) 6 and 5
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For a hydrogen-like atom $v\propto\dfrac Zn$ and $r\propto\dfrac{n^2}{Z}$. Equal radii give $Z\propto n^2$, so $v\propto\dfrac{n^2}{n}=n$. Hence $\dfrac{n_1}{n_2}=\dfrac{3}{2.5}=\dfrac65$: the states are $6$ and $5$.
+
+### § — JEE Main 2026 · 28 Jan Shift 2 · Nuclear set Q1 · MCQ
+
+A nucleus has mass number $\alpha$ and radius $R_\alpha$. Another nucleus has mass number $\beta$ and radius $R_\beta$. If $\beta=8\alpha$, then $R_\alpha/R_\beta$ is:
+
+(1) 8  (2) 0.5  (3) 2  (4) 1
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $R=R_0A^{1/3}$. With $\beta=8\alpha$: $R_\beta=R_0(8\alpha)^{1/3}=2R_\alpha$, so $\dfrac{R_\alpha}{R_\beta}=0.5$.
+
+### § — JEE Main 2026 · 24 Jan Shift 2 · Nuclear set Q2 · MCQ
+
+The binding energies for the following nuclear reactions are expressed in MeV: $_2\text{He}^3+{}_0n^1\to{}_2\text{He}^4+20$ MeV and $_2\text{He}^4+{}_0n^1\to{}_2\text{He}^5-0.9$ MeV. If $X_3,X_4,X_5$ denote the stability of $_2\text{He}^3$, $_2\text{He}^4$ and $_2\text{He}^5$ respectively, then the correct order is:
+
+(1) $X_4<X_5<X_3$  (2) $X_4>X_5>X_3$  (3) $X_4>X_5<X_3$  (4) $X_4=X_5=X_3$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The first reaction gives $BE(\text{He}^4)-BE(\text{He}^3)=20$ MeV, and the second $BE(\text{He}^5)-BE(\text{He}^4)=-0.9$ MeV. Hence $BE(\text{He}^4)>BE(\text{He}^5)>BE(\text{He}^3)$, i.e. $X_4>X_5>X_3$.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Nuclear set Q3 · MCQ
+
+The minimum frequency of a photon required to break a particle of mass $15.348$ amu into $4\alpha$ particles is ______ kHz. [mass of He nucleus $=4.002$ amu, $1\ \text{amu}=1.66\times10^{-27}$ kg, $h=6.6\times10^{-34}$ J s, $c=3\times10^8$ m/s]
+
+(1) $14.94\times10^{19}$  (2) $9\times10^{20}$  (3) $14.94\times10^{20}$  (4) $9\times10^{19}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Required energy $=\Delta m\,c^2$ with $\Delta m=(4\times4.002-15.348)=0.66$ amu $=1.1\times10^{-27}$ kg: $E=9.9\times10^{-11}$ J. $\nu=\dfrac Eh=1.49\times10^{23}$ Hz $=14.94\times10^{19}$ kHz.
+
+### § — JEE Main 2026 · 22 Jan Shift 1 · Nuclear set Q4 · MCQ
+
+An $\alpha$-particle of $7.9$ MeV scatters from a target material of atomic number $79$. From the given data the estimated diameter of the nuclei of the target material is (approximately) ______ m. [$\dfrac{1}{4\pi\epsilon_0}=9\times10^9\ \text{N m}^2/\text{C}^2$ and electron charge $=1.6\times10^{-19}$ C]
+
+(1) $1.44\times10^{-13}$  (2) $5.76\times10^{-14}$  (3) $2.88\times10^{-14}$  (4) $1.69\times10^{-12}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** At the distance of closest approach $K=\dfrac{k(2e)(79e)}{r_{min}}$: $r_{min}=\dfrac{9\times10^9\times2\times79\times(1.6\times10^{-19})^2}{7.9\times10^6\times1.6\times10^{-19}}=2.88\times10^{-14}$ m. Taking this as the nuclear radius (the paper's estimate), the diameter is $2r_{min}=5.76\times10^{-14}$ m.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Nuclear set Q5 · MCQ
+
+Which of the following pairs of nuclei are isobars of the element?
+
+(1) $^3_1$H and $^3_2$He  (2) $^2_1$H and $^3_1$H  (3) $^{198}_{80}$Hg and $^{197}_{79}$Au  (4) $^{236}_{92}$U and $^{238}_{92}$U
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Isobars have the same mass number but different atomic numbers. $^3_1$H and $^3_2$He both have $A=3$ with $Z=1$ and $2$.
+
+### § — JEE Main 2026 · 23 Jan Shift 2 · Nuclear set Q6 · Numerical
+
+The average energy released per fission of the nucleus of $^{235}_{92}$U is $190$ MeV. When all the atoms of $47$ g of pure $^{235}_{92}$U undergo fission, the energy released is $\alpha\times10^{23}$ MeV. The value of $\alpha$ is ______. (Avogadro number $=6\times10^{23}$ per mole)
+
+**Answer: 228** · key (compiled)
+
+**Solution.** Moles $=\dfrac{47}{235}=0.2$, so atoms $=0.2\times6\times10^{23}=1.2\times10^{23}$. Energy $=1.2\times10^{23}\times190=228\times10^{23}$ MeV, so $\alpha=228$.
+
+### § — JEE Main 2026 · 28 Jan Shift 1 · Nuclear set Q7 · MCQ
+
+An atom $^8_3X$ is bombarded by a shower of fundamental particles and in $10$ s this atom absorbs $10$ electrons, $10$ protons and $9$ neutrons. The percentage growth in the surface area of the nucleus is:
+
+(1) 250%  (2) 150%  (3) 900%  (4) 125%
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Surface area $\propto A^{2/3}$. Initially $A=8$; finally $A=8+10+9=27$ (electrons add no nucleons). $\dfrac{S_f}{S_i}=\left(\dfrac{27}{8}\right)^{2/3}=\dfrac94$, an increase of $\dfrac{9-4}{4}\times100=125\%$.
+
+### § — JEE Main 2026 · 24 Jan Shift 1 · Nuclear set Q8 · MCQ
+
+Given below are two statements:
+**Statement I:** For all elements, the greater the mass of the nucleus, the greater is the binding energy per nucleon.
+**Statement II:** For all elements, nuclei with less binding energy per nucleon transform to nuclei with greater binding energy per nucleon.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are true  (3) Both Statement I and Statement II are false  (4) Statement I is false but Statement II is true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** I is false: binding energy per nucleon rises to a maximum near $^{56}$Fe and then decreases for heavier nuclei. II is true: nuclear reactions (fusion of light nuclei, fission of heavy nuclei, decay) proceed towards greater binding energy per nucleon.
+
