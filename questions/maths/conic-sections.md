@@ -330,3 +330,239 @@ For some $\theta\in\left(0,\dfrac\pi2\right)$, let the eccentricity and the leng
 
 **Solution.** Hyperbola: $\dfrac{x^2}8-\dfrac{y^2}{8\cos^2\theta}=1$, so $e_1^2=1+\cos^2\theta$ and $l_1=\dfrac{2\cdot8\cos^2\theta}{\sqrt8}=4\sqrt2\cos^2\theta$. Ellipse: $\dfrac{x^2}{6\cos^2\theta}+\dfrac{y^2}6=1$ (major axis along $y$), so $e_2^2=1-\cos^2\theta=\sin^2\theta$ and $l_2=\dfrac{2\cdot6\cos^2\theta}{\sqrt6}=2\sqrt6\cos^2\theta$. The condition $1+\cos^2\theta=\sin^2\theta\cdot\dfrac{1+\cos^2\theta}{\cos^2\theta}$ gives $\tan^2\theta=1$, $\theta=\tfrac\pi4$. Then $e_1^2=\tfrac32$, $e_2^2=\tfrac12$, $e_1e_2=\tfrac{\sqrt3}2$; $l_1=2\sqrt2$, $l_2=\sqrt6$, $l_1l_2=4\sqrt3$. $\dfrac{l_1l_2}{e_1e_2}\tan^2\theta=\dfrac{4\sqrt3}{\sqrt3/2}\cdot1=8$.
 
+### § — JEE Main 2025 · Jan session · Parabola set Q2 · MCQ
+
+If the equation of the parabola with vertex $V\left(\tfrac32,3\right)$ and directrix $x+2y=0$ is $\alpha x^2+\beta y^2-\gamma xy-30x-60y+225=0$, then $\alpha+\beta+\gamma$ is equal to:
+
+(1) 7  (2) 9  (3) 8  (4) 6
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The foot of the perpendicular from $V$ to the directrix is $V-\dfrac{(3/2+6)}{5}(1,2)=(0,0)$, so the focus is the reflection of this foot in $V$: $F=(3,6)$. Then $(x-3)^2+(y-6)^2=\dfrac{(x+2y)^2}5\Rightarrow4x^2+y^2-4xy-30x-60y+225=0$. So $\alpha=4$, $\beta=1$, $\gamma=4$ and $\alpha+\beta+\gamma=9$.
+
+### § — JEE Main 2025 · Jan session · Parabola set Q3 · MCQ
+
+Two parabolas have the same focus $(4,3)$ and their directrices are the $x$-axis and the $y$-axis respectively. If these parabolas intersect at the points $A$ and $B$, then $(AB)^2$ is equal to:
+
+(1) 392  (2) 384  (3) 192  (4) 96
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Parabola 1: $(x-4)^2+(y-3)^2=y^2\Rightarrow x^2-8x-6y+25=0$. Parabola 2: $(x-4)^2+(y-3)^2=x^2\Rightarrow y^2-6y-8x+25=0$. Subtracting gives $x^2=y^2$. For $y=x$: $x^2-14x+25=0$, $x=7\pm2\sqrt6$ (for $y=-x$ the discriminant is negative). The points lie on $y=x$, so $AB=\sqrt2\,|x_1-x_2|=\sqrt2\cdot4\sqrt6$ and $(AB)^2=2\cdot16\cdot6=192$.
+
+### § — JEE Main 2025 · Jan session · Parabola set Q4 · MCQ
+
+Let the parabola $y=x^2+px-3$ meet the coordinate axes at the points $P$, $Q$ and $R$. If the circle $C$ with centre at $(-1,-1)$ passes through $P$, $Q$ and $R$, then the area of $\triangle PQR$ is:
+
+(1) 7  (2) 4  (3) 6  (4) 5
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $R=(0,-3)$ lies on the circle: $r^2=1+4=5$. Meeting the $x$-axis: $(x+1)^2+1=5\Rightarrow x=1$ or $-3$, so the parabola is $y=(x-1)(x+3)$ ($p=2$). The area is $\tfrac12\cdot PQ\cdot OR=\tfrac12\cdot4\cdot3=6$.
+
+### § — JEE Main 2025 · Jan session · Parabola set Q5 · MCQ
+
+Let the shortest distance from $(a,0)$, $a>0$, to the parabola $y^2=4x$ be 4. Then the equation of the circle passing through the point $(a,0)$ and the focus of the parabola, and having its centre on the axis of the parabola, is:
+
+(1) $x^2+y^2-10x+9=0$  (2) $x^2+y^2-6x+5=0$  (3) $x^2+y^2-4x+3=0$  (4) $x^2+y^2-8x+7=0$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For $a>2$ the nearest point of $y^2=4x$ to $(a,0)$ has $x=a-2$ and the distance is $\sqrt{4a-4}=4$, so $a=5$. The circle through $(5,0)$ and the focus $(1,0)$ with centre on the $x$-axis has these as ends of a diameter: $(x-5)(x-1)+y^2=0$, i.e. $x^2+y^2-6x+5=0$.
+
+### § — JEE Main 2025 · Jan session · Parabola set Q7 · MCQ
+
+If the line $3x-2y+12=0$ intersects the parabola $4y=3x^2$ at the points $A$ and $B$, then at the vertex of the parabola, the line segment $AB$ subtends an angle equal to:
+
+(1) $\tan^{-1}\left(\tfrac45\right)$  (2) $\tan^{-1}\left(\tfrac97\right)$  (3) $\tan^{-1}\left(\tfrac{11}9\right)$  (4) $\tfrac\pi2-\tan^{-1}\left(\tfrac32\right)$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** With $y=\tfrac{3x+12}2$: $4y=6x+24=3x^2\Rightarrow x^2-2x-8=0$, so $A(4,12)$ and $B(-2,3)$. At the vertex $O$: $\vec{OA}\cdot\vec{OB}=-8+36=28$ and $|\vec{OA}\times\vec{OB}|=|12+24|=36$, so $\tan\theta=\dfrac{36}{28}=\dfrac97$.
+
+### § — JEE Main 2025 · Jan session · Parabola set Q9 · MCQ
+
+Let $P(4,4\sqrt3)$ be a point on the parabola $y^2=4ax$ and $PQ$ be a focal chord of the parabola. If $M$ and $N$ are the feet of the perpendiculars drawn from $P$ and $Q$ respectively on the directrix of the parabola, then the area of the quadrilateral $PQMN$ is equal to:
+
+(1) $17\sqrt3$  (2) $\dfrac{263\sqrt3}8$  (3) $\dfrac{34\sqrt3}3$  (4) $\dfrac{343\sqrt3}8$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $48=16a\Rightarrow a=3$; $P=(3t^2,6t)$ with $t=\tfrac2{\sqrt3}$. The other end of the focal chord has parameter $-\tfrac1t=-\tfrac{\sqrt3}2$: $Q=\left(\tfrac94,-3\sqrt3\right)$. The directrix is $x=-3$, so $PM=4+3=7$ and $QN=\tfrac94+3=\tfrac{21}4$ are the parallel sides of a trapezium of height $|y_P-y_Q|=7\sqrt3$. Area $=\tfrac12\left(7+\tfrac{21}4\right)7\sqrt3=\dfrac{343\sqrt3}8$.
+
+### § — JEE Main 2025 · Apr session · Parabola set Q2 · MCQ
+
+Let $P$ be the parabola whose focus is $(-2,1)$ and whose directrix is $2x+y+2=0$. Then the sum of the ordinates of the points on $P$ whose abscissa is $-2$ is:
+
+(1) $\tfrac32$  (2) $\tfrac52$  (3) $\tfrac14$  (4) $\tfrac34$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $(x+2)^2+(y-1)^2=\dfrac{(2x+y+2)^2}5$. At $x=-2$: $(y-1)^2=\dfrac{(y-2)^2}5\Rightarrow5y^2-10y+5=y^2-4y+4\Rightarrow4y^2-6y+1=0$. The sum of the roots is $\tfrac64=\tfrac32$.
+
+### § — JEE Main 2025 · Apr session · Parabola set Q3 · MCQ
+
+Let the focal chord $PQ$ of the parabola $y^2=4x$ make an angle of $60^\circ$ with the positive $x$-axis, where $P$ lies in the first quadrant. If the circle, one of whose diameters is $PS$, $S$ being the focus of the parabola, touches the $y$-axis at the point $(0,\alpha)$, then $5\alpha^2$ is equal to:
+
+(1) 15  (2) 25  (3) 30  (4) 20
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The chord through $S(1,0)$ is $y=\sqrt3(x-1)$; with $y^2=4x$: $3x^2-10x+3=0$, $x=3$ or $\tfrac13$, and the point in the first quadrant is $P(3,2\sqrt3)$. The circle on $PS$ as diameter has centre $(2,\sqrt3)$ and radius $\tfrac{PS}2=\tfrac{3+1}2=2$, so it touches the $y$-axis at $(0,\sqrt3)$: $\alpha=\sqrt3$ and $5\alpha^2=15$.
+
+### § — JEE Main 2025 · Apr session · Parabola set Q4 · MCQ
+
+Let the point $P$ of the focal chord $PQ$ of the parabola $y^2=16x$ be $(1,-4)$. If the focus of the parabola divides the chord $PQ$ in the ratio $m:n$, $\gcd(m,n)=1$, then $m^2+n^2$ is equal to:
+
+(1) 17  (2) 10  (3) 37  (4) 26
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $a=4$, $P=(4t^2,8t)$ with $t=-\tfrac12$. The other end has parameter $-\tfrac1t=2$: $Q=(16,16)$. The focal distances are $PS=1+4=5$ and $SQ=16+4=20$, so $m:n=1:4$ and $m^2+n^2=17$.
+
+### § — JEE Main 2025 · Apr session · Parabola set Q6 · MCQ
+
+A line passing through the point $A(-2,0)$ touches the parabola $P:y^2=x-2$ at the point $B$ in the first quadrant. The area of the region bounded by the line $AB$, the parabola $P$ and the $x$-axis is:
+
+(1) $\tfrac73$  (2) 2  (3) $\tfrac83$  (4) 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For the line $y=m(x+2)$ to touch the parabola, $m^2x^2+(4m^2-1)x+4m^2+2=0$ must have zero discriminant: $16m^2=1$, $m=\tfrac14$. The touching point is $B(6,2)$. The area of triangle $A\,(6,0)\,B$ is $\tfrac12\cdot8\cdot2=8$; the part of it under the parabola is $\int_2^6\sqrt{x-2}\,dx=\tfrac23\cdot8=\tfrac{16}3$. The required area is $8-\tfrac{16}3=\tfrac83$.
+
+### § — JEE Main 2025 · Apr session · Parabola set Q7 · Numerical
+
+Let $r$ be the radius of the circle which touches the $x$-axis at the point $(a,0)$, $a<0$, and the parabola $y^2=9x$ at the point $(4,6)$. Then $r$ is equal to ______.
+
+**Answer: 30** · key (compiled)
+
+**Solution.** The tangent to the parabola at $(4,6)$ is $6y=\tfrac92(x+4)$, i.e. $3x-4y+12=0$, meeting the $x$-axis at $T(-4,0)$. Tangent lengths from $T$ to the circle are equal: $TA=TP=\sqrt{64+36}=10$, where $A=(a,0)$, so $a=-14$ ($a<0$). The centre is $(-14,r)$, and $18^2+(6-r)^2=r^2\Rightarrow360=12r\Rightarrow r=30$.
+
+### § — JEE Main 2025 · Jan session · Ellipse set Q3 · MCQ
+
+The length of the chord of the ellipse $\dfrac{x^2}4+\dfrac{y^2}2=1$ whose mid-point is $\left(1,\tfrac12\right)$ is:
+
+(1) $\tfrac53\sqrt{15}$  (2) $\tfrac13\sqrt{15}$  (3) $\tfrac23\sqrt{15}$  (4) $\sqrt{15}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Chord with a given mid-point: $T=S_1$: $\dfrac x4+\dfrac y4=\dfrac14+\dfrac18\Rightarrow x+y=\tfrac32$. Substituting in the ellipse: $6x^2-12x+1=0$, so $|x_1-x_2|=\dfrac{\sqrt{144-24}}6=\dfrac{\sqrt{30}}3$. The chord has slope $-1$, so its length is $\sqrt2\cdot\dfrac{\sqrt{30}}3=\dfrac23\sqrt{15}$.
+
+### § — JEE Main 2025 · Jan session · Ellipse set Q4 · MCQ
+
+The equation of the chord of the ellipse $\dfrac{x^2}{25}+\dfrac{y^2}{16}=1$ whose mid-point is $(3,1)$ is:
+
+(1) $48x+25y=169$  (2) $5x+16y=31$  (3) $25x+101y=176$  (4) $4x+122y=134$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $T=S_1$: $\dfrac{3x}{25}+\dfrac y{16}=\dfrac9{25}+\dfrac1{16}$. Multiplying by 400: $48x+25y=144+25=169$.
+
+### § — JEE Main 2025 · Jan session · Ellipse set Q5 · MCQ
+
+If the mid-point of a chord of the ellipse $\dfrac{x^2}9+\dfrac{y^2}4=1$ is $\left(\sqrt2,\tfrac43\right)$ and the length of the chord is $\dfrac{2\sqrt\alpha}3$, then $\alpha$ is:
+
+(1) 20  (2) 22  (3) 18  (4) 26
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $T=S_1$: $\dfrac{\sqrt2x}9+\dfrac y3=\dfrac23\Rightarrow\sqrt2x+3y=6$. Substituting $y=\dfrac{6-\sqrt2x}3$: $4x^2+(6-\sqrt2x)^2=36\Rightarrow6x^2-12\sqrt2x=0$, so $x=0$ or $2\sqrt2$, giving the end points $(0,2)$ and $\left(2\sqrt2,\tfrac23\right)$. Length$^2=8+\tfrac{16}9=\tfrac{88}9$, so the length is $\dfrac{2\sqrt{22}}3$ and $\alpha=22$.
+
+### § — JEE Main 2025 · Jan session · Ellipse set Q6 · MCQ
+
+If $\alpha x+\beta y=109$ is the equation of the chord of the ellipse $\dfrac{x^2}9+\dfrac{y^2}4=1$ whose mid-point is $\left(\tfrac52,\tfrac12\right)$, then $\alpha+\beta$ is equal to:
+
+(1) 58  (2) 46  (3) 37  (4) 72
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $T=S_1$: $\dfrac{5x}{18}+\dfrac y8=\dfrac{25}{36}+\dfrac1{16}=\dfrac{109}{144}$. Multiplying by 144: $40x+18y=109$, so $\alpha+\beta=58$.
+
+### § — JEE Main 2025 · Apr session · Ellipse set Q1 · MCQ
+
+If $S$ and $S'$ are the foci of the ellipse $\dfrac{x^2}{18}+\dfrac{y^2}9=1$ and $P$ is a point on the ellipse, then $\min(SP\cdot S'P)+\max(SP\cdot S'P)$ is equal to:
+
+(1) $3(1+\sqrt2)$  (2) $3(6+\sqrt2)$  (3) 9  (4) 27
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $e^2=1-\tfrac9{18}=\tfrac12$. $SP\cdot S'P=(a-ex)(a+ex)=a^2-e^2x^2=18-\tfrac{x^2}2$, with $x^2\in[0,18]$, so it ranges over $[9,18]$. Min + max $=27$.
+
+### § — JEE Main 2025 · Apr session · Ellipse set Q2 · MCQ
+
+If the length of the minor axis of an ellipse is equal to one fourth of the distance between the foci, then the eccentricity of the ellipse is:
+
+(1) $\tfrac4{\sqrt{17}}$  (2) $\tfrac{\sqrt3}{16}$  (3) $\tfrac3{\sqrt{19}}$  (4) $\tfrac{\sqrt5}7$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $2b=\tfrac14(2ae)\Rightarrow b=\tfrac{ae}4$. $b^2=a^2(1-e^2)=\tfrac{a^2e^2}{16}\Rightarrow16-16e^2=e^2\Rightarrow e^2=\tfrac{16}{17}$, so $e=\dfrac4{\sqrt{17}}$.
+
+### § — JEE Main 2025 · Apr session · Ellipse set Q4 · MCQ
+
+The length of the latus rectum of the ellipse whose foci are $(2,5)$ and $(2,-3)$ and whose eccentricity is $\tfrac45$ is:
+
+(1) $\tfrac65$  (2) $\tfrac{50}3$  (3) $\tfrac{10}3$  (4) $\tfrac{18}5$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $2ae=8\Rightarrow ae=4$, and $e=\tfrac45\Rightarrow a=5$, $b^2=a^2(1-e^2)=9$. Latus rectum $=\dfrac{2b^2}a=\dfrac{18}5$.
+
+### § — JEE Main 2025 · Apr session · Ellipse set Q8 · MCQ
+
+Let the ellipse $3x^2+py^2=4$ pass through the centre $C$ of the circle $x^2+y^2-2x-4y-11=0$ of radius $r$. Let $f_1$, $f_2$ be the focal distances of the point $C$ on the ellipse. Then $6f_1f_2-r$ is equal to:
+
+(1) 74  (2) 68  (3) 70  (4) 78
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The centre is $C(1,2)$ and $r^2=1+4+11=16$, $r=4$. $3+4p=4\Rightarrow p=\tfrac14$: the ellipse is $\dfrac{x^2}{4/3}+\dfrac{y^2}{16}=1$ with major axis along $y$ ($a^2=16$) and $e^2=1-\tfrac{4/3}{16}=\tfrac{11}{12}$. The focal distances are $a\pm ey_0$, so $f_1f_2=a^2-e^2y_0^2=16-\tfrac{11}{12}\cdot4=\tfrac{37}3$. $6f_1f_2-r=74-4=70$.
+
+### § — JEE Main 2025 · Jan session · Hyperbola set Q1 · MCQ
+
+Let the foci of a hyperbola be $(1,14)$ and $(1,-12)$. If it passes through the point $(1,6)$, then the length of its latus rectum is:
+
+(1) $\tfrac{24}5$  (2) $\tfrac{25}6$  (3) $\tfrac{144}5$  (4) $\tfrac{288}5$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The centre is $(1,1)$, the transverse axis is vertical and $2ae=26$, so $ae=13$. The point $(1,6)$ lies on the transverse axis, so it is a vertex: $a=6-1=5$. $b^2=13^2-5^2=144$, and the latus rectum is $\dfrac{2b^2}a=\dfrac{288}5$.
+
+### § — JEE Main 2025 · Apr session · Hyperbola set Q1 · MCQ
+
+Let one focus of the hyperbola $H:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1$ be at $(\sqrt{10},0)$ and the corresponding directrix be $x=\dfrac9{\sqrt{10}}$. If $e$ and $l$ respectively are the eccentricity and the length of the latus rectum of $H$, then $9(e^2+l)$ is equal to:
+
+(1) 14  (2) 15  (3) 16  (4) 12
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $ae=\sqrt{10}$ and $\dfrac ae=\dfrac9{\sqrt{10}}$ give $a^2=9$ and $e^2=\tfrac{10}9$. $b^2=a^2(e^2-1)=1$, so $l=\dfrac{2b^2}a=\tfrac23$. $9(e^2+l)=10+6=16$.
+
+### § — JEE Main 2025 · Apr session · Hyperbola set Q2 · Numerical
+
+If the equation of the hyperbola with foci $(4,2)$ and $(8,2)$ is $3x^2-y^2-\alpha x+\beta y+\gamma=0$, then $\alpha+\beta+\gamma$ is equal to ______.
+
+![Figure](../../figures/a25_mat_hyp/q2-1.png)
+
+**Answer: 141** · key (compiled)
+
+**Solution.** The centre is $C(6,2)$ and $c=2$. The coefficients $3:-1$ give $b^2=3a^2$, so $c^2=a^2+b^2=4a^2=4\Rightarrow a=1$, $b^2=3$. The hyperbola is $\dfrac{(x-6)^2}1-\dfrac{(y-2)^2}3=1$, i.e. $3x^2-y^2-36x+4y+101=0$. So $\alpha+\beta+\gamma=36+4+101=141$.
+
+### § — JEE Main 2025 · Apr session · Hyperbola set Q4 · Numerical
+
+Let the product of the focal distances of the point $P(4,2\sqrt3)$ on the hyperbola $H:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1$ be 32. Let the length of the conjugate axis of $H$ be $p$ and the length of its latus rectum be $q$. Then $p^2+q^2$ is equal to ______.
+
+**Answer: 120** · key (compiled)
+
+**Solution.** The product of focal distances is $e^2x^2-a^2=16e^2-a^2=32$, and $P$ lies on $H$: $\dfrac{16}{a^2}-\dfrac{12}{b^2}=1$ with $b^2=a^2(e^2-1)$. Writing $A=a^2$: $e^2=\dfrac{32+A}{16}$, $e^2-1=\dfrac{16+A}{16}$, so $\dfrac{16}A-\dfrac{192}{A(16+A)}=1\Rightarrow A^2=64$, $a^2=8$, $b^2=12$. $p=2b$: $p^2=48$; $q=\dfrac{2b^2}a$: $q^2=\dfrac{576}8=72$. So $p^2+q^2=120$.
+
+### § — JEE Main 2025 · Apr session · Hyperbola set Q5 · MCQ
+
+Let the sum of the focal distances of the point $P(4,3)$ on the hyperbola $H:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1$ be $8\sqrt{\tfrac53}$. If for $H$ the length of the latus rectum is $l$ and the product of the focal distances of the point $P$ is $m$, then $9l^2+6m$ is equal to:
+
+(1) 184  (2) 186  (3) 185  (4) 187
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For a point on the right branch the focal distances are $ex-a$ and $ex+a$, so their sum is $2ex=8e=8\sqrt{\tfrac53}$ and $e^2=\tfrac53$. Then $b^2=\tfrac23a^2$ and $P$ on $H$: $\dfrac{16}{a^2}-\dfrac{27}{2a^2}=1\Rightarrow a^2=\tfrac52$, $b^2=\tfrac53$. $l^2=\dfrac{4b^4}{a^2}=\dfrac{40}9\Rightarrow9l^2=40$. $m=e^2x^2-a^2=\tfrac{80}3-\tfrac52=\tfrac{145}6\Rightarrow6m=145$. Total $=185$.
+

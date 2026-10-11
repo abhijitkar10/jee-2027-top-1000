@@ -266,3 +266,187 @@ Let $729,81,9,1,\dots$ be a sequence and $P_n$ denote the product of the first $
 
 **Solution.** The sequence is a G.P. with $a_k=3^{6-2(k-1)}=3^{8-2k}$. $P_n=3^{\sum(8-2k)}=3^{8n-n(n+1)}=3^{7n-n^2}$, so $(P_n)^{1/n}=3^{7-n}$. $\sum_{n=1}^{40}3^{7-n}=3^6\dfrac{1-3^{-40}}{1-\tfrac13}=\dfrac{3^7-3^{-33}}2$, so $2\sum=3^7-3^{-33}=\dfrac{3^{40}-1}{3^{33}}$. Thus $\alpha=40$, $\beta=33$ ($\gcd=1$) and $\alpha+\beta=73$.
 
+### § — JEE Main 2025 · Jan session · set Q1 · MCQ
+
+If the first term of an A.P. is 3 and the sum of its first four terms is equal to one-fifth of the sum of the next four terms, then the sum of the first 20 terms is equal to:
+
+(1) $-1080$  (2) $-1020$  (3) $-1200$  (4) $-120$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $S_4=\tfrac15(S_8-S_4)\Rightarrow S_8=6S_4$. $S_8=24+28d$ and $S_4=12+6d$, so $24+28d=72+36d\Rightarrow d=-6$. $S_{20}=10(2\cdot3+19d)=10(6-114)=-1080$.
+
+### § — JEE Main 2025 · Jan session · set Q2 · Numerical
+
+The roots of the quadratic equation $3x^2-px+q=0$ are the 10th and 11th terms of an arithmetic progression with common difference $\tfrac32$. If the sum of the first 11 terms of this arithmetic progression is 88, then $q-2p$ is equal to ______.
+
+**Answer: 474** · key (compiled)
+
+**Solution.** $S_{11}=11a_6=88\Rightarrow a_6=8$, so $a_{10}=8+4\cdot\tfrac32=14$ and $a_{11}=15.5$. Sum of roots $=\tfrac p3=29.5\Rightarrow p=88.5$; product $=\tfrac q3=14\cdot15.5=217\Rightarrow q=651$. $q-2p=651-177=474$.
+
+### § — JEE Main 2025 · Jan session · set Q3 · MCQ
+
+In an arithmetic progression, if $S_{40}=1030$ and $S_{12}=57$, then $S_{30}-S_{10}$ is equal to:
+
+(1) 525  (2) 510  (3) 515  (4) 505
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $20(2a+39d)=1030$ gives $2a+39d=51.5$; $6(2a+11d)=57$ gives $2a+11d=9.5$. Subtracting, $d=1.5$ and $a=-3.5$. $S_{30}-S_{10}=15(2a+29d)-5(2a+9d)=20a+390d=-70+585=515$.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+Consider an A.P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty terms lies between 1600 and 1800. Then its 11th term is:
+
+(1) 90  (2) 84  (3) 122  (4) 108
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $3a+3d=54\Rightarrow a=18-d$. $S_{20}=10(2a+19d)=10(36+17d)$ with $1600<S_{20}<1800$: $124<17d<144$, so $d=8$ (the only integer), $a=10$. The 11th term is $10+10\cdot8=90$.
+
+### § — JEE Main 2025 · Jan session · set Q7 · Numerical
+
+The interior angles of a polygon with $n$ sides are in an A.P. with common difference $6^\circ$. If the largest interior angle of the polygon is $219^\circ$, then $n$ is equal to ______.
+
+**Answer: 20** · key (compiled)
+
+**Solution.** The angles are $219,213,\dots$, so their sum is $\tfrac n2[2\cdot219-6(n-1)]=n(222-3n)$. For a polygon the interior angles add up to $(n-2)180$: $222n-3n^2=180n-360\Rightarrow3n^2-42n-360=0\Rightarrow n^2-14n-120=0$, so $n=20$ (the other root is negative).
+
+### § — JEE Main 2025 · Jan session · set Q9 · MCQ
+
+Let $a_1,a_2,a_3,\dots$ be a G.P. of increasing positive terms. If $a_1a_5=28$ and $a_2+a_4=29$, then $a_6$ is equal to:
+
+(1) 628  (2) 812  (3) 526  (4) 784
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $a_1a_5=a_2a_4=a_3^2=28$, so $a_2,a_4$ are the roots of $t^2-29t+28=0$: 1 and 28. Increasing: $a_2=1$, $a_4=28$, so $r^2=28$ and $a_6=a_4r^2=784$.
+
+### § — JEE Main 2025 · Jan session · set Q10 · MCQ
+
+If $7=5+\dfrac17(5+\alpha)+\dfrac1{7^2}(5+2\alpha)+\dfrac1{7^3}(5+3\alpha)+\cdots\infty$, then the value of $\alpha$ is:
+
+(1) $\tfrac67$  (2) 6  (3) $\tfrac17$  (4) 1
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\sum_{k\ge1}\dfrac5{7^k}=\dfrac56$ and $\sum_{k\ge1}\dfrac k{7^k}=\dfrac{1/7}{(1-1/7)^2}=\dfrac7{36}$. So $7=5+\dfrac56+\dfrac{7\alpha}{36}\Rightarrow\dfrac76=\dfrac{7\alpha}{36}\Rightarrow\alpha=6$.
+
+### § — JEE Main 2025 · Jan session · set Q12 · MCQ
+
+For positive integers $n$, if $4a_n=(n^2+5n+6)$ and $S_n=\sum_{k=1}^n\left(\dfrac1{a_k}\right)$, then the value of $507S_{2025}$ is:
+
+(1) 540  (2) 675  (3) 1350  (4) 135
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\dfrac1{a_k}=\dfrac4{(k+2)(k+3)}=4\left(\dfrac1{k+2}-\dfrac1{k+3}\right)$, so $S_n=4\left(\dfrac13-\dfrac1{n+3}\right)$. $S_{2025}=4\left(\dfrac13-\dfrac1{2028}\right)=\dfrac{4\cdot675}{2028}$ and $507S_{2025}=\dfrac{507\cdot2700}{2028}=675$.
+
+### § — JEE Main 2025 · Jan session · set Q13 · MCQ
+
+The value of $\lim_{n\to\infty}\left(\sum_{k=1}^n\dfrac{k^3+6k^2+11k+5}{(k+3)!}\right)$ is:
+
+(1) $4/3$  (2) 2  (3) $7/3$  (4) $5/3$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $k^3+6k^2+11k+6=(k+1)(k+2)(k+3)$, so the term is $\dfrac{(k+3)!/k!-1}{(k+3)!}=\dfrac1{k!}-\dfrac1{(k+3)!}$. $\sum_{k\ge1}\dfrac1{k!}=e-1$ and $\sum_{k\ge1}\dfrac1{(k+3)!}=e-\left(1+1+\tfrac12+\tfrac16\right)=e-\tfrac83$. The difference is $\tfrac83-1=\tfrac53$.
+
+### § — JEE Main 2025 · Jan session · set Q14 · MCQ
+
+Suppose that the number of terms in an A.P. is $2k$, $k\in\mathbb N$. If the sum of all odd terms of the A.P. is 40, the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then $k$ is equal to:
+
+(1) 6  (2) 5  (3) 8  (4) 4
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Each even term exceeds the preceding odd term by $d$, so $55-40=kd=15$. The last term minus the first is $(2k-1)d=27$, so $30-d=27$, $d=3$ and $k=5$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · MCQ
+
+Let $a_1,a_2,a_3,\dots$ be a G.P. of increasing positive numbers. If $a_3a_5=729$ and $a_2+a_4=\dfrac{111}4$, then $24(a_1+a_2+a_3)$ is equal to:
+
+(1) 131  (2) 130  (3) 129  (4) 128
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $a_3a_5=a_4^2=729\Rightarrow a_4=27$ (positive), so $a_2=\dfrac{111}4-27=\dfrac34$ and $r^2=\dfrac{27}{3/4}=36$, $r=6$. $a_1=\dfrac18$, $a_3=\dfrac92$. $a_1+a_2+a_3=\dfrac18+\dfrac34+\dfrac92=\dfrac{43}8$ and $24\cdot\dfrac{43}8=129$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+The sum $1+\dfrac{1+3}{2!}+\dfrac{1+3+5}{3!}+\dfrac{1+3+5+7}{4!}+\cdots$ up to $\infty$ terms is equal to:
+
+(1) $6e$  (2) $4e$  (3) $3e$  (4) $2e$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The $n$th term is $\dfrac{n^2}{n!}=\dfrac n{(n-1)!}=\dfrac{(n-1)+1}{(n-1)!}$. The sum is $\sum_{n\ge2}\dfrac1{(n-2)!}+\sum_{n\ge1}\dfrac1{(n-1)!}=e+e=2e$.
+
+### § — JEE Main 2025 · Apr session · set Q8 · MCQ
+
+If the sum of the second, fourth and sixth terms of a G.P. of positive terms is 21 and the sum of its eighth, tenth and twelfth terms is 15309, then the sum of its first nine terms is:
+
+(1) 760  (2) 755  (3) 750  (4) 757
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Multiplying the group $a_2+a_4+a_6$ by $r^6$ gives $a_8+a_{10}+a_{12}$, so $r^6=\dfrac{15309}{21}=729$ and $r=3$. $a_2(1+9+81)=21\Rightarrow a_2=\dfrac3{13}$ and $a_1=\dfrac1{13}$. $S_9=\dfrac1{13}\cdot\dfrac{3^9-1}2=\dfrac{19682}{26}=757$.
+
+### § — JEE Main 2025 · Apr session · set Q9 · Numerical
+
+If the sum of the first 10 terms of the series $\dfrac{4\cdot1}{1+4\cdot1^4}+\dfrac{4\cdot2}{1+4\cdot2^4}+\dfrac{4\cdot3}{1+4\cdot3^4}+\cdots$ is $\dfrac mn$, where $\gcd(m,n)=1$, then $m+n$ is equal to ______.
+
+**Answer: 441** · key (compiled)
+
+**Solution.** $1+4k^4=(2k^2+2k+1)(2k^2-2k+1)$ and $\dfrac{4k}{1+4k^4}=\dfrac1{2k^2-2k+1}-\dfrac1{2k^2+2k+1}$, which telescopes since $2(k+1)^2-2(k+1)+1=2k^2+2k+1$. $S_{10}=1-\dfrac1{221}=\dfrac{220}{221}$, so $m+n=441$.
+
+### § — JEE Main 2025 · Apr session · set Q10 · MCQ
+
+The sum $1+3+11+25+45+71+\cdots$ up to 20 terms is equal to:
+
+(1) 7240  (2) 7130  (3) 6982  (4) 8124
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The second differences are constant (6), so $T_n=3n^2-7n+5$ (check: $T_1=1$, $T_2=3$, $T_3=11$). $\sum_{n=1}^{20}T_n=3\cdot2870-7\cdot210+5\cdot20=8610-1470+100=7240$.
+
+### § — JEE Main 2025 · Apr session · set Q11 · MCQ
+
+$1+3+5^2+7+9^2+\cdots$ up to 40 terms is equal to:
+
+(1) 43890  (2) 41880  (3) 33980  (4) 40870
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The terms are the odd numbers, but those at the odd positions $3,5,\dots,39$ (the numbers $5,9,\dots,77$, i.e. $4j+1$, $j=1,\dots,19$) are squared. The sum of the first 40 odd numbers is $1600$, and squaring $x=4j+1$ adds $x^2-x=16j^2+4j$: $\sum_{j=1}^{19}(16j^2+4j)=16\cdot2470+4\cdot190=40280$. Total $=1600+40280=41880$.
+
+### § — JEE Main 2025 · Apr session · set Q12 · MCQ
+
+If the sum of the first 20 terms of the series $\dfrac{4\cdot1}{4+3\cdot1^2+1^4}+\dfrac{4\cdot2}{4+3\cdot2^2+2^4}+\dfrac{4\cdot3}{4+3\cdot3^2+3^4}+\cdots$ is $\dfrac mn$, where $m$ and $n$ are coprime, then $m+n$ is equal to:
+
+(1) 423  (2) 420  (3) 421  (4) 422
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $k^4+3k^2+4=(k^2+k+2)(k^2-k+2)$ and $\dfrac{4k}{(k^2+k+2)(k^2-k+2)}=2\left[\dfrac1{k^2-k+2}-\dfrac1{k^2+k+2}\right]$, which telescopes. $S_{20}=2\left[\dfrac12-\dfrac1{422}\right]=1-\dfrac1{211}=\dfrac{210}{211}$, so $m+n=421$.
+
+### § — JEE Main 2025 · Apr session · set Q13 · MCQ
+
+Let $A=\{1,6,11,16,\dots\}$ and $B=\{9,16,23,30,\dots\}$ be the sets consisting of the first 2025 terms of two arithmetic progressions. Then $n(A\cup B)$ is:
+
+(1) 3814  (2) 4027  (3) 3761  (4) 4003
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $A$: $5k+1$ ($k=0..2024$), largest $10121$; $B$: $7j+9$, largest $14177$. Common terms satisfy $x\equiv1\pmod5$ and $x\equiv2\pmod7$: $x=16+35t$, and $x\le10121$ gives $t=0,\dots,288$: 289 common terms. $n(A\cup B)=4050-289=3761$.
+
+### § — JEE Main 2025 · Apr session · set Q14 · MCQ
+
+If $\dfrac1{1^4}+\dfrac1{2^4}+\dfrac1{3^4}+\cdots\infty=\dfrac{\pi^4}{90}$, $\dfrac1{1^4}+\dfrac1{3^4}+\dfrac1{5^4}+\cdots\infty=\alpha$ and $\dfrac1{2^4}+\dfrac1{4^4}+\dfrac1{6^4}+\cdots\infty=\beta$, then $\dfrac\alpha\beta$ is equal to:
+
+(1) 23  (2) 18  (3) 15  (4) 14
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\beta=\dfrac1{2^4}\sum\dfrac1{n^4}=\dfrac1{16}\cdot\dfrac{\pi^4}{90}$, and $\alpha=\dfrac{\pi^4}{90}-\beta=\dfrac{15}{16}\cdot\dfrac{\pi^4}{90}$. So $\dfrac\alpha\beta=15$.
+

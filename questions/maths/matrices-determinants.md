@@ -264,3 +264,171 @@ The system of linear equations $x+y+z=6$, $2x+5y+az=36$, $x+2y+3z=b$ has:
 
 **Solution.** $\Delta=\begin{vmatrix}1&1&1\\2&5&a\\1&2&3\end{vmatrix}=(15-2a)-(6-a)+(4-5)=8-a$. For $a=8$, $\Delta=0$, so a unique solution is impossible. Then $R_2-2R_1$: $3y+6z=24\Rightarrow y+2z=8$, and $R_3-R_1$: $y+2z=b-6$. The equations are consistent (infinitely many solutions) iff $b-6=8$, i.e. $b=14$; for $b\ne14$ there is no solution.
 
+### § — JEE Main 2025 · Jan session · set Q1 · MCQ
+
+Let $A=[a_{ij}]$ be a $3\times3$ matrix such that $A\begin{bmatrix}0\\1\\0\end{bmatrix}=\begin{bmatrix}0\\0\\1\end{bmatrix}$, $A\begin{bmatrix}4\\1\\3\end{bmatrix}=\begin{bmatrix}0\\1\\0\end{bmatrix}$ and $A\begin{bmatrix}2\\1\\2\end{bmatrix}=\begin{bmatrix}1\\0\\0\end{bmatrix}$. Then $a_{23}$ equals:
+
+(1) $-1$  (2) 2  (3) 1  (4) 0
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Let $C_1,C_2,C_3$ be the columns of $A$. The first relation gives $C_2=(0,0,1)^T$. Then $4C_1+3C_3=(0,1,-1)^T$ and $2C_1+2C_3=(1,0,-1)^T$, so $C_1+C_3=\left(\tfrac12,0,-\tfrac12\right)$. Hence $C_3=(2,0,-2)^T-(0,1,-1)^T=(2,-1,-1)^T$, and $a_{23}$ is the second entry of $C_3$: $-1$.
+
+### § — JEE Main 2025 · Jan session · set Q2 · MCQ
+
+Let $A=[a_{ij}]$ be a matrix of order $3\times3$ with $a_{ij}=(\sqrt2)^{i+j}$. If the sum of all the elements in the third row of $A^2$ is $\alpha+\beta\sqrt2$, $\alpha,\beta\in\mathbb Z$, then $\alpha+\beta$ is equal to:
+
+(1) 280  (2) 224  (3) 210  (4) 168
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $a_{ij}=u_iu_j$ with $u_i=(\sqrt2)^i=(\sqrt2,2,2\sqrt2)$, so $A=uu^T$ and $A^2=(u^Tu)\,uu^T=14\,uu^T$. The third-row sum is $14\,u_3\sum_ju_j=14\cdot2\sqrt2\,(3\sqrt2+2)=168+56\sqrt2$. So $\alpha+\beta=224$.
+
+### § — JEE Main 2025 · Jan session · set Q3 · MCQ
+
+For a $3\times3$ matrix $M$, let $\operatorname{trace}(M)$ denote the sum of all the diagonal elements of $M$. Let $A$ be a $3\times3$ matrix such that $|A|=\tfrac12$ and $\operatorname{trace}(A)=3$. If $B=\operatorname{adj}(\operatorname{adj}(2A))$, then the value of $|B|+\operatorname{trace}(B)$ equals:
+
+(1) 56  (2) 132  (3) 174  (4) 280
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** For a $3\times3$ matrix $\operatorname{adj}(\operatorname{adj}M)=|M|^{n-2}M=|M|\,M$. With $M=2A$: $|2A|=8\cdot\tfrac12=4$, so $B=4\cdot2A=8A$. $|B|=8^3\cdot\tfrac12=256$ and $\operatorname{trace}(B)=8\cdot3=24$. Sum $=280$.
+
+### § — JEE Main 2025 · Jan session · set Q8 · MCQ
+
+Let $A=[a_{ij}]=\begin{bmatrix}\log_5128&\log_45\\\log_58&\log_425\end{bmatrix}$. If $A_{ij}$ is the cofactor of $a_{ij}$, $C_{ij}=\sum_{k=1}^2a_{ik}A_{jk}$, $1\le i,j\le2$, and $C=[C_{ij}]$, then $8|C|$ is equal to:
+
+(1) 288  (2) 222  (3) 242  (4) 262
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\sum_ka_{ik}A_{jk}=|A|\,\delta_{ij}$, so $C=|A|\,I$ and $|C|=|A|^2$. $|A|=\log_5128\cdot\log_425-\log_45\cdot\log_58=7\log_52\cdot\log_25-\tfrac12\log_25\cdot3\log_52=7-\tfrac32=\tfrac{11}2$. $|C|=\tfrac{121}4$ and $8|C|=242$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · Numerical
+
+The number of singular matrices of order 2, whose elements are from the set $\{2,3,6,9\}$, is ______.
+
+**Answer: 36** · key (compiled)
+
+**Solution.** Singular means $ad=bc$. Count ordered pairs from the set by their product: 4 (1 way), 6 (2), 9 (1), 12 (2), 18 (4: (2,9),(9,2),(3,6),(6,3)), 27 (2), 36 (1), 54 (2), 81 (1). The number of matrices with $ad=bc$ is $\sum(\text{count})^2=1+4+1+4+16+4+1+4+1=36$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · MCQ
+
+Let $A=\begin{bmatrix}\alpha&-1\\6&\beta\end{bmatrix}$, $\alpha>0$, such that $\det(A)=0$ and $\alpha+\beta=1$. If $I$ denotes the $2\times2$ identity matrix, then the matrix $(I+A)^8$ is:
+
+(1) $\begin{bmatrix}4&-1\\6&-1\end{bmatrix}$  (2) $\begin{bmatrix}257&-64\\514&-127\end{bmatrix}$  (3) $\begin{bmatrix}1025&-511\\2024&-1024\end{bmatrix}$  (4) $\begin{bmatrix}766&-255\\1530&-509\end{bmatrix}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\alpha\beta+6=0$ and $\alpha+\beta=1$ give $\alpha=3$, $\beta=-2$. The matrix has trace 1 and determinant 0, so $A^2=A$ and $A^k=A$. $(I+A)^8=I+(2^8-1)A=I+255A=\begin{bmatrix}766&-255\\1530&-509\end{bmatrix}$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+Let $\alpha$ be a solution of $x^2+x+1=0$, and for some $a$ and $b$ in $\mathbb R$, $[4\ \ a\ \ b]\begin{bmatrix}1&16&13\\-1&-1&2\\-2&-14&-8\end{bmatrix}=[0\ \ 0\ \ 0]$. If $\dfrac4{\alpha^4}+\dfrac m{\alpha^a}+\dfrac n{\alpha^b}=3$, then $m+n$ is equal to:
+
+(1) 3  (2) 11  (3) 7  (4) 8
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The three column equations: $4-a-2b=0$, $64-a-14b=0$, $52+2a-8b=0$. The first two give $b=5$, $a=-6$ (the third checks). With $\alpha=\omega$ ($\alpha^3=1$, $1+\alpha+\alpha^2=0$): $\alpha^4=\alpha$, $\alpha^{a}=\alpha^{-6}=1$, $\alpha^b=\alpha^5=\alpha^2$. The equation becomes $4\alpha^2+m+n\alpha=3$, i.e. $-4\alpha-4+m+n\alpha=3$, so $n=4$, $m=7$ and $m+n=11$.
+
+### § — JEE Main 2025 · Apr session · set Q5 · MCQ
+
+Let $A$ be a $3\times3$ real matrix such that $A^2(A-2I)-4(A-I)=O$, where $I$ and $O$ are the identity and null matrices respectively. If $A^5=\alpha A^2+\beta A+\gamma I$, where $\alpha,\beta,\gamma$ are real constants, then $\alpha+\beta+\gamma$ is equal to:
+
+(1) 12  (2) 20  (3) 76  (4) 4
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $A$ satisfies $x^3-2x^2-4x+4=0$. Dividing $x^5$ by this cubic: $x^5=(x^2+2x+8)(x^3-2x^2-4x+4)+(20x^2+24x-32)$. So $A^5=20A^2+24A-32I$ and $\alpha+\beta+\gamma=20+24-32=12$.
+
+### § — JEE Main 2025 · Apr session · set Q6 · MCQ
+
+Let the matrix $A=\begin{bmatrix}1&0&0\\1&0&1\\0&1&0\end{bmatrix}$ satisfy $A^n=A^{n-2}+A^2-I$ for $n\ge3$. Then the sum of all the elements of $A^{50}$ is:
+
+(1) 53  (2) 52  (3) 39  (4) 44
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $A^2=\begin{bmatrix}1&0&0\\1&1&0\\1&0&1\end{bmatrix}$, so $B=A^2-I=\begin{bmatrix}0&0&0\\1&0&0\\1&0&0\end{bmatrix}$. The relation gives $A^{2k}=A^{2k-2}+B$, hence $A^{50}=I+25B=\begin{bmatrix}1&0&0\\25&1&0\\25&0&1\end{bmatrix}$ with element sum $1+25+1+25+1=53$.
+
+### § — JEE Main 2025 · Jan session · set Q2 · MCQ
+
+The system of equations $x+y+z=6$, $x+2y+5z=9$, $x+5y+\lambda z=\mu$ has no solution if:
+
+(1) $\lambda=15$, $\mu\ne17$  (2) $\lambda\ne17$, $\mu\ne18$  (3) $\lambda=17$, $\mu\ne18$  (4) $\lambda=17$, $\mu=18$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The coefficient determinant is $\begin{vmatrix}1&1&1\\1&2&5\\1&5&\lambda\end{vmatrix}=\lambda-17$. For $\lambda=17$ the third equation's left side is $-3R_1+4R_2$, so the system is consistent only if $\mu=-3\cdot6+4\cdot9=18$. No solution when $\lambda=17$ and $\mu\ne18$.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+If the system of linear equations $x+y+2z=6$, $2x+3y+az=a+1$, $-x-3y+bz=2b$, where $a,b\in\mathbb R$, has infinitely many solutions, then $7a+3b$ is equal to:
+
+(1) 16  (2) 12  (3) 22  (4) 9
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Eliminating $x$: $R_2-2R_1$: $y+(a-4)z=a-11$; $R_3+R_1$: $-2y+(b+2)z=2b+6$. Adding twice the first to the second: $(2a+b-6)z=2a+2b-16$. Infinitely many solutions need both sides to vanish: $2a+b=6$ and $a+b=8$, so $a=-2$, $b=10$ and $7a+3b=16$.
+
+### § — JEE Main 2025 · Jan session · set Q6 · MCQ
+
+If the system of equations $2x-y+z=4$, $5x+\lambda y+3z=12$, $100x-47y+\mu z=212$ has infinitely many solutions, then $\mu-2\lambda$ is equal to:
+
+(1) 57  (2) 59  (3) 55  (4) 56
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The third equation must equal $pR_1+qR_2$: $2p+5q=100$, $-p+\lambda q=-47$, $p+3q=\mu$, $4p+12q=212$. The last gives $p+3q=53=\mu$; then $p=53-3q$ and $2p+5q=100\Rightarrow q=6$, $p=35$. So $-35+6\lambda=-47$, $\lambda=-2$. $\mu-2\lambda=53+4=57$.
+
+### § — JEE Main 2025 · Jan session · set Q7 · MCQ
+
+If the system of equations $x+2y-3z=2$, $2x+\lambda y+5z=5$, $14x+3y+\mu z=33$ has infinitely many solutions, then $\lambda+\mu$ is equal to:
+
+(1) 13  (2) 10  (3) 12  (4) 11
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Write $R_3=pR_1+qR_2$: $p+2q=14$ and $2p+5q=33$ give $q=5$, $p=4$. Then $2p+\lambda q=3\Rightarrow\lambda=-1$ and $-3p+5q=\mu\Rightarrow\mu=13$. $\lambda+\mu=12$.
+
+### § — JEE Main 2025 · Jan session · set Q8 · MCQ
+
+Let $\alpha,\beta$ ($\alpha\ne\beta$) be the values of $m$ for which the equations $x+y+z=1$, $x+2y+4z=m$ and $x+4y+10z=m^2$ have infinitely many solutions. Then the value of $\sum_{n=1}^{10}(n^\alpha+n^\beta)$ is equal to:
+
+(1) 3080  (2) 560  (3) 3410  (4) 440
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $(1,4,10)=-2(1,1,1)+3(1,2,4)$, so consistency requires $m^2=-2+3m$, i.e. $m=1$ or $2$. Then $\sum_{n=1}^{10}(n+n^2)=55+385=440$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · MCQ
+
+If $y(x)=\begin{vmatrix}\sin x&\cos x&\sin x+\cos x+1\\27&28&27\\1&1&1\end{vmatrix}$, $x\in\mathbb R$, then $\dfrac{d^2y}{dx^2}+y$ is equal to:
+
+(1) $-1$  (2) 28  (3) 27  (4) 1
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Replace $R_2$ by $R_2-27R_3$: $(0,1,0)$. Expanding along this row: $y=\begin{vmatrix}\sin x&\sin x+\cos x+1\\1&1\end{vmatrix}=\sin x-\sin x-\cos x-1=-\cos x-1$. $y''=\cos x$, so $y''+y=-1$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · MCQ
+
+If the system of linear equations $3x+y+\beta z=3$, $2x+\alpha y-z=-3$, $x+2y+z=4$ has infinitely many solutions, then the value of $22\beta-9\alpha$ is:
+
+(1) 49  (2) 31  (3) 43  (4) 37
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Substitute $x=4-2y-z$: the first two equations become $-5y+(\beta-3)z=-9$ and $(\alpha-4)y-3z=-11$. They must be proportional: $\dfrac{-5}{\alpha-4}=\dfrac{\beta-3}{-3}=\dfrac{9}{11}$, so $\alpha=-\tfrac{19}9$ and $\beta=\tfrac6{11}$. $22\beta-9\alpha=12+19=31$.
+
+### § — JEE Main 2025 · Apr session · set Q4 · MCQ
+
+If the system of equations $2x+\lambda y+3z=5$, $3x+2y-z=7$, $4x+5y+\mu z=9$ has infinitely many solutions, then $\lambda^2+\mu^2$ is equal to:
+
+(1) 22  (2) 18  (3) 26  (4) 30
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Write $R_3=pR_1+qR_2$: $2p+3q=4$ and $5p+7q=9$ give $p=-1$, $q=2$. Then $\lambda p+2q=5\Rightarrow\lambda=-1$ and $3p-q=\mu\Rightarrow\mu=-5$. $\lambda^2+\mu^2=26$.
+

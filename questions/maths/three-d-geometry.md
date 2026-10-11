@@ -248,3 +248,193 @@ Let a line $L$ passing through the point $P(1,1,1)$ be perpendicular to the line
 
 **Solution.** Direction of $L$: $(4,1,1)\times(1,1,0)=(-1,1,3)$. $L:(1-t,1+t,1+3t)$ meets $x=0$ at $t=1$: $Q=(0,2,4)$. The parallel line through $S$: $(1-u,u,-1+3u)$ meets $x=0$ at $u=1$: $R=(0,1,2)$. In parallelogram $PQRS$, $\vec{PQ}=(-1,1,3)$ and $\vec{PS}=(0,-1,-2)$. $\vec{PQ}\times\vec{PS}=(1,-2,1)$, so the area is $\sqrt6$ and its square is $6$.
 
+### § — JEE Main 2025 · Jan session · set Q2 · MCQ
+
+The distance of the line $\dfrac{x-2}2=\dfrac{y-6}3=\dfrac{z-3}4$ from the point $(1,4,0)$ along the line $\dfrac x1=\dfrac{y-2}2=\dfrac{z+3}3$ is:
+
+(1) $\sqrt{17}$  (2) $\sqrt{15}$  (3) $\sqrt{14}$  (4) $\sqrt{13}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Move from $(1,4,0)$ along the direction $(1,2,3)$: $(1+t,\,4+2t,\,3t)$. This lies on the first line when $\dfrac{t-1}2=\dfrac{2t-2}3=\dfrac{3t-3}4$, which holds only for $t=1$ (all three equal 0). The point is $(2,6,3)$ and the distance is $t\,|(1,2,3)|=\sqrt{14}$.
+
+### § — JEE Main 2025 · Jan session · set Q3 · MCQ
+
+If the square of the shortest distance between the lines $\dfrac{x-2}1=\dfrac{y-1}2=\dfrac{z+3}{-3}$ and $\dfrac{x+1}2=\dfrac{y+3}4=\dfrac{z+5}{-5}$ is $\dfrac mn$, where $m,n$ are coprime, then $m+n$ is equal to:
+
+(1) 21  (2) 9  (3) 14  (4) 6
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\vec d_1\times\vec d_2=(1,2,-3)\times(2,4,-5)=(2,-1,0)$. The vector between the points $(2,1,-3)$ and $(-1,-3,-5)$ is $(-3,-4,-2)$, whose dot product with the cross product is $-6+4=-2$. $d^2=\dfrac{4}{|(2,-1,0)|^2}=\dfrac45$, so $m+n=9$.
+
+### § — JEE Main 2025 · Jan session · set Q4 · MCQ
+
+If the image of the point $(4,4,3)$ in the line $\dfrac{x-1}2=\dfrac{y-2}1=\dfrac{z-1}3$ is $(\alpha,\beta,\gamma)$, then $\alpha+\beta+\gamma$ is equal to:
+
+(1) 9  (2) 12  (3) 7  (4) 8
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A point of the line is $(1+2k,2+k,1+3k)$. Perpendicularity of the join to $(4,4,3)$ with the direction $(2,1,3)$: $2(2k-3)+(k-2)+3(3k-2)=0\Rightarrow14k=14$, $k=1$, so the foot is $(3,3,4)$. The image is $2(3,3,4)-(4,4,3)=(2,2,5)$, so $\alpha+\beta+\gamma=9$.
+
+### § — JEE Main 2025 · Jan session · set Q6 · MCQ
+
+Let a straight line $L$ pass through the point $P(2,-1,3)$ and be perpendicular to the lines $\dfrac{x-1}2=\dfrac{y+1}1=\dfrac{z-3}{-2}$ and $\dfrac{x-3}1=\dfrac{y-2}3=\dfrac{z+2}4$. If the line $L$ intersects the $yz$-plane at the point $Q$, then the distance between the points $P$ and $Q$ is:
+
+(1) $\sqrt{10}$  (2) $2\sqrt3$  (3) 2  (4) 3
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The direction of $L$ is $(2,1,-2)\times(1,3,4)=(10,-10,5)\parallel(2,-2,1)$. Points of $L$: $(2+2s,-1-2s,3+s)$. On the $yz$-plane $x=0\Rightarrow s=-1$, so $Q=(0,1,2)$ and $PQ=\sqrt{4+4+1}=3$.
+
+### § — JEE Main 2025 · Jan session · set Q7 · MCQ
+
+Let $A(x,y,z)$ be a point in the $xy$-plane which is equidistant from the three points $(0,3,2)$, $(2,0,3)$ and $(0,0,1)$. Let $B=(1,4,-1)$ and $C=(2,0,-2)$. Then among the statements (S1): $\triangle ABC$ is an isosceles right-angled triangle, and (S2): the area of $\triangle ABC$ is $\dfrac{9\sqrt2}2$:
+
+(1) both are true  (2) only (S2) is true  (3) only (S1) is true  (4) both are false
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $A=(x,y,0)$ with equal distances: $x^2+(y-3)^2+4=x^2+y^2+1\Rightarrow y=2$, and $(x-2)^2+y^2+9=x^2+y^2+1\Rightarrow x=3$. $A=(3,2,0)$, $\vec{AB}=(-2,2,-1)$, $\vec{AC}=(-1,-2,-2)$, both of length 3 and $\vec{AB}\cdot\vec{AC}=2-4+2=0$: an isosceles right triangle (S1 true). Its area is $\tfrac12\cdot3\cdot3=\tfrac92$, not $\tfrac{9\sqrt2}2$ (S2 false).
+
+### § — JEE Main 2025 · Jan session · set Q8 · MCQ
+
+Let $L_1:\dfrac{x-1}2=\dfrac{y-2}3=\dfrac{z-3}4$ and $L_2:\dfrac{x-2}3=\dfrac{y-4}4=\dfrac{z-5}5$ be two lines. Then which of the following points lies on the line of the shortest distance between $L_1$ and $L_2$?
+
+(1) $\left(\tfrac{14}3,-3,\tfrac{22}3\right)$  (2) $\left(-\tfrac53,-7,1\right)$  (3) $\left(2,3,\tfrac13\right)$  (4) $\left(\tfrac83,-1,\tfrac13\right)$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec d_1\times\vec d_2=(-1,2,-1)$. Let the common perpendicular meet $L_1$ at $(1+2s,2+3s,3+4s)$ and $L_2$ at $(2+3t,4+4t,5+5t)$; their difference must be parallel to $(1,-2,1)$. Solving gives $s=\tfrac13$, $t=-\tfrac16$, so the foot on $L_1$ is $\left(\tfrac53,3,\tfrac{13}3\right)$ and the line of shortest distance is $\left(\tfrac53+u,\,3-2u,\,\tfrac{13}3+u\right)$. For $u=3$ this is $\left(\tfrac{14}3,-3,\tfrac{22}3\right)$.
+
+### § — JEE Main 2025 · Jan session · set Q9 · MCQ
+
+Let a line pass through two distinct points $P(-2,-1,3)$ and $Q$, and be parallel to the vector $3\hat i+2\hat j+2\hat k$. If the distance of the point $Q$ from the point $R(1,3,3)$ is 5, then the square of the area of $\triangle PQR$ is equal to:
+
+(1) 148  (2) 136  (3) 144  (4) 140
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $Q=P+s(3,2,2)$ and $|QR|^2=(3-3s)^2+(4-2s)^2+(2s)^2=25\Rightarrow17s^2-34s=0$, so $s=2$ ($Q\ne P$) and $Q=(4,3,7)$. $\vec{PQ}=(6,4,4)$, $\vec{PR}=(3,4,0)$, $\vec{PQ}\times\vec{PR}=(-16,12,12)$, whose squared length is 544. (Area)$^2=\dfrac{544}4=136$.
+
+### § — JEE Main 2025 · Jan session · set Q10 · MCQ
+
+The perpendicular distance of the line $\dfrac{x-1}2=\dfrac{y+2}{-1}=\dfrac{z+3}2$ from the point $P(2,-10,1)$ is:
+
+(1) 6  (2) $5\sqrt2$  (3) $4\sqrt3$  (4) $3\sqrt5$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Take $A(1,-2,-3)$ on the line, $\vec d=(2,-1,2)$ with $|\vec d|=3$, and $\vec{AP}=(1,-8,4)$. $\vec{AP}\times\vec d=(-12,6,15)$, of magnitude $\sqrt{405}=9\sqrt5$. Distance $=\dfrac{9\sqrt5}3=3\sqrt5$.
+
+### § — JEE Main 2025 · Jan session · set Q14 · MCQ
+
+Let the line passing through the point $(-1,2,1)$ and parallel to the line $\dfrac{x-1}2=\dfrac{y+1}3=\dfrac z4$ intersect the line $\dfrac{x+2}3=\dfrac{y-3}2=\dfrac{z-4}1$ at the point $P$. Then the distance of $P$ from the point $Q(4,-5,1)$ is:
+
+(1) 5  (2) $5\sqrt5$  (3) $5\sqrt6$  (4) 10
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Equate $(-1+2a,2+3a,1+4a)=(-2+3b,3+2b,4+b)$: $2a-3b=-1$ and $3a-2b=1$ give $a=b=1$; $P=(1,5,5)$ (the third coordinates agree: $5=5$). $PQ=\sqrt{9+100+16}=5\sqrt5$.
+
+### § — JEE Main 2025 · Jan session · set Q17 · MCQ
+
+Let $\vec a=\hat i+2\hat j+\hat k$ and $\vec b=2\hat i+7\hat j+3\hat k$. Let $L_1:\vec r=(-\hat i+2\hat j+\hat k)+\lambda\vec a$ and $L_2:\vec r=(\hat j+\hat k)+\mu\vec b$ be two lines. If the line $L_3$ passes through the point of intersection of $L_1$ and $L_2$ and is parallel to $\vec a+\vec b$, then $L_3$ passes through the point:
+
+(1) $(5,17,4)$  (2) $(2,8,5)$  (3) $(8,26,12)$  (4) $(-1,-1,1)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Equating coordinates: $-1+\lambda=2\mu$, $2+2\lambda=1+7\mu$, $1+\lambda=1+3\mu$. From the first and third, $\lambda=3\mu$ and $\mu=1$, $\lambda=3$ (the second equation holds: $8=8$). The intersection point is $(2,8,4)$. $\vec a+\vec b=(3,9,4)$, so $L_3$: $(2+3t,8+9t,4+4t)$, which at $t=2$ gives $(8,26,12)$.
+
+### § — JEE Main 2025 · Jan session · set Q19 · MCQ
+
+Let $P$ be the foot of the perpendicular from the point $(1,2,2)$ on the line $L:\dfrac{x-1}1=\dfrac{y+1}{-1}=\dfrac{z-2}2$. Let the line $\vec r=(-\hat i+\hat j-2\hat k)+\lambda(\hat i-\hat j+\hat k)$, $\lambda\in\mathbb R$, intersect the line $L$ at $Q$. Then $2(PQ)^2$ is equal to:
+
+(1) 25  (2) 19  (3) 29  (4) 27
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Points of $L$: $(1+m,-1-m,2+2m)$. For the foot: $(m,-3-m,2m)\cdot(1,-1,2)=6m+3=0\Rightarrow m=-\tfrac12$, $P=\left(\tfrac12,-\tfrac12,1\right)$. Intersection with the second line: $-1+\lambda=1+m$, $-2+\lambda=2+2m$ give $m=-2$, $\lambda=0$, so $Q=(-1,1,-2)$ (the second coordinate also matches). $\vec{PQ}=\left(-\tfrac32,\tfrac32,-3\right)$ and $PQ^2=\tfrac{27}2$, so $2PQ^2=27$.
+
+### § — JEE Main 2025 · Apr session · set Q2 · MCQ
+
+The line $L_1$ is parallel to the vector $\vec a=-3\hat i+2\hat j+4\hat k$ and passes through the point $(7,6,2)$, and the line $L_2$ is parallel to the vector $\vec b=2\hat i+\hat j+3\hat k$ and passes through the point $(5,3,4)$. The shortest distance between the lines $L_1$ and $L_2$ is:
+
+(1) $\dfrac{23}{\sqrt{38}}$  (2) $\dfrac{21}{\sqrt{57}}$  (3) $\dfrac{23}{\sqrt{57}}$  (4) $\dfrac{21}{\sqrt{38}}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec a\times\vec b=(2\cdot3-4\cdot1,\ 4\cdot2-(-3)\cdot3,\ -3\cdot1-2\cdot2)=(2,17,-7)$, of magnitude $\sqrt{342}=3\sqrt{38}$. The vector between the given points is $(-2,-3,2)$ and its dot product with the cross product is $-4-51-14=-69$. Distance $=\dfrac{69}{3\sqrt{38}}=\dfrac{23}{\sqrt{38}}$.
+
+### § — JEE Main 2025 · Apr session · set Q3 · MCQ
+
+Let the shortest distance between the lines $\dfrac{x-3}3=\dfrac{y-\alpha}{-1}=\dfrac{z-3}1$ and $\dfrac{x+3}{-3}=\dfrac{y+7}2=\dfrac{z-\beta}4$ be $3\sqrt{30}$. Then the positive value of $5\alpha+\beta$ is:
+
+(1) 42  (2) 46  (3) 48  (4) 40
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $\vec d_1\times\vec d_2=(3,-1,1)\times(-3,2,4)=(-6,-15,3)$, of magnitude $3\sqrt{30}$. The vector between the points $(3,\alpha,3)$ and $(-3,-7,\beta)$ is $(-6,-7-\alpha,\beta-3)$, and its dot product with the cross product is $36+15(7+\alpha)+3\beta-9=132+15\alpha+3\beta$. Setting the distance $=3\sqrt{30}$: $|132+15\alpha+3\beta|=270$, so $15\alpha+3\beta=138$ or $-402$, i.e. $5\alpha+\beta=46$ or $-134$. The positive value is 46.
+
+### § — JEE Main 2025 · Apr session · set Q6 · MCQ
+
+If the image of the point $P(1,0,3)$ in the line joining the points $A(4,7,1)$ and $B(3,5,3)$ is $Q(\alpha,\beta,\gamma)$, then $\alpha+\beta+\gamma$ is equal to:
+
+(1) $\tfrac{47}3$  (2) $\tfrac{46}3$  (3) 18  (4) 13
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Direction $\vec{AB}=(-1,-2,2)$; a point of the line is $(4-k,7-2k,1+2k)$. Perpendicularity: $(3-k,7-2k,-2+2k)\cdot(-1,-2,2)=9k-21=0\Rightarrow k=\tfrac73$, so the foot is $\left(\tfrac53,\tfrac73,\tfrac{17}3\right)$. The image is $2\cdot\text{foot}-P=\left(\tfrac73,\tfrac{14}3,\tfrac{25}3\right)$ with sum $\tfrac{46}3$.
+
+### § — JEE Main 2025 · Apr session · set Q9 · MCQ
+
+The distance of the point $(7,10,11)$ from the line $\dfrac{x-4}1=\dfrac{y-4}0=\dfrac{z-2}3$ along the line $\dfrac{x-9}2=\dfrac{y-13}3=\dfrac{z-17}6$ is:
+
+(1) 18  (2) 14  (3) 12  (4) 16
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Along the direction $(2,3,6)$ (length 7): $(7+2t,10+3t,11+6t)$. It lies on the given line when $y=4$, i.e. $t=-2$, giving $(3,4,-1)$ (check: $x-4=-1$, $(z-2)/3=-1$). The distance is $|t|\cdot7=14$.
+
+### § — JEE Main 2025 · Apr session · set Q10 · MCQ
+
+Let $A$ and $B$ be two distinct points on the line $L:\dfrac{x-6}3=\dfrac{y-7}2=\dfrac{z-7}{-2}$. Both $A$ and $B$ are at a distance $2\sqrt{17}$ from the foot of the perpendicular drawn from the point $(1,2,3)$ on the line $L$. If $O$ is the origin, then $\vec{OA}\cdot\vec{OB}$ is equal to:
+
+(1) 49  (2) 47  (3) 21  (4) 62
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Foot: $(6+3k,7+2k,7-2k)$ with $(5+3k,5+2k,4-2k)\cdot(3,2,-2)=17+17k=0$, $k=-1$, so $F=(3,5,9)$. Since $|\vec d|=\sqrt{17}$, $A$ and $B$ correspond to $k=-1\pm2$: $A=(9,9,5)$ and $B=(-3,1,13)$. $\vec{OA}\cdot\vec{OB}=-27+9+65=47$.
+
+### § — JEE Main 2025 · Apr session · set Q13 · MCQ
+
+Let the line $L$ pass through $(1,1,1)$ and intersect the lines $\dfrac{x-1}2=\dfrac{y+1}3=\dfrac{z-1}4$ and $\dfrac{x-3}1=\dfrac{y-4}2=\dfrac z1$. Then which of the following points lies on the line $L$?
+
+(1) $(4,22,7)$  (2) $(5,4,3)$  (3) $(10,-29,-50)$  (4) $(7,15,13)$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The plane through $(1,1,1)$ and the first line contains $(1,-1,1)$ and has direction $(2,3,4)$; its equation is $z=2x-1$. The second line $(3+t,4+2t,t)$ meets it when $t=5+2t$, i.e. $t=-5$: the point $(-2,-6,-5)$. $L$ joins $(1,1,1)$ and $(-2,-6,-5)$: direction $(3,7,6)$, and $(1,1,1)+2(3,7,6)=(7,15,13)$.
+
+### § — JEE Main 2025 · Apr session · set Q14 · MCQ
+
+Consider the lines $L_1:x-1=y-2=z$ and $L_2:x-2=y=z-1$. Let the feet of the perpendiculars from the point $P(5,1,-3)$ on the lines $L_1$ and $L_2$ be $Q$ and $R$ respectively. If the area of the triangle $PQR$ is $A$, then $4A^2$ is equal to:
+
+(1) 139  (2) 147  (3) 151  (4) 143
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Both lines have direction $(1,1,1)$. On $L_1$: $(4-k,-1-k,-3-k)\cdot(1,1,1)=-3k=0$, so $Q=(1,2,0)$. On $L_2$: $(3-m,1-m,-4-m)\cdot(1,1,1)=-3m=0$, so $R=(2,0,1)$. $\vec{PQ}=(-4,1,3)$, $\vec{PR}=(-3,-1,4)$, cross product $(7,7,7)$ with squared length 147. $A=\tfrac12\sqrt{147}$, so $4A^2=147$.
+
+### § — JEE Main 2025 · Apr session · set Q15 · MCQ
+
+Let the values of $\lambda$ for which the shortest distance between the lines $\dfrac{x-1}2=\dfrac{y-2}3=\dfrac{z-3}4$ and $\dfrac{x-\lambda}3=\dfrac{y-4}4=\dfrac{z-5}5$ is $\dfrac1{\sqrt6}$ be $\lambda_1$ and $\lambda_2$. Then the radius of the circle passing through the points $(0,0)$, $(\lambda_1,\lambda_2)$ and $(\lambda_2,\lambda_1)$ is:
+
+(1) $\dfrac{5\sqrt2}3$  (2) 4  (3) $\dfrac{\sqrt2}3$  (4) 3
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\vec d_1\times\vec d_2=(-1,2,-1)$, magnitude $\sqrt6$; the vector between points is $(\lambda-1,2,2)$ and its dot product with the cross product is $3-\lambda$. $\dfrac{|3-\lambda|}{\sqrt6}=\dfrac1{\sqrt6}\Rightarrow\lambda=2$ or $4$. For the circle through $(0,0)$, $(2,4)$, $(4,2)$ with centre $(h,k)$: $2h+4k=10$ and $4h+2k=10$, so the centre is $\left(\tfrac53,\tfrac53\right)$ and the radius is $\sqrt2\cdot\tfrac53=\dfrac{5\sqrt2}3$.
+
