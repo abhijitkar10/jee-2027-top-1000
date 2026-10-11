@@ -556,3 +556,333 @@ A mixture X is made by dissolving $0.4$ mol of $[\text{Co(NH}_3)_5\text{SO}_4]\t
 
 **Solution.** Each $2$ L portion contains $0.2$ mol of each complex. With $\text{AgNO}_3$, only the free $\text{Br}^-$ of $[\text{Co(NH}_3)_5\text{SO}_4]\text{Br}$ precipitates: Y $=$ AgBr, $0.2$ mol. With $\text{BaCl}_2$, only the free $\text{SO}_4^{2-}$ of $[\text{Co(NH}_3)_5\text{Br}]\text{SO}_4$ precipitates: Z $=$ $\text{BaSO}_4$, $0.2$ mol.
 
+### § — JEE Main 2025 · Jan session · Coord set Q1 · MCQ
+
+The calculated spin-only magnetic moments of K$_3$[Fe(OH)$_6$] and K$_4$[Fe(OH)$_6$] respectively are:
+
+(1) 3.87 and 4.90 B.M.  (2) 4.90 and 5.92 B.M.  (3) 4.90 and 4.90 B.M.  (4) 5.92 and 4.90 B.M.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** OH$^-$ is a weak-field ligand, so both complexes are high spin. K$_3$[Fe(OH)$_6$]: Fe$^{3+}$, $d^5$, 5 unpaired electrons: $\mu=\sqrt{35}=5.92$ B.M. K$_4$[Fe(OH)$_6$]: Fe$^{2+}$, $d^6$ high spin, 4 unpaired electrons: $\mu=\sqrt{24}=4.90$ B.M.
+
+### § — JEE Main 2025 · Jan session · Coord set Q2 · MCQ
+
+Identify the coordination complexes in which the central metal ion has $d^4$ configuration.
+
+(A) [FeO$_4$]$^{2-}$  (B) [Mn(CN)$_6$]$^{3-}$  (C) [Fe(CN)$_6$]$^{3-}$  (D) Cr$_2$(O–CO–Me)$_4$(H$_2$O)$_2$  (E) [NiF$_6$]$^{2-}$
+
+Choose the correct answer from the options given below:
+
+![Figure](../../figures/j25_che_coord/q2-1.png)
+
+(1) (B), (C) and (D) only  (2) (C) and (E) only  (3) (B) and (D) only  (4) (A), (B) and (E) only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** (A) Fe$^{6+}$ is $d^2$; (B) Mn$^{3+}$ is $d^4$ ✓; (C) Fe$^{3+}$ is $d^5$; (D) chromium(II) acetate hydrate has Cr$^{2+}$, $d^4$ ✓; (E) Ni$^{4+}$ is $d^6$. So (B) and (D) only.
+
+### § — JEE Main 2025 · Jan session · Coord set Q3 · Numerical
+
+The complex of Ni$^{2+}$ ion and dimethylglyoxime contains ______ number of hydrogen (H) atoms.
+
+**Answer: 14** · key (compiled)
+
+**Solution.** The red precipitate is [Ni(dmgH)$_2$]. Each dimethylglyoximate anion (dmgH$^-$ = C$_4$H$_7$N$_2$O$_2$) has 7 H atoms (dmgH$_2$ = C$_4$H$_8$N$_2$O$_2$ has lost one H$^+$). Two ligands give $2\times7=14$ H atoms.
+
+### § — JEE Main 2025 · Jan session · Coord set Q4 · MCQ
+
+Identify the homoleptic complexes with an odd number of $d$ electrons in the central metal:
+
+(A) [FeO$_4$]$^{2-}$  (B) [Fe(CN)$_6$]$^{3-}$  (C) [Fe(CN)$_5$NO]$^{2-}$  (D) [CoCl$_4$]$^{2-}$  (E) [Co(H$_2$O)$_3$F$_3$]
+
+(1) (A), (B) and (D) only  (2) (C) and (E) only  (3) (B) and (D) only  (4) (A), (C) and (E) only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Homoleptic = one kind of ligand: (A), (B) and (D). Their $d$-electron counts: Fe$^{6+}$ $d^2$; Fe$^{3+}$ $d^5$ (odd); Co$^{2+}$ $d^7$ (odd). So (B) and (D) only.
+
+### § — JEE Main 2025 · Jan session · Coord set Q5 · MCQ
+
+The complex that shows facial–meridional isomerism is:
+
+(1) [Co(en)$_2$Cl$_2$]$^+$  (2) [Co(en)$_3$]$^{3+}$  (3) [Co(NH$_3$)$_3$Cl$_3$]  (4) [Co(NH$_3$)_4Cl$_2$]$^+$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Facial/meridional isomerism occurs in octahedral complexes of the type $[MA_3B_3]$: three identical ligands either on one triangular face (fac) or around the meridian (mer). That is [Co(NH$_3$)$_3$Cl$_3$].
+
+### § — JEE Main 2025 · Jan session · Coord set Q6 · MCQ
+
+From the magnetic behaviour of [NiCl$_4$]$^{2-}$ (paramagnetic) and [Ni(CO)$_4$] (diamagnetic), choose the correct geometry and oxidation state.
+
+(1) [NiCl$_4$]$^{2-}$: Ni$^{II}$, tetrahedral; [Ni(CO)$_4$]: Ni$^{II}$, square planar  (2) [NiCl$_4$]$^{2-}$: Ni$^{II}$, square planar; [Ni(CO)$_4$]: Ni(0), square planar  (3) [NiCl$_4$]$^{2-}$: Ni$^{II}$, tetrahedral; [Ni(CO)$_4$]: Ni(0), tetrahedral  (4) [NiCl$_4$]$^{2-}$: Ni(0), tetrahedral; [Ni(CO)$_4$]: Ni(0), square planar
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** In [NiCl$_4$]$^{2-}$ Ni is $+2$ ($d^8$), and Cl$^-$ is a weak-field ligand, so the complex is $sp^3$ tetrahedral with two unpaired electrons (paramagnetic). In [Ni(CO)$_4$] Ni is $0$ ($3d^{10}$) and the $sp^3$ hybrid complex is tetrahedral and diamagnetic.
+
+### § — JEE Main 2025 · Jan session · Coord set Q7 · MCQ
+
+Identify the homoleptic complex(es) that is/are low spin.
+
+(A) [Fe(CN)$_5$NO]$^{2-}$  (B) [CoF$_6$]$^{3-}$  (C) [Fe(CN)$_6$]$^{4-}$  (D) [Co(NH$_3$)$_6$]$^{3+}$  (E) [Cr(H$_2$O)$_6$]$^{2+}$
+
+(1) (C) only  (2) (C) and (D) only  (3) (A) and (C) only  (4) (B) and (E) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** (A) is heteroleptic (CN$^-$ and NO$^+$). (B) F$^-$ is weak field: high spin. (E) H$_2$O is weak field: high spin. (C) CN$^-$ is a strong-field ligand ($d^6$, $t_{2g}^6$) and (D) Co$^{3+}$ with NH$_3$ ($d^6$, $t_{2g}^6$) are low spin. So (C) and (D).
+
+### § — JEE Main 2025 · Jan session · Coord set Q8 · MCQ
+
+One mole of the octahedral complex compound Co(NH$_3$)$_5$Cl$_3$ gives 3 moles of ions on dissolution in water. One mole of the same complex reacts with excess AgNO$_3$ solution to yield two moles of AgCl(s). The structure of the complex is:
+
+(1) [Co(NH$_3$)$_4$Cl$_2$]·Cl·NH$_3$  (2) [Co(NH$_3$)$_3$Cl$_3$]·2NH$_3$  (3) [Co(NH$_3$)$_5$Cl]Cl$_2$  (4) [Co(NH$_3$)$_4$Cl]·Cl$_2$·NH$_3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Octahedral means six ligands inside the sphere. Three moles of ions mean one complex ion and two counter-ions; two moles of AgCl mean two ionisable Cl$^-$. Hence the coordination sphere holds 5 NH$_3$ and 1 Cl: [Co(NH$_3$)$_5$Cl]Cl$_2$.
+
+### § — JEE Main 2025 · Jan session · Coord set Q9 · MCQ
+
+Match List-I (transition metal ion) with List-II (spin-only magnetic moment, B.M.).
+
+(A) Ti$^{3+}$ (B) V$^{2+}$ (C) Ni$^{2+}$ (D) Sc$^{3+}$ with (I) 3.87 (II) 0.00 (III) 1.73 (IV) 2.84
+
+![Figure](../../figures/j25_che_coord/q9-1.png)
+
+(1) (A)–(III), (B)–(I), (C)–(IV), (D)–(II)  (2) (A)–(III), (B)–(I), (C)–(II), (D)–(IV)  (3) (A)–(IV), (B)–(II), (C)–(III), (D)–(I)  (4) (A)–(II), (B)–(IV), (C)–(I), (D)–(III)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Ti$^{3+}$ $d^1$: $\sqrt3=1.73$ (III). V$^{2+}$ $d^3$: $\sqrt{15}=3.87$ (I). Ni$^{2+}$ $d^8$: $\sqrt8=2.84$ (IV). Sc$^{3+}$ $d^0$: 0 (II).
+
+### § — JEE Main 2025 · Jan session · Coord set Q10 · MCQ
+
+Match List-I (complex) with List-II (hybridisation of the central metal ion).
+
+(A) [CoF$_6$]$^{3-}$ (B) [NiCl$_4$]$^{2-}$ (C) [Co(NH$_3$)$_6$]$^{3+}$ (D) [Ni(CN)$_4$]$^{2-}$ with (I) $d^2sp^3$ (II) $sp^3$ (III) $sp^3d^2$ (IV) $dsp^2$
+
+![Figure](../../figures/j25_che_coord/q10-1.png)
+
+(1) (A)-(I), (B)-(IV), (C)-(III), (D)-(II)  (2) (A)-(I), (B)-(II), (C)-(III), (D)-(IV)  (3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)  (4) (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** [CoF$_6$]$^{3-}$: weak field, outer-orbital $sp^3d^2$. [NiCl$_4$]$^{2-}$: Cl$^-$ is weak field, $sp^3$. [Co(NH$_3$)$_6$]$^{3+}$: inner-orbital $d^2sp^3$. [Ni(CN)$_4$]$^{2-}$: strong field, square planar $dsp^2$. So (A)-III, (B)-II, (C)-I, (D)-IV.
+
+### § — JEE Main 2025 · Jan session · Coord set Q13 · MCQ
+
+In which of the following complexes is the CFSE, $\Delta_o$, equal to zero?
+
+(1) [Fe(en)$_3$]Cl$_3$  (2) K$_4$[Fe(CN)$_6$]  (3) [Fe(NH$_3$)$_6$]Br$_2$  (4) K$_3$[Fe(SCN)$_6$]
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** CFSE is zero for $d^0$, $d^{10}$ and high-spin $d^5$ ($t_{2g}^3e_g^2$: $-0.4\times3+0.6\times2=0$). K$_3$[Fe(SCN)$_6$] has Fe$^{3+}$ ($d^5$) with the weak-field SCN$^-$ ligand (high spin), so CFSE $=0$.
+
+### § — JEE Main 2025 · Jan session · Coord set Q14 · MCQ
+
+The correct order of the following complexes in terms of their crystal field stabilisation energies is:
+
+(1) [Co(NH$_3$)$_4$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{2+}$ < [Co(en)$_3$]$^{3+}$ < [Co(NH$_3$)$_6$]$^{3+}$  (2) [Co(NH$_3$)$_6$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{3+}$ < [Co(NH$_3$)$_4$]$^{2+}$ < [Co(en)$_3$]$^{3+}$  (3) [Co(en)$_3$]$^{3+}$ < [Co(NH$_3$)$_6$]$^{3+}$ < [Co(NH$_3$)$_6$]$^{2+}$ < [Co(NH$_3$)$_4$]$^{2+}$  (4) [Co(NH$_3$)$_4$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{3+}$ < [Co(en)$_3$]$^{3+}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\Delta_t=\tfrac49\Delta_o$ for the same metal and ligand, so the tetrahedral Co$^{2+}$ complex has the smallest CFSE. Co$^{2+}$ complexes have a smaller $\Delta_o$ than Co$^{3+}$ ones (lower charge), and en is a stronger ligand than NH$_3$. Therefore [Co(NH$_3$)$_4$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{2+}$ < [Co(NH$_3$)$_6$]$^{3+}$ < [Co(en)$_3$]$^{3+}$.
+
+### § — JEE Main 2025 · Jan session · Coord set Q15 · MCQ
+
+The $d$-electronic configuration of an octahedral Co(II) complex having a magnetic moment of 3.95 B.M. is:
+
+(1) $t_{2g}^3e_g^0$  (2) $t_{2g}^6e_g^1$  (3) $t_{2g}^5e_g^2$  (4) $e^4t_2^3$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\mu=\sqrt{n(n+2)}=3.95$ gives $n=3$ unpaired electrons. Co(II) is $d^7$; high-spin octahedral $d^7$ is $t_{2g}^5e_g^2$ (3 unpaired). (Low spin $t_{2g}^6e_g^1$ would have only 1.)
+
+### § — JEE Main 2025 · Jan session · Coord set Q16 · MCQ
+
+The condition and consequence that favour the $t_{2g}^3e_g^1$ configuration in a metal complex are:
+
+(1) weak field ligand, low spin complex  (2) weak field ligand, high spin complex  (3) strong field ligand, high spin complex  (4) strong field ligand, low spin complex
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $t_{2g}^3e_g^1$ is a $d^4$ configuration with an electron in the $e_g$ level, which occurs only when $\Delta_o<P$: a weak-field ligand and a high-spin complex. (A strong field would give $t_{2g}^4$.)
+
+### § — JEE Main 2025 · Jan session · Coord set Q18 · MCQ
+
+CrCl$_3$·$x$NH$_3$ can exist as a complex. A 0.1 molal aqueous solution of this complex shows a depression in freezing point of 0.558 °C. Assuming 100% ionisation of this complex and a coordination number of Cr of 6, the complex will be: (Given $K_f=1.86$ K kg mol$^{-1}$)
+
+(1) [Cr(NH$_3$)$_5$Cl]Cl$_2$  (2) [Cr(NH$_3$)$_6$]Cl$_3$  (3) [Cr(NH$_3$)$_3$Cl$_3$]  (4) [Cr(NH$_3$)$_4$Cl$_2$]Cl
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\Delta T_f=i\,K_f\,m\Rightarrow i=\dfrac{0.558}{1.86\times0.1}=3$. Three particles per formula unit means one complex cation and two Cl$^-$ ions: [Cr(NH$_3$)$_5$Cl]Cl$_2$ (coordination number 6).
+
+### § — JEE Main 2025 · Jan session · Coord set Q19 · MCQ
+
+When ethane-1,2-diamine is added progressively to an aqueous solution of nickel(II) chloride, the sequence of colour change observed will be:
+
+(1) Violet → Blue → Pale Blue → Green  (2) Pale Blue → Blue → Green → Violet  (3) Green → Pale Blue → Blue → Violet  (4) Pale Blue → Blue → Violet → Green
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** [Ni(H$_2$O)$_6$]$^{2+}$ is green; as en replaces water the colour goes to pale blue [Ni(en)(H$_2$O)$_4$]$^{2+}$, blue [Ni(en)$_2$(H$_2$O)$_2$]$^{2+}$ and finally violet [Ni(en)$_3$]$^{2+}$ (the field strength and hence the absorbed energy increase).
+
+### § — JEE Main 2025 · Apr session · Coord set Q1 · MCQ
+
+The $d$-orbital electronic configuration of the complex among [Co(en)$_3$]$^{3+}$, [CoF$_6$]$^{3-}$, [Mn(H$_2$O)$_6$]$^{2+}$ and [Zn(H$_2$O)$_6$]$^{2+}$ that has the highest CFSE is:
+
+(1) $t_{2g}^6e_g^0$  (2) $t_{2g}^6e_g^4$  (3) $t_{2g}^3e_g^2$  (4) $t_{2g}^4e_g^2$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** [Co(en)$_3$]$^{3+}$: low-spin $d^6$, $t_{2g}^6e_g^0$, CFSE $=-2.4\Delta_o$ (the largest of the four). [CoF$_6$]$^{3-}$ is $t_{2g}^4e_g^2$ ($-0.4\Delta_o$); [Mn(H$_2$O)$_6$]$^{2+}$ is $t_{2g}^3e_g^2$ (zero); [Zn(H$_2$O)$_6$]$^{2+}$ is $t_{2g}^6e_g^4$ (zero). The highest is $t_{2g}^6e_g^0$.
+
+### § — JEE Main 2025 · Apr session · Coord set Q2 · MCQ
+
+The correct order of [FeF$_6$]$^{3-}$, [CoF$_6$]$^{3-}$, [Ni(CO)$_4$] and [Ni(CN)$_4$]$^{2-}$ complex species based on the number of unpaired electrons present is:
+
+(1) [FeF$_6$]$^{3-}$ > [CoF$_6$]$^{3-}$ > [Ni(CN)$_4$]$^{2-}$ > [Ni(CO)$_4$]  (2) [Ni(CN)$_4$]$^{2-}$ > [FeF$_6$]$^{3-}$ > [CoF$_6$]$^{3-}$ > [Ni(CO)$_4$]  (3) [CoF$_6$]$^{3-}$ > [FeF$_6$]$^{3-}$ > [Ni(CO)$_4$] > [Ni(CN)$_4$]$^{2-}$  (4) [FeF$_6$]$^{3-}$ > [CoF$_6$]$^{3-}$ > [Ni(CN)$_4$]$^{2-}$ = [Ni(CO)$_4$]
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** [FeF$_6$]$^{3-}$: Fe$^{3+}$ $d^5$ high spin, 5 unpaired. [CoF$_6$]$^{3-}$: Co$^{3+}$ $d^6$ high spin, 4 unpaired. [Ni(CN)$_4$]$^{2-}$: square planar $d^8$, 0 unpaired. [Ni(CO)$_4$]: Ni(0) $d^{10}$, 0 unpaired. Order: 5 > 4 > 0 = 0.
+
+### § — JEE Main 2025 · Apr session · Coord set Q4 · MCQ
+
+Given below are two statements:
+
+Statement I: A homoleptic octahedral complex, formed using monodentate ligands, will not show stereoisomerism.
+Statement II: cis- and trans-platin are heteroleptic complexes of Pd.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Both statements I and II are false.  (2) Statement I is false but Statement II is true.  (3) Both statements I and II are true.  (4) Statement I is true but Statement II is false.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A homoleptic octahedral complex $[MA_6]$ has only one arrangement, so Statement I is true. Cis- and trans-platin, $[Pt(NH_3)_2Cl_2]$, are complexes of platinum (not palladium), so Statement II is false.
+
+### § — JEE Main 2025 · Apr session · Coord set Q5 · Numerical
+
+The number of optical isomers exhibited by the iron complex (A) obtained from the following reaction is ______: FeCl$_3$ + KOH + H$_2$C$_2$O$_4$ → A
+
+**Answer: 2** · key (compiled)
+
+**Solution.** The product is the tris(oxalato)ferrate(III) ion, [Fe(C$_2$O$_4$)$_3$]$^{3-}$, a tris-chelate octahedral complex. It has no plane or centre of symmetry and exists as two enantiomers (Δ and Λ): 2 optical isomers.
+
+### § — JEE Main 2025 · Apr session · Coord set Q6 · MCQ
+
+The number of stereoisomers possible for the complexes [CrCl$_3$(py)$_3$] and [CrCl$_2$(ox)$_2$]$^{3-}$ are, respectively: (py = pyridine, ox = oxalate)
+
+(1) 3 & 3  (2) 2 & 2  (3) 2 & 3  (4) 1 & 2
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** [CrCl$_3$(py)$_3$] is of the $MA_3B_3$ type: fac and mer, both achiral: 2 stereoisomers. [CrCl$_2$(ox)$_2$]$^{3-}$ is $M(AA)_2B_2$: the trans isomer (achiral) and the cis isomer (which exists as two enantiomers): 3 stereoisomers.
+
+### § — JEE Main 2025 · Apr session · Coord set Q7 · MCQ
+
+An octahedral complex having molecular composition Co·5NH$_3$·Cl·SO$_4$ has two isomers A and B. The solution of A gives a white precipitate with AgNO$_3$ solution and the solution of B gives a white precipitate with BaCl$_2$ solution. The type of isomerism exhibited by the complex is:
+
+(1) Coordinate isomerism  (2) Linkage isomerism  (3) Ionisation isomerism  (4) Geometrical isomerism
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A is [Co(NH$_3$)$_5$SO$_4$]Cl (free Cl$^-$ gives AgCl) and B is [Co(NH$_3$)$_5$Cl]SO$_4$ (free SO$_4^{2-}$ gives BaSO$_4$). They differ in which anion is inside the coordination sphere and which is outside: ionisation isomerism.
+
+### § — JEE Main 2025 · Apr session · Coord set Q8 · MCQ
+
+The type of hybridisation and the magnetic property of [MnCl$_6$]$^{3-}$ are:
+
+(1) $d^2sp^3$, paramagnetic with four unpaired electrons  (2) $sp^3d^2$, paramagnetic with four unpaired electrons  (3) $d^2sp^3$, paramagnetic with two unpaired electrons  (4) $sp^3d^2$, paramagnetic with two unpaired electrons
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Mn$^{3+}$ is $d^4$ and Cl$^-$ is a weak-field ligand, so the complex is high spin: 4 unpaired electrons, using outer $d$ orbitals ($sp^3d^2$).
+
+### § — JEE Main 2025 · Apr session · Coord set Q10 · MCQ
+
+Match List-I (molecule/ion) with List-II (hybridisation of the central atom).
+
+A. PF$_5$  B. SF$_6$  C. Ni(CO)$_4$  D. [PtCl$_4$]$^{2-}$ with I. $dsp^2$ II. $sp^3d$ III. $sp^3d^2$ IV. $sp^3$
+
+![Figure](../../figures/a25_che_coord/q10-1.png)
+
+(1) A-II, B-III, C-IV, D-I  (2) A-IV, B-I, C-II, D-III  (3) A-I, B-II, C-III, D-IV  (4) A-III, B-II, C-I, D-IV
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** PF$_5$ (trigonal bipyramidal): $sp^3d$. SF$_6$ (octahedral): $sp^3d^2$. Ni(CO)$_4$ (tetrahedral): $sp^3$. [PtCl$_4$]$^{2-}$ (square planar, $d^8$): $dsp^2$. So A-II, B-III, C-IV, D-I.
+
+### § — JEE Main 2025 · Apr session · Coord set Q13 · MCQ
+
+The number of unpaired electrons responsible for the paramagnetic nature of the complex species [Fe(CN)$_6$]$^{3-}$, [FeF$_6$]$^{3-}$, [CoF$_6$]$^{3-}$, [Mn(CN)$_6$]$^{3-}$ are respectively:
+
+(1) 1, 5, 4, 2  (2) 1, 5, 5, 2  (3) 1, 1, 4, 2  (4) 1, 4, 4, 2
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** [Fe(CN)$_6$]$^{3-}$: Fe$^{3+}$ $d^5$ low spin: 1. [FeF$_6$]$^{3-}$: $d^5$ high spin: 5. [CoF$_6$]$^{3-}$: Co$^{3+}$ $d^6$ high spin: 4. [Mn(CN)$_6$]$^{3-}$: Mn$^{3+}$ $d^4$ low spin: 2.
+
+### § — JEE Main 2025 · Apr session · Coord set Q16 · MCQ
+
+Match List-I (complex/species) with List-II (shape and magnetic moment).
+
+A. [Ni(CO)$_4$]  B. [Ni(CN)$_4$]$^{2-}$  C. [NiCl$_4$]$^{2-}$  D. [MnBr$_4$]$^{2-}$ with I. Tetrahedral, 2.8 BM  II. Square planar, 0 BM  III. Tetrahedral, 0 BM  IV. Tetrahedral, 5.9 BM
+
+(1) A-III, B-IV, C-II, D-I  (2) A-I, B-II, C-III, D-IV  (3) A-III, B-II, C-I, D-IV  (4) A-IV, B-I, C-III, D-II
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Ni(CO)$_4$: $d^{10}$, tetrahedral, 0 BM (III). [Ni(CN)$_4$]$^{2-}$: square planar, 0 BM (II). [NiCl$_4$]$^{2-}$: tetrahedral, 2 unpaired electrons, 2.8 BM (I). [MnBr$_4$]$^{2-}$: Mn$^{2+}$ $d^5$ tetrahedral, 5 unpaired, 5.9 BM (IV).
+
+### § — JEE Main 2025 · Apr session · Coord set Q17 · MCQ
+
+Given below are two statements:
+
+Statement I: In octahedral complexes, when $\Delta_o<P$ high-spin complexes are formed. When $\Delta_o>P$ low-spin complexes are formed.
+Statement II: In tetrahedral complexes, because of $\Delta_t<P$, low-spin complexes are rarely formed.
+
+In the light of the above statements, choose the most appropriate answer.
+
+(1) Statement I is correct but Statement II is incorrect.  (2) Both Statement I and Statement II are incorrect.  (3) Statement I is incorrect but Statement II is correct.  (4) Both Statement I and Statement II are correct.
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Statement I is the standard spin-state criterion. In tetrahedral complexes $\Delta_t=\tfrac49\Delta_o$ is small, always less than the pairing energy $P$, so tetrahedral complexes are almost always high spin. Both are correct.
+
+### § — JEE Main 2025 · Apr session · Coord set Q18 · Numerical
+
+A transition metal M among Mn, Cr, Co and Fe has the highest standard electrode potential ($M^{3+}/M^{2+}$). It forms a metal complex of the type [M(CN)$_6$]$^{4-}$. The number of electrons present in the $e_g$ orbitals of the complex is ______.
+
+**Answer: 1** · key (compiled)
+
+**Solution.** $E^\circ(M^{3+}/M^{2+})$: Mn $+1.57$, Cr $-0.41$, Co $+1.97$, Fe $+0.77$ V; the highest is Co. [Co(CN)$_6$]$^{4-}$ has Co$^{2+}$ ($d^7$) with strong-field CN$^-$: $t_{2g}^6e_g^1$, so 1 electron in $e_g$.
+
+### § — JEE Main 2025 · Apr session · Coord set Q19 · MCQ
+
+The correct order of the complexes [Co(NH$_3$)$_5$(H$_2$O)]$^{3+}$ (A), [Co(NH$_3$)$_6$]$^{3+}$ (B), [Co(CN)$_6$]$^{3-}$ (C) and [CoCl(NH$_3$)$_5$]$^{2+}$ (D) in terms of the wavelength of light absorbed is:
+
+(1) D > A > B > C  (2) C > B > D > A  (3) D > C > B > A  (4) C > B > A > D
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Absorbed wavelength is inversely related to $\Delta_o$ (hence to ligand field strength). Spectrochemical order: Cl$^-$ < H$_2$O < NH$_3$ < CN$^-$, so $\Delta_o$: D < A < B < C and the wavelength absorbed is D > A > B > C.
+
+### § — JEE Main 2025 · Apr session · Coord set Q20 · MCQ
+
+Identify the diamagnetic octahedral complex ions from below:
+
+A. [Mn(CN)$_6$]$^{3-}$  B. [Co(NH$_3$)$_6$]$^{3+}$  C. [Fe(CN)$_6$]$^{4-}$  D. [Co(H$_2$O)$_3$F$_3$]
+
+(1) B and D only  (2) A and D only  (3) A and C only  (4) B and C only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A: Mn$^{3+}$ $d^4$ low spin, 2 unpaired. B: Co$^{3+}$ $d^6$ with NH$_3$ (low spin, $t_{2g}^6$): diamagnetic. C: Fe$^{2+}$ $d^6$ with CN$^-$: diamagnetic. D: Co$^{3+}$ with weak-field H$_2$O/F$^-$: high spin, paramagnetic. So B and C only.
+

@@ -472,3 +472,210 @@ X and Y are the numbers of electrons involved, respectively, during the oxidatio
 
 **Solution.** One dichromate takes 6 electrons ($\mathrm{Cr}^{+6}\to2\mathrm{Cr}^{+3}$). $\mathrm{Cr_2O_7^{2-}+14H^++6I^-\to2Cr^{3+}+3I_2+7H_2O}$ ($X=6$) and $\mathrm{Cr_2O_7^{2-}+14H^++3S^{2-}\to2Cr^{3+}+3S+7H_2O}$ ($Y=6$). $X+Y=12$.
 
+### § — JEE Main 2025 · Jan session · Elec set Q1 · MCQ
+
+Standard electrode potentials for a few half cells are: $E^\circ_{Cu^{2+}/Cu}=0.34$ V, $E^\circ_{Zn^{2+}/Zn}=-0.76$ V, $E^\circ_{Ag^+/Ag}=0.80$ V, $E^\circ_{Mg^{2+}/Mg}=-2.37$ V. Which one of the following cells gives the most negative value of $\Delta G^\circ$?
+
+(1) Zn|Zn$^{2+}$(1M)||Ag$^+$(1M)|Ag  (2) Zn|Zn$^{2+}$(1M)||Mg$^{2+}$(1M)|Mg  (3) Ag|Ag$^+$(1M)||Mg$^{2+}$(1M)|Mg  (4) Cu|Cu$^{2+}$(1M)||Ag$^+$(1M)|Ag
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\Delta G^\circ=-nFE^\circ_{cell}$, so the most negative value goes with the largest cell potential. (1) $0.80-(-0.76)=1.56$ V; (4) $0.80-0.34=0.46$ V; (2) and (3) are negative potentials (non-spontaneous as written). Largest is (1).
+
+### § — JEE Main 2025 · Jan session · Elec set Q2 · MCQ
+
+For Mg|Mg$^{2+}$(aq)||Ag$^+$(aq)|Ag the correct Nernst equation is:
+
+(1) $E_{cell}=E^\circ_{cell}-\dfrac{RT}{2F}\ln\dfrac{[Ag^+]}{[Mg^{2+}]}$  (2) $E_{cell}=E^\circ_{cell}+\dfrac{RT}{2F}\ln\dfrac{[Ag^+]^2}{[Mg^{2+}]}$  (3) $E_{cell}=E^\circ_{cell}-\dfrac{RT}{2F}\ln\dfrac{[Ag^+]^2}{[Mg^{2+}]}$  (4) $E_{cell}=E^\circ_{cell}-\dfrac{RT}{2F}\ln\dfrac{[Mg^{2+}]}{[Ag^+]}$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Cell reaction: Mg + 2Ag$^+$ → Mg$^{2+}$ + 2Ag, $n=2$, $Q=\dfrac{[Mg^{2+}]}{[Ag^+]^2}$. $E=E^\circ-\dfrac{RT}{2F}\ln\dfrac{[Mg^{2+}]}{[Ag^+]^2}=E^\circ+\dfrac{RT}{2F}\ln\dfrac{[Ag^+]^2}{[Mg^{2+}]}$.
+
+### § — JEE Main 2025 · Jan session · Elec set Q4 · MCQ
+
+A solution of aluminium chloride is electrolysed for 30 minutes using a current of 2 A. The amount of aluminium deposited at the cathode is: [Given: molar mass of Al and Cl are 27 and 35.5 g mol$^{-1}$; Faraday constant $=96500$ C mol$^{-1}$]
+
+(1) 1.660 g  (2) 0.336 g  (3) 0.441 g  (4) 1.007 g
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $Q=It=2\times1800=3600$ C. Al$^{3+}$ + 3e$^-$ → Al, so $m=\dfrac{M}{3F}Q=\dfrac{27\times3600}{3\times96500}=0.336$ g.
+
+### § — JEE Main 2025 · Jan session · Elec set Q5 · MCQ
+
+FeO$_4^{2-}\xrightarrow{+2.0\text{ V}}$ Fe$^{3+}$ $\xrightarrow{0.8\text{ V}}$ Fe$^{2+}$ $\xrightarrow{-0.5\text{ V}}$ Fe$^0$. In the above diagram, the standard electrode potentials are given in volts over the arrows. The value of $E^\circ_{FeO_4^{2-}/Fe^{2+}}$ is:
+
+(1) 2.1 V  (2) 1.7 V  (3) 1.4 V  (4) 1.2 V
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Add $\Delta G^\circ=-nFE^\circ$ over the steps: FeO$_4^{2-}\to$Fe$^{3+}$ ($n=3$, 2.0 V) and Fe$^{3+}\to$Fe$^{2+}$ ($n=1$, 0.8 V). $E^\circ=\dfrac{3(2.0)+1(0.8)}{4}=1.7$ V.
+
+### § — JEE Main 2025 · Jan session · Elec set Q6 · MCQ
+
+For the cell Fe$^{2+}$(aq) + Ag$^+$(aq) → Fe$^{3+}$(aq) + Ag(s), given Ag$^+$ + e$^-$ → Ag, $E^\theta=x$ V; Fe$^{2+}$ + 2e$^-$ → Fe, $E^\theta=y$ V; Fe$^{3+}$ + 3e$^-$ → Fe, $E^\theta=z$ V. The standard cell potential of the above reaction is:
+
+(1) $x+y-z$  (2) $x+2y$  (3) $x+2y-3z$  (4) $y-2x$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Fe$^{3+}$ + e$^-$ → Fe$^{2+}$ is (Fe$^{3+}$→Fe) minus (Fe$^{2+}$→Fe): $\Delta G=-3zF+2yF=-1\cdot E^\circ_{Fe^{3+}/Fe^{2+}}F$, so $E^\circ_{Fe^{3+}/Fe^{2+}}=3z-2y$. Cell potential $=E^\circ_{cathode}-E^\circ_{anode}=x-(3z-2y)=x+2y-3z$.
+
+### § — JEE Main 2025 · Jan session · Elec set Q7 · MCQ
+
+Based on the data given below: $E^\circ_{Cr_2O_7^{2-}/Cr^{3+}}=1.33$ V, $E^\circ_{Cl_2/Cl^-}=1.36$ V, $E^\circ_{MnO_4^-/Mn^{2+}}=1.51$ V, $E^\circ_{Cr^{3+}/Cr}=-0.74$ V; the strongest reducing agent is:
+
+(1) Cr  (2) Cl$^-$  (3) MnO$_4^-$  (4) Mn$^{2+}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The strongest reducing agent is the reduced form of the couple with the lowest (most negative) reduction potential: $Cr^{3+}/Cr$ at $-0.74$ V, i.e. Cr.
+
+### § — JEE Main 2025 · Jan session · Elec set Q8 · Numerical
+
+Electrolysis of 600 mL of aqueous NaCl for 5 min changes the pH of the solution to 12. The current in amperes used for the given electrolysis is ______. (Nearest integer)
+
+**Answer: 2** · key (compiled)
+
+**Solution.** pH 12 means $[OH^-]=0.01$ M, so $0.01\times0.6=6\times10^{-3}$ mol OH$^-$ (1 mol per Faraday) $\Rightarrow Q=6\times10^{-3}\times96500=579$ C. $I=\dfrac{579}{300}=1.93\approx2$ A.
+
+### § — JEE Main 2025 · Jan session · Elec set Q9 · MCQ
+
+The standard reduction potential values of some of the p-block ions are given below. Predict the one with the strongest oxidising capacity: (1) $E^\ominus_{Pb^{4+}/Pb^{2+}}=+1.67$ V (2) $E^\ominus_{Sn^{4+}/Sn^{2+}}=+1.15$ V (3) $E^\ominus_{Al^{3+}/Al}=-1.66$ V (4) $E^\ominus_{Tl^{3+}/Tl}=+1.26$ V
+
+(1) Pb$^{4+}$/Pb$^{2+}$  (2) Sn$^{4+}$/Sn$^{2+}$  (3) Al$^{3+}$/Al  (4) Tl$^{3+}$/Tl
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** The oxidised form of the couple with the highest reduction potential is the strongest oxidant: Pb$^{4+}$ ($+1.67$ V). This is also a manifestation of the inert-pair effect.
+
+### § — JEE Main 2025 · Jan session · Elec set Q10 · MCQ
+
+O$_2$ gas will be evolved as a product of electrolysis of:
+
+(A) an aqueous solution of AgNO$_3$ using silver electrodes.
+(B) an aqueous solution of AgNO$_3$ using platinum electrodes.
+(C) a dilute solution of H$_2$SO$_4$ using platinum electrodes.
+(D) a high-concentration solution of H$_2$SO$_4$ using platinum electrodes.
+
+(1) (A) and (C) only  (2) (B) and (C) only  (3) (A) and (D) only  (4) (B) and (D) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** (A) With silver electrodes the Ag anode itself dissolves (no O$_2$). (B) With inert Pt, water is oxidised at the anode: O$_2$ evolves ✓. (C) Dilute H$_2$SO$_4$ with Pt: water oxidation gives O$_2$ ✓. (D) Concentrated H$_2$SO$_4$ is oxidised to peroxodisulphate (S$_2$O$_8^{2-}$) rather than O$_2$. So (B) and (C).
+
+### § — JEE Main 2025 · Jan session · Elec set Q11 · MCQ
+
+Match List-I (applications) with List-II (batteries/cell).
+
+(A) Transistors  (B) Hearing aids  (C) Inverters  (D) Apollo space ship
+
+(I) Anode – Zn/Hg; cathode – HgO + C  (II) Hydrogen fuel cell  (III) Anode – Zn; cathode – carbon  (IV) Anode – Pb; cathode – Pb|PbO$_2$
+
+![Figure](../../figures/j25_che_elc/q11-1.png)
+
+(1) (A)-(III), (B)-(II), (C)-(IV), (D)-(I)  (2) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)  (3) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)  (4) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Transistors (radios) use the dry cell (Zn anode, carbon cathode): III. Hearing aids use the mercury cell (Zn–Hg anode, HgO + C cathode): I. Inverters use lead storage batteries: IV. The Apollo spacecraft used the H$_2$–O$_2$ fuel cell: II.
+
+### § — JEE Main 2025 · Jan session · Elec set Q12 · MCQ
+
+The molar conductivity of a weak electrolyte when plotted against the square root of its concentration, which of the following is expected to be observed?
+
+(1) A small decrease in molar conductivity is observed at infinite dilution.  (2) Molar conductivity decreases sharply with increase in concentration.  (3) A small increase in molar conductivity is observed at infinite dilution.  (4) Molar conductivity increases sharply with increase in concentration.
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For a weak electrolyte the degree of dissociation falls rapidly as the concentration increases (and $\Lambda_m^\circ$ cannot be obtained by extrapolation). The $\Lambda_m$ vs $\sqrt c$ plot therefore shows a sharp decrease in molar conductivity with increasing concentration (unlike strong electrolytes, whose plot is nearly linear).
+
+### § — JEE Main 2025 · Jan session · Elec set Q13 · Numerical
+
+Given below is the plot of the molar conductivity versus $\sqrt{\text{concentration}}$ for KCl in aqueous solution. If, for the higher concentration of KCl solution, the resistance of the conductivity cell is 100 $\Omega$, then the resistance of the same cell with the dilute solution is $x\ \Omega$. The value of $x$ is ______. (Nearest integer)
+
+![Figure](../../figures/j25_che_elc/q13-1.png)
+
+**Answer: 150** · key (compiled)
+
+**Solution.** From the graph: $\Lambda_m=100$ S cm$^2$ mol$^{-1}$ at $\sqrt c=0.15$ ($c=0.0225$) and $150$ at $\sqrt c=0.1$ ($c=0.01$). $\kappa=\Lambda_mc$ and $R\propto\dfrac1\kappa$ for the same cell. $\dfrac{R_{dil}}{R_{conc}}=\dfrac{\kappa_{conc}}{\kappa_{dil}}=\dfrac{100\times0.0225}{150\times0.01}=1.5$. So $R_{dil}=150\ \Omega$.
+
+### § — JEE Main 2025 · Apr session · Elec set Q2 · MCQ
+
+The standard cell potential ($E^\ominus_{cell}$) of a fuel cell based on the oxidation of methanol in air that has been used to power television relay stations is measured as 1.21 V. The standard half-cell reduction potential for O$_2$ ($E^\circ_{O_2/H_2O}$) is 1.229 V. Choose the correct statement:
+
+(1) The standard half-cell reduction potential for the reduction of CO$_2$ ($E^\circ_{CO_2/CH_3OH}$) is 19 mV  (2) Oxygen is formed at the anode.  (3) Reactants are fed at one go to each electrode.  (4) Reduction of methanol takes place at the cathode.
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** In the methanol–air fuel cell, O$_2$ is reduced at the cathode and methanol is oxidised at the anode, so (2) and (4) are false; the reactants are fed continuously, not "at one go" (3 false). $E^\circ_{cell}=E^\circ_{cathode}-E^\circ_{anode}\Rightarrow E^\circ_{CO_2/CH_3OH}=1.229-1.21=0.019$ V $=19$ mV.
+
+### § — JEE Main 2025 · Apr session · Elec set Q4 · MCQ
+
+Given below are two statements: 1 M aqueous solution of each of Cu(NO$_3$)$_2$, AgNO$_3$, Hg$_2$(NO$_3$)$_2$ and Mg(NO$_3$)$_2$ are electrolysed using inert electrodes. Given: $E^\theta_{Ag^+/Ag}=0.80$ V, $E^\theta_{Hg_2^{2+}/Hg}=0.79$ V, $E^\theta_{Cu^{2+}/Cu}=0.24$ V and $E^\theta_{Mg^{2+}/Mg}=-2.37$ V.
+
+Statement I: With increasing voltage, the sequence of deposition of metals on the cathode will be Ag, Hg and Cu.
+Statement II: Magnesium will not be deposited at the cathode; instead, oxygen gas will be evolved at the cathode.
+
+In the light of the above statements, choose the most appropriate answer.
+
+(1) Both statements I and II are incorrect  (2) Statement I is correct but statement II is incorrect  (3) Both statements I and II are correct  (4) Statement I is incorrect but statement II is correct
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Metal ions with higher reduction potential are reduced first as the voltage is raised: Ag (0.80) > Hg (0.79) > Cu (0.24), so Statement I is correct. Mg$^{2+}$ ($-2.37$ V) is not reduced in water; instead water is reduced at the cathode to give H$_2$ gas (O$_2$ is evolved at the anode, not the cathode), so Statement II is incorrect.
+
+### § — JEE Main 2025 · Apr session · Elec set Q5 · Numerical
+
+Consider the following half-cell reaction: Cr$_2$O$_7^{2-}$(aq) + 6e$^-$ + 14H$^+$(aq) → 2Cr$^{3+}$(aq) + 7H$_2$O(l). The reaction was conducted with the ratio $\dfrac{[Cr^{3+}]^2}{[Cr_2O_7^{2-}]}=10^{-6}$. The pH value at which the EMF of the half cell will become zero is ______. (nearest integer) [Given: $E^\circ_{Cr_2O_7^{2-},H^+/Cr^{3+}}=1.33$ V, $\dfrac{2.303RT}F=0.059$ V]
+
+**Answer: 10** · key (compiled)
+
+**Solution.** $E=E^\circ-\dfrac{0.059}6\log\dfrac{[Cr^{3+}]^2}{[Cr_2O_7^{2-}][H^+]^{14}}=1.33-\dfrac{0.059}6\left(-6+14\,pH\right)=0$. So $14\,pH-6=\dfrac{1.33\times6}{0.059}=135.2$, giving $pH=10.1\approx10$.
+
+### § — JEE Main 2025 · Apr session · Elec set Q8 · MCQ
+
+The correct order of limiting molar conductivity for cations in water at 298 K is:
+
+(1) H$^+$ > Na$^+$ > K$^+$ > Ca$^{2+}$ > Mg$^{2+}$  (2) H$^+$ > Ca$^{2+}$ > Mg$^{2+}$ > K$^+$ > Na$^+$  (3) Mg$^{2+}$ > H$^+$ > Ca$^{2+}$ > K$^+$ > Na$^+$  (4) H$^+$ > Na$^+$ > Ca$^{2+}$ > Mg$^{2+}$ > K$^+$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Limiting ionic conductivities (S cm$^2$ mol$^{-1}$): H$^+$ 349.8 (Grotthuss hopping), Ca$^{2+}$ 119, Mg$^{2+}$ 106, K$^+$ 73.5, Na$^+$ 50.1. Divalent ions conduct more than the monovalent K$^+$ and Na$^+$, and among the monovalent ions the smaller Na$^+$ is more heavily hydrated and slower than K$^+$.
+
+### § — JEE Main 2025 · Apr session · Elec set Q9 · Numerical
+
+The molar conductance of an infinitely dilute solution of ammonium chloride was found to be 185 S cm$^2$ mol$^{-1}$ and the ionic conductances of hydroxyl and chloride ions are 170 and 70 S cm$^2$ mol$^{-1}$ respectively. If the molar conductance of 0.02 M solution of ammonium hydroxide is 85.5 S cm$^2$ mol$^{-1}$, its degree of dissociation is given by $x\times10^{-1}$. The value of $x$ is ______. (Nearest integer)
+
+**Answer: 3** · key (compiled)
+
+**Solution.** $\lambda^\circ_{NH_4^+}=185-70=115$, so $\Lambda^\circ_{NH_4OH}=115+170=285$ S cm$^2$ mol$^{-1}$. $\alpha=\dfrac{\Lambda_m}{\Lambda^\circ}=\dfrac{85.5}{285}=0.3=3\times10^{-1}$, so $x=3$.
+
+### § — JEE Main 2025 · Apr session · Elec set Q10 · MCQ
+
+Given below are two statements:
+
+Statement I: Mohr's salt is composed of only three types of ions: ferrous, ammonium and sulphate.
+Statement II: If the molar conductance at infinite dilution of ferrous, ammonium and sulphate ions are $x_1$, $x_2$ and $x_3$ S cm$^2$ mol$^{-1}$ respectively, then the molar conductance for Mohr's salt solution at infinite dilution would be given by $x_1+x_2+2x_3$.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Both statements I and II are false  (2) Statement I is false but statement II is true  (3) Statement I is true but statement II is false  (4) Both statements I and II are true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Mohr's salt, FeSO$_4$·(NH$_4$)$_2$SO$_4$·6H$_2$O, gives Fe$^{2+}$, NH$_4^+$ and SO$_4^{2-}$ ions only (Statement I true). Per formula unit there is 1 Fe$^{2+}$, 2 NH$_4^+$ and 2 SO$_4^{2-}$, so $\Lambda^\circ=x_1+2x_2+2x_3$; Statement II is false.
+
+### § — JEE Main 2025 · Apr session · Elec set Q11 · MCQ
+
+40 mL of a mixture of CH$_3$COOH and HCl (aqueous solution) is titrated against 0.1 M NaOH solution conductometrically. Which of the following statements is correct?
+
+![Figure](../../figures/a25_che_elc/q11-1.png)
+
+(1) The concentration of CH$_3$COOH in the original mixture is 0.005 M  (2) The concentration of HCl in the original mixture is 0.005 M  (3) CH$_3$COOH is neutralised first followed by neutralisation of HCl  (4) Point 'C' indicates the complete neutralisation of HCl
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** The strong acid HCl is neutralised first (conductance falls sharply as fast H$^+$ is removed), up to 2.0 mL of NaOH (point B). Then CH$_3$COOH is neutralised between 2.0 and 5.0 mL (point C = end point), after which conductance rises with excess NaOH. HCl: $\dfrac{2.0\times0.1}{40}=0.005$ M. CH$_3$COOH: $\dfrac{3.0\times0.1}{40}=0.0075$ M. So (2).
+

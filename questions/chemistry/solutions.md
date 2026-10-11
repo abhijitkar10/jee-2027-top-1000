@@ -311,3 +311,167 @@ A solution is prepared by dissolving 0.3 g of a non-volatile non-electrolyte sol
 
 **Solution.** Relative lowering $\dfrac{640-600}{640}=\dfrac1{16}=i\,x_2$. Boiling-point elevation: $\Delta T_b=2=i\times0.52\times\dfrac{W/M}{0.1\ \text{kg}}\Rightarrow i=\dfrac{M}{2.6\,W}$. Hence $x_2=\dfrac{1}{16\,i}=\dfrac{2.6\,W}{16\,M}=\dfrac{1.3}{8}\times\dfrac WM$.
 
+### § — JEE Main 2025 · Jan session · Soln set Q1 · Numerical
+
+The observed and normal molar masses of compound MX$_2$ are 65.6 and 164 respectively. The percent degree of ionisation of MX$_2$ is ______ %. (Nearest integer)
+
+**Answer: 75** · key (compiled)
+
+**Solution.** $i=\dfrac{M_{normal}}{M_{observed}}=\dfrac{164}{65.6}=2.5$. For MX$_2$ → M$^{2+}$ + 2X$^-$, $i=1+2\alpha$, so $\alpha=0.75=75\%$.
+
+### § — JEE Main 2025 · Jan session · Soln set Q2 · Numerical
+
+If A$_2$B is 30% ionised in an aqueous solution, then the value of the van't Hoff factor ($i$) is ______ $\times10^{-1}$.
+
+**Answer: 16** · key (compiled)
+
+**Solution.** A$_2$B → 2A$^+$ + B$^{2-}$ gives 3 ions, so $i=1+(3-1)\alpha=1+2(0.3)=1.6=16\times10^{-1}$.
+
+### § — JEE Main 2025 · Jan session · Soln set Q3 · MCQ
+
+Given below are two statements:
+
+Statement I: NaCl is added to the ice at 0 °C present in the ice-cream box to prevent the melting of the ice cream.
+Statement II: On addition of NaCl to ice at 0 °C, there is a depression in freezing point.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Both Statement I and Statement II are false  (2) Statement I is false but Statement II is true  (3) Statement I is true but Statement II is false  (4) Both Statement I and Statement II are true
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Adding salt lowers the freezing (melting) point of ice (Statement II true). The salt does not stop ice melting; it makes the ice–salt mixture melt below 0 °C, so it becomes colder than pure ice and keeps the ice cream cold. Statement I, as worded (salt prevents the ice cream from melting), is therefore treated as false.
+
+### § — JEE Main 2025 · Jan session · Soln set Q6 · MCQ
+
+When a non-volatile solute is added to the solvent, the vapour pressure of the solvent decreases by 10 mm Hg. The mole fraction of the solute in the solution is 0.2. What would be the mole fraction of the solvent if the decrease in vapour pressure is 20 mm Hg?
+
+(1) 0.8  (2) 0.4  (3) 0.2  (4) 0.6
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Raoult's law: $\dfrac{\Delta P}{P^\circ}=x_{solute}$. $\dfrac{10}{P^\circ}=0.2\Rightarrow P^\circ=50$ mm Hg. For $\Delta P=20$: $x_{solute}=\dfrac{20}{50}=0.4$, so $x_{solvent}=0.6$.
+
+### § — JEE Main 2025 · Jan session · Soln set Q7 · MCQ
+
+Arrange the following solutions in order of their increasing boiling points: (i) $10^{-4}$ M NaCl, (ii) $10^{-4}$ M urea, (iii) $10^{-3}$ M NaCl, (iv) $10^{-2}$ M NaCl.
+
+(1) (i) < (ii) < (iii) < (iv)  (2) (iv) < (iii) < (i) < (ii)  (3) (ii) < (i) ≡ (iii) < (iv)  (4) (ii) < (i) < (iii) < (iv)
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $\Delta T_b\propto i\,c$: urea $1\times10^{-4}$; NaCl ($i=2$): $2\times10^{-4}$, $2\times10^{-3}$, $2\times10^{-2}$. Increasing order: (ii) < (i) < (iii) < (iv).
+
+### § — JEE Main 2025 · Jan session · Soln set Q9 · MCQ
+
+What is the freezing point depression constant of a solvent, 50 g of which contains 1 g of non-volatile solute (molar mass 256 g mol$^{-1}$), if the decrease in freezing point is 0.40 K?
+
+(1) 3.72 K kg mol$^{-1}$  (2) 1.86 K kg mol$^{-1}$  (3) 4.43 K kg mol$^{-1}$  (4) 5.12 K kg mol$^{-1}$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $m=\dfrac{1/256}{0.050}=0.0781$ mol kg$^{-1}$. $K_f=\dfrac{\Delta T_f}m=\dfrac{0.40}{0.0781}=5.12$ K kg mol$^{-1}$ (benzene).
+
+### § — JEE Main 2025 · Jan session · Soln set Q10 · MCQ
+
+1.24 g of AX$_2$ (molar mass 124 g mol$^{-1}$) is dissolved in 1 kg of water to form a solution with a boiling point of 100.0156 °C, while 25.4 g of AY$_2$ (molar mass 250 g mol$^{-1}$) in 2 kg of water constitutes a solution with a boiling point of 100.0260 °C. $K_b$(H$_2$O) $=0.52$ K kg mol$^{-1}$. Which of the following is correct?
+
+(1) AX$_2$ is fully ionised while AY$_2$ is completely unionised.  (2) AX$_2$ is completely unionised while AY$_2$ is fully ionised.  (3) AX$_2$ and AY$_2$ (both) are completely unionised.  (4) AX$_2$ and AY$_2$ (both) are fully ionised.
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** AX$_2$: $m=\dfrac{0.01}1=0.01$; $\Delta T_b=0.0156=i(0.52)(0.01)\Rightarrow i=3$ (fully ionised into 3 ions). AY$_2$: $m=\dfrac{25.4/250}2=0.0508$; $\Delta T_b=0.0260=i(0.52)(0.0508)\Rightarrow i\approx0.98\approx1$ (unionised).
+
+### § — JEE Main 2025 · Apr session · Soln set Q1 · Numerical
+
+The percentage dissociation of a salt (MX$_3$) solution at a given temperature (van't Hoff factor $i=2$) is ______ % (nearest integer).
+
+**Answer: 33** · key (compiled)
+
+**Solution.** MX$_3$ → M$^{3+}$ + 3X$^-$ gives 4 ions: $i=1+3\alpha=2\Rightarrow\alpha=\tfrac13\approx33\%$.
+
+### § — JEE Main 2025 · Apr session · Soln set Q3 · MCQ
+
+A solution is made by mixing one mole of volatile liquid A with 3 moles of volatile liquid B. The vapour pressure of pure A is 200 mm Hg and that of the solution is 500 mm Hg. The vapour pressure of pure B and the least volatile component of the solution, respectively, are:
+
+(1) 1400 mm Hg, A  (2) 1400 mm Hg, B  (3) 600 mm Hg, B  (4) 600 mm Hg, A
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $P=x_AP_A^\circ+x_BP_B^\circ=\tfrac14(200)+\tfrac34P_B^\circ=500\Rightarrow P_B^\circ=600$ mm Hg. A has the lower vapour pressure, so it is the least volatile component.
+
+### § — JEE Main 2025 · Apr session · Soln set Q4 · MCQ
+
+Liquid A and B form an ideal solution. The vapour pressures of pure liquids A and B are 350 and 750 mm Hg respectively at the same temperature. If $x_A$ and $x_B$ are the mole fractions of A and B in solution while $y_A$ and $y_B$ are the mole fractions of A and B in the vapour phase, then:
+
+(1) $\dfrac{x_A}{x_B}<\dfrac{y_A}{y_B}$  (2) $\dfrac{x_A}{x_B}=\dfrac{y_A}{y_B}$  (3) $\dfrac{x_A}{x_B}>\dfrac{y_A}{y_B}$  (4) $(x_A-y_A)<(x_B-y_B)$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $\dfrac{y_A}{y_B}=\dfrac{x_AP_A^\circ}{x_BP_B^\circ}=\dfrac{x_A}{x_B}\cdot\dfrac{350}{750}<\dfrac{x_A}{x_B}$, so $\dfrac{x_A}{x_B}>\dfrac{y_A}{y_B}$ (the vapour is richer in the more volatile B).
+
+### § — JEE Main 2025 · Apr session · Soln set Q5 · MCQ
+
+Which of the following binary mixtures does not show the behaviour of minimum-boiling azeotropes?
+
+(1) H$_2$O + CH$_3$COC$_2$H$_5$  (2) C$_6$H$_5$OH + C$_6$H$_5$NH$_2$  (3) CS$_2$ + CH$_3$COCH$_3$  (4) CH$_3$OH + CHCl$_3$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Minimum-boiling azeotropes come from positive deviations from Raoult's law (weaker A–B interactions). Water–butanone, CS$_2$–acetone and methanol–chloroform all show positive deviation. Phenol and aniline hydrogen-bond strongly with each other (negative deviation), forming a maximum-boiling azeotrope instead.
+
+### § — JEE Main 2025 · Apr session · Soln set Q6 · Numerical
+
+When 1 g each of compounds AB and AB$_2$ are dissolved in 15 g of water separately, they increase the boiling point by 2.7 K and 1.5 K respectively. The atomic mass of A (in amu) is ______ $\times10^{-1}$ (nearest integer). (Given: molal boiling point elevation constant $=0.5$ K kg mol$^{-1}$)
+
+**Answer: 25** · key (compiled)
+
+**Solution.** AB: $m=\dfrac{2.7}{0.5}=5.4$ mol/kg, so moles $=5.4\times0.015=0.081$ and $M_{AB}=\dfrac1{0.081}=12.35$. AB$_2$: $m=\dfrac{1.5}{0.5}=3$, moles $=0.045$ and $M_{AB_2}=22.2$. Then $M_B=22.2-12.35=9.88$ and $M_A=12.35-9.88=2.47\approx25\times10^{-1}$.
+
+### § — JEE Main 2025 · Apr session · Soln set Q7 · MCQ
+
+2 moles each of ethylene glycol and glucose are dissolved in 500 g of water. The boiling point of the resulting solution is: (Given: ebullioscopic constant of water $=0.52$ K kg mol$^{-1}$)
+
+(1) 379.2 K  (2) 377.3 K  (3) 375.3 K  (4) 277.3 K
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Total solute $=4$ mol in 0.5 kg: $m=8$ mol/kg. $\Delta T_b=0.52\times8=4.16$ K, so $T_b=373.15+4.16\approx377.3$ K.
+
+### § — JEE Main 2025 · Apr session · Soln set Q9 · MCQ
+
+Given below are two statements:
+
+Statement I: The molal depression constant $K_f$ is given by $\dfrac{M_1RT_f}{\Delta S_{fus}}$, where the symbols have their usual meaning.
+Statement II: $K_f$ for benzene is less than the $K_f$ for water.
+
+In the light of the above statements, choose the most appropriate answer.
+
+(1) Statement I is incorrect but Statement II is correct  (2) Both Statement I and Statement II are incorrect  (3) Both Statement I and Statement II are correct  (4) Statement I is correct but Statement II is incorrect
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $K_f=\dfrac{M_1RT_f^2}{1000\,\Delta H_{fus}}=\dfrac{M_1RT_f}{1000\,\Delta S_{fus}}$ (using $\Delta S_{fus}=\Delta H_{fus}/T_f$), so Statement I is correct. $K_f$(benzene) $=5.12$ K kg mol$^{-1}$ exceeds $K_f$(water) $=1.86$, so Statement II is incorrect.
+
+### § — JEE Main 2025 · Apr session · Soln set Q10 · MCQ
+
+For HA(aq) ⇌ H$^+$(aq) + A$^-$(aq), the freezing point depression of a 0.1 m aqueous solution of the monobasic weak acid HA is 0.20 °C. The dissociation constant for the acid is: (Given: $K_f$(H$_2$O) $=1.8$ K kg mol$^{-1}$, molality ≡ molarity)
+
+(1) $1.38\times10^{-3}$  (2) $1.1\times10^{-2}$  (3) $1.90\times10^{-3}$  (4) $1.89\times10^{-1}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $i=\dfrac{\Delta T_f}{K_fm}=\dfrac{0.20}{1.8\times0.1}=1.11=1+\alpha\Rightarrow\alpha=0.11$. $K_a=\dfrac{C\alpha^2}{1-\alpha}=\dfrac{0.1\times(0.111)^2}{0.889}=1.38\times10^{-3}$.
+
+### § — JEE Main 2025 · Apr session · Soln set Q12 · MCQ
+
+Match List-I with List-II.
+
+(A) Solution of chloroform and acetone  (B) Solution of ethanol and water  (C) Solution of benzene and toluene  (D) Solution of acetic acid in benzene — with (I) Minimum boiling azeotrope  (II) Dimerises  (III) Maximum boiling azeotrope  (IV) $\Delta V_{mix}=0$
+
+(1) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)  (2) (A)-(II), (B)-(IV), (C)-(I), (D)-(III)  (3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)  (4) (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Chloroform–acetone hydrogen-bond (negative deviation): maximum-boiling azeotrope (III). Ethanol–water shows positive deviation: minimum-boiling azeotrope (I). Benzene–toluene is nearly ideal: $\Delta V_{mix}=0$ (IV). Acetic acid dimerises in benzene (II).
+

@@ -285,3 +285,206 @@ At $27^\circ$C, in the presence of a catalyst, the activation energy of a reacti
 
 **Solution.** $\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=e^{\Delta E_a/RT}$, so $\log\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=\dfrac{\Delta E_a}{2.303RT}=\dfrac{10000}{2.303\times8.314\times300}=1.741$.
 
+### § — JEE Main 2025 · Jan session · Kin set Q1 · MCQ
+
+Which of the following graphs most appropriately represents a zero order reaction?
+
+
+
+**(1)** ![Option 1](../../figures/j25_che_kin/q1-1.png)
+
+**(2)** ![Option 2](../../figures/j25_che_kin/q1-2.png)
+
+**(3)** ![Option 3](../../figures/j25_che_kin/q1-3.png)
+
+**(4)** ![Option 4](../../figures/j25_che_kin/q1-4.png)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** For a zero-order reaction $-\dfrac{d[A]}{dt}=k$, so $[A]=[A]_0-kt$: concentration falls linearly with time (graph 1), while the rate stays constant (a horizontal line), so graphs (2), (3) and (4) are wrong.
+
+### § — JEE Main 2025 · Jan session · Kin set Q2 · MCQ
+
+For bacterial growth in a cell culture, the growth law is very similar to the law of radioactive decay. Which of the following graphs is most suitable to represent bacterial colony growth? (N = number of bacteria at any time, $N_0$ = initial number of bacteria.)
+
+
+
+**(1)** ![Option 1](../../figures/j25_che_kin/q2-1.png)
+
+**(2)** ![Option 2](../../figures/j25_che_kin/q2-2.png)
+
+**(3)** ![Option 3](../../figures/j25_che_kin/q2-3.png)
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Growth follows first-order kinetics with a positive rate constant, $N=N_0e^{kt}$, so $N/N_0$ rises exponentially with time and the curve bends upward: graph (3).
+
+### § — JEE Main 2025 · Jan session · Kin set Q3 · MCQ
+
+Consider an elementary reaction A(g) + B(g) → C(g) + D(g). If the volume of the reaction mixture is suddenly reduced to $\tfrac13$ of its initial volume, the reaction rate will become $x$ times the original rate. The value of $x$ is:
+
+(1) 3  (2) $\tfrac19$  (3) 9  (4) $\tfrac13$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Reducing the volume to one third triples each concentration. The rate law is $r=k[A][B]$ (elementary), so the rate becomes $3\times3=9$ times.
+
+### § — JEE Main 2025 · Jan session · Kin set Q4 · MCQ
+
+Which of the following statements is not true for radioactive decay?
+
+(1) Decay constant increases with increase in temperature.  (2) The amount of radioactive substance remaining after three half-lives is $\tfrac18$th of the original amount.  (3) Decay constant does not depend upon temperature.  (4) Half-life is $\ln2$ times of $\dfrac1{\text{rate constant}}$.
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Radioactive decay is a nuclear process, unaffected by temperature, so (1) is false and (3) is true. After three half-lives $\left(\tfrac12\right)^3=\tfrac18$ remains (true), and $t_{1/2}=\dfrac{\ln2}{\lambda}$ (true). The statement that is not true is (1).
+
+### § — JEE Main 2025 · Jan session · Kin set Q5 · Numerical
+
+The molecule A changes into its isomeric form B by following first-order kinetics at a temperature of 1000 K. If the energy barrier with respect to the reactant energy for such isomeric transformation is 191.48 kJ mol$^{-1}$ and the frequency factor is $10^{20}$, the time required for 50% of the molecules of A to become B is ______ picoseconds (nearest integer). [$R=8.314$ J K$^{-1}$ mol$^{-1}$]
+
+**Answer: 69** · key (compiled)
+
+**Solution.** $k=A\,e^{-E_a/RT}=10^{20}\,e^{-191480/8314}=10^{20}\,e^{-23.03}=10^{20}\times10^{-10}=10^{10}\ \text s^{-1}$. $t_{1/2}=\dfrac{0.693}{10^{10}}=6.93\times10^{-11}$ s $=69$ ps.
+
+### § — JEE Main 2025 · Jan session · Kin set Q6 · Numerical
+
+For the thermal decomposition of N$_2$O$_5$(g) at constant volume, 2N$_2$O$_5$(g) → 2N$_2$O$_4$(g) + O$_2$(g): at $t=0$ the total pressure is 0.6 atm and at $t=100$ s the total pressure is '$x$' atm. $x=\ldots\times10^{-3}$ atm [nearest integer]. Given: rate constant for the reaction $=4.606\times10^{-2}\ \text s^{-1}$.
+
+**Answer: 897** · key (compiled)
+
+**Solution.** The reaction is first order in N$_2$O$_5$, with $kt=4.606\times10^{-2}\times100=4.606=2\times2.303$, so $P_{N_2O_5}=0.6\,e^{-4.606}=0.6\times10^{-2}=0.006$ atm. Pressure of N$_2$O$_5$ reacted $=0.594$ atm, producing $0.594$ atm of N$_2$O$_4$ and $0.297$ atm of O$_2$. Total $=0.006+0.594+0.297=0.897$ atm $=897\times10^{-3}$ atm.
+
+### § — JEE Main 2025 · Jan session · Kin set Q7 · MCQ
+
+For a given reaction R → P, $t_{1/2}$ is related to $[A]_0$ as given in the table: $[A]_0=0.100$ mol L$^{-1}$ with $t_{1/2}=200$ min; $[A]_0=0.025$ mol L$^{-1}$ with $t_{1/2}=100$ min. Given $\log2=0.30$. Which of the following is true?
+
+A. The order of the reaction is $\tfrac12$.
+B. If $[A]_0$ is 1 M, then $t_{1/2}$ is $200\sqrt{10}$ min.
+C. The order of the reaction changes to 1 if the concentration of the reactant changes from 0.100 M to 0.500 M.
+D. $t_{1/2}$ is 800 min for $[A]_0=1.6$ M.
+
+Choose the correct answer from the options given below:
+
+(1) A and C only  (2) A, B and D only  (3) C and D only  (4) A and B only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** $t_{1/2}\propto[A]_0^{\,1-n}$: $\dfrac{200}{100}=4^{\,1-n}\Rightarrow1-n=\tfrac12$, so $n=\tfrac12$ (A true). For $[A]_0=1$ M (10 times 0.1 M): $t_{1/2}=200\times10^{1/2}=200\sqrt{10}$ min (B true). The order is a property of the reaction and does not change with concentration (C false). For 1.6 M (16 times 0.1 M): $t_{1/2}=200\times16^{1/2}=800$ min (D true). So A, B and D.
+
+### § — JEE Main 2025 · Jan session · Kin set Q10 · MCQ
+
+The reaction A$_2$ + B$_2$ → 2AB follows the mechanism: A$_2$ ⇌ A + A (fast, $k_1$/$k_{-1}$); A + B$_2$ → AB + B (slow, $k_2$); A + B → AB (fast). The overall order of the reaction is:
+
+(1) 2  (2) 2.5  (3) 3  (4) 1.5
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The rate is set by the slow step: $r=k_2[A][B_2]$. From the fast equilibrium $[A]=\sqrt{K[A_2]}$, so $r=k_2K^{1/2}[A_2]^{1/2}[B_2]$. Overall order $=\tfrac12+1=1.5$.
+
+### § — JEE Main 2025 · Jan session · Kin set Q12 · Numerical
+
+Consider a complex reaction taking place in three steps with rate constants $k_1$, $k_2$ and $k_3$ respectively. The overall rate constant $k$ is given by $k=\sqrt{\dfrac{k_1k_3}{k_2}}$. If the activation energies of the three steps are 60, 30 and 10 kJ mol$^{-1}$ respectively, then the overall energy of activation in kJ mol$^{-1}$ is ______. (Nearest integer)
+
+**Answer: 20** · key (compiled)
+
+**Solution.** Taking logs, $E_a=\tfrac12\left(E_{a1}+E_{a3}-E_{a2}\right)=\tfrac12(60+10-30)=20$ kJ mol$^{-1}$.
+
+### § — JEE Main 2025 · Apr session · Kin set Q1 · MCQ
+
+The rate law for a reaction between A and B is given by $R=k[A]^n[B]^m$. If the concentration of A is doubled and the concentration of B is halved from their initial values, the ratio of the new rate of reaction to the initial rate of reaction $\left(\dfrac{r_2}{r_1}\right)$ is:
+
+(1) $2^{(n-m)}$  (2) $(n-m)$  (3) $(m+n)$  (4) $\dfrac1{2^{m+n}}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\dfrac{r_2}{r_1}=\dfrac{k(2[A])^n(\tfrac12[B])^m}{k[A]^n[B]^m}=2^n\cdot2^{-m}=2^{(n-m)}$.
+
+### § — JEE Main 2025 · Apr session · Kin set Q2 · MCQ
+
+The reaction A(g) → 2B(g) + C(g) is a first-order reaction. It was started with pure A. The total pressure of the system was 160 mm Hg at $t=10$ min and 240 mm Hg at $t=\infty$. Which of the following options is incorrect?
+
+(1) Initial pressure of A is 80 mm Hg.  (2) The reaction never goes to completion.  (3) The rate constant of the reaction is 1.693 min$^{-1}$.  (4) Partial pressure of A after 10 minutes is 40 mm Hg.
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Complete reaction triples the pressure: $P_\infty=3P_0=240\Rightarrow P_0=80$ mm Hg (1 true). At $t=10$: $P=80+2p=160\Rightarrow p=40$, so $P_A=80-40=40$ mm Hg (4 true), and the first-order reaction decays exponentially, never strictly completing (2 true). $k=\dfrac1{10}\ln\dfrac{80}{40}=0.0693$ min$^{-1}$, not 1.693 min$^{-1}$ — so (3) is incorrect.
+
+### § — JEE Main 2025 · Apr session · Kin set Q4 · MCQ
+
+A(g) → B(g) + C(g) is a first-order reaction, with total pressure $P_t$ at time $t$ and $P_\infty$ at infinite time. The reaction was started with reactant A only. Which of the following expressions is correct for the rate constant $k$?
+
+(1) $k=\dfrac1t\ln\dfrac{2(P_\infty-P_t)}{P_t}$  (2) $k=\dfrac1t\ln\dfrac{P_\infty}{P_t}$  (3) $k=\dfrac1t\ln\dfrac{P_\infty}{2(P_\infty-P_t)}$  (4) $k=\dfrac1t\ln\dfrac{P_\infty}{(P_\infty-P_t)}$
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $P_\infty=2P_0$, so $P_0=\dfrac{P_\infty}2$. At time $t$: $P_t=P_0+x$, and the pressure of A is $P_0-x=2P_0-P_t=P_\infty-P_t$. $k=\dfrac1t\ln\dfrac{P_0}{P_0-x}=\dfrac1t\ln\dfrac{P_\infty}{2(P_\infty-P_t)}$.
+
+### § — JEE Main 2025 · Apr session · Kin set Q5 · Numerical
+
+For the reaction A → products, the plot of $t_{1/2}$ (min) against $[A]_0$ (mol L$^{-1}$) is a straight line through the origin with slope 76.92 (appropriate units), as shown. The concentration of A at 10 minutes is ______ $\times10^{-3}$ mol L$^{-1}$ (nearest integer). The reaction was started with 2.5 mol L$^{-1}$ of A.
+
+![Figure](../../figures/a25_che_kin/q5-1.png)
+
+**Answer: 2435** · key (compiled)
+
+**Solution.** $t_{1/2}\propto[A]_0$ means a zero-order reaction, with $t_{1/2}=\dfrac{[A]_0}{2k}$, so the slope is $\dfrac1{2k}=76.92\Rightarrow k=6.5\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. $[A]=2.5-kt=2.5-0.065=2.435$ mol L$^{-1}$ $=2435\times10^{-3}$.
+
+### § — JEE Main 2025 · Apr session · Kin set Q6 · MCQ
+
+In a reaction A + B → C, the initial concentrations of A and B are related as $[A]_0=8[B]_0$. The half-lives of A and B are 10 min and 40 min respectively. If they start to disappear at the same time, both following first-order kinetics, after how much time will the concentration of both the reactants be the same?
+
+(1) 60 min  (2) 80 min  (3) 20 min  (4) 40 min
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Need $8[B]_0\left(\tfrac12\right)^{t/10}=[B]_0\left(\tfrac12\right)^{t/40}$, i.e. $2^{t/10-t/40}=8=2^3\Rightarrow\dfrac{3t}{40}=3\Rightarrow t=40$ min.
+
+### § — JEE Main 2025 · Apr session · Kin set Q7 · MCQ
+
+The half-life of a zero-order reaction A → product is 1 hour when the initial concentration of the reaction is 2.0 mol L$^{-1}$. The time required to decrease the concentration of A from 0.50 to 0.25 mol L$^{-1}$ is:
+
+(1) 0.5 hour  (2) 4 hour  (3) 15 min  (4) 60 min
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** For zero order $t_{1/2}=\dfrac{[A]_0}{2k}\Rightarrow k=\dfrac{2.0}{2\times1}=1$ mol L$^{-1}$ h$^{-1}$. Time $=\dfrac{\Delta[A]}k=\dfrac{0.25}1=0.25$ h $=15$ min.
+
+### § — JEE Main 2025 · Apr session · Kin set Q9 · MCQ
+
+Consider the following statements related to the temperature dependence of rate constants. Identify the correct statements:
+
+A. The Arrhenius equation holds true only for an elementary homogeneous reaction.
+B. The unit of $A$ is the same as that of $k$ in the Arrhenius equation.
+C. At a given temperature, a low activation energy means a fast reaction.
+D. $A$ and $E_a$ as used in the Arrhenius equation depend on temperature.
+E. When $E_a\gg RT$, $A$ and $E_a$ become interdependent.
+
+(1) A, C and D only  (2) B, D and E only  (3) B and C only  (4) A and B only
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** $k=Ae^{-E_a/RT}$: the exponential factor is dimensionless, so $A$ has the units of $k$ (B true). A lower $E_a$ gives a larger $e^{-E_a/RT}$ and a faster reaction (C true). The Arrhenius equation also describes complex reactions (A false), and $A$ and $E_a$ are taken as essentially temperature independent (D false), nor interdependent (E false). So B and C only.
+
+### § — JEE Main 2025 · Apr session · Kin set Q10 · MCQ
+
+For A$_2$ + B$_2$ ⇌ 2AB, the activation energies for the forward and backward reactions are 180 and 200 kJ mol$^{-1}$ respectively. If a catalyst lowers $E_a$ for both reactions by 100 kJ mol$^{-1}$, which of the following statements is correct?
+
+(1) Catalyst does not alter the Gibbs energy change of a reaction.  (2) Catalyst can cause non-spontaneous reactions to occur.  (3) The enthalpy change for the reaction is +20 kJ mol$^{-1}$.  (4) The enthalpy change for the catalysed reaction is different from that of the uncatalysed reaction.
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** A catalyst only provides a lower-energy path; it changes neither $\Delta H$ nor $\Delta G$ nor the spontaneity. Here $\Delta H=E_{a,f}-E_{a,b}=180-200=-20$ kJ mol$^{-1}$ both with and without the catalyst, so (3) and (4) are wrong, (2) is wrong, and (1) is correct.
+
+### § — JEE Main 2025 · Apr session · Kin set Q11 · MCQ
+
+Consider the following plots of $\log k$ against $\dfrac1T$ for three different reactions. The correct order of the activation energies of these reactions is:
+
+![Figure](../../figures/a25_che_kin/q11-1.png)
+
+(1) $E_{a2}>E_{a1}>E_{a3}$  (2) $E_{a1}>E_{a3}>E_{a2}$  (3) $E_{a1}>E_{a2}>E_{a3}$  (4) $E_{a3}>E_{a2}>E_{a1}$
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $\log k=\log A-\dfrac{E_a}{2.303R}\cdot\dfrac1T$, so the slope is $-\dfrac{E_a}{2.303R}$: the steeper the line, the larger the activation energy. From the figure, line 2 is steepest, then line 1, and line 3 is almost flat: $E_{a2}>E_{a1}>E_{a3}$.
+

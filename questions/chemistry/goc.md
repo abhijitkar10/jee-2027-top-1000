@@ -242,3 +242,430 @@ Arrange the following alkenes in decreasing order of stability.
 
 **Solution.** Stability rises with the number of alkyl groups on the double bond (hyperconjugation): I is tetrasubstituted, III trisubstituted, II and IV are disubstituted. Of II and IV, the *trans* isomer (II, alkyl groups on opposite sides) is more stable than the *cis* isomer (IV, steric strain). Order: I > III > II > IV.
 
+### § — JEE Main 2025 · Jan session · GOC set Q1 · MCQ
+
+The IUPAC name of the following compound is:
+
+![Figure](../../figures/j25_che_goc/q1-1.png)
+
+(1) Methyl-6-carboxy-2,5-dimethylhexanoate.  (2) 2-Carboxy-5-methoxycarbonylhexane.  (3) 6-Methoxycarbonyl-2,5-dimethylhexanoic acid.  (4) Methyl-5-carboxy-2-methylhexanoate.
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The carboxylic acid group has higher priority than the ester, so the compound is named as an acid with the ester treated as a substituent (methoxycarbonyl); the parent chain is chosen so as to include the –COOH carbon. Of the options, only (3) names the compound as an acid.
+
+### § — JEE Main 2025 · Jan session · GOC set Q3 · MCQ
+
+The purification method based on the following physical transformation is: Solid (X) →(heat) Vapour (X) →(cool) Solid (X)
+
+![Figure](../../figures/j25_che_goc/q3-1.png)
+
+(1) Distillation  (2) Extraction  (3) Sublimation  (4) Crystallization
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A solid that passes directly to vapour on heating and back to solid on cooling, without a liquid stage, is purified by sublimation.
+
+### § — JEE Main 2025 · Jan session · GOC set Q4 · MCQ
+
+Given below are two statements:
+
+Statement I: In partition chromatography, the stationary phase is a thin film of liquid present in the inert support.
+Statement II: In paper chromatography, the material of the paper acts as a stationary phase.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Statement I is true but Statement II is false  (2) Statement I is false but Statement II is true  (3) Both Statement I and Statement II are false  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Statement I is correct (partition chromatography). In paper chromatography the stationary phase is the water adsorbed on the cellulose fibres, not the paper material itself, so Statement II is false.
+
+### § — JEE Main 2025 · Jan session · GOC set Q5 · MCQ
+
+Given below are two statements:
+
+Statement I: The Dumas method is used for the estimation of nitrogen in an organic compound.
+Statement II: The Dumas method involves the formation of ammonium sulphate by heating the organic compound with conc. H$_2$SO$_4$.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are false  (3) Statement I is false but Statement II is true  (4) Both Statement I and Statement II are true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Statement I is true: Dumas' method converts the nitrogen to N$_2$ gas over hot CuO and measures its volume. Statement II describes the Kjeldahl method (ammonium sulphate formation), not Dumas, so it is false.
+
+### § — JEE Main 2025 · Jan session · GOC set Q7 · MCQ
+
+The most stable carbocation from the following is:
+
+
+
+**(1)** ![Option 1](../../figures/j25_che_goc/q7-1.png)
+
+**(2)** ![Option 2](../../figures/j25_che_goc/q7-2.png)
+
+**(3)** ![Option 3](../../figures/j25_che_goc/q7-3.png)
+
+**(4)** ![Option 4](../../figures/j25_che_goc/q7-4.png)
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** A carbocation is stabilised by electron-donating groups through resonance. In the benzyl cations, an OMe group at the *para* position donates its lone pair directly into the ring and the cationic carbon (an extra resonance structure), whereas at the *meta* position it cannot conjugate and acts only inductively (withdrawing). CH$_3$ stabilises only by hyperconjugation/+I. So the *p*-methoxybenzyl cation, option (3), is the most stable.
+
+### § — JEE Main 2025 · Jan session · GOC set Q8 · MCQ
+
+Which one of the carbocations from the following is most stable?
+
+
+
+**(1)** ![Option 1](../../figures/j25_che_goc/q8-1.png)
+
+**(2)** ![Option 2](../../figures/j25_che_goc/q8-2.png)
+
+**(3)** ![Option 3](../../figures/j25_che_goc/q8-3.png)
+
+**(4)** ![Option 4](../../figures/j25_che_goc/q8-4.png)
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Option (2), CH$_2^+$–CH=CH–O–CH$_3$, is stabilised by extended resonance: the oxygen lone pair is conjugated through the C=C with the cationic carbon (CH$_2^+$–CH=CH–OCH$_3$ ↔ CH$_2$=CH–CH=O$^+$CH$_3$, all atoms with octets). In (1) the oxygen is separated from the allyl system by a CH$_2$ (only a –I effect); in (3) fluorine is a poor $\pi$-donor with strong –I; in (4) the oxygen lone pair is delocalised into the acetyl C=O. So (2) is the most stable.
+
+### § — JEE Main 2025 · Jan session · GOC set Q9 · MCQ
+
+Identify the correct statement(s):
+
+(A) –OCH$_3$ and –NHCOCH$_3$ are activating groups.
+(B) –CN and –OH are meta directing groups.
+(C) –CN and –SO$_3$H are meta directing groups.
+(D) Activating groups act as ortho- and para-directing groups.
+(E) Halides are activating groups.
+
+(1) (A) only  (2) (A), (B) and (E) only  (3) (A) and (C) only  (4) (A), (C) and (D) only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** (A) true. (B) false: –OH is *o,p*-directing. (C) true: –CN and –SO$_3$H are deactivating *m*-directors. (D) true. (E) false: halogens are deactivating (though *o,p*-directing). So (A), (C), (D).
+
+### § — JEE Main 2025 · Jan session · GOC set Q10 · MCQ
+
+The correct order of stability of the following carbocations is: (A) triphenylmethyl cation, (B) diphenylmethyl cation, (C) tropylium cation, (D) 2-butyl (sec-butyl) cation.
+
+![Figure](../../figures/j25_che_goc/q10-1.png)
+
+(1) C > B > A > D  (2) A > B > C > D  (3) B > C > A > D  (4) C > A > B > D
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The tropylium ion is aromatic (6 $\pi$ electrons in a planar cyclic conjugated 7-membered ring) and is the most stable carbocation. Trityl is stabilised by three phenyl rings, more than diphenylmethyl; the simple secondary alkyl cation is least stable. So C > A > B > D.
+
+### § — JEE Main 2025 · Jan session · GOC set Q11 · MCQ
+
+The correct stability order of the following species/molecules is: (p) cyclopropenyl anion, (q) cyclopentadienyl anion, (r) cyclooctatetraene.
+
+![Figure](../../figures/j25_che_goc/q11-1.png)
+
+(1) q > r > p  (2) r > q > p  (3) q > p > r  (4) p > q > r
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Cyclopentadienyl anion ($6\pi$, planar) is aromatic and the most stable. Cyclooctatetraene is non-planar and non-aromatic (tub shape). Cyclopropenyl anion ($4\pi$) is anti-aromatic and the least stable. So q > r > p.
+
+### § — JEE Main 2025 · Jan session · GOC set Q13 · MCQ
+
+The incorrect statements regarding geometrical isomerism are:
+
+(A) Propene shows geometrical isomerism.
+(B) Trans isomer has identical atoms/groups on the opposite sides of the double bond.
+(C) Cis-but-2-ene has a higher dipole moment than trans-but-2-ene.
+(D) 2-Methylbut-2-ene shows two geometrical isomers.
+(E) Trans isomer has a lower melting point than the cis isomer.
+
+(1) (A) and (E) only  (2) (A), (D) and (E) only  (3) (B) and (C) only  (4) (C), (D) and (E) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** (A) incorrect: one alkene carbon of propene carries two H atoms. (D) incorrect: one carbon of 2-methylbut-2-ene carries two methyl groups. (E) incorrect: the more symmetric trans isomer usually packs better and has the higher melting point. (B) and (C) are correct. Incorrect: (A), (D), (E).
+
+### § — JEE Main 2025 · Jan session · GOC set Q14 · MCQ
+
+How many different stereoisomers are possible for the given molecule, CH$_3$–CH(OH)–CH=CH–CH$_3$?
+
+![Figure](../../figures/j25_che_goc/q14-1.png)
+
+(1) 2  (2) 1  (3) 4  (4) 3
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The molecule has one stereocentre (the C–OH carbon) and one stereogenic C=C (cis/trans). These are independent, so $2\times2=4$ stereoisomers.
+
+### § — JEE Main 2025 · Jan session · GOC set Q15 · MCQ
+
+Propane on chlorination under photochemical conditions gives two dichloro products, x and y. Of these, x is optically active. How many trichloro products (consider only structural isomers) will be obtained from x when it is further treated with chlorine under the same conditions?
+
+(1) 2  (2) 5  (3) 4  (4) 3
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The optically active dichloropropane is 1,2-dichloropropane, CH$_2$Cl–CHCl–CH$_3$ (stereocentre at C-2). Further chlorination can occur at C-1, C-2 or C-3, giving 1,1,2-, 1,2,2- and 1,2,3-trichloropropane: 3 structural isomers.
+
+### § — JEE Main 2025 · Jan session · GOC set Q16 · Numerical
+
+The possible number of stereoisomers for 5-phenylpent-4-en-2-ol is ______.
+
+**Answer: 4** · key (compiled)
+
+**Solution.** Ph–CH=CH–CH$_2$–CH(OH)–CH$_3$ has one stereocentre (C-2) and one stereogenic double bond (C4=C5): $2\times2=4$ stereoisomers.
+
+### § — JEE Main 2025 · Jan session · GOC set Q17 · MCQ
+
+The steam volatile compounds among the following are the compounds (A)–(D) shown below, in order: (A) 2-nitrophenol, (B) 2-nitroaniline, (C) and (D) two para-aminophenol structures.
+
+![Compound A](../../figures/j25_che_goc/q17-1.png)
+
+![Compound B](../../figures/j25_che_goc/q17-2.png)
+
+![Compound C](../../figures/j25_che_goc/q17-3.png)
+
+![Compound D](../../figures/j25_che_goc/q17-4.png)
+
+(1) (B) and (D) only  (2) (A) and (C) only  (3) (A), (B) and (C) only  (4) (A) and (B) only
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Steam volatility needs weak intermolecular forces. The *ortho* isomers (A) and (B) have intramolecular hydrogen bonding (–OH···O$_2$N and –NH$_2$···O$_2$N), so they do not associate with each other and distil with steam. The *para*-aminophenols (C) and (D) form intermolecular hydrogen bonds and are not steam volatile. Hence (A) and (B) only.
+
+### § — JEE Main 2025 · Jan session · GOC set Q18 · MCQ
+
+Given below are two statements:
+
+Statement I: Nitrogen, sulphur, halogen and phosphorus present in an organic compound are detected by Lassaigne's test.
+Statement II: The elements present in the compound are converted from covalent form into ionic form by fusing the compound with magnesium in Lassaigne's test.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Statement I is false but Statement II is true  (2) Both Statement I and Statement II are true  (3) Both Statement I and Statement II are false  (4) Statement I is true but Statement II is false
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Lassaigne's sodium fusion extract detects N, S, halogens and P (Statement I true). The compound is fused with *sodium* metal, not magnesium (Statement II false).
+
+### § — JEE Main 2025 · Jan session · GOC set Q19 · MCQ
+
+Given below are two statements:
+
+Statement I: In Lassaigne's test, the covalent organic molecules are transformed into ionic compounds.
+Statement II: The sodium fusion extract of an organic compound having N and S gives a Prussian blue colour with FeSO$_4$ and Na$_4$[Fe(CN)$_6$].
+
+In the light of the above statements, choose the correct answer.
+
+(1) Statement I is true but Statement II is false  (2) Both Statement I and Statement II are false  (3) Both Statement I and Statement II are true  (4) Statement I is false but Statement II is true
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Sodium fusion converts covalent N, S, X into ionic NaCN, Na$_2$S and NaX (Statement I true). When both N and S are present, the extract gives a blood-red colour (Fe(SCN)$^{2+}$) with FeCl$_3$; Prussian blue arises only with N (via FeSO$_4$, then Fe$^{3+}$), and the reagents named in Statement II do not describe the test. So Statement II is false.
+
+### § — JEE Main 2025 · Jan session · GOC set Q20 · Numerical
+
+In the Carius method for estimation of halogens, 180 mg of an organic compound produced 143.5 mg of AgCl. The percentage composition of chlorine in the compound is ______ %. (Given molar mass in g mol$^{-1}$: Ag 108, Cl 35.5)
+
+**Answer: 20** · key (compiled)
+
+**Solution.** Mass of Cl $=\dfrac{35.5}{143.5}\times143.5=35.5$ mg. Percentage $=\dfrac{35.5}{180}\times100=19.7\approx20\%$.
+
+### § — JEE Main 2025 · Jan session · GOC set Q21 · Numerical
+
+During S estimation, 160 mg of an organic compound gives 466 mg of barium sulphate. The percentage of sulphur in the given compound is ______ %. (Given molar mass in g mol$^{-1}$: Ba 137, S 32, O 16)
+
+**Answer: 40** · key (compiled)
+
+**Solution.** Molar mass of BaSO$_4$ is 233 g/mol, so 466 mg of BaSO$_4$ contains $\dfrac{32}{233}\times466=64$ mg of S. Percentage $=\dfrac{64}{160}\times100=40\%$.
+
+### § — JEE Main 2025 · Apr session · GOC set Q1 · MCQ
+
+The IUPAC name of the compound HC≡C–CH$_2$–CH(OH)–CH$_2$–CH=CH$_2$ (shown in the figure) is:
+
+![Figure](../../figures/a25_che_goc/q1-1.png)
+
+(1) 4-Hydroxyhept-1-en-6-yne  (2) 4-Hydroxyhept-6-en-1-yne  (3) Hept-6-en-1-yn-4-ol  (4) Hept-1-en-6-yn-4-ol
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The alcohol is the principal group: *-ol* at C-4 whichever way the chain is numbered. The double and triple bonds then get the locant set {1,6} either way, and the tie is broken in favour of the double bond (ene gets the lower number). Name: hept-1-en-6-yn-4-ol.
+
+### § — JEE Main 2025 · Apr session · GOC set Q2 · MCQ
+
+What is the correct IUPAC name of the compound shown in the figure (a benzene ring with –CO$_2$H, –OH, –Br and –NO$_2$)?
+
+![Figure](../../figures/a25_che_goc/q2-1.png)
+
+(1) 3-Bromo-2-hydroxy-5-nitrobenzoic acid  (2) 3-Bromo-4-hydroxy-1-nitrobenzoic acid  (3) 2-Hydroxy-3-bromo-5-nitrobenzoic acid  (4) 5-Nitro-3-bromo-2-hydroxybenzoic acid
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Benzoic acid is the parent (C-1 bears COOH). Numbering to give the lowest locants to the substituents (2, 3, 5) gives –OH at 2, –Br at 3 and –NO$_2$ at 5. Substituents are cited alphabetically (bromo, hydroxy, nitro): 3-bromo-2-hydroxy-5-nitrobenzoic acid.
+
+### § — JEE Main 2025 · Apr session · GOC set Q3 · MCQ
+
+Which of the following is the correct IUPAC name of the organic compound (X) shown in the figure?
+
+![Figure](../../figures/a25_che_goc/q3-1.png)
+
+(1) 2-Bromo-2-methylbut-2-ene  (2) 3-Bromo-3-methylprop-2-ene  (3) 1-Bromo-2-methylbut-2-ene  (4) 4-Bromo-3-methylbut-2-ene
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** The structure is CH$_3$–CH=C(CH$_3$)–CH$_2$Br. The longest chain containing the double bond has 4 carbons: CH$_2$Br–C(CH$_3$)=CH–CH$_3$. Numbering from the CH$_2$Br end gives the double bond locant 2 (from the other end it would be 2 as well but Br would be at 4). So: 1-bromo-2-methylbut-2-ene.
+
+### § — JEE Main 2025 · Apr session · GOC set Q4 · MCQ
+
+What is the correct IUPAC name of the compound shown in the figure (a cyclopentene ring bearing –OH and an ethyl group)?
+
+![Figure](../../figures/a25_che_goc/q4-1.png)
+
+(1) 4-Ethyl-1-hydroxycyclopent-2-ene  (2) 1-Ethyl-3-hydroxycyclopent-2-ene  (3) 1-Ethylcyclopent-2-en-3-ol  (4) 4-Ethylcyclopent-2-en-1-ol
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** The –OH is the principal group, so the carbon carrying it is C-1. The ring is numbered in the direction that gives the double bond the lowest locant (2), which puts the ethyl group at C-4. Name: 4-ethylcyclopent-2-en-1-ol.
+
+### § — JEE Main 2025 · Apr session · GOC set Q5 · MCQ
+
+Consider the compound (X): H–C≡C–CH$_2$–CH(CH$_3$)–CH$_3$ (the C–H bonds of the carbons marked I, II, III and IV are: I = the terminal sp C–H, II = the CH$_2$, III = the CH, IV = the CH$_3$ groups). The most stable and the least stable carbon radicals produced by homolytic cleavage of the corresponding C–H bond are:
+
+![Figure](../../figures/a25_che_goc/q5-1.png)
+
+(1) II, IV  (2) III, II  (3) I, IV  (4) II, I
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Cleavage at II gives a propargylic radical (stabilised by resonance with the triple bond), the most stable. Cleavage at the terminal sp C–H (I) gives an sp-hybridised radical, which is the least stable because of the high s-character (strongest C–H bond). So the most stable is II and the least stable is I.
+
+### § — JEE Main 2025 · Apr session · GOC set Q6 · MCQ
+
+Given below are two statements:
+
+Statement I: Hyperconjugation is not a permanent effect.
+Statement II: In general, the greater the number of alkyl groups attached to a positively charged C atom, the greater is the hyperconjugation interaction and the stabilisation of the cation.
+
+In the light of the above statements, choose the correct answer.
+
+(1) Statement I is true but Statement II is false  (2) Both statements are false  (3) Statement I is false but Statement II is true  (4) Both statements are true
+
+**Answer: (3)** · key (compiled)
+
+**Solution.** Hyperconjugation is a permanent effect (σ–π conjugation of C–H bonds, present in the ground state), so Statement I is false. More alkyl groups mean more α C–H bonds available for hyperconjugation and a more stable cation, so Statement II is true.
+
+### § — JEE Main 2025 · Apr session · GOC set Q7 · MCQ
+
+Designate whether each of the following compounds is aromatic or not aromatic: (a) cyclopentadienyl anion, (b) cyclopentadienyl cation, (c) cyclobutadiene dication, (d) cyclobutadiene dianion, (e) cycloheptatrienyl cation, (f) cyclooctatetraene, (g) cyclobutadiene, (h) cyclopropenyl cation.
+
+![Figure](../../figures/a25_che_goc/q7-1.png)
+
+(1) e, g aromatic and a, b, c, d, f, h not aromatic  (2) b, e, f, g aromatic and a, c, d, h not aromatic  (3) a, b, c, d aromatic and e, f, g, h not aromatic  (4) a, c, d, e, h aromatic and b, f, g not aromatic
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Aromatic needs a planar, fully conjugated ring with $(4n+2)\,\pi$ electrons. (a) 6$\pi$ ✓; (b) 4$\pi$ anti-aromatic; (c) 2$\pi$ ✓; (d) 6$\pi$ ✓; (e) 6$\pi$ ✓; (f) non-planar, non-aromatic; (g) 4$\pi$ anti-aromatic; (h) 2$\pi$ ✓. Aromatic: a, c, d, e, h.
+
+### § — JEE Main 2025 · Apr session · GOC set Q9 · MCQ
+
+Match List-I with List-II.
+
+A. Carbocation  B. C-free radical  C. Nucleophile  D. Electrophile
+
+I. Species that can supply a pair of electrons  II. Species that can receive a pair of electrons  III. $sp^2$ hybridised carbon with empty p-orbital  IV. $sp^2/sp^3$ hybridised carbon with one unpaired electron
+
+(1) A-IV, B-II, C-III, D-I  (2) A-II, B-III, C-I, D-IV  (3) A-III, B-IV, C-II, D-I  (4) A-III, B-IV, C-I, D-II
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** A carbocation is a trigonal planar $sp^2$ carbon with an empty p orbital (III). A carbon free radical has one unpaired electron on an $sp^2$ or $sp^3$ carbon (IV). A nucleophile donates a pair of electrons (I); an electrophile accepts a pair (II).
+
+### § — JEE Main 2025 · Apr session · GOC set Q12 · MCQ
+
+Match List-I (purification technique) with List-II (mixture of organic compounds).
+
+A. Distillation (simple)  B. Fractional distillation  C. Distillation under reduced pressure  D. Steam distillation
+
+I. Diesel + petrol  II. Aniline + water  III. Chloroform + aniline  IV. Glycerol + spent lye
+
+![Figure](../../figures/a25_che_goc/q12-1.png)
+
+(1) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)  (2) (A)-(II), (B)-(IV), (C)-(I), (D)-(III)  (3) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)  (4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Chloroform (b.p. 61 °C) and aniline (184 °C) differ widely in boiling point: simple distillation. Diesel and petrol are close-boiling liquid fractions: fractional distillation. Glycerol decomposes at its normal boiling point, so it is separated from spent lye under reduced pressure. Aniline is separated from water by steam distillation.
+
+### § — JEE Main 2025 · Apr session · GOC set Q13 · MCQ
+
+Match List-I (separation of) with List-II (separation technique).
+
+A. Aniline from an aniline–water mixture  B. Glycerol from spent lye in the soap industry  C. Different fractions of crude oil in the petroleum industry  D. Chloroform–aniline mixture
+
+I. Simple distillation  II. Fractional distillation  III. Distillation at reduced pressure  IV. Steam distillation
+
+(1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)  (2) (A)-(I), (B)-(II), (C)-(III), (D)-(IV)  (3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)  (4) (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Aniline–water: steam distillation (IV). Glycerol from spent lye: reduced pressure (III). Crude oil fractions: fractional distillation (II). Chloroform–aniline: simple distillation (I).
+
+### § — JEE Main 2025 · Apr session · GOC set Q14 · MCQ
+
+In Dumas' method for estimation of nitrogen, 0.5 g of an organic compound gave 60 mL of nitrogen collected at 300 K and 715 mm Hg pressure. The percentage composition of nitrogen in the compound is (aqueous tension at 300 K = 15 mm Hg):
+
+(1) 1.257  (2) 20.87  (3) 18.67  (4) 12.57
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** Pressure of dry N$_2$ $=715-15=700$ mm Hg. Volume at STP $=\dfrac{700\times60\times273}{300\times760}=50.3$ mL. Mass of N $=\dfrac{50.3}{22400}\times28=0.0629$ g, so the percentage is $\dfrac{0.0629}{0.5}\times100=12.57\%$.
+
+### § — JEE Main 2025 · Apr session · GOC set Q16 · MCQ
+
+In Dumas' method for estimation of nitrogen, 0.4 g of an organic compound gave 60 mL of nitrogen collected at 300 K and 715 mm Hg pressure. The percentage composition of nitrogen in the compound is: (aqueous tension at 300 K = 15 mm Hg)
+
+(1) 15.71%  (2) 20.95%  (3) 17.46%  (4) 7.85%
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** $V_{STP}=\dfrac{(715-15)\times60\times273}{300\times760}=50.3$ mL, so the mass of N is $\dfrac{50.3}{22400}\times28=0.0629$ g. Percentage $=\dfrac{0.0629}{0.4}\times100=15.7\%$.
+
+### § — JEE Main 2025 · Apr session · GOC set Q17 · Numerical
+
+In Dumas' method for estimation of nitrogen, 1 g of an organic compound gave 150 mL of nitrogen collected at 300 K and 900 mm Hg pressure. The percentage composition of nitrogen in the compound is ______ % (nearest integer). (Aqueous tension at 300 K = 15 mm Hg)
+
+**Answer: 20** · key (compiled)
+
+**Solution.** $P_{N_2}=900-15=885$ mm Hg. $V_{STP}=\dfrac{885\times150\times273}{300\times760}=158.9$ mL. Mass of N $=\dfrac{158.9}{22400}\times28=0.199$ g, i.e. $19.9\approx20\%$.
+
+### § — JEE Main 2025 · Apr session · GOC set Q18 · Numerical
+
+In Dumas' method, 292 mg of an organic compound released 50 mL of nitrogen gas (N$_2$) at 300 K and 715 mm Hg pressure. The percentage composition of N in the organic compound is ______ % (nearest integer). (Aqueous tension at 300 K = 15 mm Hg)
+
+**Answer: 18** · key (compiled)
+
+**Solution.** $V_{STP}=\dfrac{(715-15)\times50\times273}{300\times760}=41.9$ mL. Mass of N $=\dfrac{41.9}{22400}\times28=52.4$ mg. Percentage $=\dfrac{52.4}{292}\times100=17.9\approx18\%$.
+
+### § — JEE Main 2025 · Apr session · GOC set Q19 · MCQ
+
+In which of the following pairs is the first ion more stable than the second? (A) cyclohexyl cation bearing –OMe vs. cyclohexyl cation bearing –Me; (B) the carbanion on a cyclohexyl ring bearing *o*-nitrophenyl vs. the corresponding carbocation; (C) cyclohexylmethyl cation vs. cyclohex-1-enylmethyl cation; (D) a *tert*-butyl-type cation vs. its –OMe-substituted analogue (as drawn).
+
+![Figure](../../figures/a25_che_goc/q19-1.png)
+
+(1) (B) & (D) only  (2) (A) & (B) only  (3) (B) & (C) only  (4) (A) & (C) only
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** (A) The α-OMe cation is stabilised by the oxygen lone pair (extra resonance), more than α-Me: ✓. (B) A carbanion is stabilised by an electron-withdrawing nitrophenyl, whereas the same group destabilises a carbocation: ✓. (C) The cyclohexenylmethyl (allylic) cation is stabilised by resonance, so the first is less stable. (D) The OMe-substituted cation is more stable than the plain tertiary one, so the first is less stable. Hence (A) and (B).
+
+### § — JEE Main 2025 · Apr session · GOC set Q20 · Numerical
+
+The total number of structural isomers possible for the substituted benzene derivatives with the molecular formula C$_9$H$_{12}$ is ______.
+
+**Answer: 8** · key (compiled)
+
+**Solution.** Benzene ring (C$_6$H$_5$–/C$_6$H$_4$–/C$_6$H$_3$–) with 3 extra carbons: n-propylbenzene (1), isopropylbenzene (1), ethylmethylbenzenes (*o*, *m*, *p*: 3) and trimethylbenzenes (1,2,3-; 1,2,4-; 1,3,5-: 3). Total $=1+1+3+3=8$.
+
