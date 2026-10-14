@@ -151,13 +151,15 @@ function viewProgress(){
   const rows=Object.keys(DATA.chapters).map(k=>{const [s,c]=k.split("/"); const r=count(q=>q.subject===s&&q.chapter===c); return {k,s,c,r};}).sort((a,b)=>b.r.w-a.r.w||(b.r.total-b.r.todo)-(a.r.total-a.r.todo));
   for(const x of rows){ const dn=x.r.total-x.r.todo; h+=`<tr><td><span class="s${SCLASS[x.s]}">●</span> ${esc(ctitle(x.s,x.c))}</td><td>${dn}/${x.r.total}</td><td>${x.r.w||""}</td><td>${dn?Math.round(100*x.r.c/dn)+"%":""}</td></tr>`; }
   h+=`</table></div>
-  <div class="card row"><button class="btn" onclick="exportS()">Export progress</button><label class="btn">Import<input type="file" accept=".json" style="display:none" onchange="importS(this.files[0])"></label>
-  <button class="btn" onclick="if(confirm('Erase all saved progress in this browser?')){S={q:{},b:{}};save();render()}">Reset</button>
-  <span class="small muted">Progress is saved only in this browser. Export it now and then (also a good way to move between devices).</span></div>`;
+  <div class="card"><div class="row"><button class="btn" onclick="exportS()">Show progress as text</button><button class="btn" onclick="if(document.getElementById('xtext').value)importS();else document.getElementById('xfer').hidden=false">Load from text</button>
+  <button class="btn" id="resetbtn" onclick="if(this.dataset.arm){S={q:{},b:{}};save();render()}else{this.dataset.arm=1;this.textContent='Tap again to erase everything'}">Reset</button></div>
+  <div class="small muted" style="margin-top:8px">Progress is saved only in this browser. Copy the text somewhere safe now and then; paste it back here to restore it or to move to another device.</div>
+  <div id="xfer" hidden style="margin-top:8px"><textarea id="xtext" rows="4" style="width:100%;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:8px;font:12px monospace" placeholder="Paste saved progress here, then press Load from text"></textarea><div class="row" style="margin-top:6px"><button class="btn" onclick="copyS()">Copy</button><button class="btn" onclick="importS()">Load from text</button></div></div></div>`;
   return h;
 }
-function exportS(){ const a=document.createElement("a"); a.href=URL.createObjectURL(new Blob([JSON.stringify(S)],{type:"application/json"})); a.download="jee27-progress-"+iso(new Date())+".json"; a.click(); }
-function importS(f){ if(!f) return; f.text().then(t=>{ try{ const j=JSON.parse(t); S={q:j.q||{},b:j.b||{}}; save(); render(); }catch(e){ alert("Not a valid progress file"); } }); }
+function exportS(){ document.getElementById("xfer").hidden=false; const t=document.getElementById("xtext"); t.value=JSON.stringify(S); t.select(); }
+function copyS(){ const t=document.getElementById("xtext"); t.select(); try{ navigator.clipboard.writeText(t.value).catch(()=>{}); }catch(e){} }
+function importS(){ try{ const j=JSON.parse(document.getElementById("xtext").value); if(!j||typeof j!=="object") throw 0; S={q:j.q||{},b:j.b||{}}; save(); render(); }catch(e){ alert("Paste the exported text first."); } }
 
 const TABS={today:["Today",viewToday],plan:["Plan",viewPlan],questions:["Questions",viewQuestions],progress:["Progress",viewProgress]};
 function render(){
