@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/s-block.md](../../theory/chemistry/s-block.md)
 
-### C-SBL-01 — JEE Main 2023 · 24 Jan Shift 1 · Q35 · MCQ
+### C-SBL-01 · C — JEE Main 2023 · 24 Jan Shift 1 · Q35 · MCQ
 
 The reaction of BeO with ammonia and hydrogen fluoride gives A, which on thermal decomposition gives $\text{BeF}_2$ and $\text{NH}_4\text{F}$. A is:
 
@@ -12,22 +12,7 @@ The reaction of BeO with ammonia and hydrogen fluoride gives A, which on thermal
 
 **Solution.** Industrial preparation of $\text{BeF}_2$: $\text{BeO}+4\text{HF}+2\text{NH}_3\to(\text{NH}_4)_2\text{BeF}_4+\text{H}_2\text{O}$, and heating gives $(\text{NH}_4)_2\text{BeF}_4\xrightarrow{\Delta}\text{BeF}_2+2\text{NH}_4\text{F}$. (Be$^{2+}$ forms the tetrahedral $[\text{BeF}_4]^{2-}$.)
 
-### § — JEE Main 2022 · 24 Jun Shift 1 · Q35 · MCQ
-
-Which of the following statements are correct?
-
-(A) Both $\text{LiCl}$ and $\text{MgCl}_2$ are soluble in ethanol.
-(B) The oxides $\text{Li}_2\text{O}$ and $\text{MgO}$ combine with excess of oxygen to give superoxide.
-(C) $\text{LiF}$ is less soluble in water than other alkali metal fluorides.
-(D) $\text{Li}_2\text{O}$ is more soluble in water than other alkali metal oxides.
-
-(1) (A) and (C) only  (2) (A), (C) and (D) only  (3) (B) and (C) only  (4) (A) and (D) only
-
-**Answer: (1)** · key ✔
-
-**Solution.** (A) true: $\text{LiCl}$ and $\text{MgCl}_2$ have appreciable covalent character (diagonal relationship), so they dissolve in ethanol. (B) false: $\text{Li}$ and $\text{Mg}$ form only the normal oxides; superoxides ($\text{MO}_2$) are formed by $\text{K}$, $\text{Rb}$, $\text{Cs}$. (C) true: the small $\text{Li}^+$ and $\text{F}^-$ give a very high lattice energy, so $\text{LiF}$ is the least soluble alkali fluoride. (D) false: $\text{Li}_2\text{O}$ is much less soluble/reactive in water than $\text{Na}_2\text{O}$, $\text{K}_2\text{O}$, etc. Hence (A) and (C).
-
-### § — JEE Main 2023 · 24 Jan Shift 1 · sBlock set Q2 · MCQ
+### C-SBL-02 · C — JEE Main 2023 · 24 Jan Shift 1 · sBlock set Q2 · MCQ
 
 Match List I with List II.
 
@@ -44,7 +29,7 @@ Match List I with List II.
 
 **Solution.** Chlorophyll contains Mg$^{2+}$ (III); soda ash is Na$_2$CO$_3$ (I); plaster of Paris/CaSO$_4$ is used in dentistry and ornamental work (II); slaked lime Ca(OH)$_2$ is used in white washing (IV).
 
-### § — JEE Main 2023 · 25 Jan Shift 1 · sBlock set Q4 · MCQ
+### C-SBL-03 · C — JEE Main 2023 · 25 Jan Shift 1 · sBlock set Q4 · MCQ
 
 Compound A reacts with NH$_4$Cl and forms a compound B. Compound B reacts with H$_2$O and excess of CO$_2$ to form compound C, which on passing through, or reaction with, saturated NaCl solution forms sodium hydrogen carbonate. Compounds A, B and C are respectively:
 
@@ -54,7 +39,7 @@ Compound A reacts with NH$_4$Cl and forms a compound B. Compound B reacts with H
 
 **Solution.** This is the Solvay process. Ca(OH)$_2$ + 2NH$_4$Cl → 2NH$_3$ + CaCl$_2$ + 2H$_2$O (A = Ca(OH)$_2$, B = NH$_3$); NH$_3$ + H$_2$O + CO$_2$ → NH$_4$HCO$_3$ (C); NH$_4$HCO$_3$ + NaCl → NaHCO$_3$↓ + NH$_4$Cl.
 
-### § — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q8 · MCQ
+### C-SBL-04 · C — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q8 · MCQ
 
 The correct order of hydration enthalpies is:
 
@@ -68,7 +53,7 @@ Choose the correct answer from the options given below:
 
 **Solution.** Hydration enthalpy increases with ionic charge and with decreasing ionic size. The divalent ions come first: Mg$^{2+}$ > Ca$^{2+}$ (C > E). Among the alkali ions K$^+$ > Rb$^+$ > Cs$^+$ (A > B > D). The order is C > E > A > B > D.
 
-### § — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q9 · MCQ
+### C-SBL-05 · C — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q9 · MCQ
 
 The magnetic behaviour of Li$_2$O, Na$_2$O$_2$ and KO$_2$, respectively, are:
 
@@ -78,34 +63,18 @@ The magnetic behaviour of Li$_2$O, Na$_2$O$_2$ and KO$_2$, respectively, are:
 
 **Solution.** Li$_2$O contains O$^{2-}$ (all electrons paired: diamagnetic). Na$_2$O$_2$ contains the peroxide ion O$_2^{2-}$ (paired: diamagnetic). KO$_2$ contains the superoxide ion O$_2^-$ with one unpaired electron (paramagnetic).
 
-### § — JEE Main 2023 · 29 Jan Shift 2 · sBlock set Q10 · Numerical
+### C-SBL-06 · C — JEE Main 2022 · 24 Jun Shift 1 · Q35 · MCQ
 
-On heating, LiNO$_3$ gives how many compounds among the following? Li$_2$O, N$_2$, O$_2$, LiNO$_2$, NO$_2$
+Which of the following statements are correct?
 
-**Answer: 3** · key (compiled)
+(A) Both $\text{LiCl}$ and $\text{MgCl}_2$ are soluble in ethanol.  
+(B) The oxides $\text{Li}_2\text{O}$ and $\text{MgO}$ combine with excess of oxygen to give superoxide.  
+(C) $\text{LiF}$ is less soluble in water than other alkali metal fluorides.  
+(D) $\text{Li}_2\text{O}$ is more soluble in water than other alkali metal oxides.
 
-**Solution.** Lithium nitrate decomposes like the nitrates of the less electropositive metals: $4\text{LiNO}_3\xrightarrow{\Delta}2\text{Li}_2\text{O}+4\text{NO}_2+\text{O}_2$. Three of the listed compounds are produced: Li$_2$O, NO$_2$ and O$_2$.
+(1) (A) and (C) only  (2) (A), (C) and (D) only  (3) (B) and (C) only  (4) (A) and (D) only
 
-### § — JEE Main 2023 · 31 Jan Shift 2 · sBlock set Q15 · Numerical
+**Answer: (1)** · key ✔
 
-The number of alkali metal(s), from Li, K, Cs and Rb, having ionisation enthalpy greater than 400 kJ mol$^{-1}$ and forming stable superoxide is ______.
-
-**Answer: 2** · key (compiled)
-
-**Solution.** K, Rb and Cs form stable superoxides (large cations stabilise the large O$_2^-$ ion). The first ionisation enthalpies are K 419, Rb 403 and Cs 376 kJ mol$^{-1}$, so only K and Rb exceed 400 kJ mol$^{-1}$: 2 metals.
-
-### § — JEE Main 2023 · 1 Feb Shift 1 · sBlock set Q16 · MCQ
-
-Choose the correct statement(s):
-
-A. Beryllium oxide is purely alkaline in nature.
-B. Beryllium carbonate is kept in the atmosphere of CO$_2$.
-C. Beryllium sulphate is readily soluble in water.
-D. Beryllium shows anomalous behaviour.
-
-(1) A, B and C only  (2) B, C and D only  (3) A and B only  (4) A only
-
-**Answer: (2)** · key (compiled)
-
-**Solution.** BeO is amphoteric, not purely alkaline (A false). BeCO$_3$ is thermally unstable and is stored under CO$_2$ (B true). BeSO$_4$ dissolves readily because of the high hydration enthalpy of the small Be$^{2+}$ ion (C true). Be is anomalous because of its small size, high ionisation energy and high polarising power (D true).
+**Solution.** (A) true: $\text{LiCl}$ and $\text{MgCl}_2$ have appreciable covalent character (diagonal relationship), so they dissolve in ethanol. (B) false: $\text{Li}$ and $\text{Mg}$ form only the normal oxides; superoxides ($\text{MO}_2$) are formed by $\text{K}$, $\text{Rb}$, $\text{Cs}$. (C) true: the small $\text{Li}^+$ and $\text{F}^-$ give a very high lattice energy, so $\text{LiF}$ is the least soluble alkali fluoride. (D) false: $\text{Li}_2\text{O}$ is much less soluble/reactive in water than $\text{Na}_2\text{O}$, $\text{K}_2\text{O}$, etc. Hence (A) and (C).
 

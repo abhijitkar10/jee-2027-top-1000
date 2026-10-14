@@ -2,7 +2,22 @@
 
 > Theory: [../../theory/chemistry/carboxylic-acids.md](../../theory/chemistry/carboxylic-acids.md)
 
-### C-CAR-01 — JEE Main 2024 · 5 Apr Shift 2 · Q48 · MCQ
+### C-CAR-01 · C — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
+
+The correct order of acidic strength of the major products formed in the given reactions is:
+
+A. $\mathrm{PhNH_2}\xrightarrow{(1)\ \mathrm{NaNO_2+HCl}\,(<5^\circ\mathrm C);\ (2)\ \mathrm{CuCN};\ (3)\ \mathrm{H_3O^+/\Delta}}$ [A]  
+B. $\mathrm{CH_3CH_2CHO}\xrightarrow[\Delta]{[\mathrm{Ag(NH_3)_2}]^+,\,\mathrm{OH^-}}$ [B]  
+C. $\mathrm{CH_4+O_2}\xrightarrow{(i)\ \ (ii)\ \mathrm{Na_2Cr_2O_7/H^+}}$ [C]  
+D. $\mathrm{PhCH_2MgBr+CO_2}\xrightarrow[\mathrm{H_3O^+}]{\text{dry ether}}$ [D]
+
+(1) A > D > B > C  (2) C > A > D > B  (3) C > B > A > D  (4) A > D > C > B
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** A = benzoic acid (Sandmeyer cyanation then hydrolysis; $\mathrm{p}K_a=4.2$). B = propanoic acid (Tollens' oxidation; $\mathrm{p}K_a=4.87$). C = methanoic acid (methane $\to$ HCHO $\to$ HCOOH; $\mathrm{p}K_a=3.75$). D = phenylacetic acid (Grignard + $\mathrm{CO_2}$; $\mathrm{p}K_a=4.31$). Acid strength rises as $\mathrm{p}K_a$ falls: HCOOH (C) > $\mathrm{PhCOOH}$ (A) > $\mathrm{PhCH_2COOH}$ (D) > $\mathrm{CH_3CH_2COOH}$ (B): C > A > D > B.
+
+### C-CAR-02 · C — JEE Main 2024 · 5 Apr Shift 2 · Q48 · MCQ
 
 $\text{CH}_3\text{CH}_2\text{OH}\xrightarrow{\text{KMnO}_4}\xrightarrow{\text{NaOH, CaO},\ \Delta}P$. The major product P is:
 
@@ -12,7 +27,7 @@ $\text{CH}_3\text{CH}_2\text{OH}\xrightarrow{\text{KMnO}_4}\xrightarrow{\text{Na
 
 **Solution.** $\text{KMnO}_4$ oxidises ethanol to acetic acid; its sodium salt undergoes decarboxylation with soda lime: $\text{CH}_3\text{COONa}+\text{NaOH}\xrightarrow{\text{CaO},\Delta}\text{CH}_4+\text{Na}_2\text{CO}_3$. P is methane.
 
-### C-CAR-02 — JEE Main 2024 · 8 Apr Shift 1 · Q58 · Numerical
+### C-CAR-03 · C — JEE Main 2024 · 8 Apr Shift 1 · Q58 · Numerical
 
 The major product B of $\text{C}_6\text{H}_5\text{CH}_2\text{CH}_3\xrightarrow[\Delta]{\text{KMnO}_4\text{-KOH}}A\xrightarrow{\text{HNO}_3/\text{H}_2\text{SO}_4}B$ has ______ $\pi$ bonds.
 
@@ -20,7 +35,7 @@ The major product B of $\text{C}_6\text{H}_5\text{CH}_2\text{CH}_3\xrightarrow[\
 
 **Solution.** Vigorous oxidation of the side chain gives benzoic acid (A). $-\text{COOH}$ is meta-directing, so nitration gives $m$-nitrobenzoic acid (B). $\pi$ bonds: $3$ in the ring, $1$ in $\text{C=O}$ and $1$ in the $\text{N=O}$ of $-\text{NO}_2$ (formal). Total $=5$.
 
-### C-CAR-03 — JEE Main 2024 · 8 Apr Shift 2 · Q36 · MCQ
+### C-CAR-04 · C — JEE Main 2024 · 8 Apr Shift 2 · Q36 · MCQ
 
 The correct sequence of acidic strength (decreasing) of $\text{CH}_3\text{CH}_2\text{COOH}$, $\text{CH}_3\text{COOH}$, $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ and $\text{HCOOH}$ is:
 
@@ -29,19 +44,4 @@ The correct sequence of acidic strength (decreasing) of $\text{CH}_3\text{CH}_2\
 **Answer: (3)** · key ✔
 
 **Solution.** Alkyl groups are electron-donating ($+I$): they destabilise the carboxylate and reduce acidity. The $+I$ effect grows with chain length, so $pK_a$: HCOOH $3.75$, $\text{CH}_3\text{COOH}$ $4.76$, $\text{CH}_3\text{CH}_2\text{COOH}$ $4.87$. The higher homologues have almost equal strength; the key follows the textbook order HCOOH > CH$_3$COOH > CH$_3$CH$_2$COOH > CH$_3$CH$_2$CH$_2$COOH, i.e. option (3).
-
-### § — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
-
-The correct order of acidic strength of the major products formed in the given reactions is:
-
-A. $\mathrm{PhNH_2}\xrightarrow{(1)\ \mathrm{NaNO_2+HCl}\,(<5^\circ\mathrm C);\ (2)\ \mathrm{CuCN};\ (3)\ \mathrm{H_3O^+/\Delta}}$ [A]
-B. $\mathrm{CH_3CH_2CHO}\xrightarrow[\Delta]{[\mathrm{Ag(NH_3)_2}]^+,\,\mathrm{OH^-}}$ [B]
-C. $\mathrm{CH_4+O_2}\xrightarrow{(i)\ \ (ii)\ \mathrm{Na_2Cr_2O_7/H^+}}$ [C]
-D. $\mathrm{PhCH_2MgBr+CO_2}\xrightarrow[\mathrm{H_3O^+}]{\text{dry ether}}$ [D]
-
-(1) A > D > B > C  (2) C > A > D > B  (3) C > B > A > D  (4) A > D > C > B
-
-**Answer: (2)** · key (compiled)
-
-**Solution.** A = benzoic acid (Sandmeyer cyanation then hydrolysis; $\mathrm{p}K_a=4.2$). B = propanoic acid (Tollens' oxidation; $\mathrm{p}K_a=4.87$). C = methanoic acid (methane $\to$ HCHO $\to$ HCOOH; $\mathrm{p}K_a=3.75$). D = phenylacetic acid (Grignard + $\mathrm{CO_2}$; $\mathrm{p}K_a=4.31$). Acid strength rises as $\mathrm{p}K_a$ falls: HCOOH (C) > $\mathrm{PhCOOH}$ (A) > $\mathrm{PhCH_2COOH}$ (D) > $\mathrm{CH_3CH_2COOH}$ (B): C > A > D > B.
 
