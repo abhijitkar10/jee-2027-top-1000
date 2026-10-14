@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/wave-optics.md](../../theory/physics/wave-optics.md)
 
-### P-WOP-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### P-WOP-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 Given below are two statements:  
 **Statement I:** In Young's double slit experiment, the angular separation of fringes will increase as the screen is moved away from the plane of the slits.  
@@ -14,7 +14,7 @@ Given below are two statements:
 
 **Solution.** The angular fringe width is $\dfrac{\beta}{D}=\dfrac{\lambda}{d}$, independent of the screen distance $D$ (so I is false) and proportional to $\lambda$ (so II is true).
 
-### P-WOP-02 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · Numerical
+### P-WOP-02 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q2 · Numerical
 
 In a Young's double slit experiment the two slits are $0.4$ mm apart and the screen is $1$ m from the slits. A thin transparent sheet of thickness $20\ \mu$m is introduced in front of one of the slits, and the central bright fringe shifts by $20$ mm on the screen. The refractive index of the sheet is $\dfrac{\alpha}{10}$, where $\alpha$ is ______.
 
@@ -22,7 +22,7 @@ In a Young's double slit experiment the two slits are $0.4$ mm apart and the scr
 
 **Solution.** Shift $\Delta y=(\mu-1)t\dfrac Dd\Rightarrow20\times10^{-3}=(\mu-1)\times20\times10^{-6}\times\dfrac{1}{0.4\times10^{-3}}=(\mu-1)\times0.05$, so $\mu-1=0.4$, $\mu=1.4=\dfrac{14}{10}$ and $\alpha=14$.
 
-### P-WOP-03 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · Numerical
+### P-WOP-03 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · Numerical
 
 In two separate Young's double-slit set-ups, two monochromatic sources of different wavelengths give fringes of equal width. The ratio of the slit separations is $2:1$ and the ratio of the wavelengths is $1:2$. The ratio of the distances between the slits and the respective screens, $D_1/D_2$, is ______.
 
@@ -30,7 +30,7 @@ In two separate Young's double-slit set-ups, two monochromatic sources of differ
 
 **Solution.** Fringe width $\beta=\dfrac{\lambda D}{d}$. Equal widths: $\dfrac{\lambda_1D_1}{d_1}=\dfrac{\lambda_2D_2}{d_2}\Rightarrow\dfrac{D_1}{D_2}=\dfrac{\lambda_2}{\lambda_1}\cdot\dfrac{d_1}{d_2}=2\times2=4$.
 
-### P-WOP-04 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · Numerical
+### P-WOP-04 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · Numerical
 
 A beam of light consisting of wavelengths $650$ nm and $550$ nm illuminates Young's double slits of separation $2$ mm, with the fringes formed on a screen $1.2$ m from the slits. The least distance of a point from the central maximum where the bright fringes of both wavelengths coincide is ______ $\times10^{-5}$ m.
 
@@ -38,7 +38,7 @@ A beam of light consisting of wavelengths $650$ nm and $550$ nm illuminates Youn
 
 **Solution.** Coincidence needs $n_1\lambda_1=n_2\lambda_2\Rightarrow\dfrac{n_1}{n_2}=\dfrac{550}{650}=\dfrac{11}{13}$, so $n_1=11$. $y=n_1\dfrac{\lambda_1D}{d}=11\times\dfrac{650\times10^{-9}\times1.2}{2\times10^{-3}}=11\times3.9\times10^{-4}=4.29\times10^{-3}\ \text{m}=429\times10^{-5}$ m.
 
-### P-WOP-05 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+### P-WOP-05 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
 
 In Young's double slit experiment the intensity produced by each individual slit is $I_0$. The distance between the two slits is $2$ mm, the screen is $10$ m from the slits and the wavelength of light is $6000\ \text{Å}$. The intensity of light on the screen in front of one of the slits is ______.
 
@@ -48,7 +48,7 @@ In Young's double slit experiment the intensity produced by each individual slit
 
 **Solution.** The point in front of one slit is at $y=\dfrac d2=1$ mm from the axis, so the path difference is $\Delta=\dfrac{dy}{D}=\dfrac{2\times10^{-3}\times10^{-3}}{10}=2\times10^{-7}$ m, i.e. a phase difference $\phi=\dfrac{2\pi\Delta}{\lambda}=\dfrac{2\pi}{3}$. $I=4I_0\cos^2\dfrac\phi2=4I_0\cos^2\dfrac\pi3=I_0$.
 
-### P-WOP-06 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+### P-WOP-06 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
 
 Which of the following are true for single-slit diffraction?  
 A. The width of the central maximum increases with increase in wavelength, keeping the slit width constant.  
@@ -63,7 +63,7 @@ E. The brightness of the central maximum increases for decrease in wavelength at
 
 **Solution.** The central maximum has width $W=\dfrac{2\lambda D}{a}$: it grows with $\lambda$ (A true, B false) and with decreasing slit width $a$ (C true, D false). Less spreading at smaller $\lambda$ concentrates the intensity, so the central maximum is brighter (E true, as per the key).
 
-### P-WOP-07 · B — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+### P-WOP-07 · A — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
 
 When unpolarised light falls at a particular angle on a glass plate (placed in air), the reflected beam is found to be linearly polarised. The angle of the refracted beam with respect to the normal is ______. (Refractive indices of air and glass are $1.00$ and $1.52$; $\tan^{-1}(1.52)=57.7^\circ$.)
 
@@ -73,7 +73,7 @@ When unpolarised light falls at a particular angle on a glass plate (placed in a
 
 **Solution.** Polarisation of the reflected beam means incidence at the Brewster angle, $\tan i_B=1.52\Rightarrow i_B=57.7^\circ$. Reflected and refracted rays are then perpendicular, so $r=90^\circ-57.7^\circ=32.3^\circ$.
 
-### P-WOP-08 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+### P-WOP-08 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
 
 In a double slit experiment the distance between the slits is $0.1$ cm and the screen is $50$ cm from the plane of the slits. When one slit is covered with a transparent sheet of thickness $t$ and refractive index $n\ (=1.5)$, the central fringe shifts by $0.2$ cm. The value of $t$ is ______ cm.
 
@@ -83,7 +83,7 @@ In a double slit experiment the distance between the slits is $0.1$ cm and the s
 
 **Solution.** Shift $=\dfrac{(n-1)tD}{d}\Rightarrow0.2=\dfrac{0.5\,t\times50}{0.1}=250\,t\Rightarrow t=8\times10^{-4}$ cm.
 
-### P-WOP-09 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+### P-WOP-09 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
 
 Given below are two statements:  
 **Statement I:** A plane wave after passing through a prism remains a plane wave, but passing through a small pin hole it may become a spherical wave.  
@@ -95,7 +95,7 @@ Given below are two statements:
 
 **Solution.** I is true: refraction at the prism faces keeps the wavefront plane, whereas a pin hole comparable to the wavelength acts as a point source of spherical wavelets (Huygens). II is false: a wider slit means less diffraction and a flatter wavefront, so the curvature decreases.
 
-### P-WOP-10 · B — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+### P-WOP-10 · A — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
 
 An unpolarised light is incident at the interface of two dielectric media having refractive indices $2$ (incident medium) and $2\sqrt3$ respectively. To satisfy the condition that the reflected and refracted rays are perpendicular to each other, the angle of incidence is ______.
 
@@ -191,7 +191,7 @@ A light wave is propagating with plane wave fronts of the type $x+y+z=$ constant
 
 **Solution.** The wave travels along the normal to its wavefronts, here $\hat n=\dfrac{\hat i+\hat j+\hat k}{\sqrt3}$. Hence $\cos\theta=\hat n\cdot\hat i=\dfrac1{\sqrt3}$.
 
-### P-WOP-20 · B — JEE Main 2024 · 27 Jan Shift 2 · Q16 · MCQ
+### P-WOP-20 · C — JEE Main 2024 · 27 Jan Shift 2 · Q16 · MCQ
 
 When a polaroid sheet is rotated between two crossed polaroids, the transmitted light intensity will be maximum for a rotation of
 
@@ -201,7 +201,7 @@ When a polaroid sheet is rotated between two crossed polaroids, the transmitted 
 
 **Solution.** Let the middle sheet make angle $\theta$ with the first; then it makes $90^\circ-\theta$ with the third. By Malus's law $I=I_0\cos^2\theta\cos^2(90^\circ-\theta)=\dfrac{I_0}4\sin^22\theta$, which is maximum at $\theta=45^\circ$.
 
-### P-WOP-21 · B — JEE Main 2024 · 29 Jan Shift 2 · Q17 · MCQ
+### P-WOP-21 · C — JEE Main 2024 · 29 Jan Shift 2 · Q17 · MCQ
 
 In Young's double slit experiment, light from two identical sources superimposes on a screen. The path difference between the two lights reaching a point on the screen is $\dfrac{7\lambda}4$. The ratio of the intensity of the fringe at this point to the maximum intensity of the fringe is
 
@@ -211,7 +211,7 @@ In Young's double slit experiment, light from two identical sources superimposes
 
 **Solution.** Phase difference $\phi=\dfrac{2\pi}\lambda\cdot\dfrac{7\lambda}4=\dfrac{7\pi}2$. $I=I_{\max}\cos^2\dfrac\phi2=I_{\max}\cos^2\dfrac{7\pi}4=I_{\max}\cdot\tfrac12$.
 
-### P-WOP-22 · B — JEE Main 2024 · 30 Jan Shift 1 · Q17 · MCQ
+### P-WOP-22 · C — JEE Main 2024 · 30 Jan Shift 1 · Q17 · MCQ
 
 The diffraction pattern of light of wavelength $400$ nm diffracting from a slit of width $0.2$ mm is focused on the focal plane of a convex lens of focal length $100$ cm. The width of the first secondary maximum will be
 
@@ -221,7 +221,7 @@ The diffraction pattern of light of wavelength $400$ nm diffracting from a slit 
 
 **Solution.** The width of each secondary maximum equals the distance between successive minima: $\beta=\dfrac{\lambda f}{a}=\dfrac{400\times10^{-9}\times1}{0.2\times10^{-3}}=2\times10^{-3}$ m $=2$ mm.
 
-### P-WOP-23 · B — JEE Main 2024 · 30 Jan Shift 2 · Q14 · MCQ
+### P-WOP-23 · C — JEE Main 2024 · 30 Jan Shift 2 · Q14 · MCQ
 
 A beam of unpolarised light of intensity $I_0$ is passed through a polaroid $A$ and then through another polaroid $B$ oriented so that its principal plane makes an angle of $45^\circ$ relative to that of $A$. The intensity of the emergent light is
 
@@ -231,7 +231,7 @@ A beam of unpolarised light of intensity $I_0$ is passed through a polaroid $A$ 
 
 **Solution.** After $A$: $\dfrac{I_0}2$. By Malus's law, after $B$: $\dfrac{I_0}2\cos^245^\circ=\dfrac{I_0}2\cdot\dfrac12=\dfrac{I_0}4$.
 
-### P-WOP-24 · B — JEE Main 2024 · 31 Jan Shift 2 · Q16 · MCQ
+### P-WOP-24 · C — JEE Main 2024 · 31 Jan Shift 2 · Q16 · MCQ
 
 When unpolarised light is incident at an angle of $60^\circ$ on a transparent medium from air, the reflected ray is completely polarised. The angle of refraction in the medium is
 
@@ -241,7 +241,7 @@ When unpolarised light is incident at an angle of $60^\circ$ on a transparent me
 
 **Solution.** At the polarising (Brewster) angle $i_p$ the reflected and refracted rays are perpendicular: $i_p+r=90^\circ\Rightarrow r=90^\circ-60^\circ=30^\circ$ (and $\mu=\tan60^\circ=\sqrt3$).
 
-### P-WOP-25 · B — JEE Main 2024 · 1 Feb Shift 2 · Q17 · MCQ
+### P-WOP-25 · C — JEE Main 2024 · 1 Feb Shift 2 · Q17 · MCQ
 
 A microwave of wavelength $2.0$ cm falls normally on a slit of width $4.0$ cm. The angular spread of the central maximum of the diffraction pattern on a screen $1.5$ m away is:
 

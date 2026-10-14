@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/centre-of-mass-collisions.md](../../theory/physics/centre-of-mass-collisions.md)
 
-### P-COM-01 · C — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+### P-COM-01 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
 
 In a perfectly inelastic collision, two spheres made of the same material, of masses $15$ kg and $25$ kg, moving in opposite directions with speeds of $10$ m/s and $30$ m/s respectively, strike each other and stick together. The rise in temperature (in $^\circ$C), if all the heat produced during the collision is retained by these spheres, is: (specific heat of the sphere material $=31$ cal/kg $^\circ$C and $1$ cal $=4.2$ J)
 
@@ -12,7 +12,7 @@ In a perfectly inelastic collision, two spheres made of the same material, of ma
 
 **Solution.** Momentum: $15(10)-25(30)=40v\Rightarrow v=-15$ m/s. Kinetic energy lost $=\tfrac12(15)(10)^2+\tfrac12(25)(30)^2-\tfrac12(40)(15)^2=12000-4500=7500$ J $=1785.7$ cal. $\Delta T=\dfrac{1785.7}{40\times31}=1.44^\circ$C.
 
-### P-COM-02 · C — JEE Main 2026 · 22 Jan Shift 2 · set Q2 · MCQ
+### P-COM-02 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q2 · MCQ
 
 Given below are two statements:  
 **Statement I:** For a mechanical system of many particles, the total kinetic energy is the sum of the kinetic energies of all the particles.  
@@ -24,7 +24,7 @@ Given below are two statements:
 
 **Solution.** I is true by definition, $K=\sum\tfrac12m_iv_i^2$. II is the König decomposition, $K=\tfrac12Mv_{cm}^2+\sum\tfrac12m_iv_i'^2$, also true.
 
-### P-COM-03 · C — JEE Main 2026 · 23 Jan Shift 2 · set Q3 · MCQ
+### P-COM-03 · A — JEE Main 2026 · 23 Jan Shift 2 · set Q3 · MCQ
 
 A body of mass $14$ kg initially at rest explodes and breaks into three fragments of masses in the ratio $2:2:3$. The two pieces of equal masses fly off perpendicular to each other with a speed of $18$ m/s each. The velocity of the heavier fragment is ______ m/s.
 
@@ -34,17 +34,7 @@ A body of mass $14$ kg initially at rest explodes and breaks into three fragment
 
 **Solution.** The masses are $4$, $4$ and $6$ kg. The two equal fragments have momenta $72$ kg m/s along perpendicular directions, with resultant $72\sqrt2$. Total momentum is zero, so $6v=72\sqrt2\Rightarrow v=12\sqrt2$ m/s.
 
-### P-COM-04 · C — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
-
-A particle of mass $2m$ collides elastically with a particle of mass $m$ initially at rest. The maximum angular deviation $\theta$ of the heavier particle from its original direction is
-
-(A) $\pi$  (B) $\tan^{-1}\!\left(\tfrac12\right)$  (C) $\pi/3$  (D) $\pi/6$
-
-**Answer: (D)** · official key ✔ (re-derived)
-
-**Solution.** When the projectile is heavier ($m_1=2m>m_2=m$) it cannot be scattered backwards, and the maximum deflection satisfies $\sin\theta_{max}=\dfrac{m_2}{m_1}=\dfrac12$, so $\theta_{max}=\dfrac\pi6$.
-
-### P-COM-05 · C — JEE Main 2025 · Jan session · COM set Q1 · MCQ
+### P-COM-04 · A — JEE Main 2025 · Jan session · COM set Q1 · MCQ
 
 The centre of mass of a thin rectangular plate (figure) with sides of length $a$ and $b$, whose mass per unit area $\sigma$ varies as $\sigma=\dfrac{\sigma_0x}{ab}$ (where $\sigma_0$ is a constant), would be ______.
 
@@ -56,7 +46,17 @@ The centre of mass of a thin rectangular plate (figure) with sides of length $a$
 
 **Solution.** The density depends on $x$ only, so $y_{cm}=\dfrac b2$ by symmetry. $x_{cm}=\dfrac{\int_0^a x\,\sigma\,b\,dx}{\int_0^a\sigma\,b\,dx}=\dfrac{\int_0^ax^2dx}{\int_0^ax\,dx}=\dfrac{a^3/3}{a^2/2}=\dfrac{2a}3$.
 
-### P-COM-06 · C — JEE Main 2025 · Jan session · COM set Q2 · MCQ
+### P-COM-05 · B — JEE Advanced 2025 · Paper 1 · Q2 · MCQ
+
+A particle of mass $2m$ collides elastically with a particle of mass $m$ initially at rest. The maximum angular deviation $\theta$ of the heavier particle from its original direction is
+
+(A) $\pi$  (B) $\tan^{-1}\!\left(\tfrac12\right)$  (C) $\pi/3$  (D) $\pi/6$
+
+**Answer: (D)** · official key ✔ (re-derived)
+
+**Solution.** When the projectile is heavier ($m_1=2m>m_2=m$) it cannot be scattered backwards, and the maximum deflection satisfies $\sin\theta_{max}=\dfrac{m_2}{m_1}=\dfrac12$, so $\theta_{max}=\dfrac\pi6$.
+
+### P-COM-06 · B — JEE Main 2025 · Jan session · COM set Q2 · MCQ
 
 Consider a circular disc of radius 20 cm with its centre located at the origin. A circular hole of radius 5 cm is cut from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of the centre of mass of the residual (remaining) disc from the origin will be:
 
@@ -66,7 +66,7 @@ Consider a circular disc of radius 20 cm with its centre located at the origin. 
 
 **Solution.** Mass $\propto$ area, so the hole has $\dfrac1{16}$ of the original mass $M$, with its centre at $20-5=15$ cm from the origin. $x_{cm}=\dfrac{M\cdot0-\frac M{16}\cdot15}{M-\frac M{16}}=-\dfrac{15}{15}=-1$ cm. The centre of mass of the remaining disc is 1.0 cm from the origin, on the side opposite to the hole.
 
-### P-COM-07 · C — JEE Main 2025 · Apr session · COM set Q1 · MCQ
+### P-COM-07 · B — JEE Main 2025 · Apr session · COM set Q1 · MCQ
 
 A rod of length $5L$ is bent at a right angle keeping one side of length $2L$ (the other side is then $3L$), as shown in the figure. The position of the centre of mass of the system is: (consider $L=10$ cm)
 

@@ -206,7 +206,7 @@ A transparent film of refractive index 2.0 is coated on a glass slab of refracti
 
 **Solution.** Maximum transmission means minimum reflection. Reflection at air–film ($1\to2.0$) introduces a phase change of $\pi$; at film–glass ($2.0\to1.45$) there is none. The two reflected rays therefore cancel when $2nt=m\lambda$. Minimum thickness ($m=1$): $t=\dfrac{\lambda}{2n}=\dfrac{550}{2\times2.0}=137.5$ nm.
 
-### P-RAY-22 · A — JEE Main 2025 · Jan session · Ray set Q4 · MCQ
+### P-RAY-22 · B — JEE Main 2025 · Jan session · Ray set Q4 · MCQ
 
 Given is a thin convex lens of glass (refractive index $\mu$), each side having radius of curvature $R$. One side is polished for complete reflection (figure). At what distance from the lens should an object be placed on the optic axis so that the image gets formed on the object itself?
 
@@ -218,7 +218,7 @@ Given is a thin convex lens of glass (refractive index $\mu$), each side having 
 
 **Solution.** Light refracts at the front surface (power $\tfrac{\mu-1}R$), reflects at the silvered back surface (a concave mirror in glass, power $\tfrac{2\mu}R$) and refracts out through the front surface again. Total power $P=2\cdot\dfrac{\mu-1}R+\dfrac{2\mu}R=\dfrac{2(2\mu-1)}R$, i.e. an equivalent mirror of focal length $f_{eq}=\dfrac R{2(2\mu-1)}$. The image falls on the object when the object is at the centre of curvature of this equivalent mirror: distance $=2f_{eq}=\dfrac R{2\mu-1}$.
 
-### P-RAY-23 · A — JEE Main 2025 · Jan session · Ray set Q7 · MCQ
+### P-RAY-23 · B — JEE Main 2025 · Jan session · Ray set Q7 · MCQ
 
 A photograph of a landscape is captured by a drone camera at a height of 18 km. The size of the camera film is $2\ \text{cm}\times2\ \text{cm}$ and the area of the landscape photographed is $400\ \text{km}^2$. The focal length of the lens in the drone camera is:
 
@@ -228,7 +228,7 @@ A photograph of a landscape is captured by a drone camera at a height of 18 km. 
 
 **Solution.** The landscape is $20\ \text{km}\times20\ \text{km}$, so the linear magnification is $m=\dfrac{2\times10^{-2}\ \text m}{2\times10^{4}\ \text m}=10^{-6}$. With $u=18$ km, the image distance is $v=mu=1.8\times10^{-2}$ m $=1.8$ cm. Since $u\gg v$, $\dfrac1f=\dfrac1u+\dfrac1v\approx\dfrac1v$, so $f\approx1.8$ cm.
 
-### P-RAY-24 · A — JEE Main 2025 · Jan session · Ray set Q9 · MCQ
+### P-RAY-24 · B — JEE Main 2025 · Jan session · Ray set Q9 · MCQ
 
 A concave mirror produces an image of an object such that the distance between the object and the image is 20 cm. If the magnification of the image is $-3$, then the magnitude of the radius of curvature of the mirror is:
 
@@ -238,7 +238,7 @@ A concave mirror produces an image of an object such that the distance between t
 
 **Solution.** $m=-3$ means a real, inverted image, formed on the same side as the object with $|v|=3|u|$. Then $|v|-|u|=20$ gives $|u|=10$ cm and $|v|=30$ cm. Mirror formula (all distances negative in front of the mirror): $\dfrac1f=\dfrac1v+\dfrac1u=-\dfrac1{30}-\dfrac1{10}=-\dfrac4{30}$, so $|f|=7.5$ cm and $R=2|f|=15$ cm.
 
-### P-RAY-25 · A — JEE Main 2025 · Jan session · Ray set Q14 · MCQ
+### P-RAY-25 · B — JEE Main 2025 · Jan session · Ray set Q14 · MCQ
 
 A symmetric thin biconvex lens is cut into four equal parts by two planes $AB$ and $CD$ as shown in the figure. If the power of the original lens is 4 D, then the power of a part of the divided lens is:
 
@@ -250,7 +250,7 @@ A symmetric thin biconvex lens is cut into four equal parts by two planes $AB$ a
 
 **Solution.** Plane $AB$ contains the principal axis, so cutting along it does not change the lens profile. Plane $CD$ is perpendicular to the axis and splits the lens into two plano-convex halves. For the symmetric biconvex lens $P=(\mu-1)\left(\dfrac1R+\dfrac1R\right)$, whereas a half has only one curved face: $P'=(\mu-1)\dfrac1R=\dfrac P2=2$ D.
 
-### P-RAY-26 · A — JEE Main 2025 · Jan session · Ray set Q16 · MCQ
+### P-RAY-26 · B — JEE Main 2025 · Jan session · Ray set Q16 · MCQ
 
 A plano-convex lens having radius of curvature of its first surface 2 cm has focal length $f_1$ in air. Another plano-convex lens with first-surface radius of curvature 3 cm has focal length $f_2$ when it is immersed in a liquid of refractive index 1.2. If both lenses are made of the same glass of refractive index 1.5, the ratio $f_1:f_2$ will be:
 
@@ -260,7 +260,7 @@ A plano-convex lens having radius of curvature of its first surface 2 cm has foc
 
 **Solution.** For a plano-convex lens $\dfrac1f=(\mu_{rel}-1)\dfrac1R$. In air: $f_1=\dfrac{2}{0.5}=4$ cm. In the liquid, $\mu_{rel}=\dfrac{1.5}{1.2}=1.25$: $f_2=\dfrac{3}{0.25}=12$ cm. So $f_1:f_2=1:3$.
 
-### P-RAY-27 · A — JEE Main 2025 · Jan session · Ray set Q18 · MCQ
+### P-RAY-27 · B — JEE Main 2025 · Jan session · Ray set Q18 · MCQ
 
 A thin prism $P_1$ of angle $4^\circ$ made of glass of refractive index 1.54 is combined with another thin prism $P_2$ made of glass of refractive index 1.72 to get dispersion without deviation. The angle of the prism $P_2$ in degrees is:
 
@@ -270,7 +270,7 @@ A thin prism $P_1$ of angle $4^\circ$ made of glass of refractive index 1.54 is 
 
 **Solution.** Dispersion without deviation (a direct-vision combination) means the net mean deviation is zero with the prisms placed in opposite sense: $(\mu_1-1)A_1=(\mu_2-1)A_2$. So $0.54\times4=0.72\,A_2\Rightarrow A_2=3^\circ$.
 
-### P-RAY-28 · A — JEE Main 2025 · Jan session · Ray set Q19 · Numerical
+### P-RAY-28 · B — JEE Main 2025 · Jan session · Ray set Q19 · Numerical
 
 The driver sitting inside a parked car is watching vehicles approaching from behind with the help of his side-view mirror, which is a convex mirror of radius of curvature $R=2$ m. Another car approaches him from behind with a uniform speed of 90 km/h. When the car is at a distance of 24 m from him, the magnitude of the acceleration of the image of the car in the side-view mirror is $a$. The value of $100a$ is ______ m/s$^2$.
 
@@ -278,7 +278,7 @@ The driver sitting inside a parked car is watching vehicles approaching from beh
 
 **Solution.** $f=+1$ m. For an object at distance $d$ in front, $v=\dfrac{uf}{u-f}=\dfrac{d}{d+1}$ (virtual image behind the mirror). The car closes at $V=25$ m/s, so $\dot d=-V$. Then $\dot v=\dfrac{dv}{dd}\,\dot d=-\dfrac{V}{(d+1)^2}$, and differentiating again (with $\ddot d=0$) $\ddot v=\dfrac{2V\dot d}{(d+1)^3}=-\dfrac{2V^2}{(d+1)^3}$. So $|a|=\dfrac{2V^2}{(d+1)^3}=\dfrac{2\times625}{25^3}=0.08$ m/s$^2$ and $100a=8$.
 
-### P-RAY-29 · A — JEE Main 2025 · Jan session · Ray set Q20 · MCQ
+### P-RAY-29 · B — JEE Main 2025 · Jan session · Ray set Q20 · MCQ
 
 What is the lateral shift of a ray refracted through a parallel-sided glass slab of thickness $h$ in terms of the angle of incidence $i$ and angle of refraction $r$, if the slab is placed in air?
 
@@ -288,7 +288,7 @@ What is the lateral shift of a ray refracted through a parallel-sided glass slab
 
 **Solution.** The path of the ray inside the slab is $\dfrac h{\cos r}$. The emergent ray is parallel to the incident ray and displaced sideways by $\dfrac h{\cos r}\sin(i-r)$ (the component of the path perpendicular to the original direction).
 
-### P-RAY-30 · A — JEE Main 2025 · Apr session · Ray set Q2 · Numerical
+### P-RAY-30 · B — JEE Main 2025 · Apr session · Ray set Q2 · Numerical
 
 A ray of light suffers minimum deviation when incident on a prism of angle $60^\circ$. The refractive index of the prism material is $\sqrt2$. The angle of incidence (in degrees) is ______.
 
@@ -296,7 +296,7 @@ A ray of light suffers minimum deviation when incident on a prism of angle $60^\
 
 **Solution.** At minimum deviation the ray passes symmetrically, so $r_1=r_2=A/2=30^\circ$. Snell's law at the first face: $\sin i=\mu\sin r_1=\sqrt2\times\dfrac12=\dfrac1{\sqrt2}$, so $i=45^\circ$.
 
-### P-RAY-31 · A — JEE Main 2025 · Apr session · Ray set Q4 · MCQ
+### P-RAY-31 · B — JEE Main 2025 · Apr session · Ray set Q4 · MCQ
 
 Two identical objects are placed in front of a convex mirror and a concave mirror having the same radius of curvature, 12 cm, at the same distance of 18 cm from the respective mirrors. The ratio of the sizes of the images formed by the convex mirror and by the concave mirror is:
 
@@ -306,7 +306,7 @@ Two identical objects are placed in front of a convex mirror and a concave mirro
 
 **Solution.** $f=6$ cm for both. Using $m=\dfrac{f}{f-u}$ with $u=-18$ cm: convex ($f=+6$): $m=\dfrac{6}{6+18}=\dfrac14$; concave ($f=-6$): $m=\dfrac{-6}{-6+18}=-\dfrac12$. Ratio of sizes $=\dfrac{1/4}{1/2}=\dfrac12$.
 
-### P-RAY-32 · A — JEE Main 2025 · Apr session · Ray set Q7 · MCQ
+### P-RAY-32 · B — JEE Main 2025 · Apr session · Ray set Q7 · MCQ
 
 A finite-size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the images produced by both mirrors coincide with each other. The distance between the two mirrors is:
 
@@ -316,7 +316,7 @@ A finite-size object is placed normal to the principal axis at a distance of 30 
 
 **Solution.** Convex mirror: $v=\dfrac{uf}{u-f}=\dfrac{(-30)(30)}{-60}=+15$ cm, i.e. the image is 15 cm behind it, which is $30+15=45$ cm from the object. The plane mirror's image lies as far behind the plane mirror as the object is in front, so for the plane mirror at distance $x$ from the object the image is $2x$ from the object. $2x=45\Rightarrow x=22.5$ cm. The mirrors are $30-22.5=7.5$ cm apart.
 
-### P-RAY-33 · A — JEE Main 2025 · Apr session · Ray set Q9 · MCQ
+### P-RAY-33 · B — JEE Main 2025 · Apr session · Ray set Q9 · MCQ
 
 A transparent block $A$ of refractive index $\mu=1.25$ is surrounded by a medium of refractive index $\mu=1.0$ as shown in the figure. A light ray is incident on the flat face of the block at angle $\theta$. What is the maximum value of $\theta$ for which light suffers total internal reflection at the top surface of the block?
 
@@ -328,7 +328,7 @@ A transparent block $A$ of refractive index $\mu=1.25$ is surrounded by a medium
 
 **Solution.** Critical angle at the top: $\sin\theta_C=\dfrac1{1.25}=0.8$, so $\cos\theta_C=0.6$. If the refraction angle at the side face is $r$, the angle of incidence at the top is $90^\circ-r$, and TIR needs $90^\circ-r\ge\theta_C$, i.e. $\sin r\le\cos\theta_C=0.6$. Snell at the side face: $\sin\theta=1.25\sin r\le1.25\times0.6=0.75$. So $\theta_{max}=\sin^{-1}(3/4)$.
 
-### P-RAY-34 · A — JEE Main 2025 · Apr session · Ray set Q10 · Numerical
+### P-RAY-34 · B — JEE Main 2025 · Apr session · Ray set Q10 · Numerical
 
 A container contains a liquid of refractive index 1.2 up to a height of 60 cm, and another liquid of refractive index 1.6 is added to a height $H$ above the first liquid. If viewed from above, the apparent shift in the position of the bottom of the container is 40 cm. The value of $H$ is ______ cm. (Consider the liquids to be immiscible.)
 
@@ -336,7 +336,7 @@ A container contains a liquid of refractive index 1.2 up to a height of 60 cm, a
 
 **Solution.** Each layer of thickness $t$ and index $\mu$ shifts the apparent position by $t\left(1-\dfrac1\mu\right)$. Total shift $=60\left(1-\dfrac1{1.2}\right)+H\left(1-\dfrac1{1.6}\right)=10+0.375H=40$, so $H=80$ cm.
 
-### P-RAY-35 · A — JEE Main 2025 · Apr session · Ray set Q12 · MCQ
+### P-RAY-35 · B — JEE Main 2025 · Apr session · Ray set Q12 · MCQ
 
 A spherical surface separates two media of refractive indices 1 and 1.5 as shown in the figure (the object $O$ is 0.2 m from the surface; $C$ is the centre of curvature and $R=0.4$ m). The distance of the image of the object $O$ is:
 
@@ -348,7 +348,7 @@ A spherical surface separates two media of refractive indices 1 and 1.5 as shown
 
 **Solution.** Take the direction of the incident light (left to right) as positive: $u=-0.2$ m, $R=+0.4$ m ($C$ lies to the right), $n_1=1$, $n_2=1.5$. Refraction at a spherical surface: $\dfrac{n_2}{v}-\dfrac{n_1}{u}=\dfrac{n_2-n_1}{R}\Rightarrow\dfrac{1.5}{v}=\dfrac{0.5}{0.4}-\dfrac1{0.2}=-3.75$, so $v=-0.4$ m: a virtual image 0.4 m to the left of the surface.
 
-### P-RAY-36 · A — JEE Main 2025 · Apr session · Ray set Q15 · MCQ
+### P-RAY-36 · B — JEE Main 2025 · Apr session · Ray set Q15 · MCQ
 
 A lens of refractive index 1.6 has a focal length of 12 cm in air. Find its focal length when it is placed in water. (Take the refractive index of water as 1.28.)
 
@@ -358,7 +358,7 @@ A lens of refractive index 1.6 has a focal length of 12 cm in air. Find its foca
 
 **Solution.** $\dfrac{f_w}{f_a}=\dfrac{\mu-1}{\mu/\mu_w-1}=\dfrac{0.6}{1.25-1}=2.4$, so $f_w=2.4\times12=28.8$ cm $=288$ mm.
 
-### P-RAY-37 · A — JEE Main 2025 · Apr session · Ray set Q16 · MCQ
+### P-RAY-37 · B — JEE Main 2025 · Apr session · Ray set Q16 · MCQ
 
 Two thin convex lenses of focal lengths 30 cm and 10 cm are placed coaxially 10 cm apart. The power of this combination is:
 
@@ -368,7 +368,7 @@ Two thin convex lenses of focal lengths 30 cm and 10 cm are placed coaxially 10 
 
 **Solution.** $P_1=\dfrac1{0.30}=\dfrac{10}3$ D, $P_2=\dfrac1{0.10}=10$ D, separation $d=0.10$ m. $P=P_1+P_2-dP_1P_2=\dfrac{10}3+10-0.1\times\dfrac{100}3=\dfrac{40}3-\dfrac{10}3=10$ D.
 
-### P-RAY-38 · A — JEE Main 2025 · Apr session · Ray set Q19 · MCQ
+### P-RAY-38 · B — JEE Main 2025 · Apr session · Ray set Q19 · MCQ
 
 Consider the following statements for refraction of light through a prism when the angle of deviation is minimum.
 
@@ -386,7 +386,7 @@ Choose the correct answer from the options given below.
 
 **Solution.** At minimum deviation the ray inside the prism is symmetric: it runs parallel to the base, $i=e$ and $r_1=r_2=A/2$ — so (A) and (C) are true and (E) is false. For any other deviation there are two incidence angles ($i$ and $e$ interchanged) giving the same deviation, so (D) is true. $\delta_{min}=2\sin^{-1}\!\left(\mu\sin\tfrac A2\right)-A$ increases with $A$, so (B) is false. Correct: A, C and D only.
 
-### P-RAY-39 · A — JEE Main 2024 · 27 Jan Shift 1 · Q16 · MCQ
+### P-RAY-39 · B — JEE Main 2024 · 27 Jan Shift 1 · Q16 · MCQ
 
 If the refractive index of the material of a prism is $\cot\!\left(\dfrac A2\right)$, where $A$ is the angle of the prism, the angle of minimum deviation is
 
@@ -396,7 +396,7 @@ If the refractive index of the material of a prism is $\cot\!\left(\dfrac A2\rig
 
 **Solution.** $\mu=\dfrac{\sin\frac{A+\delta_m}{2}}{\sin\frac A2}=\cot\frac A2\Rightarrow\sin\frac{A+\delta_m}{2}=\cos\frac A2=\sin\!\left(\frac\pi2-\frac A2\right)$. So $\frac{A+\delta_m}{2}=\frac\pi2-\frac A2$, giving $\delta_m=\pi-2A$.
 
-### P-RAY-40 · A — JEE Main 2024 · 29 Jan Shift 1 · Q16 · MCQ
+### P-RAY-40 · C — JEE Main 2024 · 29 Jan Shift 1 · Q16 · MCQ
 
 A convex mirror of radius of curvature $30$ cm forms an image that is half the size of the object. The object distance is
 
@@ -406,7 +406,7 @@ A convex mirror of radius of curvature $30$ cm forms an image that is half the s
 
 **Solution.** $f=+15$ cm. Magnification $m=-\dfrac vu=+\dfrac12\Rightarrow v=-\dfrac u2$. Mirror formula: $\dfrac1v+\dfrac1u=\dfrac1f\Rightarrow-\dfrac2u+\dfrac1u=-\dfrac1u=\dfrac1{15}\Rightarrow u=-15$ cm.
 
-### P-RAY-41 · A — JEE Main 2024 · 29 Jan Shift 1 · Q17 · MCQ
+### P-RAY-41 · C — JEE Main 2024 · 29 Jan Shift 1 · Q17 · MCQ
 
 A biconvex lens of refractive index $1.5$ has a focal length of $20$ cm in air. Its focal length when immersed in a liquid of refractive index $1.6$ is
 
@@ -416,7 +416,7 @@ A biconvex lens of refractive index $1.5$ has a focal length of $20$ cm in air. 
 
 **Solution.** In air: $\dfrac1{20}=(1.5-1)K\Rightarrow K=\dfrac1{10}$, where $K=\dfrac1{R_1}-\dfrac1{R_2}$. In the liquid: $\dfrac1{f_l}=\left(\dfrac{1.5}{1.6}-1\right)K=-\dfrac{0.1}{1.6}\cdot\dfrac1{10}=-\dfrac1{160}$. So $f_l=-160$ cm (the lens becomes diverging).
 
-### P-RAY-42 · A — JEE Main 2024 · 29 Jan Shift 2 · Q16 · MCQ
+### P-RAY-42 · C — JEE Main 2024 · 29 Jan Shift 2 · Q16 · MCQ
 
 If the distance between an object and its two-times magnified virtual image produced by a curved mirror is $15$ cm, the focal length of the mirror must be
 
@@ -426,7 +426,7 @@ If the distance between an object and its two-times magnified virtual image prod
 
 **Solution.** A magnified virtual image needs a concave mirror. Let $u=-x$; $m=-\dfrac vu=2\Rightarrow v=+2x$ (behind the mirror). Separation $=x+2x=15\Rightarrow x=5$ cm, so $u=-5,\ v=10$. $\dfrac1f=\dfrac1v+\dfrac1u=\dfrac1{10}-\dfrac15=-\dfrac1{10}\Rightarrow f=-10$ cm.
 
-### P-RAY-43 · A — JEE Main 2024 · 30 Jan Shift 1 · Q29 · Numerical
+### P-RAY-43 · C — JEE Main 2024 · 30 Jan Shift 1 · Q29 · Numerical
 
 The distance between an object and its two times magnified real image produced by a convex lens is $45$ cm. The focal length of the lens used is ______ cm.
 
@@ -434,7 +434,7 @@ The distance between an object and its two times magnified real image produced b
 
 **Solution.** For a real image with $|m|=2$: $v=2u$ (magnitudes). $u+v=3u=45\Rightarrow u=15$ cm, $v=30$ cm. $f=\dfrac{uv}{u+v}=\dfrac{15\times30}{45}=10$ cm.
 
-### P-RAY-44 · A — JEE Main 2024 · 31 Jan Shift 2 · Q29 · Numerical
+### P-RAY-44 · C — JEE Main 2024 · 31 Jan Shift 2 · Q29 · Numerical
 
 Light from a point source in air falls on a convex curved surface of radius $20$ cm and refractive index $1.5$. If the source is located $100$ cm from the convex surface, the image will be formed at ______ cm from the object.
 
@@ -442,7 +442,7 @@ Light from a point source in air falls on a convex curved surface of radius $20$
 
 **Solution.** Refraction at a spherical surface: $\dfrac{\mu_2}v-\dfrac{\mu_1}u=\dfrac{\mu_2-\mu_1}R$. With $u=-100$, $R=+20$: $\dfrac{1.5}v+\dfrac1{100}=\dfrac{0.5}{20}=0.025\Rightarrow\dfrac{1.5}{v}=0.015\Rightarrow v=100$ cm. The image is $100$ cm beyond the surface, i.e. $100+100=200$ cm from the object.
 
-### P-RAY-45 · A — JEE Main 2024 · 1 Feb Shift 1 · Q29 · Numerical
+### P-RAY-45 · C — JEE Main 2024 · 1 Feb Shift 1 · Q29 · Numerical
 
 The distance between an object and its $3$ times magnified virtual image produced by a convex lens is $20$ cm. The focal length of the lens used is ______ cm.
 
@@ -450,7 +450,7 @@ The distance between an object and its $3$ times magnified virtual image produce
 
 **Solution.** A virtual image lies on the same side as the object, so $|v|-|u|=20$ with $|v|=3|u|$: $u=10$ cm and $v=30$ cm. $\dfrac1f=\dfrac1u-\dfrac1v$ (magnitudes): $\dfrac1{10}-\dfrac1{30}=\dfrac1{15}$, so $f=15$ cm.
 
-### P-RAY-46 · A — JEE Main 2024 · 4 Apr Shift 1 · Q17 · MCQ
+### P-RAY-46 · C — JEE Main 2024 · 4 Apr Shift 1 · Q17 · MCQ
 
 The effective power of a combination of $5$ identical convex lenses kept in contact along the principal axis is $25$ D. The focal length of each lens is:
 
@@ -460,7 +460,7 @@ The effective power of a combination of $5$ identical convex lenses kept in cont
 
 **Solution.** Powers add for lenses in contact: $5P=25\Rightarrow P=5$ D, so $f=\dfrac{1}{5}\text{ m}=20$ cm.
 
-### P-RAY-47 · A — JEE Main 2024 · 4 Apr Shift 2 · Q29 · Numerical
+### P-RAY-47 · C — JEE Main 2024 · 4 Apr Shift 2 · Q29 · Numerical
 
 A ray is incident on a glass slab of thickness $4\sqrt3$ cm and refractive index $\sqrt2$, at an angle equal to the critical angle for glass–air. The lateral displacement of the ray is ______ cm. ($\sin15^\circ=0.25$)
 
@@ -468,7 +468,7 @@ A ray is incident on a glass slab of thickness $4\sqrt3$ cm and refractive index
 
 **Solution.** $\sin i_c=\tfrac1{\sqrt2}\Rightarrow i=45^\circ$. Snell: $\sin r=\dfrac{\sin45^\circ}{\sqrt2}=\tfrac12\Rightarrow r=30^\circ$. Lateral shift $d=\dfrac{t\sin(i-r)}{\cos r}=\dfrac{4\sqrt3\times0.25}{\sqrt3/2}=2$ cm.
 
-### P-RAY-48 · A — JEE Main 2024 · 5 Apr Shift 1 · Q17 · MCQ
+### P-RAY-48 · C — JEE Main 2024 · 5 Apr Shift 1 · Q17 · MCQ
 
 Light emerges from a convex lens when a point source is kept at its focus. The shape of the wavefront of the emerging light is:
 
@@ -478,7 +478,7 @@ Light emerges from a convex lens when a point source is kept at its focus. The s
 
 **Solution.** A source at the focus gives a parallel beam after refraction, and a parallel beam corresponds to a plane wavefront.
 
-### P-RAY-49 · A — JEE Main 2024 · 5 Apr Shift 2 · Q16 · MCQ
+### P-RAY-49 · C — JEE Main 2024 · 5 Apr Shift 2 · Q16 · MCQ
 
 Statement I: When white light passes through a prism, red light bends less than yellow and violet.  
 Statement II: The refractive indices are different for different wavelengths in a dispersive medium.
@@ -489,7 +489,7 @@ Statement II: The refractive indices are different for different wavelengths in 
 
 **Solution.** $\mu$ falls with wavelength (Cauchy): $\mu_{red}<\mu_{yellow}<\mu_{violet}$, so red deviates the least. II is the cause of dispersion. Both true.
 
-### P-RAY-50 · A — JEE Main 2024 · 6 Apr Shift 1 · Q29 · Numerical
+### P-RAY-50 · C — JEE Main 2024 · 6 Apr Shift 1 · Q29 · Numerical
 
 The refractive index of a prism is $\mu=\sqrt3$ and the ratio of the angle of minimum deviation to the angle of the prism is $1$. The angle of the prism is ______ degrees.
 
@@ -497,7 +497,7 @@ The refractive index of a prism is $\mu=\sqrt3$ and the ratio of the angle of mi
 
 **Solution.** $\delta_m=A$, so $\mu=\dfrac{\sin\frac{A+\delta_m}{2}}{\sin\frac A2}=\dfrac{\sin A}{\sin\frac A2}=2\cos\dfrac A2=\sqrt3\Rightarrow\dfrac A2=30^\circ$, so $A=60^\circ$.
 
-### P-RAY-51 · A — JEE Main 2024 · 6 Apr Shift 2 · Q16 · MCQ
+### P-RAY-51 · C — JEE Main 2024 · 6 Apr Shift 2 · Q16 · MCQ
 
 For a thin convex lens the radii of curvature are $15$ cm and $30$ cm and the focal length is $20$ cm. The refractive index of the material is:
 
@@ -507,7 +507,7 @@ For a thin convex lens the radii of curvature are $15$ cm and $30$ cm and the fo
 
 **Solution.** Lens-maker: $\dfrac1f=(\mu-1)\left(\dfrac1{R_1}+\dfrac1{R_2}\right)$ for a biconvex lens: $\dfrac1{20}=(\mu-1)\dfrac{1}{10}\Rightarrow\mu-1=0.5$, so $\mu=1.5$.
 
-### P-RAY-52 · A — JEE Main 2024 · 8 Apr Shift 1 · Q15 · MCQ
+### P-RAY-52 · C — JEE Main 2024 · 8 Apr Shift 1 · Q15 · MCQ
 
 The critical angle of incidence for a pair of optical media is $45^\circ$. The refractive indices of the first and second media are in the ratio:
 

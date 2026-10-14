@@ -241,7 +241,7 @@ Correct statements about hydrogen bonding: A. It exists when H is covalently bon
 
 **Solution.** A, D, E are true. B is false ($o$-nitrophenol has *intra*molecular H-bonding). C is false (HF is *inter*molecular, zig-zag chains).
 
-### C-BND-23 · B — JEE Main 2024 · 5 Apr Shift 1 · Q38 · MCQ
+### C-BND-23 · C — JEE Main 2024 · 5 Apr Shift 1 · Q38 · MCQ
 
 The number of $\sigma$ and $\pi$ bonds in an ethylene molecule is respectively:
 
@@ -251,7 +251,7 @@ The number of $\sigma$ and $\pi$ bonds in an ethylene molecule is respectively:
 
 **Solution.** $\text{H}_2\text{C=CH}_2$: $4$ C–H $\sigma$ bonds, $1$ C–C $\sigma$ bond and $1$ C–C $\pi$ bond: $5\ \sigma$, $1\ \pi$.
 
-### C-BND-24 · B — JEE Main 2024 · 5 Apr Shift 2 · Q33 · MCQ
+### C-BND-24 · C — JEE Main 2024 · 5 Apr Shift 2 · Q33 · MCQ
 
 Match List I with List II: (A) ICl, (B) $\text{ICl}_3$, (C) $\text{ClF}_5$, (D) $\text{IF}_7$; (I) T-shape, (II) pyramidal, (III) pentagonal bipyramidal, (IV) linear.
 
@@ -261,7 +261,7 @@ Match List I with List II: (A) ICl, (B) $\text{ICl}_3$, (C) $\text{ClF}_5$, (D) 
 
 **Solution.** ICl is diatomic: linear. $\text{ICl}_3$ ($3$ bond + $2$ lone pairs, $sp^3d$): T-shaped. $\text{ClF}_5$ ($5+1$): square pyramidal. $\text{IF}_7$ ($sp^3d^3$): pentagonal bipyramidal.
 
-### C-BND-25 · B — JEE Main 2024 · 6 Apr Shift 1 · Q34 · MCQ
+### C-BND-25 · C — JEE Main 2024 · 6 Apr Shift 1 · Q34 · MCQ
 
 Match hybridisation with orientation in space: A. $sp^3$; B. $dsp^2$; C. $sp^3d$; D. $sp^3d^2$; (I) trigonal bipyramidal; (II) octahedral; (III) tetrahedral; (IV) square planar.
 
@@ -271,7 +271,7 @@ Match hybridisation with orientation in space: A. $sp^3$; B. $dsp^2$; C. $sp^3d$
 
 **Solution.** $sp^3$: tetrahedral. $dsp^2$: square planar. $sp^3d$: trigonal bipyramidal. $sp^3d^2$: octahedral.
 
-### C-BND-26 · B — JEE Main 2024 · 6 Apr Shift 2 · Q41 · MCQ
+### C-BND-26 · C — JEE Main 2024 · 6 Apr Shift 2 · Q41 · MCQ
 
 Statement I: $\text{PF}_5$ and $\text{BrF}_5$ both exhibit $sp^3d$ hybridisation.  
 Statement II: Both $\text{SF}_6$ and $[\text{Co(NH}_3)_6]^{3+}$ exhibit $sp^3d^2$ hybridisation.
@@ -282,7 +282,7 @@ Statement II: Both $\text{SF}_6$ and $[\text{Co(NH}_3)_6]^{3+}$ exhibit $sp^3d^2
 
 **Solution.** $\text{PF}_5$ is $sp^3d$, but $\text{BrF}_5$ ($5$ bond + $1$ lone pair) is $sp^3d^2$, so I is false. $\text{SF}_6$ is $sp^3d^2$, but $[\text{Co(NH}_3)_6]^{3+}$ is an inner-orbital complex ($d^2sp^3$), so II is false.
 
-### C-BND-27 · B — JEE Main 2024 · 8 Apr Shift 2 · Q33 · MCQ
+### C-BND-27 · C — JEE Main 2024 · 8 Apr Shift 2 · Q33 · MCQ
 
 When $\psi_A$ and $\psi_B$ are the wave functions of atomic orbitals, $\psi_A-\psi_B$ represents:
 
@@ -292,7 +292,7 @@ When $\psi_A$ and $\psi_B$ are the wave functions of atomic orbitals, $\psi_A-\p
 
 **Solution.** In the LCAO method the sum $\psi_A+\psi_B$ gives the bonding MO ($\sigma$) and the difference $\psi_A-\psi_B$ gives the antibonding MO ($\sigma^*$).
 
-### C-BND-28 · B — JEE Main 2024 · 9 Apr Shift 1 · Q33 · MCQ
+### C-BND-28 · C — JEE Main 2024 · 9 Apr Shift 1 · Q33 · MCQ
 
 In which pair do the central atoms exhibit $sp^2$ hybridisation?
 

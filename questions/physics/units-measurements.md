@@ -92,7 +92,7 @@ In an experiment the values of two spring constants were measured as $k_1=(10\pm
 
 **Solution.** For a parallel combination $k_{eq}=k_1+k_2=30$ N/m and the absolute errors add: $\Delta k_{eq}=0.2+0.3=0.5$ N/m. Percentage error $=\dfrac{0.5}{30}\times100=1.67\%$.
 
-### P-UNT-09 · B — JEE Main 2025 · Jan session · Units set Q1 · MCQ
+### P-UNT-09 · A — JEE Main 2025 · Jan session · Units set Q1 · MCQ
 
 Which one of the following is the correct dimensional formula for the capacitance $F$? ($M$, $L$, $T$ and $C$ stand for the units of mass, length, time and charge.)
 
@@ -102,7 +102,7 @@ Which one of the following is the correct dimensional formula for the capacitanc
 
 **Solution.** Energy $U=\dfrac{Q^2}{2C}$, so $[C]=\dfrac{[Q]^2}{[U]}=\dfrac{C^2}{ML^2T^{-2}}=[C^2M^{-1}L^{-2}T^2]$.
 
-### P-UNT-10 · B — JEE Main 2025 · Jan session · Units set Q4 · Numerical
+### P-UNT-10 · A — JEE Main 2025 · Jan session · Units set Q4 · Numerical
 
 In a measurement, it is asked to find the modulus of elasticity per unit torque applied on the system. The measured quantity has the dimension of $[M^aL^bT^c]$. If $b=-3$, the value of $c$ is ______.
 
@@ -110,7 +110,7 @@ In a measurement, it is asked to find the modulus of elasticity per unit torque 
 
 **Solution.** $[\text{modulus}]=ML^{-1}T^{-2}$ and $[\text{torque}]=ML^2T^{-2}$. Their ratio is $L^{-3}$, i.e. $[M^0L^{-3}T^0]$: $a=0$, $b=-3$, $c=0$.
 
-### P-UNT-11 · B — JEE Main 2025 · Jan session · Units set Q5 · MCQ
+### P-UNT-11 · A — JEE Main 2025 · Jan session · Units set Q5 · MCQ
 
 The pair of physical quantities not having the same dimensions is:
 
@@ -120,7 +120,7 @@ The pair of physical quantities not having the same dimensions is:
 
 **Solution.** Pressure and Young's modulus: $ML^{-1}T^{-2}$. Torque and energy: $ML^2T^{-2}$. Angular momentum and Planck's constant: $ML^2T^{-1}$. Surface tension is $MT^{-2}$ but impulse is $MLT^{-1}$, so they differ.
 
-### P-UNT-12 · B — JEE Main 2025 · Jan session · Units set Q7 · MCQ
+### P-UNT-12 · A — JEE Main 2025 · Jan session · Units set Q7 · MCQ
 
 If $B$ is the magnetic field and $\mu_0$ is the permeability of free space, then the dimensions of $(B/\mu_0)$ are:
 
@@ -231,7 +231,7 @@ If mass is written as $m=kc^PG^{-1/2}h^{1/2}$ (constants have their usual meanin
 
 **Solution.** $[G]=M^{-1}L^3T^{-2}$ and $[h]=ML^2T^{-1}$, so $[G^{-1/2}h^{1/2}]=M^{1/2}L^{-3/2}T\cdot M^{1/2}L\,T^{-1/2}=ML^{-1/2}T^{1/2}$. Multiplying by $[c^P]=L^PT^{-P}$ must give $M$: the $L$ exponent $P-\tfrac12=0$ and the $T$ exponent $\tfrac12-P=0$ both give $P=\tfrac12$.
 
-### P-UNT-23 · B — JEE Main 2024 · 31 Jan Shift 1 · Q1 · MCQ
+### P-UNT-23 · C — JEE Main 2024 · 31 Jan Shift 1 · Q1 · MCQ
 
 If the percentage errors in measuring the length and the diameter of a wire are $0.1\%$ each, the percentage error in measuring its resistance will be
 
@@ -241,7 +241,7 @@ If the percentage errors in measuring the length and the diameter of a wire are 
 
 **Solution.** $R=\dfrac{\rho l}{A}=\dfrac{4\rho l}{\pi d^2}$, so $\dfrac{\Delta R}R=\dfrac{\Delta l}l+2\dfrac{\Delta d}d=0.1+2(0.1)=0.3\%$.
 
-### P-UNT-24 · B — JEE Main 2024 · 31 Jan Shift 1 · Q2 · MCQ
+### P-UNT-24 · C — JEE Main 2024 · 31 Jan Shift 1 · Q2 · MCQ
 
 A force is represented by $F=ax^2+bt^{1/2}$, where $x$ is distance and $t$ is time. The dimensions of $\dfrac{b^2}a$ are
 
@@ -251,7 +251,7 @@ A force is represented by $F=ax^2+bt^{1/2}$, where $x$ is distance and $t$ is ti
 
 **Solution.** Each term has the dimensions of force. $[a]=\dfrac{MLT^{-2}}{L^2}=ML^{-1}T^{-2}$ and $[b]=\dfrac{MLT^{-2}}{T^{1/2}}=MLT^{-5/2}$, so $[b^2]=M^2L^2T^{-5}$. $\left[\dfrac{b^2}a\right]=\dfrac{M^2L^2T^{-5}}{ML^{-1}T^{-2}}=ML^3T^{-3}$.
 
-### P-UNT-25 · B — JEE Main 2024 · 31 Jan Shift 2 · Q2 · MCQ
+### P-UNT-25 · C — JEE Main 2024 · 31 Jan Shift 2 · Q2 · MCQ
 
 Two physical quantities $A$ and $B$ are related as $E=\dfrac{B-x^2}{At}$, where $E$, $x$ and $t$ have the dimensions of energy, length and time respectively. The dimension of $AB$ is
 
@@ -261,7 +261,7 @@ Two physical quantities $A$ and $B$ are related as $E=\dfrac{B-x^2}{At}$, where 
 
 **Solution.** $B$ is added to $x^2$, so $[B]=L^2$. Then $[E]=\dfrac{[B]}{[A][t]}\Rightarrow[A]=\dfrac{L^2}{ML^2T^{-2}\cdot T}=M^{-1}T$. So $[AB]=M^{-1}T\cdot L^2=L^2M^{-1}T^1$.
 
-### P-UNT-26 · B — JEE Main 2024 · 31 Jan Shift 2 · Q20 · MCQ
+### P-UNT-26 · C — JEE Main 2024 · 31 Jan Shift 2 · Q20 · MCQ
 
 The measured value of the length of a simple pendulum is $20$ cm with $2$ mm accuracy. The time for $50$ oscillations was measured to be $40$ s with $1$ s resolution. From these measurements, the accuracy in the measurement of the acceleration due to gravity is $N\%$. The value of $N$ is
 
@@ -271,7 +271,7 @@ The measured value of the length of a simple pendulum is $20$ cm with $2$ mm acc
 
 **Solution.** $g=\dfrac{4\pi^2L}{T^2}$, so $\dfrac{\Delta g}g=\dfrac{\Delta L}L+2\dfrac{\Delta T}T=\dfrac{0.2}{20}+2\cdot\dfrac{1}{40}=0.01+0.05=0.06$, i.e. $6\%$.
 
-### P-UNT-27 · B — JEE Main 2024 · 1 Feb Shift 1 · Q1 · MCQ
+### P-UNT-27 · C — JEE Main 2024 · 1 Feb Shift 1 · Q1 · MCQ
 
 The radius $r$, length $l$ and resistance $R$ of a metal wire were measured as $r=0.35\pm0.05$ cm, $R=100\pm10$ ohm, $l=15\pm0.2$ cm. The percentage error in the resistivity of the material of the wire is
 
@@ -281,7 +281,7 @@ The radius $r$, length $l$ and resistance $R$ of a metal wire were measured as $
 
 **Solution.** $\rho=\dfrac{R\pi r^2}{l}$, so $\dfrac{\Delta\rho}\rho=\dfrac{\Delta R}R+2\dfrac{\Delta r}r+\dfrac{\Delta l}l=10\%+2\left(\dfrac{0.05}{0.35}\times100\right)\%+\dfrac{0.2}{15}\times100\%=10+28.57+1.33\approx39.9\%$.
 
-### P-UNT-28 · B — JEE Main 2024 · 1 Feb Shift 1 · Q2 · MCQ
+### P-UNT-28 · C — JEE Main 2024 · 1 Feb Shift 1 · Q2 · MCQ
 
 The dimensional formula of angular impulse is
 

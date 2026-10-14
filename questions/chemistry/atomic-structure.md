@@ -223,7 +223,7 @@ Which of the following configurations would have the highest magnetic moment?
 
 **Solution.** Unpaired electrons in the free-ion (Hund) configuration: $d^7\to3$, $d^8\to2$, $d^3\to3$, $d^6\to4$. $\mu=\sqrt{n(n+2)}$ is largest for $n=4$, i.e. $d^6$ ($\approx4.90$ BM).
 
-### C-ATS-23 · B — JEE Main 2024 · 29 Jan Shift 1 · Q31 · MCQ
+### C-ATS-23 · C — JEE Main 2024 · 29 Jan Shift 1 · Q31 · MCQ
 
 The correct set of four quantum numbers $(n,l,m_l,m_s)$ for the valence electron of rubidium ($Z=37$) is
 
@@ -233,7 +233,7 @@ The correct set of four quantum numbers $(n,l,m_l,m_s)$ for the valence electron
 
 **Solution.** Rb is $[\text{Kr}]5s^1$, so the valence electron has $n=5$, $l=0$ (s), and therefore $m_l=0$ only. Spin is $\pm\tfrac12$.
 
-### C-ATS-24 · B — JEE Main 2024 · 30 Jan Shift 1 · Q31 · MCQ
+### C-ATS-24 · C — JEE Main 2024 · 30 Jan Shift 1 · Q31 · MCQ
 
 Statement I: Orbitals having the same energy are called degenerate orbitals.  
 Statement II: In a hydrogen atom, $3p$ and $3d$ orbitals are not degenerate orbitals.
@@ -244,7 +244,7 @@ Statement II: In a hydrogen atom, $3p$ and $3d$ orbitals are not degenerate orbi
 
 **Solution.** I is the definition of degeneracy. In a hydrogen atom (a one-electron system) energy depends only on $n$, so $3s,3p,3d$ are all degenerate; II is false. (In multi-electron atoms $l$ also matters and the degeneracy is lifted.)
 
-### C-ATS-25 · B — JEE Main 2024 · 30 Jan Shift 2 · Q51 · Numerical
+### C-ATS-25 · C — JEE Main 2024 · 30 Jan Shift 2 · Q51 · Numerical
 
 The number of spectral lines obtained in the $\text{He}^+$ spectrum when an electron makes transitions from the fifth excited state to the first excited state is ______.
 
@@ -252,7 +252,7 @@ The number of spectral lines obtained in the $\text{He}^+$ spectrum when an elec
 
 **Solution.** The fifth excited state is $n=6$ and the first excited state is $n=2$. Lines arise from transitions among the levels $n=2,3,4,5,6$ ($5$ levels): number $=\dfrac{5\times4}{2}=10$.
 
-### C-ATS-26 · B — JEE Main 2024 · 31 Jan Shift 1 · Q52 · Numerical
+### C-ATS-26 · C — JEE Main 2024 · 31 Jan Shift 1 · Q52 · Numerical
 
 The ionisation energy of sodium in kJ mol$^{-1}$, if electromagnetic radiation of wavelength $242$ nm is just sufficient to ionise a sodium atom, is ______ (nearest integer).
 
@@ -260,7 +260,7 @@ The ionisation energy of sodium in kJ mol$^{-1}$, if electromagnetic radiation o
 
 **Solution.** Energy per atom $E=\dfrac{hc}\lambda=\dfrac{6.626\times10^{-34}\times3\times10^8}{242\times10^{-9}}=8.21\times10^{-19}$ J. Per mole: $8.21\times10^{-19}\times6.022\times10^{23}=4.95\times10^5$ J $\approx494$ kJ mol$^{-1}$.
 
-### C-ATS-27 · B — JEE Main 2024 · 31 Jan Shift 2 · Q32 · MCQ
+### C-ATS-27 · C — JEE Main 2024 · 31 Jan Shift 2 · Q32 · MCQ
 
 The four quantum numbers for the electron in the outermost orbital of potassium (atomic number $19$) are
 
@@ -270,7 +270,7 @@ The four quantum numbers for the electron in the outermost orbital of potassium 
 
 **Solution.** K is $[\text{Ar}]4s^1$. The valence electron is in the $4s$ orbital: $n=4$, $l=0$, $m_l=0$, $s=\pm\tfrac12$.
 
-### C-ATS-28 · B — JEE Main 2024 · 1 Feb Shift 2 · Q31 · MCQ
+### C-ATS-28 · C — JEE Main 2024 · 1 Feb Shift 2 · Q31 · MCQ
 
 The number of radial nodes for the $3p$ orbital is:
 
@@ -280,7 +280,7 @@ The number of radial nodes for the $3p$ orbital is:
 
 **Solution.** Radial nodes $=n-l-1=3-1-1=1$.
 
-### C-ATS-29 · B — JEE Main 2024 · 4 Apr Shift 1 · Q51 · Numerical
+### C-ATS-29 · C — JEE Main 2024 · 4 Apr Shift 1 · Q51 · Numerical
 
 The de Broglie wavelength of an electron in the $4$th orbit is $x\pi a_0$ ($a_0$ = Bohr radius). Then $x=$ ______.
 

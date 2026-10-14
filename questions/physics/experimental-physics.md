@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/experimental-physics.md](../../theory/physics/experimental-physics.md)
 
-### P-EXP-01 · C — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+### P-EXP-01 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
 
 In a screw gauge, the zero of the circular scale lies $3$ divisions above the horizontal pitch line when the metallic studs are brought in contact. Using this instrument the thickness of a sheet is measured. If the pitch scale reading is $1$ mm and the circular scale reading is $51$, the correct thickness of the sheet is ______ mm. [Assume the least count is $0.01$ mm]
 
@@ -12,7 +12,7 @@ In a screw gauge, the zero of the circular scale lies $3$ divisions above the ho
 
 **Solution.** The zero lies above the pitch line, so the zero error is negative: $e=-3\times0.01=-0.03$ mm. Reading $=1+51\times0.01-(-0.03)=1.54$ mm.
 
-### P-EXP-02 · C — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+### P-EXP-02 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
 
 In an experiment, a set of readings is obtained as follows: $1.24$ mm, $1.25$ mm, $1.23$ mm, $1.21$ mm. The expected least count of the instrument used in recording these readings is ______ mm.
 
@@ -22,7 +22,7 @@ In an experiment, a set of readings is obtained as follows: $1.24$ mm, $1.25$ mm
 
 **Solution.** All readings are recorded to two decimal places and differ by multiples of $0.01$ mm, so the smallest readable division (least count) is $0.01$ mm.
 
-### P-EXP-03 · C — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+### P-EXP-03 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
 
 In a vernier callipers, $50$ vernier scale divisions are equal to $48$ main scale divisions. If one main scale division $=0.05$ mm, the least count of the vernier callipers is ______ mm.
 
@@ -32,7 +32,7 @@ In a vernier callipers, $50$ vernier scale divisions are equal to $48$ main scal
 
 **Solution.** $50\ \text{VSD}=48\times0.05=2.4$ mm, so $1\ \text{VSD}=0.048$ mm. Least count $=1\ \text{MSD}-1\ \text{VSD}=0.05-0.048=0.002$ mm.
 
-### P-EXP-04 · C — JEE Main 2026 · 28 Jan Shift 1 · set Q4 · MCQ
+### P-EXP-04 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q4 · MCQ
 
 When both jaws of a vernier callipers touch each other, the zero mark of the vernier scale is to the right of the zero mark of the main scale and the $4^{th}$ mark on the vernier scale coincides with a mark on the main scale. While measuring the length of a cylinder, the observer notes $15$ divisions on the main scale and the $5^{th}$ division of the vernier scale coincides with a main scale division. The measured length of the cylinder is ______ mm. (Least count of the vernier callipers $=0.1$ mm)
 
@@ -42,7 +42,7 @@ When both jaws of a vernier callipers touch each other, the zero mark of the ver
 
 **Solution.** The zero error is positive: $e=+4\times0.1=+0.4$ mm. Observed reading $=15+5\times0.1=15.5$ mm. Correct length $=15.5-0.4=15.1$ mm.
 
-### P-EXP-05 · C — JEE Main 2024 · 27 Jan Shift 1 · Q20 · MCQ
+### P-EXP-05 · B — JEE Main 2024 · 27 Jan Shift 1 · Q20 · MCQ
 
 Identify the physical quantity that cannot be measured using a spherometer.
 

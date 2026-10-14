@@ -141,7 +141,7 @@ Consider a long straight wire of circular cross-section (radius $a$) carrying a 
 
 **Solution.** Inside ($r<a$): $B=\dfrac{\mu_0Ir}{2\pi a^2}\propto r$. Outside: $B=\dfrac{\mu_0I}{2\pi r}\propto\dfrac1r$. The maximum is at the surface, $B_{max}=\dfrac{\mu_0I}{2\pi a}$. Inside, $B=\dfrac{B_{max}}2$ at $r=\dfrac a2$; outside, $\dfrac{\mu_0I}{2\pi r}=\dfrac12\cdot\dfrac{\mu_0I}{2\pi a}$ gives $r=2a$.
 
-### P-MAG-14 · A — JEE Main 2025 · Jan session · Mag set Q6 · MCQ
+### P-MAG-14 · B — JEE Main 2025 · Jan session · Mag set Q6 · MCQ
 
 An electron projected perpendicular to a uniform magnetic field $B$ moves in a circle. If Bohr's quantization is applicable, then the radius of the electronic orbit in the first excited state is:
 
@@ -151,7 +151,7 @@ An electron projected perpendicular to a uniform magnetic field $B$ moves in a c
 
 **Solution.** The magnetic force supplies the centripetal force: $evB=\dfrac{mv^2}r\Rightarrow mv=eBr$. Bohr's quantization $mvr=\dfrac{nh}{2\pi}$ then gives $eBr^2=\dfrac{nh}{2\pi}$, i.e. $r=\sqrt{\dfrac{nh}{2\pi eB}}$. The first excited state is $n=2$: $r=\sqrt{\dfrac h{\pi eB}}$.
 
-### P-MAG-15 · A — JEE Main 2025 · Jan session · Mag set Q7 · Numerical
+### P-MAG-15 · B — JEE Main 2025 · Jan session · Mag set Q7 · Numerical
 
 A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of $2\times10^5\ \text{m s}^{-1}$. When the electric field is switched off, the proton moves along a circular path of radius 2 cm. The magnitude of the electric field is $x\times10^4$ N/C. The value of $x$ is ______. (Take the mass of the proton $=1.6\times10^{-27}$ kg.)
 
@@ -159,17 +159,7 @@ A proton is moving undeflected in a region of crossed electric and magnetic fiel
 
 **Solution.** Undeflected motion needs $qE=qvB$, i.e. $E=vB$. With only $B$ present, $r=\dfrac{mv}{qB}\Rightarrow B=\dfrac{mv}{qr}=\dfrac{1.6\times10^{-27}\times2\times10^5}{1.6\times10^{-19}\times0.02}=0.1$ T. Hence $E=vB=2\times10^5\times0.1=2\times10^4$ N/C and $x=2$.
 
-### P-MAG-16 · A — JEE Main 2025 · Jan session · Mag set Q9 · Numerical
-
-Two long parallel wires $X$ and $Y$, separated by a distance of 6 cm, carry currents of 5 A and 4 A respectively, in opposite directions as shown in the figure. The magnitude of the resultant magnetic field at point $P$ at a distance of 4 cm from wire $Y$ is $x\times10^{-5}$ T. The value of $x$ is ______. Take the permeability of free space as $\mu_0=4\pi\times10^{-7}$ SI units.
-
-![Figure](../../figures/j25_phy_magnetism/q9-1.png)
-
-**Answer: 1** · key (compiled)
-
-**Solution.** $P$ lies outside the pair, 4 cm from $Y$ and 10 cm from $X$. $B_Y=\dfrac{\mu_0\cdot4}{2\pi(0.04)}=2\times10^{-5}$ T and $B_X=\dfrac{\mu_0\cdot5}{2\pi(0.10)}=1\times10^{-5}$ T. The currents are opposite and $P$ is on the same side of both wires, so the two fields are opposite in direction: $B=2\times10^{-5}-1\times10^{-5}=1\times10^{-5}$ T, i.e. $x=1$.
-
-### P-MAG-17 · A — JEE Main 2025 · Apr session · Mag set Q1 · Numerical
+### P-MAG-16 · B — JEE Main 2025 · Apr session · Mag set Q1 · Numerical
 
 A 4.0 cm long straight wire carrying a current of 8 A is placed perpendicular to a uniform magnetic field of strength 0.15 T. The magnetic force on the wire is ______ mN.
 
@@ -177,7 +167,7 @@ A 4.0 cm long straight wire carrying a current of 8 A is placed perpendicular to
 
 **Solution.** $F=BIL\sin90^\circ=0.15\times8\times0.04=0.048$ N $=48$ mN.
 
-### P-MAG-18 · A — JEE Main 2025 · Apr session · Mag set Q2 · MCQ
+### P-MAG-17 · B — JEE Main 2025 · Apr session · Mag set Q2 · MCQ
 
 Let $B_1$ be the magnitude of the magnetic field at the centre of a circular coil of radius $R$ carrying current $I$. Let $B_2$ be the magnitude of the magnetic field at an axial distance $x$ from the centre. For $x:R=3:4$, $\dfrac{B_2}{B_1}$ is:
 
@@ -187,7 +177,7 @@ Let $B_1$ be the magnitude of the magnetic field at the centre of a circular coi
 
 **Solution.** $B_1=\dfrac{\mu_0I}{2R}$ and $B_2=\dfrac{\mu_0IR^2}{2(R^2+x^2)^{3/2}}$, so $\dfrac{B_2}{B_1}=\dfrac{R^3}{(R^2+x^2)^{3/2}}=\left(1+\dfrac9{16}\right)^{-3/2}=\left(\dfrac{16}{25}\right)^{3/2}=\dfrac{64}{125}$.
 
-### P-MAG-19 · A — JEE Main 2025 · Apr session · Mag set Q3 · Numerical
+### P-MAG-18 · B — JEE Main 2025 · Apr session · Mag set Q3 · Numerical
 
 A loop $ABCDA$, carrying current $I=12$ A, is placed in a plane and consists of two semi-circular segments of radii $R_1=6\pi$ m and $R_2=4\pi$ m. The magnitude of the resultant magnetic field at the centre $O$ is $k\times10^{-7}$ T. The value of $k$ is ______. (Given $\mu_0=4\pi\times10^{-7}\ \text{T m A}^{-1}$)
 
@@ -197,7 +187,7 @@ A loop $ABCDA$, carrying current $I=12$ A, is placed in a plane and consists of 
 
 **Solution.** The straight segments $AB$ and $CD$ lie on lines through $O$ and contribute nothing. The two semicircles carry the current in opposite senses about $O$, so $B=\dfrac{\mu_0I}{4R_2}-\dfrac{\mu_0I}{4R_1}=\dfrac{\mu_0I}4\left(\dfrac1{4\pi}-\dfrac1{6\pi}\right)=\dfrac{4\pi\times10^{-7}\times12}4\cdot\dfrac1{12\pi}=1\times10^{-7}$ T. So $k=1$.
 
-### P-MAG-20 · A — JEE Main 2025 · Apr session · Mag set Q8 · MCQ
+### P-MAG-19 · B — JEE Main 2025 · Apr session · Mag set Q8 · MCQ
 
 A magnetic dipole experiences a torque of $80\sqrt3$ N m when placed in a uniform magnetic field in such a way that the dipole moment makes an angle of $60^\circ$ with the magnetic field. The potential energy of the dipole is:
 
@@ -207,7 +197,7 @@ A magnetic dipole experiences a torque of $80\sqrt3$ N m when placed in a unifor
 
 **Solution.** $\tau=MB\sin60^\circ=80\sqrt3\Rightarrow MB=160$ J. Then $U=-MB\cos60^\circ=-80$ J.
 
-### P-MAG-21 · A — JEE Main 2025 · Apr session · Mag set Q9 · MCQ
+### P-MAG-20 · B — JEE Main 2025 · Apr session · Mag set Q9 · MCQ
 
 The figure shows a current-carrying square loop $ABCD$ of edge length $a$ lying in a plane. If the resistance of the $ABC$ part is $r$ and that of the $ADC$ part is $2r$, then the magnitude of the resultant magnetic field at the centre of the square loop is:
 
@@ -219,7 +209,7 @@ The figure shows a current-carrying square loop $ABCD$ of edge length $a$ lying 
 
 **Solution.** The current divides between the two parallel paths inversely as their resistances: $i_1=\dfrac{2I}3$ through $ABC$ (resistance $r$) and $i_2=\dfrac I3$ through $ADC$ (resistance $2r$). A side of length $a$ carrying $i$ gives at the centre $\dfrac{\mu_0i}{4\pi(a/2)}\cdot2\sin45^\circ=\dfrac{\sqrt2\mu_0i}{2\pi a}$, so each path (two sides) gives $\dfrac{\sqrt2\mu_0i}{\pi a}$, the two paths being in opposite senses about the centre. $B=\dfrac{\sqrt2\mu_0}{\pi a}(i_1-i_2)=\dfrac{\sqrt2\mu_0I}{3\pi a}$.
 
-### P-MAG-22 · A — JEE Main 2025 · Apr session · Mag set Q10 · MCQ
+### P-MAG-21 · B — JEE Main 2025 · Apr session · Mag set Q10 · MCQ
 
 Uniform magnetic fields of different strengths ($B_1$ and $B_2$), both normal to the plane of the paper, exist as shown in the figure. A charged particle of mass $m$ and charge $q$, at the interface at an instant, moves into region 2 with velocity $v$ and returns to the interface. It continues to move into region 1 and finally reaches the interface. What is the displacement of the particle during this movement along the interface? (Consider the velocity of the particle to be normal to the magnetic field and $B_2>B_1$.)
 
@@ -231,7 +221,7 @@ Uniform magnetic fields of different strengths ($B_1$ and $B_2$), both normal to
 
 **Solution.** In region 2 the particle completes a semicircle of radius $r_2=\dfrac{mv}{qB_2}$, shifting along the interface by $2r_2$. In region 1 it completes a semicircle of radius $r_1=\dfrac{mv}{qB_1}$ (larger, since $B_1<B_2$), shifting by $2r_1$ in the opposite direction. Net displacement $=2r_1-2r_2=\dfrac{2mv}{qB_1}\left(1-\dfrac{B_1}{B_2}\right)$.
 
-### P-MAG-23 · B — JEE Main 2024 · 27 Jan Shift 1 · Q13 · MCQ
+### P-MAG-22 · B — JEE Main 2024 · 27 Jan Shift 1 · Q13 · MCQ
 
 A proton moving with a constant velocity passes through a region of space without any change in its velocity. If $\vec E$ and $\vec B$ represent the electric and magnetic fields, the region may have:  
 (A) $E=0,\ B=0$  (B) $E=0,\ B\neq0$  (C) $E\neq0,\ B=0$  (D) $E\neq0,\ B\neq0$
@@ -242,7 +232,7 @@ A proton moving with a constant velocity passes through a region of space withou
 
 **Solution.** Constant velocity needs zero net force $q(\vec E+\vec v\times\vec B)=0$. (A) trivially. (B) works if $\vec v\parallel\vec B$ so $\vec v\times\vec B=0$. (C) fails: $q\vec E\neq0$ with nothing to cancel it. (D) works when $\vec E=-\vec v\times\vec B$ (velocity selector).
 
-### P-MAG-24 · B — JEE Main 2024 · 29 Jan Shift 1 · Q27 · Numerical
+### P-MAG-23 · B — JEE Main 2024 · 29 Jan Shift 1 · Q27 · Numerical
 
 The magnetic potential due to a magnetic dipole at a point on its axis, at a distance of $20$ cm from its centre, is $1.5\times10^{-5}\ \text{T m A}^{-1}$. The magnetic moment of the dipole is ______ A m$^2$. (Given $\dfrac{\mu_0}{4\pi}=10^{-7}\ \text{T m A}^{-1}$)
 
@@ -250,7 +240,7 @@ The magnetic potential due to a magnetic dipole at a point on its axis, at a dis
 
 **Solution.** On the axis, $V=\dfrac{\mu_0}{4\pi}\dfrac{M}{r^2}$. So $M=\dfrac{Vr^2}{10^{-7}}=\dfrac{1.5\times10^{-5}\times0.04}{10^{-7}}=6$ A m$^2$.
 
-### P-MAG-25 · B — JEE Main 2024 · 29 Jan Shift 2 · Q13 · MCQ
+### P-MAG-24 · B — JEE Main 2024 · 29 Jan Shift 2 · Q13 · MCQ
 
 Two particles $X$ and $Y$ having equal charges are accelerated through the same potential difference. They then enter normally a region of uniform magnetic field and describe circular paths of radii $R_1$ and $R_2$ respectively. The mass ratio of $X$ and $Y$ is
 
@@ -260,7 +250,7 @@ Two particles $X$ and $Y$ having equal charges are accelerated through the same 
 
 **Solution.** $qV=\tfrac12mv^2\Rightarrow v=\sqrt{2qV/m}$ and $r=\dfrac{mv}{qB}=\dfrac1B\sqrt{\dfrac{2mV}{q}}$. So $r^2\propto m$ and $\dfrac{m_X}{m_Y}=\left(\dfrac{R_1}{R_2}\right)^2$.
 
-### P-MAG-26 · B — JEE Main 2024 · 30 Jan Shift 1 · Q28 · Numerical
+### P-MAG-25 · C — JEE Main 2024 · 30 Jan Shift 1 · Q28 · Numerical
 
 The horizontal component of the earth's magnetic field at a place is $3.5\times10^{-5}$ T. A very long straight conductor carrying a current of $\sqrt2$ A in the direction from south-east to north-west is placed there. The force per unit length experienced by the conductor is ______ $\times10^{-6}\ \text{N m}^{-1}$.
 
@@ -268,15 +258,7 @@ The horizontal component of the earth's magnetic field at a place is $3.5\times1
 
 **Solution.** $\vec B_H$ points north. The current along north-west makes $45^\circ$ with north, so $\dfrac Fl=IB\sin45^\circ=\sqrt2\times3.5\times10^{-5}\times\dfrac1{\sqrt2}=3.5\times10^{-5}=35\times10^{-6}\ \text{N m}^{-1}$.
 
-### P-MAG-27 · B — JEE Main 2024 · 30 Jan Shift 2 · Q28 · Numerical
-
-A current of $5$ A flows in a square loop of side $1$ m placed in air. The magnetic field at the centre of the loop is $X\sqrt2\times10^{-7}$ T. The value of $X$ is ______.
-
-**Answer: 40** · key ✔
-
-**Solution.** Each side gives $B_1=\dfrac{\mu_0I}{4\pi d}(\sin45^\circ+\sin45^\circ)$ with $d=0.5$ m: $B_1=10^{-7}\times\dfrac5{0.5}\times\sqrt2=10\sqrt2\times10^{-7}$ T. Four sides: $B=40\sqrt2\times10^{-7}$ T, so $X=40$.
-
-### P-MAG-28 · B — JEE Main 2024 · 31 Jan Shift 2 · Q13 · MCQ
+### P-MAG-26 · C — JEE Main 2024 · 31 Jan Shift 2 · Q13 · MCQ
 
 A uniform magnetic field of $2\times10^{-3}$ T acts along the positive $Y$-direction. A rectangular loop of sides $20$ cm and $10$ cm carrying a current of $5$ A lies in the $Y$–$Z$ plane. The current is anticlockwise as seen looking from the negative $X$-axis. The magnitude and direction of the torque is
 
@@ -286,7 +268,7 @@ A uniform magnetic field of $2\times10^{-3}$ T acts along the positive $Y$-direc
 
 **Solution.** $|\vec m|=IA=5\times(0.2\times0.1)=0.1$ A m$^2$. Anticlockwise as seen from the negative $X$ side means the normal (right-hand rule) points towards that observer, i.e. along $-\hat x$: $\vec m=-0.1\,\hat x$. $\vec\tau=\vec m\times\vec B=-0.1\,\hat x\times(2\times10^{-3}\hat y)=-2\times10^{-4}\,\hat z$ N m.
 
-### P-MAG-29 · B — JEE Main 2024 · 5 Apr Shift 1 · Q14 · MCQ
+### P-MAG-27 · C — JEE Main 2024 · 5 Apr Shift 1 · Q14 · MCQ
 
 In a co-axial straight cable the central conductor and the outer conductor carry equal currents in opposite directions. The magnetic field is zero:
 
@@ -296,7 +278,7 @@ In a co-axial straight cable the central conductor and the outer conductor carry
 
 **Solution.** By Ampère's law, a loop outside the cable encloses net current $I-I=0$, so $B=0$ there. Between the conductors the enclosed current is $I$ ($B=\mu_0I/2\pi r$), and inside each conductor a fraction of the current is enclosed.
 
-### P-MAG-30 · B — JEE Main 2024 · 6 Apr Shift 1 · Q13 · MCQ
+### P-MAG-28 · C — JEE Main 2024 · 6 Apr Shift 1 · Q13 · MCQ
 
 A current element $\Delta\vec l=\Delta x\,\hat i$ is placed at the origin and carries a large current $I=10$ A. The magnetic field on the $y$-axis at a distance of $0.5$ m from the element, for $\Delta x=1$ cm, is:
 
@@ -306,7 +288,7 @@ A current element $\Delta\vec l=\Delta x\,\hat i$ is placed at the origin and ca
 
 **Solution.** Biot–Savart: $dB=\dfrac{\mu_0}{4\pi}\dfrac{I\,\Delta x\sin\theta}{r^2}$ with $\theta=90^\circ$: $10^{-7}\times\dfrac{10\times0.01}{0.25}=4\times10^{-8}$ T.
 
-### P-MAG-31 · B — JEE Main 2024 · 8 Apr Shift 1 · Q13 · MCQ
+### P-MAG-29 · C — JEE Main 2024 · 8 Apr Shift 1 · Q13 · MCQ
 
 Paramagnetic substances: A. align themselves along the direction of the external magnetic field. B. are attracted strongly towards the external magnetic field. C. have susceptibility a little more than zero. D. move from a region of strong magnetic field to weak magnetic field.
 
@@ -316,7 +298,7 @@ Paramagnetic substances: A. align themselves along the direction of the external
 
 **Solution.** Paramagnets have $0<\chi\ll1$ (C) and their dipoles align with $\vec B$ (A). The attraction is weak, not strong (B false), and they move from weak to strong field (D false).
 
-### P-MAG-32 · B — JEE Main 2024 · 8 Apr Shift 2 · Q13 · MCQ
+### P-MAG-30 · C — JEE Main 2024 · 8 Apr Shift 2 · Q13 · MCQ
 
 A long straight wire of radius $a$ carries a steady current $I$ uniformly distributed across its cross-section. The ratio of the magnetic field at $\tfrac a2$ and $2a$ from the axis of the wire is:
 
@@ -325,4 +307,26 @@ A long straight wire of radius $a$ carries a steady current $I$ uniformly distri
 **Answer: (2)** · key ✔
 
 **Solution.** Inside: $B=\dfrac{\mu_0Ir}{2\pi a^2}$, at $r=a/2$: $\dfrac{\mu_0I}{4\pi a}$. Outside: $B=\dfrac{\mu_0I}{2\pi r}$, at $r=2a$: $\dfrac{\mu_0I}{4\pi a}$. Ratio $1:1$.
+
+### P-MAG-31 · C — JEE Main 2024 · 04 Apr Shift 2 · Fig set Q3 · Numerical
+
+Two parallel long current-carrying wires separated by a distance $2r$ are shown in the figure (currents $I$ and $2I$ in the same direction; $A$ is a distance $r$ to the left of the first wire, $C$ a distance $r$ to the right of the second wire). The ratio of the magnetic field at $A$ to the magnetic field produced at $C$ is $\dfrac x7$. The value of $x$ is ______.
+
+![Figure](../../figures/j24f_phy_mag_a/q3-1.png)
+
+**Answer: 5** · key (compiled)
+
+**Solution.** At $A$ both wires produce fields in the same direction: $B_A=\dfrac{\mu_0I}{2\pi r}+\dfrac{\mu_0(2I)}{2\pi(3r)}=\dfrac{\mu_0I}{2\pi r}\cdot\dfrac53$. At $C$: $B_C=\dfrac{\mu_0(2I)}{2\pi r}+\dfrac{\mu_0I}{2\pi(3r)}=\dfrac{\mu_0I}{2\pi r}\cdot\dfrac73$. $\dfrac{B_A}{B_C}=\dfrac57$, so $x=5$.
+
+### P-MAG-32 · C — JEE Main 2024 · 06 Apr Shift 1 · Fig set Q8 · MCQ
+
+An element $\Delta\vec l=\Delta x\,\hat i$ is placed at the origin and carries a large current $I=10$ A. The magnetic field on the $y$-axis at a distance of 0.5 m from the element $\Delta x$ of 1 cm length is:
+
+![Figure](../../figures/j24f_phy_mag_a/q8-1.png)
+
+(1) $4\times10^{-8}$ T  (2) $10\times10^{-8}$ T  (3) $8\times10^{-8}$ T  (4) $12\times10^{-8}$ T
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** Biot–Savart law for the perpendicular direction: $dB=\dfrac{\mu_0}{4\pi}\dfrac{I\,\Delta x}{r^2}=10^{-7}\times\dfrac{10\times0.01}{0.25}=4\times10^{-8}$ T.
 

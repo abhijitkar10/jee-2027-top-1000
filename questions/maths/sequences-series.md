@@ -80,7 +80,15 @@ If the first term of an A.P. is 3 and the sum of its first four terms is equal t
 
 **Solution.** $S_4=\tfrac15(S_8-S_4)\Rightarrow S_8=6S_4$. $S_8=24+28d$ and $S_4=12+6d$, so $24+28d=72+36d\Rightarrow d=-6$. $S_{20}=10(2\cdot3+19d)=10(6-114)=-1080$.
 
-### M-SEQ-09 · A — JEE Main 2025 · Jan session · set Q2 · Numerical
+### M-SEQ-09 · B — JEE Advanced 2025 · Paper 1 · Q12 · Numerical
+
+$f:\mathbb R\to\mathbb R$ satisfies $f(x)>0$ and $f(x+y)=f(x)f(y)$. Real numbers $a_1,\dots,a_{50}$ are in AP with $f(a_{31})=64f(a_{25})$ and $\sum_{i=1}^{50}f(a_i)=3(2^{25}+1)$. Then $\sum_{i=6}^{30}f(a_i)=$ ______.
+
+**Answer: 96** · official key ✔ (re-derived)
+
+**Solution.** Since $a_i$ form an AP, $f(a_{i+1})=f(a_i)f(d)$: the values $f(a_i)$ form a GP with ratio $r=f(d)>0$. $f(a_{31})=64f(a_{25})\Rightarrow r^6=64\Rightarrow r=2$. With first term $c$: $c(2^{50}-1)=3(2^{25}+1)\Rightarrow c=\dfrac{3}{2^{25}-1}$. $\sum_{i=6}^{30}=c\,2^5\dfrac{2^{25}-1}{2-1}=32\times3=96$.
+
+### M-SEQ-10 · B — JEE Main 2025 · Jan session · set Q2 · Numerical
 
 The roots of the quadratic equation $3x^2-px+q=0$ are the 10th and 11th terms of an arithmetic progression with common difference $\tfrac32$. If the sum of the first 11 terms of this arithmetic progression is 88, then $q-2p$ is equal to ______.
 
@@ -88,7 +96,7 @@ The roots of the quadratic equation $3x^2-px+q=0$ are the 10th and 11th terms of
 
 **Solution.** $S_{11}=11a_6=88\Rightarrow a_6=8$, so $a_{10}=8+4\cdot\tfrac32=14$ and $a_{11}=15.5$. Sum of roots $=\tfrac p3=29.5\Rightarrow p=88.5$; product $=\tfrac q3=14\cdot15.5=217\Rightarrow q=651$. $q-2p=651-177=474$.
 
-### M-SEQ-10 · A — JEE Main 2025 · Jan session · set Q3 · MCQ
+### M-SEQ-11 · B — JEE Main 2025 · Jan session · set Q3 · MCQ
 
 In an arithmetic progression, if $S_{40}=1030$ and $S_{12}=57$, then $S_{30}-S_{10}$ is equal to:
 
@@ -98,7 +106,7 @@ In an arithmetic progression, if $S_{40}=1030$ and $S_{12}=57$, then $S_{30}-S_{
 
 **Solution.** $20(2a+39d)=1030$ gives $2a+39d=51.5$; $6(2a+11d)=57$ gives $2a+11d=9.5$. Subtracting, $d=1.5$ and $a=-3.5$. $S_{30}-S_{10}=15(2a+29d)-5(2a+9d)=20a+390d=-70+585=515$.
 
-### M-SEQ-11 · A — JEE Main 2025 · Apr session · set Q3 · MCQ
+### M-SEQ-12 · B — JEE Main 2025 · Apr session · set Q3 · MCQ
 
 Let $a_1,a_2,a_3,\dots$ be a G.P. of increasing positive numbers. If $a_3a_5=729$ and $a_2+a_4=\dfrac{111}4$, then $24(a_1+a_2+a_3)$ is equal to:
 
@@ -108,7 +116,7 @@ Let $a_1,a_2,a_3,\dots$ be a G.P. of increasing positive numbers. If $a_3a_5=729
 
 **Solution.** $a_3a_5=a_4^2=729\Rightarrow a_4=27$ (positive), so $a_2=\dfrac{111}4-27=\dfrac34$ and $r^2=\dfrac{27}{3/4}=36$, $r=6$. $a_1=\dfrac18$, $a_3=\dfrac92$. $a_1+a_2+a_3=\dfrac18+\dfrac34+\dfrac92=\dfrac{43}8$ and $24\cdot\dfrac{43}8=129$.
 
-### M-SEQ-12 · A — JEE Main 2025 · Apr session · set Q4 · MCQ
+### M-SEQ-13 · B — JEE Main 2025 · Apr session · set Q4 · MCQ
 
 The sum $1+\dfrac{1+3}{2!}+\dfrac{1+3+5}{3!}+\dfrac{1+3+5+7}{4!}+\cdots$ up to $\infty$ terms is equal to:
 
@@ -118,7 +126,7 @@ The sum $1+\dfrac{1+3}{2!}+\dfrac{1+3+5}{3!}+\dfrac{1+3+5+7}{4!}+\cdots$ up to $
 
 **Solution.** The $n$th term is $\dfrac{n^2}{n!}=\dfrac n{(n-1)!}=\dfrac{(n-1)+1}{(n-1)!}$. The sum is $\sum_{n\ge2}\dfrac1{(n-2)!}+\sum_{n\ge1}\dfrac1{(n-1)!}=e+e=2e$.
 
-### M-SEQ-13 · A — JEE Main 2025 · Apr session · set Q8 · MCQ
+### M-SEQ-14 · B — JEE Main 2025 · Apr session · set Q8 · MCQ
 
 If the sum of the second, fourth and sixth terms of a G.P. of positive terms is 21 and the sum of its eighth, tenth and twelfth terms is 15309, then the sum of its first nine terms is:
 
@@ -127,14 +135,6 @@ If the sum of the second, fourth and sixth terms of a G.P. of positive terms is 
 **Answer: (4)** · key (compiled)
 
 **Solution.** Multiplying the group $a_2+a_4+a_6$ by $r^6$ gives $a_8+a_{10}+a_{12}$, so $r^6=\dfrac{15309}{21}=729$ and $r=3$. $a_2(1+9+81)=21\Rightarrow a_2=\dfrac3{13}$ and $a_1=\dfrac1{13}$. $S_9=\dfrac1{13}\cdot\dfrac{3^9-1}2=\dfrac{19682}{26}=757$.
-
-### M-SEQ-14 · B — JEE Advanced 2025 · Paper 1 · Q12 · Numerical
-
-$f:\mathbb R\to\mathbb R$ satisfies $f(x)>0$ and $f(x+y)=f(x)f(y)$. Real numbers $a_1,\dots,a_{50}$ are in AP with $f(a_{31})=64f(a_{25})$ and $\sum_{i=1}^{50}f(a_i)=3(2^{25}+1)$. Then $\sum_{i=6}^{30}f(a_i)=$ ______.
-
-**Answer: 96** · official key ✔ (re-derived)
-
-**Solution.** Since $a_i$ form an AP, $f(a_{i+1})=f(a_i)f(d)$: the values $f(a_i)$ form a GP with ratio $r=f(d)>0$. $f(a_{31})=64f(a_{25})\Rightarrow r^6=64\Rightarrow r=2$. With first term $c$: $c(2^{50}-1)=3(2^{25}+1)\Rightarrow c=\dfrac{3}{2^{25}-1}$. $\sum_{i=6}^{30}=c\,2^5\dfrac{2^{25}-1}{2-1}=32\times3=96$.
 
 ### M-SEQ-15 · B — JEE Main 2024 · 27 Jan Shift 1 · Q62 · MCQ
 
@@ -146,7 +146,7 @@ The number of common terms in the progressions $4,9,14,19,\dots$ up to the 25th 
 
 **Solution.** The first AP ends at $4+24\cdot5=124$ and the second at $3\cdot37=111$, so common terms are $\le111$. A common term is $\equiv4\pmod5$ and $\equiv0\pmod3$, i.e. $\equiv9\pmod{15}$: $9,24,39,54,69,84,99$ (next $114>111$). That is $7$ terms.
 
-### M-SEQ-16 · B — JEE Main 2024 · 27 Jan Shift 2 · Q63 · MCQ
+### M-SEQ-16 · C — JEE Main 2024 · 27 Jan Shift 2 · Q63 · MCQ
 
 The 20th term from the end of the progression $20,\ 19\tfrac14,\ 18\tfrac12,\ 17\tfrac34,\ \dots,\ -129\tfrac14$ is
 
@@ -156,7 +156,7 @@ The 20th term from the end of the progression $20,\ 19\tfrac14,\ 18\tfrac12,\ 17
 
 **Solution.** $a=20,\ d=-\tfrac34$. Number of terms: $n=1+\dfrac{20+129.25}{0.75}=200$. The 20th from the end is term $200-20+1=181$: $a_{181}=20-\tfrac34(180)=20-135=-115$.
 
-### M-SEQ-17 · B — JEE Main 2024 · 29 Jan Shift 2 · Q63 · MCQ
+### M-SEQ-17 · C — JEE Main 2024 · 29 Jan Shift 2 · Q63 · MCQ
 
 If $\ln a,\ \ln b,\ \ln c$ are in A.P. and $\ln a-\ln2b,\ \ln2b-\ln3c,\ \ln3c-\ln a$ are also in A.P., then $a:b:c$ is equal to
 
@@ -166,7 +166,7 @@ If $\ln a,\ \ln b,\ \ln c$ are in A.P. and $\ln a-\ln2b,\ \ln2b-\ln3c,\ \ln3c-\l
 
 **Solution.** First A.P. gives $b^2=ac$. Second: $2(\ln2b-\ln3c)=(\ln a-\ln2b)+(\ln3c-\ln a)=\ln3c-\ln2b\Rightarrow3\ln\dfrac{2b}{3c}=0\Rightarrow2b=3c$. Take $b=3k$: $c=2k$, $a=\dfrac{b^2}c=\dfrac{9k}2$. So $a:b:c=\dfrac92:3:2=9:6:4$.
 
-### M-SEQ-18 · B — JEE Main 2024 · 30 Jan Shift 1 · Q62 · MCQ
+### M-SEQ-18 · C — JEE Main 2024 · 30 Jan Shift 1 · Q62 · MCQ
 
 Let $S_n$ denote the sum of the first $n$ terms of an arithmetic progression. If $S_{20}=790$ and $S_{10}=145$, then $S_{15}-S_5$ is
 
@@ -176,7 +176,7 @@ Let $S_n$ denote the sum of the first $n$ terms of an arithmetic progression. If
 
 **Solution.** $S_n=\tfrac n2\left(2a+(n-1)d\right)$: $S_{20}=790\Rightarrow2a+19d=79$; $S_{10}=145\Rightarrow2a+9d=29$. Subtract: $10d=50\Rightarrow d=5$, $a=-8$. $S_{15}-S_5$ is the sum of terms $6$ to $15$: $\tfrac{10}{2}(a_6+a_{15})=5(17+62)=395$.
 
-### M-SEQ-19 · B — JEE Main 2024 · 30 Jan Shift 2 · Q62 · MCQ
+### M-SEQ-19 · C — JEE Main 2024 · 30 Jan Shift 2 · Q62 · MCQ
 
 Let $a$ and $b$ be two distinct positive real numbers. The $11^{th}$ term of a GP whose first term is $a$ and third term is $b$ equals the $p^{th}$ term of another GP whose first term is $a$ and fifth term is $b$. Then $p$ is equal to
 

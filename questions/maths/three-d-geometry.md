@@ -90,7 +90,7 @@ Let the lines $L_1:\vec r=\hat i+2\hat j+3\hat k+\lambda(2\hat i+3\hat j+4\hat k
 
 **Solution.** Equate the lines: $1+2\lambda=4+5\mu$, $2+3\lambda=1+2\mu$, $3+4\lambda=\mu$ give $\lambda=\mu=-1$, so $R=(-1,-1,-1)$. $P=(1+2\lambda,2+3\lambda,3+4\lambda)$ has $\overrightarrow{PR}=(\lambda+1)(2,3,4)$ and $|PR|^2=29(\lambda+1)^2=29\Rightarrow\lambda=0$ (first octant) or $-2$ (not): $P=(1,2,3)$, $\overrightarrow{RP}=(2,3,4)$. Let $Q=R+s(5,2,1)$. $|PQ|^2=|(2,3,4)-s(5,2,1)|^2=29-40s+30s^2=\tfrac{47}3\Rightarrow9s^2-12s+4=0\Rightarrow s=\tfrac23$. $QR^2=30s^2=\tfrac{40}3$ and $27\,QR^2=360$.
 
-### M-TDG-10 · A — JEE Advanced 2025 · Paper 1 · Q5 · Multiple correct
+### M-TDG-10 · B — JEE Advanced 2025 · Paper 1 · Q5 · Multiple correct
 
 $L_1$ is the line of intersection of the planes $2x+3y+z=4$ and $x+2y+z=5$. $L_2$ passes through $P(2,-1,3)$ and is parallel to $L_1$. $M$ is the plane $2x+y-2z=6$; $L_2$ meets $M$ at $Q$ and $R$ is the foot of the perpendicular from $P$ to $M$. Which are TRUE?
 
@@ -100,7 +100,7 @@ $L_1$ is the line of intersection of the planes $2x+3y+z=4$ and $x+2y+z=5$. $L_2
 
 **Solution.** Direction of $L_1$: $(2,3,1)\times(1,2,1)=(1,-1,1)$. Points of $L_2$: $(2+t,-1-t,3+t)$. On $M$: $2(2+t)+(-1-t)-2(3+t)=6\Rightarrow-3-t=6\Rightarrow t=-9$, so $Q=(-7,8,-6)$ and $PQ=9\sqrt3$ (A true). The unit normal is $\tfrac13(2,1,-2)$; $P$ is at signed distance $\tfrac{6-(-3)}3=3$ from $M$, so $R=P+(2,1,-2)=(4,0,1)$, $PR=3$. $QR=\sqrt{11^2+8^2+7^2}=\sqrt{234}\ne15$ (B false). $PR\perp M$ so $\triangle PQR$ is right-angled at $R$: area $=\tfrac12\cdot3\cdot\sqrt{234}=\tfrac32\sqrt{234}$ (C true). $\cos\angle P=\dfrac{PR}{PQ}=\dfrac{3}{9\sqrt3}=\dfrac1{3\sqrt3}\ne\dfrac1{2\sqrt3}$ (D false).
 
-### M-TDG-11 · A — JEE Main 2025 · Jan session · set Q2 · MCQ
+### M-TDG-11 · B — JEE Main 2025 · Jan session · set Q2 · MCQ
 
 The distance of the line $\dfrac{x-2}2=\dfrac{y-6}3=\dfrac{z-3}4$ from the point $(1,4,0)$ along the line $\dfrac x1=\dfrac{y-2}2=\dfrac{z+3}3$ is:
 
@@ -110,7 +110,7 @@ The distance of the line $\dfrac{x-2}2=\dfrac{y-6}3=\dfrac{z-3}4$ from the point
 
 **Solution.** Move from $(1,4,0)$ along the direction $(1,2,3)$: $(1+t,\,4+2t,\,3t)$. This lies on the first line when $\dfrac{t-1}2=\dfrac{2t-2}3=\dfrac{3t-3}4$, which holds only for $t=1$ (all three equal 0). The point is $(2,6,3)$ and the distance is $t\,|(1,2,3)|=\sqrt{14}$.
 
-### M-TDG-12 · A — JEE Main 2025 · Jan session · set Q3 · MCQ
+### M-TDG-12 · B — JEE Main 2025 · Jan session · set Q3 · MCQ
 
 If the square of the shortest distance between the lines $\dfrac{x-2}1=\dfrac{y-1}2=\dfrac{z+3}{-3}$ and $\dfrac{x+1}2=\dfrac{y+3}4=\dfrac{z+5}{-5}$ is $\dfrac mn$, where $m,n$ are coprime, then $m+n$ is equal to:
 
@@ -120,7 +120,7 @@ If the square of the shortest distance between the lines $\dfrac{x-2}1=\dfrac{y-
 
 **Solution.** $\vec d_1\times\vec d_2=(1,2,-3)\times(2,4,-5)=(2,-1,0)$. The vector between the points $(2,1,-3)$ and $(-1,-3,-5)$ is $(-3,-4,-2)$, whose dot product with the cross product is $-6+4=-2$. $d^2=\dfrac{4}{|(2,-1,0)|^2}=\dfrac45$, so $m+n=9$.
 
-### M-TDG-13 · A — JEE Main 2025 · Jan session · set Q4 · MCQ
+### M-TDG-13 · B — JEE Main 2025 · Jan session · set Q4 · MCQ
 
 If the image of the point $(4,4,3)$ in the line $\dfrac{x-1}2=\dfrac{y-2}1=\dfrac{z-1}3$ is $(\alpha,\beta,\gamma)$, then $\alpha+\beta+\gamma$ is equal to:
 
@@ -130,7 +130,7 @@ If the image of the point $(4,4,3)$ in the line $\dfrac{x-1}2=\dfrac{y-2}1=\dfra
 
 **Solution.** A point of the line is $(1+2k,2+k,1+3k)$. Perpendicularity of the join to $(4,4,3)$ with the direction $(2,1,3)$: $2(2k-3)+(k-2)+3(3k-2)=0\Rightarrow14k=14$, $k=1$, so the foot is $(3,3,4)$. The image is $2(3,3,4)-(4,4,3)=(2,2,5)$, so $\alpha+\beta+\gamma=9$.
 
-### M-TDG-14 · A — JEE Main 2025 · Apr session · set Q2 · MCQ
+### M-TDG-14 · B — JEE Main 2025 · Apr session · set Q2 · MCQ
 
 The line $L_1$ is parallel to the vector $\vec a=-3\hat i+2\hat j+4\hat k$ and passes through the point $(7,6,2)$, and the line $L_2$ is parallel to the vector $\vec b=2\hat i+\hat j+3\hat k$ and passes through the point $(5,3,4)$. The shortest distance between the lines $L_1$ and $L_2$ is:
 
@@ -140,7 +140,7 @@ The line $L_1$ is parallel to the vector $\vec a=-3\hat i+2\hat j+4\hat k$ and p
 
 **Solution.** $\vec a\times\vec b=(2\cdot3-4\cdot1,\ 4\cdot2-(-3)\cdot3,\ -3\cdot1-2\cdot2)=(2,17,-7)$, of magnitude $\sqrt{342}=3\sqrt{38}$. The vector between the given points is $(-2,-3,2)$ and its dot product with the cross product is $-4-51-14=-69$. Distance $=\dfrac{69}{3\sqrt{38}}=\dfrac{23}{\sqrt{38}}$.
 
-### M-TDG-15 · A — JEE Main 2025 · Apr session · set Q3 · MCQ
+### M-TDG-15 · B — JEE Main 2025 · Apr session · set Q3 · MCQ
 
 Let the shortest distance between the lines $\dfrac{x-3}3=\dfrac{y-\alpha}{-1}=\dfrac{z-3}1$ and $\dfrac{x+3}{-3}=\dfrac{y+7}2=\dfrac{z-\beta}4$ be $3\sqrt{30}$. Then the positive value of $5\alpha+\beta$ is:
 
@@ -150,7 +150,7 @@ Let the shortest distance between the lines $\dfrac{x-3}3=\dfrac{y-\alpha}{-1}=\
 
 **Solution.** $\vec d_1\times\vec d_2=(3,-1,1)\times(-3,2,4)=(-6,-15,3)$, of magnitude $3\sqrt{30}$. The vector between the points $(3,\alpha,3)$ and $(-3,-7,\beta)$ is $(-6,-7-\alpha,\beta-3)$, and its dot product with the cross product is $36+15(7+\alpha)+3\beta-9=132+15\alpha+3\beta$. Setting the distance $=3\sqrt{30}$: $|132+15\alpha+3\beta|=270$, so $15\alpha+3\beta=138$ or $-402$, i.e. $5\alpha+\beta=46$ or $-134$. The positive value is 46.
 
-### M-TDG-16 · A — JEE Main 2025 · Apr session · set Q6 · MCQ
+### M-TDG-16 · B — JEE Main 2025 · Apr session · set Q6 · MCQ
 
 If the image of the point $P(1,0,3)$ in the line joining the points $A(4,7,1)$ and $B(3,5,3)$ is $Q(\alpha,\beta,\gamma)$, then $\alpha+\beta+\gamma$ is equal to:
 
@@ -160,17 +160,7 @@ If the image of the point $P(1,0,3)$ in the line joining the points $A(4,7,1)$ a
 
 **Solution.** Direction $\vec{AB}=(-1,-2,2)$; a point of the line is $(4-k,7-2k,1+2k)$. Perpendicularity: $(3-k,7-2k,-2+2k)\cdot(-1,-2,2)=9k-21=0\Rightarrow k=\tfrac73$, so the foot is $\left(\tfrac53,\tfrac73,\tfrac{17}3\right)$. The image is $2\cdot\text{foot}-P=\left(\tfrac73,\tfrac{14}3,\tfrac{25}3\right)$ with sum $\tfrac{46}3$.
 
-### M-TDG-17 · A — JEE Main 2024 · 29 Jan Shift 1 · Q79 · MCQ
-
-Let $PQR$ be a triangle with $R(-1,4,2)$. Suppose $M(2,1,2)$ is the midpoint of $PQ$. The distance of the centroid of $\triangle PQR$ from the point of intersection of the lines $\dfrac{x-2}0=\dfrac y2=\dfrac{z+3}{-1}$ and $\dfrac{x-1}1=\dfrac{y+3}{-3}=\dfrac{z+1}1$ is
-
-(1) 69  (2) 9  (3) $\sqrt{69}$  (4) $\sqrt{99}$
-
-**Answer: (3)** · key ✔
-
-**Solution.** Lines: $(2,2s,-3-s)$ and $(1+t,-3-3t,-1+t)$. From $x$: $t=1$; from $y$: $2s=-6\Rightarrow s=-3$; check $z$: $-3+3=0=-1+1$ ✓. Intersection $(2,-6,0)$. The centroid divides median $RM$ in $2:1$ from $R$: $G=R+\tfrac23(M-R)=(1,2,2)$. Distance $=\sqrt{1+64+4}=\sqrt{69}$.
-
-### M-TDG-18 · B — JEE Main 2024 · 27 Jan Shift 1 · Q80 · MCQ
+### M-TDG-17 · C — JEE Main 2024 · 27 Jan Shift 1 · Q80 · MCQ
 
 If the shortest distance between the lines $\dfrac{x-4}1=\dfrac{y+1}2=\dfrac z{-3}$ and $\dfrac{x-\lambda}2=\dfrac{y+1}4=\dfrac{z-2}{-5}$ is $\dfrac6{\sqrt5}$, then the sum of all possible values of $\lambda$ is
 
@@ -180,7 +170,7 @@ If the shortest distance between the lines $\dfrac{x-4}1=\dfrac{y+1}2=\dfrac z{-
 
 **Solution.** $\vec d_1\times\vec d_2=(1,2,-3)\times(2,4,-5)=(2,-1,0)$ with magnitude $\sqrt5$. The join of the given points is $(\lambda-4,0,2)$, and $\left|(\lambda-4,0,2)\cdot(2,-1,0)\right|=2|\lambda-4|$. So $\dfrac{2|\lambda-4|}{\sqrt5}=\dfrac6{\sqrt5}\Rightarrow\lambda=1$ or $7$; the sum is $8$.
 
-### M-TDG-19 · B — JEE Main 2024 · 27 Jan Shift 2 · Q90 · Numerical
+### M-TDG-18 · C — JEE Main 2024 · 27 Jan Shift 2 · Q90 · Numerical
 
 The lines $\dfrac{x-2}2=\dfrac y{-2}=\dfrac{z-7}{16}$ and $\dfrac{x+3}4=\dfrac{y+2}3=\dfrac{z+2}1$ intersect at the point $P$. If the distance of $P$ from the line $\dfrac{x+1}2=\dfrac{y-1}3=\dfrac{z-1}1$ is $l$, then $14l^2$ is equal to ______.
 
@@ -188,7 +178,17 @@ The lines $\dfrac{x-2}2=\dfrac y{-2}=\dfrac{z-7}{16}$ and $\dfrac{x+3}4=\dfrac{y
 
 **Solution.** Points: $(2+2s,-2s,7+16s)=(-3+4t,-2+3t,-2+t)$. From $y$: $s=1-\tfrac32t$; from $x$: $4-3t=-3+4t\Rightarrow t=1,\ s=-\tfrac12$. Check $z$: $7-8=-1=-2+1$ ✓. So $P=(1,1,-1)$. Take $Q(-1,1,1)$ on the third line with direction $\vec d=(2,3,1)$, $\vec{QP}=(2,0,-2)$. $\vec{QP}\times\vec d=(6,-6,6)$, so $l^2=\dfrac{108}{14}$ and $14l^2=108$.
 
-### M-TDG-20 · B — JEE Main 2024 · 29 Jan Shift 2 · Q90 · Numerical
+### M-TDG-19 · C — JEE Main 2024 · 29 Jan Shift 1 · Q79 · MCQ
+
+Let $PQR$ be a triangle with $R(-1,4,2)$. Suppose $M(2,1,2)$ is the midpoint of $PQ$. The distance of the centroid of $\triangle PQR$ from the point of intersection of the lines $\dfrac{x-2}0=\dfrac y2=\dfrac{z+3}{-1}$ and $\dfrac{x-1}1=\dfrac{y+3}{-3}=\dfrac{z+1}1$ is
+
+(1) 69  (2) 9  (3) $\sqrt{69}$  (4) $\sqrt{99}$
+
+**Answer: (3)** · key ✔
+
+**Solution.** Lines: $(2,2s,-3-s)$ and $(1+t,-3-3t,-1+t)$. From $x$: $t=1$; from $y$: $2s=-6\Rightarrow s=-3$; check $z$: $-3+3=0=-1+1$ ✓. Intersection $(2,-6,0)$. The centroid divides median $RM$ in $2:1$ from $R$: $G=R+\tfrac23(M-R)=(1,2,2)$. Distance $=\sqrt{1+64+4}=\sqrt{69}$.
+
+### M-TDG-20 · C — JEE Main 2024 · 29 Jan Shift 2 · Q90 · Numerical
 
 Let $O$ be the origin, and $M$ and $N$ points on the lines $\dfrac{x-5}4=\dfrac{y-4}1=\dfrac{z-5}3$ and $\dfrac{x+8}{12}=\dfrac{y+2}5=\dfrac{z+11}9$ respectively, such that $MN$ is the shortest distance between the given lines. Then $\overrightarrow{OM}\cdot\overrightarrow{ON}$ is equal to ______.
 
@@ -196,7 +196,7 @@ Let $O$ be the origin, and $M$ and $N$ points on the lines $\dfrac{x-5}4=\dfrac{
 
 **Solution.** $\vec d_1\times\vec d_2=(4,1,3)\times(12,5,9)=(-6,0,8)$, so $\overrightarrow{MN}\parallel(-3,0,4)$. With $M=(5+4s,4+s,5+3s)$ and $N=(-8+12t,-2+5t,-11+9t)$, the $y$-component of $\overrightarrow{MN}$ is zero: $5t-s=6\Rightarrow s=5t-6$. Then $\overrightarrow{MN}=(11-8t,\,0,\,2-6t)\parallel(-3,0,4)\Rightarrow4(11-8t)=-3(2-6t)\Rightarrow t=1,\ s=-1$. So $M=(1,3,2)$, $N=(4,3,-2)$ and $\overrightarrow{OM}\cdot\overrightarrow{ON}=4+9-4=9$.
 
-### M-TDG-21 · B — JEE Main 2024 · 31 Jan Shift 2 · Q78 · MCQ
+### M-TDG-21 · C — JEE Main 2024 · 31 Jan Shift 2 · Q78 · MCQ
 
 Let $(\alpha,\beta,\gamma)$ be the mirror image of the point $(2,3,5)$ in the line $\dfrac{x-1}2=\dfrac{y-2}3=\dfrac{z-3}4$. Then $2\alpha+3\beta+4\gamma$ is equal to
 

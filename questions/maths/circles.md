@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/maths/circles.md](../../theory/maths/circles.md)
 
-### M-CIR-01 · C — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+### M-CIR-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
 
 If P is a point on the circle $x^2+y^2=4$, Q is a point on the straight line $5x+y+2=0$ and $x-y+1=0$ is the perpendicular bisector of PQ, then 13 times the sum of the abscissae of all such points P is ______.
 
@@ -10,7 +10,7 @@ If P is a point on the circle $x^2+y^2=4$, Q is a point on the straight line $5x
 
 **Solution.** $Q$ is the reflection of $P(p,q)$ in the line $y=x+1$, which maps $(p,q)\to(q-1,\,p+1)$. $Q$ on $5x+y+2=0$: $5(q-1)+(p+1)+2=0\Rightarrow p=2-5q$. $P$ on the circle: $(2-5q)^2+q^2=4\Rightarrow26q^2-20q=0\Rightarrow q=0$ or $\tfrac{10}{13}$, giving $p=2$ or $-\tfrac{24}{13}$. Sum of abscissae $=2-\tfrac{24}{13}=\tfrac2{13}$, so $13\times$ sum $=2$.
 
-### M-CIR-02 · C — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+### M-CIR-02 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
 
 Let the circle $x^2+y^2=4$ intersect the $x$-axis at the points $A(a,0)$, $a>0$ and $B(b,0)$. Let $P(2\cos\alpha,2\sin\alpha)$, $0<\alpha<\dfrac\pi2$ and $Q(2\cos\beta,2\sin\beta)$ be two points such that $(\alpha-\beta)=\dfrac\pi2$. Then the point of intersection of $AQ$ and $BP$ lies on:
 
@@ -20,7 +20,7 @@ Let the circle $x^2+y^2=4$ intersect the $x$-axis at the points $A(a,0)$, $a>0$ 
 
 **Solution.** $A=(2,0)$, $B=(-2,0)$ and $Q=(2\cos(\alpha-\tfrac\pi2),2\sin(\alpha-\tfrac\pi2))=(2\sin\alpha,-2\cos\alpha)$. Slope of $BP=\dfrac{\sin\alpha}{1+\cos\alpha}=\tan\tfrac\alpha2=t$; slope of $AQ=\dfrac{\cos\alpha}{1-\sin\alpha}=\tan\left(\tfrac\pi4+\tfrac\alpha2\right)=\dfrac{1+t}{1-t}$. For the intersection $R(h,k)$: $t=\dfrac k{h+2}$ and $\dfrac k{h-2}=\dfrac{h+2+k}{h+2-k}$. Cross-multiplying: $k(h+2-k)=(h-2)(h+2+k)\Rightarrow h^2+k^2-4k-4=0$.
 
-### M-CIR-03 · C — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
+### M-CIR-03 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
 
 Let $\vec c$ and $\vec d$ be vectors such that $|\vec c+\vec d|=\sqrt{29}$ and $\vec c\times(2\hat i+3\hat j+4\hat k)=(2\hat i+3\hat j+4\hat k)\times\vec d$. If $\lambda_1,\lambda_2$ ($\lambda_1>\lambda_2$) are the possible values of $(\vec c+\vec d)\cdot(-7\hat i+2\hat j+3\hat k)$, then the equation $K^2x^2+\left(K^2-5K+\lambda_1\right)xy+\left(3K+\dfrac{\lambda_2}2\right)y^2-8x+12y+\lambda_2=0$ represents a circle, for $K$ equal to:
 
@@ -30,7 +30,7 @@ Let $\vec c$ and $\vec d$ be vectors such that $|\vec c+\vec d|=\sqrt{29}$ and $
 
 **Solution.** Let $\vec a=2\hat i+3\hat j+4\hat k$ ($|\vec a|^2=29$). The condition gives $\vec c\times\vec a+\vec d\times\vec a=\vec 0$, so $(\vec c+\vec d)\times\vec a=\vec0$: $\vec c+\vec d=t\vec a$ and $|t|\sqrt{29}=\sqrt{29}\Rightarrow t=\pm1$. $(\vec c+\vec d)\cdot(-7,2,3)=\pm(-14+6+12)=\pm4$, so $\lambda_1=4$, $\lambda_2=-4$. The conic is $K^2x^2+(K^2-5K+4)xy+(3K-2)y^2-8x+12y-4=0$. A circle needs equal $x^2,y^2$ coefficients, $K^2=3K-2\Rightarrow K=1,2$, and no $xy$ term, $K^2-5K+4=0\Rightarrow K=1,4$. So $K=1$ (giving $x^2+y^2-8x+12y-4=0$, a real circle).
 
-### M-CIR-04 · C — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
+### M-CIR-04 · B — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
 
 Let $S=\left\{z\in\mathbb C:\left|\dfrac{z-6i}{z-2i}\right|=1\ \text{and}\ \left|\dfrac{z-8+2i}{z+2i}\right|=\dfrac35\right\}$. Then $\sum_{z\in S}|z|^2$ is equal to:
 
@@ -40,7 +40,7 @@ Let $S=\left\{z\in\mathbb C:\left|\dfrac{z-6i}{z-2i}\right|=1\ \text{and}\ \left
 
 **Solution.** The first condition says $z$ is equidistant from $6i$ and $2i$: the line $y=4$. For the second, with $z=x+iy$: $25\left[(x-8)^2+(y+2)^2\right]=9\left[x^2+(y+2)^2\right]\Rightarrow x^2-25x+100+(y+2)^2=0$. Putting $y=4$: $x^2-25x+136=0\Rightarrow x=17$ or $8$. So $S=\{17+4i,\ 8+4i\}$ and $\sum|z|^2=(289+16)+(64+16)=385$.
 
-### M-CIR-05 · C — JEE Advanced 2025 · Paper 1 · Q7 · Multiple correct
+### M-CIR-05 · B — JEE Advanced 2025 · Paper 1 · Q7 · Multiple correct
 
 Let $z_1=1+2i$, $z_2=3i$ and $S=\{(x,y)\in\mathbb R^2:|x+iy-z_1|=2|x+iy-z_2|\}$. Which are TRUE?
 

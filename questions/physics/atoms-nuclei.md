@@ -212,7 +212,7 @@ Choose the correct nuclear process from the options below. [p: proton, n: neutro
 
 **Solution.** Neutron decay is $\beta^-$ decay: $n\to p+e^-+\bar\nu$ (charge and lepton number are conserved: the antineutrino has lepton number $-1$ against the electron's $+1$).
 
-### P-ATN-21 · B — JEE Main 2024 · 27 Jan Shift 2 · Q18 · MCQ
+### P-ATN-21 · C — JEE Main 2024 · 27 Jan Shift 2 · Q18 · MCQ
 
 The atomic mass of ${}^{12}_{6}\text{C}$ is $12.000000$ u and that of ${}^{13}_{6}\text{C}$ is $13.003354$ u. The energy required to remove a neutron from ${}^{13}_{6}\text{C}$, if the mass of a neutron is $1.008665$ u, is
 
@@ -222,7 +222,7 @@ The atomic mass of ${}^{12}_{6}\text{C}$ is $12.000000$ u and that of ${}^{13}_{
 
 **Solution.** Mass defect $=m({}^{12}\text{C})+m_n-m({}^{13}\text{C})=12+1.008665-13.003354=0.005311$ u. Energy $=0.005311\times931.5\approx4.95$ MeV.
 
-### P-ATN-22 · B — JEE Main 2024 · 29 Jan Shift 1 · Q19 · MCQ
+### P-ATN-22 · C — JEE Main 2024 · 29 Jan Shift 1 · Q19 · MCQ
 
 The explosive in a hydrogen bomb is a mixture of ${}^2_1\text{H}$, ${}^3_1\text{H}$ and ${}^6_3\text{Li}$ in some condensed form. The reactions are ${}^6_3\text{Li}+{}^1_0n\to{}^4_2\text{He}+{}^3_1\text{H}$ and ${}^2_1\text{H}+{}^3_1\text{H}\to{}^4_2\text{He}+{}^1_0n$. During the explosion the energy released is approximately [Given $M(\text{Li})=6.01690$ amu, $M({}^2_1\text{H})=2.01471$ amu, $M({}^4_2\text{He})=4.00388$ amu, $1\text{ amu}=931.5$ MeV]
 
@@ -232,7 +232,7 @@ The explosive in a hydrogen bomb is a mixture of ${}^2_1\text{H}$, ${}^3_1\text{
 
 **Solution.** Adding the two reactions, the neutron and the tritium cancel, leaving the net reaction ${}^6\text{Li}+{}^2\text{H}\to2\,{}^4\text{He}$. Mass defect $=6.01690+2.01471-2(4.00388)=0.02385$ amu, so $Q=0.02385\times931.5\approx22.22$ MeV.
 
-### P-ATN-23 · B — JEE Main 2024 · 29 Jan Shift 2 · Q19 · MCQ
+### P-ATN-23 · C — JEE Main 2024 · 29 Jan Shift 2 · Q19 · MCQ
 
 Statement I: Most of the mass of the atom and all its positive charge are concentrated in a tiny nucleus and the electrons revolve around it, is Rutherford's model.  
 Statement II: An atom is a spherical cloud of positive charges with electrons embedded in it, is a special case of Rutherford's model.
@@ -243,7 +243,7 @@ Statement II: An atom is a spherical cloud of positive charges with electrons em
 
 **Solution.** I correctly states Rutherford's nuclear model. II describes Thomson's plum-pudding model, which Rutherford's $\alpha$-scattering experiment disproved; it is not a special case of Rutherford's model.
 
-### P-ATN-24 · B — JEE Main 2024 · 30 Jan Shift 2 · Q17 · MCQ
+### P-ATN-24 · C — JEE Main 2024 · 30 Jan Shift 2 · Q17 · MCQ
 
 An electron revolving in the $n^{th}$ Bohr orbit has magnetic moment $\mu_n$. If $\mu_n\propto n^x$, the value of $x$ is
 
@@ -253,7 +253,7 @@ An electron revolving in the $n^{th}$ Bohr orbit has magnetic moment $\mu_n$. If
 
 **Solution.** $\mu=iA=\dfrac{e}{T}\pi r^2=\dfrac{e\,\omega r^2}{2}=\dfrac{e}{2m}L$. With $L=\dfrac{nh}{2\pi}$: $\mu_n=\dfrac{neh}{4\pi m}\propto n$, so $x=1$.
 
-### P-ATN-25 · B — JEE Main 2024 · 31 Jan Shift 1 · Q19 · MCQ
+### P-ATN-25 · C — JEE Main 2024 · 31 Jan Shift 1 · Q19 · MCQ
 
 If the wavelength of the first member of the Lyman series of hydrogen is $\lambda$, the wavelength of the second member will be
 
@@ -263,7 +263,7 @@ If the wavelength of the first member of the Lyman series of hydrogen is $\lambd
 
 **Solution.** Lyman: $\dfrac1\lambda=R\left(1-\dfrac1{n^2}\right)$. First member ($n=2$): $\dfrac1\lambda=\dfrac{3R}4$. Second ($n=3$): $\dfrac1{\lambda'}=\dfrac{8R}9$. So $\lambda'=\dfrac{3/4}{8/9}\lambda=\dfrac{27}{32}\lambda$.
 
-### P-ATN-26 · B — JEE Main 2024 · 31 Jan Shift 2 · Q18 · MCQ
+### P-ATN-26 · C — JEE Main 2024 · 31 Jan Shift 2 · Q18 · MCQ
 
 The mass number of a nucleus having a radius equal to half of the radius of the nucleus with mass number $192$ is
 
@@ -273,7 +273,7 @@ The mass number of a nucleus having a radius equal to half of the radius of the 
 
 **Solution.** $R=R_0A^{1/3}$, so $\dfrac{R'}{R}=\left(\dfrac{A'}{192}\right)^{1/3}=\dfrac12\Rightarrow A'=\dfrac{192}8=24$.
 
-### P-ATN-27 · B — JEE Main 2024 · 1 Feb Shift 1 · Q18 · MCQ
+### P-ATN-27 · C — JEE Main 2024 · 1 Feb Shift 1 · Q18 · MCQ
 
 The minimum energy required by a hydrogen atom in the ground state to emit radiation in the Balmer series is nearly
 

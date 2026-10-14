@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/work-energy-power.md](../../theory/physics/work-energy-power.md)
 
-### P-WEP-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### P-WEP-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 A body of mass $2$ kg is moving along the $x$-direction such that its displacement as a function of time is $x(t)=\alpha t^2+\beta t+\gamma$ m, where $\alpha=1\ \text{m/s}^2$, $\beta=1$ m/s and $\gamma=1$ m. The work done on the body during the time interval $t=2$ s to $t=3$ s is ______ J.
 
@@ -12,7 +12,7 @@ A body of mass $2$ kg is moving along the $x$-direction such that its displaceme
 
 **Solution.** $v=\dfrac{dx}{dt}=2t+1$: $v(2)=5$ m/s, $v(3)=7$ m/s. By the work–energy theorem $W=\tfrac12m(v_f^2-v_i^2)=\tfrac12\times2\times(49-25)=24$ J.
 
-### P-WEP-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### P-WEP-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 A small bob $A$ of mass $m$ is attached to a massless rigid rod of length $1$ m pivoted at point $P$ and kept at an angle of $60^\circ$ with the vertical, as shown in the figure. At a distance of $1$ m below point $P$, an identical bob $B$ is kept at rest on a smooth horizontal surface that extends to a circular track of radius $R$. If bob $B$ just manages to complete the circular path of radius $R$ up to the point $Q$ after being hit elastically by bob $A$, then the radius $R$ is ______ m.
 
@@ -24,7 +24,7 @@ A small bob $A$ of mass $m$ is attached to a massless rigid rod of length $1$ m 
 
 **Solution.** $A$ falls through $h=1-\cos60^\circ=0.5$ m, so $v_A=\sqrt{2gh}=\sqrt{10}$ m/s. In an elastic collision between equal masses the velocities are exchanged: $v_B=\sqrt{10}$ m/s. To just complete the circle $v_B^2=5gR\Rightarrow10=50R\Rightarrow R=\dfrac15$ m.
 
-### P-WEP-03 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
+### P-WEP-03 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q3 · MCQ
 
 In vertical circular motion of a particle on a thread of length $r$, if the tension in the thread is zero at an angle of $30^\circ$ (above the horizontal) as shown in the figure, the velocity at the bottom point $A$ of the circular path is ($g$ = gravitational acceleration):
 
@@ -36,7 +36,7 @@ In vertical circular motion of a particle on a thread of length $r$, if the tens
 
 **Solution.** The thread makes $60^\circ$ with the upward vertical at that point. With $T=0$: $mg\cos60^\circ=\dfrac{mV^2}{r}\Rightarrow V^2=\dfrac{gr}{2}$. Energy conservation from the bottom: $\tfrac12mu^2=mg(r+r\cos60^\circ)+\tfrac12mV^2\Rightarrow u^2=3gr+\dfrac{gr}{2}=\dfrac{7gr}{2}$.
 
-### P-WEP-04 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q4 · MCQ
+### P-WEP-04 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q4 · MCQ
 
 Given below are two statements:  
 **Statement I:** An object moves from position $\vec r_1$ to position $\vec r_2$ under a conservative force field $\vec F$. The work done by the force is $W=-\int_{\vec r_1}^{\vec r_2}\vec F\cdot d\vec r$.  
@@ -48,7 +48,7 @@ Given below are two statements:
 
 **Solution.** The work done by the force is $W=+\int\vec F\cdot d\vec r$; the expression with a minus sign is the change in potential energy, so Statement I is false. For a conservative force the work depends only on the end points, not on the path, so Statement II is false.
 
-### P-WEP-05 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+### P-WEP-05 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
 
 The potential energy $V$ versus distance $x$ is given by the graph. Rank the various regions according to the magnitude of the force $F$ acting on a particle, from high to low.
 
@@ -60,7 +60,7 @@ The potential energy $V$ versus distance $x$ is given by the graph. Rank the var
 
 **Solution.** $|F|=\left|\dfrac{dV}{dx}\right|$ = magnitude of the slope. From the graph A(1,0), B(1.5,1), C(2,4), D(4,4), E(6,3): $|F_{AB}|=2$, $|F_{BC}|=6$, $|F_{CD}|=0$, $|F_{DE}|=\tfrac12$. Ranking: $F_{BC}>F_{AB}>F_{DE}>F_{CD}$.
 
-### P-WEP-06 · B — JEE Main 2025 · Jan session · WEP set Q1 · MCQ
+### P-WEP-06 · A — JEE Main 2025 · Jan session · WEP set Q1 · MCQ
 
 A force $\vec F=2\hat i+b\hat j+\hat k$ is applied on a particle and it undergoes a displacement $\hat i-2\hat j-\hat k$. What will be the value of $b$ if the work done on the particle is zero?
 
@@ -70,7 +70,7 @@ A force $\vec F=2\hat i+b\hat j+\hat k$ is applied on a particle and it undergoe
 
 **Solution.** $W=\vec F\cdot\vec d=2-2b-1=0\Rightarrow b=\dfrac12$.
 
-### P-WEP-07 · B — JEE Main 2025 · Jan session · WEP set Q3 · MCQ
+### P-WEP-07 · A — JEE Main 2025 · Jan session · WEP set Q3 · MCQ
 
 A force $F=\alpha+\beta x^2$ acts on an object in the $x$-direction. The work done by the force is 5 J when the object is displaced by 1 m. If the constant $\alpha=1$ N, then $\beta$ will be:
 
@@ -80,7 +80,7 @@ A force $F=\alpha+\beta x^2$ acts on an object in the $x$-direction. The work do
 
 **Solution.** $W=\int_0^1(\alpha+\beta x^2)dx=\alpha+\dfrac\beta3=1+\dfrac\beta3=5\Rightarrow\beta=12$ N/m$^2$.
 
-### P-WEP-08 · B — JEE Main 2025 · Jan session · WEP set Q4 · MCQ
+### P-WEP-08 · A — JEE Main 2025 · Jan session · WEP set Q4 · MCQ
 
 A ball having kinetic energy $KE$ is projected at an angle of $60^\circ$ from the horizontal. What will be the kinetic energy of the ball at the highest point of its flight?
 
@@ -140,7 +140,7 @@ An object of mass 1000 g experiences a time dependent force $\vec F=(2t\hat i+3t
 
 **Solution.** With $m=1$ kg, $\vec a=\vec F$, so $\vec v=\int\vec F\,dt=t^2\hat i+t^3\hat j$ (starting from rest). $P=\vec F\cdot\vec v=2t\cdot t^2+3t^2\cdot t^3=2t^3+3t^5$ W.
 
-### P-WEP-14 · C — JEE Main 2024 · 27 Jan Shift 1 · Q4 · MCQ
+### P-WEP-14 · B — JEE Main 2024 · 27 Jan Shift 1 · Q4 · MCQ
 
 Two bodies of masses $4$ g and $25$ g are moving with equal kinetic energies. The ratio of the magnitudes of their linear momenta is
 
@@ -150,7 +150,7 @@ Two bodies of masses $4$ g and $25$ g are moving with equal kinetic energies. Th
 
 **Solution.** $p=\sqrt{2mK}$, so at equal $K$: $\dfrac{p_1}{p_2}=\sqrt{\dfrac{m_1}{m_2}}=\sqrt{\dfrac{4}{25}}=\dfrac25$.
 
-### P-WEP-15 · C — JEE Main 2024 · 29 Jan Shift 1 · Q5 · MCQ
+### P-WEP-15 · B — JEE Main 2024 · 29 Jan Shift 1 · Q5 · MCQ
 
 The potential energy function of a particle in a region of space is $U=(2x^2+3y^3+2z)$ J, where $x,y,z$ are in metres. The magnitude of the $x$-component of the force (in N) acting on the particle at $P(1,2,3)$ m is
 

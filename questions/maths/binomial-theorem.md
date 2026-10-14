@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/maths/binomial-theorem.md](../../theory/maths/binomial-theorem.md)
 
-### M-BIN-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+### M-BIN-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
 
 If $\left(\dfrac1{{}^{15}C_0}+\dfrac1{{}^{15}C_1}\right)\left(\dfrac1{{}^{15}C_1}+\dfrac1{{}^{15}C_2}\right)\cdots\left(\dfrac1{{}^{15}C_{12}}+\dfrac1{{}^{15}C_{13}}\right)=\dfrac{\alpha^{13}}{{}^{14}C_0\,{}^{14}C_1\cdots{}^{14}C_{12}}$, then $30\alpha$ is equal to ______.
 
@@ -10,7 +10,7 @@ If $\left(\dfrac1{{}^{15}C_0}+\dfrac1{{}^{15}C_1}\right)\left(\dfrac1{{}^{15}C_1
 
 **Solution.** Use ${}^{15}C_r=\dfrac{15}r{}^{14}C_{r-1}$ and ${}^{15}C_{r-1}=\dfrac{15}{16-r}{}^{14}C_{r-1}$. Then $\dfrac1{{}^{15}C_{r-1}}+\dfrac1{{}^{15}C_r}=\dfrac{(16-r)+r}{15\,{}^{14}C_{r-1}}=\dfrac{16}{15\,{}^{14}C_{r-1}}$. The product over $r=1,\dots,13$ is $\dfrac{(16/15)^{13}}{{}^{14}C_0\cdots{}^{14}C_{12}}$, so $\alpha=\dfrac{16}{15}$ and $30\alpha=32$.
 
-### M-BIN-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### M-BIN-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 The value of $\dfrac{{}^{100}C_{50}}{51}+\dfrac{{}^{100}C_{51}}{52}+\cdots+\dfrac{{}^{100}C_{100}}{101}$ is:
 
@@ -20,7 +20,7 @@ The value of $\dfrac{{}^{100}C_{50}}{51}+\dfrac{{}^{100}C_{51}}{52}+\cdots+\dfra
 
 **Solution.** ${}^{100}C_r\cdot\dfrac1{r+1}=\dfrac{{}^{101}C_{r+1}}{101}$. So the sum is $\dfrac1{101}\sum_{k=51}^{101}{}^{101}C_k$. Since $101$ is odd, the coefficients with $k\ge51$ are exactly half of the total $2^{101}$, i.e. $2^{100}$. The sum is $\dfrac{2^{100}}{101}$.
 
-### M-BIN-03 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
+### M-BIN-03 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q3 · MCQ
 
 The sum of all possible values of $n\in\mathbb N$, so that the coefficients of $x$, $x^2$ and $x^3$ in the expansion of $(1+x^2)^2(1+x)^n$ are in arithmetic progression, is:
 
@@ -30,7 +30,7 @@ The sum of all possible values of $n\in\mathbb N$, so that the coefficients of $
 
 **Solution.** $(1+x^2)^2=1+2x^2+x^4$, so the coefficients are: $x$: $n$; $x^2$: ${}^nC_2+2$; $x^3$: ${}^nC_3+2n$. A.P.: $2\left({}^nC_2+2\right)=n+{}^nC_3+2n\Rightarrow n(n-1)+4=3n+\dfrac{n(n-1)(n-2)}6\Rightarrow n^3-9n^2+26n-24=0\Rightarrow(n-2)(n-3)(n-4)=0$. All three values are valid, and their sum is $9$.
 
-### M-BIN-04 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
+### M-BIN-04 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
 
 Given below are two statements: Statement I: $25^{13}+20^{13}+8^{13}+3^{13}$ is divisible by 7. Statement II: The integral part of $(7+4\sqrt3)^{25}$ is an odd number.
 
@@ -40,7 +40,7 @@ Given below are two statements: Statement I: $25^{13}+20^{13}+8^{13}+3^{13}$ is 
 
 **Solution.** I: $25^{13}+3^{13}$ is divisible by $25+3=28$ and $20^{13}+8^{13}$ by $20+8=28$ (odd power), so the total is divisible by 7. II: let $\alpha=7+4\sqrt3$, $\beta=7-4\sqrt3$ ($0<\beta<1$, $\alpha\beta=1$, $\alpha+\beta=14$). $S_n=\alpha^n+\beta^n$ satisfies $S_n=14S_{n-1}-S_{n-2}$ with $S_0=2$, $S_1=14$, so every $S_n$ is an even integer. Then $\alpha^{25}=S_{25}-\beta^{25}$ with $0<\beta^{25}<1$, so its integral part is $S_{25}-1$, an odd number.
 
-### M-BIN-05 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+### M-BIN-05 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
 
 Let $C_r$ denote the coefficient of $x^r$ in the binomial expansion of $(1+x)^n$, $n\in\mathbb N$, $0\le r\le n$. If $P_n=C_0-C_1+\dfrac{2^2}3C_2-\dfrac{2^3}4C_3+\cdots+\dfrac{(-2)^n}{n+1}C_n$, then the value of $\sum_{n=1}^{25}\dfrac1{P_{2n}}$ equals:
 
@@ -50,7 +50,7 @@ Let $C_r$ denote the coefficient of $x^r$ in the binomial expansion of $(1+x)^n$
 
 **Solution.** $P_n=\sum_{r=0}^n\dfrac{(-2)^rC_r}{r+1}$ and $\dfrac{C_r}{r+1}=\dfrac{{}^{n+1}C_{r+1}}{n+1}$, so $P_n=\dfrac1{n+1}\cdot\dfrac1{-2}\sum_{s=1}^{n+1}(-2)^s\,{}^{n+1}C_s=\dfrac{1-(-1)^{n+1}}{2(n+1)}$. For even index $2n$: $P_{2n}=\dfrac1{2n+1}$. $\sum_{n=1}^{25}(2n+1)=2\cdot\dfrac{25\cdot26}2+25=675$.
 
-### M-BIN-06 · B — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+### M-BIN-06 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
 
 The coefficient of $x^{48}$ in $(1+x)+2(1+x)^2+3(1+x)^3+\dots+100(1+x)^{100}$ is equal to:
 
@@ -80,7 +80,7 @@ Let $S=\dfrac1{25!}+\dfrac1{3!\,23!}+\dfrac1{5!\,21!}+\dots$ up to 13 terms. If 
 
 **Solution.** The $r$th term is $\dfrac1{(2r-1)!(27-2r)!}=\dfrac1{26!}{}^{26}C_{2r-1}$, so $S=\dfrac1{26!}\left({}^{26}C_1+{}^{26}C_3+\cdots+{}^{26}C_{25}\right)=\dfrac{2^{25}}{26!}$. Then $13S=\dfrac{13\cdot2^{25}}{26!}=\dfrac{2^{25}}{2\cdot25!}=\dfrac{2^{24}}{25!}$. So $k=24$, $n=25$ and $n+k=49$.
 
-### M-BIN-09 · C — JEE Main 2024 · 27 Jan Shift 2 · Q82 · Numerical
+### M-BIN-09 · B — JEE Main 2024 · 27 Jan Shift 2 · Q82 · Numerical
 
 The coefficient of $x^{2012}$ in the expansion of $(1-x)^{2008}(1+x+x^2)^{2007}$ is equal to ______.
 
@@ -88,7 +88,7 @@ The coefficient of $x^{2012}$ in the expansion of $(1-x)^{2008}(1+x+x^2)^{2007}$
 
 **Solution.** $(1-x)(1+x+x^2)=1-x^3$, so the product is $(1-x)\,(1-x^3)^{2007}$. Terms of $(1-x^3)^{2007}$ have exponents divisible by $3$, so the product has exponents $\equiv0$ or $1\pmod3$. $2012\equiv2\pmod3$, so the coefficient is $0$.
 
-### M-BIN-10 · C — JEE Main 2024 · 29 Jan Shift 1 · Q83 · Numerical
+### M-BIN-10 · B — JEE Main 2024 · 29 Jan Shift 1 · Q83 · Numerical
 
 If $\dfrac{{}^{11}C_1}2+\dfrac{{}^{11}C_2}3+\cdots+\dfrac{{}^{11}C_9}{10}=\dfrac nm$ with $\gcd(n,m)=1$, then $n+m$ is equal to ______.
 
@@ -96,7 +96,7 @@ If $\dfrac{{}^{11}C_1}2+\dfrac{{}^{11}C_2}3+\cdots+\dfrac{{}^{11}C_9}{10}=\dfrac
 
 **Solution.** $\dfrac{{}^{11}C_r}{r+1}=\dfrac{{}^{12}C_{r+1}}{12}$. So the sum is $\dfrac1{12}\sum_{k=2}^{10}{}^{12}C_k=\dfrac1{12}\left(2^{12}-1-12-12-1\right)=\dfrac{4070}{12}=\dfrac{2035}6$. With $\gcd(2035,6)=1$: $n+m=2041$.
 
-### M-BIN-11 · C — JEE Main 2024 · 29 Jan Shift 2 · Q83 · Numerical
+### M-BIN-11 · B — JEE Main 2024 · 29 Jan Shift 2 · Q83 · Numerical
 
 The remainder when $64^{32^{32}}$ is divided by $9$ is equal to ______.
 

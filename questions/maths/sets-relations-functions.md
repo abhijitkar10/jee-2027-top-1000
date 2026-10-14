@@ -100,7 +100,7 @@ Given below are two statements: Statement I: The function $f:\mathbb R\to\mathbb
 
 **Solution.** I: for $x\ge0$, $f=\dfrac{x}{1+x}$ and for $x<0$, $f=\dfrac{x}{1-x}$; each piece has derivative $\dfrac1{(1\pm x)^2}>0$ and $f$ is continuous at 0, so $f$ is strictly increasing on $\mathbb R$, hence one-one. II: $f(x)=1+\dfrac{12(x-4)}{x^2-8x+18}$, so with $x=4+t$, $f-1=\dfrac{12t}{t^2+2}$; $t=1$ and $t=2$ both give $4$, so $f$ is many-one.
 
-### M-SRF-11 · A — JEE Main 2026 · 28 Jan Shift 2 · Functions set Q2 · MCQ
+### M-SRF-11 · B — JEE Main 2026 · 28 Jan Shift 2 · Functions set Q2 · MCQ
 
 The sum of all the elements in the range of $f(x)=\mathrm{Sgn}(\sin x)+\mathrm{Sgn}(\cos x)+\mathrm{Sgn}(\tan x)+\mathrm{Sgn}(\cot x)$, where $x\ne\dfrac{n\pi}2$, $n\in\mathbb Z$ and $\mathrm{Sgn}(t)=\begin{cases}-1,&t<0\\1,&t>0\end{cases}$, is:
 
@@ -110,7 +110,7 @@ The sum of all the elements in the range of $f(x)=\mathrm{Sgn}(\sin x)+\mathrm{S
 
 **Solution.** Quadrant I: all four signs $+$: $f=4$. Quadrant II: $\sin+,\cos-,\tan-,\cot-$: $f=1-1-1-1=-2$. Quadrant III: $\sin-,\cos-,\tan+,\cot+$: $f=0$. Quadrant IV: $\sin-,\cos+,\tan-,\cot-$: $f=-2$. Range $=\{-2,0,4\}$, sum $=2$.
 
-### M-SRF-12 · A — JEE Main 2026 · 24 Jan Shift 2 · Functions set Q3 · MCQ
+### M-SRF-12 · B — JEE Main 2026 · 24 Jan Shift 2 · Functions set Q3 · MCQ
 
 Let $f$ be a function such that $3f(x)+2f\!\left(\dfrac m{19x}\right)=5x$, $x\ne0$, where $m=\sum_{i=1}^{9}i^2$. Then $f(5)-f(2)$ is equal to:
 
@@ -120,7 +120,7 @@ Let $f$ be a function such that $3f(x)+2f\!\left(\dfrac m{19x}\right)=5x$, $x\ne
 
 **Solution.** $m=\dfrac{9\cdot10\cdot19}6=285$, so $\dfrac m{19}=15$: $3f(x)+2f(15/x)=5x$ (i). Replace $x\to15/x$: $3f(15/x)+2f(x)=\dfrac{75}x$ (ii). Eliminate $f(15/x)$: $3\times$(i) $-2\times$(ii): $5f(x)=15x-\dfrac{150}x$, so $f(x)=3x-\dfrac{30}x$. $f(5)=15-6=9$, $f(2)=6-15=-9$, so $f(5)-f(2)=18$.
 
-### M-SRF-13 · A — JEE Main 2026 · 22 Jan Shift 1 · Functions set Q6 · MCQ
+### M-SRF-13 · B — JEE Main 2026 · 22 Jan Shift 1 · Functions set Q6 · MCQ
 
 If the domain of the function $f(x)=\sin^{-1}\!\left(\dfrac{5-x}{3+2x}\right)+\dfrac1{\log_e(10-x)}$ is $(-\infty,\alpha]\cup[\beta,\gamma)-\{\delta\}$, then $6(\alpha+\beta+\gamma+\delta)$ is equal to:
 
@@ -130,7 +130,7 @@ If the domain of the function $f(x)=\sin^{-1}\!\left(\dfrac{5-x}{3+2x}\right)+\d
 
 **Solution.** $\left|\dfrac{5-x}{2x+3}\right|\le1$: $\dfrac{5-x}{2x+3}\le1\Rightarrow\dfrac{3x-2}{2x+3}\ge0\Rightarrow x<-\tfrac32$ or $x\ge\tfrac23$; and $\dfrac{5-x}{2x+3}\ge-1\Rightarrow\dfrac{x+8}{2x+3}\ge0\Rightarrow x\le-8$ or $x>-\tfrac32$. Together: $x\le-8$ or $x\ge\tfrac23$. For the log term: $10-x>0$ and $\log_e(10-x)\ne0$, i.e. $x<10$, $x\ne9$. Domain $(-\infty,-8]\cup[\tfrac23,10)-\{9\}$: $\alpha=-8,\beta=\tfrac23,\gamma=10,\delta=9$. $6(-8+\tfrac23+10+9)=6\cdot\tfrac{35}3=70$.
 
-### M-SRF-14 · A — JEE Main 2026 · 23 Jan Shift 2 · Functions set Q8 · MCQ
+### M-SRF-14 · B — JEE Main 2026 · 23 Jan Shift 2 · Functions set Q8 · MCQ
 
 Consider two sets $A=\{x\in\mathbb Z:||x-3|-3|\le1\}$ and $B=\left\{x\in\mathbb R-\{1,2\}:\dfrac{(x-2)(x-4)}{x-1}\log_e|x-2|=0\right\}$. Then the number of onto functions $f:A\to B$ is equal to:
 
@@ -140,7 +140,7 @@ Consider two sets $A=\{x\in\mathbb Z:||x-3|-3|\le1\}$ and $B=\left\{x\in\mathbb 
 
 **Solution.** $||x-3|-3|\le1\Rightarrow2\le|x-3|\le4$: $x\in\{5,6,7\}$ or $\{-1,0,1\}$, so $|A|=6$. In B the expression vanishes when $x=4$ (since $x\ne2$) or $\log_e|x-2|=0\Rightarrow x=3$ (and $x=1$ is excluded). So $B=\{3,4\}$. Onto functions from a 6-element set onto a 2-element set: $2^6-2=62$.
 
-### M-SRF-15 · A — JEE Main 2026 · 28 Jan Shift 1 · Functions set Q9 · MCQ
+### M-SRF-15 · B — JEE Main 2026 · 28 Jan Shift 1 · Functions set Q9 · MCQ
 
 If $g(x)=3x^2+2x-3$, $f(0)=-3$ and $4g(f(x))=3x^2-32x+72$, then $f(g(2))$ is equal to:
 
@@ -150,7 +150,7 @@ If $g(x)=3x^2+2x-3$, $f(0)=-3$ and $4g(f(x))=3x^2-32x+72$, then $f(g(2))$ is equ
 
 **Solution.** The right side is quadratic, so $f(x)=ax+b$ is linear. $4g(f(x))=12(ax+b)^2+8(ax+b)-12$. Compare $x^2$: $12a^2=3\Rightarrow a=\pm\tfrac12$. Constant: $12b^2+8b-12=72\Rightarrow3b^2+2b-21=0\Rightarrow b=\tfrac73$ or $-3$; $f(0)=-3$ gives $b=-3$. Compare $x$: $24ab+8a=8a(3b+1)=-64a=-32\Rightarrow a=\tfrac12$. So $f(x)=\dfrac x2-3$. $g(2)=12+4-3=13$ and $f(13)=\dfrac{13}2-3=\dfrac72$.
 
-### M-SRF-16 · A — JEE Main 2026 · 24 Jan Shift 1 · Functions set Q10 · MCQ
+### M-SRF-16 · B — JEE Main 2026 · 24 Jan Shift 1 · Functions set Q10 · MCQ
 
 If the domain of the function $f(x)=\log_{(10x^2-17x+7)}(18x^2-11x+1)$ is $(-\infty,a)\cup(b,c)\cup(d,\infty)-\{e\}$, then $90(a+b+c+d+e)$ equals:
 
@@ -160,7 +160,7 @@ If the domain of the function $f(x)=\log_{(10x^2-17x+7)}(18x^2-11x+1)$ is $(-\in
 
 **Solution.** Base: $10x^2-17x+7=(10x-7)(x-1)>0\Rightarrow x<\tfrac7{10}$ or $x>1$; base $\ne1$: $10x^2-17x+6=0\Rightarrow x=\tfrac12,\tfrac65$. Argument: $18x^2-11x+1=(2x-1)(9x-1)>0\Rightarrow x<\tfrac19$ or $x>\tfrac12$. Intersection: $(-\infty,\tfrac19)\cup(\tfrac12,\tfrac7{10})\cup(1,\infty)$ with $x=\tfrac65$ removed. So $a=\tfrac19,b=\tfrac12,c=\tfrac7{10},d=1,e=\tfrac65$ and $90\left(\tfrac19+\tfrac12+\tfrac7{10}+1+\tfrac65\right)=10+45+63+90+108=316$.
 
-### M-SRF-17 · A — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
+### M-SRF-17 · B — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
 
 $f:\mathbb N\to\mathbb Z$ and $g:\mathbb Z\to\mathbb N$ are $f(n)=\begin{cases}(n+1)/2,&n\text{ odd}\\(4-n)/2,&n\text{ even}\end{cases}$ and $g(n)=\begin{cases}3+2n,&n\ge0\\-2n,&n<0\end{cases}$. Which are TRUE?
 
@@ -170,7 +170,7 @@ $f:\mathbb N\to\mathbb Z$ and $g:\mathbb Z\to\mathbb N$ are $f(n)=\begin{cases}(
 
 **Solution.** $f$: odd $n\mapsto1,2,3,\dots$ and even $n\mapsto1,0,-1,\dots$; $f(1)=f(2)=1$ so $f$ is not one-one, but every integer occurs: onto (D true). $g$ is one-one, but its range is $\{2,3,4,5,\dots\}$ (it misses $1$), so $g$ is not onto (C false). $g\circ f$: $f(1)=f(2)$ gives $g(f(1))=g(f(2))$: not one-one, and its range lies in $\{2,3,\dots\}$: not onto (A true). $f\circ g$: $g$ takes values $\ge2$ and $f$ is one-one on $n\ge2$ and covers all integers, so $f\circ g$ is one-one and onto, making (B false).
 
-### M-SRF-18 · A — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
+### M-SRF-18 · B — JEE Advanced 2025 · Paper 1 · Q8 · Numerical
 
 Let $\mathcal S$ be the set of all relations $R$ on $\{a,b,c,d,e,f\}$ that are reflexive and symmetric and contain exactly $10$ elements. The number of elements in $\mathcal S$ is ______.
 
@@ -178,7 +178,7 @@ Let $\mathcal S$ be the set of all relations $R$ on $\{a,b,c,d,e,f\}$ that are r
 
 **Solution.** Reflexivity puts the $6$ pairs $(x,x)$ in $R$. The other $4$ elements come in symmetric pairs $\{(x,y),(y,x)\}$, i.e. $2$ unordered pairs chosen from $\binom62=15$: $\binom{15}{2}=105$.
 
-### M-SRF-19 · A — JEE Main 2024 · 27 Jan Shift 1 · Q71 · MCQ
+### M-SRF-19 · B — JEE Main 2024 · 27 Jan Shift 1 · Q71 · MCQ
 
 Let $S=\{1,2,\dots,10\}$ and let $M$ be the set of all subsets of $S$. The relation $R=\{(A,B):A\cap B\neq\phi;\ A,B\in M\}$ is
 
@@ -188,7 +188,7 @@ Let $S=\{1,2,\dots,10\}$ and let $M$ be the set of all subsets of $S$. The relat
 
 **Solution.** Symmetric: $A\cap B=B\cap A$. Not reflexive: $A=\phi$ gives $\phi\cap\phi=\phi$. Not transitive: $A=\{1,2\},B=\{2,3\},C=\{3,4\}$ has $A\cap B\neq\phi,\ B\cap C\neq\phi$ but $A\cap C=\phi$. So symmetric only.
 
-### M-SRF-20 · A — JEE Main 2024 · 27 Jan Shift 2 · Q71 · MCQ
+### M-SRF-20 · C — JEE Main 2024 · 27 Jan Shift 2 · Q71 · MCQ
 
 Let $f:\mathbb R-\{-\tfrac12\}\to\mathbb R$ and $g:\mathbb R-\{-\tfrac52\}\to\mathbb R$ be $f(x)=\dfrac{2x+3}{2x+1}$ and $g(x)=\dfrac{|x|+1}{2x+5}$. The domain of $f\circ g$ is
 
@@ -198,7 +198,7 @@ Let $f:\mathbb R-\{-\tfrac12\}\to\mathbb R$ and $g:\mathbb R-\{-\tfrac52\}\to\ma
 
 **Solution.** We need $x\neq-\tfrac52$ and $g(x)\neq-\tfrac12$. Solve $\dfrac{|x|+1}{2x+5}=-\dfrac12\Rightarrow2|x|+2=-2x-5$. For $x<0$: $-2x+2=-2x-5$ is impossible. For $x\ge0$: $2x+2=-2x-5\Rightarrow x=-\tfrac74$, rejected since $x\ge0$. So no extra exclusion; the domain is $\mathbb R-\{-\tfrac52\}$.
 
-### M-SRF-21 · A — JEE Main 2024 · 29 Jan Shift 1 · Q68 · MCQ
+### M-SRF-21 · C — JEE Main 2024 · 29 Jan Shift 1 · Q68 · MCQ
 
 Let $R$ be a relation on $\mathbb Z\times\mathbb Z$ defined by $(a,b)\,R\,(c,d)$ if and only if $ad-bc$ is divisible by $5$. Then $R$ is
 
@@ -208,7 +208,7 @@ Let $R$ be a relation on $\mathbb Z\times\mathbb Z$ defined by $(a,b)\,R\,(c,d)$
 
 **Solution.** Reflexive: $ab-ba=0$. Symmetric: $cb-da=-(ad-bc)$ is also divisible by $5$. Not transitive: $(1,1)R(0,0)$ and $(0,0)R(1,2)$ (both give $0$), but $(1,1)$ and $(1,2)$ give $1\cdot2-1\cdot1=1$, not divisible by $5$.
 
-### M-SRF-22 · A — JEE Main 2024 · 29 Jan Shift 1 · Q71 · MCQ
+### M-SRF-22 · C — JEE Main 2024 · 29 Jan Shift 1 · Q71 · MCQ
 
 Let $f(x)=\begin{cases}2+2x,&-1\le x<0\\1-\tfrac x3,&0\le x\le3\end{cases}$ and $g(x)=\begin{cases}-x,&-3\le x\le0\\x,&0<x\le1\end{cases}$. The range of $f\circ g$ is
 
@@ -218,7 +218,7 @@ Let $f(x)=\begin{cases}2+2x,&-1\le x<0\\1-\tfrac x3,&0\le x\le3\end{cases}$ and 
 
 **Solution.** $g(x)=|x|$ on $[-3,1]$, so $g$ takes all values in $[0,3]$. For $u\in[0,3]$, $f(u)=1-\tfrac u3$ decreases continuously from $1$ to $0$. So $f\circ g$ takes every value in $[0,1]$.
 
-### M-SRF-23 · A — JEE Main 2024 · 29 Jan Shift 2 · Q69 · MCQ
+### M-SRF-23 · C — JEE Main 2024 · 29 Jan Shift 2 · Q69 · MCQ
 
 If $R$ is the smallest equivalence relation on the set $\{1,2,3,4\}$ such that $\{(1,2),(1,3)\}\subset R$, then the number of elements in $R$ is
 
@@ -228,7 +228,7 @@ If $R$ is the smallest equivalence relation on the set $\{1,2,3,4\}$ such that $
 
 **Solution.** Symmetry and transitivity force $1,2,3$ into one class, and $4$ stays alone by reflexivity. Equivalence classes $\{1,2,3\}$ and $\{4\}$ give $3^2+1^2=9+1=10$ ordered pairs.
 
-### M-SRF-24 · A — JEE Main 2024 · 30 Jan Shift 1 · Q72 · MCQ
+### M-SRF-24 · C — JEE Main 2024 · 30 Jan Shift 1 · Q72 · MCQ
 
 If the domain of the function $f(x)=\cos^{-1}\!\left(\dfrac{2-|x|}4\right)+\left(\ln(3-x)\right)^{-1}$ is $[-\alpha,\beta)-\{\gamma\}$, then $\alpha+\beta+\gamma$ is equal to
 
@@ -238,7 +238,7 @@ If the domain of the function $f(x)=\cos^{-1}\!\left(\dfrac{2-|x|}4\right)+\left
 
 **Solution.** $\cos^{-1}$ needs $\left|\tfrac{2-|x|}4\right|\le1\Rightarrow|x|\le6$. The term $\dfrac1{\ln(3-x)}$ needs $3-x>0$ and $\ln(3-x)\neq0$, i.e. $x<3$ and $x\ne2$. Domain: $[-6,3)-\{2\}$, so $\alpha=6,\ \beta=3,\ \gamma=2$ and the sum is $11$.
 
-### M-SRF-25 · A — JEE Main 2024 · 30 Jan Shift 1 · Q85 · Numerical
+### M-SRF-25 · C — JEE Main 2024 · 30 Jan Shift 1 · Q85 · Numerical
 
 A group of $40$ students appeared in an examination of $3$ subjects: Mathematics, Physics and Chemistry. All students passed in at least one subject; $20$ passed in Mathematics, $25$ in Physics and $16$ in Chemistry; at most $11$ passed in both Mathematics and Physics, at most $15$ in both Physics and Chemistry, and at most $15$ in both Mathematics and Chemistry. The maximum number of students who passed in all three subjects is ______.
 

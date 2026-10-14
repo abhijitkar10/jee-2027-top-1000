@@ -146,15 +146,7 @@ $\mathrm{A\to D}$ is an endothermic reaction occurring in three (elementary) ste
 
 **Solution.** Three elementary steps give three energy barriers and two intermediates (B and C). The energy order must be $E_A<E_D<E_C<E_B$: B above A (step i endothermic), C below B and D below C (steps ii and iii exothermic), yet D above A because the overall reaction is endothermic. Only graph (1) has this ordering. In (2) D lies above C, in (3) C lies above B, and in (4) B lies below A.
 
-### C-CTH-12 · A — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
-
-Considering ideal gas behaviour, the expansion work done (in kJ) when $144$ g of water is electrolysed completely under constant pressure at $300$ K is ______. ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$; H $=1$, O $=16$)
-
-**Answer: −29.88** (accepted $29.8$–$29.95$ in magnitude, sign as per the work-on-system convention) · official key ✔ (re-derived)
-
-**Solution.** $144$ g $=8$ mol $\text{H}_2\text{O}$: $2\text{H}_2\text{O}(l)\to2\text{H}_2(g)+\text{O}_2(g)$ gives $8$ mol $\text{H}_2$ and $4$ mol $\text{O}_2$, $\Delta n_g=12$. At constant $P$ the gas does work $P\Delta V=\Delta n_gRT=12\times8.3\times300=29.88$ kJ against the surroundings; in the IUPAC convention (work done *on* the system) $w=-29.88$ kJ.
-
-### C-CTH-13 · A — JEE Main 2025 · Jan session · Thermo set Q1 · MCQ
+### C-CTH-12 · A — JEE Main 2025 · Jan session · Thermo set Q1 · MCQ
 
 A liquid kept inside a thermally insulated closed vessel at 25 °C was mechanically stirred from outside. What will be the correct option for the following thermodynamic parameters?
 
@@ -164,7 +156,7 @@ A liquid kept inside a thermally insulated closed vessel at 25 °C was mechanica
 
 **Solution.** The vessel is insulated, so $q=0$. Stirring does work on the liquid ($w>0$ in the convention where work done on the system is positive), so $\Delta U=q+w>0$ and the liquid warms up.
 
-### C-CTH-14 · A — JEE Main 2025 · Jan session · Thermo set Q2 · Numerical
+### C-CTH-13 · A — JEE Main 2025 · Jan session · Thermo set Q2 · Numerical
 
 Standard entropies of X$_2$, Y$_2$ and XY$_5$ are 70, 50 and 110 J K$^{-1}$ mol$^{-1}$ respectively. The temperature in kelvin at which the reaction $\tfrac12$X$_2$ + $\tfrac52$Y$_2$ ⇌ XY$_5$, $\Delta H^\ominus=-35$ kJ mol$^{-1}$, will be at equilibrium is ______. (Nearest integer)
 
@@ -172,7 +164,7 @@ Standard entropies of X$_2$, Y$_2$ and XY$_5$ are 70, 50 and 110 J K$^{-1}$ mol$
 
 **Solution.** $\Delta S^\circ=110-\tfrac12(70)-\tfrac52(50)=110-35-125=-50$ J K$^{-1}$ mol$^{-1}$. At equilibrium $\Delta G=0\Rightarrow T=\dfrac{\Delta H}{\Delta S}=\dfrac{-35000}{-50}=700$ K.
 
-### C-CTH-15 · A — JEE Main 2025 · Jan session · Thermo set Q3 · MCQ
+### C-CTH-14 · A — JEE Main 2025 · Jan session · Thermo set Q3 · MCQ
 
 The effect of temperature on spontaneity of reactions is represented as:
 
@@ -191,7 +183,15 @@ The incorrect combinations are:
 
 **Solution.** Use $\Delta G=\Delta H-T\Delta S$. (A) $\Delta G>0$ always: non-spontaneous ✓. (B) $\Delta H>0$, $\Delta S>0$: spontaneous only at *high* T, so "low T, spontaneous" is wrong. (C) $\Delta H<0$, $\Delta S<0$: spontaneous at *low* T, so "non-spontaneous" is wrong. (D) $\Delta G<0$ always ✓. Incorrect: (B) and (C).
 
-### C-CTH-16 · A — JEE Main 2025 · Jan session · Thermo set Q4 · MCQ
+### C-CTH-15 · B — JEE Advanced 2025 · Paper 1 · Q11 · Numerical
+
+Considering ideal gas behaviour, the expansion work done (in kJ) when $144$ g of water is electrolysed completely under constant pressure at $300$ K is ______. ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$; H $=1$, O $=16$)
+
+**Answer: −29.88** (accepted $29.8$–$29.95$ in magnitude, sign as per the work-on-system convention) · official key ✔ (re-derived)
+
+**Solution.** $144$ g $=8$ mol $\text{H}_2\text{O}$: $2\text{H}_2\text{O}(l)\to2\text{H}_2(g)+\text{O}_2(g)$ gives $8$ mol $\text{H}_2$ and $4$ mol $\text{O}_2$, $\Delta n_g=12$. At constant $P$ the gas does work $P\Delta V=\Delta n_gRT=12\times8.3\times300=29.88$ kJ against the surroundings; in the IUPAC convention (work done *on* the system) $w=-29.88$ kJ.
+
+### C-CTH-16 · B — JEE Main 2025 · Jan session · Thermo set Q4 · MCQ
 
 If C(diamond) → C(graphite) + $X$ kJ mol$^{-1}$; C(diamond) + O$_2$(g) → CO$_2$(g) + $Y$ kJ mol$^{-1}$; C(graphite) + O$_2$(g) → CO$_2$(g) + $Z$ kJ mol$^{-1}$, at constant temperature. Then:
 
@@ -201,7 +201,7 @@ If C(diamond) → C(graphite) + $X$ kJ mol$^{-1}$; C(diamond) + O$_2$(g) → CO$
 
 **Solution.** Combustion of diamond = diamond → graphite followed by combustion of graphite (Hess's law): $Y=X+Z$, so $X=Y-Z$.
 
-### C-CTH-17 · A — JEE Main 2025 · Jan session · Thermo set Q6 · MCQ
+### C-CTH-17 · B — JEE Main 2025 · Jan session · Thermo set Q6 · MCQ
 
 An ideal gas undergoes a cyclic transformation starting from the point $A$ and coming back to the same point by tracing the path $A\to B\to C\to D\to A$ as shown in the three cases (Case I, II, III) in the figure. Choose the correct option regarding $\Delta U$:
 
@@ -213,7 +213,7 @@ An ideal gas undergoes a cyclic transformation starting from the point $A$ and c
 
 **Solution.** $U$ is a state function. In every case the gas returns to its initial state $A$, so $\Delta U=0$ for the cycle, independent of the path or the area enclosed.
 
-### C-CTH-18 · A — JEE Main 2025 · Jan session · Thermo set Q7 · MCQ
+### C-CTH-18 · B — JEE Main 2025 · Jan session · Thermo set Q7 · MCQ
 
 500 J of energy is transferred as heat to 0.5 mol of argon gas at 298 K and 1.00 atm. The final temperature and the change in internal energy respectively are: (Given $R=8.3$ J K$^{-1}$ mol$^{-1}$)
 
@@ -223,7 +223,7 @@ An ideal gas undergoes a cyclic transformation starting from the point $A$ and c
 
 **Solution.** At constant pressure (1 atm) $q_p=nC_p\Delta T$ with $C_p=\tfrac52R=20.75$: $\Delta T=\dfrac{500}{0.5\times20.75}=48.2$ K, so $T\approx346\approx348$ K. $\Delta U=nC_v\Delta T=0.5\times12.45\times48.2\approx300$ J.
 
-### C-CTH-19 · A — JEE Main 2025 · Apr session · Thermo set Q2 · MCQ
+### C-CTH-19 · B — JEE Main 2025 · Apr session · Thermo set Q2 · MCQ
 
 The hydration energies of K$^+$ and Cl$^-$ are $-x$ and $-y$ kJ/mol respectively. If the lattice energy of KCl is $-z$ kJ/mol, then the heat of solution of KCl is:
 
@@ -233,7 +233,7 @@ The hydration energies of K$^+$ and Cl$^-$ are $-x$ and $-y$ kJ/mol respectively
 
 **Solution.** Dissolution = breaking the lattice (absorbs $+z$) followed by hydration of the gaseous ions (releases $x+y$): $\Delta H_{sol}=z-(x+y)$.
 
-### C-CTH-20 · A — JEE Main 2025 · Apr session · Thermo set Q3 · MCQ
+### C-CTH-20 · B — JEE Main 2025 · Apr session · Thermo set Q3 · MCQ
 
 Arrange the following in order of magnitude of work done by the system / on the system at constant temperature: (a) $|w_{reversible}|$ for expansion in infinite stages; (b) $|w_{irreversible}|$ for expansion in a single stage; (c) $|w_{reversible}|$ for compression in infinite stages; (d) $|w_{irreversible}|$ for compression in a single stage.
 
@@ -243,7 +243,7 @@ Arrange the following in order of magnitude of work done by the system / on the 
 
 **Solution.** A reversible path between the same two states gives the same magnitude of work whether it is an expansion or the reverse compression, so $|w_a|=|w_c|$. The reversible expansion gives the maximum work obtained, whereas the irreversible single-stage expansion gives the least ($b$ smallest). The reversible compression needs the minimum work input, so the irreversible single-stage compression requires the most ($d$ largest). Hence $d>c=a>b$.
 
-### C-CTH-21 · A — JEE Main 2025 · Apr session · Thermo set Q4 · Numerical
+### C-CTH-21 · B — JEE Main 2025 · Apr session · Thermo set Q4 · Numerical
 
 A perfect gas (0.1 mol) having $\bar C_v=1.50R$ (independent of temperature) undergoes the transformation shown in the figure from point 1 to point 4 (1→2 isochoric at 1000 cm$^3$ from 1 to 3 atm; 2→3 isobaric expansion at 3 atm to 2000 cm$^3$; 3→4 isochoric fall to 1 atm). If each step is reversible, the total work done ($w$) while going from point 1 to point 4 is ($-$) ______ J (nearest integer). [Given: $R=0.082$ L atm K$^{-1}$ mol$^{-1}$]
 
@@ -253,7 +253,7 @@ A perfect gas (0.1 mol) having $\bar C_v=1.50R$ (independent of temperature) und
 
 **Solution.** Work is done only in the isobaric step: $w=-P\Delta V=-3\ \text{atm}\times(2.000-1.000)\ \text{L}=-3$ L atm $=-3\times101.3=-304$ J (isochoric steps do no work). Magnitude: 304 J.
 
-### C-CTH-22 · A — JEE Main 2025 · Apr session · Thermo set Q6 · MCQ
+### C-CTH-22 · B — JEE Main 2025 · Apr session · Thermo set Q6 · MCQ
 
 Let us consider a reversible reaction at temperature $T$. In this reaction, both $\Delta H$ and $\Delta S$ were observed to have positive values. If the equilibrium temperature is $T_e$, then the reaction becomes spontaneous at:
 
@@ -263,7 +263,7 @@ Let us consider a reversible reaction at temperature $T$. In this reaction, both
 
 **Solution.** At $T_e$, $\Delta G=0$, so $T_e=\dfrac{\Delta H}{\Delta S}$. With $\Delta H,\Delta S>0$, $\Delta G=\Delta H-T\Delta S<0$ requires $T>T_e$.
 
-### C-CTH-23 · A — JEE Main 2025 · Apr session · Thermo set Q7 · Numerical
+### C-CTH-23 · B — JEE Main 2025 · Apr session · Thermo set Q7 · Numerical
 
 Given: $\Delta H^\ominus_{sub}$[C(graphite)] $=710$ kJ mol$^{-1}$; $\Delta_{C-H}H^\ominus=414$; $\Delta_{H-H}H^\ominus=436$; $\Delta_{C=C}H^\ominus=611$ kJ mol$^{-1}$. The $\Delta H_f^\ominus$ for CH$_2$=CH$_2$ is ______ kJ mol$^{-1}$ (nearest integer value).
 
@@ -271,7 +271,7 @@ Given: $\Delta H^\ominus_{sub}$[C(graphite)] $=710$ kJ mol$^{-1}$; $\Delta_{C-H}
 
 **Solution.** 2C(graphite) + 2H$_2$ → C$_2$H$_4$. Energy absorbed: atomise 2C: $2\times710=1420$; break 2 H–H: $2\times436=872$; total $2292$. Energy released forming 4 C–H and 1 C=C: $4\times414+611=2267$. $\Delta H_f=2292-2267=+25$ kJ mol$^{-1}$.
 
-### C-CTH-24 · A — JEE Main 2025 · Apr session · Thermo set Q8 · MCQ
+### C-CTH-24 · B — JEE Main 2025 · Apr session · Thermo set Q8 · MCQ
 
 Given below are two statements:
 
@@ -302,7 +302,7 @@ For a thermochemical reaction $\text{M}\to\text{N}$ at $T=400$ K, $\Delta H^\cir
 
 **Solution.** $\Delta G^\circ=\Delta H^\circ-T\Delta S^\circ=77200-400(122)=28400$ J. $\log K=-\dfrac{\Delta G^\circ}{2.303RT}=-\dfrac{28400}{2.303\times8.314\times400}\approx-3.7=-37\times10^{-1}$.
 
-### C-CTH-27 · B — JEE Main 2024 · 29 Jan Shift 1 · Q33 · MCQ
+### C-CTH-27 · C — JEE Main 2024 · 29 Jan Shift 1 · Q33 · MCQ
 
 Which of the following is **not** correct?
 
@@ -312,7 +312,7 @@ Which of the following is **not** correct?
 
 **Solution.** At constant $T,P$: $\Delta G<0$ spontaneous, $\Delta G=0$ equilibrium (reversible), $\Delta G>0$ non-spontaneous. So the statement that $\Delta G$ is positive for a spontaneous reaction is wrong.
 
-### C-CTH-28 · B — JEE Main 2024 · 29 Jan Shift 2 · Q54 · Numerical
+### C-CTH-28 · C — JEE Main 2024 · 29 Jan Shift 2 · Q54 · Numerical
 
 The standard enthalpy of vapourisation for $\text{CCl}_4$ is $30.5\ \text{kJ mol}^{-1}$. The heat required for vapourisation of $284$ g of $\text{CCl}_4$ at constant temperature is ______ kJ (nearest integer). (Molar masses: C = 12, Cl = 35.5)
 
@@ -320,7 +320,7 @@ The standard enthalpy of vapourisation for $\text{CCl}_4$ is $30.5\ \text{kJ mol
 
 **Solution.** $M(\text{CCl}_4)=12+4(35.5)=154$ g/mol. $n=\dfrac{284}{154}=1.844$ mol, so $q=1.844\times30.5=56.2\approx56$ kJ.
 
-### C-CTH-29 · B — JEE Main 2024 · 30 Jan Shift 2 · Q52 · Numerical
+### C-CTH-29 · C — JEE Main 2024 · 30 Jan Shift 2 · Q52 · Numerical
 
 Given $2\text{Fe}(s)+\tfrac32\text{O}_2(g)\to\text{Fe}_2\text{O}_3(s)$, $\Delta H^\circ=-822$ kJ/mol and $\text{C}(s)+\tfrac12\text{O}_2(g)\to\text{CO}(g)$, $\Delta H^\circ=-110$ kJ/mol, the enthalpy change (kJ) for $3\text{C}(s)+\text{Fe}_2\text{O}_3(s)\to2\text{Fe}(s)+3\text{CO}(g)$ is ______.
 
@@ -328,7 +328,7 @@ Given $2\text{Fe}(s)+\tfrac32\text{O}_2(g)\to\text{Fe}_2\text{O}_3(s)$, $\Delta 
 
 **Solution.** Hess's law: reverse the first reaction ($+822$) and add three times the second ($3\times-110=-330$): $\Delta H=822-330=+492$ kJ.
 
-### C-CTH-30 · B — JEE Main 2024 · 1 Feb Shift 1 · Q35 · MCQ
+### C-CTH-30 · C — JEE Main 2024 · 1 Feb Shift 1 · Q35 · MCQ
 
 Choose the correct option for free expansion of an ideal gas under adiabatic condition:
 
@@ -338,7 +338,7 @@ Choose the correct option for free expansion of an ideal gas under adiabatic con
 
 **Solution.** Adiabatic: $q=0$. Free expansion is against zero external pressure: $w=-p_{ext}\Delta V=0$. Then $\Delta U=q+w=0$, and for an ideal gas $U$ depends only on $T$, so $\Delta T=0$.
 
-### C-CTH-31 · B — JEE Main 2024 · 4 Apr Shift 1 · Q53 · Numerical
+### C-CTH-31 · C — JEE Main 2024 · 4 Apr Shift 1 · Q53 · Numerical
 
 For $\text{C}_2\text{H}_4+\text{H}_2\to\text{C}_2\text{H}_6$, the bond energies of C–H, C–C, C=C and H–H are $414$, $347$, $615$ and $435$ kJ mol$^{-1}$. The magnitude of the enthalpy change is ______ kJ.
 
@@ -346,7 +346,7 @@ For $\text{C}_2\text{H}_4+\text{H}_2\to\text{C}_2\text{H}_6$, the bond energies 
 
 **Solution.** Bonds broken: $\text{C=C}$ ($615$) + $\text{H-H}$ ($435$) $=1050$. Bonds formed: $\text{C-C}$ ($347$) + $2\,\text{C-H}$ ($828$) $=1175$. $\Delta H=1050-1175=-125$ kJ mol$^{-1}$; the value asked is $125$ kJ (exothermic).
 
-### C-CTH-32 · B — JEE Main 2024 · 4 Apr Shift 2 · Q53 · Numerical
+### C-CTH-32 · C — JEE Main 2024 · 4 Apr Shift 2 · Q53 · Numerical
 
 Three moles of an ideal gas are compressed isothermally from $60$ L to $20$ L using a constant external pressure of $5$ atm. The heat exchange $Q$ for the compression is $-$ ______ L atm.
 
@@ -354,7 +354,7 @@ Three moles of an ideal gas are compressed isothermally from $60$ L to $20$ L us
 
 **Solution.** $w=-p_{ext}\Delta V=-5(20-60)=+200$ L atm. Isothermal ideal gas: $\Delta U=0$, so $q=-w=-200$ L atm (heat is released).
 
-### C-CTH-33 · B — JEE Main 2024 · 5 Apr Shift 1 · Q35 · MCQ
+### C-CTH-33 · C — JEE Main 2024 · 5 Apr Shift 1 · Q35 · MCQ
 
 Assertion A: The enthalpy of neutralisation of a strong monobasic acid with a strong monoacidic base is always $-57\ \text{kJ mol}^{-1}$.  
 Reason R: Enthalpy of neutralisation is the heat liberated when one mole of $\text{H}^+$ furnished by an acid combines with one mole of $\text{OH}^-$ furnished by a base to form one mole of water.
@@ -365,7 +365,7 @@ Reason R: Enthalpy of neutralisation is the heat liberated when one mole of $\te
 
 **Solution.** For strong acid and strong base everything is fully ionised, and the net change is $\text{H}^++\text{OH}^-\to\text{H}_2\text{O}$ with $\Delta H\approx-57.3$ kJ mol$^{-1}$. R defines the quantity and thereby explains why it is constant.
 
-### C-CTH-34 · B — JEE Main 2024 · 9 Apr Shift 1 · Q53 · Numerical
+### C-CTH-34 · C — JEE Main 2024 · 9 Apr Shift 1 · Q53 · Numerical
 
 When equal volumes of $1$ M HCl and $1$ M $\text{H}_2\text{SO}_4$ are separately neutralised by excess $1$ M NaOH solution, $x$ and $y$ kJ of heat are liberated respectively. The value of $y/x$ is ______.
 

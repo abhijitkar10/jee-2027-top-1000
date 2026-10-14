@@ -119,7 +119,7 @@ An organic compound undergoes first-order decomposition. The times taken for its
 
 **Solution.** First order: $t=\dfrac1k\ln\dfrac{[\mathrm A]_0}{[\mathrm A]}$. $\dfrac{t_{1/8}}{t_{1/10}}=\dfrac{\ln8}{\ln10}=\dfrac{3\log2}{\log10}=3\times0.3=0.9$, so $0.9\times10=9$.
 
-### C-KIN-13 · A — JEE Main 2026 · 24 Jan Shift 1 · set Q13 · MCQ
+### C-KIN-13 · B — JEE Main 2026 · 24 Jan Shift 1 · set Q13 · MCQ
 
 At $27^\circ$C, in the presence of a catalyst, the activation energy of a reaction is lowered by $10$ kJ mol$^{-1}$. The logarithm of the ratio $\dfrac{k(\text{catalysed})}{k(\text{uncatalysed})}$ is ... (Consider that the frequency factor for both reactions is the same.)
 
@@ -129,7 +129,7 @@ At $27^\circ$C, in the presence of a catalyst, the activation energy of a reacti
 
 **Solution.** $\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=e^{\Delta E_a/RT}$, so $\log\dfrac{k_{\text{cat}}}{k_{\text{uncat}}}=\dfrac{\Delta E_a}{2.303RT}=\dfrac{10000}{2.303\times8.314\times300}=1.741$.
 
-### C-KIN-14 · A — JEE Main 2025 · Jan session · Kin set Q1 · MCQ
+### C-KIN-14 · B — JEE Main 2025 · Jan session · Kin set Q1 · MCQ
 
 Which of the following graphs most appropriately represents a zero order reaction?
 
@@ -147,7 +147,7 @@ Which of the following graphs most appropriately represents a zero order reactio
 
 **Solution.** For a zero-order reaction $-\dfrac{d[A]}{dt}=k$, so $[A]=[A]_0-kt$: concentration falls linearly with time (graph 1), while the rate stays constant (a horizontal line), so graphs (2), (3) and (4) are wrong.
 
-### C-KIN-15 · A — JEE Main 2025 · Jan session · Kin set Q2 · MCQ
+### C-KIN-15 · B — JEE Main 2025 · Jan session · Kin set Q2 · MCQ
 
 For bacterial growth in a cell culture, the growth law is very similar to the law of radioactive decay. Which of the following graphs is most suitable to represent bacterial colony growth? (N = number of bacteria at any time, $N_0$ = initial number of bacteria.)
 
@@ -163,7 +163,7 @@ For bacterial growth in a cell culture, the growth law is very similar to the la
 
 **Solution.** Growth follows first-order kinetics with a positive rate constant, $N=N_0e^{kt}$, so $N/N_0$ rises exponentially with time and the curve bends upward: graph (3).
 
-### C-KIN-16 · A — JEE Main 2025 · Jan session · Kin set Q3 · MCQ
+### C-KIN-16 · B — JEE Main 2025 · Jan session · Kin set Q3 · MCQ
 
 Consider an elementary reaction A(g) + B(g) → C(g) + D(g). If the volume of the reaction mixture is suddenly reduced to $\tfrac13$ of its initial volume, the reaction rate will become $x$ times the original rate. The value of $x$ is:
 
@@ -173,7 +173,7 @@ Consider an elementary reaction A(g) + B(g) → C(g) + D(g). If the volume of th
 
 **Solution.** Reducing the volume to one third triples each concentration. The rate law is $r=k[A][B]$ (elementary), so the rate becomes $3\times3=9$ times.
 
-### C-KIN-17 · A — JEE Main 2025 · Jan session · Kin set Q4 · MCQ
+### C-KIN-17 · B — JEE Main 2025 · Jan session · Kin set Q4 · MCQ
 
 Which of the following statements is not true for radioactive decay?
 
@@ -183,7 +183,7 @@ Which of the following statements is not true for radioactive decay?
 
 **Solution.** Radioactive decay is a nuclear process, unaffected by temperature, so (1) is false and (3) is true. After three half-lives $\left(\tfrac12\right)^3=\tfrac18$ remains (true), and $t_{1/2}=\dfrac{\ln2}{\lambda}$ (true). The statement that is not true is (1).
 
-### C-KIN-18 · A — JEE Main 2025 · Jan session · Kin set Q5 · Numerical
+### C-KIN-18 · B — JEE Main 2025 · Jan session · Kin set Q5 · Numerical
 
 The molecule A changes into its isomeric form B by following first-order kinetics at a temperature of 1000 K. If the energy barrier with respect to the reactant energy for such isomeric transformation is 191.48 kJ mol$^{-1}$ and the frequency factor is $10^{20}$, the time required for 50% of the molecules of A to become B is ______ picoseconds (nearest integer). [$R=8.314$ J K$^{-1}$ mol$^{-1}$]
 
@@ -191,7 +191,7 @@ The molecule A changes into its isomeric form B by following first-order kinetic
 
 **Solution.** $k=A\,e^{-E_a/RT}=10^{20}\,e^{-191480/8314}=10^{20}\,e^{-23.03}=10^{20}\times10^{-10}=10^{10}\ \text s^{-1}$. $t_{1/2}=\dfrac{0.693}{10^{10}}=6.93\times10^{-11}$ s $=69$ ps.
 
-### C-KIN-19 · A — JEE Main 2025 · Apr session · Kin set Q1 · MCQ
+### C-KIN-19 · B — JEE Main 2025 · Apr session · Kin set Q1 · MCQ
 
 The rate law for a reaction between A and B is given by $R=k[A]^n[B]^m$. If the concentration of A is doubled and the concentration of B is halved from their initial values, the ratio of the new rate of reaction to the initial rate of reaction $\left(\dfrac{r_2}{r_1}\right)$ is:
 
@@ -201,7 +201,7 @@ The rate law for a reaction between A and B is given by $R=k[A]^n[B]^m$. If the 
 
 **Solution.** $\dfrac{r_2}{r_1}=\dfrac{k(2[A])^n(\tfrac12[B])^m}{k[A]^n[B]^m}=2^n\cdot2^{-m}=2^{(n-m)}$.
 
-### C-KIN-20 · A — JEE Main 2025 · Apr session · Kin set Q2 · MCQ
+### C-KIN-20 · B — JEE Main 2025 · Apr session · Kin set Q2 · MCQ
 
 The reaction A(g) → 2B(g) + C(g) is a first-order reaction. It was started with pure A. The total pressure of the system was 160 mm Hg at $t=10$ min and 240 mm Hg at $t=\infty$. Which of the following options is incorrect?
 
@@ -211,7 +211,7 @@ The reaction A(g) → 2B(g) + C(g) is a first-order reaction. It was started wit
 
 **Solution.** Complete reaction triples the pressure: $P_\infty=3P_0=240\Rightarrow P_0=80$ mm Hg (1 true). At $t=10$: $P=80+2p=160\Rightarrow p=40$, so $P_A=80-40=40$ mm Hg (4 true), and the first-order reaction decays exponentially, never strictly completing (2 true). $k=\dfrac1{10}\ln\dfrac{80}{40}=0.0693$ min$^{-1}$, not 1.693 min$^{-1}$ — so (3) is incorrect.
 
-### C-KIN-21 · A — JEE Main 2025 · Apr session · Kin set Q4 · MCQ
+### C-KIN-21 · B — JEE Main 2025 · Apr session · Kin set Q4 · MCQ
 
 A(g) → B(g) + C(g) is a first-order reaction, with total pressure $P_t$ at time $t$ and $P_\infty$ at infinite time. The reaction was started with reactant A only. Which of the following expressions is correct for the rate constant $k$?
 
@@ -221,7 +221,7 @@ A(g) → B(g) + C(g) is a first-order reaction, with total pressure $P_t$ at tim
 
 **Solution.** $P_\infty=2P_0$, so $P_0=\dfrac{P_\infty}2$. At time $t$: $P_t=P_0+x$, and the pressure of A is $P_0-x=2P_0-P_t=P_\infty-P_t$. $k=\dfrac1t\ln\dfrac{P_0}{P_0-x}=\dfrac1t\ln\dfrac{P_\infty}{2(P_\infty-P_t)}$.
 
-### C-KIN-22 · A — JEE Main 2025 · Apr session · Kin set Q5 · Numerical
+### C-KIN-22 · B — JEE Main 2025 · Apr session · Kin set Q5 · Numerical
 
 For the reaction A → products, the plot of $t_{1/2}$ (min) against $[A]_0$ (mol L$^{-1}$) is a straight line through the origin with slope 76.92 (appropriate units), as shown. The concentration of A at 10 minutes is ______ $\times10^{-3}$ mol L$^{-1}$ (nearest integer). The reaction was started with 2.5 mol L$^{-1}$ of A.
 
@@ -231,7 +231,7 @@ For the reaction A → products, the plot of $t_{1/2}$ (min) against $[A]_0$ (mo
 
 **Solution.** $t_{1/2}\propto[A]_0$ means a zero-order reaction, with $t_{1/2}=\dfrac{[A]_0}{2k}$, so the slope is $\dfrac1{2k}=76.92\Rightarrow k=6.5\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. $[A]=2.5-kt=2.5-0.065=2.435$ mol L$^{-1}$ $=2435\times10^{-3}$.
 
-### C-KIN-23 · B — JEE Main 2024 · 27 Jan Shift 1 · Q59 · Numerical
+### C-KIN-23 · C — JEE Main 2024 · 27 Jan Shift 1 · Q59 · Numerical
 
 For $2\text{HI}(g)\to\text{H}_2(g)+\text{I}_2(g)$:
 
@@ -245,7 +245,7 @@ The order of the reaction is ______.
 
 **Solution.** Doubling $[\text{HI}]$ multiplies the rate by $3.0\times10^{-3}/7.5\times10^{-4}=4$ and then $1.2\times10^{-2}/3.0\times10^{-3}=4$. So $2^n=4$, $n=2$.
 
-### C-KIN-24 · B — JEE Main 2024 · 27 Jan Shift 2 · Q59 · Numerical
+### C-KIN-24 · C — JEE Main 2024 · 27 Jan Shift 2 · Q59 · Numerical
 
 The time required for $99.9\%$ completion of a first-order reaction is ______ times its half-life $t_{1/2}$.
 
@@ -253,7 +253,7 @@ The time required for $99.9\%$ completion of a first-order reaction is ______ ti
 
 **Solution.** $t=\dfrac{2.303}k\log\dfrac{100}{0.1}=\dfrac{2.303\times3}k$ and $t_{1/2}=\dfrac{0.693}k$. Ratio $=\dfrac{6.909}{0.693}\approx9.97\approx10$.
 
-### C-KIN-25 · B — JEE Main 2024 · 29 Jan Shift 1 · Q59 · Numerical
+### C-KIN-25 · C — JEE Main 2024 · 29 Jan Shift 1 · Q59 · Numerical
 
 For a reaction taking place in three steps at the same temperature, the overall rate constant is $K=\dfrac{K_1K_2}{K_3}$. If $E_{a1},E_{a2}$ and $E_{a3}$ are $40,50$ and $60$ kJ/mol respectively, the overall $E_a$ is ______ kJ/mol.
 
@@ -261,7 +261,7 @@ For a reaction taking place in three steps at the same temperature, the overall 
 
 **Solution.** From the Arrhenius equation $K=Ae^{-E_a/RT}$, the exponents add for products and subtract for quotients: $E_a=E_{a1}+E_{a2}-E_{a3}=40+50-60=30$ kJ/mol.
 
-### C-KIN-26 · B — JEE Main 2024 · 29 Jan Shift 2 · Q59 · Numerical
+### C-KIN-26 · C — JEE Main 2024 · 29 Jan Shift 2 · Q59 · Numerical
 
 The half-life of radioisotopic bromine-82 is $36$ hours. The fraction which remains after one day is ______ $\times10^{-2}$. (Given antilog $0.2006=1.587$; round off to the nearest integer.)
 
@@ -269,7 +269,7 @@ The half-life of radioisotopic bromine-82 is $36$ hours. The fraction which rema
 
 **Solution.** $\dfrac N{N_0}=\left(\tfrac12\right)^{24/36}=2^{-2/3}$. $\log2^{-2/3}=-\tfrac23(0.3010)=-0.2006$, so $\dfrac N{N_0}=\dfrac1{1.587}=0.63=63\times10^{-2}$.
 
-### C-KIN-27 · B — JEE Main 2024 · 30 Jan Shift 1 · Q59 · Numerical
+### C-KIN-27 · C — JEE Main 2024 · 30 Jan Shift 1 · Q59 · Numerical
 
 The rate of a first-order reaction is $0.04\ \text{mol L}^{-1}\text{s}^{-1}$ at $10$ minutes and $0.03\ \text{mol L}^{-1}\text{s}^{-1}$ at $20$ minutes after initiation. The half-life of the reaction is ______ minutes. (Given $\log2=0.3010$, $\log3=0.4771$; round off to the nearest integer.)
 
@@ -277,7 +277,7 @@ The rate of a first-order reaction is $0.04\ \text{mol L}^{-1}\text{s}^{-1}$ at 
 
 **Solution.** For first order the rate is proportional to concentration, so $\dfrac{r_1}{r_2}=e^{k(t_2-t_1)}$: $k=\dfrac{2.303}{10}\log\dfrac{0.04}{0.03}=\dfrac{2.303}{10}\left(2\log2-\log3\right)=\dfrac{2.303}{10}(0.1249)=0.02877\ \text{min}^{-1}$. $t_{1/2}=\dfrac{0.693}{0.02877}=24.1\approx24$ min.
 
-### C-KIN-28 · B — JEE Main 2024 · 30 Jan Shift 2 · Q56 · Numerical
+### C-KIN-28 · C — JEE Main 2024 · 30 Jan Shift 2 · Q56 · Numerical
 
 $\text{NO}_2$ is produced by the decomposition of $\text{N}_2\text{O}_5$ in $\text{CCl}_4$: $2\text{N}_2\text{O}_5(g)\to4\text{NO}_2(g)+\text{O}_2(g)$. The initial concentration of $\text{N}_2\text{O}_5$ is $3$ mol L$^{-1}$ and it is $2.75$ mol L$^{-1}$ after $30$ minutes. The rate of formation of $\text{NO}_2$ is $x\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. The value of $x$ is ______.
 
@@ -285,7 +285,7 @@ $\text{NO}_2$ is produced by the decomposition of $\text{N}_2\text{O}_5$ in $\te
 
 **Solution.** Rate of disappearance of $\text{N}_2\text{O}_5=\dfrac{3-2.75}{30}=8.33\times10^{-3}$ mol L$^{-1}$ min$^{-1}$. From the stoichiometry, $\dfrac{d[\text{NO}_2]}{dt}=\dfrac42\times8.33\times10^{-3}=16.7\times10^{-3}\approx17\times10^{-3}$.
 
-### C-KIN-29 · B — JEE Main 2024 · 31 Jan Shift 1 · Q43 · MCQ
+### C-KIN-29 · C — JEE Main 2024 · 31 Jan Shift 1 · Q43 · MCQ
 
 For a first-order gas-phase reaction $\text{A}(g)\to\text{B}(g)+\text{C}(g)$, where $P_i$ is the initial pressure and $P_t$ is the total pressure at time $t$, the integrated rate law is
 
@@ -295,7 +295,7 @@ For a first-order gas-phase reaction $\text{A}(g)\to\text{B}(g)+\text{C}(g)$, wh
 
 **Solution.** If $x$ atm of A reacts, $P_A=P_i-x$ and $P_t=(P_i-x)+x+x=P_i+x$, so $x=P_t-P_i$ and $P_A=2P_i-P_t$. First order: $k=\dfrac{2.303}t\log\dfrac{P_i}{P_A}=\dfrac{2.303}t\log\dfrac{P_i}{2P_i-P_t}$.
 
-### C-KIN-30 · B — JEE Main 2024 · 8 Apr Shift 1 · Q43 · MCQ
+### C-KIN-30 · C — JEE Main 2024 · 8 Apr Shift 1 · Q43 · MCQ
 
 $\text{Fe}^{3+}$ catalyses the reaction between iodide and persulphate ions. A. $\text{Fe}^{3+}$ oxidises the iodide ion; B. $\text{Fe}^{3+}$ oxidises the persulphate ion; C. $\text{Fe}^{2+}$ reduces the iodide ion; D. $\text{Fe}^{2+}$ reduces the persulphate ion.
 

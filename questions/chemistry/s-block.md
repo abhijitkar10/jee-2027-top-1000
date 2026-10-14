@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/s-block.md](../../theory/chemistry/s-block.md)
 
-### C-SBL-01 · C — JEE Main 2023 · 24 Jan Shift 1 · Q35 · MCQ
+### C-SBL-01 · A — JEE Main 2023 · 24 Jan Shift 1 · Q35 · MCQ
 
 The reaction of BeO with ammonia and hydrogen fluoride gives A, which on thermal decomposition gives $\text{BeF}_2$ and $\text{NH}_4\text{F}$. A is:
 
@@ -12,7 +12,7 @@ The reaction of BeO with ammonia and hydrogen fluoride gives A, which on thermal
 
 **Solution.** Industrial preparation of $\text{BeF}_2$: $\text{BeO}+4\text{HF}+2\text{NH}_3\to(\text{NH}_4)_2\text{BeF}_4+\text{H}_2\text{O}$, and heating gives $(\text{NH}_4)_2\text{BeF}_4\xrightarrow{\Delta}\text{BeF}_2+2\text{NH}_4\text{F}$. (Be$^{2+}$ forms the tetrahedral $[\text{BeF}_4]^{2-}$.)
 
-### C-SBL-02 · C — JEE Main 2023 · 24 Jan Shift 1 · sBlock set Q2 · MCQ
+### C-SBL-02 · A — JEE Main 2023 · 24 Jan Shift 1 · sBlock set Q2 · MCQ
 
 Match List I with List II.
 
@@ -29,7 +29,7 @@ Match List I with List II.
 
 **Solution.** Chlorophyll contains Mg$^{2+}$ (III); soda ash is Na$_2$CO$_3$ (I); plaster of Paris/CaSO$_4$ is used in dentistry and ornamental work (II); slaked lime Ca(OH)$_2$ is used in white washing (IV).
 
-### C-SBL-03 · C — JEE Main 2023 · 25 Jan Shift 1 · sBlock set Q4 · MCQ
+### C-SBL-03 · A — JEE Main 2023 · 25 Jan Shift 1 · sBlock set Q4 · MCQ
 
 Compound A reacts with NH$_4$Cl and forms a compound B. Compound B reacts with H$_2$O and excess of CO$_2$ to form compound C, which on passing through, or reaction with, saturated NaCl solution forms sodium hydrogen carbonate. Compounds A, B and C are respectively:
 
@@ -39,7 +39,7 @@ Compound A reacts with NH$_4$Cl and forms a compound B. Compound B reacts with H
 
 **Solution.** This is the Solvay process. Ca(OH)$_2$ + 2NH$_4$Cl → 2NH$_3$ + CaCl$_2$ + 2H$_2$O (A = Ca(OH)$_2$, B = NH$_3$); NH$_3$ + H$_2$O + CO$_2$ → NH$_4$HCO$_3$ (C); NH$_4$HCO$_3$ + NaCl → NaHCO$_3$↓ + NH$_4$Cl.
 
-### C-SBL-04 · C — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q8 · MCQ
+### C-SBL-04 · B — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q8 · MCQ
 
 The correct order of hydration enthalpies is:
 
@@ -53,7 +53,7 @@ Choose the correct answer from the options given below:
 
 **Solution.** Hydration enthalpy increases with ionic charge and with decreasing ionic size. The divalent ions come first: Mg$^{2+}$ > Ca$^{2+}$ (C > E). Among the alkali ions K$^+$ > Rb$^+$ > Cs$^+$ (A > B > D). The order is C > E > A > B > D.
 
-### C-SBL-05 · C — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q9 · MCQ
+### C-SBL-05 · B — JEE Main 2023 · 29 Jan Shift 1 · sBlock set Q9 · MCQ
 
 The magnetic behaviour of Li$_2$O, Na$_2$O$_2$ and KO$_2$, respectively, are:
 

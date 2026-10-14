@@ -2,12 +2,13 @@
 """Trim every chapter to its quota and assign tiers.  Dry run by default; --apply rewrites the files.
 
 Selection per chapter (quota from chapters.py):
-  1. JEE Advanced and pre-2024 entries are always kept (they are rare and fill syllabus gaps).
+  1. JEE Advanced, pre-2024 entries and the 2024 figure questions ("Fig set") are always kept (rare, and they fill syllabus/figure gaps).
   2. The rest is filled from JEE Main 2026, 2025 and 2024 in the ratio 4 : 3 : 2.5, drawing round-robin
      across exam sessions so that one paper does not dominate a chapter.  A pool that runs out hands
      its share to the others.
-Tier (per subject): score = 0.55 * chapter weight percentile + 0.45 * recency.
-  top 40 % of the subject -> A, next 35 % -> B, the rest -> C.
+Tier (within each chapter): ranked by recency (JEE Advanced counts as 0.8); top 40 % -> A, next 35 % -> B,
+  the rest -> C.  Chapters themselves are scheduled in order of weight (see plan.py), so priority is
+  chapter weight first, then tier.
 """
 import re, sys, json, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
@@ -45,9 +46,10 @@ def round_robin(items):
 
 
 def choose(entries, quota):
-    forced = [e for e in entries if e["exam"] == "JEE Advanced" or e["year"] in ("2023", "2022")]
+    forced = [e for e in entries if e["exam"] == "JEE Advanced" or e["year"] in ("2023", "2022") or (e["year"] == "2024" and " Fig set " in e["text"].splitlines()[0])]
     forced = forced[:quota]
-    pools = {y: round_robin([e for e in entries if e["exam"] == "JEE Main" and e["year"] == y]) for y in WEIGHT}
+    fid = {id(e) for e in forced}
+    pools = {y: round_robin([e for e in entries if e["exam"] == "JEE Main" and e["year"] == y and id(e) not in fid]) for y in WEIGHT}
     picked = {y: [] for y in WEIGHT}
     credit = {y: 0.0 for y in WEIGHT}
     need = quota - len(forced)
@@ -77,13 +79,14 @@ def main():
                 rec = 0.8 if e["exam"] == "JEE Advanced" else RECENCY.get(e["year"], 0.4)
                 e["score"] = 0.55 * pct + 0.45 * rec
             sel[(subject, slug)] = (f, head, entries, chosen)
-    # tiers per subject
-    for subject in SUBJECTS:
-        allc = [e for (s, _), (_, _, _, ch) in sel.items() if s == subject for e in ch]
-        allc.sort(key=lambda e: -e["score"])
-        n = len(allc)
-        for i, e in enumerate(allc):
-            e["tier"] = "A" if i < 0.40 * n else "B" if i < 0.75 * n else "C"
+    # tiers per chapter: the most recent / most valuable 40 % -> A, next 35 % -> B, rest -> C
+    import math
+    for (subject, slug), (f, head, entries, chosen) in sel.items():
+        ranked = sorted(chosen, key=lambda e: (-e["score"], e["order"]))
+        n = len(ranked)
+        na = math.ceil(0.40 * n); nb = round(0.35 * n)
+        for i, e in enumerate(ranked):
+            e["tier"] = "A" if i < na else "B" if i < na + nb else "C"
     summary = collections.Counter()
     for (subject, slug), (f, head, entries, chosen) in sel.items():
         for e in chosen:

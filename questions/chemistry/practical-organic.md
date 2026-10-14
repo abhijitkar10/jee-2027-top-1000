@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/practical-organic.md](../../theory/chemistry/practical-organic.md)
 
-### C-PRO-01 · C — JEE Main 2026 · 23 Jan Shift 1 · Analysis set Q4 · MCQ
+### C-PRO-01 · A — JEE Main 2026 · 23 Jan Shift 1 · Analysis set Q4 · MCQ
 
 Given below are two statements:
 
@@ -15,7 +15,7 @@ Statement II: The boiling point of a liquid increases as the external pressure i
 
 **Solution.** Sublimation purifies solids that pass directly into vapour on heating (e.g. naphthalene, camphor, benzoic acid) – not compounds characterised by a low melting point; I false. A liquid boils when its vapour pressure equals the external pressure, so *lowering* the external pressure *lowers* the boiling point (the basis of distillation under reduced pressure); II false.
 
-### C-PRO-02 · C — JEE Main 2026 · 24 Jan Shift 2 · Analysis set Q8 · Numerical
+### C-PRO-02 · A — JEE Main 2026 · 24 Jan Shift 2 · Analysis set Q8 · Numerical
 
 0.25 g of an organic compound A containing carbon, hydrogen and oxygen was analysed by the combustion method. The mass of the $\mathrm{CaCl_2}$ tube and the potash tube increased by 0.15 g and 0.1837 g, respectively. The percentage of oxygen in compound A is ______ % (nearest integer). (Molar mass in g mol$^{-1}$: H 1, C 12, O 16)
 
@@ -23,7 +23,7 @@ Statement II: The boiling point of a liquid increases as the external pressure i
 
 **Solution.** $\mathrm{H_2O}=0.15$ g gives $\mathrm H=\dfrac{2}{18}\times0.15=0.01667$ g (6.67%); $\mathrm{CO_2}=0.1837$ g gives $\mathrm C=\dfrac{12}{44}\times0.1837=0.0501$ g (20.04%). $\%\mathrm O=100-20.04-6.67=73.3\approx73$.
 
-### C-PRO-03 · C — JEE Main 2026 · 22 Jan Shift 2 · Analysis set Q10 · MCQ
+### C-PRO-03 · A — JEE Main 2026 · 22 Jan Shift 2 · Analysis set Q10 · MCQ
 
 When 1 g of compound X is subjected to Kjeldahl's method for estimation of nitrogen, 15 mL of 1 M $\mathrm{H_2SO_4}$ was neutralised by the ammonia evolved. The percentage of nitrogen in compound X is:
 
@@ -33,7 +33,7 @@ When 1 g of compound X is subjected to Kjeldahl's method for estimation of nitro
 
 **Solution.** $\mathrm{2NH_3+H_2SO_4\to(NH_4)_2SO_4}$: moles of $\mathrm{H_2SO_4}=0.015$, moles of $\mathrm{NH_3}=0.030$, so N $=0.030\times14=0.42$ g in 1 g: **42%**.
 
-### C-PRO-04 · C — JEE Main 2026 · 22 Jan Shift 1 · Analysis set Q11 · Numerical
+### C-PRO-04 · A — JEE Main 2026 · 22 Jan Shift 1 · Analysis set Q11 · Numerical
 
 The sodium fusion extract of an organic compound Y with $\mathrm{CHCl_3}$ and chlorine water gives a violet colour to the $\mathrm{CHCl_3}$ layer. 0.15 g of Y gave 0.12 g of the silver halide precipitate in the Carius method. The percentage of halogen in compound Y is ______ % (nearest integer). (Given: molar mass in g mol$^{-1}$: C 12, H 1, Cl 35.5, Br 80, I 127)
 
@@ -41,7 +41,7 @@ The sodium fusion extract of an organic compound Y with $\mathrm{CHCl_3}$ and ch
 
 **Solution.** A violet $\mathrm{CHCl_3}$ layer with $\mathrm{Cl_2}$ water indicates iodine, so the precipitate is AgI ($M=108+127=235$). $\%\mathrm I=\dfrac{127}{235}\times\dfrac{0.12}{0.15}\times100=43.2\approx43$.
 
-### C-PRO-05 · C — JEE Main 2026 · 23 Jan Shift 2 · Analysis set Q12 · MCQ
+### C-PRO-05 · B — JEE Main 2026 · 23 Jan Shift 2 · Analysis set Q12 · MCQ
 
 In the Carius method 0.2425 g of an organic compound gave 0.5253 g of silver chloride. The percentage of chlorine in the organic compound is:
 
@@ -51,7 +51,7 @@ In the Carius method 0.2425 g of an organic compound gave 0.5253 g of silver chl
 
 **Solution.** $\%\mathrm{Cl}=\dfrac{35.5}{143.5}\times\dfrac{0.5253}{0.2425}\times100=53.58\%$.
 
-### C-PRO-06 · C — JEE Main 2024 · 27 Jan Shift 2 · Q36 · MCQ
+### C-PRO-06 · B — JEE Main 2024 · 27 Jan Shift 2 · Q36 · MCQ
 
 The technique used for purification of a steam-volatile, water-immiscible substance is
 
@@ -61,7 +61,7 @@ The technique used for purification of a steam-volatile, water-immiscible substa
 
 **Solution.** In steam distillation the liquid boils when the sum of its vapour pressure and that of water equals atmospheric pressure, so it distils below $100^\circ$C without decomposition. Fractional distillation separates miscible liquids with close boiling points; reduced pressure is for substances that decompose near their boiling points.
 
-### C-PRO-07 · C — JEE Main 2024 · 30 Jan Shift 1 · Q49 · MCQ
+### C-PRO-07 · B — JEE Main 2024 · 30 Jan Shift 1 · Q49 · MCQ
 
 The Lassaigne's extract is boiled with dil. $\text{HNO}_3$ before testing for halogens because
 

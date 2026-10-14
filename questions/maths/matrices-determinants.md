@@ -74,7 +74,7 @@ For some $\alpha,\beta\in\mathbb R$, let $A=\begin{bmatrix}\alpha&2\\1&2\end{bma
 
 **Solution.** By Cayley–Hamilton $A^2-(\alpha+2)A+(2\alpha-2)I=O$; comparing with $A^2-4A+2I=O$ gives $\alpha=2$. Similarly $B^2-(1+\beta)B+(\beta-1)I=O$ gives $\beta=2$. $A^2=\begin{bmatrix}6&8\\4&6\end{bmatrix}$, $A^3=\begin{bmatrix}20&28\\14&20\end{bmatrix}$; $B^2=\begin{bmatrix}2&3\\3&5\end{bmatrix}$, $B^3=\begin{bmatrix}5&8\\8&13\end{bmatrix}$. $A^3-B^3=\begin{bmatrix}15&20\\6&7\end{bmatrix}$ with $\det=105-120=-15$. For a $2\times2$ matrix $\det(\operatorname{adj}M)=\det M$, so the answer is $(-15)^2=225$.
 
-### M-MAT-09 · A — JEE Advanced 2025 · Paper 1 · Q4 · MCQ
+### M-MAT-09 · B — JEE Advanced 2025 · Paper 1 · Q4 · MCQ
 
 Let $P=\begin{pmatrix}2&0&0\\0&2&0\\0&0&3\end{pmatrix}$. The number of $3\times3$ invertible matrices $Q$ with integer entries such that $Q^{-1}=Q^T$ and $PQ=QP$ is
 
@@ -84,7 +84,7 @@ Let $P=\begin{pmatrix}2&0&0\\0&2&0\\0&0&3\end{pmatrix}$. The number of $3\times3
 
 **Solution.** An integer matrix with $Q^TQ=I$ has orthonormal integer columns, so each column is $\pm e_i$: $Q$ is a signed permutation matrix. $PQ=QP$ means $Q$ preserves the eigenspaces of $P$ ($\text{span}\{e_1,e_2\}$ for $2$ and $\text{span}\{e_3\}$ for $3$), so $Q=\text{diag}(B,\pm1)$ with $B$ a $2\times2$ signed permutation matrix. There are $2!\cdot2^2=8$ such $B$ and $2$ signs for the last entry: $8\times2=16$.
 
-### M-MAT-10 · A — JEE Main 2025 · Jan session · set Q1 · MCQ
+### M-MAT-10 · B — JEE Main 2025 · Jan session · set Q1 · MCQ
 
 Let $A=[a_{ij}]$ be a $3\times3$ matrix such that $A\begin{bmatrix}0\\1\\0\end{bmatrix}=\begin{bmatrix}0\\0\\1\end{bmatrix}$, $A\begin{bmatrix}4\\1\\3\end{bmatrix}=\begin{bmatrix}0\\1\\0\end{bmatrix}$ and $A\begin{bmatrix}2\\1\\2\end{bmatrix}=\begin{bmatrix}1\\0\\0\end{bmatrix}$. Then $a_{23}$ equals:
 
@@ -94,7 +94,7 @@ Let $A=[a_{ij}]$ be a $3\times3$ matrix such that $A\begin{bmatrix}0\\1\\0\end{b
 
 **Solution.** Let $C_1,C_2,C_3$ be the columns of $A$. The first relation gives $C_2=(0,0,1)^T$. Then $4C_1+3C_3=(0,1,-1)^T$ and $2C_1+2C_3=(1,0,-1)^T$, so $C_1+C_3=\left(\tfrac12,0,-\tfrac12\right)$. Hence $C_3=(2,0,-2)^T-(0,1,-1)^T=(2,-1,-1)^T$, and $a_{23}$ is the second entry of $C_3$: $-1$.
 
-### M-MAT-11 · A — JEE Main 2025 · Jan session · set Q2 · MCQ
+### M-MAT-11 · B — JEE Main 2025 · Jan session · set Q2 · MCQ
 
 Let $A=[a_{ij}]$ be a matrix of order $3\times3$ with $a_{ij}=(\sqrt2)^{i+j}$. If the sum of all the elements in the third row of $A^2$ is $\alpha+\beta\sqrt2$, $\alpha,\beta\in\mathbb Z$, then $\alpha+\beta$ is equal to:
 
@@ -104,7 +104,7 @@ Let $A=[a_{ij}]$ be a matrix of order $3\times3$ with $a_{ij}=(\sqrt2)^{i+j}$. I
 
 **Solution.** $a_{ij}=u_iu_j$ with $u_i=(\sqrt2)^i=(\sqrt2,2,2\sqrt2)$, so $A=uu^T$ and $A^2=(u^Tu)\,uu^T=14\,uu^T$. The third-row sum is $14\,u_3\sum_ju_j=14\cdot2\sqrt2\,(3\sqrt2+2)=168+56\sqrt2$. So $\alpha+\beta=224$.
 
-### M-MAT-12 · A — JEE Main 2025 · Jan session · set Q3 · MCQ
+### M-MAT-12 · B — JEE Main 2025 · Jan session · set Q3 · MCQ
 
 For a $3\times3$ matrix $M$, let $\operatorname{trace}(M)$ denote the sum of all the diagonal elements of $M$. Let $A$ be a $3\times3$ matrix such that $|A|=\tfrac12$ and $\operatorname{trace}(A)=3$. If $B=\operatorname{adj}(\operatorname{adj}(2A))$, then the value of $|B|+\operatorname{trace}(B)$ equals:
 
@@ -114,7 +114,7 @@ For a $3\times3$ matrix $M$, let $\operatorname{trace}(M)$ denote the sum of all
 
 **Solution.** For a $3\times3$ matrix $\operatorname{adj}(\operatorname{adj}M)=|M|^{n-2}M=|M|\,M$. With $M=2A$: $|2A|=8\cdot\tfrac12=4$, so $B=4\cdot2A=8A$. $|B|=8^3\cdot\tfrac12=256$ and $\operatorname{trace}(B)=8\cdot3=24$. Sum $=280$.
 
-### M-MAT-13 · A — JEE Main 2025 · Apr session · set Q2 · Numerical
+### M-MAT-13 · B — JEE Main 2025 · Apr session · set Q2 · Numerical
 
 The number of singular matrices of order 2, whose elements are from the set $\{2,3,6,9\}$, is ______.
 
@@ -122,7 +122,7 @@ The number of singular matrices of order 2, whose elements are from the set $\{2
 
 **Solution.** Singular means $ad=bc$. Count ordered pairs from the set by their product: 4 (1 way), 6 (2), 9 (1), 12 (2), 18 (4: (2,9),(9,2),(3,6),(6,3)), 27 (2), 36 (1), 54 (2), 81 (1). The number of matrices with $ad=bc$ is $\sum(\text{count})^2=1+4+1+4+16+4+1+4+1=36$.
 
-### M-MAT-14 · A — JEE Main 2025 · Apr session · set Q3 · MCQ
+### M-MAT-14 · B — JEE Main 2025 · Apr session · set Q3 · MCQ
 
 Let $A=\begin{bmatrix}\alpha&-1\\6&\beta\end{bmatrix}$, $\alpha>0$, such that $\det(A)=0$ and $\alpha+\beta=1$. If $I$ denotes the $2\times2$ identity matrix, then the matrix $(I+A)^8$ is:
 
@@ -132,7 +132,7 @@ Let $A=\begin{bmatrix}\alpha&-1\\6&\beta\end{bmatrix}$, $\alpha>0$, such that $\
 
 **Solution.** $\alpha\beta+6=0$ and $\alpha+\beta=1$ give $\alpha=3$, $\beta=-2$. The matrix has trace 1 and determinant 0, so $A^2=A$ and $A^k=A$. $(I+A)^8=I+(2^8-1)A=I+255A=\begin{bmatrix}766&-255\\1530&-509\end{bmatrix}$.
 
-### M-MAT-15 · A — JEE Main 2025 · Apr session · set Q4 · MCQ
+### M-MAT-15 · B — JEE Main 2025 · Apr session · set Q4 · MCQ
 
 Let $\alpha$ be a solution of $x^2+x+1=0$, and for some $a$ and $b$ in $\mathbb R$, $[4\ \ a\ \ b]\begin{bmatrix}1&16&13\\-1&-1&2\\-2&-14&-8\end{bmatrix}=[0\ \ 0\ \ 0]$. If $\dfrac4{\alpha^4}+\dfrac m{\alpha^a}+\dfrac n{\alpha^b}=3$, then $m+n$ is equal to:
 
@@ -142,7 +142,7 @@ Let $\alpha$ be a solution of $x^2+x+1=0$, and for some $a$ and $b$ in $\mathbb 
 
 **Solution.** The three column equations: $4-a-2b=0$, $64-a-14b=0$, $52+2a-8b=0$. The first two give $b=5$, $a=-6$ (the third checks). With $\alpha=\omega$ ($\alpha^3=1$, $1+\alpha+\alpha^2=0$): $\alpha^4=\alpha$, $\alpha^{a}=\alpha^{-6}=1$, $\alpha^b=\alpha^5=\alpha^2$. The equation becomes $4\alpha^2+m+n\alpha=3$, i.e. $-4\alpha-4+m+n\alpha=3$, so $n=4$, $m=7$ and $m+n=11$.
 
-### M-MAT-16 · B — JEE Main 2024 · 27 Jan Shift 1 · Q72 · MCQ
+### M-MAT-16 · C — JEE Main 2024 · 27 Jan Shift 1 · Q72 · MCQ
 
 Consider $f(x)=\begin{pmatrix}\cos x&-\sin x&0\\\sin x&\cos x&0\\0&0&1\end{pmatrix}$.  
 Statement I: $f(-x)$ is the inverse of $f(x)$.  
@@ -154,7 +154,7 @@ Statement II: $f(x)f(y)=f(x+y)$.
 
 **Solution.** $f(x)$ is a rotation about the $z$-axis. Multiplying gives $f(x)f(y)=f(x+y)$ (angle addition), so II is true. Taking $y=-x$: $f(x)f(-x)=f(0)=I$, so I is true.
 
-### M-MAT-17 · B — JEE Main 2024 · 27 Jan Shift 2 · Q86 · Numerical
+### M-MAT-17 · C — JEE Main 2024 · 27 Jan Shift 2 · Q86 · Numerical
 
 Let $A$ be a $2\times2$ real matrix and $I$ the identity matrix of order $2$. If the roots of $|A-xI|=0$ are $-1$ and $3$, then the sum of the diagonal elements of $A^2$ is ______.
 
@@ -162,7 +162,7 @@ Let $A$ be a $2\times2$ real matrix and $I$ the identity matrix of order $2$. If
 
 **Solution.** The roots of $|A-xI|=0$ are the eigenvalues $\lambda_1=-1,\lambda_2=3$. $A^2$ has eigenvalues $\lambda_i^2$, so $\text{tr}(A^2)=1+9=10$.
 
-### M-MAT-18 · B — JEE Main 2024 · 29 Jan Shift 1 · Q69 · MCQ
+### M-MAT-18 · C — JEE Main 2024 · 29 Jan Shift 1 · Q69 · MCQ
 
 Let $A=\begin{pmatrix}1&0&0\\0&\alpha&\beta\\0&\beta&\alpha\end{pmatrix}$ and $|2A|^3=2^{21}$, where $\alpha,\beta\in\mathbb Z$. A value of $\alpha$ is
 
@@ -172,7 +172,7 @@ Let $A=\begin{pmatrix}1&0&0\\0&\alpha&\beta\\0&\beta&\alpha\end{pmatrix}$ and $|
 
 **Solution.** $|2A|=2^3|A|$, so $2^9|A|^3=2^{21}\Rightarrow|A|^3=2^{12}\Rightarrow|A|=16$. $|A|=\alpha^2-\beta^2=16\Rightarrow(\alpha-\beta)(\alpha+\beta)=16$. Integer solutions include $\alpha=5,\beta=3$ ($25-9=16$). $\alpha=3,9,17$ would need $\beta^2=-7,65,273$, none a perfect square.
 
-### M-MAT-19 · B — JEE Main 2024 · 29 Jan Shift 2 · Q70 · MCQ
+### M-MAT-19 · C — JEE Main 2024 · 29 Jan Shift 2 · Q70 · MCQ
 
 Let $A=\begin{pmatrix}2&1&2\\6&2&11\\3&3&2\end{pmatrix}$ and $P=\begin{pmatrix}1&2&0\\5&0&2\\7&1&5\end{pmatrix}$. The sum of the prime factors of $\left|P^{-1}AP-2I\right|$ is
 
@@ -182,7 +182,7 @@ Let $A=\begin{pmatrix}2&1&2\\6&2&11\\3&3&2\end{pmatrix}$ and $P=\begin{pmatrix}1
 
 **Solution.** $P^{-1}AP-2I=P^{-1}(A-2I)P$, so its determinant equals $|A-2I|$. $A-2I=\begin{pmatrix}0&1&2\\6&0&11\\3&3&0\end{pmatrix}$, with determinant $0-1(0-33)+2(18-0)=33+36=69=3\times23$. Sum of prime factors $=3+23=26$.
 
-### M-MAT-20 · B — JEE Main 2024 · 30 Jan Shift 1 · Q70 · MCQ
+### M-MAT-20 · C — JEE Main 2024 · 30 Jan Shift 1 · Q70 · MCQ
 
 If $f(x)=\begin{vmatrix}2\cos^4x&2\sin^4x&3+\sin^22x\\3+2\cos^4x&2\sin^4x&\sin^22x\\2\cos^4x&3+2\sin^4x&\sin^22x\end{vmatrix}$, then $\dfrac15f'(0)$ is equal to
 

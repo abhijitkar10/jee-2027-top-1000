@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/gravitation.md](../../theory/physics/gravitation.md)
 
-### P-GRV-01 · C — JEE Main 2026 · 22 Jan Shift 2 · set Q1 · MCQ
+### P-GRV-01 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q1 · MCQ
 
 Given below are two statements:  
 **Statement I:** A satellite is moving around the earth in an orbit very close to the earth's surface. The time period of revolution of the satellite depends upon the density of the earth.  
@@ -14,7 +14,7 @@ Given below are two statements:
 
 **Solution.** With $g=\dfrac{GM}{R_e^2}=\dfrac{4\pi G\rho R_e}{3}$, the period $T=2\pi\sqrt{\dfrac{R_e}{g}}=\sqrt{\dfrac{3\pi}{G\rho}}$, which depends only on the density $\rho$. Both statements are true.
 
-### P-GRV-02 · C — JEE Main 2026 · 22 Jan Shift 1 · set Q2 · MCQ
+### P-GRV-02 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q2 · MCQ
 
 The escape velocity from a spherical planet $A$ is $10$ km/s. The escape velocity from another planet $B$ whose density and radius are $10\%$ of those of planet $A$ is ______ m/s.
 
@@ -24,7 +24,7 @@ The escape velocity from a spherical planet $A$ is $10$ km/s. The escape velocit
 
 **Solution.** $v_e=\sqrt{\dfrac{2GM}{R}}=R\sqrt{\dfrac{8\pi G\rho}{3}}\propto R\sqrt\rho$. So $\dfrac{v_B}{v_A}=0.1\sqrt{0.1}=\dfrac{1}{10\sqrt{10}}$ and $v_B=10^4\times\dfrac{1}{10\sqrt{10}}=\dfrac{1000}{\sqrt{10}}=100\sqrt{10}$ m/s.
 
-### P-GRV-03 · C — JEE Main 2026 · 22 Jan Shift 1 · set Q3 · MCQ
+### P-GRV-03 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q3 · MCQ
 
 The net gravitational force at the centre of a square is found to be $F_1$ when four particles of masses $M,2M,3M$ and $4M$ are placed at the four corners of the square as shown in the figure, and it is $F_2$ when the positions of $3M$ and $4M$ are interchanged. The ratio $\dfrac{F_1}{F_2}$ is $\dfrac{\alpha}{\sqrt5}$. The value of $\alpha$ is ______.
 
@@ -36,7 +36,7 @@ The net gravitational force at the centre of a square is found to be $F_1$ when 
 
 **Solution.** Let $k=\dfrac{G}{r^2}\cdot\dfrac1{\sqrt2}$ ($r$ = distance from the centre to a corner); resolve each pull along $x,y$. Original: $g_x=k(-4M+3M-M+2M)=0$, $g_y=k(4M+3M-M-2M)=4kM$, so $F_1=4kM$. After swapping $3M\leftrightarrow4M$: $g_x=k(-3M+4M-M+2M)=2kM$, $g_y=k(3M+4M-M-2M)=4kM$, so $F_2=kM\sqrt{4+16}=2\sqrt5\,kM$. Then $\dfrac{F_1}{F_2}=\dfrac{2}{\sqrt5}$ and $\alpha=2$.
 
-### P-GRV-04 · C — JEE Main 2026 · 21 Jan Shift 1 · set Q4 · MCQ
+### P-GRV-04 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q4 · MCQ
 
 Initially a satellite of $100$ kg is in a circular orbit of radius $1.5R_E$. This satellite can be moved to a circular orbit of radius $3R_E$ by supplying $\alpha\times10^6$ J of energy. The value of $\alpha$ is ______. (Take the radius of the earth $R_E=6\times10^6$ m and $g=10\ \text{m/s}^2$)
 
@@ -46,7 +46,7 @@ Initially a satellite of $100$ kg is in a circular orbit of radius $1.5R_E$. Thi
 
 **Solution.** Total energy in a circular orbit $E=-\dfrac{GMm}{2r}=-\dfrac{gR_E^2m}{2r}$. $E_1=-\dfrac{gR_Em}{3}$ and $E_2=-\dfrac{gR_Em}{6}$. Energy supplied $=E_2-E_1=\dfrac{gR_Em}{6}=\dfrac{10\times6\times10^6\times100}{6}=10^9\ \text{J}=1000\times10^6$ J, so $\alpha=1000$.
 
-### P-GRV-05 · C — JEE Main 2026 · 24 Jan Shift 1 · set Q5 · MCQ
+### P-GRV-05 · A — JEE Main 2026 · 24 Jan Shift 1 · set Q5 · MCQ
 
 Three masses $200$ kg, $300$ kg and $400$ kg are placed at the vertices of an equilateral triangle of side $20$ m. They are rearranged on the vertices of a bigger triangle of side $25$ m with the same centre. The work done in this process is ______ J. (Gravitational constant $G=6.7\times10^{-11}\ \text{N m}^2/\text{kg}^2$)
 
@@ -56,7 +56,7 @@ Three masses $200$ kg, $300$ kg and $400$ kg are placed at the vertices of an eq
 
 **Solution.** $U=-G\dfrac{m_1m_2+m_2m_3+m_1m_3}{r}$ with $\sum m_im_j=200\cdot300+300\cdot400+200\cdot400=260000$. $W=U_f-U_i=260000\,G\left(\dfrac1{20}-\dfrac1{25}\right)=260000\times6.7\times10^{-11}\times0.01=1.74\times10^{-7}$ J.
 
-### P-GRV-06 · C — JEE Main 2025 · Jan session · Grav set Q1 · MCQ
+### P-GRV-06 · A — JEE Main 2025 · Jan session · Grav set Q1 · MCQ
 
 The Earth has a mass 8 times and a radius 2 times that of a planet. If the escape velocity from the Earth is 11.2 km/s, the escape velocity (in km/s) from the planet will be:
 
@@ -66,7 +66,7 @@ The Earth has a mass 8 times and a radius 2 times that of a planet. If the escap
 
 **Solution.** $v_e=\sqrt{\dfrac{2GM}R}\propto\sqrt{\dfrac MR}$. For the planet $M_p=\dfrac M8$ and $R_p=\dfrac R2$: $v_p=v_e\sqrt{\dfrac{1/8}{1/2}}=\dfrac{v_e}2=5.6$ km/s.
 
-### P-GRV-07 · C — JEE Main 2025 · Jan session · Grav set Q3 · MCQ
+### P-GRV-07 · B — JEE Main 2025 · Jan session · Grav set Q3 · MCQ
 
 A satellite is launched into a circular orbit of radius $R$ around the Earth. A second satellite is launched into an orbit of radius $1.03R$. The time period of revolution of the second satellite is larger than the first one approximately by:
 
@@ -76,7 +76,7 @@ A satellite is launched into a circular orbit of radius $R$ around the Earth. A 
 
 **Solution.** Kepler's third law: $T\propto r^{3/2}$. $\dfrac{T_2}{T_1}=(1.03)^{3/2}\approx1+\dfrac32(0.03)=1.045$, i.e. about 4.5% larger.
 
-### P-GRV-08 · C — JEE Main 2025 · Jan session · Grav set Q5 · Numerical
+### P-GRV-08 · B — JEE Main 2025 · Jan session · Grav set Q5 · Numerical
 
 Two planets $A$ and $B$ are orbiting a common star in circular orbits of radii $R_A$ and $R_B$ respectively, with $R_B=2R_A$. Planet $B$ is $4\sqrt2$ times more massive than planet $A$. The ratio $\left(\dfrac{L_B}{L_A}\right)$ of the angular momentum ($L_B$) of planet $B$ to that of planet $A$ ($L_A$) is closest to the integer ______.
 
@@ -84,7 +84,7 @@ Two planets $A$ and $B$ are orbiting a common star in circular orbits of radii $
 
 **Solution.** For a circular orbit $v=\sqrt{\dfrac{GM_s}r}$, so $L=mvr=m\sqrt{GM_s\,r}$. $\dfrac{L_B}{L_A}=\dfrac{m_B}{m_A}\sqrt{\dfrac{R_B}{R_A}}=4\sqrt2\cdot\sqrt2=8$.
 
-### P-GRV-09 · C — JEE Main 2025 · Apr session · Grav set Q2 · Numerical
+### P-GRV-09 · B — JEE Main 2025 · Apr session · Grav set Q2 · Numerical
 
 Three identical spheres of mass $m$ are placed at the vertices of an equilateral triangle of side $a$. When released, they interact only through the gravitational force and collide after a time $T=4$ s. If the sides of the triangle are increased to $2a$ and the masses of the spheres are also made $2m$, then they will collide after ______ seconds.
 
@@ -92,7 +92,7 @@ Three identical spheres of mass $m$ are placed at the vertices of an equilateral
 
 **Solution.** The motion depends only on $G$, $m$ and $a$; by dimensional analysis (or from $\ddot r\sim\dfrac{Gm}{a^2}$ acting over a distance $\sim a$) the collision time scales as $T\propto\sqrt{\dfrac{a^3}{Gm}}$. With $a\to2a$ and $m\to2m$: $T'=T\sqrt{\dfrac{2^3}{2}}=2T=8$ s.
 
-### P-GRV-10 · C — JEE Main 2025 · Apr session · Grav set Q5 · MCQ
+### P-GRV-10 · B — JEE Main 2025 · Apr session · Grav set Q5 · MCQ
 
 An object is kept at rest at a distance of $3R$ above the Earth's surface, where $R$ is the Earth's radius. The minimum speed with which it must be projected so that it does not return to the Earth is: (Assume $M$ = mass of the Earth, $G$ = universal gravitational constant)
 
@@ -102,7 +102,7 @@ An object is kept at rest at a distance of $3R$ above the Earth's surface, where
 
 **Solution.** The object is at distance $r=R+3R=4R$ from the centre. Not returning means reaching infinity with zero speed at best: $\tfrac12v^2=\dfrac{GM}{4R}\Rightarrow v=\sqrt{\dfrac{GM}{2R}}$ (the escape speed at $r=4R$).
 
-### P-GRV-11 · C — JEE Main 2024 · 27 Jan Shift 1 · Q6 · MCQ
+### P-GRV-11 · B — JEE Main 2024 · 27 Jan Shift 1 · Q6 · MCQ
 
 The acceleration due to gravity on the surface of the earth is $g$. If the diameter of the earth reduces to half of its original value and its mass remains constant, the acceleration due to gravity on the surface becomes
 

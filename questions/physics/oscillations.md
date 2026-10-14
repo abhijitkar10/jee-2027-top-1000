@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/oscillations.md](../../theory/physics/oscillations.md)
 
-### P-SHM-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### P-SHM-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 The kinetic energy of a simple harmonic oscillator oscillates with an angular frequency of $176$ rad/s. The frequency of this simple harmonic oscillator is ______ Hz. (take $\pi=\tfrac{22}{7}$)
 
@@ -12,7 +12,7 @@ The kinetic energy of a simple harmonic oscillator oscillates with an angular fr
 
 **Solution.** The kinetic energy $\propto\cos^2(\omega t+\phi)$ oscillates at twice the SHM angular frequency, so $\omega=\dfrac{176}{2}=88$ rad/s and $f=\dfrac{\omega}{2\pi}=\dfrac{88}{2\times22/7}=14$ Hz.
 
-### P-SHM-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### P-SHM-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 Two blocks of masses $100$ g and $200$ g are attached to the ends of springs $A$ and $B$ as shown in the figure. The energy stored in $A$ is $E$. The energy stored in $B$, when the spring constants $k_A$ and $k_B$ of $A$ and $B$ respectively satisfy $4k_A=3k_B$, is:
 
@@ -26,7 +26,7 @@ Two blocks of masses $100$ g and $200$ g are attached to the ends of springs $A$
 
 **Solution.** At equilibrium the extension is $x=\dfrac{mg}{k}$, so the stored energy is $\tfrac12kx^2=\dfrac{(mg)^2}{2k}$. $\dfrac{U_B}{E}=\left(\dfrac{m_B}{m_A}\right)^2\dfrac{k_A}{k_B}=4\times\dfrac34=3$, so $U_B=3E$.
 
-### P-SHM-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
+### P-SHM-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q4 · MCQ
 
 The time period of a simple harmonic oscillator is $T=2\pi\sqrt{\dfrac mk}$. The measured value of the mass $m$ of the object is $10$ g with an accuracy of $10$ mg, and the time for $50$ oscillations of the spring is found to be $60$ s using a watch of $2$ s resolution. The percentage error in the determination of the spring constant $k$ is ______ %.
 
@@ -36,7 +36,7 @@ The time period of a simple harmonic oscillator is $T=2\pi\sqrt{\dfrac mk}$. The
 
 **Solution.** $k=\dfrac{4\pi^2m}{T^2}$, so $\dfrac{\Delta k}{k}=\dfrac{\Delta m}{m}+2\dfrac{\Delta T}{T}$. $\dfrac{\Delta m}{m}=\dfrac{0.01}{10}=0.001$ and $\dfrac{\Delta T}{T}=\dfrac{\Delta t}{t}=\dfrac{2}{60}$. So $\dfrac{\Delta k}{k}=0.001+\dfrac{2}{30}=0.0677$, i.e. $\approx6.76\%$.
 
-### P-SHM-04 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+### P-SHM-04 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
 
 In a simple pendulum experiment $g$ is determined by measuring the time period $T$. Which of the following plots represents the correct relation between the pendulum length $L$ and the time period $T$?
 
@@ -53,7 +53,7 @@ In a simple pendulum experiment $g$ is determined by measuring the time period $
 
 **Solution.** $T=2\pi\sqrt{L/g}\Rightarrow\dfrac1{T^2}=\dfrac{g}{4\pi^2}\cdot\dfrac1L$, which is a rectangular hyperbola: $1/T^2$ falls steeply and then flattens as $L$ increases, without touching the axes. This is graph (2).
 
-### P-SHM-05 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · Numerical
+### P-SHM-05 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · Numerical
 
 The displacement of a particle executing simple harmonic motion with time period $T$ is expressed as $x(t)=A\sin\omega t$, where $A$ is the amplitude. The maximum value of the potential energy of this oscillator is found at $t=\dfrac{T}{2\beta}$. The value of $\beta$ is ______.
 
@@ -61,7 +61,7 @@ The displacement of a particle executing simple harmonic motion with time period
 
 **Solution.** $U=\tfrac12m\omega^2A^2\sin^2\omega t$ is maximum when $\sin^2\omega t=1$, first at $\omega t=\dfrac\pi2$, i.e. $t=\dfrac T4=\dfrac{T}{2\beta}$, so $\beta=2$.
 
-### P-SHM-06 · B — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
+### P-SHM-06 · A — JEE Main 2026 · 24 Jan Shift 1 · set Q8 · MCQ
 
 A cylindrical block of mass $M$ and area of cross-section $A$ is floating in a liquid of density $\rho$ with its axis vertical. When depressed a little and released, the block starts oscillating. The period of oscillation is ______.
 
@@ -71,17 +71,7 @@ A cylindrical block of mass $M$ and area of cross-section $A$ is floating in a l
 
 **Solution.** For a downward displacement $x$ the extra buoyant force is $\rho Agx$ (restoring), so $M\ddot x=-\rho Agx$, $\omega^2=\dfrac{\rho Ag}{M}$ and $T=2\pi\sqrt{\dfrac{M}{\rho Ag}}$.
 
-### P-SHM-07 · C — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
-
-The centre of a disk of radius $r$ and mass $m$ is attached to a spring of constant $k$ inside a ring of radius $R>r$; the other end of the spring is fixed on the periphery of the ring. Both are in the same vertical plane, the disk rolls without slipping along the inside of the ring, and at equilibrium the disk is at the bottom. For small displacements the period of oscillation of the centre of mass is $T=\dfrac{2\pi}{\omega}$. $\omega=$
-
-(A) $\sqrt{\dfrac23\left(\dfrac g{R-r}+\dfrac km\right)}$  (B) $\sqrt{\dfrac{2g}{3(R-r)}}+\dfrac km$  (C) $\sqrt{\dfrac16\left(\dfrac g{R-r}+\dfrac km\right)}$  (D) $\sqrt{\dfrac14\left(\dfrac g{R-r}+\dfrac km\right)}$
-
-**Answer: (A)** · official key ✔ (re-derived)
-
-**Solution.** Let the centre swing through angle $\theta$ about the ring centre: speed $v=(R-r)\dot\theta$. Rolling without slipping: $\omega_{disk}=\dfrac{v}{r}$. $KE=\tfrac12mv^2+\tfrac12\left(\tfrac12mr^2\right)\dfrac{v^2}{r^2}=\tfrac34mv^2=\tfrac34m(R-r)^2\dot\theta^2$. For small $\theta$: $PE=\tfrac12mg(R-r)\theta^2+\tfrac12k\left[(R-r)\theta\right]^2$. Then $\omega^2=\dfrac{mg(R-r)+k(R-r)^2}{\tfrac32m(R-r)^2}=\dfrac23\left(\dfrac{g}{R-r}+\dfrac km\right)$.
-
-### P-SHM-08 · C — JEE Main 2025 · Jan session · SHM set Q2 · MCQ
+### P-SHM-07 · A — JEE Main 2025 · Jan session · SHM set Q2 · MCQ
 
 Two bodies $A$ and $B$ of equal mass are suspended from two massless springs of spring constants $k_1$ and $k_2$ respectively. If the bodies oscillate vertically such that their amplitudes are equal, the ratio of the maximum velocity of $A$ to the maximum velocity of $B$ is:
 
@@ -91,7 +81,17 @@ Two bodies $A$ and $B$ of equal mass are suspended from two massless springs of 
 
 **Solution.** $v_{max}=A\omega=A\sqrt{\dfrac km}$. For equal $A$ and $m$: $\dfrac{v_A}{v_B}=\sqrt{\dfrac{k_1}{k_2}}$.
 
-### P-SHM-09 · C — JEE Main 2025 · Jan session · SHM set Q5 · MCQ
+### P-SHM-08 · B — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
+
+The centre of a disk of radius $r$ and mass $m$ is attached to a spring of constant $k$ inside a ring of radius $R>r$; the other end of the spring is fixed on the periphery of the ring. Both are in the same vertical plane, the disk rolls without slipping along the inside of the ring, and at equilibrium the disk is at the bottom. For small displacements the period of oscillation of the centre of mass is $T=\dfrac{2\pi}{\omega}$. $\omega=$
+
+(A) $\sqrt{\dfrac23\left(\dfrac g{R-r}+\dfrac km\right)}$  (B) $\sqrt{\dfrac{2g}{3(R-r)}}+\dfrac km$  (C) $\sqrt{\dfrac16\left(\dfrac g{R-r}+\dfrac km\right)}$  (D) $\sqrt{\dfrac14\left(\dfrac g{R-r}+\dfrac km\right)}$
+
+**Answer: (A)** · official key ✔ (re-derived)
+
+**Solution.** Let the centre swing through angle $\theta$ about the ring centre: speed $v=(R-r)\dot\theta$. Rolling without slipping: $\omega_{disk}=\dfrac{v}{r}$. $KE=\tfrac12mv^2+\tfrac12\left(\tfrac12mr^2\right)\dfrac{v^2}{r^2}=\tfrac34mv^2=\tfrac34m(R-r)^2\dot\theta^2$. For small $\theta$: $PE=\tfrac12mg(R-r)\theta^2+\tfrac12k\left[(R-r)\theta\right]^2$. Then $\omega^2=\dfrac{mg(R-r)+k(R-r)^2}{\tfrac32m(R-r)^2}=\dfrac23\left(\dfrac{g}{R-r}+\dfrac km\right)$.
+
+### P-SHM-09 · B — JEE Main 2025 · Jan session · SHM set Q5 · MCQ
 
 A light hollow cube of side length 10 cm and mass 10 g is floating in water. It is pushed down and released to execute simple harmonic oscillations. The time period of oscillations is $y\pi\times10^{-2}$ s, where the value of $y$ is (acceleration due to gravity $g=10$ m/s$^2$, density of water $=10^3$ kg/m$^3$):
 
@@ -101,7 +101,7 @@ A light hollow cube of side length 10 cm and mass 10 g is floating in water. It 
 
 **Solution.** Displacing the cube down by $x$ increases the buoyant force by $\rho A g\,x$, so $m\ddot x=-\rho Ag\,x$ and $T=2\pi\sqrt{\dfrac m{\rho Ag}}=2\pi\sqrt{\dfrac{0.01}{10^3\times0.01\times10}}=2\pi\times10^{-2}$ s. So $y=2$.
 
-### P-SHM-10 · C — JEE Main 2025 · Apr session · SHM set Q1 · MCQ
+### P-SHM-10 · B — JEE Main 2025 · Apr session · SHM set Q1 · MCQ
 
 A particle is subjected to two simple harmonic motions: $x_1=\sqrt7\sin5t$ cm and $x_2=2\sqrt7\sin\left(5t+\dfrac\pi3\right)$ cm, where $x$ is displacement and $t$ is time in seconds. The maximum acceleration of the particle is $x\times10^{-2}\ \text{m s}^{-2}$. The value of $x$ is:
 
@@ -111,7 +111,7 @@ A particle is subjected to two simple harmonic motions: $x_1=\sqrt7\sin5t$ cm an
 
 **Solution.** The resultant amplitude is $A=\sqrt{A_1^2+A_2^2+2A_1A_2\cos\dfrac\pi3}=\sqrt{7+28+14}=7$ cm. Maximum acceleration $=\omega^2A=25\times7=175\ \text{cm/s}^2=175\times10^{-2}\ \text{m/s}^2$, so $x=175$.
 
-### P-SHM-11 · C — JEE Main 2025 · Apr session · SHM set Q2 · MCQ
+### P-SHM-11 · B — JEE Main 2025 · Apr session · SHM set Q2 · MCQ
 
 Two simple pendulums having lengths $l_1$ and $l_2$ with negligible string mass undergo angular displacements $\theta_1$ and $\theta_2$ from their mean positions respectively. If the angular accelerations of both pendulums are the same, then which expression is correct?
 
@@ -121,7 +121,7 @@ Two simple pendulums having lengths $l_1$ and $l_2$ with negligible string mass 
 
 **Solution.** For small angles $\alpha=-\dfrac gl\,\theta$. Equal angular accelerations give $\dfrac{\theta_1}{l_1}=\dfrac{\theta_2}{l_2}$, i.e. $\theta_1l_2=\theta_2l_1$.
 
-### P-SHM-12 · C — JEE Main 2024 · 27 Jan Shift 1 · Q24 · Numerical
+### P-SHM-12 · B — JEE Main 2024 · 27 Jan Shift 1 · Q24 · Numerical
 
 A particle executes SHM with amplitude $4$ cm. At the mean position its velocity is $10\ \text{cm s}^{-1}$. The distance of the particle from the mean position when its speed becomes $5\ \text{cm s}^{-1}$ is $\sqrt\alpha$ cm. Find $\alpha$.
 
@@ -129,7 +129,7 @@ A particle executes SHM with amplitude $4$ cm. At the mean position its velocity
 
 **Solution.** $v_{\max}=A\omega\Rightarrow\omega=10/4=2.5$ s$^{-1}$. From $v=\omega\sqrt{A^2-x^2}$: $5=2.5\sqrt{16-x^2}\Rightarrow16-x^2=4\Rightarrow x^2=12$, so $\alpha=12$.
 
-### P-SHM-13 · C — JEE Main 2024 · 29 Jan Shift 1 · Q24 · Numerical
+### P-SHM-13 · B — JEE Main 2024 · 29 Jan Shift 1 · Q24 · Numerical
 
 When the displacement of a simple harmonic oscillator is one third of its amplitude, the ratio of total energy to kinetic energy is $\dfrac x8$. Find $x$.
 

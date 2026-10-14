@@ -110,7 +110,7 @@ The integral $\displaystyle\int_0^\pi\dfrac{(x+3)\sin x}{1+3\cos^2x}dx$ is equal
 
 **Solution.** Let $J=\int_0^\pi\dfrac{\sin x}{1+3\cos^2x}dx=\int_{-1}^1\dfrac{du}{1+3u^2}=\dfrac{2}{\sqrt3}\tan^{-1}\sqrt3=\dfrac{2\pi}{3\sqrt3}$. The $x\sin x$ part: $\int_0^\pi xf=\dfrac\pi2J=\dfrac{\pi^2}{3\sqrt3}$ (property $x\to\pi-x$). Total $=\dfrac{\pi^2}{3\sqrt3}+3J=\dfrac{\pi^2}{3\sqrt3}+\dfrac{2\pi}{\sqrt3}=\dfrac\pi{3\sqrt3}(\pi+6)$.
 
-### M-DEF-12 · B — JEE Main 2024 · 27 Jan Shift 1 · Q75 · MCQ
+### M-DEF-12 · C — JEE Main 2024 · 27 Jan Shift 1 · Q75 · MCQ
 
 If $\displaystyle\int_0^1\frac{dx}{\sqrt{3+x}+\sqrt{1+x}}=a+b\sqrt2+c\sqrt3$, where $a,b,c$ are rational, then $2a+3b-4c$ is equal to
 
@@ -120,7 +120,7 @@ If $\displaystyle\int_0^1\frac{dx}{\sqrt{3+x}+\sqrt{1+x}}=a+b\sqrt2+c\sqrt3$, wh
 
 **Solution.** Rationalise: $\dfrac1{\sqrt{3+x}+\sqrt{1+x}}=\dfrac{\sqrt{3+x}-\sqrt{1+x}}2$. So the integral is $\tfrac12\cdot\tfrac23\big[(3+x)^{3/2}-(1+x)^{3/2}\big]_0^1=\tfrac13\big[(8-2\sqrt2)-(3\sqrt3-1)\big]=3-\tfrac23\sqrt2-\sqrt3$. Thus $a=3,\ b=-\tfrac23,\ c=-1$ and $2a+3b-4c=6-2+4=8$.
 
-### M-DEF-13 · B — JEE Main 2024 · 30 Jan Shift 1 · Q74 · MCQ
+### M-DEF-13 · C — JEE Main 2024 · 30 Jan Shift 1 · Q74 · MCQ
 
 The value of $\displaystyle\lim_{n\to\infty}\sum_{k=1}^n\frac{n^3}{(n^2+k^2)(n^2+3k^2)}$ is
 
@@ -130,7 +130,7 @@ The value of $\displaystyle\lim_{n\to\infty}\sum_{k=1}^n\frac{n^3}{(n^2+k^2)(n^2
 
 **Solution.** Dividing by $n^4$: the sum is $\sum\dfrac1n\cdot\dfrac1{(1+(k/n)^2)(1+3(k/n)^2)}\to\int_0^1\dfrac{dx}{(1+x^2)(1+3x^2)}$. Partial fractions: $\dfrac1{(1+x^2)(1+3x^2)}=\dfrac{3/2}{1+3x^2}-\dfrac{1/2}{1+x^2}$. Integral $=\dfrac{3}{2\sqrt3}\tan^{-1}\sqrt3-\dfrac12\cdot\dfrac\pi4=\dfrac{\sqrt3}2\cdot\dfrac\pi3-\dfrac\pi8=\dfrac{(4\sqrt3-3)\pi}{24}$. Rationalising: $\dfrac{(4\sqrt3-3)(4\sqrt3+3)\pi}{24(4\sqrt3+3)}=\dfrac{39\pi}{24(4\sqrt3+3)}=\dfrac{13\pi}{8(4\sqrt3+3)}$.
 
-### M-DEF-14 · B — JEE Main 2024 · 30 Jan Shift 2 · Q75 · MCQ
+### M-DEF-14 · C — JEE Main 2024 · 30 Jan Shift 2 · Q75 · MCQ
 
 Let $y=f(x)$ be a thrice differentiable function in $(-5,5)$. The tangents to the curve at $(1,f(1))$ and $(3,f(3))$ make angles $\dfrac\pi6$ and $\dfrac\pi4$ with the positive $x$-axis respectively. If $27\displaystyle\int_1^3\left((f'(t))^2+1\right)f''(t)\,dt=\alpha+\beta\sqrt3$, where $\alpha,\beta$ are integers, then $\alpha+\beta$ equals
 
@@ -140,7 +140,7 @@ Let $y=f(x)$ be a thrice differentiable function in $(-5,5)$. The tangents to th
 
 **Solution.** $f'(1)=\tan\tfrac\pi6=\tfrac1{\sqrt3}$ and $f'(3)=\tan\tfrac\pi4=1$. With $u=f'(t)$: $\int(u^2+1)du=\tfrac{u^3}3+u$. Evaluated from $\tfrac1{\sqrt3}$ to $1$: $\tfrac43-\left(\tfrac1{9\sqrt3}+\tfrac1{\sqrt3}\right)=\tfrac43-\tfrac{10}{9\sqrt3}=\tfrac43-\tfrac{10\sqrt3}{27}$. Times $27$: $36-10\sqrt3$, so $\alpha=36,\ \beta=-10$ and $\alpha+\beta=26$.
 
-### M-DEF-15 · B — JEE Main 2024 · 1 Feb Shift 2 · Q74 · MCQ
+### M-DEF-15 · C — JEE Main 2024 · 1 Feb Shift 2 · Q74 · MCQ
 
 The value of $\displaystyle\int_0^1\left(2x^3-3x^2-x+1\right)^{1/3}dx$ is:
 

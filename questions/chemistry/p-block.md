@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/p-block.md](../../theory/chemistry/p-block.md)
 
-### C-PBL-01 · B — JEE Main 2026 · 23 Jan Shift 1 · G13-14 set Q1 · MCQ
+### C-PBL-01 · A — JEE Main 2026 · 23 Jan Shift 1 · G13-14 set Q1 · MCQ
 
 The correct statements from the following are:  
 A. The ionic radii of the trivalent cations of group 13 elements decrease down the group.  
@@ -16,7 +16,7 @@ D. The trichlorides and triiodides of group 13 elements are covalent in nature.
 
 **Solution.** A is false: ionic radii increase down the group. B is false: electronegativity is not a regular decrease (Ga is more electronegative than Al; it rises from In to Tl). C is true (B is the smallest). D is true (high charge density of $M^{3+}$ and polarisable halides give covalent halides). So C and D.
 
-### C-PBL-02 · B — JEE Main 2026 · 28 Jan Shift 2 · G13-14 set Q2 · MCQ
+### C-PBL-02 · A — JEE Main 2026 · 28 Jan Shift 2 · G13-14 set Q2 · MCQ
 
 Consider the following reactions:  
 $\text{Na}_2\text{B}_4\text{O}_7\xrightarrow{\Delta}2X+Y$  
@@ -30,7 +30,7 @@ The oxidation states of Cu in $Z$ and $Q$ respectively are:
 
 **Solution.** This is the borax-bead test. Borax gives $X=\text{NaBO}_2$ and $Y=\text{B}_2\text{O}_3$. In the oxidising (non-luminous) flame $\text{CuSO}_4+\text{B}_2\text{O}_3\to Z=\text{Cu(BO}_2)_2$ ($\text{Cu}^{2+}$, blue bead). In the reducing (luminous) flame with carbon, $2\text{Cu(BO}_2)_2+2\text{NaBO}_2+\text{C}\to2\text{CuBO}_2+\text{Na}_2\text{B}_4\text{O}_7+\text{CO}$, so $Q=\text{CuBO}_2$ ($\text{Cu}^+$). Oxidation states: $+2$ and $+1$.
 
-### C-PBL-03 · B — JEE Main 2026 · 22 Jan Shift 2 · G13-14 set Q3 · MCQ
+### C-PBL-03 · A — JEE Main 2026 · 22 Jan Shift 2 · G13-14 set Q3 · MCQ
 
 Given below are two statements:  
 **Statement I:** Elements X and Y are the most and the least electronegative elements, respectively, among N, As, Sb and P. The nature of the oxides $\text{X}_2\text{O}_3$ and $\text{Y}_2\text{O}_3$ is acidic and amphoteric, respectively.  
@@ -42,7 +42,7 @@ Given below are two statements:
 
 **Solution.** I is true: $X=\text{N}$, $Y=\text{Sb}$; $\text{N}_2\text{O}_3$ is acidic and $\text{Sb}_2\text{O}_3$ is amphoteric. II is false: $\text{BCl}_3$ is covalent and hydrolyses to $\text{B(OH)}_3$ ($\text{H}_3\text{BO}_3$) and $\text{HCl}$; $[\text{B(H}_2\text{O)}_6]^{3+}$ is not formed.
 
-### C-PBL-04 · B — JEE Main 2026 · 23 Jan Shift 2 · G13-14 set Q4 · MCQ
+### C-PBL-04 · A — JEE Main 2026 · 23 Jan Shift 2 · G13-14 set Q4 · MCQ
 
 It is noticed that $\text{Pb}^{2+}$ is more stable than $\text{Pb}^{4+}$ but $\text{Sn}^{2+}$ is less stable than $\text{Sn}^{4+}$. Observe the following reactions: $\text{PbO}_2+\text{Pb}\to2\text{PbO};\ \Delta_rG^\circ(1)$ and $\text{SnO}_2+\text{Sn}\to2\text{SnO};\ \Delta_rG^\circ(2)$. Identify the correct set from the following:
 
@@ -52,7 +52,7 @@ It is noticed that $\text{Pb}^{2+}$ is more stable than $\text{Pb}^{4+}$ but $\t
 
 **Solution.** Inert-pair effect: $\text{Pb}^{2+}$ is the stable state, so $\text{PbO}_2+\text{Pb}\to2\text{PbO}$ is spontaneous ($\Delta_rG^\circ(1)<0$). For tin $\text{Sn}^{4+}$ is the stable state, so $\text{SnO}_2+\text{Sn}\to2\text{SnO}$ is non-spontaneous ($\Delta_rG^\circ(2)>0$).
 
-### C-PBL-05 · B — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q5 · MCQ
+### C-PBL-05 · A — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q5 · MCQ
 
 Consider the following reactions: $\text{PbCl}_2+\text{K}_2\text{CrO}_4\to A+2\text{KCl}$ (hot solution); $A+\text{NaOH}\rightleftharpoons B+\text{Na}_2\text{CrO}_4$; $\text{PbSO}_4+4\text{CH}_3\text{COONH}_4\to(\text{NH}_4)_2\text{SO}_4+X$. In the above reactions, $A$, $B$ and $X$ are respectively:
 
@@ -62,7 +62,7 @@ Consider the following reactions: $\text{PbCl}_2+\text{K}_2\text{CrO}_4\to A+2\t
 
 **Solution.** Lead chromate precipitates: $A=\text{PbCrO}_4$ (yellow). It dissolves in NaOH as the plumbate: $B=\text{Na}_2[\text{Pb(OH)}_4]$. $\text{PbSO}_4$ dissolves in ammonium acetate through the acetato complex: $X=(\text{NH}_4)_2[\text{Pb(CH}_3\text{COO)}_4]$.
 
-### C-PBL-06 · B — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q6 · MCQ
+### C-PBL-06 · A — JEE Main 2026 · 21 Jan Shift 1 · G13-14 set Q6 · MCQ
 
 Given below are two statements:  
 **Statement I:** The number of pairs among $[\text{SiO}_2,\text{CO}_2]$, $[\text{SnO},\text{SnO}_2]$, $[\text{PbO},\text{PbO}_2]$ and $[\text{GeO},\text{GeO}_2]$ which contain oxides that are both amphoteric is 2.  
@@ -74,7 +74,7 @@ Given below are two statements:
 
 **Solution.** $\text{SiO}_2$ and $\text{CO}_2$ are acidic; $\text{SnO}/\text{SnO}_2$ and $\text{PbO}/\text{PbO}_2$ are both amphoteric pairs; per the key the count is two, so I is true. II is true: $\text{BF}_3$ has only 6 electrons around B, accepts a lone pair from $\text{NH}_3$ ($\text{F}_3\text{B}\leftarrow\text{NH}_3$) and is trigonal planar ($sp^2$).
 
-### C-PBL-07 · B — JEE Main 2026 · 28 Jan Shift 2 · G15-18 set Q1 · MCQ
+### C-PBL-07 · A — JEE Main 2026 · 28 Jan Shift 2 · G15-18 set Q1 · MCQ
 
 Given below are two statements:  
 **Statement I:** The increasing order of boiling points of the hydrogen halides is $\text{HCl}<\text{HBr}<\text{HI}<\text{HF}$.  
@@ -86,7 +86,7 @@ Given below are two statements:
 
 **Solution.** Boiling points: $\text{HF}$ is highest because of hydrogen bonding; the rest rise with size/van der Waals forces, giving $\text{HCl}<\text{HBr}<\text{HI}<\text{HF}$ (I true). Melting points: $\text{HCl}\,(-114^\circ\text{C})<\text{HBr}\,(-87)<\text{HF}\,(-84)<\text{HI}\,(-51)$ (II true).
 
-### C-PBL-08 · B — JEE Main 2026 · 22 Jan Shift 1 · G15-18 set Q2 · MCQ
+### C-PBL-08 · A — JEE Main 2026 · 22 Jan Shift 1 · G15-18 set Q2 · MCQ
 
 A p-block element E and hydrogen form a binary cation $(\text{EH}_x)^+$, while $\text{EH}_3$ on treatment with $\text{K}_2\text{HgI}_4$ in alkaline medium gives a precipitate of basic mercury(II) amido-iodide. Given below are first ionisation enthalpy values ($\text{kJ mol}^{-1}$) for the first element of each of groups 13, 14, 15 and 16. Identify the correct first ionisation enthalpy value for element E.
 
@@ -110,7 +110,7 @@ D. The boiling point increases down the group.
 
 **Solution.** Going down the group the $\text{E–H}$ bond weakens, so thermal stability falls (A), basicity falls (B) and reducing power rises (C). The boiling point does not increase regularly: $\text{NH}_3$ (hydrogen bonded, $-33^\circ$C) boils higher than $\text{PH}_3$ ($-88^\circ$C), so D is false.
 
-### C-PBL-10 · C — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
+### C-PBL-10 · B — JEE Advanced 2025 · Paper 1 · Q1 · MCQ
 
 The heating of $\text{NH}_4\text{NO}_2$ at $60$–$70^\circ$C and $\text{NH}_4\text{NO}_3$ at $200$–$250^\circ$C is associated with the formation of nitrogen-containing compounds X and Y respectively. X and Y are:
 
@@ -120,7 +120,7 @@ The heating of $\text{NH}_4\text{NO}_2$ at $60$–$70^\circ$C and $\text{NH}_4\t
 
 **Solution.** $\text{NH}_4\text{NO}_2\xrightarrow{60\text{–}70^\circ\text{C}}\text{N}_2+2\text{H}_2\text{O}$ (a comproportionation of $-3$ and $+3$ nitrogen), and $\text{NH}_4\text{NO}_3\xrightarrow{200\text{–}250^\circ\text{C}}\text{N}_2\text{O}+2\text{H}_2\text{O}$. (Above $\sim300^\circ$C $\text{NH}_4\text{NO}_3$ can decompose explosively to $\text{N}_2$, $\text{O}_2$ and water.)
 
-### C-PBL-11 · C — JEE Main 2024 · 27 Jan Shift 1 · Q36 · MCQ
+### C-PBL-11 · B — JEE Main 2024 · 27 Jan Shift 1 · Q36 · MCQ
 
 Assertion (A): The melting point of boron is unusually high among Group 13 elements.  
 Reason (R): Solid boron has a very strong crystalline lattice.
@@ -131,7 +131,7 @@ Reason (R): Solid boron has a very strong crystalline lattice.
 
 **Solution.** Boron exists as a covalent network of $\text{B}_{12}$ icosahedral units, so a very strong lattice must be broken to melt it (m.p. about 2453 K). This explains the anomalously high melting point.
 
-### C-PBL-12 · C — JEE Main 2024 · 27 Jan Shift 2 · Q40 · MCQ
+### C-PBL-12 · B — JEE Main 2024 · 27 Jan Shift 2 · Q40 · MCQ
 
 Statement I: Oxygen, the first member of group 16, exhibits only the $-2$ oxidation state.  
 Statement II: Down group 16 the stability of the $+4$ oxidation state decreases and that of the $+6$ oxidation state increases.
@@ -142,7 +142,7 @@ Statement II: Down group 16 the stability of the $+4$ oxidation state decreases 
 
 **Solution.** Oxygen also shows $-1$ (peroxides), $-\tfrac12$ (superoxides), $-\tfrac13$ (ozonide) and $+2$ (in $\text{OF}_2$), so I is wrong. Because of the inert-pair effect, down the group the $+4$ state becomes more stable and $+6$ less stable, the reverse of II, so II is wrong.
 
-### C-PBL-13 · C — JEE Main 2024 · 30 Jan Shift 2 · Q33 · MCQ
+### C-PBL-13 · B — JEE Main 2024 · 30 Jan Shift 2 · Q33 · MCQ
 
 Assertion A: $\text{H}_2\text{Te}$ is more acidic than $\text{H}_2\text{S}$.  
 Reason R: The bond dissociation enthalpy of $\text{H}_2\text{Te}$ is lower than that of $\text{H}_2\text{S}$.
@@ -153,7 +153,7 @@ Reason R: The bond dissociation enthalpy of $\text{H}_2\text{Te}$ is lower than 
 
 **Solution.** Down the group, the H–E bond lengthens and weakens (Te–H $<$ S–H in bond enthalpy), so $\text{H}_2\text{Te}$ loses $\text{H}^+$ more easily and is the stronger acid ($\text{p}K_a$ of $\text{H}_2\text{Te}\approx2.6$ vs $7.0$ for $\text{H}_2\text{S}$). R explains A.
 
-### C-PBL-14 · C — JEE Main 2024 · 31 Jan Shift 1 · Q34 · MCQ
+### C-PBL-14 · B — JEE Main 2024 · 31 Jan Shift 1 · Q34 · MCQ
 
 Consider the oxides of group 14 elements $\text{SiO}_2,\ \text{GeO}_2,\ \text{SnO}_2,\ \text{PbO}_2,\ \text{CO}$ and $\text{GeO}$. The amphoteric oxides are
 
@@ -163,7 +163,7 @@ Consider the oxides of group 14 elements $\text{SiO}_2,\ \text{GeO}_2,\ \text{Sn
 
 **Solution.** On descending group 14 the oxides change from acidic ($\text{CO}_2,\text{SiO}_2,\text{GeO}_2$) to amphoteric ($\text{SnO}_2,\text{PbO}_2$, which react with both acids and bases). CO is neutral.
 
-### C-PBL-15 · C — JEE Main 2024 · 1 Feb Shift 2 · Q37 · MCQ
+### C-PBL-15 · B — JEE Main 2024 · 1 Feb Shift 2 · Q37 · MCQ
 
 Statement I: $\text{SiO}_2$ and $\text{GeO}_2$ are acidic while $\text{SnO}$ and $\text{PbO}$ are amphoteric.  
 Statement II: Allotropic forms of carbon are due to the property of catenation and $p\pi$–$d\pi$ bond formation.

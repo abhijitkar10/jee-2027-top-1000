@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JEE 2027 Tracker</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1c1b19;--mute:#6b675f;--line:#e4e1d8;--accent:#2f5d50;--accent-ink:#fff;--ok:#2f7d4f;--bad:#b3392f;--skip:#9a8a3a;--p:#2a6fb0;--c:#c0642a;--m:#7b4fa3;--tA:#2f5d50;--tB:#a07a2a;--tC:#8a8579}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#161715;--card:#201f1d;--ink:#ecebe6;--mute:#9b978c;--line:#34322e;--accent:#6fb59f;--accent-ink:#0f1a16;--ok:#5fbf86;--bad:#e5786d;--skip:#d3be63;--p:#6aa6df;--c:#e29a69;--m:#b393d6;--tA:#6fb59f;--tB:#d3ac5a;--tC:#a29d90}}
+:root[data-theme=dark]{--bg:#161715;--card:#201f1d;--ink:#ecebe6;--mute:#9b978c;--line:#34322e;--accent:#6fb59f;--accent-ink:#0f1a16;--ok:#5fbf86;--bad:#e5786d;--skip:#d3be63;--p:#6aa6df;--c:#e29a69;--m:#b393d6;--tA:#6fb59f;--tB:#d3ac5a;--tC:#a29d90}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:16px;max-width:1000px;margin:0 auto}
+h1{font-size:20px;margin:0 0 2px}
+.sub{color:var(--mute);font-size:13px}
+nav{display:flex;gap:6px;flex-wrap:wrap;max-width:1000px;margin:0 auto;padding:0 16px 8px}
+nav button,.btn{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 12px;border-radius:8px;font:inherit;cursor:pointer}
+nav button.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+main{max-width:1000px;margin:0 auto;padding:0 16px 60px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:10px 0}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.grow{flex:1}
+.bar{height:8px;background:var(--line);border-radius:6px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--accent)}
+.bar.p>i{background:var(--p)}.bar.c>i{background:var(--c)}.bar.m>i{background:var(--m)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.stat b{font-size:22px;display:block}
+.pill{display:inline-block;padding:1px 8px;border-radius:99px;font-size:12px;border:1px solid var(--line);color:var(--mute)}
+.pill.A{color:var(--tA);border-color:var(--tA)}.pill.B{color:var(--tB);border-color:var(--tB)}.pill.C{color:var(--tC);border-color:var(--tC)}
+.sp{color:var(--p)}.sc{color:var(--c)}.sm{color:var(--m)}
+.blk{border-top:1px solid var(--line);padding:10px 0}
+.blk:first-child{border-top:0}
+.ids{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.qb{display:flex;align-items:center;gap:2px;border:1px solid var(--line);border-radius:8px;padding:2px 4px;font-size:12px}
+.qb code{padding:0 4px}
+.qb button{border:0;background:none;cursor:pointer;font-size:14px;padding:2px 4px;border-radius:6px;color:var(--mute)}
+.qb button.ok.on{color:#fff;background:var(--ok)}.qb button.bad.on{color:#fff;background:var(--bad)}.qb button.skip.on{color:#fff;background:var(--skip)}
+select,input[type=search]{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 10px;border-radius:8px;font:inherit}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+a{color:var(--accent)}
+.day{cursor:pointer;display:flex;gap:10px;align-items:center;padding:6px 0;border-top:1px solid var(--line)}
+.day:first-child{border-top:0}.day.today{font-weight:600}
+.muted{color:var(--mute)}
+.small{font-size:12.5px}
+@media (max-width:560px){th:nth-child(4),td:nth-child(4){display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="row"><div class="grow"><h1>JEE 2027 · 1,500 PYQ tracker</h1><div class="sub" id="hdrsub"></div></div>
+  <button class="btn" id="theme" title="Toggle theme">◐</button></div>
+</header>
+<nav id="nav"></nav>
+<main id="main"></main>
+<script>
+const DATA = /*DATA*/;
+const REPO = "https://github.com/abhijitkar10/jee-2027-top-1000/blob/main/";
+const KEY = "jee27-tracker-v1";
+const SUBJ = {physics:"Physics",chemistry:"Chemistry",maths:"Maths"};
+const SCLASS = {physics:"p",chemistry:"c",maths:"m"};
+let S = {q:{},b:{}};
+try{ S = Object.assign(S, JSON.parse(localStorage.getItem(KEY)||"{}")); }catch(e){}
+const save = ()=>{ try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){} };
+const Q = DATA.questions, byId = Object.fromEntries(Q.map(q=>[q.id,q]));
+const days = DATA.days;
+const iso = d => d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+let dayIdx = (()=>{ const t=iso(new Date()); let i=days.findIndex(d=>d.date===t); if(i<0) i = t<days[0].date?0:days.length-1; return i; })();
+let tab = "today", filt = {subject:"",chapter:"",tier:"",status:"",text:""};
+const ctitle = (s,c)=>DATA.chapters[s+"/"+c].title;
+const esc = s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = d=>new Date(d+"T00:00:00").toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short"});
+
+function setQ(id, v){ if(S.q[id]===v) delete S.q[id]; else S.q[id]=v; save(); render(); }
+function qbtn(id){
+  const s=S.q[id];
+  return `<span class="qb"><code>${id}</code>`+
+   `<button class="ok ${s==='c'?'on':''}" title="solved correctly" onclick="setQ('${id}','c')">✓</button>`+
+   `<button class="bad ${s==='w'?'on':''}" title="wrong / too slow" onclick="setQ('${id}','w')">✗</button>`+
+   `<button class="skip ${s==='s'?'on':''}" title="skipped" onclick="setQ('${id}','s')">○</button></span>`;
+}
+function count(filter){
+  const r={total:0,c:0,w:0,s:0,todo:0};
+  for(const q of Q){ if(!filter(q)) continue; r.total++; const s=S.q[q.id]; if(s) r[s]++; else r.todo++; }
+  return r;
+}
+const bar=(n,t,cls="")=>`<div class="bar ${cls}"><i style="width:${t?100*n/t:0}%"></i></div>`;
+
+function viewToday(){
+  const d=days[dayIdx], t=iso(new Date());
+  let h=`<div class="card"><div class="row"><button class="btn" onclick="dayIdx=Math.max(0,dayIdx-1);render()">←</button>
+   <div class="grow"><b>${fmt(d.date)}</b> <span class="pill">${d.phase}</span> ${d.date===t?'<span class="pill A">today</span>':''}</div>
+   <button class="btn" onclick="dayIdx=Math.min(days.length-1,dayIdx+1);render()">→</button></div></div>`;
+  if(!d.blocks.length) h+=`<div class="card">Buffer day — catch up on anything skipped, re-read weak notes, redo misses.</div>`;
+  h+=`<div class="card">`;
+  d.blocks.forEach((b,i)=>{
+    const k=d.date+"|"+i, done=!!S.b[k];
+    const sub=b.subject==="all"?"All subjects":SUBJ[b.subject];
+    let title="";
+    if(b.kind==="theory") title=`Read the note: <a href="${REPO}theory/${b.subject}/${b.chapter}.md" target="_blank" rel="noopener">${esc(ctitle(b.subject,b.chapter))}</a>`;
+    else if(b.kind==="q") title=`<a href="${REPO}questions/${b.subject}/${b.chapter}.md" target="_blank" rel="noopener">${esc(ctitle(b.subject,b.chapter))}</a> <span class="pill ${b.tier}">Tier ${b.tier}</span>`;
+    else if(b.kind==="timed") title=`Timed set · ${b.ids.length} Tier A questions · ${b.minutes} min · then review the mistakes`;
+    else title="Wrap-up: rank chapters by mistakes, re-read the worst five notes";
+    h+=`<div class="blk"><label class="row"><input type="checkbox" ${done?"checked":""} onchange="S.b['${k}']=this.checked||undefined;save();render()">
+      <span class="grow ${SCLASS[b.subject]?'s'+SCLASS[b.subject]:''}"><b>${sub}</b> <span class="muted small">~${Math.round(b.minutes)} min</span></span></label>
+      <div>${title}</div>`;
+    if(b.ids.length) h+=`<div class="ids">${b.ids.map(qbtn).join("")}</div>`;
+    h+=`</div>`;
+  });
+  if(d.redo_minutes){ const k=d.date+"|redo"; h+=`<div class="blk"><label class="row"><input type="checkbox" ${S.b[k]?"checked":""} onchange="S.b['${k}']=this.checked||undefined;save();render()"><span>Redo misses · ${d.redo_minutes} min — re-attempt the ✗ questions from earlier days (Questions tab → Wrong)</span></label></div>`; }
+  h+=`</div>`;
+  return h;
+}
+
+function viewPlan(){
+  const t=iso(new Date());
+  let h=`<div class="card">`;
+  days.forEach((d,i)=>{
+    const ids=d.blocks.flatMap(b=>b.ids), done=ids.filter(x=>S.q[x]).length;
+    const names=[...new Set(d.blocks.filter(b=>b.chapter).map(b=>ctitle(b.subject,b.chapter)))].slice(0,3).join(" · ");
+    h+=`<div class="day ${d.date===t?'today':''}" onclick="dayIdx=${i};tab='today';render()"><span style="width:86px">${fmt(d.date)}</span>
+      <span class="pill">${d.phase}</span><span class="grow small muted">${esc(names)||(d.blocks.length?"timed revision":"buffer")}</span><span class="small">${ids.length?done+"/"+ids.length:""}</span></div>`;
+  });
+  return h+`</div>`;
+}
+
+function viewQuestions(){
+  const chs=[...new Set(Q.filter(q=>!filt.subject||q.subject===filt.subject).map(q=>q.subject+"/"+q.chapter))];
+  const rows=Q.filter(q=>(!filt.subject||q.subject===filt.subject)&&(!filt.chapter||q.subject+"/"+q.chapter===filt.chapter)&&(!filt.tier||q.tier===filt.tier)&&
+    (!filt.status||(filt.status==="todo"?!S.q[q.id]:S.q[q.id]===filt.status))&&(!filt.text||(q.id+" "+q.source+" "+ctitle(q.subject,q.chapter)).toLowerCase().includes(filt.text.toLowerCase())));
+  let h=`<div class="card row">
+   <select onchange="filt.subject=this.value;filt.chapter='';render()"><option value="">All subjects</option>${Object.entries(SUBJ).map(([k,v])=>`<option value="${k}" ${filt.subject===k?"selected":""}>${v}</option>`).join("")}</select>
+   <select onchange="filt.chapter=this.value;render()"><option value="">All chapters</option>${chs.map(c=>`<option value="${c}" ${filt.chapter===c?"selected":""}>${esc(ctitle(...c.split("/")))}</option>`).join("")}</select>
+   <select onchange="filt.tier=this.value;render()"><option value="">Any tier</option>${["A","B","C"].map(t=>`<option ${filt.tier===t?"selected":""}>${t}</option>`).join("")}</select>
+   <select onchange="filt.status=this.value;render()"><option value="">Any status</option><option value="todo" ${filt.status==="todo"?"selected":""}>Not done</option><option value="c" ${filt.status==="c"?"selected":""}>Correct</option><option value="w" ${filt.status==="w"?"selected":""}>Wrong</option><option value="s" ${filt.status==="s"?"selected":""}>Skipped</option></select>
+   <input type="search" placeholder="search id / source" value="${esc(filt.text)}" oninput="filt.text=this.value;clearTimeout(window._t);window._t=setTimeout(render,250)"></div>
+   <div class="card"><div class="small muted" style="margin-bottom:6px">${rows.length} questions${rows.length>300?" (showing first 300)":""}</div><table><tr><th>ID</th><th>Tier</th><th>Source</th><th>Chapter</th><th>Mark</th></tr>`;
+  for(const q of rows.slice(0,300)){
+    h+=`<tr><td><a href="${REPO}${q.file}" target="_blank" rel="noopener"><code>${q.id}</code></a></td><td><span class="pill ${q.tier}">${q.tier}</span></td><td class="small">${esc(q.source)}</td><td class="small">${esc(ctitle(q.subject,q.chapter))}</td><td>${qbtn(q.id).replace(/<code>.*?<\/code>/,"")}</td></tr>`;
+  }
+  return h+`</table></div>`;
+}
+
+function viewProgress(){
+  const all=count(()=>true), done=all.total-all.todo;
+  let h=`<div class="card stats"><div class="stat"><b>${done}/${all.total}</b>attempted</div><div class="stat"><b class="" style="color:var(--ok)">${all.c}</b>correct</div><div class="stat"><b style="color:var(--bad)">${all.w}</b>wrong</div><div class="stat"><b style="color:var(--skip)">${all.s}</b>skipped</div>
+   <div class="stat"><b>${done?Math.round(100*all.c/done):0}%</b>accuracy</div></div>`;
+  h+=`<div class="card">`;
+  for(const s of Object.keys(SUBJ)){ for(const t of ["A","B","C"]){ const r=count(q=>q.subject===s&&q.tier===t); h+=`<div class="row small" style="margin:6px 0"><span style="width:150px">${SUBJ[s]} · Tier ${t}</span><div class="grow">${bar(r.total-r.todo,r.total,SCLASS[s])}</div><span style="width:70px;text-align:right">${r.total-r.todo}/${r.total}</span></div>`; } }
+  h+=`</div><div class="card"><b>Chapters</b><div class="small muted" style="margin-bottom:6px">sorted by mistakes</div><table><tr><th>Chapter</th><th>Done</th><th>✗</th><th>Accuracy</th></tr>`;
+  const rows=Object.keys(DATA.chapters).map(k=>{const [s,c]=k.split("/"); const r=count(q=>q.subject===s&&q.chapter===c); return {k,s,c,r};}).sort((a,b)=>b.r.w-a.r.w||(b.r.total-b.r.todo)-(a.r.total-a.r.todo));
+  for(const x of rows){ const dn=x.r.total-x.r.todo; h+=`<tr><td><span class="s${SCLASS[x.s]}">●</span> ${esc(ctitle(x.s,x.c))}</td><td>${dn}/${x.r.total}</td><td>${x.r.w||""}</td><td>${dn?Math.round(100*x.r.c/dn)+"%":""}</td></tr>`; }
+  h+=`</table></div>
+  <div class="card row"><button class="btn" onclick="exportS()">Export progress</button><label class="btn">Import<input type="file" accept=".json" style="display:none" onchange="importS(this.files[0])"></label>
+  <button class="btn" onclick="if(confirm('Erase all saved progress in this browser?')){S={q:{},b:{}};save();render()}">Reset</button>
+  <span class="small muted">Progress is saved only in this browser. Export it now and then (also a good way to move between devices).</span></div>`;
+  return h;
+}
+function exportS(){ const a=document.createElement("a"); a.href=URL.createObjectURL(new Blob([JSON.stringify(S)],{type:"application/json"})); a.download="jee27-progress-"+iso(new Date())+".json"; a.click(); }
+function importS(f){ if(!f) return; f.text().then(t=>{ try{ const j=JSON.parse(t); S={q:j.q||{},b:j.b||{}}; save(); render(); }catch(e){ alert("Not a valid progress file"); } }); }
+
+const TABS={today:["Today",viewToday],plan:["Plan",viewPlan],questions:["Questions",viewQuestions],progress:["Progress",viewProgress]};
+function render(){
+  document.getElementById("nav").innerHTML=Object.entries(TABS).map(([k,[n]])=>`<button class="${tab===k?'on':''}" onclick="tab='${k}';render()">${n}</button>`).join("");
+  document.getElementById("main").innerHTML=TABS[tab][1]();
+  const a=count(()=>true); document.getElementById("hdrsub").textContent=`${a.total-a.todo} of ${a.total} attempted · ${a.c} correct · ${a.w} to redo`;
+}
+document.getElementById("theme").onclick=()=>{ const r=document.documentElement; const dark=getComputedStyle(r).getPropertyValue("--bg").trim()==="#161715"; r.dataset.theme=dark?"light":"dark"; };
+render();
+</script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/biomolecules.md](../../theory/chemistry/biomolecules.md)
 
-### C-BIO-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### C-BIO-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 The correct statements are:
 
@@ -17,7 +17,7 @@ D. The quaternary structure of proteins represents the overall folding of the po
 
 **Solution.** A true (an enzyme lowers $E_a$ more than an acid does: about 2 vs 6 kcal mol$^{-1}$ for sucrose). B true (denaturation breaks H-bonds etc., so 2° and 3° structures are lost, while the peptide-bond sequence, i.e. the primary structure, is intact). C false: nucleotides are linked through *phosphodiester* bonds between the 3′ and 5′ carbons of the sugars. D false: overall folding of a chain is the *tertiary* structure; quaternary structure is the assembly of several polypeptide subunits.
 
-### C-BIO-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### C-BIO-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 From the given cyclic structures (A to D), those which will NOT react with Tollens' reagent are:
 
@@ -29,7 +29,7 @@ From the given cyclic structures (A to D), those which will NOT react with Tolle
 
 **Solution.** Tollens' reagent oxidises the free aldehyde group, which a cyclic hemiacetal can regenerate by ring opening in solution. A and D have a free anomeric –OH (hemiacetal), so they are reducing and react. B and C have an $\mathrm{OCH_3}$ on the anomeric carbon (acetals/glycosides) which cannot open to a free CHO, so they do not react: B and C.
 
-### C-BIO-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+### C-BIO-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
 
 The structures of four disaccharides are given below. Among them, the non-reducing sugar is:
 
@@ -47,7 +47,7 @@ The structures of four disaccharides are given below. Among them, the non-reduci
 
 **Solution.** A disaccharide is non-reducing when *both* anomeric carbons are tied up in the glycosidic link (no free hemiacetal –OH). In (1), (2) and (4) one ring still has a free anomeric OH (maltose-/lactose-type), so they are reducing. Structure (3) is sucrose: $\alpha$-D-glucose C1 is joined to $\beta$-D-fructose C2, so both anomeric carbons are used in the link and there is no free hemiacetal – non-reducing.
 
-### C-BIO-04 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+### C-BIO-04 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
 
 The number of possible tripeptides formed involving alanine (ala), glycine (gly) and valine (val), where no amino acid is used more than once, is:
 
@@ -57,7 +57,7 @@ The number of possible tripeptides formed involving alanine (ala), glycine (gly)
 
 **Solution.** Each tripeptide contains all three different amino acids, and the sequence matters (N-terminal to C-terminal), so there are $3!=6$.
 
-### C-BIO-05 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+### C-BIO-05 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
 
 Match List-I with List-II.
 
@@ -74,7 +74,7 @@ Match List-I with List-II.
 
 **Solution.** The CHO of glucose forms an oxime with $\mathrm{NH_2OH}$ (IV). Mild oxidation by bromine water converts only CHO to COOH: gluconic acid (I). Excess $\mathrm{(CH_3CO)_2O}$ acetylates all five OH: pentaacetate (II). Strong oxidation by conc. $\mathrm{HNO_3}$ oxidises both CHO and the terminal $\mathrm{CH_2OH}$ to COOH: saccharic acid (III).
 
-### C-BIO-06 · B — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
+### C-BIO-06 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q6 · MCQ
 
 Given below are two statements:
 
@@ -87,7 +87,7 @@ Statement II: Hydrolysis of sucrose gives glucose and fructose. Since the laevor
 
 **Solution.** I true: sucrose $[\alpha]=+66.5^\circ$, and the equimolar glucose/fructose mixture (invert sugar) is laevorotatory. II false: it is *glucose* that is dextrorotatory ($+52.5^\circ$) and *fructose* that is laevorotatory ($-92.4^\circ$); the laevorotation of fructose exceeds the dextrorotation of glucose, so the mixture is laevorotatory.
 
-### C-BIO-07 · B — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
+### C-BIO-07 · A — JEE Main 2026 · 23 Jan Shift 2 · set Q7 · MCQ
 
 Both human DNA and RNA are chiral molecules. The chirality in DNA and RNA arises due to the presence of:
 
@@ -97,7 +97,7 @@ Both human DNA and RNA are chiral molecules. The chirality in DNA and RNA arises
 
 **Solution.** The sugar units are D-2-deoxyribose in DNA and D-ribose in RNA; these carry several stereocentres. The phosphate groups and the (planar) bases are achiral.
 
-### C-BIO-08 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
+### C-BIO-08 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q8 · MCQ
 
 Identify the correct statements.
 
@@ -113,7 +113,7 @@ E. Cysteine has the characteristic side chain $\mathrm{MeS{-}CH_2{-}CH_2{-}}$.
 
 **Solution.** A true (both are in the NCERT list of essential amino acids). B false (histidine has an imidazole ring). C false (proline's pyrrolidine ring is five-membered). D true ($\mathrm{R=H}$, so the $\alpha$-carbon carries two H). E false ($\mathrm{MeS{-}CH_2CH_2{-}}$ is the side chain of methionine; cysteine has $\mathrm{{-}CH_2SH}$). So A and D.
 
-### C-BIO-09 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+### C-BIO-09 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
 
 In the given pentapeptide, find out an essential amino acid (Y) and the sequence present in the pentapeptide:
 
@@ -125,7 +125,7 @@ In the given pentapeptide, find out an essential amino acid (Y) and the sequence
 
 **Solution.** Read from the free $\mathrm{NH_2}$ end: side chains $\mathrm{CH(OH)CH_3}$ (threonine), $\mathrm{CH_2OH}$ (serine), $\mathrm{CH_2COOH}$ (aspartic acid), H (glycine), $\mathrm{CH_3}$ (alanine): Thr-Ser-Asp-Gly-Ala. Of these only threonine is an essential amino acid (the body cannot synthesise it).
 
-### C-BIO-10 · B — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
+### C-BIO-10 · A — JEE Main 2026 · 24 Jan Shift 1 · set Q10 · MCQ
 
 A student is given one compound among the following compounds that gives a positive test with Tollens' reagent. The compound is:
 
@@ -137,7 +137,7 @@ A student is given one compound among the following compounds that gives a posit
 
 **Solution.** Tollens' reagent needs a free CHO (or one that can be freed). A is a cyclic acetal (2-methoxytetrahydrofuran); B is an ether; D is a secondary alcohol; none can give CHO. C (2-hydroxytetrahydrofuran) is a cyclic *hemiacetal*, which is in equilibrium with its open form $\mathrm{HOCH_2CH_2CH_2CHO}$ and so gives the silver mirror.
 
-### C-BIO-11 · C — JEE Main 2024 · 27 Jan Shift 1 · Q50 · MCQ
+### C-BIO-11 · B — JEE Main 2024 · 27 Jan Shift 1 · Q50 · MCQ
 
 Two nucleotides are joined together by a linkage known as
 
@@ -147,7 +147,7 @@ Two nucleotides are joined together by a linkage known as
 
 **Solution.** The 3′-OH of one nucleotide and the 5′-phosphate of the next are joined through a phosphate group esterified on both sides (phosphodiester bond). A glycosidic bond joins a sugar and a base (or two sugars).
 
-### C-BIO-12 · C — JEE Main 2024 · 27 Jan Shift 2 · Q50 · MCQ
+### C-BIO-12 · B — JEE Main 2024 · 27 Jan Shift 2 · Q50 · MCQ
 
 Which structure of a protein remains intact after coagulation of egg white on boiling?
 
@@ -157,7 +157,7 @@ Which structure of a protein remains intact after coagulation of egg white on bo
 
 **Solution.** Heat denatures a protein by breaking weak hydrogen bonds and other interactions that hold the secondary, tertiary and quaternary structures. The amino-acid sequence (primary structure, held by peptide bonds) is unchanged.
 
-### C-BIO-13 · C — JEE Main 2024 · 29 Jan Shift 1 · Q49 · MCQ
+### C-BIO-13 · B — JEE Main 2024 · 29 Jan Shift 1 · Q49 · MCQ
 
 The type of amino acids obtained by hydrolysis of proteins is
 
@@ -167,7 +167,7 @@ The type of amino acids obtained by hydrolysis of proteins is
 
 **Solution.** Proteins are polymers of $\alpha$-amino acids, in which the $-\text{NH}_2$ group is on the carbon adjacent to $-\text{COOH}$, joined by peptide bonds. Hydrolysis regenerates $\alpha$-amino acids.
 
-### C-BIO-14 · C — JEE Main 2024 · 29 Jan Shift 2 · Q50 · MCQ
+### C-BIO-14 · B — JEE Main 2024 · 29 Jan Shift 2 · Q50 · MCQ
 
 Match List I (biopolymer) with List II (monomer): A. Starch  B. Cellulose  C. Nucleic acid  D. Protein; I. nucleotide  II. $\alpha$-glucose  III. $\beta$-glucose  IV. $\alpha$-amino acid.
 
@@ -177,7 +177,7 @@ Match List I (biopolymer) with List II (monomer): A. Starch  B. Cellulose  C. Nu
 
 **Solution.** Starch is a polymer of $\alpha$-D-glucose (amylose/amylopectin), cellulose of $\beta$-D-glucose, nucleic acids of nucleotides, and proteins of $\alpha$-amino acids.
 
-### C-BIO-15 · C — JEE Main 2024 · 30 Jan Shift 1 · Q50 · MCQ
+### C-BIO-15 · B — JEE Main 2024 · 30 Jan Shift 1 · Q50 · MCQ
 
 The sugar which does not give a reddish-brown precipitate with Fehling's reagent is
 
@@ -187,7 +187,7 @@ The sugar which does not give a reddish-brown precipitate with Fehling's reagent
 
 **Solution.** Fehling's reagent detects reducing sugars (free hemiacetal/aldehyde group). Glucose, lactose and maltose all have a free anomeric carbon. In sucrose the two anomeric carbons are joined through the glycosidic bond, so it is non-reducing.
 
-### C-BIO-16 · C — JEE Main 2024 · 30 Jan Shift 2 · Q60 · Numerical
+### C-BIO-16 · B — JEE Main 2024 · 30 Jan Shift 2 · Q60 · Numerical
 
 The total number of correct statements regarding the nucleic acids is ______.  
 A. RNA is regarded as the reserve of genetic information.  
@@ -200,7 +200,7 @@ E. Identical DNA strands are transferred to daughter cells.
 
 **Solution.** DNA (not RNA) is the reserve of genetic information, so A is false. B, D and E are correct (replication, genetic message, faithful transfer). Proteins are synthesised by ribosomes using mRNA (the message is copied from DNA), so DNA does not itself synthesise proteins; C is false. Count $=3$.
 
-### C-BIO-17 · C — JEE Main 2024 · 31 Jan Shift 1 · Q50 · MCQ
+### C-BIO-17 · B — JEE Main 2024 · 31 Jan Shift 1 · Q50 · MCQ
 
 Match List I with List II: A. Glucose/$\text{NaHCO}_3$/$\Delta$  B. Glucose/$\text{HNO}_3$  C. Glucose/HI/$\Delta$  D. Glucose/bromine water; I. Gluconic acid  II. No reaction  III. $n$-Hexane  IV. Saccharic acid.
 
@@ -210,7 +210,7 @@ Match List I with List II: A. Glucose/$\text{NaHCO}_3$/$\Delta$  B. Glucose/$\te
 
 **Solution.** Glucose has no $-\text{COOH}$, so $\text{NaHCO}_3$ does not react. Conc. $\text{HNO}_3$ oxidises both the CHO and the terminal $\text{CH}_2\text{OH}$: saccharic acid. Prolonged HI/$\Delta$ reduces it fully to $n$-hexane. Bromine water oxidises only the CHO: gluconic acid.
 
-### C-BIO-18 · C — JEE Main 2024 · 31 Jan Shift 2 · Q60 · Numerical
+### C-BIO-18 · B — JEE Main 2024 · 31 Jan Shift 2 · Q60 · Numerical
 
 From the vitamins A, $\text{B}_1$, $\text{B}_6$, $\text{B}_{12}$, C, D, E and K, the number of vitamins that can be stored in our body is ______.
 
@@ -218,7 +218,7 @@ From the vitamins A, $\text{B}_1$, $\text{B}_6$, $\text{B}_{12}$, C, D, E and K,
 
 **Solution.** Fat-soluble vitamins (A, D, E, K) are stored in adipose tissue and the liver. Vitamin $\text{B}_{12}$, although water-soluble, is also stored in the liver. $\text{B}_1$, $\text{B}_6$ and C are water-soluble and excreted, so they are not stored. Count $=5$.
 
-### C-BIO-19 · C — JEE Main 2024 · 1 Feb Shift 1 · Q50 · MCQ
+### C-BIO-19 · B — JEE Main 2024 · 1 Feb Shift 1 · Q50 · MCQ
 
 If one strand of a DNA has the sequence ATGCTTCA, the sequence of bases in the complementary strand is:
 

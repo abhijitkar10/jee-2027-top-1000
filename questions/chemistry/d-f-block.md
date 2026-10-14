@@ -129,7 +129,7 @@ Statement II: $\mathrm{Th^{4+}}$ is the strongest reducing agent among $\mathrm{
 
 **Solution.** Statement I: $\mathrm{Sc^{3+}}$ ($d^0$), $\mathrm{Zn^{2+}}$ ($d^{10}$) and $\mathrm{Ti^{4+}}$ ($d^0$) are colourless, so only $[\mathrm{Mn^{2+}, Cr^{2+}}]$ has both ions coloured: the number of pairs is 1, not 3 – false. Statement II: $\mathrm{Th^{4+}}$ has the noble-gas configuration (cannot be oxidised further); $\mathrm{Eu^{2+}}$ ($4f^7$) readily goes to $\mathrm{Eu^{3+}}$ and is the strongest reducing agent – false. Both false.
 
-### C-DFB-12 · B — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
+### C-DFB-12 · A — JEE Advanced 2025 · Paper 1 · Q6 · Multiple correct
 
 The pair(s) of diamagnetic ions is(are):
 
@@ -243,7 +243,7 @@ $\text{MnO}_2+\text{KOH}+\text{O}_2\to A+\text{H}_2\text{O}$. Product A in neutr
 
 **Solution.** $A=\text{K}_2\text{MnO}_4$. In acid: $3\text{MnO}_4^{2-}+4\text{H}^+\to2\text{MnO}_4^-+\text{MnO}_2+2\text{H}_2\text{O}$. $\text{MnO}_4^-$ ($d^0$): $\mu=0$. $\text{MnO}_2$ ($\text{Mn}^{4+}$, $d^3$): $\mu=\sqrt{3\times5}=3.87\approx4$ BM. Sum $\approx4$.
 
-### C-DFB-23 · B — JEE Main 2024 · 4 Apr Shift 2 · Q57 · Numerical
+### C-DFB-23 · C — JEE Main 2024 · 4 Apr Shift 2 · Q57 · Numerical
 
 A first-row transition metal with the highest enthalpy of atomisation reacts with oxygen at high temperature to form oxides $M_2O_n$ ($n=3,4,5$). The spin-only magnetic moment of the amphoteric oxide among these is ______ BM (nearest integer).
 
@@ -251,7 +251,7 @@ A first-row transition metal with the highest enthalpy of atomisation reacts wit
 
 **Solution.** Vanadium has the highest enthalpy of atomisation in the 3d series ($\approx515$ kJ/mol); its oxides are $\text{V}_2\text{O}_3$ (basic), $\text{V}_2\text{O}_4$ and $\text{V}_2\text{O}_5$ (amphoteric). In $\text{V}_2\text{O}_5$ vanadium is $\text{V}^{5+}$ ($d^0$), so $\mu=0$.
 
-### C-DFB-24 · B — JEE Main 2024 · 5 Apr Shift 1 · Q57 · Numerical
+### C-DFB-24 · C — JEE Main 2024 · 5 Apr Shift 1 · Q57 · Numerical
 
 The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$, $\text{Co}^{3+}$ and $\text{Cr}^{2+}$ that acts as a strong oxidising agent in aqueous solution is ______ BM (nearest integer).
 
@@ -259,7 +259,7 @@ The spin-only magnetic moment of the ion among $\text{Ti}^{2+}$, $\text{V}^{2+}$
 
 **Solution.** $\text{Ti}^{2+}$, $\text{V}^{2+}$ and $\text{Cr}^{2+}$ are reducing agents. $\text{Co}^{3+}$ is a very strong oxidising agent ($E^\circ_{\text{Co}^{3+}/\text{Co}^{2+}}=+1.97$ V). Taking it as $d^6$ with $4$ unpaired electrons: $\mu=\sqrt{4\times6}=4.9\approx5$ BM.
 
-### C-DFB-25 · B — JEE Main 2024 · 5 Apr Shift 2 · Q43 · MCQ
+### C-DFB-25 · C — JEE Main 2024 · 5 Apr Shift 2 · Q43 · MCQ
 
 The number of ions among $\text{Ti}^{2+}$, $\text{Cr}^{2+}$ and $\text{V}^{2+}$ that can liberate hydrogen from a dilute acid is:
 
@@ -269,7 +269,7 @@ The number of ions among $\text{Ti}^{2+}$, $\text{Cr}^{2+}$ and $\text{V}^{2+}$ 
 
 **Solution.** An ion can reduce $\text{H}^+$ if its oxidation half-reaction is more favourable than $E^\circ=0$ for $\text{H}^+/\text{H}_2$. $E^\circ_{\text{Ti}^{3+}/\text{Ti}^{2+}}=-0.37$ V, $E^\circ_{\text{V}^{3+}/\text{V}^{2+}}=-0.26$ V, $E^\circ_{\text{Cr}^{3+}/\text{Cr}^{2+}}=-0.41$ V; all are negative, so all three ions liberate $\text{H}_2$. Count $=3$.
 
-### C-DFB-26 · B — JEE Main 2024 · 6 Apr Shift 1 · Q57 · Numerical
+### C-DFB-26 · C — JEE Main 2024 · 6 Apr Shift 1 · Q57 · Numerical
 
 Among CrO, $\text{Cr}_2\text{O}_3$ and $\text{CrO}_3$, the sum of the spin-only magnetic moments of the basic and amphoteric oxides is ______ $\times10^{-2}$ BM (nearest integer). ($Z_{Cr}=24$)
 
@@ -277,7 +277,7 @@ Among CrO, $\text{Cr}_2\text{O}_3$ and $\text{CrO}_3$, the sum of the spin-only 
 
 **Solution.** CrO is basic ($\text{Cr}^{2+}$, $d^4$, $4$ unpaired, $\mu=\sqrt{24}=4.90$ BM). $\text{Cr}_2\text{O}_3$ is amphoteric ($\text{Cr}^{3+}$, $d^3$, $\mu=\sqrt{15}=3.87$ BM). $\text{CrO}_3$ is acidic. Sum $=8.77$ BM $=877\times10^{-2}$ BM.
 
-### C-DFB-27 · B — JEE Main 2024 · 6 Apr Shift 2 · Q56 · Numerical
+### C-DFB-27 · C — JEE Main 2024 · 6 Apr Shift 2 · Q56 · Numerical
 
 Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the spin-only magnetic moment of the species with the least oxidising ability is ______ BM (nearest integer).
 
@@ -285,7 +285,7 @@ Among $\text{VO}_2^+$, $\text{MnO}_4^-$ and $\text{Cr}_2\text{O}_7^{2-}$, the sp
 
 **Solution.** $E^\circ$: $\text{MnO}_4^-/\text{Mn}^{2+}=+1.51$ V, $\text{Cr}_2\text{O}_7^{2-}/\text{Cr}^{3+}=+1.33$ V, $\text{VO}_2^+/\text{VO}^{2+}=+1.00$ V, so $\text{VO}_2^+$ is the weakest oxidant. It contains $\text{V}^{5+}$ ($d^0$): $\mu=0$.
 
-### C-DFB-28 · B — JEE Main 2024 · 8 Apr Shift 1 · Q57 · Numerical
+### C-DFB-28 · C — JEE Main 2024 · 8 Apr Shift 1 · Q57 · Numerical
 
 The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with the least metallic radius among Sc, Ti, V, Cr, Mn and Zn, is ______ BM. ($Z$: Sc $21$, Ti $22$, V $23$, Cr $24$, Mn $25$, Zn $30$)
 
@@ -293,7 +293,7 @@ The spin-only magnetic moment of $\text{MO}_4^{2-}$, where M is the metal with t
 
 **Solution.** Metallic radii (pm): Sc $164$, Ti $147$, V $135$, Mn $137$, Zn $134$, Cr $129$. Cr has the smallest (strong metallic bonding through the $d^5$ and half-filled $4s$). $\text{CrO}_4^{2-}$: $\text{Cr}^{6+}$ ($d^0$), so $\mu=0$.
 
-### C-DFB-29 · B — JEE Main 2024 · 8 Apr Shift 2 · Q34 · MCQ
+### C-DFB-29 · C — JEE Main 2024 · 8 Apr Shift 2 · Q34 · MCQ
 
 The equilibrium $\text{Cr}_2\text{O}_7^{2-}\rightleftharpoons2\text{CrO}_4^{2-}$ is shifted to the right in:
 
@@ -303,7 +303,7 @@ The equilibrium $\text{Cr}_2\text{O}_7^{2-}\rightleftharpoons2\text{CrO}_4^{2-}$
 
 **Solution.** $\text{Cr}_2\text{O}_7^{2-}+2\text{OH}^-\rightleftharpoons2\text{CrO}_4^{2-}+\text{H}_2\text{O}$. Alkali removes $\text{H}^+$ and drives the equilibrium to chromate (yellow); acid drives it back to dichromate (orange).
 
-### C-DFB-30 · B — JEE Main 2024 · 9 Apr Shift 1 · Q44 · MCQ
+### C-DFB-30 · C — JEE Main 2024 · 9 Apr Shift 1 · Q44 · MCQ
 
 The electronic configuration of Cu(II) is $3d^9$ whereas that of Cu(I) is $3d^{10}$. Which is correct?
 

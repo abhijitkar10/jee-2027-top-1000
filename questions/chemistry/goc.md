@@ -290,7 +290,7 @@ The possible number of stereoisomers for 5-phenylpent-4-en-2-ol is ______.
 
 **Solution.** Ph–CH=CH–CH$_2$–CH(OH)–CH$_3$ has one stereocentre (C-2) and one stereogenic double bond (C4=C5): $2\times2=4$ stereoisomers.
 
-### C-GOC-22 · A — JEE Main 2025 · Jan session · GOC set Q17 · MCQ
+### C-GOC-22 · B — JEE Main 2025 · Jan session · GOC set Q17 · MCQ
 
 The steam volatile compounds among the following are the compounds (A)–(D) shown below, in order: (A) 2-nitrophenol, (B) 2-nitroaniline, (C) and (D) two para-aminophenol structures.
 
@@ -308,7 +308,7 @@ The steam volatile compounds among the following are the compounds (A)–(D) sho
 
 **Solution.** Steam volatility needs weak intermolecular forces. The *ortho* isomers (A) and (B) have intramolecular hydrogen bonding (–OH···O$_2$N and –NH$_2$···O$_2$N), so they do not associate with each other and distil with steam. The *para*-aminophenols (C) and (D) form intermolecular hydrogen bonds and are not steam volatile. Hence (A) and (B) only.
 
-### C-GOC-23 · A — JEE Main 2025 · Jan session · GOC set Q18 · MCQ
+### C-GOC-23 · B — JEE Main 2025 · Jan session · GOC set Q18 · MCQ
 
 Given below are two statements:
 
@@ -323,7 +323,7 @@ In the light of the above statements, choose the correct answer.
 
 **Solution.** Lassaigne's sodium fusion extract detects N, S, halogens and P (Statement I true). The compound is fused with *sodium* metal, not magnesium (Statement II false).
 
-### C-GOC-24 · A — JEE Main 2025 · Apr session · GOC set Q1 · MCQ
+### C-GOC-24 · B — JEE Main 2025 · Apr session · GOC set Q1 · MCQ
 
 The IUPAC name of the compound HC≡C–CH$_2$–CH(OH)–CH$_2$–CH=CH$_2$ (shown in the figure) is:
 
@@ -335,7 +335,7 @@ The IUPAC name of the compound HC≡C–CH$_2$–CH(OH)–CH$_2$–CH=CH$_2$ (sh
 
 **Solution.** The alcohol is the principal group: *-ol* at C-4 whichever way the chain is numbered. The double and triple bonds then get the locant set {1,6} either way, and the tie is broken in favour of the double bond (ene gets the lower number). Name: hept-1-en-6-yn-4-ol.
 
-### C-GOC-25 · A — JEE Main 2025 · Apr session · GOC set Q2 · MCQ
+### C-GOC-25 · B — JEE Main 2025 · Apr session · GOC set Q2 · MCQ
 
 What is the correct IUPAC name of the compound shown in the figure (a benzene ring with –CO$_2$H, –OH, –Br and –NO$_2$)?
 
@@ -347,7 +347,7 @@ What is the correct IUPAC name of the compound shown in the figure (a benzene ri
 
 **Solution.** Benzoic acid is the parent (C-1 bears COOH). Numbering to give the lowest locants to the substituents (2, 3, 5) gives –OH at 2, –Br at 3 and –NO$_2$ at 5. Substituents are cited alphabetically (bromo, hydroxy, nitro): 3-bromo-2-hydroxy-5-nitrobenzoic acid.
 
-### C-GOC-26 · A — JEE Main 2025 · Apr session · GOC set Q3 · MCQ
+### C-GOC-26 · B — JEE Main 2025 · Apr session · GOC set Q3 · MCQ
 
 Which of the following is the correct IUPAC name of the organic compound (X) shown in the figure?
 
@@ -359,7 +359,7 @@ Which of the following is the correct IUPAC name of the organic compound (X) sho
 
 **Solution.** The structure is CH$_3$–CH=C(CH$_3$)–CH$_2$Br. The longest chain containing the double bond has 4 carbons: CH$_2$Br–C(CH$_3$)=CH–CH$_3$. Numbering from the CH$_2$Br end gives the double bond locant 2 (from the other end it would be 2 as well but Br would be at 4). So: 1-bromo-2-methylbut-2-ene.
 
-### C-GOC-27 · A — JEE Main 2025 · Apr session · GOC set Q4 · MCQ
+### C-GOC-27 · B — JEE Main 2025 · Apr session · GOC set Q4 · MCQ
 
 What is the correct IUPAC name of the compound shown in the figure (a cyclopentene ring bearing –OH and an ethyl group)?
 
@@ -371,7 +371,7 @@ What is the correct IUPAC name of the compound shown in the figure (a cyclopente
 
 **Solution.** The –OH is the principal group, so the carbon carrying it is C-1. The ring is numbered in the direction that gives the double bond the lowest locant (2), which puts the ethyl group at C-4. Name: 4-ethylcyclopent-2-en-1-ol.
 
-### C-GOC-28 · A — JEE Main 2025 · Apr session · GOC set Q5 · MCQ
+### C-GOC-28 · B — JEE Main 2025 · Apr session · GOC set Q5 · MCQ
 
 Consider the compound (X): H–C≡C–CH$_2$–CH(CH$_3$)–CH$_3$ (the C–H bonds of the carbons marked I, II, III and IV are: I = the terminal sp C–H, II = the CH$_2$, III = the CH, IV = the CH$_3$ groups). The most stable and the least stable carbon radicals produced by homolytic cleavage of the corresponding C–H bond are:
 
@@ -383,7 +383,7 @@ Consider the compound (X): H–C≡C–CH$_2$–CH(CH$_3$)–CH$_3$ (the C–H b
 
 **Solution.** Cleavage at II gives a propargylic radical (stabilised by resonance with the triple bond), the most stable. Cleavage at the terminal sp C–H (I) gives an sp-hybridised radical, which is the least stable because of the high s-character (strongest C–H bond). So the most stable is II and the least stable is I.
 
-### C-GOC-29 · A — JEE Main 2025 · Apr session · GOC set Q6 · MCQ
+### C-GOC-29 · B — JEE Main 2025 · Apr session · GOC set Q6 · MCQ
 
 Given below are two statements:
 
@@ -398,7 +398,7 @@ In the light of the above statements, choose the correct answer.
 
 **Solution.** Hyperconjugation is a permanent effect (σ–π conjugation of C–H bonds, present in the ground state), so Statement I is false. More alkyl groups mean more α C–H bonds available for hyperconjugation and a more stable cation, so Statement II is true.
 
-### C-GOC-30 · A — JEE Main 2025 · Apr session · GOC set Q7 · MCQ
+### C-GOC-30 · B — JEE Main 2025 · Apr session · GOC set Q7 · MCQ
 
 Designate whether each of the following compounds is aromatic or not aromatic: (a) cyclopentadienyl anion, (b) cyclopentadienyl cation, (c) cyclobutadiene dication, (d) cyclobutadiene dianion, (e) cycloheptatrienyl cation, (f) cyclooctatetraene, (g) cyclobutadiene, (h) cyclopropenyl cation.
 
@@ -410,7 +410,7 @@ Designate whether each of the following compounds is aromatic or not aromatic: (
 
 **Solution.** Aromatic needs a planar, fully conjugated ring with $(4n+2)\,\pi$ electrons. (a) 6$\pi$ ✓; (b) 4$\pi$ anti-aromatic; (c) 2$\pi$ ✓; (d) 6$\pi$ ✓; (e) 6$\pi$ ✓; (f) non-planar, non-aromatic; (g) 4$\pi$ anti-aromatic; (h) 2$\pi$ ✓. Aromatic: a, c, d, e, h.
 
-### C-GOC-31 · A — JEE Main 2025 · Apr session · GOC set Q9 · MCQ
+### C-GOC-31 · B — JEE Main 2025 · Apr session · GOC set Q9 · MCQ
 
 Match List-I with List-II.
 
@@ -424,7 +424,7 @@ I. Species that can supply a pair of electrons  II. Species that can receive a p
 
 **Solution.** A carbocation is a trigonal planar $sp^2$ carbon with an empty p orbital (III). A carbon free radical has one unpaired electron on an $sp^2$ or $sp^3$ carbon (IV). A nucleophile donates a pair of electrons (I); an electrophile accepts a pair (II).
 
-### C-GOC-32 · A — JEE Main 2025 · Apr session · GOC set Q12 · MCQ
+### C-GOC-32 · B — JEE Main 2025 · Apr session · GOC set Q12 · MCQ
 
 Match List-I (purification technique) with List-II (mixture of organic compounds).
 
@@ -440,7 +440,7 @@ I. Diesel + petrol  II. Aniline + water  III. Chloroform + aniline  IV. Glycerol
 
 **Solution.** Chloroform (b.p. 61 °C) and aniline (184 °C) differ widely in boiling point: simple distillation. Diesel and petrol are close-boiling liquid fractions: fractional distillation. Glycerol decomposes at its normal boiling point, so it is separated from spent lye under reduced pressure. Aniline is separated from water by steam distillation.
 
-### C-GOC-33 · A — JEE Main 2025 · Apr session · GOC set Q13 · MCQ
+### C-GOC-33 · B — JEE Main 2025 · Apr session · GOC set Q13 · MCQ
 
 Match List-I (separation of) with List-II (separation technique).
 
@@ -454,7 +454,7 @@ I. Simple distillation  II. Fractional distillation  III. Distillation at reduce
 
 **Solution.** Aniline–water: steam distillation (IV). Glycerol from spent lye: reduced pressure (III). Crude oil fractions: fractional distillation (II). Chloroform–aniline: simple distillation (I).
 
-### C-GOC-34 · A — JEE Main 2025 · Apr session · GOC set Q14 · MCQ
+### C-GOC-34 · B — JEE Main 2025 · Apr session · GOC set Q14 · MCQ
 
 In Dumas' method for estimation of nitrogen, 0.5 g of an organic compound gave 60 mL of nitrogen collected at 300 K and 715 mm Hg pressure. The percentage composition of nitrogen in the compound is (aqueous tension at 300 K = 15 mm Hg):
 
@@ -464,7 +464,7 @@ In Dumas' method for estimation of nitrogen, 0.5 g of an organic compound gave 6
 
 **Solution.** Pressure of dry N$_2$ $=715-15=700$ mm Hg. Volume at STP $=\dfrac{700\times60\times273}{300\times760}=50.3$ mL. Mass of N $=\dfrac{50.3}{22400}\times28=0.0629$ g, so the percentage is $\dfrac{0.0629}{0.5}\times100=12.57\%$.
 
-### C-GOC-35 · A — JEE Main 2025 · Apr session · GOC set Q16 · MCQ
+### C-GOC-35 · B — JEE Main 2025 · Apr session · GOC set Q16 · MCQ
 
 In Dumas' method for estimation of nitrogen, 0.4 g of an organic compound gave 60 mL of nitrogen collected at 300 K and 715 mm Hg pressure. The percentage composition of nitrogen in the compound is: (aqueous tension at 300 K = 15 mm Hg)
 
@@ -474,7 +474,7 @@ In Dumas' method for estimation of nitrogen, 0.4 g of an organic compound gave 6
 
 **Solution.** $V_{STP}=\dfrac{(715-15)\times60\times273}{300\times760}=50.3$ mL, so the mass of N is $\dfrac{50.3}{22400}\times28=0.0629$ g. Percentage $=\dfrac{0.0629}{0.4}\times100=15.7\%$.
 
-### C-GOC-36 · A — JEE Main 2025 · Apr session · GOC set Q17 · Numerical
+### C-GOC-36 · B — JEE Main 2025 · Apr session · GOC set Q17 · Numerical
 
 In Dumas' method for estimation of nitrogen, 1 g of an organic compound gave 150 mL of nitrogen collected at 300 K and 900 mm Hg pressure. The percentage composition of nitrogen in the compound is ______ % (nearest integer). (Aqueous tension at 300 K = 15 mm Hg)
 
@@ -482,7 +482,7 @@ In Dumas' method for estimation of nitrogen, 1 g of an organic compound gave 150
 
 **Solution.** $P_{N_2}=900-15=885$ mm Hg. $V_{STP}=\dfrac{885\times150\times273}{300\times760}=158.9$ mL. Mass of N $=\dfrac{158.9}{22400}\times28=0.199$ g, i.e. $19.9\approx20\%$.
 
-### C-GOC-37 · A — JEE Main 2025 · Apr session · GOC set Q18 · Numerical
+### C-GOC-37 · B — JEE Main 2025 · Apr session · GOC set Q18 · Numerical
 
 In Dumas' method, 292 mg of an organic compound released 50 mL of nitrogen gas (N$_2$) at 300 K and 715 mm Hg pressure. The percentage composition of N in the organic compound is ______ % (nearest integer). (Aqueous tension at 300 K = 15 mm Hg)
 
@@ -490,7 +490,7 @@ In Dumas' method, 292 mg of an organic compound released 50 mL of nitrogen gas (
 
 **Solution.** $V_{STP}=\dfrac{(715-15)\times50\times273}{300\times760}=41.9$ mL. Mass of N $=\dfrac{41.9}{22400}\times28=52.4$ mg. Percentage $=\dfrac{52.4}{292}\times100=17.9\approx18\%$.
 
-### C-GOC-38 · A — JEE Main 2025 · Apr session · GOC set Q19 · MCQ
+### C-GOC-38 · B — JEE Main 2025 · Apr session · GOC set Q19 · MCQ
 
 In which of the following pairs is the first ion more stable than the second? (A) cyclohexyl cation bearing –OMe vs. cyclohexyl cation bearing –Me; (B) the carbanion on a cyclohexyl ring bearing *o*-nitrophenyl vs. the corresponding carbocation; (C) cyclohexylmethyl cation vs. cyclohex-1-enylmethyl cation; (D) a *tert*-butyl-type cation vs. its –OMe-substituted analogue (as drawn).
 
@@ -502,7 +502,7 @@ In which of the following pairs is the first ion more stable than the second? (A
 
 **Solution.** (A) The α-OMe cation is stabilised by the oxygen lone pair (extra resonance), more than α-Me: ✓. (B) A carbanion is stabilised by an electron-withdrawing nitrophenyl, whereas the same group destabilises a carbocation: ✓. (C) The cyclohexenylmethyl (allylic) cation is stabilised by resonance, so the first is less stable. (D) The OMe-substituted cation is more stable than the plain tertiary one, so the first is less stable. Hence (A) and (B).
 
-### C-GOC-39 · A — JEE Main 2024 · 27 Jan Shift 1 · Q55 · Numerical
+### C-GOC-39 · B — JEE Main 2024 · 27 Jan Shift 1 · Q55 · Numerical
 
 Among the following, the total number of meta-directing functional groups is: $-\text{OCH}_3,\ -\text{NO}_2,\ -\text{CN},\ -\text{CH}_3,\ -\text{NHCOCH}_3,\ -\text{COR},\ -\text{OH},\ -\text{COOH},\ -\text{Cl}$
 
@@ -510,7 +510,7 @@ Among the following, the total number of meta-directing functional groups is: $-
 
 **Solution.** Electron-withdrawing groups by $-M$ deactivate the ring and direct meta: $-\text{NO}_2$, $-\text{CN}$, $-\text{COR}$, $-\text{COOH}$. The others ($-\text{OCH}_3$, $-\text{CH}_3$, $-\text{NHCOCH}_3$, $-\text{OH}$, $-\text{Cl}$) are ortho/para directing.
 
-### C-GOC-40 · A — JEE Main 2024 · 27 Jan Shift 2 · Q35 · MCQ
+### C-GOC-40 · C — JEE Main 2024 · 27 Jan Shift 2 · Q35 · MCQ
 
 The incorrect statement regarding conformations of ethane is
 
@@ -523,7 +523,7 @@ The incorrect statement regarding conformations of ethane is
 
 **Solution.** Free rotation about C–C gives infinitely many conformations that interconvert easily (barrier $\approx12$ kJ/mol). The staggered form has a $60^\circ$ dihedral angle and is the most stable because torsional strain is minimal. The eclipsed form is the least stable, so (3) is incorrect.
 
-### C-GOC-41 · A — JEE Main 2024 · 29 Jan Shift 1 · Q37 · MCQ
+### C-GOC-41 · C — JEE Main 2024 · 29 Jan Shift 1 · Q37 · MCQ
 
 The interaction between a $\pi$ bond and a lone pair of electrons present on an adjacent atom is responsible for
 
@@ -533,7 +533,7 @@ The interaction between a $\pi$ bond and a lone pair of electrons present on an 
 
 **Solution.** Overlap of a $p$-orbital carrying a lone pair with an adjacent $\pi$ system delocalises electrons: this is the resonance (mesomeric, $+R$) effect. Hyperconjugation involves a $\sigma$ bond (C–H) with a $\pi$ bond, and the inductive effect is $\sigma$-polarisation.
 
-### C-GOC-42 · A — JEE Main 2024 · 29 Jan Shift 1 · Q38 · MCQ
+### C-GOC-42 · C — JEE Main 2024 · 29 Jan Shift 1 · Q38 · MCQ
 
 The difference in energy between the actual structure and the lowest-energy resonance structure of a compound is
 
@@ -543,7 +543,7 @@ The difference in energy between the actual structure and the lowest-energy reso
 
 **Solution.** This is the definition of resonance (delocalisation) energy: the extra stability of the resonance hybrid relative to its most stable contributing structure.
 
-### C-GOC-43 · A — JEE Main 2024 · 29 Jan Shift 1 · Q54 · Numerical
+### C-GOC-43 · C — JEE Main 2024 · 29 Jan Shift 1 · Q54 · Numerical
 
 The number of compounds among the following that contain sulphur as a heteroatom is ______: furan, thiophene, pyridine, pyrrole, cysteine, tyrosine.
 
@@ -551,7 +551,7 @@ The number of compounds among the following that contain sulphur as a heteroatom
 
 **Solution.** Furan has O, pyridine and pyrrole have N, and tyrosine has O and N only. Thiophene (S in the ring) and cysteine ($\text{HS-CH}_2\text{-CH(NH}_2)\text{COOH}$) contain sulphur. Count $=2$.
 
-### C-GOC-44 · A — JEE Main 2024 · 29 Jan Shift 2 · Q52 · Numerical
+### C-GOC-44 · C — JEE Main 2024 · 29 Jan Shift 2 · Q52 · Numerical
 
 The total number of $\sigma$ and $\pi$ bonds in 2-formylhex-4-enoic acid is ______.
 
@@ -559,7 +559,7 @@ The total number of $\sigma$ and $\pi$ bonds in 2-formylhex-4-enoic acid is ____
 
 **Solution.** Structure: $\text{HOOC-CH(CHO)-CH}_2\text{-CH=CH-CH}_3$. $\sigma$ bonds: C–C: $6$ (including the C=C's $\sigma$ component and the branch to CHO); C–H: $1+2+1+1+3+1=9$; in COOH: C=O (1), C–O (1), O–H (1) $=3$; in CHO: C=O (1). Total $\sigma=6+9+3+1=19$. $\pi$ bonds: C=O of COOH, C=C, C=O of CHO $=3$. Total $=22$.
 
-### C-GOC-45 · A — JEE Main 2024 · 30 Jan Shift 2 · Q36 · MCQ
+### C-GOC-45 · C — JEE Main 2024 · 30 Jan Shift 2 · Q36 · MCQ
 
 The correct stability order of the carbocations $(\text{CH}_3)_3\text{C}^+$, $(\text{CH}_3)_2\text{CH}^+$, $\text{CH}_3\text{CH}_2^+$ and $\text{CH}_3^+$ is
 
@@ -569,7 +569,7 @@ The correct stability order of the carbocations $(\text{CH}_3)_3\text{C}^+$, $(\
 
 **Solution.** Alkyl groups stabilise a carbocation by $+I$ and hyperconjugation. The number of $\alpha$-hydrogens available for hyperconjugation is $9,6,3,0$, so stability follows $3^\circ>2^\circ>1^\circ>\text{methyl}$.
 
-### C-GOC-46 · A — JEE Main 2024 · 31 Jan Shift 1 · Q35 · MCQ
+### C-GOC-46 · C — JEE Main 2024 · 31 Jan Shift 1 · Q35 · MCQ
 
 A species having a carbon with a sextet of electrons that can act as an electrophile is called
 
@@ -579,7 +579,7 @@ A species having a carbon with a sextet of electrons that can act as an electrop
 
 **Solution.** A carbocation ($\text{R}_3\text{C}^+$) has only $6$ electrons in the valence shell of the carbon, so it is electron-deficient and electrophilic. A free radical has $7$ and a carbanion has $8$.
 
-### C-GOC-47 · A — JEE Main 2024 · 1 Feb Shift 1 · Q40 · MCQ
+### C-GOC-47 · C — JEE Main 2024 · 1 Feb Shift 1 · Q40 · MCQ
 
 Ionic reactions with organic compounds proceed through:  
 (A) Homolytic bond cleavage  (B) Heterolytic bond cleavage  (C) Free radical formation  (D) Primary free radical  (E) Secondary free radical
@@ -590,7 +590,7 @@ Ionic reactions with organic compounds proceed through:
 
 **Solution.** Ionic (polar) reactions involve carbocations/carbanions produced by heterolytic cleavage, where the bonding pair goes to one atom. Homolysis and free radicals belong to radical reactions.
 
-### C-GOC-48 · A — JEE Main 2024 · 1 Feb Shift 2 · Q39 · MCQ
+### C-GOC-48 · C — JEE Main 2024 · 1 Feb Shift 2 · Q39 · MCQ
 
 The set of meta-directing groups is:
 
@@ -600,7 +600,7 @@ The set of meta-directing groups is:
 
 **Solution.** Meta directors are electron-withdrawing ($-M$/$-I$) groups: $-\text{NO}_2,-\text{CHO},-\text{SO}_3\text{H},-\text{COR}$. $-\text{NH}_2,-\text{NHR},-\text{OCH}_3,-\text{NHCOCH}_3$ are ortho/para directing.
 
-### C-GOC-49 · A — JEE Main 2024 · 1 Feb Shift 2 · Q40 · MCQ
+### C-GOC-49 · C — JEE Main 2024 · 1 Feb Shift 2 · Q40 · MCQ
 
 The functional group that shows a negative resonance effect ($-R$) is:
 
@@ -610,7 +610,7 @@ The functional group that shows a negative resonance effect ($-R$) is:
 
 **Solution.** $-\text{NH}_2$, $-\text{OH}$ and $-\text{OR}$ donate a lone pair into the ring ($+R$). $-\text{COOH}$ withdraws electrons by resonance ($-R$).
 
-### C-GOC-50 · A — JEE Main 2024 · 4 Apr Shift 1 · Q37 · MCQ
+### C-GOC-50 · C — JEE Main 2024 · 4 Apr Shift 1 · Q37 · MCQ
 
 Which of the following is an **incorrect** statement?
 
@@ -620,7 +620,7 @@ Which of the following is an **incorrect** statement?
 
 **Solution.** The electromeric effect is a temporary complete transfer of $\pi$ electrons, shown only in the presence of an attacking reagent, and it dominates the inductive effect. When the attacking reagent is an electrophile such as $\text{H}^+$ the transfer is towards the attacked atom: $+E$, not $-E$. Statement (3) is wrong.
 
-### C-GOC-51 · A — JEE Main 2024 · 8 Apr Shift 2 · Q32 · MCQ
+### C-GOC-51 · C — JEE Main 2024 · 8 Apr Shift 2 · Q32 · MCQ
 
 The shape of a carbocation is:
 

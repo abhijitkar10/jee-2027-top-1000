@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/maths/mathematical-reasoning.md](../../theory/maths/mathematical-reasoning.md)
 
-### M-MRE-01 · C — JEE Main 2023 · 24 Jan Shift 2 · Logic set Q2 · MCQ
+### M-MRE-01 · A — JEE Main 2023 · 24 Jan Shift 2 · Logic set Q2 · MCQ
 
 Let $p$ and $q$ be two statements. Then $\sim\big(p\wedge(p\Rightarrow\sim q)\big)$ is equivalent to:
 
@@ -12,7 +12,7 @@ Let $p$ and $q$ be two statements. Then $\sim\big(p\wedge(p\Rightarrow\sim q)\bi
 
 **Solution.** $p\Rightarrow\sim q\equiv\sim p\vee\sim q$. So $p\wedge(\sim p\vee\sim q)\equiv p\wedge\sim q$, whose negation is $\sim p\vee q$.
 
-### M-MRE-02 · C — JEE Main 2023 · 25 Jan Shift 1 · Logic set Q3 · MCQ
+### M-MRE-02 · A — JEE Main 2023 · 25 Jan Shift 1 · Logic set Q3 · MCQ
 
 The statement $(p\wedge(\sim q))\Rightarrow(p\Rightarrow(\sim q))$ is:
 
@@ -22,7 +22,7 @@ The statement $(p\wedge(\sim q))\Rightarrow(p\Rightarrow(\sim q))$ is:
 
 **Solution.** The antecedent $p\wedge\sim q$ is true only when $p$ is true and $q$ is false; then $p\Rightarrow\sim q$ is $T\Rightarrow T=T$. Whenever the antecedent is false the implication is true. So the statement is true in every case: a tautology.
 
-### M-MRE-03 · C — JEE Main 2023 · 29 Jan Shift 1 · Logic set Q5 · MCQ
+### M-MRE-03 · B — JEE Main 2023 · 29 Jan Shift 1 · Logic set Q5 · MCQ
 
 If $p$, $q$ and $r$ are three propositions, then which of the following combinations of truth values of $p$, $q$ and $r$ makes the logical expression $\{(p\vee q)\wedge((\sim p)\vee r)\}\to((\sim q)\vee r)$ false?
 
@@ -32,7 +32,7 @@ If $p$, $q$ and $r$ are three propositions, then which of the following combinat
 
 **Solution.** An implication is false only when the antecedent is true and the consequent is false. $(\sim q)\vee r$ false needs $q=T$, $r=F$. Then $p\vee q=T$ and $(\sim p)\vee r=\sim p$ must be true, so $p=F$. The combination is $p=F$, $q=T$, $r=F$.
 
-### M-MRE-04 · C — JEE Main 2023 · 30 Jan Shift 2 · Logic set Q8 · MCQ
+### M-MRE-04 · B — JEE Main 2023 · 30 Jan Shift 2 · Logic set Q8 · MCQ
 
 Consider the following statements: $P$: I have fever; $Q$: I will not take medicine; $R$: I will take rest. The statement "If I have fever, then I will take medicine and I will take rest" is equivalent to:
 

@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/mole-concept.md](../../theory/chemistry/mole-concept.md)
 
-### C-MOL-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### C-MOL-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 Aqueous HCl reacts with $\mathrm{MnO_2(s)}$ to form $\mathrm{MnCl_2(aq)}$, $\mathrm{Cl_2(g)}$ and $\mathrm{H_2O(l)}$. What is the weight (in g) of $\mathrm{Cl_2}$ liberated when 8.7 g of $\mathrm{MnO_2(s)}$ is reacted with excess aqueous HCl solution? (Given molar mass in g mol$^{-1}$: Mn = 55, Cl = 35.5, O = 16, H = 1)
 
@@ -12,7 +12,7 @@ Aqueous HCl reacts with $\mathrm{MnO_2(s)}$ to form $\mathrm{MnCl_2(aq)}$, $\mat
 
 **Solution.** $\mathrm{MnO_2+4HCl\to MnCl_2+Cl_2+2H_2O}$. $n(\mathrm{MnO_2})=\dfrac{8.7}{87}=0.1$ mol gives $0.1$ mol $\mathrm{Cl_2}$, i.e. $0.1\times71=7.1$ g.
 
-### C-MOL-02 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
+### C-MOL-02 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q2 · MCQ
 
 For the reaction $\mathrm{CaCO_3+2HCl\to CaCl_2+H_2O+CO_2}$: if 90 g $\mathrm{CaCO_3}$ is added to 300 mL of HCl which contains 38.55% HCl by mass and has density $1.13$ g mL$^{-1}$, which of the following options is correct? (Given molar mass of H, Cl, Ca and O are 1, 35.5, 40 and 16 g mol$^{-1}$ respectively.)
 
@@ -22,7 +22,7 @@ For the reaction $\mathrm{CaCO_3+2HCl\to CaCl_2+H_2O+CO_2}$: if 90 g $\mathrm{Ca
 
 **Solution.** Mass of solution $=300\times1.13=339$ g, HCl $=339\times0.3855=130.7$ g $=3.58$ mol. $\mathrm{CaCO_3}=\dfrac{90}{100}=0.9$ mol needs $1.8$ mol HCl, so $\mathrm{CaCO_3}$ is limiting and HCl is in excess: left over $=(3.58-1.8)\times36.5=64.97$ g.
 
-### C-MOL-03 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q3 · MCQ
+### C-MOL-03 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q3 · MCQ
 
 $\mathrm{A+2B\to AB_2}$. 36.0 g of 'A' (molar mass 60 g mol$^{-1}$) and 56.0 g of 'B' (molar mass 80 g mol$^{-1}$) are allowed to react. Which of the following statements are correct?
 
@@ -37,7 +37,7 @@ D. 15.0 g of A is left unreacted after the completion of the reaction.
 
 **Solution.** $n_A=\dfrac{36}{60}=0.6$ mol, $n_B=\dfrac{56}{80}=0.7$ mol. 0.6 mol of A would need 1.2 mol of B, so **B is limiting** (A false). $n(\mathrm{AB_2})=\dfrac{0.7}{2}=0.35$ mol, and $M(\mathrm{AB_2})=60+2\times80=220$ g mol$^{-1}$ (C false), so mass $=0.35\times220=77.0$ g (B true). A left $=0.6-0.35=0.25$ mol $=15.0$ g (D true).
 
-### C-MOL-04 · B — JEE Main 2026 · 22 Jan Shift 1 · set Q4 · MCQ
+### C-MOL-04 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q4 · MCQ
 
 In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
@@ -47,7 +47,7 @@ In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
 **Solution.** 6 mol HCl gives 3 mol $\mathrm{H_2}$, so 1 mol HCl gives 0.5 mol $\mathrm{H_2}=11.2$ L at STP – (1) true. (2) false: the gas volume depends on $T$ and $p$ (33.6 L is the volume at STP only). (3) false: HCl(aq) is a solution; litres of solution have no fixed relation to litres of gas. (4) false: 1 mol Al gives 1.5 mol $\mathrm{H_2}=33.6$ L, not 67.2 L.
 
-### C-MOL-05 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
+### C-MOL-05 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q5 · MCQ
 
 14.0 g of calcium metal is allowed to react with excess HCl at 1.0 atm pressure and 273 K. Which of the following statements is incorrect? [Given: molar mass in g mol$^{-1}$: Ca 40, Cl 35.5, H 1]
 
@@ -57,7 +57,7 @@ In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
 **Solution.** $\mathrm{Ca+2HCl\to CaCl_2+H_2}$. $n(\mathrm{Ca})=\dfrac{14}{40}=0.35$ mol gives $0.35$ mol $\mathrm{H_2}$ (1 true), $0.35\times22.4=7.84$ L (2 true); HCl is in excess so Ca is limiting (3 true). $\mathrm{CaCl_2}=0.35\times111=38.85$ g, not 33.3 g – (4) is incorrect.
 
-### C-MOL-06 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+### C-MOL-06 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
 
 80 mL of a hydrocarbon on mixing with 264 mL of oxygen in a closed U-tube undergoes complete combustion. The residual gases after cooling to 273 K occupy 224 mL. When the system is treated with KOH solution, the volume decreases to 64 mL. The formula of the hydrocarbon is:
 
@@ -67,7 +67,7 @@ In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
 **Solution.** KOH absorbs $\mathrm{CO_2}$: $V(\mathrm{CO_2})=224-64=160$ mL; the remaining 64 mL is unused $\mathrm{O_2}$, so $\mathrm{O_2}$ consumed $=264-64=200$ mL (water condenses). For $\mathrm{C_xH_y}$: $x=\dfrac{160}{80}=2$ and $x+\dfrac y4=\dfrac{200}{80}=2.5\Rightarrow y=2$. The hydrocarbon is $\mathrm{C_2H_2}$.
 
-### C-MOL-07 · B — JEE Main 2025 · Jan session · Mole set Q1 · Numerical
+### C-MOL-07 · A — JEE Main 2025 · Jan session · Mole set Q1 · Numerical
 
 20 mL of 2 M NaOH solution is added to 400 mL of 0.5 M NaOH solution. The final concentration of the solution is ______ $\times10^{-2}$ M. (Nearest integer)
 
@@ -75,7 +75,7 @@ In the reaction $\mathrm{2Al(s)+6HCl(aq)\to2Al^{3+}(aq)+6Cl^-(aq)+3H_2(g)}$:
 
 **Solution.** Moles $=0.020\times2+0.400\times0.5=0.24$ mol in 0.420 L: $M=0.5714=57.14\times10^{-2}$ M, so the answer is 57.
 
-### C-MOL-08 · B — JEE Main 2025 · Jan session · Mole set Q2 · Numerical
+### C-MOL-08 · A — JEE Main 2025 · Jan session · Mole set Q2 · Numerical
 
 The hydrocarbon (X) with molar mass 80 g mol$^{-1}$ and 90% carbon has ______ degree of unsaturation.
 
@@ -83,7 +83,7 @@ The hydrocarbon (X) with molar mass 80 g mol$^{-1}$ and 90% carbon has ______ de
 
 **Solution.** Carbon $=0.9\times80=72$ g, i.e. 6 C atoms; hydrogen $=8$ g, i.e. 8 H atoms: C$_6$H$_8$. Degree of unsaturation $=\dfrac{2\cdot6+2-8}2=3$.
 
-### C-MOL-09 · B — JEE Main 2025 · Jan session · Mole set Q3 · MCQ
+### C-MOL-09 · A — JEE Main 2025 · Jan session · Mole set Q3 · MCQ
 
 The elemental composition of a compound is 54.2% C, 9.2% H and 36.6% O. If the molar mass of the compound is 132 g mol$^{-1}$, the molecular formula of the compound is: [Given: relative atomic mass of C : H : O = 12 : 1 : 16]
 
@@ -147,7 +147,7 @@ Among $10^{-9}$ g (each) of the following elements, which one will have the high
 
 **Solution.** For equal masses, the number of atoms is inversely proportional to the atomic mass. Atomic masses: Pb 207, Po 209, Pr 141, Pt 195. Pr has the smallest, so it has the most atoms.
 
-### C-MOL-16 · C — JEE Main 2024 · 27 Jan Shift 1 · Q51 · Numerical
+### C-MOL-16 · B — JEE Main 2024 · 27 Jan Shift 1 · Q51 · Numerical
 
 The mass of methane required to produce $22$ g of $\text{CO}_2$ after complete combustion is ______ g. (Molar masses: C = 12.0, H = 1.0, O = 16.0)
 
@@ -155,7 +155,7 @@ The mass of methane required to produce $22$ g of $\text{CO}_2$ after complete c
 
 **Solution.** $\text{CH}_4+2\text{O}_2\to\text{CO}_2+2\text{H}_2\text{O}$. $22$ g $\text{CO}_2=0.5$ mol, so $0.5$ mol $\text{CH}_4=0.5\times16=8$ g.
 
-### C-MOL-17 · C — JEE Main 2024 · 27 Jan Shift 2 · Q51 · Numerical
+### C-MOL-17 · B — JEE Main 2024 · 27 Jan Shift 2 · Q51 · Numerical
 
 The volume of $3$ M NaOH (formula weight $40\ \text{g mol}^{-1}$) which can be prepared from $84$ g of NaOH is ______ $\times10^{-1}\ \text{dm}^3$.
 

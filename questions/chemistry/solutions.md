@@ -224,7 +224,7 @@ A solution of two miscible liquids showing negative deviation from Raoult's law 
 
 **Solution.** Negative deviation means A–B attractions exceed A–A and B–B, so escaping tendency falls: vapour pressure is lower than ideal, and boiling point higher (maximum-boiling azeotropes such as $\text{HNO}_3$–water).
 
-### C-SOL-23 · B — JEE Main 2024 · 27 Jan Shift 2 · Q38 · MCQ
+### C-SOL-23 · C — JEE Main 2024 · 27 Jan Shift 2 · Q38 · MCQ
 
 The quantity which changes with temperature is
 
@@ -234,7 +234,7 @@ The quantity which changes with temperature is
 
 **Solution.** Molarity $=\dfrac{\text{moles of solute}}{\text{volume of solution}}$ and the volume changes with temperature. Mass percentage, molality and mole fraction depend only on masses or amounts, so they are temperature independent.
 
-### C-SOL-24 · B — JEE Main 2024 · 29 Jan Shift 1 · Q56 · Numerical
+### C-SOL-24 · C — JEE Main 2024 · 29 Jan Shift 1 · Q56 · Numerical
 
 A solution of $\text{H}_2\text{SO}_4$ is $31.4\%$ by mass and has a density of $1.25\ \text{g mL}^{-1}$. The molarity of the solution is ______ M (nearest integer). [Molar mass of $\text{H}_2\text{SO}_4=98\ \text{g mol}^{-1}$]
 
@@ -242,7 +242,7 @@ A solution of $\text{H}_2\text{SO}_4$ is $31.4\%$ by mass and has a density of $
 
 **Solution.** In $100$ g of solution there is $31.4$ g of $\text{H}_2\text{SO}_4=0.3204$ mol. Volume $=\dfrac{100}{1.25}=80$ mL $=0.08$ L. $M=\dfrac{0.3204}{0.08}=4.0$.
 
-### C-SOL-25 · B — JEE Main 2024 · 29 Jan Shift 2 · Q57 · Numerical
+### C-SOL-25 · C — JEE Main 2024 · 29 Jan Shift 2 · Q57 · Numerical
 
 The molality of a $0.8$ M $\text{H}_2\text{SO}_4$ solution (density $1.06\ \text{g cm}^{-3}$) is ______ $\times10^{-3}$ m (nearest integer).
 
@@ -250,7 +250,7 @@ The molality of a $0.8$ M $\text{H}_2\text{SO}_4$ solution (density $1.06\ \text
 
 **Solution.** In $1$ L: mass of solution $=1060$ g and $\text{H}_2\text{SO}_4=0.8\times98=78.4$ g, so solvent $=1060-78.4=981.6$ g. Molality $=\dfrac{0.8}{0.9816}=0.815$ mol/kg $=815\times10^{-3}$ m.
 
-### C-SOL-26 · B — JEE Main 2024 · 30 Jan Shift 1 · Q40 · MCQ
+### C-SOL-26 · C — JEE Main 2024 · 30 Jan Shift 1 · Q40 · MCQ
 
 What happens to the freezing point of benzene when a small quantity of naphthalene is added to benzene?
 
@@ -260,7 +260,7 @@ What happens to the freezing point of benzene when a small quantity of naphthale
 
 **Solution.** A non-volatile solute lowers the vapour pressure of the solvent, giving depression of freezing point: $\Delta T_f=K_fm$. The solution freezes at a lower temperature than pure benzene.
 
-### C-SOL-27 · B — JEE Main 2024 · 6 Apr Shift 1 · Q31 · MCQ
+### C-SOL-27 · C — JEE Main 2024 · 6 Apr Shift 1 · Q31 · MCQ
 
 The density of a solution of NaOH ($x$ molar) is $1.12\ \text{g mL}^{-1}$, while in molality the concentration of the solution is $3$ m ($3$ molal). Then $x$ is (molar mass of NaOH $=40$ g/mol):
 
@@ -270,7 +270,7 @@ The density of a solution of NaOH ($x$ molar) is $1.12\ \text{g mL}^{-1}$, while
 
 **Solution.** Take $1$ kg of solvent: $3$ mol NaOH $=120$ g. Solution mass $=1120$ g. Volume $=\dfrac{1120}{1.12}=1000$ mL $=1$ L. Molarity $=\dfrac{3\ \text{mol}}{1\ \text{L}}=3.0$ M.
 
-### C-SOL-28 · B — JEE Main 2024 · 6 Apr Shift 2 · Q31 · MCQ
+### C-SOL-28 · C — JEE Main 2024 · 6 Apr Shift 2 · Q31 · MCQ
 
 The molality of a $3$ M aqueous solution of NaCl (density $1.25\ \text{g mL}^{-1}$; Na $=23$, Cl $=35.5$ g mol$^{-1}$) is:
 
@@ -280,7 +280,7 @@ The molality of a $3$ M aqueous solution of NaCl (density $1.25\ \text{g mL}^{-1
 
 **Solution.** In $1$ L: solution mass $=1250$ g; NaCl $=3\times58.5=175.5$ g; water $=1074.5$ g. Molality $=\dfrac{3}{1.0745}=2.79$ m.
 
-### C-SOL-29 · B — JEE Main 2024 · 8 Apr Shift 2 · Q56 · Numerical
+### C-SOL-29 · C — JEE Main 2024 · 8 Apr Shift 2 · Q56 · Numerical
 
 A solution is prepared by adding $1$ mole of ethyl alcohol to $9$ mole of water. The mass percent of solute in the solution is ______ (integer). (Molar masses: ethyl alcohol $46$, water $18$ g mol$^{-1}$)
 

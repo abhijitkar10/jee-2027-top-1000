@@ -138,7 +138,7 @@ Using the given $P$–$V$ diagram, the work done by an ideal gas along the path 
 
 **Solution.** Work is the signed area under the path. $A\to B$ (isobaric expansion at $P_0$ from $2V_0$ to $3V_0$): $+P_0V_0$. $B\to C$ (isochoric): $0$. $C\to D$ (isobaric compression at $2P_0$ from $3V_0$ to $V_0$): $-2P_0\cdot2V_0=-4P_0V_0$. Total $=P_0V_0-4P_0V_0=-3P_0V_0$.
 
-### P-THD-14 · A — JEE Main 2025 · Jan session · Thermo set Q7 · Numerical
+### P-THD-14 · B — JEE Main 2025 · Jan session · Thermo set Q7 · Numerical
 
 The temperature of 1 mole of an ideal monoatomic gas is increased by $50^\circ$C at constant pressure. The total heat added and the change in internal energy are $E_1$ and $E_2$ respectively. If $\dfrac{E_1}{E_2}=\dfrac x9$, then the value of $x$ is ______.
 
@@ -146,19 +146,7 @@ The temperature of 1 mole of an ideal monoatomic gas is increased by $50^\circ$C
 
 **Solution.** $E_1=C_p\Delta T=\tfrac52R\,\Delta T$ and $E_2=C_v\Delta T=\tfrac32R\,\Delta T$, so $\dfrac{E_1}{E_2}=\dfrac53=\dfrac{15}{9}$ and $x=15$.
 
-### P-THD-15 · A — JEE Main 2025 · Jan session · Thermo set Q8 · MCQ
-
-The magnitude of heat exchanged by a system for the given cyclic process $ABCA$ (as shown in the figure) is (in SI units):
-
-![Figure](../../figures/j25_phy_thermodynamics/q8-1.png)
-
-(1) $5\pi$  (2) $40\pi$  (3) $10\pi$  (4) zero
-
-**Answer: (1)** · key (compiled)
-
-**Solution.** For a complete cycle $\Delta U=0$, so $|Q|=|W|=$ area enclosed on the $P$–$V$ diagram. The cycle $ABCA$ is the upper half of a circle (centre at $V=300$ cc, $P=300$ kPa; radius 100 cc by 100 kPa) closed by the horizontal diameter $CA$. Area $=\tfrac12\pi(100\ \text{cc})(100\ \text{kPa})=\tfrac12\pi(10^{-4}\ \text{m}^3)(10^{5}\ \text{Pa})=5\pi$ J.
-
-### P-THD-16 · A — JEE Main 2025 · Apr session · Thermo set Q1 · MCQ
+### P-THD-15 · B — JEE Main 2025 · Apr session · Thermo set Q1 · MCQ
 
 Match List-I with List-II.
 
@@ -179,7 +167,7 @@ Choose the correct answer from the options given below:
 
 **Solution.** First law: $\Delta Q=\Delta U+\Delta W$. Isobaric: $\Delta W=P\Delta V$, so $\Delta Q=\Delta U+P\Delta V$ (IV). Isochoric: $\Delta W=0$, so $\Delta Q=\Delta U$ (II). Adiabatic: $\Delta Q=0$ (III). Isothermal (ideal gas): $\Delta U=0$, so $\Delta Q=\Delta W$ (I). So A-IV, B-II, C-III, D-I.
 
-### P-THD-17 · A — JEE Main 2025 · Apr session · Thermo set Q2 · MCQ
+### P-THD-16 · B — JEE Main 2025 · Apr session · Thermo set Q2 · MCQ
 
 There are two vessels filled with an ideal gas, where the volume of one is double the volume of the other. The large vessel contains the gas at 8 kPa and 1000 K while the smaller vessel contains the gas at 7 kPa and 500 K. If the vessels are connected to each other by a thin tube allowing the gas to flow, and the temperature of both vessels is maintained at 600 K, then at steady state the pressure in the vessels will be (in kPa):
 
@@ -189,7 +177,7 @@ There are two vessels filled with an ideal gas, where the volume of one is doubl
 
 **Solution.** The total number of moles is conserved: $\dfrac{8\cdot2V}{R\,(1000)}+\dfrac{7\cdot V}{R\,(500)}=\dfrac{P'\cdot3V}{R\,(600)}$, i.e. $0.016+0.014=\dfrac{P'}{200}$, so $P'=6$ kPa.
 
-### P-THD-18 · A — JEE Main 2025 · Apr session · Thermo set Q3 · Numerical
+### P-THD-17 · B — JEE Main 2025 · Apr session · Thermo set Q3 · Numerical
 
 The internal energy of air in a room of size $4\ \text{m}\times4\ \text{m}\times3\ \text{m}$ at 1 atmospheric pressure will be ______ $\times10^6$ J. (Consider air as diatomic molecules.)
 
@@ -197,7 +185,7 @@ The internal energy of air in a room of size $4\ \text{m}\times4\ \text{m}\times
 
 **Solution.** For a diatomic gas $U=\dfrac52nRT=\dfrac52PV=\dfrac52\times1.01\times10^5\ \text{Pa}\times48\ \text{m}^3\approx1.2\times10^7$ J $=12\times10^6$ J.
 
-### P-THD-19 · A — JEE Main 2025 · Apr session · Thermo set Q6 · MCQ
+### P-THD-18 · B — JEE Main 2025 · Apr session · Thermo set Q6 · MCQ
 
 Identify the characteristics of an adiabatic process in a monoatomic gas.
 
@@ -215,27 +203,7 @@ Choose the correct answer from the options given below:
 
 **Solution.** Adiabatic means $Q=0$, so $W=-\Delta U$: the work equals the change in internal energy in magnitude (B true) and $U$ is not constant (A false). For a monoatomic gas $TV^{2/3}$ and $PV^{5/3}$ are constant, so (C) and (D) are false. $|W|=|\Delta U|=nC_v|T_2-T_1|$ is proportional to $(T_2-T_1)$ (E true). Correct: (B), (E) only.
 
-### P-THD-20 · A — JEE Main 2025 · Apr session · Thermo set Q8 · MCQ
-
-The pressure of an ideal gas contained in a closed vessel is increased by 0.4% when heated by $1^\circ$C. Its initial temperature must be:
-
-(1) $25^\circ$C  (2) 2500 K  (3) 250 K  (4) $250^\circ$C
-
-**Answer: (3)** · key (compiled)
-
-**Solution.** At constant volume $\dfrac{\Delta P}{P}=\dfrac{\Delta T}{T}$, so $T=\dfrac{\Delta T}{\Delta P/P}=\dfrac{1\ \text K}{0.004}=250$ K.
-
-### P-THD-21 · A — JEE Main 2025 · Apr session · Thermo set Q9 · Numerical
-
-An ideal gas has undergone the cyclic process shown in the figure. The work done by the gas in the entire cycle is ______ $\times10^{-1}$ J. (Take $\pi=3.14$.)
-
-![Figure](../../figures/a25_phy_thermodynamics/q9-1.png)
-
-**Answer: 314** · key (compiled)
-
-**Solution.** The work in a cycle equals the area enclosed by the loop on the $P$–$V$ diagram. The loop is a circle whose "radii" are 100 kPa (along $P$) and 100 cm$^3$ (along $V$): area $=\pi(100\times10^3\ \text{Pa})(100\times10^{-6}\ \text{m}^3)=10\pi=31.4$ J $=314\times10^{-1}$ J.
-
-### P-THD-22 · B — JEE Main 2024 · 27 Jan Shift 1 · Q8 · MCQ
+### P-THD-19 · B — JEE Main 2024 · 27 Jan Shift 1 · Q8 · MCQ
 
 $0.08$ kg of air is heated at constant volume through $5^\circ$C. The specific heat of air at constant volume is $0.17$ kcal kg$^{-1}$ $^\circ$C$^{-1}$ and $1\ \text{J}=4.18\ \text{cal}$ (i.e. $4.18$ J per cal). The change in its internal energy is approximately
 
@@ -245,7 +213,7 @@ $0.08$ kg of air is heated at constant volume through $5^\circ$C. The specific h
 
 **Solution.** At constant volume $\Delta U=mC_v\Delta T=0.08\times0.17\times5=0.068$ kcal $=68$ cal $=68\times4.18\approx284$ J.
 
-### P-THD-23 · B — JEE Main 2024 · 27 Jan Shift 2 · Q8 · MCQ
+### P-THD-20 · B — JEE Main 2024 · 27 Jan Shift 2 · Q8 · MCQ
 
 During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio $C_p/C_v$ for the gas is
 
@@ -255,7 +223,7 @@ During an adiabatic process, the pressure of a gas is found to be proportional t
 
 **Solution.** For an adiabatic process $P^{1-\gamma}T^{\gamma}=\text{const}\Rightarrow P\propto T^{\gamma/(\gamma-1)}$. Given $P\propto T^3$: $\dfrac\gamma{\gamma-1}=3\Rightarrow\gamma=\dfrac32$.
 
-### P-THD-24 · B — JEE Main 2024 · 29 Jan Shift 2 · Q10 · MCQ
+### P-THD-21 · B — JEE Main 2024 · 29 Jan Shift 2 · Q10 · MCQ
 
 $N$ moles of a polyatomic gas ($f=6$) must be mixed with two moles of a monoatomic gas so that the mixture behaves as a diatomic gas. The value of $N$ is
 
@@ -265,7 +233,7 @@ $N$ moles of a polyatomic gas ($f=6$) must be mixed with two moles of a monoatom
 
 **Solution.** Molar $C_v=\tfrac f2R$: polyatomic $3R$, monoatomic $\tfrac32R$, diatomic $\tfrac52R$. Mixing: $\dfrac{N(3)+2\left(\tfrac32\right)}{N+2}=\tfrac52\Rightarrow3N+3=2.5N+5\Rightarrow N=4$.
 
-### P-THD-25 · B — JEE Main 2024 · 30 Jan Shift 2 · Q9 · MCQ
+### P-THD-22 · B — JEE Main 2024 · 30 Jan Shift 2 · Q9 · MCQ
 
 If three moles of a monoatomic gas ($\gamma=\tfrac53$) are mixed with two moles of a diatomic gas ($\gamma=\tfrac75$), the value of the adiabatic exponent $\gamma$ for the mixture is
 
@@ -275,7 +243,7 @@ If three moles of a monoatomic gas ($\gamma=\tfrac53$) are mixed with two moles 
 
 **Solution.** $C_v$: monoatomic $\tfrac32R$, diatomic $\tfrac52R$. $C_{v,mix}=\dfrac{3(1.5R)+2(2.5R)}5=1.9R$ and $C_{p,mix}=C_v+R=2.9R$. $\gamma=\dfrac{2.9}{1.9}=1.526\approx1.52$.
 
-### P-THD-26 · B — JEE Main 2024 · 1 Feb Shift 1 · Q9 · MCQ
+### P-THD-23 · B — JEE Main 2024 · 1 Feb Shift 1 · Q9 · MCQ
 
 The pressure and volume of an ideal gas are related as $PV^{3/2}=K$ (constant). The work done when the gas is taken from state $A(P_1,V_1,T_1)$ to state $B(P_2,V_2,T_2)$ is
 
@@ -285,7 +253,7 @@ The pressure and volume of an ideal gas are related as $PV^{3/2}=K$ (constant). 
 
 **Solution.** For $PV^n=$ const, $W=\dfrac{P_1V_1-P_2V_2}{n-1}$. With $n=\tfrac32$: $W=\dfrac{P_1V_1-P_2V_2}{1/2}=2(P_1V_1-P_2V_2)$.
 
-### P-THD-27 · B — JEE Main 2024 · 1 Feb Shift 2 · Q8 · MCQ
+### P-THD-24 · B — JEE Main 2024 · 1 Feb Shift 2 · Q8 · MCQ
 
 A diatomic gas ($\gamma=1.4$) does $200$ J of work when expanded isobarically. The heat given to the gas is:
 
@@ -295,7 +263,7 @@ A diatomic gas ($\gamma=1.4$) does $200$ J of work when expanded isobarically. T
 
 **Solution.** Isobaric: $W=nR\Delta T$, $Q=nC_p\Delta T=\dfrac{\gamma}{\gamma-1}W=\dfrac{1.4}{0.4}\times200=700$ J.
 
-### P-THD-28 · B — JEE Main 2024 · 4 Apr Shift 2 · Q8 · MCQ
+### P-THD-25 · C — JEE Main 2024 · 4 Apr Shift 2 · Q8 · MCQ
 
 A sample of gas ($\mu=1$ mol, $\gamma=3/2$) at temperature $T$ is expanded adiabatically to double its volume. The work done by the gas is:
 
@@ -305,7 +273,7 @@ A sample of gas ($\mu=1$ mol, $\gamma=3/2$) at temperature $T$ is expanded adiab
 
 **Solution.** $TV^{\gamma-1}=$ const: $T_2=T\left(\tfrac12\right)^{1/2}=\dfrac T{\sqrt2}$. $W=\dfrac{R(T_1-T_2)}{\gamma-1}=2R\left(T-\dfrac T{\sqrt2}\right)=RT(2-\sqrt2)$.
 
-### P-THD-29 · B — JEE Main 2024 · 5 Apr Shift 2 · Q8 · MCQ
+### P-THD-26 · C — JEE Main 2024 · 5 Apr Shift 2 · Q8 · MCQ
 
 During an adiabatic process the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio $C_P/C_V$ for the gas is:
 
@@ -315,25 +283,65 @@ During an adiabatic process the pressure of a gas is found to be proportional to
 
 **Solution.** For an adiabatic process $P^{1-\gamma}T^{\gamma}=$ const, i.e. $P\propto T^{\gamma/(\gamma-1)}$. Setting $\dfrac{\gamma}{\gamma-1}=3$ gives $\gamma=\dfrac32$.
 
-### P-THD-30 · B — JEE Main 2024 · 6 Apr Shift 2 · Q8 · MCQ
+### P-THD-27 · C — JEE Main 2024 · 04 Apr Shift 1 · Fig set Q1 · MCQ
 
-A total of $48$ J of heat is given to one mole of helium kept in a cylinder. The temperature of the helium increases by $2^\circ$C. The work done by the gas is ($R=8.3\ \text{J K}^{-1}\text{mol}^{-1}$):
+The P–T diagram of an ideal gas having three different densities $\rho_1$, $\rho_2$, $\rho_3$ (in three different cases) is shown in the figure (three straight lines through the origin, $\rho_1$ the steepest). Which of the following is correct?
 
-(1) 24.9 J  (2) 72.9 J  (3) 48 J  (4) 23.1 J
+![Figure](../../figures/j24f_phy_thd_a/q1-1.png)
 
-**Answer: (4)** · key ✔
+(1) $\rho_1>\rho_2$  (2) $\rho_2<\rho_3$  (3) $\rho_1=\rho_2=\rho_3$  (4) $\rho_1<\rho_2$
 
-**Solution.** $\Delta U=nC_v\Delta T=\tfrac32R\Delta T=\tfrac32(8.3)(2)=24.9$ J. $W=Q-\Delta U=48-24.9=23.1$ J.
+**Answer: (1)** · key (compiled)
 
-### P-THD-31 · B — JEE Main 2024 · 9 Apr Shift 1 · Q9 · MCQ
+**Solution.** $PV=nRT\Rightarrow P=\dfrac{\rho RT}M$, so on a $P$–$T$ graph the slope is proportional to the density. The steeper the line, the denser the gas: $\rho_1>\rho_2>\rho_3$. Statement (1) is true (and (2) is false).
 
-The volume of an ideal gas ($\gamma=1.5$) is changed adiabatically from $5$ litres to $4$ litres. The ratio of the initial pressure to the final pressure is:
+### P-THD-28 · C — JEE Main 2024 · 05 Apr Shift 1 · Fig set Q3 · MCQ
 
-(1) $\dfrac{16}{25}$  (2) $\dfrac45$  (3) $\dfrac{8}{5\sqrt5}$  (4) $\dfrac{2}{\sqrt5}$
+The heat absorbed by a system in going through the given cyclic process (a circle on the $P$–$V$ diagram, drawn between 60 and 340 on both axes, $V$ in cc and $P$ in kPa) is:
 
-**Answer: (3)** · key ✔
+![Figure](../../figures/j24f_phy_thd_a/q3-1.png)
 
-**Solution.** $PV^\gamma=$ const: $\dfrac{P_i}{P_f}=\left(\dfrac{V_f}{V_i}\right)^{\gamma}=\left(\dfrac45\right)^{3/2}=\dfrac{8}{5\sqrt5}$.
+(1) 19.6 J  (2) 61.6 J  (3) 616 J  (4) 431.2 J
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** For a complete cycle $\Delta U=0$, so $Q=W=$ area enclosed. The circle has radius $\dfrac{340-60}2=140$ cc along $V$ and 140 kPa along $P$: area $=\pi(140\times10^{-6}\ \text{m}^3)(140\times10^3\ \text{Pa})=\pi\times19.6=61.6$ J.
+
+### P-THD-29 · C — JEE Main 2024 · 08 Apr Shift 1 · Fig set Q5 · MCQ
+
+Two different adiabatic paths for the same gas intersect two isothermal curves as shown in the $P$–$V$ diagram (adiabats $a\to d$ and $b\to c$ between the isotherms $T_1$ and $T_2$). The relation between the ratio $\dfrac{V_a}{V_d}$ and the ratio $\dfrac{V_b}{V_c}$ is:
+
+![Figure](../../figures/j24f_phy_thd_a/q5-1.png)
+
+(1) $\dfrac{V_a}{V_d}\ne\dfrac{V_b}{V_c}$  (2) $\dfrac{V_a}{V_d}=\dfrac{V_b}{V_c}$  (3) $\dfrac{V_a}{V_d}=\left(\dfrac{V_b}{V_c}\right)^{-1}$  (4) $\dfrac{V_a}{V_d}=\left(\dfrac{V_b}{V_c}\right)^2$
+
+**Answer: (2)** · key (compiled)
+
+**Solution.** Along an adiabat $TV^{\gamma-1}=$ const. With $T_a=T_b=T_1$ and $T_d=T_c=T_2$: $T_1V_a^{\gamma-1}=T_2V_d^{\gamma-1}$ and $T_1V_b^{\gamma-1}=T_2V_c^{\gamma-1}$. Hence $\left(\dfrac{V_a}{V_d}\right)^{\gamma-1}=\left(\dfrac{V_b}{V_c}\right)^{\gamma-1}$, so the ratios are equal.
+
+### P-THD-30 · C — JEE Main 2024 · 30 Jan Shift 2 · Fig set Q6 · MCQ
+
+Choose the correct statement for processes A and B shown in the figure (two curves on a $P$–$V$ diagram starting from the same point; B is steeper than A).
+
+![Figure](../../figures/j24f_phy_thd_j/q6-1.png)
+
+(1) $PV^\gamma=k$ for process B and $PV=k$ for process A.  (2) $PV=k$ for process B and A.  (3) $\dfrac{T^\gamma}{P^{\gamma-1}}=k$ for process A and $PV=k$ for process B.  (4) None of these
+
+**Answer: (1)** · key (compiled)
+
+**Solution.** From a common point the adiabatic curve ($PV^\gamma=k$) falls more steeply than the isothermal curve ($PV=k$), because $\gamma>1$. B is steeper, so B is adiabatic and A is isothermal.
+
+### P-THD-31 · C — JEE Main 2024 · 31 Jan Shift 1 · Fig set Q7 · MCQ
+
+The given figure represents two isobaric processes for the same mass of an ideal gas ($V$–$T$ straight lines through the origin, labelled $P_1$ and $P_2$, with the $P_2$ line steeper). Then:
+
+![Figure](../../figures/j24f_phy_thd_j/q7-1.png)
+
+(1) $P_2\ge P_1$  (2) $P_2>P_1$  (3) $P_1=P_2$  (4) $P_1>P_2$
+
+**Answer: (4)** · key (compiled)
+
+**Solution.** $V=\dfrac{nR}PT$, so the slope of a $V$–$T$ line is $\propto\dfrac1P$. The line labelled $P_2$ is steeper, so $P_2$ is the smaller pressure: $P_1>P_2$.
 
 ### P-THD-32 · C — JEE Main 2023 · 24 Jan Shift 1 · Q7 · MCQ
 

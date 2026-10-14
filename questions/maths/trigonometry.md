@@ -68,7 +68,7 @@ If $\cot x=\dfrac5{12}$ for some $x\in\left(\pi,\dfrac{3\pi}2\right)$, then $\si
 
 **Solution.** Regrouping, the expression is $\sin\left(7x-\tfrac{13x}2\right)+\cos\left(7x-\tfrac{13x}2\right)=\sin\tfrac x2+\cos\tfrac x2$. In the third quadrant $\cos x=-\tfrac5{13}$. Since $\tfrac x2\in\left(\tfrac\pi2,\tfrac{3\pi}4\right)$: $\cos\tfrac x2=-\sqrt{\tfrac{1+\cos x}2}=-\tfrac2{\sqrt{13}}$ and $\sin\tfrac x2=\sqrt{\tfrac{1-\cos x}2}=\tfrac3{\sqrt{13}}$. Sum $=\dfrac1{\sqrt{13}}$.
 
-### M-TRG-08 · A — JEE Main 2026 · 21 Jan Shift 2 · Inverse set Q1 · Numerical
+### M-TRG-08 · B — JEE Main 2026 · 21 Jan Shift 2 · Inverse set Q1 · Numerical
 
 Let the maximum value of $(\sin^{-1}x)^2+(\cos^{-1}x)^2$ for $x\in\left[-\dfrac{\sqrt3}2,\dfrac1{\sqrt2}\right]$ be $\dfrac mn\pi^2$, where $\gcd(m,n)=1$. Then $m+n$ is equal to ______.
 
@@ -76,7 +76,7 @@ Let the maximum value of $(\sin^{-1}x)^2+(\cos^{-1}x)^2$ for $x\in\left[-\dfrac{
 
 **Solution.** Let $\alpha=\sin^{-1}x\in\left[-\tfrac\pi3,\tfrac\pi4\right]$. Then $f=\alpha^2+\left(\tfrac\pi2-\alpha\right)^2=2\left(\alpha-\tfrac\pi4\right)^2+\tfrac{\pi^2}8$, a parabola in $\alpha$ with its vertex at $\alpha=\tfrac\pi4$ (the right end of the interval). The maximum is at the farthest end, $\alpha=-\tfrac\pi3$: $f=2\left(\tfrac{7\pi}{12}\right)^2+\tfrac{\pi^2}8=\tfrac{49\pi^2}{72}+\tfrac{9\pi^2}{72}=\tfrac{29}{36}\pi^2$. So $m+n=29+36=65$.
 
-### M-TRG-09 · A — JEE Main 2026 · 28 Jan Shift 2 · Inverse set Q2 · MCQ
+### M-TRG-09 · B — JEE Main 2026 · 28 Jan Shift 2 · Inverse set Q2 · MCQ
 
 Considering the principal values of inverse trigonometric functions, the value of the expression $\tan\left(2\sin^{-1}\!\left(\dfrac2{\sqrt{13}}\right)-2\cos^{-1}\!\left(\dfrac3{\sqrt{10}}\right)\right)$ is equal to:
 
@@ -86,7 +86,7 @@ Considering the principal values of inverse trigonometric functions, the value o
 
 **Solution.** Let $\alpha=\sin^{-1}\dfrac2{\sqrt{13}}$: $\tan\alpha=\tfrac23$, so $\tan2\alpha=\dfrac{4/3}{1-4/9}=\dfrac{12}5$. Let $\gamma=\cos^{-1}\dfrac3{\sqrt{10}}$: $\tan\gamma=\tfrac13$, so $\tan2\gamma=\dfrac{2/3}{1-1/9}=\dfrac34$. $\tan(2\alpha-2\gamma)=\dfrac{\tfrac{12}5-\tfrac34}{1+\tfrac{12}5\cdot\tfrac34}=\dfrac{33/20}{56/20}=\dfrac{33}{56}$.
 
-### M-TRG-10 · A — JEE Main 2026 · 24 Jan Shift 2 · Inverse set Q3 · MCQ
+### M-TRG-10 · B — JEE Main 2026 · 24 Jan Shift 2 · Inverse set Q3 · MCQ
 
 If the domain of the function $f(x)=\sin^{-1}\!\left(\dfrac1{x^2-2x-2}\right)$ is $(-\infty,\alpha]\cup[\beta,\gamma]\cup[\delta,\infty)$, then $\alpha+\beta+\gamma+\delta$ is equal to:
 
@@ -124,7 +124,7 @@ If $\alpha$, $-\dfrac\pi2<\alpha<\dfrac\pi2$, is the solution of $4\cos\theta+5\
 
 **Solution.** Let $m=\tan\alpha$. Since $\cos\alpha>0$ on this interval, $\cos\alpha=\dfrac1{\sqrt{1+m^2}}$ and $\sin\alpha=\dfrac m{\sqrt{1+m^2}}$, so $4+5m=\sqrt{1+m^2}$, which requires $4+5m>0$. Squaring: $24m^2+40m+15=0\Rightarrow m=\dfrac{-10\pm\sqrt{10}}{12}$. The root $\dfrac{-10-\sqrt{10}}{12}\approx-1.10$ gives $4+5m<0$ and is rejected. So $\tan\alpha=\dfrac{\sqrt{10}-10}{12}$.
 
-### M-TRG-14 · B — JEE Main 2024 · 29 Jan Shift 2 · Q65 · MCQ
+### M-TRG-14 · C — JEE Main 2024 · 29 Jan Shift 2 · Q65 · MCQ
 
 The sum of the solutions $x\in\mathbb R$ of the equation $\dfrac{3\cos2x+\cos^32x}{\cos^6x-\sin^6x}=x^3-x^2+6$ is
 
@@ -134,7 +134,7 @@ The sum of the solutions $x\in\mathbb R$ of the equation $\dfrac{3\cos2x+\cos^32
 
 **Solution.** $\cos^6x-\sin^6x=\cos2x\left(1-\tfrac14\sin^22x\right)=\cos2x\cdot\dfrac{3+\cos^22x}4$, and the numerator is $\cos2x\,(3+\cos^22x)$. The LHS is therefore identically $4$ (where defined). So $x^3-x^2+6=4\Rightarrow x^3-x^2+2=0\Rightarrow(x+1)(x^2-2x+2)=0$, whose only real root is $x=-1$ (where $\cos2x\ne0$). Sum $=-1$.
 
-### M-TRG-15 · B — JEE Main 2024 · 30 Jan Shift 1 · Q63 · MCQ
+### M-TRG-15 · C — JEE Main 2024 · 30 Jan Shift 1 · Q63 · MCQ
 
 If $2\sin^3x+\sin2x\cos x+4\sin x-4=0$ has exactly $3$ solutions in the interval $\left[0,\dfrac{n\pi}2\right]$, $n\in\mathbb N$, then the roots of $x^2+nx+(n-3)=0$ belong to
 
@@ -144,7 +144,7 @@ If $2\sin^3x+\sin2x\cos x+4\sin x-4=0$ has exactly $3$ solutions in the interval
 
 **Solution.** $\sin2x\cos x=2\sin x\cos^2x$, so the equation is $2\sin x(\sin^2x+\cos^2x)+4\sin x-4=0\Rightarrow\sin x=\tfrac23$. Solutions: $\alpha,\ \pi-\alpha,\ 2\pi+\alpha,\ 3\pi-\alpha,\dots$ with $\alpha=\sin^{-1}\tfrac23\approx0.73$. Exactly $3$ solutions need $2\pi+\alpha\le\tfrac{n\pi}2<3\pi-\alpha$, i.e. $4+\tfrac{2\alpha}\pi\le n<6-\tfrac{2\alpha}\pi$, i.e. $4.46\le n<5.54$, so $n=5$. Then $x^2+5x+2=0$ has roots $\dfrac{-5\pm\sqrt{17}}2$, both negative.
 
-### M-TRG-16 · B — JEE Main 2024 · 31 Jan Shift 2 · Q72 · MCQ
+### M-TRG-16 · C — JEE Main 2024 · 31 Jan Shift 2 · Q72 · MCQ
 
 If $a=\sin^{-1}(\sin5)$ and $b=\cos^{-1}(\cos5)$, then $a^2+b^2$ is equal to
 

@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/maths/limits-continuity-differentiability.md](../../theory/maths/limits-continuity-differentiability.md)
 
-### M-LCD-01 · B — JEE Main 2026 · 21 Jan Shift 2 · Limits set Q1 · Numerical
+### M-LCD-01 · A — JEE Main 2026 · 21 Jan Shift 2 · Limits set Q1 · Numerical
 
 Let $[\cdot]$ denote the greatest integer function and $f(x)=\lim_{n\to\infty}\dfrac1{n^3}\sum_{k=1}^{n}\left[\dfrac{k^2}{3^x}\right]$. Then $12\sum_{j=1}^\infty f(j)$ is equal to ______.
 
@@ -10,7 +10,7 @@ Let $[\cdot]$ denote the greatest integer function and $f(x)=\lim_{n\to\infty}\d
 
 **Solution.** Write $\left[\dfrac{k^2}{3^x}\right]=\dfrac{k^2}{3^x}-\{\cdot\}$ with $0\le\{\cdot\}<1$; the fractional parts add up to at most $n$, which vanishes after dividing by $n^3$. So $f(x)=\lim\dfrac1{n^3}\cdot\dfrac{n(n+1)(2n+1)}{6\cdot3^x}=\dfrac1{3\cdot3^x}=\dfrac1{3^{x+1}}$. $\sum_{j=1}^\infty\dfrac1{3^{j+1}}=\dfrac{1/9}{1-1/3}=\dfrac16$, so $12\sum f(j)=2$.
 
-### M-LCD-02 · B — JEE Main 2026 · 22 Jan Shift 2 · Limits set Q2 · MCQ
+### M-LCD-02 · A — JEE Main 2026 · 22 Jan Shift 2 · Limits set Q2 · MCQ
 
 If $\lim_{x\to0}\dfrac{e^{(a-1)x}+2\cos bx+(c-2)e^{-x}}{x\cos x-\log_e(1+x)}=2$, then $a^2+b^2+c^2$ is equal to:
 
@@ -20,7 +20,7 @@ If $\lim_{x\to0}\dfrac{e^{(a-1)x}+2\cos bx+(c-2)e^{-x}}{x\cos x-\log_e(1+x)}=2$,
 
 **Solution.** Denominator: $x\cos x-\ln(1+x)=\left(x-\tfrac{x^3}2\right)-\left(x-\tfrac{x^2}2+\tfrac{x^3}3\right)+\cdots=\dfrac{x^2}2+O(x^3)$. For a finite limit the numerator must be $O(x^2)$: constant term $1+2+(c-2)=0\Rightarrow c=-1$; $x$ term $(a-1)-(c-2)=a+2=0\Rightarrow a=-2$. $x^2$ coefficient: $\dfrac{(a-1)^2}2-b^2+\dfrac{c-2}2=\dfrac92-b^2-\dfrac32=3-b^2$. The limit is $\dfrac{3-b^2}{1/2}=2\Rightarrow b^2=2$. $a^2+b^2+c^2=4+2+1=7$.
 
-### M-LCD-03 · B — JEE Main 2026 · 21 Jan Shift 1 · Limits set Q3 · MCQ
+### M-LCD-03 · A — JEE Main 2026 · 21 Jan Shift 1 · Limits set Q3 · MCQ
 
 Let $f:\mathbb R\to(0,\infty)$ be a twice differentiable function such that $f(3)=18$, $f'(3)=0$ and $f''(3)=4$. Then $\lim_{x\to1}\left(\log_e\left(\dfrac{f(2+x)}{f(3)}\right)^{\frac{18}{(x-1)^2}}\right)$ is equal to:
 
@@ -30,7 +30,7 @@ Let $f:\mathbb R\to(0,\infty)$ be a twice differentiable function such that $f(3
 
 **Solution.** The expression is $\dfrac{18}{(x-1)^2}\ln\dfrac{f(2+x)}{f(3)}$. Put $h=x-1$: $f(3+h)=f(3)+hf'(3)+\dfrac{h^2}2f''(3)+\cdots=18+2h^2+\cdots$, so $\dfrac{f(3+h)}{f(3)}=1+\dfrac{h^2}9+\cdots$ and $\ln(\cdot)\approx\dfrac{h^2}9$. The limit is $\dfrac{18}{h^2}\cdot\dfrac{h^2}9=2$.
 
-### M-LCD-04 · B — JEE Main 2026 · 28 Jan Shift 1 · Limits set Q4 · MCQ
+### M-LCD-04 · A — JEE Main 2026 · 28 Jan Shift 1 · Limits set Q4 · MCQ
 
 The value of $\lim_{x\to0}\dfrac{\log_e\left(\sec(ex)\cdot\sec(e^2x)\cdot\ldots\cdot\sec(e^{10}x)\right)}{e^2-e^{2\cos x}}$ is equal to:
 
@@ -40,7 +40,7 @@ The value of $\lim_{x\to0}\dfrac{\log_e\left(\sec(ex)\cdot\sec(e^2x)\cdot\ldots\
 
 **Solution.** Numerator $=\sum_{k=1}^{10}\ln\sec(e^kx)\approx\sum\dfrac{e^{2k}x^2}2=\dfrac{x^2}2\cdot\dfrac{e^2(e^{20}-1)}{e^2-1}$ (using $\ln\sec u\approx\tfrac{u^2}2$). Denominator: $e^2-e^{2\cos x}=e^2\left(1-e^{2(\cos x-1)}\right)\approx e^2\cdot2(1-\cos x)\approx e^2x^2$. The limit is $\dfrac{e^2(e^{20}-1)}{2(e^2-1)\,e^2}=\dfrac{e^{20}-1}{2(e^2-1)}$.
 
-### M-LCD-05 · B — JEE Main 2026 · 23 Jan Shift 1 · Continuity set Q1 · MCQ
+### M-LCD-05 · A — JEE Main 2026 · 23 Jan Shift 1 · Continuity set Q1 · MCQ
 
 Let $f(x)=\begin{cases}\dfrac{ax^2+2ax+3}{4x^2+4x-3},&x\ne-\tfrac32,\tfrac12\\ b,&x=-\tfrac32,\tfrac12\end{cases}$ be continuous at $x=-\dfrac32$. If $f\circ f(x)=\dfrac75$, then $x$ is equal to:
 
@@ -50,7 +50,7 @@ Let $f(x)=\begin{cases}\dfrac{ax^2+2ax+3}{4x^2+4x-3},&x\ne-\tfrac32,\tfrac12\\ b
 
 **Solution.** $4x^2+4x-3=(2x+3)(2x-1)$. For a finite limit at $x=-\tfrac32$ the numerator must vanish there: $\tfrac94a-3a+3=0\Rightarrow a=4$. Then $4x^2+8x+3=(2x+1)(2x+3)$ and $f(x)=\dfrac{2x+1}{2x-1}$ for $x\ne-\tfrac32,\tfrac12$. $f(f(x))=\dfrac{2f+1}{2f-1}=\dfrac{6x+1}{2x+3}=\dfrac75\Rightarrow30x+5=14x+21\Rightarrow x=1$.
 
-### M-LCD-06 · B — JEE Main 2026 · 24 Jan Shift 2 · Continuity set Q2 · MCQ
+### M-LCD-06 · A — JEE Main 2026 · 24 Jan Shift 2 · Continuity set Q2 · MCQ
 
 Let $[t]$ denote the greatest integer less than or equal to $t$. If the function $f(x)=\begin{cases}b^2\sin\left(\dfrac\pi2\left[\dfrac\pi2(\cos x+\sin x)\cos x\right]\right),&x<0\\[2mm]\dfrac{\sin x-\tfrac12\sin2x}{x^3},&x>0\\[2mm]a,&x=0\end{cases}$ is continuous at $x=0$, then $a^2+b^2$ is equal to:
 
@@ -108,7 +108,7 @@ If $\displaystyle\lim_{x\to0}\frac{3+\alpha\sin x+\beta\cos x+\ln(1-x)}{3\tan^2x
 
 **Solution.** The denominator $\to0$, so the numerator must vanish at $0$: $3+\beta=0\Rightarrow\beta=-3$. Expanding: $\alpha x-3\left(1-\tfrac{x^2}2\right)+3-x-\tfrac{x^2}2+\dots=(\alpha-1)x+x^2+\dots$. The limit is finite only if $\alpha=1$, and then it equals $\dfrac{x^2}{3x^2}=\dfrac13$ as required. So $2\alpha-\beta=2+3=5$.
 
-### M-LCD-12 · B — JEE Main 2024 · 30 Jan Shift 1 · Q87 · Numerical
+### M-LCD-12 · C — JEE Main 2024 · 30 Jan Shift 1 · Q87 · Numerical
 
 If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\end{cases}$ is differentiable on $\mathbb R$, then $48(a+b)$ is equal to ______.
 
@@ -116,7 +116,7 @@ If the function $f(x)=\begin{cases}\dfrac1{|x|}, & |x|\ge2\\ ax^2+2b, & |x|<2\en
 
 **Solution.** At $x=2$: continuity gives $4a+2b=\tfrac12$. Differentiability: right derivative $-\dfrac1{x^2}=-\tfrac14$ equals left derivative $2ax=4a$, so $a=-\tfrac1{16}$. Then $-\tfrac14+2b=\tfrac12\Rightarrow b=\tfrac38$. $a+b=\tfrac5{16}$ and $48(a+b)=15$. (The function is even, so $x=-2$ gives the same conditions.)
 
-### M-LCD-13 · B — JEE Main 2024 · 30 Jan Shift 2 · Q72 · MCQ
+### M-LCD-13 · C — JEE Main 2024 · 30 Jan Shift 2 · Q72 · MCQ
 
 Let $a$ and $b$ be real constants such that $f(x)=\begin{cases}x^2+3x+a,&x\le1\\bx+2,&x>1\end{cases}$ is differentiable on $\mathbb R$. Then $\displaystyle\int_{-2}^2f(x)\,dx$ equals
 
@@ -126,7 +126,7 @@ Let $a$ and $b$ be real constants such that $f(x)=\begin{cases}x^2+3x+a,&x\le1\\
 
 **Solution.** Differentiability at $1$: derivatives $2+3=5=b$. Continuity: $1+3+a=b+2\Rightarrow a=3$. $\int_{-2}^1(x^2+3x+3)dx=\left[\tfrac{x^3}3+\tfrac{3x^2}2+3x\right]_{-2}^1=\tfrac{29}6-\left(-\tfrac83\right)=7.5$ and $\int_1^2(5x+2)dx=\left[\tfrac{5x^2}2+2x\right]_1^2=14-4.5=9.5$. Total $=17$.
 
-### M-LCD-14 · B — JEE Main 2024 · 4 Apr Shift 2 · Q68 · MCQ
+### M-LCD-14 · C — JEE Main 2024 · 4 Apr Shift 2 · Q68 · MCQ
 
 Let $f(x)=\displaystyle\int_0^x\left(t+\sin(1-e^t)\right)dt$. Then $\displaystyle\lim_{x\to0}\frac{f(x)}{x^3}$ is:
 

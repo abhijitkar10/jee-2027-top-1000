@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/carboxylic-acids.md](../../theory/chemistry/carboxylic-acids.md)
 
-### C-CAR-01 · C — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
+### C-CAR-01 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q1 · MCQ
 
 The correct order of acidic strength of the major products formed in the given reactions is:
 
@@ -17,7 +17,7 @@ D. $\mathrm{PhCH_2MgBr+CO_2}\xrightarrow[\mathrm{H_3O^+}]{\text{dry ether}}$ [D]
 
 **Solution.** A = benzoic acid (Sandmeyer cyanation then hydrolysis; $\mathrm{p}K_a=4.2$). B = propanoic acid (Tollens' oxidation; $\mathrm{p}K_a=4.87$). C = methanoic acid (methane $\to$ HCHO $\to$ HCOOH; $\mathrm{p}K_a=3.75$). D = phenylacetic acid (Grignard + $\mathrm{CO_2}$; $\mathrm{p}K_a=4.31$). Acid strength rises as $\mathrm{p}K_a$ falls: HCOOH (C) > $\mathrm{PhCOOH}$ (A) > $\mathrm{PhCH_2COOH}$ (D) > $\mathrm{CH_3CH_2COOH}$ (B): C > A > D > B.
 
-### C-CAR-02 · C — JEE Main 2024 · 5 Apr Shift 2 · Q48 · MCQ
+### C-CAR-02 · A — JEE Main 2024 · 5 Apr Shift 2 · Q48 · MCQ
 
 $\text{CH}_3\text{CH}_2\text{OH}\xrightarrow{\text{KMnO}_4}\xrightarrow{\text{NaOH, CaO},\ \Delta}P$. The major product P is:
 
@@ -27,7 +27,7 @@ $\text{CH}_3\text{CH}_2\text{OH}\xrightarrow{\text{KMnO}_4}\xrightarrow{\text{Na
 
 **Solution.** $\text{KMnO}_4$ oxidises ethanol to acetic acid; its sodium salt undergoes decarboxylation with soda lime: $\text{CH}_3\text{COONa}+\text{NaOH}\xrightarrow{\text{CaO},\Delta}\text{CH}_4+\text{Na}_2\text{CO}_3$. P is methane.
 
-### C-CAR-03 · C — JEE Main 2024 · 8 Apr Shift 1 · Q58 · Numerical
+### C-CAR-03 · B — JEE Main 2024 · 8 Apr Shift 1 · Q58 · Numerical
 
 The major product B of $\text{C}_6\text{H}_5\text{CH}_2\text{CH}_3\xrightarrow[\Delta]{\text{KMnO}_4\text{-KOH}}A\xrightarrow{\text{HNO}_3/\text{H}_2\text{SO}_4}B$ has ______ $\pi$ bonds.
 

@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/polymers-everyday.md](../../theory/chemistry/polymers-everyday.md)
 
-### C-POL-01 · C — JEE Main 2024 · 1 Feb Shift 2 · Q36 · MCQ
+### C-POL-01 · A — JEE Main 2024 · 1 Feb Shift 2 · Q36 · MCQ
 
 Match List I (compound) with List II (use): (A) carbon tetrachloride, (B) methylene chloride, (C) DDT, (D) Freons; (I) paint remover, (II) refrigerators and air conditioners, (III) fire extinguisher, (IV) non-biodegradable insecticide.
 
@@ -12,7 +12,7 @@ Match List I (compound) with List II (use): (A) carbon tetrachloride, (B) methyl
 
 **Solution.** $\text{CCl}_4$ – fire extinguisher (III); $\text{CH}_2\text{Cl}_2$ – paint remover (I); DDT – non-biodegradable insecticide (IV); Freons ($\text{CF}_2\text{Cl}_2$) – refrigerants (II).
 
-### C-POL-02 · C — JEE Main 2024 · 9 Apr Shift 1 · Q45 · MCQ
+### C-POL-02 · A — JEE Main 2024 · 9 Apr Shift 1 · Q45 · MCQ
 
 Fluoride ions make the enamel on teeth much harder by converting hydroxyapatite into the much harder fluoroapatite of formula:
 
@@ -22,7 +22,7 @@ Fluoride ions make the enamel on teeth much harder by converting hydroxyapatite 
 
 **Solution.** Hydroxyapatite is $3\text{Ca}_3(\text{PO}_4)_2\cdot\text{Ca(OH)}_2$ [$\text{Ca}_5(\text{PO}_4)_3\text{OH}$]. $\text{F}^-$ replaces $\text{OH}^-$, giving fluoroapatite $3\text{Ca}_3(\text{PO}_4)_2\cdot\text{CaF}_2$, which is harder and less soluble in acid.
 
-### C-POL-03 · C — JEE Main 2023 · 24 Jan Shift 1 · Q37 · MCQ
+### C-POL-03 · B — JEE Main 2023 · 24 Jan Shift 1 · Q37 · MCQ
 
 Which of the following is true about freons?
 

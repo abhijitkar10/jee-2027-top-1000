@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/periodic-table.md](../../theory/chemistry/periodic-table.md)
 
-### C-PER-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### C-PER-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 Given below are two statements:
 
@@ -15,7 +15,7 @@ Statement II: The correct order in terms of the magnitude of electron gain entha
 
 **Solution.** I false: in the third period the atom on the left is larger, so $\mathrm{Mg}$ (160 pm) $>\mathrm{Al}$ (143 pm) $>\mathrm{Mg^{2+}}$ (72 pm) $>\mathrm{Al^{3+}}$ (54 pm). II true: $|\Delta_{eg}H|$ (kJ mol$^{-1}$) is Cl 349 > Br 325 > S 200 > O 141 (O is anomalously low because of its small size and electron–electron repulsion).
 
-### C-PER-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### C-PER-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 The correct trend in the first ionisation enthalpies of the elements in the 3rd period of the periodic table is:
 
@@ -25,7 +25,7 @@ The correct trend in the first ionisation enthalpies of the elements in the 3rd 
 
 **Solution.** First ionisation enthalpies (kJ mol$^{-1}$): Al 578 < Si 786 < S 1000 < P 1012 < Cl 1251. Ionisation enthalpy rises across the period, with the usual dip at S because P has a stable half-filled $3p^3$ subshell.
 
-### C-PER-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+### C-PER-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
 
 Consider the elements N, P, O, S, Cl and F. The numbers of valence electrons present in the elements with the most and the least metallic character from the above list are respectively:
 
@@ -35,7 +35,7 @@ Consider the elements N, P, O, S, Cl and F. The numbers of valence electrons pre
 
 **Solution.** Metallic character increases down a group and decreases across a period to the right. P (group 15, period 3) is the most metallic of the list, with 5 valence electrons; F (top right, group 17, period 2) is the least metallic, with 7 valence electrons.
 
-### C-PER-04 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+### C-PER-04 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
 
 The correct order of C, N, O and F in terms of second ionisation potential is:
 
@@ -45,7 +45,7 @@ The correct order of C, N, O and F in terms of second ionisation potential is:
 
 **Solution.** $\mathrm{IE_2}$ (kJ mol$^{-1}$): C 2353 < N 2856 < F 3374 < O 3388. Removing the second electron from $\mathrm{O^+}$ ($2p^3$, half-filled) is hard, which makes O the highest, and $\mathrm{F^+}$ ($2p^4$) is just below it.
 
-### C-PER-05 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+### C-PER-05 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
 
 Choose the INCORRECT statement:
 
@@ -55,7 +55,7 @@ Choose the INCORRECT statement:
 
 **Solution.** (1) true (acidic character falls down the group). (2) true ($-4$ in $\mathrm{CH_4}$, etc.). (3) true (no $d$-orbitals in the second period). (4) incorrect: ${}^{13}\mathrm C$ is stable; the radioactive isotope of carbon is ${}^{14}\mathrm C$.
 
-### C-PER-06 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+### C-PER-06 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
 
 Given below are two statements:
 
@@ -68,7 +68,7 @@ Statement II: $\mathrm{S>Se>Te>Po>O}$ is the correct order in terms of the magni
 
 **Solution.** I true: $\mathrm{IE_1}$ = C 1086, O 1314, N 1402, F 1681 kJ mol$^{-1}$ (N is above O because of its half-filled $2p^3$). II true: $|\Delta_{eg}H|$ = S 200, Se 195, Te 190, Po 174, O 141 kJ mol$^{-1}$ (oxygen is the exception in the group).
 
-### C-PER-07 · B — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+### C-PER-07 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
 
 Given below are two statements:
 
@@ -81,7 +81,7 @@ Statement II: A group 15 element's hydride $\mathrm{EH_3}$ has the lowest boilin
 
 **Solution.** I false: the longest H–X bond is H–I, and iodine has the *largest* covalent radius. II: the lowest boiling point in the group-15 hydrides belongs to $\mathrm{PH_3}$ ($\mathrm{NH_3}$ is raised by hydrogen bonding, and boiling points then rise from $\mathrm{PH_3}$ to $\mathrm{BiH_3}$), and the maximum covalency of P is 6 (as in $\mathrm{PF_6^-}$), not 4: false. Both false.
 
-### C-PER-08 · B — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · MCQ
+### C-PER-08 · A — JEE Main 2026 · 23 Jan Shift 2 · set Q8 · MCQ
 
 Elements X and Y belong to Group 15. The difference between the electronegativity values of 'X' and phosphorus is higher than that between phosphorus and 'Y'. 'X' and 'Y' are respectively:
 
@@ -91,7 +91,7 @@ Elements X and Y belong to Group 15. The difference between the electronegativit
 
 **Solution.** Pauling electronegativities: N 3.04, P 2.19, As 2.18, Sb 2.05, Bi 2.02. For N and As: $|3.04-2.19|=0.85>|2.19-2.18|=0.01$ ✓. For the other options the first difference is smaller than the second (As, Sb: 0.01 < 0.14; Bi, N: 0.17 < 0.85; As, Bi: 0.01 < 0.17). So X = N and Y = As.
 
-### C-PER-09 · B — JEE Main 2026 · 23 Jan Shift 2 · set Q9 · MCQ
+### C-PER-09 · A — JEE Main 2026 · 23 Jan Shift 2 · set Q9 · MCQ
 
 Given below are two statements:
 
@@ -104,7 +104,7 @@ Statement II: The ionic radius of $\mathrm{O^{2-}}$ is larger than that of $\mat
 
 **Solution.** I true: removing the second electron from Na means breaking the stable $2p^6$ core of $\mathrm{Na^+}$ (4562 kJ mol$^{-1}$), whereas $\mathrm{Mg^+}\to\mathrm{Mg^{2+}}$ removes a $3s$ electron (1451 kJ mol$^{-1}$). II true: $\mathrm{O^{2-}}$ and $\mathrm{F^-}$ are isoelectronic, and the lower nuclear charge of $\mathrm{O^{2-}}$ gives it the larger radius (140 vs 133 pm).
 
-### C-PER-10 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · MCQ
+### C-PER-10 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q10 · MCQ
 
 Which of the following represents the correct trend for the mentioned property?
 
@@ -119,7 +119,7 @@ D. $\mathrm{K_2O>Na_2O>MgO>Al_2O_3}$ – basic character
 
 **Solution.** A correct ($\mathrm{IE_1}$: F 1681, P 1012, S 1000, B 801). B correct (Cl 349, F 328, S 200, P 72 kJ mol$^{-1}$). C incorrect: Mg is more metallic than Al, so the order is K > Mg > Al > B. D correct (basicity falls from the alkali-metal oxide to the amphoteric $\mathrm{Al_2O_3}$). So A, B and D.
 
-### C-PER-11 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
+### C-PER-11 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q11 · MCQ
 
 In period 4 of the periodic table, the elements with the highest and the lowest atomic radii are respectively:
 
@@ -224,7 +224,7 @@ In case of isoelectronic species the size of $\text{F}^-$, Ne and $\text{Na}^+$ 
 
 **Solution.** All three have $10$ electrons and the same $n=2$ shell, so the only thing that changes is the nuclear charge ($9,10,11$). A larger $Z$ pulls the same electron cloud in more strongly, so radius falls: $\text{F}^->\text{Ne}>\text{Na}^+$.
 
-### C-PER-21 · B — JEE Main 2024 · 1 Feb Shift 2 · Q32 · MCQ
+### C-PER-21 · C — JEE Main 2024 · 1 Feb Shift 2 · Q32 · MCQ
 
 Statement I: Both metals and non-metals exist in the p- and d-block elements.  
 Statement II: Non-metals have higher ionisation enthalpy and higher electronegativity than metals.
@@ -235,7 +235,7 @@ Statement II: Non-metals have higher ionisation enthalpy and higher electronegat
 
 **Solution.** The p-block has both metals and non-metals, but every d-block element is a metal, so I is false. II is generally true: small non-metal atoms hold their electrons more tightly.
 
-### C-PER-22 · B — JEE Main 2024 · 4 Apr Shift 1 · Q31 · Numerical
+### C-PER-22 · C — JEE Main 2024 · 4 Apr Shift 1 · Q31 · Numerical
 
 The number of elements from B, C, N, S, O, F, P, Al, Si that CANNOT form compounds with valencies matching their group valencies is ______.
 
@@ -243,7 +243,7 @@ The number of elements from B, C, N, S, O, F, P, Al, Si that CANNOT form compoun
 
 **Solution.** Second-period elements have no $d$ orbitals and cannot expand their octet. $\text{N}$ (group valency $5$), $\text{O}$ ($6$) and $\text{F}$ ($7$) cannot reach their group valency; B, C, Al, Si, P and S can ($\text{BF}_3$, $\text{CO}_2$, $\text{AlCl}_3$, $\text{SiO}_2$, $\text{PCl}_5$, $\text{SF}_6$). Count $=3$.
 
-### C-PER-23 · B — JEE Main 2024 · 4 Apr Shift 2 · Q32 · MCQ
+### C-PER-23 · C — JEE Main 2024 · 4 Apr Shift 2 · Q32 · MCQ
 
 The correct order of first ionisation enthalpy is:
 
@@ -253,7 +253,7 @@ The correct order of first ionisation enthalpy is:
 
 **Solution.** In group 13 the first IE does not fall smoothly. $\text{B}$ ($801$) is highest, $\text{Al}$ is $577$, $\text{Ga}$ is $579$ (poor shielding by the $3d^{10}$ electrons) and $\text{Tl}$ is $589$ (poor shielding by $4f^{14}5d^{10}$). So $\text{B}>\text{Tl}>\text{Ga}>\text{Al}$; among the given options, $\text{Tl}>\text{Ga}>\text{Al}$.
 
-### C-PER-24 · B — JEE Main 2024 · 5 Apr Shift 1 · Q34 · MCQ
+### C-PER-24 · C — JEE Main 2024 · 5 Apr Shift 1 · Q34 · MCQ
 
 Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text{Mg}^{2+}$: (A) All are isoelectronic. (B) All have the same nuclear charge. (C) $\text{O}^{2-}$ has the largest ionic radius. (D) $\text{Mg}^{2+}$ has the smallest ionic radius.
 
@@ -263,7 +263,7 @@ Correct statements about $\text{O}^{2-}$, $\text{F}^-$, $\text{Na}^+$ and $\text
 
 **Solution.** Each has $10$ electrons (A true) but nuclear charges $8,9,11,12$ (B false). For an isoelectronic series, radius falls as $Z$ rises: $\text{O}^{2-}>\text{F}^->\text{Na}^+>\text{Mg}^{2+}$, so C and D are true.
 
-### C-PER-25 · B — JEE Main 2024 · 5 Apr Shift 2 · Q32 · MCQ
+### C-PER-25 · C — JEE Main 2024 · 5 Apr Shift 2 · Q32 · MCQ
 
 Statement I: The metallic radius of Na is $1.86\ \text{Å}$ and the ionic radius of $\text{Na}^+$ is smaller than $1.86\ \text{Å}$.  
 Statement II: Ions are always smaller in size than the corresponding elements.
@@ -274,7 +274,7 @@ Statement II: Ions are always smaller in size than the corresponding elements.
 
 **Solution.** A cation is smaller than its atom ($\text{Na}^+$ is $1.02\ \text{Å}$) because it loses the outer shell, so I is true. An anion is larger than its atom ($\text{Cl}^-$ $1.81$ vs Cl $0.99\ \text{Å}$), so II is false.
 
-### C-PER-26 · B — JEE Main 2024 · 8 Apr Shift 1 · Q32 · MCQ
+### C-PER-26 · C — JEE Main 2024 · 8 Apr Shift 1 · Q32 · MCQ
 
 Match the elements with their properties in their respective groups: A. Cl, S; B. Ge, As; C. Fr, Ra; D. F, O; (I) highest electronegativity; (II) largest atomic size; (III) show properties of both metals and non-metals; (IV) highest negative electron gain enthalpy.
 
@@ -284,7 +284,7 @@ Match the elements with their properties in their respective groups: A. Cl, S; B
 
 **Solution.** Cl (group 17) and S (group 16) have the most negative electron gain enthalpies in their groups (IV). Ge and As are metalloids (III). Fr (group 1) and Ra (group 2) are the largest atoms in their groups (II). F and O are the most electronegative in their groups (I).
 
-### C-PER-27 · B — JEE Main 2024 · 9 Apr Shift 1 · Q32 · MCQ
+### C-PER-27 · C — JEE Main 2024 · 9 Apr Shift 1 · Q32 · MCQ
 
 Statement I: The oxidation state of an element in a compound is the charge acquired by its atom on the basis of electron gain enthalpy considerations from other atoms in the molecule.  
 Statement II: $p\pi$–$p\pi$ bond formation is more prevalent in second-period elements than in other periods.

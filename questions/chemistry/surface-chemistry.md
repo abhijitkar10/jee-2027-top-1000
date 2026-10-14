@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/surface-chemistry.md](../../theory/chemistry/surface-chemistry.md)
 
-### C-SRF-01 · C — JEE Main 2023 · 24 Jan Shift 2 · Surf set Q2 · Numerical
+### C-SRF-01 · A — JEE Main 2023 · 24 Jan Shift 2 · Surf set Q2 · Numerical
 
 The number of statement(s) which are characteristics of physisorption is ______.
 
@@ -16,7 +16,7 @@ E. No activation energy is needed.
 
 **Solution.** Physisorption (van der Waals) is non-specific (A false), has a low enthalpy of adsorption, about 20–40 kJ mol$^{-1}$ (B false), decreases with rise in temperature (C true), can form multimolecular layers (D false) and needs no appreciable activation energy (E true). Two statements are correct.
 
-### C-SRF-02 · C — JEE Main 2023 · 29 Jan Shift 1 · Surf set Q4 · MCQ
+### C-SRF-02 · A — JEE Main 2023 · 29 Jan Shift 1 · Surf set Q4 · MCQ
 
 Which of the following salt solutions would coagulate the colloidal solution formed when FeCl$_3$ is added to NaOH solution, at the fastest rate?
 
@@ -26,7 +26,7 @@ Which of the following salt solutions would coagulate the colloidal solution for
 
 **Solution.** FeCl$_3$ added to NaOH gives a negatively charged sol of Fe(OH)$_3$ (adsorbing OH$^-$). By the Hardy–Schulze rule the coagulating power of the cation increases with its charge, so Al$^{3+}$ is the most effective; AlCl$_3$ is also the most concentrated. Hence (1).
 
-### C-SRF-03 · C — JEE Main 2023 · 30 Jan Shift 1 · Surf set Q5 · MCQ
+### C-SRF-03 · B — JEE Main 2023 · 30 Jan Shift 1 · Surf set Q5 · MCQ
 
 Given below are two statements: one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -41,7 +41,7 @@ In the light of the above statements, choose the correct answer from the options
 
 **Solution.** Silica gel is a good adsorbent for moisture, so it is placed in watch-glasses or permeable bags near delicate instruments to keep the air dry, preventing rusting and malfunction. Both statements are true and the reason explains the assertion.
 
-### C-SRF-04 · C — JEE Main 2023 · 30 Jan Shift 2 · Surf set Q6 · Numerical
+### C-SRF-04 · B — JEE Main 2023 · 30 Jan Shift 2 · Surf set Q6 · Numerical
 
 The graph of $\log\dfrac xm$ vs $\log p$ for an adsorption process is a straight line inclined at an angle of $45^\circ$ with intercept equal to 0.6020. The mass of gas adsorbed per unit mass of adsorbent at the pressure of 0.4 atm is ______ $\times10^{-1}$ (nearest integer). Given: $\log2=0.3010$.
 

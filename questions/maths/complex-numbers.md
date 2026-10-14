@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/maths/complex-numbers.md](../../theory/maths/complex-numbers.md)
 
-### M-CMP-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
+### M-CMP-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · MCQ
 
 Let $z$ be the complex number satisfying $|z-5|\le3$ and having maximum positive principal argument. Then $34\left|\dfrac{5z-12}{5iz+16}\right|^2$ is equal to:
 
@@ -12,7 +12,7 @@ Let $z$ be the complex number satisfying $|z-5|\le3$ and having maximum positive
 
 **Solution.** $|z-5|\le3$ is the disc with centre $(5,0)$ and radius 3. The largest argument is attained at the tangent point from the origin. The tangent length is $\sqrt{25-9}=4$ and $\sin\theta=\tfrac35$, $\cos\theta=\tfrac45$, so $z=4(\cos\theta+i\sin\theta)=\dfrac{16+12i}5$. Then $5z-12=4+12i$ and $5iz+16=i(16+12i)+16=4+16i$. $34\cdot\dfrac{16+144}{16+256}=34\cdot\dfrac{160}{272}=20$.
 
-### M-CMP-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### M-CMP-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 Let $S=\{z:3\le|2z-3(1+i)|\le7\}$ be a set of complex numbers. Then $\min_{z\in S}\left|z+\tfrac12(5+3i)\right|$ is equal to:
 
@@ -22,7 +22,7 @@ Let $S=\{z:3\le|2z-3(1+i)|\le7\}$ be a set of complex numbers. Then $\min_{z\in 
 
 **Solution.** $|2z-3(1+i)|=2\left|z-\tfrac32(1+i)\right|$, so $\tfrac32\le\left|z-\tfrac32(1+i)\right|\le\tfrac72$: an annulus centred at $C=\left(\tfrac32,\tfrac32\right)$. The point $P=-\tfrac12(5+3i)=\left(-\tfrac52,-\tfrac32\right)$ is at distance $CP=\sqrt{4^2+3^2}=5>\tfrac72$, i.e. outside the outer circle. The minimum distance from $P$ to the annulus is $5-\tfrac72=\tfrac32$.
 
-### M-CMP-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+### M-CMP-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
 
 Let $A=\{z\in\mathbb C:|z-2|\le4\}$ and $B=\{z\in\mathbb C:|z-2|+|z+2|=5\}$. Then the maximum value of $\{|z_1-z_2|:z_1\in A,\ z_2\in B\}$ is:
 
@@ -32,7 +32,7 @@ Let $A=\{z\in\mathbb C:|z-2|\le4\}$ and $B=\{z\in\mathbb C:|z-2|+|z+2|=5\}$. The
 
 **Solution.** $B$ is the ellipse with foci $(\pm2,0)$ and major axis $2a=5$. $A$ is the disc of radius 4 about the focus $(2,0)$. For $z_2\in B$ the farthest point of $A$ is at distance $|z_2-2|+4$. The distance from a focus to points of the ellipse is at most $a+c=\tfrac52+2=\tfrac92$ (at the far vertex $\left(-\tfrac52,0\right)$). Maximum $=\tfrac92+4=\tfrac{17}2$.
 
-### M-CMP-04 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
+### M-CMP-04 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · Numerical
 
 Let $z=(1+i)(1+2i)(1+3i)\cdots(1+ni)$, where $i=\sqrt{-1}$. If $|z|^2=44200$, then $n$ is equal to ______.
 
@@ -40,7 +40,7 @@ Let $z=(1+i)(1+2i)(1+3i)\cdots(1+ni)$, where $i=\sqrt{-1}$. If $|z|^2=44200$, th
 
 **Solution.** $|z|^2=\prod_{k=1}^n|1+ki|^2=\prod_{k=1}^n(1+k^2)$. Multiply: $2\cdot5=10$, $\cdot10=100$, $\cdot17=1700$, $\cdot26=44200$. So $n=5$.
 
-### M-CMP-05 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+### M-CMP-05 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
 
 Let $S=\{z\in\mathbb C:4z^2+\bar z=0\}$. Then $\sum_{z\in S}|z|^2$ is equal to:
 
@@ -68,7 +68,7 @@ If $z=\dfrac{\sqrt3}2+\dfrac i2$, $i=\sqrt{-1}$, then $(z^{201}-i)^8$ is equal t
 
 **Solution.** $z=e^{i\pi/6}$, so $z^{201}=e^{i\,201\pi/6}=e^{i(33.5\pi)}=e^{i(32\pi+3\pi/2)}=-i$. Then $z^{201}-i=-2i$ and $(-2i)^8=2^8\,i^8=256$.
 
-### M-CMP-08 · C — JEE Main 2024 · 27 Jan Shift 1 · Q61 · MCQ
+### M-CMP-08 · B — JEE Main 2024 · 27 Jan Shift 1 · Q61 · MCQ
 
 If $S=\{z\in\mathbb C:\ |z-i|=|z+i|=|z-1|\}$, then $n(S)$ is
 
@@ -78,7 +78,7 @@ If $S=\{z\in\mathbb C:\ |z-i|=|z+i|=|z-1|\}$, then $n(S)$ is
 
 **Solution.** $|z-i|=|z+i|$ puts $z$ on the real axis. Then $|z-i|=|z-1|$ gives $x^2+1=(x-1)^2\Rightarrow x=0$, so $z=0$. Check: $|0-i|=|0+i|=|0-1|=1$. Exactly one point (the circumcentre of $i,-i,1$), so $n(S)=1$.
 
-### M-CMP-09 · C — JEE Main 2024 · 27 Jan Shift 2 · Q81 · Numerical
+### M-CMP-09 · B — JEE Main 2024 · 27 Jan Shift 2 · Q81 · Numerical
 
 The complex numbers $\alpha$ and $\dfrac1{\bar\alpha}$ lie on the circles $|z-z_0|^2=4$ and $|z-z_0|^2=16$ respectively, where $z_0=1+i$. Then $100|\alpha|^2$ is equal to ______.
 

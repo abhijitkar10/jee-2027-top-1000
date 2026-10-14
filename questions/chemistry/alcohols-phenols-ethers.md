@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/chemistry/alcohols-phenols-ethers.md](../../theory/chemistry/alcohols-phenols-ethers.md)
 
-### C-ALC-01 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
+### C-ALC-01 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q1 · MCQ
 
 The correct sequence of reagents for the above conversion of X to Y is:
 
@@ -14,7 +14,7 @@ The correct sequence of reagents for the above conversion of X to Y is:
 
 **Solution.** X is $\mathrm{PhCH(Br)CH_3}$ and Y is $\mathrm{PhCH_2COOH}$ – the carboxyl carbon must come from the *terminal* carbon. (i) NaOEt (bulky base, E2) gives styrene $\mathrm{PhCH{=}CH_2}$; (ii) hydroboration–oxidation (anti-Markovnikov) gives $\mathrm{PhCH_2CH_2OH}$; (iii) Jones reagent oxidises the primary alcohol to $\mathrm{PhCH_2COOH}$. Answer (4).
 
-### C-ALC-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### C-ALC-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 Match List-I with List-II.
 
@@ -31,7 +31,7 @@ Match List-I with List-II.
 
 **Solution.** Baeyer's reagent (cold alkaline $\mathrm{KMnO_4}$, pink/purple) is decolourised by a $\mathrm{C{=}C}$ (A–IV). Ceric ammonium nitrate (yellow) turns red with alcohols (B–I). Tollens' reagent gives a silver mirror with aldehydes (C–II). Phenols give a violet colour with neutral $\mathrm{FeCl_3}$ (D–III).
 
-### C-ALC-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+### C-ALC-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
 
 The reactions which produce an alcohol as the product are:
 
@@ -47,7 +47,7 @@ E. $\mathrm{CH_3{-}CH{=}CH{-}CH_3\xrightarrow{KMnO_4/H^+}}$
 
 **Solution.** A gives HCHO (methanal), B gives $\mathrm{CH_3COOH}$, E gives $2\,\mathrm{CH_3COOH}$ (oxidative cleavage). C: $\mathrm{KMnO_4}$ oxidises the tertiary C–H of isobutane to give $(\mathrm{CH_3})_3\mathrm{COH}$ (alcohol). D: $\mathrm{Cu/523\ K/100\ atm}$ oxidises methane to $\mathrm{CH_3OH}$. So C and D.
 
-### C-ALC-04 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+### C-ALC-04 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
 
 From the following, how many compounds contain at least one secondary alcohol?
 
@@ -59,7 +59,7 @@ From the following, how many compounds contain at least one secondary alcohol?
 
 **Solution.** A secondary alcohol has the OH on a carbon bonded to two other carbons (and one H). (I) has only primary –CH₂OH groups (its other OH is part of the carbamic acid). (II) butane-1,2-diol has a secondary OH. (III) has two tertiary OH. (IV) the furanose has secondary OH groups (ring and side chain). (V) has a secondary OH (C2) and a tertiary one (C3). (VI) has two tertiary OH and one primary. So II, IV and V: three.
 
-### C-ALC-05 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
+### C-ALC-05 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q5 · MCQ
 
 The unsaturated ether on acidic hydrolysis produces carbonyl compounds as shown: $\mathrm{CH_3{-}CH{=}CH{-}O{-}CH{=}CH_2\xrightarrow{H_3O^+}CH_3CH_2CH{=}O+O{=}CH{-}CH_3}$. Based on this, predict the solution/reagent that will help to distinguish P and Q obtained in the following reaction:
 
@@ -71,7 +71,7 @@ The unsaturated ether on acidic hydrolysis produces carbonyl compounds as shown:
 
 **Solution.** Hydrolysis of the enol ether splits it into two enols, each of which tautomerises to a carbonyl compound: $\mathrm{CH_3CH{=}CH{-}OH\to CH_3CH_2CHO}$ (propanal) and $\mathrm{CH_2{=}C(CH_3){-}OH\to CH_3COCH_3}$ (acetone). Aldehyde vs ketone: Fehling's solution is reduced (red $\mathrm{Cu_2O}$) by propanal but not by acetone. 2,4-DNP and $\mathrm{NaHSO_3}$ react with both; Lucas reagent is for alcohols.
 
-### C-ALC-06 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
+### C-ALC-06 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q6 · MCQ
 
 3,3-Dimethyl-2-butanol cannot be prepared by:
 
@@ -83,7 +83,7 @@ The unsaturated ether on acidic hydrolysis produces carbonyl compounds as shown:
 
 **Solution.** The target is $(\mathrm{CH_3})_3\mathrm{C{-}CH(OH)CH_3}$. A: $t$-BuCHO + MeMgBr gives it. C: ozonolysis of the alkene gives two molecules of $t$-BuCOCH$_3$, and $\mathrm{NaBH_4}$ reduces it to the target. D: $\mathrm{LiAlH_4}$ reduction of $t$-BuCOCH$_3$ gives it. B cannot: it has an extra carbon (ethyl) and acid-catalysed hydration would in any case rearrange. E cannot: Markovnikov hydration of the alkyne gives the *ketone* $t$-BuCOCH$_3$, not the alcohol. So B and E.
 
-### C-ALC-07 · B — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
+### C-ALC-07 · A — JEE Main 2026 · 22 Jan Shift 1 · set Q7 · MCQ
 
 Given below are two statements:
 
@@ -96,7 +96,7 @@ Statement II: The mixture of $p$-hydroxybenzaldehyde and $o$-hydroxybenzaldehyde
 
 **Solution.** This is the Reimer–Tiemann reaction, in which the *ortho* product (salicylaldehyde) is the major product and *para* the minor, so I is false. $o$-Hydroxybenzaldehyde has intramolecular H-bonding and is steam-volatile, while the $p$-isomer has intermolecular H-bonding and is not, so they are separated by steam distillation – II true.
 
-### C-ALC-08 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
+### C-ALC-08 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q9 · MCQ
 
 Consider the following reaction sequence. Compound (y) develops a characteristic colour with neutral $\mathrm{FeCl_3}$ solution. Identify the INCORRECT statement for the above sequence.
 
@@ -130,7 +130,7 @@ Consider the following two reactions A and B. The numerical value of [molar mass
 
 **Solution.** A: $\mathrm{C_6H_5OH+Na\to C_6H_5ONa+\tfrac12H_2}$, so gas x is $\mathrm{H_2}$ ($M=2$). B: $\mathrm{C_6H_5COOH+NaHCO_3\to C_6H_5COONa+H_2O+CO_2}$, so gas y is $\mathrm{CO_2}$ ($M=44$). Sum $=2+44=46$.
 
-### C-ALC-11 · C — JEE Main 2024 · 27 Jan Shift 1 · Q49 · MCQ
+### C-ALC-11 · B — JEE Main 2024 · 27 Jan Shift 1 · Q49 · MCQ
 
 Statement I: $p$-nitrophenol is more acidic than $m$-nitrophenol and $o$-nitrophenol.  
 Statement II: Ethanol will give immediate turbidity with Lucas reagent.
@@ -141,7 +141,7 @@ Statement II: Ethanol will give immediate turbidity with Lucas reagent.
 
 **Solution.** $\text{p}K_a$: $p$-nitrophenol $7.15$, $o$- $7.23$, $m$- $8.36$; the $p$-isomer is the most acidic (full $-R$ and $-I$ effect, no intramolecular H-bond). Ethanol is primary, so Lucas reagent gives no turbidity at room temperature. I is true, II is false.
 
-### C-ALC-12 · C — JEE Main 2024 · 29 Jan Shift 1 · Q48 · MCQ
+### C-ALC-12 · B — JEE Main 2024 · 29 Jan Shift 1 · Q48 · MCQ
 
 Assertion A: Aryl halides cannot be prepared by replacement of the hydroxyl group of phenol by a halogen atom.  
 Reason R: Phenols react with halogen acids violently.
@@ -152,7 +152,7 @@ Reason R: Phenols react with halogen acids violently.
 
 **Solution.** The C–O bond in phenol has partial double-bond character (the oxygen lone pair is delocalised into the ring), so it is hard to cleave and $\text{OH}$ cannot be replaced by $\text{X}$ using $\text{HX}$: A is true. Phenols do not react violently with halogen acids, so R is false.
 
-### C-ALC-13 · C — JEE Main 2024 · 29 Jan Shift 2 · Q36 · MCQ
+### C-ALC-13 · B — JEE Main 2024 · 29 Jan Shift 2 · Q36 · MCQ
 
 Match List I with List II.
 
@@ -169,7 +169,7 @@ Match List I with List II.
 
 **Solution.** Alcohols are far less acidic than phenols: ethanol $15.9$. Phenol $10.0$. Nitro groups increase acidity, most strongly at the para position ($-M$ and $-I$): $p$-nitrophenol $7.1$, and less at the meta position (only $-I$): $m$-nitrophenol $8.3$. So A-II, B-I, C-IV, D-III.
 
-### C-ALC-14 · C — JEE Main 2024 · 31 Jan Shift 1 · Q47 · MCQ
+### C-ALC-14 · B — JEE Main 2024 · 31 Jan Shift 1 · Q47 · MCQ
 
 Assertion A: The $\text{p}K_a$ value of phenol is $10.0$ while that of ethanol is $15.9$.  
 Reason R: Ethanol is a stronger acid than phenol.
@@ -180,7 +180,7 @@ Reason R: Ethanol is a stronger acid than phenol.
 
 **Solution.** The quoted $\text{p}K_a$ values are correct. A lower $\text{p}K_a$ means a stronger acid, so phenol (resonance-stabilised phenoxide) is the stronger acid and R is false.
 
-### C-ALC-15 · C — JEE Main 2024 · 1 Feb Shift 2 · Q38 · MCQ
+### C-ALC-15 · B — JEE Main 2024 · 1 Feb Shift 2 · Q38 · MCQ
 
 Which has the highest boiling point?
 

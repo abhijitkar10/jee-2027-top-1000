@@ -108,7 +108,7 @@ Let the angle $\theta$, $0<\theta<\tfrac\pi2$, between two unit vectors $\hat a$
 
 **Solution.** $\cos\theta=\sqrt{1-\tfrac{65}{81}}=\tfrac49$. $\vec c\cdot\hat a=3+6\cos\theta$ and $\vec c\cdot\hat b=3\cos\theta+6$ (the cross product is perpendicular to both). $9(3+6\cos\theta)-3(3\cos\theta+6)=9+45\cos\theta=9+20=29$.
 
-### M-VEC-12 · B — JEE Main 2024 · 27 Jan Shift 1 · Q78 · MCQ
+### M-VEC-12 · C — JEE Main 2024 · 27 Jan Shift 1 · Q78 · MCQ
 
 Let $\vec a=\hat i+2\hat j+\hat k$, $\vec b=3(\hat i-\hat j+\hat k)$, and let $\vec c$ be a vector with $\vec a\times\vec c=\vec b$ and $\vec a\cdot\vec c=3$. Then $\vec a\cdot\big((\vec c\times\vec b)-\vec b-\vec c\big)$ is equal to
 
@@ -118,7 +118,7 @@ Let $\vec a=\hat i+2\hat j+\hat k$, $\vec b=3(\hat i-\hat j+\hat k)$, and let $\
 
 **Solution.** $\vec a\cdot(\vec c\times\vec b)=(\vec a\times\vec c)\cdot\vec b=\vec b\cdot\vec b=9\cdot3=27$. Also $\vec a\cdot\vec b=3(1-2+1)=0$ and $\vec a\cdot\vec c=3$. So the value is $27-0-3=24$.
 
-### M-VEC-13 · B — JEE Main 2024 · 27 Jan Shift 2 · Q77 · MCQ
+### M-VEC-13 · C — JEE Main 2024 · 27 Jan Shift 2 · Q77 · MCQ
 
 The position vectors of the vertices $A,B,C$ of a triangle are $2\hat i-3\hat j+3\hat k$, $2\hat i+2\hat j+3\hat k$ and $-\hat i+\hat j+3\hat k$. Let $l$ be the length of the angle bisector $AD$ of $\angle BAC$, where $D$ lies on $BC$. Then $2l^2$ equals
 
@@ -128,7 +128,7 @@ The position vectors of the vertices $A,B,C$ of a triangle are $2\hat i-3\hat j+
 
 **Solution.** $AB=\sqrt{0+25+0}=5$ and $AC=\sqrt{9+16+0}=5$, so the triangle is isosceles and the bisector from $A$ meets $BC$ at its midpoint $D=\left(\tfrac12,\tfrac32,3\right)$. $AD^2=\left(\tfrac32\right)^2+\left(\tfrac92\right)^2=\tfrac{9+81}4=22.5$, so $2l^2=45$.
 
-### M-VEC-14 · B — JEE Main 2024 · 29 Jan Shift 1 · Q77 · MCQ
+### M-VEC-14 · C — JEE Main 2024 · 29 Jan Shift 1 · Q77 · MCQ
 
 Let $\vec a,\vec b,\vec c$ be three non-zero vectors such that $\vec b$ and $\vec c$ are non-collinear. If $\vec a+5\vec b$ is collinear with $\vec c$, $\vec b+6\vec c$ is collinear with $\vec a$, and $\vec a+\alpha\vec b+\beta\vec c=\vec0$, then $\alpha+\beta$ is equal to
 
@@ -138,7 +138,7 @@ Let $\vec a,\vec b,\vec c$ be three non-zero vectors such that $\vec b$ and $\ve
 
 **Solution.** Let $\vec a+5\vec b=\lambda\vec c$, so $\vec a=\lambda\vec c-5\vec b$. Also $\vec b+6\vec c=\mu\vec a=\mu\lambda\vec c-5\mu\vec b$. Comparing coefficients of the independent vectors $\vec b,\vec c$: $1=-5\mu\Rightarrow\mu=-\tfrac15$ and $6=\mu\lambda\Rightarrow\lambda=-30$. Then $\vec a=-30\vec c-5\vec b$, i.e. $\vec a+5\vec b+30\vec c=\vec0$, so $\alpha=5,\ \beta=30$ and $\alpha+\beta=35$.
 
-### M-VEC-15 · B — JEE Main 2024 · 30 Jan Shift 1 · Q77 · MCQ
+### M-VEC-15 · C — JEE Main 2024 · 30 Jan Shift 1 · Q77 · MCQ
 
 Let $A(2,3,5)$ and $C(-3,4,-2)$ be opposite vertices of a parallelogram $ABCD$. If the diagonal $\overrightarrow{BD}=\hat i+2\hat j+3\hat k$, then the area of the parallelogram is equal to
 

@@ -2,7 +2,7 @@
 
 > Theory: [../../theory/physics/dual-nature.md](../../theory/physics/dual-nature.md)
 
-### P-DUL-01 · B — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
+### P-DUL-01 · A — JEE Main 2026 · 21 Jan Shift 2 · set Q1 · Numerical
 
 A particle having electric charge $3\times10^{-19}$ C and mass $6\times10^{-27}$ kg is accelerated by applying an electric potential of $1.21$ V. The wavelength of the matter wave associated with the particle is $\alpha\times10^{-12}$ m. The value of $\alpha$ is ______. (Take Planck's constant $h=6.6\times10^{-34}$ J s)
 
@@ -10,7 +10,7 @@ A particle having electric charge $3\times10^{-19}$ C and mass $6\times10^{-27}$
 
 **Solution.** $qV=\tfrac12mv^2\Rightarrow v=\sqrt{\dfrac{2qV}{m}}=\sqrt{\dfrac{2\times3\times10^{-19}\times1.21}{6\times10^{-27}}}=1.1\times10^4$ m/s. $\lambda=\dfrac{h}{mv}=\dfrac{6.6\times10^{-34}}{6\times10^{-27}\times1.1\times10^4}=10^{-11}\ \text{m}=10\times10^{-12}$ m, so $\alpha=10$.
 
-### P-DUL-02 · B — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
+### P-DUL-02 · A — JEE Main 2026 · 23 Jan Shift 1 · set Q2 · MCQ
 
 The de Broglie wavelength of an oxygen molecule at $27^\circ$C is $x\times10^{-12}$ m. The value of $x$ is ______ (take $h=6.63\times10^{-34}$ J s, $k_B=1.38\times10^{-23}$ J/K, mass of an oxygen molecule $=5.31\times10^{-26}$ kg).
 
@@ -20,7 +20,7 @@ The de Broglie wavelength of an oxygen molecule at $27^\circ$C is $x\times10^{-1
 
 **Solution.** Using $v_{rms}=\sqrt{\dfrac{3kT}{m}}$: $\lambda=\dfrac{h}{mv}=\dfrac{h}{\sqrt{3mkT}}=\dfrac{6.63\times10^{-34}}{\sqrt{3\times5.31\times10^{-26}\times1.38\times10^{-23}\times300}}=\dfrac{6.63\times10^{-34}}{2.57\times10^{-23}}=25.8\times10^{-12}$ m, so $x\approx26$.
 
-### P-DUL-03 · B — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
+### P-DUL-03 · A — JEE Main 2026 · 28 Jan Shift 2 · set Q3 · MCQ
 
 The number of photons of equal energy emitted per second by a $6$ mW laser source operating at $663$ nm is ______. (Given $h=6.63\times10^{-34}$ J s and $c=3\times10^8$ m/s)
 
@@ -30,7 +30,7 @@ The number of photons of equal energy emitted per second by a $6$ mW laser sourc
 
 **Solution.** Photon energy $E=\dfrac{hc}{\lambda}=\dfrac{6.63\times10^{-34}\times3\times10^8}{663\times10^{-9}}=3\times10^{-19}$ J. Photons per second $=\dfrac{6\times10^{-3}}{3\times10^{-19}}=2\times10^{16}$.
 
-### P-DUL-04 · B — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
+### P-DUL-04 · A — JEE Main 2026 · 24 Jan Shift 2 · set Q4 · MCQ
 
 When light of a given wavelength falls on a metallic surface, the stopping potential for photoelectrons is $3.2$ V. If a second light of twice the wavelength is used, the stopping potential drops to $0.7$ V. The wavelength of the first light is ______ m. ($h=6.63\times10^{-34}$ J s, $e=1.6\times10^{-19}$ C, $c=3\times10^8$ m/s)
 
@@ -40,7 +40,7 @@ When light of a given wavelength falls on a metallic surface, the stopping poten
 
 **Solution.** $\dfrac{hc}{\lambda}=\phi+3.2e$ and $\dfrac{hc}{2\lambda}=\phi+0.7e$. Subtracting: $\dfrac{hc}{2\lambda}=2.5e\Rightarrow\lambda=\dfrac{hc}{5e}=\dfrac{6.63\times10^{-34}\times3\times10^8}{5\times1.6\times10^{-19}}\approx2.5\times10^{-7}$ m.
 
-### P-DUL-05 · B — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
+### P-DUL-05 · A — JEE Main 2026 · 22 Jan Shift 2 · set Q5 · MCQ
 
 Light is incident on a metallic plate having work function $110\times10^{-20}$ J. If the produced photoelectrons have zero kinetic energy, the angular frequency of the incident light is ______ rad/s. ($h=6.63\times10^{-34}$ J s)
 
@@ -50,7 +50,7 @@ Light is incident on a metallic plate having work function $110\times10^{-20}$ J
 
 **Solution.** Zero kinetic energy means $h\nu=W$: $\nu=\dfrac{110\times10^{-20}}{6.63\times10^{-34}}=1.66\times10^{15}$ Hz. $\omega=2\pi\nu=1.04\times10^{16}$ rad/s.
 
-### P-DUL-06 · B — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
+### P-DUL-06 · A — JEE Main 2026 · 21 Jan Shift 1 · set Q6 · MCQ
 
 A light wave described by $E=60\left[\sin(3\times10^{15})t+\sin(12\times10^{15})t\right]$ (in SI units) falls on a metal surface of work function $2.8$ eV. The maximum kinetic energy of the ejected photoelectron is (approximately) ______ eV. ($h=6.6\times10^{-34}$ J s and $e=1.6\times10^{-19}$ C)
 
@@ -60,7 +60,7 @@ A light wave described by $E=60\left[\sin(3\times10^{15})t+\sin(12\times10^{15})
 
 **Solution.** The wave contains two angular frequencies; the larger one, $\omega=12\times10^{15}$ rad/s, gives the maximum photon energy: $\hbar\omega=\dfrac{6.6\times10^{-34}\times12\times10^{15}}{2\pi}=1.26\times10^{-18}$ J $=7.9$ eV. $K_{max}=7.9-2.8=5.1$ eV.
 
-### P-DUL-07 · B — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · Numerical
+### P-DUL-07 · A — JEE Main 2026 · 28 Jan Shift 1 · set Q7 · Numerical
 
 The ratio of the de Broglie wavelength of a deuteron with kinetic energy $E$ to that of an alpha particle with kinetic energy $2E$ is $n:1$. The value of $n$ is ______. (Assume mass of proton $=$ mass of neutron)
 
@@ -68,7 +68,7 @@ The ratio of the de Broglie wavelength of a deuteron with kinetic energy $E$ to 
 
 **Solution.** $\lambda=\dfrac{h}{\sqrt{2mE_k}}$. Deuteron ($m=2m_p$, $E$): $\lambda_d=\dfrac{h}{\sqrt{4m_pE}}$. Alpha ($m=4m_p$, $2E$): $\lambda_\alpha=\dfrac{h}{\sqrt{16m_pE}}$. Ratio $\dfrac{\lambda_d}{\lambda_\alpha}=\sqrt{\dfrac{16}{4}}=2$, so $n=2$.
 
-### P-DUL-08 · B — JEE Main 2025 · Jan session · Dual set Q1 · MCQ
+### P-DUL-08 · A — JEE Main 2025 · Jan session · Dual set Q1 · MCQ
 
 A sub-atomic particle of mass $10^{-30}$ kg is moving with a velocity of $2.21\times10^6$ m/s. Under the matter-wave consideration, the particle will behave closely like ______. ($h=6.63\times10^{-34}$ J s)
 
@@ -78,7 +78,7 @@ A sub-atomic particle of mass $10^{-30}$ kg is moving with a velocity of $2.21\t
 
 **Solution.** $\lambda=\dfrac h{mv}=\dfrac{6.63\times10^{-34}}{10^{-30}\times2.21\times10^6}=3\times10^{-10}$ m $=3$ Å, which lies in the X-ray range.
 
-### P-DUL-09 · B — JEE Main 2025 · Jan session · Dual set Q2 · MCQ
+### P-DUL-09 · A — JEE Main 2025 · Jan session · Dual set Q2 · MCQ
 
 The energy $E$ and momentum $p$ of a moving body of mass $m$ are related by some equation. Given that $c$ is the speed of light, identify the correct equation.
 
@@ -168,17 +168,7 @@ The threshold frequency of a metal with work function $6.63$ eV is
 
 **Solution.** $\nu_0=\dfrac\phi h=\dfrac{6.63\times1.6\times10^{-19}}{6.63\times10^{-34}}=1.6\times10^{15}$ Hz.
 
-### P-DUL-18 · B — JEE Main 2024 · 6 Apr Shift 1 · Q16 · MCQ
-
-In a photoelectric experiment, light of photon energy $2.48$ eV irradiates a photosensitive material. The stopping potential is measured to be $0.5$ V. The work function of the material is:
-
-(1) 1.68 eV  (2) 2.48 eV  (3) 1.98 eV  (4) 0.5 eV
-
-**Answer: (3)** · key ✔
-
-**Solution.** $eV_0=h\nu-\phi\Rightarrow\phi=2.48-0.5=1.98$ eV.
-
-### P-DUL-19 · C — JEE Main 2024 · 29 Jan Shift 1 · Q18 · MCQ
+### P-DUL-18 · C — JEE Main 2024 · 29 Jan Shift 1 · Q18 · MCQ
 
 The de Broglie wavelength of an electron is the same as that of a photon. If the velocity of the electron is $25\%$ of the velocity of light, the ratio of the K.E. of the electron to the K.E. of the photon will be
 
@@ -188,7 +178,7 @@ The de Broglie wavelength of an electron is the same as that of a photon. If the
 
 **Solution.** Equal wavelengths mean equal momentum $p$. For the electron $K_e=\tfrac12pv$ (non-relativistic), and for the photon $E=pc$. So $\dfrac{K_e}{E}=\dfrac{v}{2c}=\dfrac{0.25}{2}=\dfrac18$.
 
-### P-DUL-20 · C — JEE Main 2024 · 29 Jan Shift 2 · Q18 · MCQ
+### P-DUL-19 · C — JEE Main 2024 · 29 Jan Shift 2 · Q18 · MCQ
 
 Two sources of light each emit with a power of $200$ W. The ratio of the number of photons of visible light emitted per second by the sources having wavelengths $300$ nm and $500$ nm respectively will be
 
@@ -198,7 +188,7 @@ Two sources of light each emit with a power of $200$ W. The ratio of the number 
 
 **Solution.** Number of photons per second $n=\dfrac{P}{hc/\lambda}\propto\lambda$ at equal power. So $n_1:n_2=300:500=3:5$.
 
-### P-DUL-21 · C — JEE Main 2024 · 30 Jan Shift 1 · Q18 · MCQ
+### P-DUL-20 · C — JEE Main 2024 · 30 Jan Shift 1 · Q18 · MCQ
 
 The work function of a substance is $3.0$ eV. The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately
 
@@ -208,7 +198,7 @@ The work function of a substance is $3.0$ eV. The longest wavelength of light th
 
 **Solution.** $\lambda_{\max}=\dfrac{hc}{\phi}=\dfrac{1240\ \text{eV nm}}{3.0\ \text{eV}}\approx413\text{–}414$ nm.
 
-### P-DUL-22 · C — JEE Main 2024 · 31 Jan Shift 1 · Q18 · MCQ
+### P-DUL-21 · C — JEE Main 2024 · 31 Jan Shift 1 · Q18 · MCQ
 
 When a metal surface is illuminated by light of wavelength $\lambda$, the stopping potential is $8$ V. When the same surface is illuminated by light of wavelength $3\lambda$, the stopping potential is $2$ V. The threshold wavelength for this surface is
 
@@ -217,4 +207,14 @@ When a metal surface is illuminated by light of wavelength $\lambda$, the stoppi
 **Answer: (3)** · key ✔
 
 **Solution.** Let $E=\dfrac{hc}{\lambda}$ (in eV). $8=E-\phi$ and $2=\dfrac E3-\phi$. Subtracting: $6=\dfrac{2E}3\Rightarrow E=9$ eV, so $\phi=1$ eV. $\lambda_0=\dfrac{hc}\phi=9\,\dfrac{hc}{E}=9\lambda$.
+
+### P-DUL-22 · C — JEE Main 2024 · 6 Apr Shift 1 · Q16 · MCQ
+
+In a photoelectric experiment, light of photon energy $2.48$ eV irradiates a photosensitive material. The stopping potential is measured to be $0.5$ V. The work function of the material is:
+
+(1) 1.68 eV  (2) 2.48 eV  (3) 1.98 eV  (4) 0.5 eV
+
+**Answer: (3)** · key ✔
+
+**Solution.** $eV_0=h\nu-\phi\Rightarrow\phi=2.48-0.5=1.98$ eV.
 
