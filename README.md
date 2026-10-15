@@ -10,7 +10,7 @@
 | Chemistry (30 chapters) | 600 | [`questions/chemistry/`](questions/chemistry) · [`theory/chemistry/`](theory/chemistry) |
 | Maths (22 chapters) | 300 | [`questions/maths/`](questions/maths) · [`theory/maths/`](theory/maths) |
 
-**Start here:** [`PLAN.md`](PLAN.md) is a dated plan for 12 Oct – 31 Dec 2026, and [`tracker.html`](tracker.html) is the progress tracker that goes with it (see below).
+**Start here:** [`HOW_TO_USE.md`](HOW_TO_USE.md) explains the routine step by step. Then [`PLAN.md`](PLAN.md) is a dated plan for 12 Oct – 31 Dec 2026, and [`tracker.html`](tracker.html) is the progress tracker that goes with it (see below).
 
 ## What is in the set
 
@@ -62,7 +62,7 @@
 questions/{physics,chemistry,maths}/<chapter>.md   # 78 chapter files
 theory/{physics,chemistry,maths}/<chapter>.md      # 78 chapter notes
 figures/<set>/qN-K.png                              # figures used by the questions
-PLAN.md  tracker.html  weightage.md  SOURCES.md  PROGRESS.md
+HOW_TO_USE.md  PLAN.md  tracker.html  weightage.md  SOURCES.md  PROGRESS.md
 scripts/   chapters.py (registry + quotas)  build.py (validate/renumber)  select.py (quota + tiers)
            plan.py (PLAN.md)  tracker.py (tracker.html)  docs.py (weightage.md)  ingest.py
 tracker/   template.html, plan.json (generated)
